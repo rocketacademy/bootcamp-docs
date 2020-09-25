@@ -1,4 +1,4 @@
-# Starter Code V2
+# New Starter Code
 
 Given that we have a little background on how the DOM works we can refactor the starter code so that it's mechanics are all inside the `script.js`.
 
@@ -45,7 +45,7 @@ button.addEventListener('click', buttonClicked);
 
 The most significant change we'll make is to explicity extract the functionality that affects the grey box.
 
-```
+```text
 // all the actions to put things in the grey box
 var displayInGreyBox = function(contents){
 
@@ -61,6 +61,7 @@ Whenever we call this function it directly affects what we see on screen.
 
 Open the Dev Tools console and call this function directly:
 
-```
+```text
 displayInGreyBox('Bannans Are Awesome!');
 ```
+

@@ -4,7 +4,7 @@ We are going to shift gears to run JavaScript in a new environment.
 
 Nodejs is a JavaScript runtime environment that runs directly on your computer and can interact diectly with your computer.
 
-For the purposes of this course there are two important parts of the computer we want our programs to interact with. 1. The hard drive of the computer. 2. The networking hardware (that is connected to the internet).
+For the purposes of this course there are two important parts of the computer we want our programs to interact with. 1. The hard drive of the computer. 2. The networking hardware \(that is connected to the internet\).
 
 Before we integrate these other aspects of the computer, first we are going to prove that we can run a whole complete JavaScript program directly on our computer.
 
@@ -30,7 +30,8 @@ touch index.js
 ```
 
 Inside of index.js:
-```
+
+```text
 console.log('hello');
 ```
 
@@ -56,7 +57,7 @@ When we run our Nodejs programs they will also have their own process.
 
 We can prove that this is true by typing `node` into the command line again. We will be able to see this program running on the computer.
 
-Open the Task Manager (Windows) or Activity Monitor (Mac).
+Open the Task Manager \(Windows\) or Activity Monitor \(Mac\).
 
 Look for or search for `node` and highlight the process. Type `ctrl ^ c` in the command line. The process in the Task Manager / Activity Monitor wil disappear.
 
@@ -66,7 +67,7 @@ Normally your JavaScript runs so fast that the won't see the process begin and e
 
 We can fix this by having the program run an artifically long time.
 
-```
+```text
 var counter = 0;
 while(true){
   counter = counter + 1;
@@ -75,7 +76,7 @@ while(true){
 
 Now when we run this program from the command line it will continue to run forever untile we kill it.
 
-```
+```text
 node index.js
 ```
 
@@ -83,7 +84,7 @@ Look for this process in your Activity Monitor. It should be taking up 100% of o
 
 ### Process Variable
 
-In the DOM - on the other context of running JavaScript we saw before, the variables that *represented* our running environment (a browser window/tab) were the two variables `window` and `document`.
+In the DOM - on the other context of running JavaScript we saw before, the variables that _represented_ our running environment \(a browser window/tab\) were the two variables `window` and `document`.
 
 To refresh on this concept, open any page in your Chrome browser and open the Dev Tools. Type `document` and `window` in the console.
 
@@ -91,12 +92,13 @@ For `window` click the triangle to see the keys inside this object. What are two
 
 In Nodejs we also have one variable that represents the enviroment our code is running in: `process`.
 
-```
+```text
 console.log( process );
 ```
 
-```
+```text
 node index.js
 ```
 
 Find some relevant keys in the `process` object.
+
