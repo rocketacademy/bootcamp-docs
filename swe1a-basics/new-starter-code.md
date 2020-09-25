@@ -41,4 +41,26 @@ var button = document.querySelector('#my-button');
 button.addEventListener('click', buttonClicked);
 ```
 
+## `DisplayInGreyBox`
 
+The most significant change we'll make is to explicity extract the functionality that affects the grey box.
+
+```
+// all the actions to put things in the grey box
+var displayInGreyBox = function(contents){
+
+  // get a hold of the grey box
+  var output = document.querySelector('#output');
+
+  // set the values in the grey box
+  output.innerHTML = contents;
+};
+```
+
+Whenever we call this function it directly affects what we see on screen.
+
+Open the Dev Tools console and call this function directly:
+
+```
+displayInGreyBox('Bannans Are Awesome!');
+```
