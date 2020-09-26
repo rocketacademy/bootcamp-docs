@@ -8,5 +8,7 @@ It is the interface through which our JavaScript logic can change what's on scre
 
 ### DOM Elements - Create things on sceen using JavaScript.
 
-## New Starter Code
+### Match Game
+
+Let's create a match game, where the deck is dealt onto the screen. We'll set the event callbacks as we create the cards.
 

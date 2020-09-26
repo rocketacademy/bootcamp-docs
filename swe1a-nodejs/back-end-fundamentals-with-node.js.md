@@ -14,11 +14,15 @@ Command line programs
 
 Command line programs that store data on the disk
 
+ES6 - let and const
+
 What is the Internet
 
 HTTP
 
 Basic File Servers
+
+ES6 - arrow functions
 
 Amazon EC2 - Run your code on the real internet
 

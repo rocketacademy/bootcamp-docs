@@ -6,13 +6,17 @@ In this unit we'll dive further into some ideas around how to construct a progra
 
 **Week 1:**
 
-Events
+DOM Review
 
-Callback Functions
+New Starter Code
 
-Function Scope
+setTimeout
+
+setInterval
+
+Advanced Patterns With Function Scope
 
 **Week 2:**
 
-Match Game Project
+Gin Rummy Card Game
 
