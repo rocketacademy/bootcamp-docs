@@ -59,9 +59,15 @@ var displayInGreyBox = function(contents){
 
 Whenever we call this function it directly affects what we see on screen.
 
-Open the Dev Tools console and call this function directly:
+{% hint style="info" %}
+1\) Duplicate the code above and run it. 
 
-```text
+2\) Open the Dev Tools console and call this function directly:
+
+```javascript
 displayInGreyBox('Bannans Are Awesome!');
 ```
+{% endhint %}
+
+
 

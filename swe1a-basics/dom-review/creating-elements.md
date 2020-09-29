@@ -22,6 +22,16 @@ After we've created this element we need to tell the DOM to put it into the page
 document.body.appendChild( coolParagraph );
 ```
 
+{% hint style="warning" %}
+When working with DOM elements in JavaScript, it's important to remember 3 things:
+
+1\) Elements are not visible unless they are appended into an element that is on the page. \(This can be any element on the page\).
+
+2\) Elements are empty unless you append something into them or set their contents
+
+3\) You can check your work by looking in the elements tab of the chrome dev tools and inspecting the elements your JavaScript put on screen.
+{% endhint %}
+
 
 
 {% hint style="info" %}
@@ -52,7 +62,7 @@ Copy this css into your `index.html`
 }
 ```
 
-Create this set of HTML elements on the page, using JavaScript:
+Create this set of HTML elements on the page, using JavaScript. The set of element, if we wrote them out in an HTML file would look like this:
 
 
 
@@ -77,7 +87,7 @@ It should look something like this:
 
 ### Element Creation in a Loop
 
-Write a loop so that you create 6 of these elements.
+Write a loop so that you create 6 of these grey box elements. In the first pink box should be the number of the element \(first element, second, etc.\).
 
 ### Element Contents From an Array
 

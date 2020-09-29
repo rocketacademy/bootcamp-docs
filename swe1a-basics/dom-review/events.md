@@ -16,3 +16,57 @@ var myNewMain = function(event){
 wowParagraph.addEventListener('click', myNewMain);
 ```
 
+s
+
+{% hint style="info" %}
+\*\*\*\*
+
+**Start with this repo:** [**https://github.com/rocketacademy/swe101-next-steps-dom**](https://github.com/rocketacademy/swe101-next-steps-dom)\*\*\*\*
+
+Every time you finish a section of the exercise, make a commit and start over in the same repo.
+
+We'll be reusing some code from the previous DOM creation exercise.
+
+![ss](../../.gitbook/assets/screen-shot-2020-09-29-at-6.52.58-pm.png)
+
+#### Click to Create
+
+Create a button in JavaScript and attach a listener callback function to it. When the user clicks the button, build the elements above.
+
+#### Other Events
+
+Instead of the click event, attach other events to the button:`dblclick`, `mouseenter`, `mouseleave.`
+
+Use this page to find out more about these events: [https://developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+#### Click to Create Button
+
+Begin with the same button. 
+
+When the user clicks the button, build the elements above.
+
+Inside the grey box create a button and attach a click event listener callback function.
+
+When the grey boxes' button gets clicked, create another yellow box set of elements \(a yellow box with 2 pink boxes inside\).
+
+**Click and Input**
+
+Create a button in JavaScript and attach a listener callback function to it.
+
+When the user clicks the button, build the elements above, but also create an input and a button inside the grey box.
+
+When the user clicks the button in the grey box, the app creates another yellow square with a single pink square inside. Inside the pink square is the text the user typed in the input box.
+
+**Note:** For this exercise you will need to reference the input you created **\*for that specific\*** grey box.
+
+Define the function in the same scope that you create the input inside of and you will be able to access the input's value.
+
+**Click and Input Loop**
+
+Create a button in JavaScript and attach a listener callback function to it.
+
+When the user clicks the button, build the elements above, but also create an input and a button inside the grey box.
+
+The user will enter a number into the input. When the user clicks the button in the grey box, the app creates a yellow square with the number of pink squares that the user specified in the input. Inside each pink square is the number of the box. i.e. box 1,2,3 etc.
+{% endhint %}
+

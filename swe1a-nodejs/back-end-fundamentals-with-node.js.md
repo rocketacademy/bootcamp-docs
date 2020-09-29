@@ -12,6 +12,8 @@ What is Node.js
 
 Command line programs
 
+Command line programs that get data on the disk
+
 Command line programs that store data on the disk
 
 ES6 - let and const
@@ -33,4 +35,10 @@ Import / Modules
 NPM
 
 Express.js - An HTTP  web application library
+
+HTTP Get
+
+HTTP Post
+
+HTTP Put / Delete
 
