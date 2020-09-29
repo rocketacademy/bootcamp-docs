@@ -18,5 +18,6 @@
 ## SWE1A - NODEJS
 
 * [Back End Fundamentals with Node.js](swe1a-nodejs/back-end-fundamentals-with-node.js.md)
+* [My First Node Program](swe1a-nodejs/my-first-node.md)
 * [Command Line Programs](swe1a-nodejs/command-line-programs.md)
 
