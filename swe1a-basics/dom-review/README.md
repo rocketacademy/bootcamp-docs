@@ -4,7 +4,9 @@ The DOM is the set of variables that represents the elements in the screen of th
 
 It is the interface through which our JavaScript logic can change what's on screen and how the user's actions can affect our code \(specifically by executing functions\).
 
-{% embed url="https://youtu.be/AP8YcJ9MR64" %}
+![](../../.gitbook/assets/img_0018.png)
+
+{% embed url="https://youtu.be/AP8YcJ9MR64" caption="" %}
 
 ## Inputs and Outputs
 
@@ -43,12 +45,13 @@ When we want our JavaScript to take in any inputs or give any outputs we have to
 
 Besides `console.log` \(specifically `console`\), the other major variables that represent the DOM are `window` and `document`.
 
-DOM is also referred to as an API - an Application Programming Interface - the interface or representation of everything that happens in the browser screen. 
+DOM is also referred to as an API - an Application Programming Interface - the interface or representation of everything that happens in the browser screen.
 
-In this case interface refers to the fact that JavaScript does not literally know about everything that happens in the browser screen, \(e.g., when you bring up the Mac or Windows right click menus\), just the subset of things that Chrome allows us to interface with.  
-
+In this case interface refers to the fact that JavaScript does not literally know about everything that happens in the browser screen, \(e.g., when you bring up the Mac or Windows right click menus\), just the subset of things that Chrome allows us to interface with.
 
 {% hint style="info" %}
+#### Exercises
+
 Open the console and type in the variable names window and document to see the values in the console.
 
 Click the triangles to see inside them.
@@ -56,69 +59,7 @@ Click the triangles to see inside them.
 What is there?
 {% endhint %}
 
-### HTML Elements as JavaScript Variables
-
-{% embed url="https://youtu.be/9E2wbG8Y6OY" %}
-
-
-
-### Creating an Output
-
-We can use the DOM to create elements and put them on the page.
-
-```javascript
-var coolParagraph = document.createElement('p');
-
-coolParagraph.innerText = 'hey, cool!!!1!';
-```
-
-After we've created this element we need to tell the DOM to put it into the page.
-
-```javascript
-document.body.appendChild( coolParagraph );
-```
-
-### Defining an Input
-
-{% embed url="https://youtu.be/6fEp-k32Tv8" %}
-
-An input to our JavaScript program is called an **event**. All this means is that we can set the browser in such a way that when the user makes an action, the browser calls our function - and this is exactly how our `main` function works. Except that we aren't just limited to clicking on the submit button or getting the value the user typed from an input.
-
-The function for an event is referred to as a _**callback**_ function.
-
-```javascript
-var myNewMain = function(event){
-    console.log('hey wow my new function');
-};
-
-wowParagraph.addEventListener('click', myNewMain);
-```
-
-### Grabbing DOM Elements
-
-{% embed url="https://youtu.be/eLYFvfY1lKU" %}
-
-
-
-Using the DOM we can create a JavaScript representation of an element that's on the screen.
-
-Given this element:
-
-```markup
-<p id="wow">cool :)</p>
-```
-
-We can create a variable that "grabs" it from the DOM.
-
-```javascript
-var wowParagraph = document.querySelector('#wow');
-```
-
-### Grab Any Element
-
-To review how element selection works, see the simple examples on this page.
-
-Look up how to get a reference to any element: [https://www.w3schools.com/jsref/met\_document\_queryselector.asp](https://www.w3schools.com/jsref/met_document_queryselector.asp)
+### 
 
 ### Get Any Input
 
@@ -144,7 +85,7 @@ Add it to the page with `appendChild`: [https://www.w3schools.com/jsref/met\_nod
 
 The DOM manipulation code in the starter code is inside the `index.html`.
 
-Read through the comments to see what's actually happening. 
+Read through the comments to see what's actually happening.
 
 ```markup
 <p>
@@ -161,19 +102,19 @@ var button = document.querySelector('#starter-button');
 
 // call this function 
 var myButtonClicked = function () {
-  
+
   // get the current value that's been typed into the input
   var typedValue = input.value;
 
   // create a new h2
   var newHtwo = document.createElement('h2');
-  
+
   // set the text inside this new element  
   newHtwo.innerText = typedValue;
-  
+
   // make the h2 appear on screen
   document.body.appendChild( newHtwo );
-  
+
   // empty out the HTML input 
   input.value = '';
 };
@@ -181,6 +122,7 @@ var myButtonClicked = function () {
 // say which function to call *when* the user clicks the button
 button.addEventListener('click', myButtonClicked);
 ```
+
 ## Exercises
 
 {% hint style="info" %}
@@ -188,3 +130,4 @@ button.addEventListener('click', myButtonClicked);
 
 **1\) Implement the above code.**
 {% endhint %}
+
