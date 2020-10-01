@@ -12,12 +12,22 @@
   * [Grab an Element](swe1a-basics/dom-review/grab-an-element.md)
 * [New Starter Code](swe1a-basics/new-starter-code.md)
 * [Match Game](swe1a-basics/match-game.md)
+* [setTimeout](swe1a-basics/settimeout.md)
+* [setInterval](swe1a-basics/setinterval.md)
 * [Tic Tac Toe](swe1a-basics/tic-tac-toe.md)
 * [Project: Video Poker](swe1a-basics/project-video-poker.md)
 
 ## SWE1A - NODEJS
 
 * [Back End Fundamentals with Node.js](swe1a-nodejs/back-end-fundamentals-with-node.js.md)
+* [Introduction to Computers](swe1a-nodejs/introduction-to-computers.md)
 * [My First Node Program](swe1a-nodejs/my-first-node.md)
 * [Command Line Programs](swe1a-nodejs/command-line-programs.md)
+* [Disk Storage](swe1a-nodejs/disk-storage.md)
+* [What is the Internet](swe1a-nodejs/what-is-the-internet.md)
+
+## SWE1B - Backend / Full Stack
+
+* [SWE1B - Express Backend / Full Stack](swe1b-backend-full-stack/swe1b-express-backend-full-stack.md)
+* [Express App - SQL](swe1b-backend-full-stack/express-app-sql.md)
 

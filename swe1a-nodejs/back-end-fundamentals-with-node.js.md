@@ -18,6 +18,8 @@ Command line programs that store data on the disk
 
 ES6 - let and const
 
+ES6 - backtick format strings
+
 What is the Internet
 
 HTTP

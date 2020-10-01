@@ -18,6 +18,10 @@ Flex Box
 
 Responsive Pages
 
+{% embed url="https://www.youtube.com/watch?v=ZYV6dYtz4HA" %}
+
+
+
 {% embed url="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/" %}
 
 Web Design Basics
