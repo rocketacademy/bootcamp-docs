@@ -6,20 +6,20 @@
 
 * [📅 Course Schedule](course-logistics/course-schedules.md)
 
-## SWE1A - Basics
+## Section 1 - Front End Basics
 
-* [SWE1A - More JavaScript Basics](swe1a-basics/swe1a-more-javascript-basics.md)
-* [HTML & CSS](swe1a-basics/html-and-css.md)
-* [DOM Review](swe1a-basics/dom-review/README.md)
-  * [Creating Elements](swe1a-basics/dom-review/creating-elements.md)
-  * [Events](swe1a-basics/dom-review/events.md)
-  * [Grab an Element](swe1a-basics/dom-review/grab-an-element.md)
-* [New Starter Code](swe1a-basics/new-starter-code.md)
-* [Match Game](swe1a-basics/match-game.md)
-* [setTimeout](swe1a-basics/settimeout.md)
-* [setInterval](swe1a-basics/setinterval.md)
-* [Tic Tac Toe](swe1a-basics/tic-tac-toe.md)
-* [Project: Video Poker](swe1a-basics/project-video-poker.md)
+* [SWE1A - More JavaScript Basics](section-1-front-end-basics/swe1a-more-javascript-basics.md)
+* [HTML & CSS](section-1-front-end-basics/html-and-css.md)
+* [DOM Review](section-1-front-end-basics/dom-review/README.md)
+  * [Creating Elements](section-1-front-end-basics/dom-review/creating-elements.md)
+  * [Events](section-1-front-end-basics/dom-review/events.md)
+  * [Grab an Element](section-1-front-end-basics/dom-review/grab-an-element.md)
+* [New Starter Code](section-1-front-end-basics/new-starter-code.md)
+* [Match Game](section-1-front-end-basics/match-game.md)
+* [setTimeout](section-1-front-end-basics/settimeout.md)
+* [setInterval](section-1-front-end-basics/setinterval.md)
+* [Tic Tac Toe](section-1-front-end-basics/tic-tac-toe.md)
+* [Project: Video Poker](section-1-front-end-basics/project-video-poker.md)
 
 ## SWE1A - NODEJS
 

@@ -2,9 +2,11 @@
 
 **Schedule**
 
-**Week 1: Complete Backend App with PostgreSQL**
+**Week 5-6: Complete Backend App with PostgreSQL**
 
-Intro to SQL
+Intro to SQL Language
+
+PostgreSQL Infrastructure
 
 Express w/ SQL
 
@@ -14,21 +16,19 @@ DB Schema Design
 
 Many - to - Many
 
-SQL Left Joins
+SQL inner joins \(maybe outer join\)
 
 Cookies
 
-User Login
+User Login \(auth\)
 
-Password Hashing
+Password Hashing - Security
 
 EC2 Deployment
 
-**Week 2-3:**
+**Week 7-8:**
 
 Project: Backend Data
-
-Week 4: Fullstack - AJAX and DOM
 
 
 

@@ -24,9 +24,9 @@ setTimeout
 
 setInterval
 
-Advanced Patterns With Function Scope
+Tic Tac Toe
 
 **Week 2:**
 
-Gin Rummy Card Game
+Video Poker Card Game
 

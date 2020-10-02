@@ -6,7 +6,7 @@ Before we can begin to create those applications we need to gain an understandin
 
 **Schedule:**
 
-**Week 1:**
+**Week 3:**
 
 What is Node.js
 
@@ -30,7 +30,7 @@ ES6 - arrow functions
 
 Amazon EC2 - Run your code on the real internet
 
-**Week 2:**
+**Week 4:**
 
 Import / Modules
 
