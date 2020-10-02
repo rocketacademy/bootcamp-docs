@@ -39,9 +39,11 @@ Each day's deliverables are due by the **start** of that day's class. \(You prep
 
 ### Topics
 
-Vanilla HTML, CSS, JS
+Vanilla HTML, CSS
 
 ### Project
+
+Vanilla HTML, CSS app
 
 ## Week 2
 
@@ -51,11 +53,13 @@ Vanilla HTML, CSS, JS
 
 ### Project
 
+Vanilla HTML, CSS, JS app
+
 ## Week 3
 
 ### Topics
 
-Internet & Server \(sending and receiving requests\)
+Internet & Server
 
 1. Node.js, NPM
 2. Curl, Ngrok
@@ -64,17 +68,21 @@ Internet & Server \(sending and receiving requests\)
 
 ### Project
 
+Vanilla server app, deployment with AWS EC2
+
 ## Week 4
 
 ### Topics
 
-Internet & Server \(sending and receiving requests\)
+Internet & Server \(advanced\)
 
 1. Dynamic HTML page based on disk storage
 2. Routing
 3. Controllers
 
 ### Project
+
+Vanilla server app, write data to static file, deployment with AWS EC2
 
 ## Week 5
 
@@ -84,21 +92,26 @@ SQL, Authentication
 
 1. SQL
    1. Queries
-   2. Joins
-   3. Entity Relationship Diagram \(ERD\)
-   4. PostgreSQL
+   2. PostgreSQL
 2. Authentication
    1. Cookies
 
 ### Project
 
+Vanilla server app with DB and auth
+
 ## Week 6
 
 ### Topics
 
-Vanilla Full Stack Project
+Advanced SQL
+
+1. SQL Entity Relationship Diagram \(ERD\)
+2. Joins
 
 ### Project
+
+Vanilla server app with DB and auth
 
 ## Week 7
 
@@ -108,15 +121,17 @@ Vanilla Full Stack Project
 
 ### Project
 
+CRUD app, e.g. recipe marketplace, todo list
+
 ## Week 8
 
 ### Topics
 
-DOM Manipulation
-
-1. UI/UX Basics
+NA
 
 ### Project
+
+CRUD app, e.g. recipe marketplace, todo list
 
 ## Week 9
 
@@ -128,6 +143,13 @@ AJAX, Promises
 
 ### Project
 
+Add AJAX functionality to previous projects.
+
+1. Like button
+2. Carousel
+3. Tagging
+4. Autocomplete
+
 ## Week 10
 
 ### Topics
@@ -136,36 +158,43 @@ MVC
 
 1. File structure
 2. Modularity
-3. Refactoring
-4. Front-end
-5. REST APIs
-6. ORM
+3. Front-end
+4. REST APIs
+5. ORM
 
 ### Project
+
+Decompose Express app into maintainable components
 
 ## Week 11
 
 ### Topics
 
-Full Stack Web Application with ORM, DB, Heroku
+Testing \(unit, integration, end-to-end\)
 
 ### Project
+
+Full Stack Web Application with ORM, DB, Heroku
 
 ## Week 12
 
 ### Topics
 
-Full Stack Web Application with ORM, DB, Heroku
+NA
 
 ### Project
+
+Full Stack Web Application with ORM, DB, Heroku
 
 ## Week 13
 
 ### Topics
 
-React
+React, Webpack
 
 ### Project
+
+Todo app in React
 
 ### DS&A
 
@@ -177,15 +206,19 @@ React
 
 ### Project
 
+Full stack todo app with React
+
 ### DS&A
 
 ## Week 15
 
 ### Topics
 
-Full Stack Project with React
+
 
 ### Project
+
+Full Stack Project with React
 
 ### DS&A
 
@@ -193,9 +226,11 @@ Full Stack Project with React
 
 ### Topics
 
-Full Stack Project with React
+
 
 ### Project
+
+Full Stack Project with React
 
 ### DS&A
 
@@ -203,11 +238,11 @@ Full Stack Project with React
 
 ### Topics
 
-Group Project
-
 React Context
 
 ### Project
+
+Group Project
 
 ### DS&A
 
@@ -215,11 +250,11 @@ React Context
 
 ### Topics
 
-Group Project
-
 Create React App
 
 ### Project
+
+Group Project
 
 ### DS&A
 
@@ -227,11 +262,11 @@ Create React App
 
 ### Topics
 
-Group Project
-
-Sockets
+Sockets, JWT
 
 ### Project
+
+Group Project
 
 ### DS&A
 
@@ -239,11 +274,11 @@ Sockets
 
 ### Topics
 
-Group Project
-
 Apollo GraphQL?
 
 ### Project
+
+Group Project
 
 ### DS&A
 
@@ -251,11 +286,11 @@ Apollo GraphQL?
 
 ### Topics
 
-Final Project
-
 Cron jobs
 
 ### Project
+
+Final Project
 
 ### DS&A
 
@@ -263,11 +298,11 @@ Cron jobs
 
 ### Topics
 
-Final Project
-
 AI APIs, Other APIs \(Google Maps, Twilio\)
 
 ### Project
+
+Final Project
 
 ### DS&A
 
@@ -275,11 +310,11 @@ AI APIs, Other APIs \(Google Maps, Twilio\)
 
 ### Topics
 
-Final Project
-
 Computer Systems \(OS, Networking, Compilers\)
 
 ### Project
+
+Final Project
 
 ### DS&A
 
@@ -287,9 +322,9 @@ Computer Systems \(OS, Networking, Compilers\)
 
 ### Topics
 
-Final Project
-
 ### Project
+
+Final Project
 
 ### DS&A
 
