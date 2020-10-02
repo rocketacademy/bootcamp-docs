@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [🚀 Welcome to SWE1!](README.md)
+
+## Course Logistics
+
+* [📅 Course Schedules](course-logistics/course-schedules.md)
 
 ## SWE1A - Basics
 
