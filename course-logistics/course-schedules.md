@@ -198,6 +198,8 @@ Todo app in React
 
 ### DS&A
 
+Intro to DS&A, Big-O notation, simple algorithms
+
 ## Week 14
 
 ### Topics
@@ -209,6 +211,8 @@ React
 Full stack todo app with React
 
 ### DS&A
+
+Recursion, sorting algorithms
 
 ## Week 15
 
@@ -222,6 +226,8 @@ Full Stack Project with React
 
 ### DS&A
 
+Arrays
+
 ## Week 16
 
 ### Topics
@@ -233,6 +239,8 @@ Full Stack Project with React
 Full Stack Project with React
 
 ### DS&A
+
+Stacks
 
 ## Week 17
 
@@ -246,6 +254,8 @@ Group Project
 
 ### DS&A
 
+Queues
+
 ## Week 18
 
 ### Topics
@@ -257,6 +267,8 @@ Create React App
 Group Project
 
 ### DS&A
+
+Object-Oriented Programming
 
 ## Week 19
 
@@ -270,6 +282,8 @@ Group Project
 
 ### DS&A
 
+Linked List
+
 ## Week 20
 
 ### Topics
@@ -281,6 +295,8 @@ Apollo GraphQL?
 Group Project
 
 ### DS&A
+
+Tree
 
 ## Week 21
 
@@ -294,6 +310,8 @@ Final Project
 
 ### DS&A
 
+Hash tables
+
 ## Week 22
 
 ### Topics
@@ -305,6 +323,8 @@ AI APIs, Other APIs \(Google Maps, Twilio\)
 Final Project
 
 ### DS&A
+
+Heap
 
 ## Week 23
 
@@ -318,6 +338,8 @@ Final Project
 
 ### DS&A
 
+Complexity Analysis
+
 ## Week 24
 
 ### Topics
@@ -327,4 +349,6 @@ Final Project
 Final Project
 
 ### DS&A
+
+Common Question Patterns
 
