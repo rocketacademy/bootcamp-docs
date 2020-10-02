@@ -4,7 +4,6 @@
 
 ## Course Logistics
 
-* [🗺 Course Overview](course-logistics/course-overview.md)
 * [📅 Course Schedule](course-logistics/course-schedules.md)
 
 ## SWE1A - Basics
