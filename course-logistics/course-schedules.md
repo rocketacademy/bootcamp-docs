@@ -37,13 +37,23 @@ Each day's deliverables are due by the **start** of that day's class. \(You prep
 
 ## Week 1
 
+### Topics
+
 Vanilla HTML, CSS, JS
+
+### Project
 
 ## Week 2
 
+### Topics
+
 Vanilla HTML, CSS, JS
 
+### Project
+
 ## Week 3
+
+### Topics
 
 Internet & Server \(sending and receiving requests\)
 
@@ -52,7 +62,11 @@ Internet & Server \(sending and receiving requests\)
 3. Express.js
 4. AWS EC2
 
+### Project
+
 ## Week 4
+
+### Topics
 
 Internet & Server \(sending and receiving requests\)
 
@@ -60,7 +74,11 @@ Internet & Server \(sending and receiving requests\)
 2. Routing
 3. Controllers
 
+### Project
+
 ## Week 5
+
+### Topics
 
 SQL, Authentication
 
@@ -72,27 +90,47 @@ SQL, Authentication
 2. Authentication
    1. Cookies
 
+### Project
+
 ## Week 6
 
+### Topics
+
 Vanilla Full Stack Project
+
+### Project
 
 ## Week 7
 
+### Topics
+
 Vanilla Full Stack Project
 
+### Project
+
 ## Week 8
+
+### Topics
 
 DOM Manipulation
 
 1. UI/UX Basics
 
+### Project
+
 ## Week 9
+
+### Topics
 
 AJAX, Promises
 
 1. Promises, `async`/`await`
-2. 
+
+### Project
+
 ## Week 10
+
+### Topics
 
 MVC
 
@@ -103,97 +141,155 @@ MVC
 5. REST APIs
 6. ORM
 
+### Project
+
 ## Week 11
 
+### Topics
+
 Full Stack Web Application with ORM, DB, Heroku
+
+### Project
 
 ## Week 12
 
+### Topics
+
 Full Stack Web Application with ORM, DB, Heroku
+
+### Project
 
 ## Week 13
 
+### Topics
+
 React
+
+### Project
 
 ### DS&A
 
 ## Week 14
 
+### Topics
+
 React
+
+### Project
 
 ### DS&A
 
 ## Week 15
 
+### Topics
+
 Full Stack Project with React
+
+### Project
 
 ### DS&A
 
 ## Week 16
 
+### Topics
+
 Full Stack Project with React
+
+### Project
 
 ### DS&A
 
 ## Week 17
 
+### Topics
+
 Group Project
 
 React Context
+
+### Project
 
 ### DS&A
 
 ## Week 18
 
+### Topics
+
 Group Project
 
 Create React App
+
+### Project
 
 ### DS&A
 
 ## Week 19
 
+### Topics
+
 Group Project
 
 Sockets
+
+### Project
 
 ### DS&A
 
 ## Week 20
 
+### Topics
+
 Group Project
 
 Apollo GraphQL?
+
+### Project
 
 ### DS&A
 
 ## Week 21
 
+### Topics
+
 Final Project
 
 Cron jobs
+
+### Project
 
 ### DS&A
 
 ## Week 22
 
+### Topics
+
 Final Project
 
 AI APIs, Other APIs \(Google Maps, Twilio\)
+
+### Project
 
 ### DS&A
 
 ## Week 23
 
+### Topics
+
 Final Project
 
 Computer Systems \(OS, Networking, Compilers\)
+
+### Project
 
 ### DS&A
 
 ## Week 24
 
+### Topics
+
 Final Project
+
+### Project
 
 ### DS&A
 
