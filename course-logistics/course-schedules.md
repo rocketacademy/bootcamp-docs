@@ -300,7 +300,7 @@ Tree
 
 ### Topics
 
-Cron jobs
+AI APIs, Other APIs \(Google Maps, Twilio\)
 
 ### Project
 
@@ -314,7 +314,7 @@ Hash tables
 
 ### Topics
 
-AI APIs, Other APIs \(Google Maps, Twilio\)
+Cron jobs
 
 ### Project
 
