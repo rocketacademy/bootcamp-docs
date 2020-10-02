@@ -68,7 +68,7 @@ Internet & Server
 
 ### Project
 
-Vanilla server app, deployment with AWS EC2
+Server app, deployment with AWS EC2
 
 ## Week 4
 
@@ -82,7 +82,7 @@ Internet & Server \(advanced\)
 
 ### Project
 
-Vanilla server app, write data to static file, deployment with AWS EC2
+Server app, write data to static file, deployment with AWS EC2
 
 ## Week 5
 
@@ -98,7 +98,7 @@ SQL, Authentication
 
 ### Project
 
-Vanilla server app with DB and auth
+Server app with DB and auth
 
 ## Week 6
 
@@ -111,13 +111,13 @@ Advanced SQL
 
 ### Project
 
-Vanilla server app with DB and auth
+Server app with DB and auth, multiple related data tables
 
 ## Week 7
 
 ### Topics
 
-Vanilla Full Stack Project
+NA
 
 ### Project
 
@@ -154,17 +154,15 @@ Add AJAX functionality to previous projects.
 
 ### Topics
 
-MVC
-
-1. File structure
-2. Modularity
-3. Front-end
-4. REST APIs
-5. ORM
+1. MVC
+   1. File structure
+   2. Modularity
+2. REST APIs
+3. ORM
 
 ### Project
 
-Decompose Express app into maintainable components
+Express app with MVC structure, incorporate ORM
 
 ## Week 11
 
@@ -174,7 +172,7 @@ Testing \(unit, integration, end-to-end\)
 
 ### Project
 
-Full Stack Web Application with ORM, DB, Heroku
+Full stack web app with ORM, unit tests, deployment with Heroku
 
 ## Week 12
 
@@ -184,7 +182,7 @@ NA
 
 ### Project
 
-Full Stack Web Application with ORM, DB, Heroku
+Full stack web app with ORM, unit tests, deployment with Heroku
 
 ## Week 13
 
@@ -208,7 +206,7 @@ React
 
 ### Project
 
-Full stack todo app with React
+Full stack todo app with React, incorporating DB
 
 ### DS&A
 
@@ -218,7 +216,7 @@ Recursion, sorting algorithms
 
 ### Topics
 
-
+NA
 
 ### Project
 
@@ -232,7 +230,7 @@ Arrays
 
 ### Topics
 
-
+NA
 
 ### Project
 
@@ -246,7 +244,7 @@ Stacks
 
 ### Topics
 
-React Context
+Create React App
 
 ### Project
 
@@ -260,7 +258,7 @@ Queues
 
 ### Topics
 
-Create React App
+React Context
 
 ### Project
 
@@ -343,6 +341,8 @@ Complexity Analysis
 ## Week 24
 
 ### Topics
+
+NA
 
 ### Project
 
