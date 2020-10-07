@@ -4,6 +4,8 @@ Given that we have a little background on how the DOM works we can create a dice
 
 Start with the empty vanilla JS starter code repo: [https://github.com/rocketacademy/vanilla-js-starter-swe1](https://github.com/rocketacademy/vanilla-js-starter-swe1)
 
+![](../.gitbook/assets/project.png)
+
 #### Managing the DOM
 
 We'll use a few principals to help shape what code we end up with:
