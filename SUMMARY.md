@@ -15,6 +15,7 @@
   * [Events](section-1-front-end-basics/dom-review/events.md)
   * [Grab an Element](section-1-front-end-basics/dom-review/grab-an-element.md)
 * [New Dice Game](section-1-front-end-basics/new-starter-code.md)
+* [New High Card](section-1-front-end-basics/new-high-card.md)
 * [Match Game](section-1-front-end-basics/match-game.md)
 * [setTimeout](section-1-front-end-basics/settimeout.md)
 * [setInterval](section-1-front-end-basics/setinterval.md)

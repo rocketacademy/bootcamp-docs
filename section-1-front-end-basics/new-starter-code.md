@@ -18,7 +18,7 @@ If we want to control what a button does or the value of something on the screen
 
 3\) User behavior / events kick off data that gets displayed on screen. Data flows from the events of the browser out to the visible screen. Thinking about what's happening within the logic of the app this way will make it easier to create your logic.
 
-Create the Starting State
+#### Create the Starting State
 
 First we need JavaScript that creates the starting state of our game. This code runs when the page loads. 
 
@@ -37,7 +37,7 @@ var gameInfo = document.createElement('div');
 gameInfo.innerText = 'Its player 1 turn. Click the roll dice button!';
 ```
 
-Next we'll add in the click event callback functions.
+#### Add in the click event callback functions.
 
 We'll use a global value to keep track of the current player's turn. 
 
@@ -66,7 +66,8 @@ player2Button.addEventListener('click',function(){
 
   if( playersTurn == 2 ){
   
-    player2Roll = rollDice();
+    var player2Roll = rollDice();
+    playersTurn = 1;
     
     if( player1Roll > player2Roll ){
     
