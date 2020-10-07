@@ -39,8 +39,6 @@ When working with DOM elements in JavaScript, it's important to remember 3 thing
 
 Copy this css into your `index.html`
 
-\`\`
-
 ```css
 .word {
   background-color: pink;
@@ -63,8 +61,6 @@ Copy this css into your `index.html`
 ```
 
 Create this set of HTML elements on the page, using JavaScript. The set of element, if we wrote them out in an HTML file would look like this:
-
-
 
 ```markup
 <div class="container">
@@ -99,13 +95,9 @@ Use this array to create the words in pink boxes. In this case, only create one 
 
 ### Element Contents From an Array of Arrays
 
-
-
 ```javascript
 var words = [["orange","tomato"],["fire engine","basketball"]];
 ```
-
-
 
 Use this structured array to create a series of yellow boxes. \(The food should be in one yellow box, and the objects in another yellow box\).
 
@@ -113,4 +105,6 @@ Use this structured array to create a series of yellow boxes. \(The food should 
 
 Create a function for the creation of each kind of box. Pass the contents of the box as a parameter.
 {% endhint %}
+
+
 

@@ -1,73 +1,95 @@
-# New Starter Code
+# New Dice Game
 
-Given that we have a little background on how the DOM works we can refactor the starter code so that it's mechanics are all inside the `script.js`.
+Given that we have a little background on how the DOM works we can create a dice game that uses a simpler starter code. We'll create all the DOM parts of the game ourselves inside the `script.js`.
 
-```javascript
-// the main function
-var main = function(input){
-  return 'hello world';
-};
+Start with the empty vanilla JS starter code repo: [https://github.com/rocketacademy/vanilla-js-starter-swe1](https://github.com/rocketacademy/vanilla-js-starter-swe1)
 
-// all the actions to put things in the grey box
-var displayInGreyBox = function(contents){
+#### Managing the DOM
 
-  // get a hold of the grey box
-  var output = document.querySelector('#output');
+We'll use a few principals to help shape what code we end up with:
 
-  // set the values in the grey box
-  output.innerHTML = contents;
-};
+1\) Use global values to represent the state of our app/ store values. 
 
-// run when the user clicks the button
-var buttonClicked = function(){
+Some kinds of tutorials or apps will talk about information in the app being stored inside of elements in the DOM, but we will try as much as possible to keep the information and logic out of elements.
 
-  // get a hold of the input element
-  var input = document.querySelector('#my-input');
+2\) Use global values to control inputs and / or element values, instead of manipulating the DOM.
 
-  // call the main function
-  var result = main(input.value);
+If we want to control what a button does or the value of something on the screen, try to use the DOM as little as possible.
 
-  // display in the grey box
-  displayInGreyBox(result);
+3\) User behavior / events kick off data that gets displayed on screen. Data flows from the events of the browser out to the visible screen. Thinking about what's happening within the logic of the app this way will make it easier to create your logic.
 
-  // reset the input box to empty
-  input.value = "";
-};
+Create the Starting State
 
-// get a hold of the button
-var button = document.querySelector('#my-button');
-
-// what will happen when the button gets clicked
-button.addEventListener('click', buttonClicked);
-```
-
-## `DisplayInGreyBox`
-
-The most significant change we'll make is to explicity extract the functionality that affects the grey box.
-
-```text
-// all the actions to put things in the grey box
-var displayInGreyBox = function(contents){
-
-  // get a hold of the grey box
-  var output = document.querySelector('#output');
-
-  // set the values in the grey box
-  output.innerHTML = contents;
-};
-```
-
-Whenever we call this function it directly affects what we see on screen.
-
-{% hint style="info" %}
-1\) Duplicate the code above and run it. 
-
-2\) Open the Dev Tools console and call this function directly:
+First we need JavaScript that creates the starting state of our game. This code runs when the page loads. 
 
 ```javascript
-displayInGreyBox('Bannans Are Awesome!');
+// create two buttons
+var player1Button = document.createElement('button');
+player1Button.innerText = 'Player 1 Roll';
+
+var player2Button = document.createElement('button');
+player2Button.innerText = 'Player 2 Roll';
+
+
+// create game info div as global value
+// fill game info div with starting instructions
+var gameInfo = document.createElement('div');
+gameInfo.innerText = 'Its player 1 turn. Click the roll dice button!';
 ```
-{% endhint %}
+
+Next we'll add in the click event callback functions.
+
+We'll use a global value to keep track of the current player's turn. 
+
+```javascript
+var playersTurn = 1; // matches with starting instructions
+var player1Roll = null;
+
+var diceRoll = function () {
+  var randomDecimal = Math.random() * 6;
+
+  var randomInteger = Math.floor(randomDecimal);
+
+  var diceNumber = randomInteger + 1;
+
+  return diceNumber;
+};
+
+player1Button.addEventListener('click',function(){
+  if( playersTurn == 1 ){
+    player1Roll = rollDice();
+    playersTurn = 2;
+  }
+});
+
+player2Button.addEventListener('click',function(){
+
+  if( playersTurn == 2 ){
+  
+    player2Roll = rollDice();
+    
+    if( player1Roll > player2Roll ){
+    
+      output('player 1 wins');
+    }else if( player1Roll < player2Roll ){
+    
+      output('player 2 wins');
+    }else{
+    
+      output('tie');
+    }
+  }
+});
+
+// don't write the dom manipulation
+// code inline in the conditional
+// create a helper function for output
+var output = function(message){
+  gameInfo.innerText = message;
+};
+```
+
+
 
 
 

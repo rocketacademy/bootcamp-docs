@@ -14,7 +14,7 @@
   * [Creating Elements](section-1-front-end-basics/dom-review/creating-elements.md)
   * [Events](section-1-front-end-basics/dom-review/events.md)
   * [Grab an Element](section-1-front-end-basics/dom-review/grab-an-element.md)
-* [New Starter Code](section-1-front-end-basics/new-starter-code.md)
+* [New Dice Game](section-1-front-end-basics/new-starter-code.md)
 * [Match Game](section-1-front-end-basics/match-game.md)
 * [setTimeout](section-1-front-end-basics/settimeout.md)
 * [setInterval](section-1-front-end-basics/setinterval.md)
