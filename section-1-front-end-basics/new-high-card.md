@@ -1,6 +1,8 @@
 # New High Card
 
+![](../.gitbook/assets/swe1a_-_wireframes_-_basic_dice_g.png)
 
+The basic high card game is relatively similar to the original, non-DOM game.
 
 ```javascript
 // get a random index from an array given it's size
@@ -91,6 +93,18 @@ var deck = shuffleCards( makeDeck() );
 var playersTurn = 1; // matches with starting instructions
 var player1Card;
 
+// create two buttons
+var player1Button = document.createElement('button');
+player1Button.innerText = 'Player 1 Draw';
+
+var player2Button = document.createElement('button');
+player2Button.innerText = 'Player 2 Draw';
+
+// create game info div as global value
+// fill game info div with starting instructions
+var gameInfo = document.createElement('div');
+gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
+
 player1Button.addEventListener('click',function(){
   if( playersTurn == 1 ){
     player1Card = deck.pop();
@@ -124,5 +138,76 @@ player2Button.addEventListener('click',function(){
 var output = function(message){
   gameInfo.innerText = message;
 };
+```
+
+### High Card Output
+
+![](../.gitbook/assets/swe1a_-_wireframes_-_basic_high_c.png)
+
+DOM allows us to affect what we see on the screen in a more comprehensive way.
+
+When working with DOM \(HTML\) elements and visual output we'll also use a few principals to make our code easier to write:
+
+1\) Hard code the HTML first to figure out what structure you need, before coding the JavaScript for that element.
+
+2\) When applying CSS to an element we can control the styles with the element CSS class \(or set of classes\). Unless absolutely necessary, we'll avoid directly applying any CSS styles to a DOM element.
+
+3\) Try to write a helper function for every element that gets affected or put on screen. Think about this as passing a specific set of values out of your main logic. Don't mix your element structure and styles with your logic.
+
+This might be the HTML we want for a single card:
+
+```markup
+<div class="card">
+    <div class="name red">3</div>
+    <div class="suit">♥️</div>
+</div>
+```
+
+The CSS for these elements might look like this:
+
+```css
+.card{
+    margin:10px;
+    padding:10px;
+    background-color:grey;
+    width:50px;
+    text-align:center;
+    border-radius:8px;
+}
+.suit{
+    margin: 5px;
+    font-size:20px;
+}
+.name{
+    margin: 5px;
+    font-size:24px;
+    font-weight:bold;
+    font-family:sans-serif;
+}
+.red{
+    color:red;
+}
+```
+
+We should be able to test this code in the HTML file.
+
+![](../.gitbook/assets/screen-shot-2020-10-08-at-2.40.35-pm-2-.png)
+
+The JavaScript to build this element might look like this:
+
+```javascript
+var suit = document.createElement('div');
+suit.classList.add('suit');
+suit.innerText = '♥️';
+
+var name = document.createElement('div');
+name.classList.add('name','red');
+name.innerText = '3';
+
+var card = document.createElement('div');
+card.classList.add('card');
+
+card.appendChild(name);
+card.appendChild(suit);
 ```
 
