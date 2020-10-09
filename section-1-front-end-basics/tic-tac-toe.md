@@ -12,7 +12,6 @@ var board = [
 ];
 
 var boardElement;
-
 ```
 
 ### Game Init
@@ -52,6 +51,7 @@ var buildBoard = function(board){
 var squareClick = function(column, row){
     if( board[column][row] === '' ){
         board[column][row] = currentPlayer;
+        buildBoard();
         togglePlayer();
     }
 };

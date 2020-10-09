@@ -19,6 +19,7 @@
 * [setTimeout](section-1-front-end-basics/settimeout.md)
 * [Match Game](section-1-front-end-basics/match-game.md)
 * [setInterval](section-1-front-end-basics/setinterval.md)
+* [Timer](section-1-front-end-basics/timer.md)
 * [Tic Tac Toe](section-1-front-end-basics/tic-tac-toe.md)
 * [Project: Video Poker](section-1-front-end-basics/project-video-poker.md)
 
