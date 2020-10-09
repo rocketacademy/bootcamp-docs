@@ -1,5 +1,7 @@
 # New High Card
 
+## Basic High Card
+
 ![](../.gitbook/assets/swe1a_-_wireframes_-_basic_dice_g.png)
 
 The basic high card game is relatively similar to the original, non-DOM game.
@@ -96,14 +98,17 @@ var player1Card;
 // create two buttons
 var player1Button = document.createElement('button');
 player1Button.innerText = 'Player 1 Draw';
+document.body.appendChild( player1Button );
 
 var player2Button = document.createElement('button');
 player2Button.innerText = 'Player 2 Draw';
+document.body.appendChild( player2Button );
 
 // create game info div as global value
 // fill game info div with starting instructions
 var gameInfo = document.createElement('div');
 gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
+document.body.appendChild( gameInfo );
 
 player1Button.addEventListener('click',function(){
   if( playersTurn == 1 ){
@@ -140,7 +145,175 @@ var output = function(message){
 };
 ```
 
-### High Card Output
+## Refactor
+
+This is already a lot of code, so we'll arrange all the code so that it's easier to talk about:
+
+### Helper Functions
+
+```javascript
+// get a random index from an array given it's size
+var getRandomIndex = function (size) {
+  return Math.floor(Math.random() * size);
+};
+
+// cards is an array of card objects
+var shuffleCards = function (cards) {
+  var currentIndex = 0;
+
+  // loop over the entire cards array
+  while (currentIndex < cards.length) {
+    // select a random position from the deck
+    var randomIndex = getRandomIndex(cards.length);
+
+    // get the current card in the loop
+    var currentItem = cards[currentIndex];
+
+    // get the random card
+    var randomItem = cards[randomIndex];
+
+    // swap the current card and the random card
+    cards[currentIndex] = randomItem;
+    cards[randomIndex] = currentItem;
+
+    currentIndex = currentIndex + 1;
+  }
+
+  // give back the shuffled deck
+  return cards;
+};
+
+var makeDeck = function () {
+
+  // create the empty deck at the beginning 
+  var deck = [];
+
+  var suits = ['hearts', 'diamonds', 'clubs', 'spades'];
+
+  var suitIndex = 0;
+  while (suitIndex < suits.length) {
+
+    // make a variable of the current suit
+    var currentSuit = suits[suitIndex];
+    console.log("current suit : " + currentSuit)
+
+    // loop to create all cards in this suit
+    // rank 1-13
+    var rankCounter = 1;
+    while (rankCounter <= 13) {
+      var cardName = rankCounter;
+
+      // 1, 11, 12 ,13
+      if (cardName == 1) {
+        cardName = 'ace';
+      } else if (cardName == 11) {
+        cardName = 'jack';
+      } else if (cardName == 12) {
+        cardName = 'queen';
+      } else if (cardName == 13) {
+        cardName = 'king';
+      }
+
+      // make a single card object variable
+      var card = {
+        name: cardName,
+        suit: currentSuit,
+        rank: rankCounter
+      };
+
+      console.log("rank : " + rankCounter);
+
+      // add the card to the deck
+      deck.push(card);
+      
+      rankCounter = rankCounter + 1;
+    }
+    suitIndex = suitIndex + 1;
+  }
+
+  return deck;
+
+};
+
+var output = function(message){
+  gameInfo.innerText = message;
+};
+```
+
+### Global Setup
+
+```javascript
+var deck = shuffleCards( makeDeck() );
+
+var playersTurn = 1; // matches with starting instructions
+var player1Card;
+var player2Card;
+
+var player1Button;
+var player2Button;
+var gameInfo;
+```
+
+### Player Action Callbacks
+
+```javascript
+var player1Click = function(){
+  if( playersTurn == 1 ){
+    player1Card = deck.pop();
+    playersTurn = 2;
+  }
+};
+
+var player2Click = function(){
+
+  if( playersTurn == 2 ){
+  
+    var player2Card = deck.pop();
+    playersTurn = 1;
+
+    if( player1Card.rank > player2Card.rank ){
+      
+      output('player 1 wins');
+    }else if( player1Card.rank < player2Card.rank ){
+    
+      output('player 2 wins');
+    }else{
+    
+      output('tie');
+    }
+  }
+};
+
+```
+
+### Game Initialization
+
+Let's put all of these steps in a function.
+
+```javascript
+var gameInit = function(){
+    // create two buttons
+    player1Button = document.createElement('button');
+    player1Button.innerText = 'Player 1 Draw';
+    document.body.appendChild( player1Button );
+    
+    player2Button = document.createElement('button');
+    player2Button.innerText = 'Player 2 Draw';
+    document.body.appendChild( player2Button );
+    
+    // create game info div as global value
+    // fill game info div with starting instructions
+    gameInfo = document.createElement('div');
+    gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
+    document.body.appendChild( gameInfo );
+    
+    player1Button.addEventListener('click',player1Click);
+    
+    player2Button.addEventListener('click',player2Click);
+};
+```
+
+## High Card Output
 
 ![](../.gitbook/assets/swe1a_-_wireframes_-_basic_high_c.png)
 
@@ -173,6 +346,7 @@ The CSS for these elements might look like this:
     width:50px;
     text-align:center;
     border-radius:8px;
+    display:inline-block;
 }
 .suit{
     margin: 5px;
@@ -193,7 +367,22 @@ We should be able to test this code in the HTML file.
 
 ![](../.gitbook/assets/screen-shot-2020-10-08-at-2.40.35-pm-2-.png)
 
-The JavaScript to build this element might look like this:
+For the sake of convenience we also want to make a place for our javascript to put these cards within the game:
+
+```markup
+<div class="card-container">
+    <div class="card">
+        <div class="name red">3</div>
+        <div class="suit">♥️</div>
+    </div>
+    <div class="card">
+        <div class="name red">4</div>
+        <div class="suit">♥️</div>
+    </div>
+</div> 
+```
+
+The JavaScript to build the card element might look like this:
 
 ```javascript
 var suit = document.createElement('div');
@@ -209,5 +398,121 @@ card.classList.add('card');
 
 card.appendChild(name);
 card.appendChild(suit);
+```
+
+We want to extract this out into a function so that we can use it to create the elements for any card.
+
+We also added the card color in the example. In order to get this behavior for every card we could have implemented some logic:
+
+```javascript
+// if the suit is heart or diamond 
+    // the color is red
+```
+
+But it would be a bit easier to encode this into the data of the card itself.
+
+If we want to add other stylistic features we could also decide to change the name of the card.
+
+That is, in our example card layout above there is not room for a full name face card, like `queen` . We can add another attribute to the object:
+
+```javascript
+var card = {
+    suitSymbol: '♦️',
+    suit: 'diamond',
+    name: 'queen',
+    display: 'Q',
+    color: 'red',
+    rank: 12
+};
+```
+
+Now we can use the attributes in the `createCard` function:
+
+```javascript
+var createCard = function(card){
+    var suit = document.createElement('div');
+    suit.classList.add('suit');
+    suit.innerText = card.suitSymbol;
+    
+    var name = document.createElement('div');
+    name.classList.add(card.display, card.color);
+    name.innerText = '3';
+    
+    var card = document.createElement('div');
+    card.classList.add('card');
+    
+    card.appendChild(name);
+    card.appendChild(suit);
+    
+    return card;
+};
+```
+
+{% hint style="info" %}
+We can go back and hard-code all of these attributes into a deck array. But how would we alter the logic of `createDeck` to account for these other attributes?
+{% endhint %}
+
+### Putting it all together
+
+Add the `cardContainer` DOM element global variable to the globals:
+
+```javascript
+var cardContainer;
+```
+
+Add the `card-container` div to the `gameInit` function:
+
+```javascript
+cardContainer = document.createElement('div');
+card.classList.add('card-container');
+document.body.appendChild( cardContainer );
+```
+
+Let's take a look at the button callback functions:
+
+```javascript
+var player1Click = function(){
+  if( playersTurn == 1 ){
+  
+    player1Card = deck.pop();
+    
+    var cardElement = createCard( playerCard );
+    
+    // in case this is not the 1st time
+    // in the entire app,
+    // empty the card container
+    cardContainer.innerHTML = '';
+    
+    cardContainer.appendChild( cardElement );
+    
+    playersTurn = 2;
+  }
+});
+
+var player2Click = function(){
+
+  if( playersTurn == 2 ){
+  
+    var player2Card = deck.pop();
+    cardContainer.appendChild( cardElement );
+
+    playersTurn = 1;
+
+    if( player1Card.rank > player2Card.rank ){
+      
+      output('player 1 wins');
+    }else if( player1Card.rank < player2Card.rank ){
+    
+      output('player 2 wins');
+    }else{
+    
+      output('tie');
+    }
+  }
+});
+
+var cardOutput = function(message){
+  gameInfo.innerText = message;
+};
 ```
 

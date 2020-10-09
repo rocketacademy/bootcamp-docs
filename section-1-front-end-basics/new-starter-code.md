@@ -20,6 +20,8 @@ If we want to control what a button does or the value of something on the screen
 
 3\) User behavior / events kick off data that gets displayed on screen. Data flows from the events of the browser out to the visible screen. Thinking about what's happening within the logic of the app this way will make it easier to create your logic.
 
+Generally speaking, we are using the DOM to display the inner state of the data in our app. 
+
 #### Create the Starting State
 
 First we need JavaScript that creates the starting state of our game. This code runs when the page loads. 
@@ -28,15 +30,18 @@ First we need JavaScript that creates the starting state of our game. This code 
 // create two buttons
 var player1Button = document.createElement('button');
 player1Button.innerText = 'Player 1 Roll';
+document.body.appendChild( player1Button );
 
 var player2Button = document.createElement('button');
 player2Button.innerText = 'Player 2 Roll';
+document.body.appendChild( player2Button );
 
 
 // create game info div as global value
 // fill game info div with starting instructions
 var gameInfo = document.createElement('div');
 gameInfo.innerText = 'Its player 1 turn. Click the roll dice button!';
+document.body.appendChild( gameInfo );
 ```
 
 #### Add in the click event callback functions.
