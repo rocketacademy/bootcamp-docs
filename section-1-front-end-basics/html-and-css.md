@@ -32,23 +32,23 @@
 
 {% embed url="https://academind.com/learn/css/bootstrap-4-tutorial/the-grid/" %}
 
-#### Project 1: Tribute Page
+#### HTML/CSS Exercise 1: Tribute Page
 
 {% embed url="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page" %}
 
-#### Project 2: Survey Form
+#### HTML/CSS Exercise 2: Survey Form
 
 {% embed url="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form" %}
 
-#### Project 3: Product Landing Page
+#### HTML/CSS Exercise 3: Product Landing Page
 
 {% embed url="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page" %}
 
-#### Project 4: Technical Documentation Page
+#### HTML/CSS Exercise 4: Technical Documentation Page
 
 {% embed url="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page" %}
 
-#### Project 5: Personal Page
+#### HTML/CSS Exercise 5: Personal Page
 
 {% embed url="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage" %}
 

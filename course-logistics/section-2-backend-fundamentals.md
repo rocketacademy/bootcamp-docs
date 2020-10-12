@@ -1,46 +1,46 @@
-# Back End Fundamentals with Node.js
+# Section 2 - Backend Fundamentals
+
+**Backend Fundamentals**
 
 The focus of the entire SWE1 course is building applications that interact with the internet.
 
 Before we can begin to create those applications we need to gain an understanding of the basis for the environment in which these applications operate and a few of the underlying mechanisms going on when we talk about the internet.
 
-**Schedule:**
+## Week 1
 
-**Week 3:**
+### Topics
+
+Node.js, HTTP, Internet
+
+### Daily Schedule:
+
+#### Day 1:
 
 What is Node.js
 
 Command line programs
 
+#### Day 2:
+
 Command line programs that get data on the disk
 
 Command line programs that store data on the disk
 
-ES6 - let and const
-
-ES6 - backtick format strings
+#### Day 3:
 
 What is the Internet
 
 HTTP
 
+#### Day 4:
+
 Basic File Servers
 
-ES6 - arrow functions
+#### Day 5:
 
-Amazon EC2 - Run your code on the real internet
+Amazon EC2
 
-**Week 4:**
+### Project
 
-Import / Modules
-
-NPM
-
-Express.js - An HTTP  web application library
-
-HTTP Get
-
-HTTP Post
-
-HTTP Put / Delete
+Backend Dynamic Data App
 

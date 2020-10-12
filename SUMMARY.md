@@ -5,6 +5,14 @@
 ## Course Logistics
 
 * [📅 Course Schedule](course-logistics/course-schedules.md)
+* [Backend Setup](course-logistics/backend-setup.md)
+* [Section 1  - Vanilla JS](course-logistics/section-1-vanilla-js.md)
+* [Section 2 - Backend Fundamentals](course-logistics/section-2-backend-fundamentals.md)
+* [Section 3 - Express Backend](course-logistics/section-3-express-backend.md)
+* [Section 4 - Full Stack Application](course-logistics/section-4-full-stack-application.md)
+* [Section 5 - Frontend Frameworks - React](course-logistics/section-5-frontend-frameworks-react.md)
+* [Section 6 - Advanced React](course-logistics/section-6-advanced-react.md)
+* [Section 7 - Advanced Topics](course-logistics/section-7-advanced-topics.md)
 
 ## Section 1 - Front End Basics
 
@@ -25,7 +33,6 @@
 
 ## SWE1A - NODEJS
 
-* [Back End Fundamentals with Node.js](swe1a-nodejs/back-end-fundamentals-with-node.js.md)
 * [Introduction to Computers](swe1a-nodejs/introduction-to-computers.md)
 * [My First Node Program](swe1a-nodejs/my-first-node.md)
 * [Command Line Programs](swe1a-nodejs/command-line-programs.md)
@@ -34,6 +41,5 @@
 
 ## SWE1B - Backend / Full Stack
 
-* [SWE1B - Express Backend / Full Stack](swe1b-backend-full-stack/swe1b-express-backend-full-stack.md)
 * [Express App - SQL](swe1b-backend-full-stack/express-app-sql.md)
 
