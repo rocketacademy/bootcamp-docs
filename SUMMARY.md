@@ -13,7 +13,6 @@
 * [Module 5 - Frontend Frameworks - React](course-logistics/module-5-frontend-frameworks-react.md)
 * [Module 6 - Advanced React](course-logistics/module-6-advanced-react.md)
 * [Module 7 - Advanced Topics](course-logistics/module-7-advanced-topics.md)
-* [Untitled](course-logistics/untitled.md)
 
 ## Module 1 - Front End Basics
 
