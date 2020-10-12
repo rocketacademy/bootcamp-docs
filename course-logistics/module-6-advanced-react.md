@@ -1,4 +1,4 @@
-# Section 6 - Advanced React
+# Module 6 - Advanced React
 
 **Complete Full Stack App with Advanced React**
 

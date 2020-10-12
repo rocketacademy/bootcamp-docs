@@ -1,4 +1,4 @@
-# Section 1  - Vanilla HTML, CSS, JS
+# Module 1  - Vanilla HTML, CSS, JS
 
 #### Vanilla JS / HTML / CSS
 
@@ -16,26 +16,26 @@ Vanilla JS, HTML, CSS
 
 #### Day 1:
 
-* [HTML Basics](../section-1-front-end-basics/html-and-css.md#free-code-camp-html)
-* [DOM - Creation](../section-1-front-end-basics/dom-review/creating-elements.md)
-* [DOM - Events](../section-1-front-end-basics/dom-review/events.md)
+* [HTML Basics](../module-1-front-end-basics/html-and-css.md#free-code-camp-html)
+* [DOM - Creation](../module-1-front-end-basics/dom-review/creating-elements.md)
+* [DOM - Events](../module-1-front-end-basics/dom-review/events.md)
 
 #### Day 2:
 
-* [CSS Basics 1](../section-1-front-end-basics/html-and-css.md#free-code-camp-css)
-* [DOM - Grab an Element](../section-1-front-end-basics/dom-review/events.md)
-* [New High Card](../section-1-front-end-basics/new-high-card.md)
+* [CSS Basics 1](../module-1-front-end-basics/html-and-css.md#free-code-camp-css)
+* [DOM - Grab an Element](../module-1-front-end-basics/dom-review/events.md)
+* [New High Card](../module-1-front-end-basics/new-high-card.md)
 * ES6 let const
 
 #### Day 3:
 
-* [CSS Basics 2](../section-1-front-end-basics/html-and-css.md#free-code-camp-css)
+* [CSS Basics 2](../module-1-front-end-basics/html-and-css.md#free-code-camp-css)
 * Match Game
 * ES6 Template Literals
 
 #### Day 4:
 
-* [CSS Page Layout](../section-1-front-end-basics/html-and-css.md#css-web-page-layout)
+* [CSS Page Layout](../module-1-front-end-basics/html-and-css.md#css-web-page-layout)
 * ES6 Arrow Functions
 * setTimeout
 * Tic Tac Toe
@@ -54,19 +54,19 @@ Project: Video Poker
 
 #### Day 1:
 
-* [CSS Page Layout 2](../section-1-front-end-basics/html-and-css.md#css-web-page-layout)
+* [CSS Page Layout 2](../module-1-front-end-basics/html-and-css.md#css-web-page-layout)
 
 #### Day 2:
 
-* [CSS Flexbox](../section-1-front-end-basics/html-and-css.md#flex-box)
+* [CSS Flexbox](../module-1-front-end-basics/html-and-css.md#flex-box)
 
 #### Day 3:
 
-* [CSS Responsive Design](../section-1-front-end-basics/html-and-css.md#responsive-pages)
+* [CSS Responsive Design](../module-1-front-end-basics/html-and-css.md#responsive-pages)
 
 #### Day 4:
 
-* [CSS Bootstrap](../section-1-front-end-basics/html-and-css.md#bootstrap)
+* [CSS Bootstrap](../module-1-front-end-basics/html-and-css.md#bootstrap)
 
 ### Project
 

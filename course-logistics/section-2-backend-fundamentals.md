@@ -1,4 +1,4 @@
-# Section 2 - Backend Fundamentals
+# Module 2 - Backend Fundamentals
 
 **Backend Fundamentals**
 

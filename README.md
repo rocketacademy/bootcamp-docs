@@ -28,6 +28,6 @@ SWE1 is Rocket Academy's flagship career conversion course. It builds on materia
 | 20 | Group project; GraphQL |
 | 21 | Final project; 3rd-Party APIs - Google AI, Maps, Twilio, Email, Payment |
 | 22 | Final project; Cron jobs |
-| 23 | Final project; Intro to Computer Systems \(OS, Networking, Compilers\) |
+| 23 | Final project; Intro to Computer Systems |
 | 24 | Final project |
 

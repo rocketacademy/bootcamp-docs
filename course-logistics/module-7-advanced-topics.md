@@ -1,4 +1,4 @@
-# Section 7 - Advanced Topics
+# Module 7 - Advanced Topics
 
 **Advanced Topics**
 

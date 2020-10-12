@@ -1,4 +1,4 @@
-# Section 4 - Full Stack Application
+# Module 4 - Full Stack Application
 
 **Complete Full Stack App with PostgreSQL**
 

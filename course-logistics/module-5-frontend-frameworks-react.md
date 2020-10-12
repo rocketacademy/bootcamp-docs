@@ -1,4 +1,4 @@
-# Section 5 - Frontend Frameworks - React
+# Module 5 - Frontend Frameworks - React
 
 **Complete Full Stack App with React**
 

@@ -1,4 +1,4 @@
-# Section 3 - Express Backend
+# Module 3 - Express Backend
 
 **Complete Backend App with PostgreSQL**
 
