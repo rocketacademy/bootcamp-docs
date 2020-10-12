@@ -6,7 +6,7 @@
 
 * [📅 Course Schedule](course-logistics/course-schedules.md)
 * [Backend Setup](course-logistics/backend-setup.md)
-* [Section 1  - Vanilla JS](course-logistics/section-1-vanilla-js.md)
+* [Section 1  - Vanilla HTML, CSS, JS](course-logistics/section-1-vanilla-js.md)
 * [Section 2 - Backend Fundamentals](course-logistics/section-2-backend-fundamentals.md)
 * [Section 3 - Express Backend](course-logistics/section-3-express-backend.md)
 * [Section 4 - Full Stack Application](course-logistics/section-4-full-stack-application.md)

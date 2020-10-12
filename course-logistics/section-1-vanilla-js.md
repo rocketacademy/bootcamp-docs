@@ -1,4 +1,4 @@
-# Section 1  - Vanilla JS
+# Section 1  - Vanilla HTML, CSS, JS
 
 #### Vanilla JS / HTML / CSS
 
