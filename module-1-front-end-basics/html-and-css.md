@@ -26,6 +26,8 @@
 
 #### Web Design Basics
 
+_Note: You'll need to sign up for a free Udemy account to watch this video\)_
+
 {% embed url="https://www.udemy.com/course/web-design-secrets" %}
 
 #### Bootstrap

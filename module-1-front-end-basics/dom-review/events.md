@@ -9,7 +9,7 @@ An input to our JavaScript program is called an **event**. All this means is tha
 The function for an event is referred to as a _**callback**_ function.
 
 ```javascript
-var myNewMain = function(event){
+const myNewMain = (event) => {
     console.log('hey wow my new function');
 };
 

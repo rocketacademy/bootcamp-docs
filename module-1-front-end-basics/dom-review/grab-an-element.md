@@ -15,7 +15,7 @@ Given this element:
 We can create a variable that "grabs" it from the DOM.
 
 ```javascript
-var wowParagraph = document.querySelector('#wow');
+const wowParagraph = document.querySelector('#wow');
 ```
 
 ### Grab Any Element

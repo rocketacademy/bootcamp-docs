@@ -7,9 +7,9 @@ Globals
 
 
 ```javascript
-var milliseconds = 5000;
-var delayInMilliseconds = 1;
-var output = document.createElement('div');
+let milliseconds = 5000;
+let delayInMilliseconds = 1;
+const output = document.createElement('div');
 output.innerText = milliseconds;
 document.body.appendChild(output);
 ```
@@ -17,7 +17,7 @@ document.body.appendChild(output);
 Timer
 
 ```javascript
-var ref =  setInterval( function() {
+let ref =  setInterval( () => {
     output.innerText = milliseconds;
     
     if( millisecnds <= 0 ){

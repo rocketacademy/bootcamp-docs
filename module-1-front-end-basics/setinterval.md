@@ -7,9 +7,9 @@
 ```javascript
 console.log('starting...');
 
-var delayInMiliseconds = 1000; // this is one second
+const delayInMiliseconds = 1000; // this is one second
 
-var ref =  setInterval(function(){
+let ref =  setInterval(()=>{
 
     console.log('I happen after '+delayINMilliseconds);
 },delayInMilliseconds);
@@ -22,10 +22,10 @@ console.log('banans!');
 ```javascript
 console.log('starting...');
 
-var delayInMiliseconds = 1000; // this is one second
-var counter = 0;
+const delayInMiliseconds = 1000; // this is one second
+let counter = 0;
 
-var ref =  setInterval(function(){
+let ref =  setInterval(()=>{
 
     console.log('I happen after '+delayINMilliseconds);
     console.log( counter );
@@ -37,6 +37,6 @@ var ref =  setInterval(function(){
     
 },delayInMilliseconds);
 
-console.log('banans!');
+console.log('bananas!');
 ```
 

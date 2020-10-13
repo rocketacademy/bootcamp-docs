@@ -8,69 +8,69 @@ The basic high card game is relatively similar to the original, non-DOM game.
 
 ```javascript
 // get a random index from an array given it's size
-var getRandomIndex = function (size) {
+const getRandomIndex = (size) => {
   return Math.floor(Math.random() * size);
 };
 
 // cards is an array of card objects
-var shuffleCards = function (cards) {
-  var currentIndex = 0;
+const shuffleCards = (cards) => {
 
   // loop over the entire cards array
-  while (currentIndex < cards.length) {
+  for( let i=0; i<cards.length; i++ ){
+  
     // select a random position from the deck
-    var randomIndex = getRandomIndex(cards.length);
+    let randomIndex = getRandomIndex(cards.length);
 
     // get the current card in the loop
-    var currentItem = cards[currentIndex];
+    const currentItem = cards[i];
 
     // get the random card
-    var randomItem = cards[randomIndex];
+    const randomItem = cards[randomIndex];
 
     // swap the current card and the random card
     cards[currentIndex] = randomItem;
     cards[randomIndex] = currentItem;
-
-    currentIndex = currentIndex + 1;
   }
 
   // give back the shuffled deck
   return cards;
 };
 
-var makeDeck = function () {
+const makeDeck = () => {
 
   // create the empty deck at the beginning 
-  var deck = [];
+  const deck = [];
 
-  var suits = ['hearts', 'diamonds', 'clubs', 'spades'];
+  const suits = ['hearts', 'diamonds', 'clubs', 'spades'];
 
-  var suitIndex = 0;
-  while (suitIndex < suits.length) {
+  let suitIndex = 0;
+  for( let i=0; i<suits.length; i++ ){
 
     // make a variable of the current suit
-    var currentSuit = suits[suitIndex];
-    console.log("current suit : " + currentSuit)
+    var currentSuit = suits[i];
+    console.log(`current suit : ${currentSuit}`);
 
     // loop to create all cards in this suit
     // rank 1-13
-    var rankCounter = 1;
+    let rankCounter = 1;
+    for( let j=0; j<suits.length; j++ ){
+
     while (rankCounter <= 13) {
-      var cardName = rankCounter;
+      let cardName = rankCounter+''; // make this into a string
 
       // 1, 11, 12 ,13
-      if (cardName == 1) {
+      if (cardName === '1') {
         cardName = 'ace';
-      } else if (cardName == 11) {
+      } else if (cardName === '11') {
         cardName = 'jack';
-      } else if (cardName == 12) {
+      } else if (cardName === '12') {
         cardName = 'queen';
-      } else if (cardName == 13) {
+      } else if (cardName === '13') {
         cardName = 'king';
       }
 
       // make a single card object variable
-      var card = {
+      const card = {
         name: cardName,
         suit: currentSuit,
         rank: rankCounter
@@ -80,48 +80,46 @@ var makeDeck = function () {
 
       // add the card to the deck
       deck.push(card);
-      
-      rankCounter = rankCounter + 1;
     }
-    suitIndex = suitIndex + 1;
   }
 
   return deck;
 
 };
 
-var deck = shuffleCards( makeDeck() );
+const deck = shuffleCards( makeDeck() );
 
-var playersTurn = 1; // matches with starting instructions
-var player1Card;
+let playersTurn = 1; // matches with starting instructions
+
+let player1Card; // don't use const for this player card object
 
 // create two buttons
-var player1Button = document.createElement('button');
+const player1Button = document.createElement('button');
 player1Button.innerText = 'Player 1 Draw';
 document.body.appendChild( player1Button );
 
-var player2Button = document.createElement('button');
+const player2Button = document.createElement('button');
 player2Button.innerText = 'Player 2 Draw';
 document.body.appendChild( player2Button );
 
 // create game info div as global value
 // fill game info div with starting instructions
-var gameInfo = document.createElement('div');
+const gameInfo = document.createElement('div');
 gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
 document.body.appendChild( gameInfo );
 
-player1Button.addEventListener('click',function(){
-  if( playersTurn == 1 ){
+player1Button.addEventListener('click',()=>{
+  if( playersTurn === 1 ){
     player1Card = deck.pop();
     playersTurn = 2;
   }
 });
 
-player2Button.addEventListener('click',function(){
+player2Button.addEventListener('click',()=>{
 
-  if( playersTurn == 2 ){
+  if( playersTurn === 2 ){
   
-    var player2Card = deck.pop();
+    const player2Card = deck.pop();
     playersTurn = 1;
 
     if( player1Card.rank > player2Card.rank ){
@@ -140,7 +138,7 @@ player2Button.addEventListener('click',function(){
 // don't write the dom manipulation
 // code inline in the conditional
 // create a helper function for output
-var output = function(message){
+const output = (message) => {
   gameInfo.innerText = message;
 };
 ```
@@ -153,69 +151,67 @@ This is already a lot of code, so we'll arrange all the code so that it's easier
 
 ```javascript
 // get a random index from an array given it's size
-var getRandomIndex = function (size) {
+const getRandomIndex = (size) => {
   return Math.floor(Math.random() * size);
 };
 
 // cards is an array of card objects
-var shuffleCards = function (cards) {
-  var currentIndex = 0;
+const shuffleCards = (cards) => {
 
   // loop over the entire cards array
-  while (currentIndex < cards.length) {
+  for( let i=0; i<cards.length; i++ ){
+  
     // select a random position from the deck
-    var randomIndex = getRandomIndex(cards.length);
+    let randomIndex = getRandomIndex(cards.length);
 
     // get the current card in the loop
-    var currentItem = cards[currentIndex];
+    const currentItem = cards[i];
 
     // get the random card
-    var randomItem = cards[randomIndex];
+    const randomItem = cards[randomIndex];
 
     // swap the current card and the random card
     cards[currentIndex] = randomItem;
     cards[randomIndex] = currentItem;
-
-    currentIndex = currentIndex + 1;
   }
 
   // give back the shuffled deck
   return cards;
 };
 
-var makeDeck = function () {
+const makeDeck = () => {
 
   // create the empty deck at the beginning 
-  var deck = [];
+  const deck = [];
 
-  var suits = ['hearts', 'diamonds', 'clubs', 'spades'];
+  const suits = ['hearts', 'diamonds', 'clubs', 'spades'];
 
-  var suitIndex = 0;
-  while (suitIndex < suits.length) {
+  let suitIndex = 0;
+  for( let i=0; i<suits.length; i++ ){
 
     // make a variable of the current suit
-    var currentSuit = suits[suitIndex];
-    console.log("current suit : " + currentSuit)
+    let currentSuit = suits[i];
+    console.log(`current suit : ${currentSuit}`);
 
     // loop to create all cards in this suit
     // rank 1-13
-    var rankCounter = 1;
-    while (rankCounter <= 13) {
-      var cardName = rankCounter;
+    for( let j=1; j<=13; j++ ){
+      
+      let cardName = j+''; // make this into a string
 
       // 1, 11, 12 ,13
-      if (cardName == 1) {
+      if (cardName === '1') {
         cardName = 'ace';
-      } else if (cardName == 11) {
+      } else if (cardName === '11') {
         cardName = 'jack';
-      } else if (cardName == 12) {
+      } else if (cardName === '12') {
         cardName = 'queen';
-      } else if (cardName == 13) {
+      } else if (cardName === '13') {
         cardName = 'king';
       }
 
       // make a single card object variable
-      var card = {
+      const card = {
         name: cardName,
         suit: currentSuit,
         rank: rankCounter
@@ -225,17 +221,14 @@ var makeDeck = function () {
 
       // add the card to the deck
       deck.push(card);
-      
-      rankCounter = rankCounter + 1;
     }
-    suitIndex = suitIndex + 1;
   }
 
   return deck;
 
 };
 
-var output = function(message){
+var output = (message) => {
   gameInfo.innerText = message;
 };
 ```
@@ -243,30 +236,32 @@ var output = function(message){
 ### Global Setup
 
 ```javascript
-var deck = shuffleCards( makeDeck() );
+const deck = shuffleCards( makeDeck() );
 
-var playersTurn = 1; // matches with starting instructions
-var player1Card;
-var player2Card;
+let playersTurn = 1; // matches with starting instructions
+let player1Card;
+let player2Card;
 
-var player1Button;
-var player2Button;
-var gameInfo;
+const player1Button = document.createElement('button');
+
+const player2Button = document.createElement('button');
+
+const gameInfo = document.createElement('div');
 ```
 
 ### Player Action Callbacks
 
 ```javascript
-var player1Click = function(){
-  if( playersTurn == 1 ){
+const player1Click = () => {
+  if( playersTurn === 1 ){
     player1Card = deck.pop();
     playersTurn = 2;
   }
 };
 
-var player2Click = function(){
+const player2Click = () => {
 
-  if( playersTurn == 2 ){
+  if( playersTurn === 2 ){
   
     var player2Card = deck.pop();
     playersTurn = 1;
@@ -291,25 +286,21 @@ var player2Click = function(){
 Let's put all of these steps in a function.
 
 ```javascript
-var gameInit = function(){
-    // create two buttons
-    player1Button = document.createElement('button');
+var gameInit = () => {
+    // initialize button functionality
     player1Button.innerText = 'Player 1 Draw';
     document.body.appendChild( player1Button );
     
-    player2Button = document.createElement('button');
     player2Button.innerText = 'Player 2 Draw';
     document.body.appendChild( player2Button );
     
-    // create game info div as global value
+    player1Button.addEventListener('click',player1Click);
+    player2Button.addEventListener('click',player2Click);
+    
+
     // fill game info div with starting instructions
-    gameInfo = document.createElement('div');
     gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
     document.body.appendChild( gameInfo );
-    
-    player1Button.addEventListener('click',player1Click);
-    
-    player2Button.addEventListener('click',player2Click);
 };
 ```
 
@@ -385,15 +376,15 @@ For the sake of convenience we also want to make a place for our javascript to p
 The JavaScript to build the card element might look like this:
 
 ```javascript
-var suit = document.createElement('div');
+const suit = document.createElement('div');
 suit.classList.add('suit');
 suit.innerText = '♥️';
 
-var name = document.createElement('div');
+const name = document.createElement('div');
 name.classList.add('name','red');
 name.innerText = '3';
 
-var card = document.createElement('div');
+const card = document.createElement('div');
 card.classList.add('card');
 
 card.appendChild(name);
@@ -416,7 +407,7 @@ If we want to add other stylistic features we could also decide to change the na
 That is, in our example card layout above there is not room for a full name face card, like `queen` . We can add another attribute to the object:
 
 ```javascript
-var card = {
+const card = {
     suitSymbol: '♦️',
     suit: 'diamond',
     name: 'queen',
@@ -429,16 +420,16 @@ var card = {
 Now we can use the attributes in the `createCard` function:
 
 ```javascript
-var createCard = function(card){
-    var suit = document.createElement('div');
+const createCard = (card) => {
+    const suit = document.createElement('div');
     suit.classList.add('suit');
     suit.innerText = card.suitSymbol;
     
-    var name = document.createElement('div');
+    const name = document.createElement('div');
     name.classList.add(card.display, card.color);
     name.innerText = '3';
     
-    var card = document.createElement('div');
+    const card = document.createElement('div');
     card.classList.add('card');
     
     card.appendChild(name);
@@ -457,7 +448,7 @@ We can go back and hard-code all of these attributes into a deck array. But how 
 Add the `cardContainer` DOM element global variable to the globals:
 
 ```javascript
-var cardContainer;
+const cardContainer;
 ```
 
 Add the `card-container` div to the `gameInit` function:
@@ -471,12 +462,12 @@ document.body.appendChild( cardContainer );
 Let's take a look at the button callback functions:
 
 ```javascript
-var player1Click = function(){
-  if( playersTurn == 1 ){
+const player1Click = () => {
+  if( playersTurn === 1 ){
   
     player1Card = deck.pop();
     
-    var cardElement = createCard( playerCard );
+    const cardElement = createCard( playerCard );
     
     // in case this is not the 1st time
     // in the entire app,
@@ -489,11 +480,11 @@ var player1Click = function(){
   }
 });
 
-var player2Click = function(){
+const player2Click = () => {
 
-  if( playersTurn == 2 ){
+  if( playersTurn === 2 ){
   
-    var player2Card = deck.pop();
+    const player2Card = deck.pop();
     cardContainer.appendChild( cardElement );
 
     playersTurn = 1;
@@ -511,7 +502,7 @@ var player2Click = function(){
   }
 });
 
-var cardOutput = function(message){
+const cardOutput = (message) => {
   gameInfo.innerText = message;
 };
 ```

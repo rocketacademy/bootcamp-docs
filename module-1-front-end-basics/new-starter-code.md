@@ -28,11 +28,11 @@ First we need JavaScript that creates the starting state of our game. This code 
 
 ```javascript
 // create two buttons
-var player1Button = document.createElement('button');
+const player1Button = document.createElement('button');
 player1Button.innerText = 'Player 1 Roll';
 document.body.appendChild( player1Button );
 
-var player2Button = document.createElement('button');
+const player2Button = document.createElement('button');
 player2Button.innerText = 'Player 2 Roll';
 document.body.appendChild( player2Button );
 
@@ -49,29 +49,29 @@ document.body.appendChild( gameInfo );
 We'll use a global value to keep track of the current player's turn. 
 
 ```javascript
-var playersTurn = 1; // matches with starting instructions
-var player1Roll = null;
+let playersTurn = 1; // matches with starting instructions
+let player1Roll = null;
 
-var diceRoll = function () {
-  var randomDecimal = Math.random() * 6;
+const diceRoll = function () {
+  let randomDecimal = Math.random() * 6;
 
-  var randomInteger = Math.floor(randomDecimal);
+  let randomInteger = Math.floor(randomDecimal);
 
-  var diceNumber = randomInteger + 1;
+  let diceNumber = randomInteger + 1;
 
   return diceNumber;
 };
 
-player1Button.addEventListener('click',function(){
-  if( playersTurn == 1 ){
+player1Button.addEventListener('click',() => {
+  if( playersTurn === 1 ){
     player1Roll = rollDice();
     playersTurn = 2;
   }
 });
 
-player2Button.addEventListener('click',function(){
+player2Button.addEventListener('click',() => {
 
-  if( playersTurn == 2 ){
+  if( playersTurn === 2 ){
   
     var player2Roll = rollDice();
     playersTurn = 1;
@@ -92,7 +92,7 @@ player2Button.addEventListener('click',function(){
 // don't write the dom manipulation
 // code inline in the conditional
 // create a helper function for output
-var output = function(message){
+var output = (message) => {
   gameInfo.innerText = message;
 };
 ```

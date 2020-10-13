@@ -11,10 +11,14 @@ document gives the ability to create elements and put them on the screen.
 We can use the DOM to create elements and put them on the page.
 
 ```javascript
-var coolParagraph = document.createElement('p');
+const coolParagraph = document.createElement('p');
 
 coolParagraph.innerText = 'hey, cool!!!1!';
 ```
+
+{% hint style="warning" %}
+Note that the data type of `coolParagraph` is an object, hence, `const`.
+{% endhint %}
 
 After we've created this element we need to tell the DOM to put it into the page.
 
@@ -88,7 +92,7 @@ Write a loop so that you create 6 of these grey box elements. In the first pink 
 ### Element Contents From an Array
 
 ```javascript
-var words = ["banana","pasta","alligator","purple","accurate","fickle"];
+const words = ["banana","pasta","alligator","purple","accurate","fickle"];
 ```
 
 Use this array to create the words in pink boxes. In this case, only create one yellow box.
@@ -96,7 +100,7 @@ Use this array to create the words in pink boxes. In this case, only create one 
 ### Element Contents From an Array of Arrays
 
 ```javascript
-var words = [["orange","tomato"],["fire engine","basketball"]];
+const words = [["orange","tomato"],["fire engine","basketball"]];
 ```
 
 Use this structured array to create a series of yellow boxes. \(The food should be in one yellow box, and the objects in another yellow box\).

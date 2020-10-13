@@ -4,39 +4,39 @@ Create a game of tic tac toe.
 
 ### Globals
 
-```text
-var board = [
+```javascript
+const board = [
     ['','',''],
     ['','',''],
     ['','','']
 ];
 
-var boardElement;
+let boardElement;
 ```
 
 ### Game Init
 
 ```javascript
-var gameInit = function(){
+const gameInit = () => {
     buildBoard();
 };
 
-var buildBoard = function(board){
+const buildBoard = (board) => {
     
     boardElement = document.createElement('div');
     boardElement.classList.add('board');
     
-    for( var i=0; i<board.length; i++ ){
-        var row = board[i];
-        var rowElement = document.createElement('div');
+    for( let i=0; i<board.length; i++ ){
+        let row = board[i];
+        const rowElement = document.createElement('div');
         rowElement.classList.add('row');
         
-        for( var j=0; j<row.length; j++ ){
-            var square = document.createElement('div');
+        for( let j=0; j<row.length; j++ ){
+            const square = document.createElement('div');
             square.classList.add('square');
             
             // async error
-            square.addEventListener('click', function(){
+            square.addEventListener('click', ()=>{
                 squareClick( i,j );
             });
         }
@@ -48,7 +48,7 @@ var buildBoard = function(board){
 ### Game Play
 
 ```javascript
-var squareClick = function(column, row){
+const squareClick = (column, row) => {
     if( board[column][row] === '' ){
         board[column][row] = currentPlayer;
         buildBoard();
@@ -56,7 +56,7 @@ var squareClick = function(column, row){
     }
 };
 
-var togglePlayer = function(){
+const togglePlayer = () => {
     if( currentPlayer === 'X' ){
         currentPlayer = 'O';
     }else{
@@ -68,7 +68,7 @@ var togglePlayer = function(){
 Add a checkWin function when the player clicks a square
 
 ```javascript
-var squareClick = function(column, row){
+const squareClick = function(column, row){
     if( board[column][row] === '' ){
         board[column][row] = currentPlayer;
         if( checkWin() === true ){
@@ -81,7 +81,7 @@ var squareClick = function(column, row){
 ```
 
 ```javascript
-var checkWin = function(board){
+const checkWin = (board) => {
 
     // check every position
     // there is a conditional for all 15 win conditions

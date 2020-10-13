@@ -5,14 +5,14 @@
 ```javascript
 console.log('starting...');
 
-var delayInMiliseconds = 1000; // this is one second
+const delayInMiliseconds = 1000; // this is one second
 
-setTimeout(function(){
+setTimeout(() => {
 
     console.log('I happen Later!');
 },delayInMilliseconds);
 
-console.log('banans!');
+console.log('bananas!');
 ```
 
 

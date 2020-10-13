@@ -16,8 +16,9 @@
 
 ## Module 1 - Front End Basics
 
-* [SWE1A - More JavaScript Basics](module-1-front-end-basics/swe1a-more-javascript-basics.md)
 * [HTML & CSS](module-1-front-end-basics/html-and-css.md)
+* [ES6 Basics](module-1-front-end-basics/es6-basics.md)
+* [New JS Syntax](module-1-front-end-basics/new-js-syntax.md)
 * [DOM Review](module-1-front-end-basics/dom-review/README.md)
   * [Creating Elements](module-1-front-end-basics/dom-review/creating-elements.md)
   * [Events](module-1-front-end-basics/dom-review/events.md)
