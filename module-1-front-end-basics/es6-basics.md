@@ -1,5 +1,9 @@
 # ES6 Basics
 
+## What is ES6?
+
+
+
 ## Variable Declaration with `let` and `const`
 
 So far we've created variables with `var`.

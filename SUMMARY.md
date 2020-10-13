@@ -23,7 +23,6 @@
   * [Creating Elements](module-1-front-end-basics/dom-review/creating-elements.md)
   * [Events](module-1-front-end-basics/dom-review/events.md)
   * [Grab an Element](module-1-front-end-basics/dom-review/grab-an-element.md)
-* [New Dice Game](module-1-front-end-basics/new-starter-code.md)
 * [New High Card](module-1-front-end-basics/new-high-card.md)
 * [setTimeout](module-1-front-end-basics/settimeout.md)
 * [Match Game](module-1-front-end-basics/match-game.md)
