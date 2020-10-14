@@ -14,33 +14,12 @@ SWE1 is in [beta](https://medium.com/swlh/what-does-beta-really-mean-a8accc5e235
 
 SWE1 consists of modules, each of which covers a significant topic within full-stack software engineering. Course content and schedule are subject to minor changes depending on industry trends and student progress.
 
-### \*\*\*\*[**Module** 1](module-1-front-end-basics/overview.md)
-
-Vanilla HTML, CSS ,JS
-
-### \*\*\*\*[**Module** **2**](module-2-backend-fundamentals/overview.md)\*\*\*\*
-
-Backend Fundamentals
-
-### \*\*\*\*[**Module** 3](overview.md)
-
-Backend Applications with Expressjs
-
-### **Module** 4
-
-Full Stack Application
-
-Data Structures & Algorithms
-
-### **Module** 5
-
-React Frontend Framework
-
-### **Module** 6
-
-Advanced React Patterns
-
-### **Module** 7
-
-Advanced Topics
+* [Module 1](module-1-front-end-basics/overview.md): Vanilla HTML, CSS, JS
+* [Module 2](module-2-backend-fundamentals/overview.md): Backend Fundamentals
+* [Module 3](overview.md): Backend Applications with Express
+* Module 4: Full Stack Application
+* Module 5: React Frontend Framework
+* Module 6: Advanced React Patterns
+* Module 7: Advanced Topics
+* Module D: Data Structures & Algorithms
 
