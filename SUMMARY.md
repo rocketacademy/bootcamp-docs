@@ -16,7 +16,7 @@
 
 * [Backend Setup](course-logistics/backend-setup.md)
 
-## Module 1 - Front End Basics
+## Module 1: Front-End Basics
 
 * [Overview](module-1-front-end-basics/overview.md)
 * [HTML & CSS](module-1-front-end-basics/html-and-css.md)
@@ -34,15 +34,15 @@
 * [Tic Tac Toe](module-1-front-end-basics/tic-tac-toe.md)
 * [Project: Video Poker](module-1-front-end-basics/project-video-poker.md)
 
-## Module 2 - Backend Fundamentals
+## Module 2: Back-End Basics
 
-* [Overview](module-2-backend-fundamentals/overview.md)
-* [My First Node Program](module-2-backend-fundamentals/my-first-node.md)
-* [Command Line Programs](module-2-backend-fundamentals/command-line-programs.md)
-* [Disk Storage](module-2-backend-fundamentals/disk-storage.md)
-* [What is the Internet](module-2-backend-fundamentals/what-is-the-internet.md)
+* [Overview](module-2-back-end-basics/overview.md)
+* [My First Node Program](module-2-back-end-basics/my-first-node.md)
+* [Command Line Programs](module-2-back-end-basics/command-line-programs.md)
+* [Disk Storage](module-2-back-end-basics/disk-storage.md)
+* [What is the Internet](module-2-back-end-basics/what-is-the-internet.md)
 
-## Module 3 - Backend Application
+## Module 3: Back-End Application
 
 ---
 
