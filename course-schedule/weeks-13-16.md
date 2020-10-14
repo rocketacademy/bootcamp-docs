@@ -1,4 +1,4 @@
-# Weeks 13-16: Frontend Frameworks - React
+# Weeks 13-16
 
 ## **Complete Full Stack App with React**
 

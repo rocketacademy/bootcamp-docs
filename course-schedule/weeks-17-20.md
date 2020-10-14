@@ -1,4 +1,4 @@
-# Weeks 17-20: Advanced React
+# Weeks 17-20
 
 ## **Complete Full Stack App with Advanced React**
 

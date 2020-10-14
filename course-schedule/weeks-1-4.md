@@ -1,4 +1,4 @@
-# Weeks 1-4: Frontend and Backend Basics
+# Weeks 1-4
 
 ## Modules
 

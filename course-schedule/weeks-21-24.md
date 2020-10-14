@@ -1,4 +1,4 @@
-# Weeks 21-24: Advanced Topics
+# Weeks 21-24
 
 ## **Advanced Topics**
 

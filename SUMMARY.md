@@ -5,12 +5,12 @@
 ## Course Schedule
 
 * [Overview](course-schedule/overview.md)
-* [Weeks 1-4: Frontend and Backend Basics](course-schedule/weeks-1-4-frontend-and-backend-basics.md)
-* [Weeks 5-8: Express Backend](course-schedule/module-3-express-backend.md)
-* [Weeks 9-12: Full Stack Application](course-schedule/module-4-full-stack-application.md)
-* [Weeks 13-16: Frontend Frameworks - React](course-schedule/module-5-frontend-frameworks-react.md)
-* [Weeks 17-20: Advanced React](course-schedule/module-6-advanced-react.md)
-* [Weeks 21-24: Advanced Topics](course-schedule/module-7-advanced-topics.md)
+* [Weeks 1-4](course-schedule/weeks-1-4.md)
+* [Weeks 5-8](course-schedule/weeks-5-8.md)
+* [Weeks 9-12](course-schedule/weeks-9-12.md)
+* [Weeks 13-16](course-schedule/weeks-13-16.md)
+* [Weeks 17-20](course-schedule/weeks-17-20.md)
+* [Weeks 21-24](course-schedule/weeks-21-24.md)
 
 ## Course Logistics
 

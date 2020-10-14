@@ -1,4 +1,4 @@
-# Weeks 9-12: Full Stack Application
+# Weeks 9-12
 
 ## **Complete Full Stack App with PostgreSQL**
 
