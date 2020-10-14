@@ -1,6 +1,6 @@
-# Module 7 - Advanced Topics
+# Weeks 21-24: Advanced Topics
 
-**Advanced Topics**
+## **Advanced Topics**
 
 We've built a complete real-world React full stack web application. In this section we'll explore advanced optional topics.
 
@@ -8,7 +8,7 @@ We've built a complete real-world React full stack web application. In this sect
 
 Cron Jobs. Google AI APIs. Application APIs - Stripe, Twilio. Google Maps.
 
-### Project
+## Project
 
 Final Project
 

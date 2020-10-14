@@ -1,74 +1,103 @@
-# Module 1  - Vanilla HTML, CSS, JS
+# Weeks 1-4: Frontend and Backend Basics
 
-#### Vanilla JS / HTML / CSS
+## Modules
 
-Dive deeper into JS fundamentals with more complex callbacks, deal with scope in callbacks.
+* [Module 1: Front-End Basics](../module-1-front-end-basics/overview.md)
+* [Module 2: Backend Fundamentals ](../module-2-backend-fundamentals/overview.md)
 
-Learn the basics of constructing the layout of a webpage in HTML and CSS.
+## Week 1
 
-### Week 1
+Topics: Vanilla JS, HTML, CSS
 
-### Topics
-
-Vanilla JS, HTML, CSS
-
-### Daily Schedule:
-
-#### Day 1:
+### Day 1.1
 
 * [HTML Basics](../module-1-front-end-basics/html-and-css.md#free-code-camp-html)
 * [DOM - Creation](../module-1-front-end-basics/dom-review/creating-elements.md)
 * [DOM - Events](../module-1-front-end-basics/dom-review/events.md)
 
-#### Day 2:
+### Day 1.2
 
 * [CSS Basics 1](../module-1-front-end-basics/html-and-css.md#free-code-camp-css)
 * [DOM - Grab an Element](../module-1-front-end-basics/dom-review/events.md)
 * [New High Card](../module-1-front-end-basics/new-high-card.md)
 * ES6 let const
 
-#### Day 3:
+### Day 1.3
 
 * [CSS Basics 2](../module-1-front-end-basics/html-and-css.md#free-code-camp-css)
 * Match Game
 * ES6 Template Literals
 
-#### Day 4:
+### Day 1.4
 
 * [CSS Page Layout](../module-1-front-end-basics/html-and-css.md#css-web-page-layout)
 * ES6 Arrow Functions
 * setTimeout
 * Tic Tac Toe
 
-#### Day 5:
+### Day 1.5
 
 * setInterval
 
-### Week 2
-
-### Topics
-
-Vanilla HTML, CSS, JS
-
-Project: Video Poker
-
-#### Day 1:
-
-* [CSS Page Layout 2](../module-1-front-end-basics/html-and-css.md#css-web-page-layout)
-
-#### Day 2:
-
-* [CSS Flexbox](../module-1-front-end-basics/html-and-css.md#flex-box)
-
-#### Day 3:
-
-* [CSS Responsive Design](../module-1-front-end-basics/html-and-css.md#responsive-pages)
-
-#### Day 4:
-
-* [CSS Bootstrap](../module-1-front-end-basics/html-and-css.md#bootstrap)
+## Week 2
 
 ### Project
 
-Video Poker
+* Video Poker
+
+### Day 2.1
+
+* [CSS Page Layout 2](../module-1-front-end-basics/html-and-css.md#css-web-page-layout)
+
+### Day 2.2
+
+* [CSS Flexbox](../module-1-front-end-basics/html-and-css.md#flex-box)
+
+### Day 2.3
+
+* [CSS Responsive Design](../module-1-front-end-basics/html-and-css.md#responsive-pages)
+
+### Day 2.4
+
+* [CSS Bootstrap](../module-1-front-end-basics/html-and-css.md#bootstrap)
+
+### Day 2.5
+
+* Video Poker Project
+
+## Week 3
+
+Topics: Node.js, HTTP, Internet
+
+### Day 3.1
+
+What is Node.js
+
+Command line programs
+
+### Day 3.2
+
+Command line programs that get data on the disk
+
+Command line programs that store data on the disk
+
+### Day 3.3
+
+What is the Internet
+
+HTTP
+
+### Day 3.4
+
+Basic File Servers
+
+### Day 3.5
+
+Amazon EC2
+
+### Project
+
+Backend Dynamic Data App
+
+### Week 4
 

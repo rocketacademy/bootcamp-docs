@@ -1,14 +1,16 @@
-# Module 6 - Advanced React
+# Weeks 17-20: Advanced React
 
-**Complete Full Stack App with Advanced React**
+## **Complete Full Stack App with Advanced React**
 
 The react ecosystem is becoming more and more complex. We'll deep dive into React topics that more closely mimic real world React projects.
 
-### **Week 1-2**
+## **Weeks 17 & 18**
 
 ### Topics
 
 React Context, HTTP Sockets, React Error Boundaries
+
+## Weeks 19 & 20
 
 ### Project
 
