@@ -16,9 +16,9 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 
 | Module | Name | Topics | Stack |
 | :--- | :--- | :--- | :--- |
-| [1](1-front-end-basics/1-0-module-1-overview.md) | Front-End Basics | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
-| [2](2-back-end-basics/2-0-module-2-overview.md) | Back-End Basics | Node.js, HTTP, File Servers, Command Line Programs | Back End |
-| [3](3-0-module-3-overview.md) | Back-End Application | Web Application Servers, SQL Databases, Authentication | Back End |
+| 1 | [Front-End Basics](1-front-end-basics/1-0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
+| 2 | [Back-End Basics](2-back-end-basics/2-0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
+| 3 | [Back-End Application](3-0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
 | 4 | Full-Stack Application | Full Stack Web Applications, MVC Architecture, ORM, APIs, AJAX | Full Stack |
 | 5 | React | React, Webpack | Front End |
 | 6 | Advanced React, Full Stack | React Context, Suspense, Create React App, Sockets, GraphQL | Full Stack |
@@ -29,7 +29,7 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 
 | Project | Name |
 | :--- | :--- |
-| 1 | Video Poker |
+| 1 | [Video Poker](projects/project-video-poker.md) |
 | 2 | Server side web application |
 | 3 | Full stack web application |
 | 4 | Full stack web application with React |
