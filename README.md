@@ -1,5 +1,5 @@
 ---
-description: Singapore's Best Coding Bootcamp Course
+description: Singapore's Best Coding Bootcamp
 ---
 
 # 🚀 Welcome to SWE1!
