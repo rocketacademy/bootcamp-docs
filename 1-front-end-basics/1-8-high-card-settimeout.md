@@ -1,5 +1,19 @@
 # 1.8: High Card setTimeout
 
+Add setTimeout to the High Card game.
+
+We'll add a delay when the user clicks the button.
+
+We also want a global value that  represents the state that the user has already cli8cked and we are waiting for the delay to end. If we don't have `canClick`, the user could trigger multiple `setTimeout`s.
+
+### Globals
+
+```javascript
+let canClick = true;
+```
+
+### Player Click Callbacks 
+
 ```javascript
 const player1Click = () => {
   if( playersTurn === 1 && canClick === true ){

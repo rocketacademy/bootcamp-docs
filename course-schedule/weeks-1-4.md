@@ -11,7 +11,7 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 1
 
-* 1.1.0: Wireframes
+* [1.1.0: Wireframes](../1-front-end-basics/1-1-html-and-css/1.1.0-wireframes.md)
 * [1.1.1: HTML Basics](../1-front-end-basics/1-1-html-and-css/1.1.1-basic-html.md)
 * [1.4.1: DOM Review - Creating Elements](../1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
 * [1.4.2: DOM Review - Events](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
@@ -25,19 +25,20 @@ Topics: Vanilla JS, HTML, CSS
 * [1.1: CSS Basics 1](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-1)
 * [1.2: ES6](../1-front-end-basics/1-2-es6-basics.md#what-is-es-6)
 * [1.5: New High Card](../1-front-end-basics/1-6-new-high-card.md)
-* 1.6: Reading Documentation
+* [1.6: Reading Documentation](../1-front-end-basics/1-5-reading-documentation.md)
 
 ### Day 3
 
 * [1.1: CSS Basics 2](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-2)
 * [1.7: setTimeout](../1-front-end-basics/1-7-settimeout.md)
-* 1.8: High Card setTimeout
+* [1.8: High Card setTimeout](../1-front-end-basics/1-8-high-card-settimeout.md)
+* [1.9: Match Game](../1-front-end-basics/1-9-match-game.md)
 
 ### Day 4
 
 * [1.1: CSS Page Layout](../1-front-end-basics/1-1-html-and-css/#css-web-page-layout)
 * [1.10: setInterval](../1-front-end-basics/1-10-setinterval.md)
-* 1.11: Timer
+* [1.11: Timer](../1-front-end-basics/1-11-timer.md)
 
 ### Day 5
 
@@ -47,7 +48,7 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Project
 
-* Video Poker
+* [Video Poker](../projects/project-video-poker.md)
 
 ### Day 1
 
@@ -67,7 +68,7 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 5
 
-* Video Poker Project
+* Project Presentation
 
 ## Week 3
 
