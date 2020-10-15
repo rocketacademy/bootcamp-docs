@@ -8,19 +8,19 @@
 
 Topics: Express.js, HTTP Request Methods
 
-### Day 5.1
+### Day 1
 
 ES Import / Modules
 
 NPM
 
-### Day 5.**2**
+### Day **2**
 
 Express.js - An HTTP  web application library
 
 HTTP GET
 
-### Day 5.3
+### Day 3
 
 HTML Forms
 
@@ -28,11 +28,11 @@ HTTP POST
 
 HTTP Requests that write to disk
 
-### Day 5.4
+### Day 4
 
 HTTP Put
 
-### Day 5.5
+### Day 5
 
 HTTP Delete
 
@@ -40,25 +40,25 @@ HTTP Delete
 
 Topics SQL, Postgres, Express.js SQL,
 
-### Day 6.1
+### Day 1
 
 Intro to SQL Language
 
 PostgreSQL Server
 
-### Day 6.2
+### Day 2
 
 Express.js w/ SQL
 
-### Day 6.3
+### Day 3
 
 SQL Table Relationships
 
-### Day 6.4
+### Day 4
 
 SQL Table Relationships: 1 - Many
 
-### Day 6.5
+### Day 5
 
 SQL Table Relationships: Many - to - Many
 
@@ -66,27 +66,27 @@ SQL Table Relationships: Many - to - Many
 
 Topics: SQL Database Design, SQL Joins, Cookies, User Auth
 
-### Day 7.1
+### Day 1
 
 ES6 Promises
 
 SQL Table Relationships: DB Schema Design
 
-### Day 7.2
+### Day 2
 
 SQL Table Relationships: Inner Joins
 
-### Day 7.3
+### Day 3
 
 HTTP Cookies
 
 User Login
 
-### Day 7.4
+### Day 4
 
 Password Hashing - Security
 
-### Day 7.5
+### Day 5
 
 EC2 DB Deployment
 
