@@ -4,7 +4,7 @@
 
 ## Course Schedule
 
-* [Course Schedule Overview](course-schedule/overview.md)
+* [Course Schedule Overview](course-schedule/course-schedule-overview.md)
 * [Weeks 1-4](course-schedule/weeks-1-4.md)
 * [Weeks 5-8](course-schedule/weeks-5-8.md)
 * [Weeks 9-12](course-schedule/weeks-9-12.md)
