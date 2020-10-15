@@ -11,33 +11,33 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 1
 
-* [HTML Basics](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-html)
-* [DOM - Creation](../1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
-* [DOM - Events](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
+* [1.1: HTML Basics](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-html)
+* [1.4.1: DOM Review - Creating Elements](../1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
+* [1.4.2: DOM Review - Events](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
 
 ### Day 2
 
-* [CSS Basics 1](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
-* [DOM - Grab an Element](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
-* [New High Card](../1-front-end-basics/1-6-new-high-card.md)
-* ES6 let const
+* [1.1: CSS Basics 1](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
+* [1.4.3: DOM Review - Grab an Element](../1-front-end-basics/1-4-dom-review/1-4-3-grab-an-element.md)
+* [1.6: New High Card](../1-front-end-basics/1-6-new-high-card.md)
+* [1.2: ES6 let const](../1-front-end-basics/1-2-es6-basics.md#what-is-es-6)
 
 ### Day 3
 
-* [CSS Basics 2](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
-* Match Game
-* ES6 Template Literals
+* [1.1: CSS Basics 2](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
+* [1.9: Match Game](../1-front-end-basics/1-9-match-game.md)
+* [1.2: ES6 Template Literals](../1-front-end-basics/1-2-es6-basics.md#template-literals)
 
 ### Day 4
 
-* [CSS Page Layout](../1-front-end-basics/1-1-html-and-css.md#css-web-page-layout)
-* ES6 Arrow Functions
-* setTimeout
-* Tic Tac Toe
+* [1.1: CSS Page Layout](../1-front-end-basics/1-1-html-and-css.md#css-web-page-layout)
+* [1.2: ES6 Arrow Functions](../1-front-end-basics/1-2-es6-basics.md#arrow-functions)
+* [1.7: setTimeout](../1-front-end-basics/1-7-settimeout.md)
+* [1.12: Tic Tac Toe](../1-front-end-basics/1-12-tic-tac-toe.md)
 
 ### Day 5
 
-* setInterval
+* [1.10: setInterval](../1-front-end-basics/1-10-setinterval.md)
 
 ## Week 2
 
