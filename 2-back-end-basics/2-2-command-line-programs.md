@@ -1,4 +1,4 @@
-# Command Line Programs
+# 2.2: Command Line Programs
 
 Create some command line programs in JavaScript
 

@@ -1,4 +1,4 @@
-# My First Node Program
+# 2.1: My First Node Program
 
 We are going to shift gears to run JavaScript in a new environment.
 

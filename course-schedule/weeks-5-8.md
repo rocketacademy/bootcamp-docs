@@ -2,7 +2,7 @@
 
 ## Modules
 
-* [Module 3: Express Backend](../module-3-overview.md)
+* [Module 3: Express Backend](../3-0-module-3-overview.md)
 
 ## **Week 5**
 

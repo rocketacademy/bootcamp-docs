@@ -41,17 +41,17 @@
 
 ## 2: Back-End Basics
 
-* [Module 2 Overview](2-back-end-basics/module-2-overview.md)
-* [My First Node Program](2-back-end-basics/my-first-node.md)
-* [Command Line Programs](2-back-end-basics/command-line-programs.md)
-* [Disk Storage](2-back-end-basics/disk-storage.md)
-* [What is the Internet](2-back-end-basics/what-is-the-internet.md)
+* [2.0: Module 2 Overview](2-back-end-basics/2-0-module-2-overview.md)
+* [2.1: My First Node Program](2-back-end-basics/2-1-my-first-node-program.md)
+* [2.2: Command Line Programs](2-back-end-basics/2-2-command-line-programs.md)
+* [2.3: Disk Storage](2-back-end-basics/2-3-disk-storage.md)
+* [2.4: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
 
 ## 3: Back-End Application
 
 ---
 
-* [Module 3 Overview](module-3-overview.md)
-* [ES6 Iterators](es6-iterators.md)
-* [Intro to Express.js](intro-to-express.js.md)
+* [3.0: Module 3 Overview](3-0-module-3-overview.md)
+* [3.1: ES6 Iterators](3-1-es6-iterators.md)
+* [3.2: Intro to Express.js](3-2-intro-to-express-js.md)
 

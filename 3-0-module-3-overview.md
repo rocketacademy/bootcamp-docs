@@ -1,4 +1,4 @@
-# Module 3 Overview
+# 3.0: Module 3 Overview
 
 **Complete Backend App with PostgreSQL**
 

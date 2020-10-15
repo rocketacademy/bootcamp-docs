@@ -3,7 +3,7 @@
 ## Modules
 
 * [Module 1: Front-End Basics](../1-front-end-basics/1-0-module-1-overview.md)
-* [Module 2: Backend Fundamentals ](../2-back-end-basics/module-2-overview.md)
+* [Module 2: Backend Fundamentals ](../2-back-end-basics/2-0-module-2-overview.md)
 
 ## Week 1
 

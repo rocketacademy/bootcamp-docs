@@ -1,4 +1,4 @@
-# Intro to Express.js
+# 3.2: Intro to Express.js
 
 ```javascript
 const express = require('express');
