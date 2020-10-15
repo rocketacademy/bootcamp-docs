@@ -1,21 +1,5 @@
 # 1.1: HTML & CSS
 
-#### Free Code Camp HTML
-
-{% embed url="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" %}
-
-#### Free Code Camp CSS
-
-{% embed url="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" %}
-
-#### CSS Web Page Layout
-
-{% embed url="https://learnlayout.com/" %}
-
-#### Flex Box
-
-{% embed url="https://flexboxfroggy.com/" %}
-
 #### Responsive Pages
 
 {% embed url="https://www.youtube.com/watch?v=ZYV6dYtz4HA" %}

@@ -1,4 +1,6 @@
-# 1.6: New High Card
+# 1.5: New High Card
+
+We'll be taking the High Card game done in SWE101 out of the starter code so we can talk about all the parts we would need to build from scratch.
 
 ## Basic High Card
 

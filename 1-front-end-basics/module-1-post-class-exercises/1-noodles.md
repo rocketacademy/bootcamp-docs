@@ -1,0 +1,24 @@
+# 1- Noodles
+
+Begin with this empty [starter code.](https://github.com/rocketacademy/html-noodles-swe1)
+
+Create a set of seven HTML pages for noodle recipes.
+
+Google four noodle recipes. Two recipes that have onions, two recipes that have chicken.
+
+Create HTML pages for each recipe.
+
+Each page has a standard amount of information:
+
+* Recipe title
+* Recipe ingredients
+* Preparation time
+* Instructions
+* Food image
+
+When searching for the four recipes save a copy of each of the images into your repo, and create a corresponding `img` tag in your HTML.
+
+Create a main page that links to each noodle recipe page. \(Use an `a` tag\). Create a link on each other HTML page with a link back to the main page. 
+
+Create a page for the onion and chicken ingredients. Create lists of links to the recipes containing that ingredient.
+

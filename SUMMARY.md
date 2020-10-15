@@ -23,21 +23,29 @@
 ## 1️⃣ Front-End Basics
 
 * [1.0: Module 1 Overview](1-front-end-basics/1-0-module-1-overview.md)
-* [1.1: HTML & CSS](1-front-end-basics/1-1-html-and-css.md)
+* [1.1: HTML & CSS](1-front-end-basics/1-1-html-and-css/README.md)
+  * [1.1.0: Wireframes](1-front-end-basics/1-1-html-and-css/1.1.0-wireframes.md)
+  * [1.1.1: Basic HTML](1-front-end-basics/1-1-html-and-css/1.1.1-basic-html.md)
+  * [1.1.2: Basic CSS](1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md)
+  * [1.1.3: CSS Layout](1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md)
+  * [1.1.4: Flexbox](1-front-end-basics/1-1-html-and-css/1.1.4-flexbox.md)
 * [1.2: ES6 Basics](1-front-end-basics/1-2-es6-basics.md)
 * [1.3: New JS Syntax](1-front-end-basics/1-3-new-js-syntax.md)
 * [1.4: DOM Review](1-front-end-basics/1-4-dom-review/README.md)
   * [1.4.1: Creating Elements](1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
   * [1.4.2: Events](1-front-end-basics/1-4-dom-review/1-4-2-events.md)
   * [1.4.3: Grab an Element](1-front-end-basics/1-4-dom-review/1-4-3-grab-an-element.md)
-* [1.5: Reading Documentation](1-front-end-basics/1-5-reading-documentation.md)
-* [1.6: New High Card](1-front-end-basics/1-6-new-high-card.md)
+* [1.5: New High Card](1-front-end-basics/1-6-new-high-card.md)
+* [1.6: Reading Documentation](1-front-end-basics/1-5-reading-documentation.md)
 * [1.7: setTimeout](1-front-end-basics/1-7-settimeout.md)
 * [1.8: High Card setTimeout](1-front-end-basics/1-8-high-card-settimeout.md)
 * [1.9: Match Game](1-front-end-basics/1-9-match-game.md)
 * [1.10: setInterval](1-front-end-basics/1-10-setinterval.md)
 * [1.11: Timer](1-front-end-basics/1-11-timer.md)
 * [1.12: Tic Tac Toe](1-front-end-basics/1-12-tic-tac-toe.md)
+* [Module 1 Post-Class Exercises](1-front-end-basics/module-1-post-class-exercises/README.md)
+  * [1- Noodles](1-front-end-basics/module-1-post-class-exercises/1-noodles.md)
+  * [2 - High Card DOM](1-front-end-basics/module-1-post-class-exercises/2-high-card-dom.md)
 
 ## 2️⃣ Back-End Basics
 

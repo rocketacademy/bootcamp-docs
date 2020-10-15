@@ -11,26 +11,30 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 1
 
-* [1.1: HTML Basics](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-html)
+* [1.1: HTML Basics](../1-front-end-basics/1-1-html-and-css/#free-code-camp-html)
 * [1.4.1: DOM Review - Creating Elements](../1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
 * [1.4.2: DOM Review - Events](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
 
+#### Post Class Exercise:
+
+[Noodles](../1-front-end-basics/module-1-post-class-exercises/1-noodles.md)
+
 ### Day 2
 
-* [1.1: CSS Basics 1](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
+* [1.1: CSS Basics 1](../1-front-end-basics/1-1-html-and-css/#free-code-camp-css)
+* [1.2: ES6 let const](../1-front-end-basics/1-2-es6-basics.md#what-is-es-6)
 * [1.4.3: DOM Review - Grab an Element](../1-front-end-basics/1-4-dom-review/1-4-3-grab-an-element.md)
 * [1.6: New High Card](../1-front-end-basics/1-6-new-high-card.md)
-* [1.2: ES6 let const](../1-front-end-basics/1-2-es6-basics.md#what-is-es-6)
 
 ### Day 3
 
-* [1.1: CSS Basics 2](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
+* [1.1: CSS Basics 2](../1-front-end-basics/1-1-html-and-css/#free-code-camp-css)
 * [1.9: Match Game](../1-front-end-basics/1-9-match-game.md)
 * [1.2: ES6 Template Literals](../1-front-end-basics/1-2-es6-basics.md#template-literals)
 
 ### Day 4
 
-* [1.1: CSS Page Layout](../1-front-end-basics/1-1-html-and-css.md#css-web-page-layout)
+* [1.1: CSS Page Layout](../1-front-end-basics/1-1-html-and-css/#css-web-page-layout)
 * [1.2: ES6 Arrow Functions](../1-front-end-basics/1-2-es6-basics.md#arrow-functions)
 * [1.7: setTimeout](../1-front-end-basics/1-7-settimeout.md)
 * [1.12: Tic Tac Toe](../1-front-end-basics/1-12-tic-tac-toe.md)
@@ -47,19 +51,19 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 1
 
-* [CSS Page Layout 2](../1-front-end-basics/1-1-html-and-css.md#css-web-page-layout)
+* [CSS Page Layout 2](../1-front-end-basics/1-1-html-and-css/#css-web-page-layout)
 
 ### Day 2
 
-* [CSS Flexbox](../1-front-end-basics/1-1-html-and-css.md#flex-box)
+* [CSS Flexbox](../1-front-end-basics/1-1-html-and-css/#flex-box)
 
 ### Day 3
 
-* [CSS Responsive Design](../1-front-end-basics/1-1-html-and-css.md#responsive-pages)
+* [CSS Responsive Design](../1-front-end-basics/1-1-html-and-css/#responsive-pages)
 
 ### Day 4
 
-* [CSS Bootstrap](../1-front-end-basics/1-1-html-and-css.md#bootstrap)
+* [CSS Bootstrap](../1-front-end-basics/1-1-html-and-css/#bootstrap)
 
 ### Day 5
 
