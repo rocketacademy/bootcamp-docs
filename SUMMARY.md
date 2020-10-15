@@ -2,7 +2,7 @@
 
 * [🚀 Welcome to SWE1!](README.md)
 
-## Course Schedule
+## 📅 Course Schedule
 
 * [Course Schedule Overview](course-schedule/course-schedule-overview.md)
 * [Weeks 1-4](course-schedule/weeks-1-4.md)
@@ -12,15 +12,15 @@
 * [Weeks 17-20](course-schedule/weeks-17-20.md)
 * [Weeks 21-24](course-schedule/weeks-21-24.md)
 
-## Course Logistics
+## 🛠 Course Logistics
 
 * [Backend Setup](course-logistics/backend-setup.md)
 
-## Projects
+## 🏞 Projects
 
 * [Project 1: Video Poker](projects/project-video-poker.md)
 
-## 1: Front-End Basics
+## 1️⃣ Front-End Basics
 
 * [1.0: Module 1 Overview](1-front-end-basics/1-0-module-1-overview.md)
 * [1.1: HTML & CSS](1-front-end-basics/1-1-html-and-css.md)
@@ -39,7 +39,7 @@
 * [1.11: Timer](1-front-end-basics/1-11-timer.md)
 * [1.12: Tic Tac Toe](1-front-end-basics/1-12-tic-tac-toe.md)
 
-## 2: Back-End Basics
+## 2️⃣ Back-End Basics
 
 * [2.0: Module 2 Overview](2-back-end-basics/2-0-module-2-overview.md)
 * [2.1: My First Node Program](2-back-end-basics/2-1-my-first-node-program.md)
@@ -47,7 +47,7 @@
 * [2.3: Disk Storage](2-back-end-basics/2-3-disk-storage.md)
 * [2.4: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
 
-## 3: Back-End Application
+## 3️⃣ Back-End Application
 
 ---
 
