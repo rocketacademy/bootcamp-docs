@@ -14,16 +14,16 @@ SWE1 is in [beta](https://medium.com/swlh/what-does-beta-really-mean-a8accc5e235
 
 SWE1 consists of modules, each of which covers a significant topic within full-stack software engineering. Course content and schedule are subject to minor changes depending on industry trends and student progress.
 
-| Module | Topics | Stack |
-| :--- | :--- | :--- |
-| [1](module-1-front-end-basics/overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
-| [2](module-2-back-end-basics/overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
-| [3](overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
-| 4 | Full Stack Web Applications, MVC Architecture, ORM, APIs, AJAX | Full Stack |
-| 5 | React Framework | Front End |
-| 6 | Advanced React Patterns | Full Stack |
-| 7 | Advanced Topics | ~ |
-| D | Data Structures and Algorithms | ~ |
+| Module | Name | Topics | Stack |
+| :--- | :--- | :--- | :--- |
+| [1](module-1-front-end-basics/overview.md) | Front-End Basics | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
+| [2](module-2-back-end-basics/overview.md) | Back-End Basics | Node.js, HTTP, File Servers, Command Line Programs | Back End |
+| [3](overview.md) | Back-End Application | Web Application Servers, SQL Databases, Authentication | Back End |
+| 4 | Full-Stack Application | Full Stack Web Applications, MVC Architecture, ORM, APIs, AJAX | Full Stack |
+| 5 | React | React, Webpack | Front End |
+| 6 | Advanced React, Full Stack | React Context, Suspense, Create React App, Sockets, GraphQL | Full Stack |
+| 7 | Advanced Topics in SWE | Mobile, Data Science, Operating Systems, Networking, Compilers | Full Stack |
+| D | Data Structures and Algorithms | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
 
 ## Projects
 
