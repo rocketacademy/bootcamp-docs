@@ -14,12 +14,25 @@ SWE1 is in [beta](https://medium.com/swlh/what-does-beta-really-mean-a8accc5e235
 
 SWE1 consists of modules, each of which covers a significant topic within full-stack software engineering. Course content and schedule are subject to minor changes depending on industry trends and student progress.
 
-* [Module 1: Front-End Basics](module-1-front-end-basics/overview.md)
-* [Module 2: Back-End Basics](module-2-back-end-basics/overview.md)
-* [Module 3: Back-End Application](overview.md)
-* Module 4: Full Stack Application
-* Module 5: React Frontend Framework
-* Module 6: Advanced React Patterns
-* Module 7: Advanced Topics
-* Module D: Data Structures & Algorithms
+| Module | Topics | Stack |
+| :--- | :--- | :--- |
+| [1](module-1-front-end-basics/overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
+| [2](module-2-back-end-basics/overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
+| [3](overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
+| 4 | Full Stack Web Applications, MVC Architecture, ORM, APIs, AJAX | Full Stack |
+| 5 | React Framework | Front End |
+| 6 | Advanced React Patterns | Full Stack |
+| 7 | Advanced Topics | ~ |
+| D | Data Structures and Algorithms | ~ |
+
+## Projects
+
+| Project | Name |
+| :--- | :--- |
+| 1 | Video Poker |
+| 2 | Server side web application |
+| 3 | Full stack web application |
+| 4 | Full stack web application with React |
+| 5 | Full stack web application with React \(group project\) |
+| 6 | Final Project |
 
