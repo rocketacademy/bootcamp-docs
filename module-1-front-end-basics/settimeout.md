@@ -7,6 +7,22 @@ console.log('starting...');
 
 const delayInMiliseconds = 1000; // this is one second
 
+const doLater = () => {
+    console.log('I happen Later!');
+};
+
+setTimeout(doLater,delayInMilliseconds);
+
+console.log('bananas!');
+```
+
+If we aren't reusing the function anywhere else we can move it directly into the setTimeout function call.
+
+```javascript
+console.log('starting...');
+
+const delayInMiliseconds = 1000; // this is one second
+
 setTimeout(() => {
 
     console.log('I happen Later!');
@@ -15,5 +31,43 @@ setTimeout(() => {
 console.log('bananas!');
 ```
 
+## DOM with setTimeout
 
+```javascript
+const wowParagraph = document.createElement('p');
+document.body.appendChild( wowParagraph );
+
+const doLater = ()=>{
+    wowParagraph.innerText = `cool! ${Math.random()}`; 
+};
+
+const myNewMain = (event) => {
+    console.log('hey wow my new function');
+    setTimeout( doLater,1000 );
+};
+
+wowParagraph.addEventListener('click', myNewMain);
+```
+
+## Exercise
+
+Copy this code into `script.js`. Before you run it, read it carefully and decide what order you think the `console.log`s will come out it. 
+
+When you run the code, compare what you thought happened to what happened. Is it the same or not? Why or why not?
+
+```javascript
+console.log('setTimeout! - 1');
+
+const delayInMiliseconds = 1000; // this is one second
+
+console.log('setTimeout! - 2');
+
+const doLater = () => {
+    console.log('setTimeout! - 3');
+};
+console.log('setTimeout! - 4');
+
+setTimeout(doLater,delayInMilliseconds);
+console.log('setTimeout! - 5');
+```
 

@@ -26,8 +26,10 @@
   * [Creating Elements](module-1-front-end-basics/dom-review/creating-elements.md)
   * [Events](module-1-front-end-basics/dom-review/events.md)
   * [Grab an Element](module-1-front-end-basics/dom-review/grab-an-element.md)
+* [Reading Documentation](module-1-front-end-basics/reading-documentation.md)
 * [New High Card](module-1-front-end-basics/new-high-card.md)
 * [setTimeout](module-1-front-end-basics/settimeout.md)
+* [High Card setTimeout](module-1-front-end-basics/high-card-settimeout.md)
 * [Match Game](module-1-front-end-basics/match-game.md)
 * [setInterval](module-1-front-end-basics/setinterval.md)
 * [Timer](module-1-front-end-basics/timer.md)
@@ -46,6 +48,7 @@
 
 ---
 
+* [ES6 Iterators](es6-iterators.md)
 * [Overview](overview.md)
 * [Intro to Express.js](intro-to-express.js.md)
 
