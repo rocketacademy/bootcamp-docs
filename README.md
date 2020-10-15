@@ -21,7 +21,7 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 | 3 | [Back-End Application](3-0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
 | 4 | Full-Stack Application | Full Stack Web Applications, MVC Architecture, ORM, APIs, AJAX | Full Stack |
 | 5 | React | React, Webpack | Front End |
-| 6 | Advanced React, Full Stack | React Context, Suspense, Create React App, Sockets, GraphQL | Full Stack |
+| 6 | Advanced React, Advanced Full Stack | React Context, Suspense, Create React App, Sockets, GraphQL | Full Stack |
 | 7 | Advanced Topics in SWE | Mobile, Data Science, Operating Systems, Networking, Compilers | Full Stack |
 | D | Data Structures and Algorithms | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
 
