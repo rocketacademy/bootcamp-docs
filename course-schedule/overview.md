@@ -1,4 +1,4 @@
-# Overview
+# Course Schedule Overview
 
 The SWE1 course schedule is organised in pages representing 4 weeks each. Each page lists deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. 
 

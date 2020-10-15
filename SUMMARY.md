@@ -4,7 +4,7 @@
 
 ## Course Schedule
 
-* [Overview](course-schedule/overview.md)
+* [Course Schedule Overview](course-schedule/overview.md)
 * [Weeks 1-4](course-schedule/weeks-1-4.md)
 * [Weeks 5-8](course-schedule/weeks-5-8.md)
 * [Weeks 9-12](course-schedule/weeks-9-12.md)
@@ -18,7 +18,7 @@
 
 ## Module 1: Front-End Basics
 
-* [Overview](module-1-front-end-basics/overview.md)
+* [Module 1 Overview](module-1-front-end-basics/module-1-overview.md)
 * [HTML & CSS](module-1-front-end-basics/html-and-css.md)
 * [ES6 Basics](module-1-front-end-basics/es6-basics.md)
 * [New JS Syntax](module-1-front-end-basics/new-js-syntax.md)
@@ -38,7 +38,7 @@
 
 ## Module 2: Back-End Basics
 
-* [Overview](module-2-back-end-basics/overview.md)
+* [Module 2 Overview](module-2-back-end-basics/module-2-overview.md)
 * [My First Node Program](module-2-back-end-basics/my-first-node.md)
 * [Command Line Programs](module-2-back-end-basics/command-line-programs.md)
 * [Disk Storage](module-2-back-end-basics/disk-storage.md)
@@ -48,7 +48,7 @@
 
 ---
 
+* [Module 3 Overview](module-3-overview.md)
 * [ES6 Iterators](es6-iterators.md)
-* [Overview](overview.md)
 * [Intro to Express.js](intro-to-express.js.md)
 
