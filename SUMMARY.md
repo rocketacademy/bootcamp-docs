@@ -29,6 +29,9 @@
   * [1.1.2: Basic CSS](1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md)
   * [1.1.3: CSS Layout](1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md)
   * [1.1.4: Flexbox](1-front-end-basics/1-1-html-and-css/1.1.4-flexbox.md)
+  * [1.1.5: Responsive Pages](1-front-end-basics/1-1-html-and-css/1.1.5-responsive-pages.md)
+  * [1.1.6: Web Design Basics](1-front-end-basics/1-1-html-and-css/1.1.6-web-design-basics.md)
+  * [1.1.7: Bootstrap](1-front-end-basics/1-1-html-and-css/1.1.7-bootstrap.md)
 * [1.2: ES6 Basics](1-front-end-basics/1-2-es6-basics.md)
 * [1.3: New JS Syntax](1-front-end-basics/1-3-new-js-syntax.md)
 * [1.4: DOM Review](1-front-end-basics/1-4-dom-review/README.md)
@@ -62,4 +65,8 @@
 * [3.0: Module 3 Overview](3-0-module-3-overview.md)
 * [3.1: ES6 Iterators](3-1-es6-iterators.md)
 * [3.2: Intro to Express.js](3-2-intro-to-express-js.md)
+
+## Extras
+
+* [Further Topics](extras/further-topics.md)
 

@@ -11,7 +11,8 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 1
 
-* [1.1: HTML Basics](../1-front-end-basics/1-1-html-and-css/#free-code-camp-html)
+* 1.1.0: Wireframes
+* [1.1.1: HTML Basics](../1-front-end-basics/1-1-html-and-css/1.1.1-basic-html.md)
 * [1.4.1: DOM Review - Creating Elements](../1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
 * [1.4.2: DOM Review - Events](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
 
@@ -21,27 +22,26 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 2
 
-* [1.1: CSS Basics 1](../1-front-end-basics/1-1-html-and-css/#free-code-camp-css)
-* [1.2: ES6 let const](../1-front-end-basics/1-2-es6-basics.md#what-is-es-6)
-* [1.4.3: DOM Review - Grab an Element](../1-front-end-basics/1-4-dom-review/1-4-3-grab-an-element.md)
-* [1.6: New High Card](../1-front-end-basics/1-6-new-high-card.md)
+* [1.1: CSS Basics 1](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-1)
+* [1.2: ES6](../1-front-end-basics/1-2-es6-basics.md#what-is-es-6)
+* [1.5: New High Card](../1-front-end-basics/1-6-new-high-card.md)
+* 1.6: Reading Documentation
 
 ### Day 3
 
-* [1.1: CSS Basics 2](../1-front-end-basics/1-1-html-and-css/#free-code-camp-css)
-* [1.9: Match Game](../1-front-end-basics/1-9-match-game.md)
-* [1.2: ES6 Template Literals](../1-front-end-basics/1-2-es6-basics.md#template-literals)
+* [1.1: CSS Basics 2](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-2)
+* [1.7: setTimeout](../1-front-end-basics/1-7-settimeout.md)
+* 1.8: High Card setTimeout
 
 ### Day 4
 
 * [1.1: CSS Page Layout](../1-front-end-basics/1-1-html-and-css/#css-web-page-layout)
-* [1.2: ES6 Arrow Functions](../1-front-end-basics/1-2-es6-basics.md#arrow-functions)
-* [1.7: setTimeout](../1-front-end-basics/1-7-settimeout.md)
-* [1.12: Tic Tac Toe](../1-front-end-basics/1-12-tic-tac-toe.md)
+* [1.10: setInterval](../1-front-end-basics/1-10-setinterval.md)
+* 1.11: Timer
 
 ### Day 5
 
-* [1.10: setInterval](../1-front-end-basics/1-10-setinterval.md)
+* [1.12: Tic Tac Toe](../1-front-end-basics/1-12-tic-tac-toe.md)
 
 ## Week 2
 
