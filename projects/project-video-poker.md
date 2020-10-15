@@ -1,4 +1,4 @@
-# Project: Video Poker
+# Project 1: Video Poker
 
 Video Poker is the Poker card game, but for one player. You will play hands of poker and try to score points by getting the best hand possible.
 

@@ -1,4 +1,4 @@
-# Reading Documentation
+# 1.5: Reading Documentation
 
 Due to the very wide scope of the tasks in SWE 1, Google searching for information will become more and more important in order to solve a problem or bug.
 

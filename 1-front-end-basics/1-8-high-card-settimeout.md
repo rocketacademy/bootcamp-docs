@@ -1,4 +1,4 @@
-# High Card setTimeout
+# 1.8: High Card setTimeout
 
 ```javascript
 const player1Click = () => {

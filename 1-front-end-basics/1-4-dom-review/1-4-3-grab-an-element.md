@@ -1,4 +1,4 @@
-# Grab an Element
+# 1.4.3: Grab an Element
 
 ### Grabbing DOM Elements
 

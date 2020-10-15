@@ -1,4 +1,4 @@
-# DOM Review
+# 1.4: DOM Review
 
 The DOM is the set of variables that represents the elements in the screen of that browser window.
 

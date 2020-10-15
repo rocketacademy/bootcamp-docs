@@ -1,4 +1,4 @@
-# New High Card
+# 1.6: New High Card
 
 ## Basic High Card
 

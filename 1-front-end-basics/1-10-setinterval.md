@@ -1,4 +1,4 @@
-# setInterval
+# 1.10: setInterval
 
 `setInterval` repeats a callback function over and over again.
 

@@ -1,4 +1,4 @@
-# ES6 Basics
+# 1.2: ES6 Basics
 
 ## What is ES6?
 

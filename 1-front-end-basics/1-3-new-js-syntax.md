@@ -1,4 +1,4 @@
-# New JS Syntax
+# 1.3: New JS Syntax
 
 ## `for` loops
 

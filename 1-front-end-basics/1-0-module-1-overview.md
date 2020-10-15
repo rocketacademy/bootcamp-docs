@@ -1,4 +1,4 @@
-# Module 1 Overview
+# 1.0: Module 1 Overview
 
 ## Vanilla JS, HTML, CSS
 

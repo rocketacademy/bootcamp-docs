@@ -2,8 +2,8 @@
 
 ## Modules
 
-* [Module 1: Front-End Basics](../module-1-front-end-basics/module-1-overview.md)
-* [Module 2: Backend Fundamentals ](../module-2-back-end-basics/module-2-overview.md)
+* [Module 1: Front-End Basics](../1-front-end-basics/1-0-module-1-overview.md)
+* [Module 2: Backend Fundamentals ](../2-back-end-basics/module-2-overview.md)
 
 ## Week 1
 
@@ -11,26 +11,26 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 1
 
-* [HTML Basics](../module-1-front-end-basics/html-and-css.md#free-code-camp-html)
-* [DOM - Creation](../module-1-front-end-basics/dom-review/creating-elements.md)
-* [DOM - Events](../module-1-front-end-basics/dom-review/events.md)
+* [HTML Basics](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-html)
+* [DOM - Creation](../1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
+* [DOM - Events](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
 
 ### Day 2
 
-* [CSS Basics 1](../module-1-front-end-basics/html-and-css.md#free-code-camp-css)
-* [DOM - Grab an Element](../module-1-front-end-basics/dom-review/events.md)
-* [New High Card](../module-1-front-end-basics/new-high-card.md)
+* [CSS Basics 1](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
+* [DOM - Grab an Element](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
+* [New High Card](../1-front-end-basics/1-6-new-high-card.md)
 * ES6 let const
 
 ### Day 3
 
-* [CSS Basics 2](../module-1-front-end-basics/html-and-css.md#free-code-camp-css)
+* [CSS Basics 2](../1-front-end-basics/1-1-html-and-css.md#free-code-camp-css)
 * Match Game
 * ES6 Template Literals
 
 ### Day 4
 
-* [CSS Page Layout](../module-1-front-end-basics/html-and-css.md#css-web-page-layout)
+* [CSS Page Layout](../1-front-end-basics/1-1-html-and-css.md#css-web-page-layout)
 * ES6 Arrow Functions
 * setTimeout
 * Tic Tac Toe
@@ -47,19 +47,19 @@ Topics: Vanilla JS, HTML, CSS
 
 ### Day 1
 
-* [CSS Page Layout 2](../module-1-front-end-basics/html-and-css.md#css-web-page-layout)
+* [CSS Page Layout 2](../1-front-end-basics/1-1-html-and-css.md#css-web-page-layout)
 
 ### Day 2
 
-* [CSS Flexbox](../module-1-front-end-basics/html-and-css.md#flex-box)
+* [CSS Flexbox](../1-front-end-basics/1-1-html-and-css.md#flex-box)
 
 ### Day 3
 
-* [CSS Responsive Design](../module-1-front-end-basics/html-and-css.md#responsive-pages)
+* [CSS Responsive Design](../1-front-end-basics/1-1-html-and-css.md#responsive-pages)
 
 ### Day 4
 
-* [CSS Bootstrap](../module-1-front-end-basics/html-and-css.md#bootstrap)
+* [CSS Bootstrap](../1-front-end-basics/1-1-html-and-css.md#bootstrap)
 
 ### Day 5
 
