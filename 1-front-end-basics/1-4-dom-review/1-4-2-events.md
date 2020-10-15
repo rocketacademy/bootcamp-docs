@@ -16,8 +16,6 @@ const myNewMain = (event) => {
 wowParagraph.addEventListener('click', myNewMain);
 ```
 
-s
-
 {% hint style="info" %}
 \*\*\*\*
 
@@ -47,7 +45,11 @@ When the user clicks the button, build the elements above.
 
 Inside the grey box create a button and attach a click event listener callback function.
 
-When the grey boxes' button gets clicked, create another yellow box set of elements \(a yellow box with 2 pink boxes inside\).
+When the grey boxes' button gets clicked, create another yellow box set of elements \(a yellow box with 2 pink boxes inside\). These can also say "hello" and "banana", or you can come up with your own text.
+
+![dd](../../.gitbook/assets/screen-shot-2020-10-15-at-5.49.12-pm.png)
+
+This user has clicked the submit button three times. Not shown are any other grey boxes. \(There could be many\).
 
 **Click and Input**
 
@@ -57,16 +59,8 @@ When the user clicks the button, build the elements above, but also create an in
 
 When the user clicks the button in the grey box, the app creates another yellow square with a single pink square inside. Inside the pink square is the text the user typed in the input box.
 
-**Note:** For this exercise you will need to reference the input you created **\*for that specific\*** grey box.
+![](../../.gitbook/assets/screen-shot-2020-10-15-at-5.27.39-pm.png)
 
-Define the function in the same scope that you create the input inside of and you will be able to access the input's value.
-
-**Click and Input Loop**
-
-Create a button in JavaScript and attach a listener callback function to it.
-
-When the user clicks the button, build the elements above, but also create an input and a button inside the grey box.
-
-The user will enter a number into the input. When the user clicks the button in the grey box, the app creates a yellow square with the number of pink squares that the user specified in the input. Inside each pink square is the number of the box. i.e. box 1,2,3 etc.
+Example: This user has typed "_hello_" and clicked submit, and also typed "_world_" and clicked submit. Not shown are any other sets of grey boxes. \(There could be many\).
 {% endhint %}
 

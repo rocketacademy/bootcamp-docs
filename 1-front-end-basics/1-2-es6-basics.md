@@ -2,7 +2,15 @@
 
 ## What is ES6?
 
+Every language matures and comes out with new versions as time goes on.
 
+For JavaScript the language began with very few features and has slowly been adding new ones over time.
+
+JavaScript is somewhat unique in that the version will always be tied to _**where the JavaScript is running**_. Which \(for front-end\) is in the browser of a user whose device that you as the programmer/company do not control- you do not know if the person is accessing your site from a brand new iPhone or from a [smart fridge](https://www.theguardian.com/technology/2019/aug/13/teen-smart-fridge-twitter-grounded). On many devices users are completely unable to upgrade their browser, the software that contains the specific version of JavaScript. 
+
+The version of JavaScript we'll be using is not the very latest one, because most devices would not support it. We'll be learning features of ES6, which is the last, newest, widely supported version of JavaScript. It was released in 2015.
+
+We'll be adding these ES features as we go along.
 
 ## Variable Declaration with `let` and `const`
 
@@ -116,13 +124,31 @@ var output = `you rolled ${diceRoll}. nice job!`;
 
 ```
 
+{% hint style="warning" %}
+**Note:**
+
+The naming of the versions are confusing- see more [here](https://flaviocopes.com/ecmascript/) if you want to know the details..
+
+The versions of JavaScript are tied to individual features of that version. You can see a matrix of the version and it's support in each popular platform [here](https://kangax.github.io/compat-table/es6/) for ES6 and [here](https://kangax.github.io/compat-table/esnext/) for the latest version.
+
+The engineering decision of which version of JavaScript to select is always a balance between  the demographics of your user base and the cost of supporting an older version of the language. For example, a cutting edge product like GitHub is more likely to have a user demographic that uses the latest version of JavaScript vs. a government service website or broad consumer site like Lazada or Amazon.
+{% endhint %}
+
 ## Exercise
 
-Open up the dev tools console in chrome. Follow the examples above **to get the error.** What does the error message say?
+#### `let` & `const`
+
+Open up the dev tools console in chrome. Follow the examples above to get the error. ****What does the error message say?
+
+Go back to an old piece of code you've written. Change a few of the variable declarations to `let` and `const`.
+
+#### Arrow Functions
 
 Go back to an old piece of code you've written. Change the function definition to use arrow functions in one place that you can easily test.
 
 You can change the definition of the `main` function in any old code from SWE101.
+
+#### Template Literals
 
 Change one string output where you used plus sign and change it to a template literal.
 

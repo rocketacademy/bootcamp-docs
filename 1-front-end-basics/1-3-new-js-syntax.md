@@ -1,5 +1,7 @@
 # 1.3: New JS Syntax
 
+In SWE101 some best practice JavaScript syntax was left out in the interest of brevity. As the goal of SWE1 is to become a professional SWE we should adopt best practices for our code. 
+
 ## `for` loops
 
 You should be relatively familiar with the mechanics of what a loop does. We'll be changing the standard syntax that we use for loops.
@@ -111,4 +113,6 @@ true === Boolean('true') // true
 ## Exercises
 
 Find some old code that you have written and replace each of these examples and make them run without errors.
+
+When dealing with user input, things like `if( input === 3 )` will no longer work.
 
