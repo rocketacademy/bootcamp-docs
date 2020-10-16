@@ -8,60 +8,54 @@ We also want a global value that represents the state that the user has already 
 
 ## Globals
 
-```javascript
+```js
+// eslint-disable-next-line
 let canClick = true;
 ```
 
 ## Player Click Callbacks
 
-```javascript
+```js
 const player1Click = () => {
-  if( playersTurn === 1 && canClick === true ){
+  if (playersTurn === 1 && canClick === true) {
     canClick = false;
 
-    setTimeout(()=>{
+    setTimeout(() => {
       player1Card = deck.pop();
 
-      const cardElement = createCard( playerCard );
+      const cardElement = createCard(playerCard);
 
       // in case this is not the 1st time
       // in the entire app,
       // empty the card container
       cardContainer.innerHTML = '';
 
-      cardContainer.appendChild( cardElement );
+      cardContainer.appendChild(cardElement);
       playersTurn = 2;
       canClick = true;
-
-    },2000)
-
+    }, 2000);
   }
-});
+};
 
 const player2Click = () => {
-
-  if( playersTurn === 2 && canClick === true ){
+  if (playersTurn === 2 && canClick === true) {
     canClick = false;
 
-    setTimeout(()=>{
+    setTimeout(() => {
       const player2Card = deck.pop();
-      cardContainer.appendChild( cardElement );
+      cardContainer.appendChild(cardElement);
 
       playersTurn = 1;
       canClick = true;
 
-      if( player1Card.rank > player2Card.rank ){
-
+      if (player1Card.rank > player2Card.rank) {
         output('player 1 wins');
-      }else if( player1Card.rank < player2Card.rank ){
-
+      } else if (player1Card.rank < player2Card.rank) {
         output('player 2 wins');
-      }else{
-
+      } else {
         output('tie');
       }
-    },2000);
+    }, 2000);
   }
-});
+};
 ```
-

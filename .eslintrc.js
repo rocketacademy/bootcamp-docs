@@ -19,10 +19,14 @@ module.exports = {
     // Gitbook formatting
     // Sometimes we have partial code that doesn't warrant variable usage
     'no-unused-vars': 'off',
+    // Sometimes we have partial code that assumes a prior definition above
+    'no-undef': 'off',
 
     // Course curriculum exceptions
     // Allow console for students to debug
     'no-console': 'off',
+    // Allow param reassignments to properties of arrays or objects
+    'no-param-reassign': ['error', { props: false }],
 
     // Spell checker
     'spellcheck/spell-checker': [1,

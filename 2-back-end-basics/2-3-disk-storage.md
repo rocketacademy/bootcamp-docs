@@ -15,7 +15,7 @@ Store things on your computer that will be there later.
 
 ## Disk Access
 
-```javascript
+```js
 var fs = require('fs');
 
 const whenFileIsRead = (error, content) => {

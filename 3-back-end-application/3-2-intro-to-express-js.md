@@ -1,6 +1,6 @@
 # 3.2: Intro to Express.js
 
-```javascript
+```js
 const express = require('express');
 const app = express();
 const port = 3000;

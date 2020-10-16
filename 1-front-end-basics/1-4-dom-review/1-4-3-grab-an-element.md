@@ -14,7 +14,7 @@ Given this element:
 
 We can create a variable that "grabs" it from the DOM.
 
-```javascript
+```js
 const wowParagraph = document.querySelector('#wow');
 ```
 
