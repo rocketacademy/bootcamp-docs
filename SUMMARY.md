@@ -47,9 +47,9 @@
 * [1.10: setInterval](1-front-end-basics/1-10-setinterval.md)
 * [1.11: Timer](1-front-end-basics/1-11-timer.md)
 * [1.12: Tic Tac Toe](1-front-end-basics/1-12-tic-tac-toe.md)
-* [Module 1 Post-Class Exercises](1-front-end-basics/module-1-post-class-exercises/README.md)
-  * [1- Noodles](1-front-end-basics/module-1-post-class-exercises/1-noodles.md)
-  * [2 - High Card DOM](1-front-end-basics/module-1-post-class-exercises/2-high-card-dom.md)
+* [1.E: Post-Class Exercises](1-front-end-basics/1-e-post-class-exercises/README.md)
+  * [1.E.1: Noodles](1-front-end-basics/1-e-post-class-exercises/1-e-1-noodles.md)
+  * [1.E.2: High Card DOM](1-front-end-basics/1-e-post-class-exercises/1-e-2-high-card-dom.md)
 
 ## 2️⃣ Back End Basics
 

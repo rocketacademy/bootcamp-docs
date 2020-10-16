@@ -1,4 +1,4 @@
-# 1- Noodles
+# 1.E.1: Noodles
 
 Begin with this empty [starter code.](https://github.com/rocketacademy/html-noodles-swe1)
 
