@@ -20,7 +20,7 @@
 
 * [Project 1: Video Poker](projects/project-video-poker.md)
 
-## 1️⃣ Front-End Basics
+## 1️⃣ Front End Basics
 
 * [1.0: Module 1 Overview](1-front-end-basics/1-0-module-1-overview.md)
 * [1.1: HTML & CSS](1-front-end-basics/1-1-html-and-css/README.md)
@@ -50,7 +50,7 @@
   * [1- Noodles](1-front-end-basics/module-1-post-class-exercises/1-noodles.md)
   * [2 - High Card DOM](1-front-end-basics/module-1-post-class-exercises/2-high-card-dom.md)
 
-## 2️⃣ Back-End Basics
+## 2️⃣ Back End Basics
 
 * [2.0: Module 2 Overview](2-back-end-basics/2-0-module-2-overview.md)
 * [2.1: My First Node Program](2-back-end-basics/2-1-my-first-node-program.md)
@@ -58,7 +58,7 @@
 * [2.3: Disk Storage](2-back-end-basics/2-3-disk-storage.md)
 * [2.4: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
 
-## 3️⃣ Back-End Application
+## 3️⃣ Back End Application
 
 ---
 
