@@ -38,7 +38,11 @@
 
 #### In-Class
 
+* Review pre-class material
+
 #### Post-Class
+
+* Extend High Card
 
 ### Day 3
 
@@ -50,6 +54,8 @@
 * [1.9: Match Game](../1-front-end-basics/1-9-match-game.md)
 
 #### In-Class
+
+* Review pre-class material
 
 #### Post-Class
 
@@ -63,6 +69,8 @@
 
 #### In-Class
 
+* Review pre-class material
+
 #### Post-Class
 
 ### Day 5
@@ -72,6 +80,8 @@
 * [1.12: Tic Tac Toe](../1-front-end-basics/1-12-tic-tac-toe.md)
 
 #### In-Class
+
+* Review pre-class material
 
 #### Post-Class
 
