@@ -8,14 +8,14 @@ We also want a global value that represents the state that the user has already 
 
 ## Globals
 
-```js
+```javascript
 // eslint-disable-next-line
 let canClick = true;
 ```
 
 ## Player Click Callbacks
 
-```js
+```javascript
 const player1Click = () => {
   if (playersTurn === 1 && canClick === true) {
     canClick = false;
@@ -59,3 +59,4 @@ const player2Click = () => {
   }
 };
 ```
+

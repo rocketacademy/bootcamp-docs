@@ -4,7 +4,7 @@ Create a game of tic tac toe.
 
 ## Globals
 
-```js
+```javascript
 const board = [
   ['', '', ''],
   ['', '', ''],
@@ -16,7 +16,7 @@ let boardElement;
 
 ## Game Init
 
-```js
+```javascript
 const buildBoard = (board) => {
   boardElement = document.createElement('div');
   boardElement.classList.add('board');
@@ -46,7 +46,7 @@ const gameInit = () => {
 
 ## Game Play
 
-```js
+```javascript
 const togglePlayer = () => {
   if (currentPlayer === 'X') {
     currentPlayer = 'O';
@@ -66,7 +66,7 @@ const squareClick = (column, row) => {
 
 Add a checkWin function when the player clicks a square
 
-```js
+```javascript
 const squareClick = function (column, row) {
   if (board[column][row] === '') {
     board[column][row] = currentPlayer;
@@ -79,7 +79,7 @@ const squareClick = function (column, row) {
 };
 ```
 
-```js
+```javascript
 const checkWin = (board) => {
   // check every position
   // there is a conditional for all 15 win conditions
@@ -94,3 +94,4 @@ const checkWin = (board) => {
   }
 };
 ```
+
