@@ -14,8 +14,8 @@
 
 ## 🛠 Course Logistics
 
-* [Back End Setup](course-logistics/backend-setup.md)
 * [Glossary](course-logistics/glossary.md)
+* [Back End Setup](course-logistics/backend-setup.md)
 
 ## 🏞 Projects
 
