@@ -1,4 +1,4 @@
-# 1.E.1: Noodles
+# 1.E.1: Noodle Recipe Website
 
 Begin with this empty [starter code.](https://github.com/rocketacademy/html-noodles-swe1)
 
@@ -20,5 +20,5 @@ When searching for the four recipes save a copy of each of the images into your 
 
 Create a main page that links to each noodle recipe page. \(Use an `a` tag\). Create a link on each other HTML page with a link back to the main page. 
 
-Create a page for the onion and chicken ingredients. Create lists of links to the recipes containing that ingredient.
+Create pages for the onion and chicken ingredients respectively. On each page, create lists of links to the recipes containing that ingredient, and a back link to the main page. Create links to the ingredient pages from the main page.
 
