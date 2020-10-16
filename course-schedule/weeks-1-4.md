@@ -117,6 +117,7 @@
 
 #### Pre-Class
 
+* [1.1.6: Web Design Basics](../1-front-end-basics/1-1-html-and-css/1.1.6-web-design-basics.md)
 * [1.1.7: CSS Bootstrap](../1-front-end-basics/1-1-html-and-css/1.1.7-bootstrap.md)
 
 #### In-Class
