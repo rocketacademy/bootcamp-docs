@@ -30,7 +30,7 @@
   * [1.1.2: Basic CSS](1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md)
   * [1.1.3: CSS Layout](1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md)
   * [1.1.4: Flexbox](1-front-end-basics/1-1-html-and-css/1.1.4-flexbox.md)
-  * [1.1.5: Responsive Pages](1-front-end-basics/1-1-html-and-css/1.1.5-responsive-pages.md)
+  * [1.1.5: Responsive Design](1-front-end-basics/1-1-html-and-css/1.1.5-responsive-design.md)
   * [1.1.6: Web Design Basics](1-front-end-basics/1-1-html-and-css/1.1.6-web-design-basics.md)
   * [1.1.7: Bootstrap](1-front-end-basics/1-1-html-and-css/1.1.7-bootstrap.md)
 * [1.2: ES6 Basics](1-front-end-basics/1-2-es6-basics.md)

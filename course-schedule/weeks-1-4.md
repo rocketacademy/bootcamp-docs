@@ -30,7 +30,7 @@
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md)
+* [1.1.2: Basic CSS Part 1](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-1)
 * [1.5: New High Card](../1-front-end-basics/1-5-new-high-card.md)
 * [1.6: Reading Documentation](../1-front-end-basics/1-6-reading-documentation.md)
 
@@ -42,7 +42,7 @@
 
 #### Pre-Class
 
-* [1.1: CSS Basics 2](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-2)
+* [1.1.2: Basic CSS Part 2](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-2)
 * [1.7: setTimeout](../1-front-end-basics/1-7-settimeout.md)
 * [1.8: High Card setTimeout](../1-front-end-basics/1-8-high-card-settimeout.md)
 * [1.9: Match Game](../1-front-end-basics/1-9-match-game.md)
@@ -55,7 +55,7 @@
 
 #### Pre-Class
 
-* [1.1: CSS Page Layout](../1-front-end-basics/1-1-html-and-css/#css-web-page-layout)
+* [1.1.3: CSS Layout Part 1](../1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md#part-1)
 * [1.10: setInterval](../1-front-end-basics/1-10-setinterval.md)
 * [1.11: Timer](../1-front-end-basics/1-11-timer.md)
 
@@ -87,7 +87,7 @@
 
 #### Pre-Class
 
-* [CSS Page Layout 2](../1-front-end-basics/1-1-html-and-css/#css-web-page-layout)
+* [1.1.3: CSS Page Layout 2](../1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md#part-2)
 
 #### In-Class
 
@@ -97,7 +97,7 @@
 
 #### Pre-Class
 
-* [CSS Flexbox](../1-front-end-basics/1-1-html-and-css/#flex-box)
+* [1.1.4: CSS Flexbox](../1-front-end-basics/1-1-html-and-css/1.1.4-flexbox.md)
 
 #### In-Class
 
@@ -107,7 +107,7 @@
 
 #### Pre-Class
 
-* [CSS Responsive Design](../1-front-end-basics/1-1-html-and-css/#responsive-pages)
+* [1.1.5: CSS Responsive Design](../1-front-end-basics/1-1-html-and-css/1.1.5-responsive-design.md)
 
 #### In-Class
 
@@ -117,7 +117,7 @@
 
 #### Pre-Class
 
-* [CSS Bootstrap](../1-front-end-basics/1-1-html-and-css/#bootstrap)
+* [1.1.7: CSS Bootstrap](../1-front-end-basics/1-1-html-and-css/1.1.7-bootstrap.md)
 
 #### In-Class
 
