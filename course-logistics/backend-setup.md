@@ -1,4 +1,4 @@
-# Required Hardware and Software Setup
+# Required Hardware and Software
 
 If you haven't already, make sure you've completed [Required Hardware and Software](https://swe101.rocketacademy.co/course-logistics/required-hardware-and-software) setup from SWE101.
 
