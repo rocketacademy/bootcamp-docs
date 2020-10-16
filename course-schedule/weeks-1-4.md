@@ -23,7 +23,7 @@
 
 #### Post-Class
 
-* [Noodles](../1-front-end-basics/1-e-post-class-exercises/1-e-1-noodles.md)
+* [1.E.1: Noodles](../1-front-end-basics/1-e-post-class-exercises/1-e-1-noodles.md)
 
 ### Day 2
 
