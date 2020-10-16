@@ -1,6 +1,6 @@
 # 1.4.2: Events
 
-### Defining an Input
+## Defining an Input
 
 {% embed url="https://youtu.be/6fEp-k32Tv8" caption="" %}
 
@@ -16,10 +16,11 @@ const myNewMain = (event) => {
 wowParagraph.addEventListener('click', myNewMain);
 ```
 
-{% hint style="info" %}
-\*\*\*\*
+## Exercises
 
-**Start with this repo:** [**https://github.com/rocketacademy/swe101-next-steps-dom**](https://github.com/rocketacademy/swe101-next-steps-dom)\*\*\*\*
+### Setup
+
+Start with this repo: [https://github.com/rocketacademy/swe101-next-steps-dom](https://github.com/rocketacademy/swe101-next-steps-dom)
 
 Every time you finish a section of the exercise, make a commit and start over in the same repo.
 
@@ -27,17 +28,17 @@ We'll be reusing some code from the previous DOM creation exercise.
 
 ![ss](../../.gitbook/assets/screen-shot-2020-09-29-at-6.52.58-pm.png)
 
-#### Click to Create
+### Click to Create
 
 Create a button in JavaScript and attach a listener callback function to it. When the user clicks the button, build the elements above.
 
-#### Other Events
+### Other Events
 
 Instead of the click event, attach other events to the button:`dblclick`, `mouseenter`, `mouseleave.`
 
 Use this page to find out more about these events: [https://developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 
-#### Click to Create Button
+### Click to Create Button
 
 Begin with the same button. 
 
@@ -51,7 +52,7 @@ When the grey boxes' button gets clicked, create another yellow box set of eleme
 
 This user has clicked the submit button three times. Not shown are any other grey boxes. \(There could be many\).
 
-**Click and Input**
+### **Click and Input**
 
 Create a button in JavaScript and attach a listener callback function to it.
 
@@ -62,5 +63,4 @@ When the user clicks the button in the grey box, the app creates another yellow 
 ![](../../.gitbook/assets/screen-shot-2020-10-15-at-5.27.39-pm.png)
 
 Example: This user has typed "_hello_" and clicked submit, and also typed "_world_" and clicked submit. Not shown are any other sets of grey boxes. \(There could be many\).
-{% endhint %}
 
