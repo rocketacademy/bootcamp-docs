@@ -22,6 +22,8 @@
 
 #### In-Class
 
+* Review pre-class material
+
 #### Post-Class
 
 * [1.E.1: Noodle Recipe Website](../1-front-end-basics/1-e-post-class-exercises/1-e-1-noodles.md)
