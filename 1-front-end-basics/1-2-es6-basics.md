@@ -134,7 +134,7 @@ The versions of JavaScript are tied to individual features of that version. You 
 The engineering decision of which version of JavaScript to select is always a balance between  the demographics of your user base and the cost of supporting an older version of the language. For example, a cutting edge product like GitHub is more likely to have a user demographic that uses the latest version of JavaScript vs. a government service website or broad consumer site like Lazada or Amazon.
 {% endhint %}
 
-## Exercise
+## Exercises
 
 #### `let` & `const`
 
@@ -151,6 +151,4 @@ You can change the definition of the `main` function in any old code from SWE101
 #### Template Literals
 
 Change one string output where you used plus sign and change it to a template literal.
-
-
 
