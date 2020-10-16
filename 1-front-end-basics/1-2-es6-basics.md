@@ -32,7 +32,7 @@ There are a few guidelines to how we choose to create variables with ES6:
 
 ## `let` with Basic Values 
 
-If the value we are going to store is a number, string, or boolean, use `let`.
+If the value we are going to store is a number, string, or boolean, and we expect the value of that variable to be reassigned later, use `let`.
 
 ```javascript
 let kilometers = 10;
@@ -89,15 +89,15 @@ This is also related to why you cannot compare two arrays. The array itself is n
 
 We'll change the default way we define functions in JavaScript.
 
-#### Old Way
+### Old Way
 
 ```javascript
-var rollDice = function(){
+var rollDice = function() {
   // random number stuff
 };
 ```
 
-#### New Way
+### New Way
 
 ```javascript
 const rollDice = () => {
@@ -111,13 +111,13 @@ We also always use `const` when defining a function.
 
 ## Template Literals
 
-#### Old Way
+### Old Way
 
 ```javascript
 var output = 'you rolled ' + diceRoll + '. nice job!';
 ```
 
-#### New Way
+### New Way
 
 ```javascript
 var output = `you rolled ${diceRoll}. nice job!`;
@@ -127,7 +127,7 @@ var output = `you rolled ${diceRoll}. nice job!`;
 {% hint style="warning" %}
 **Note:**
 
-The naming of the versions are confusing- see more [here](https://flaviocopes.com/ecmascript/) if you want to know the details..
+The naming of the versions are confusing- see more [here](https://flaviocopes.com/ecmascript/) if you want to know the details.
 
 The versions of JavaScript are tied to individual features of that version. You can see a matrix of the version and it's support in each popular platform [here](https://kangax.github.io/compat-table/es6/) for ES6 and [here](https://kangax.github.io/compat-table/esnext/) for the latest version.
 
@@ -136,19 +136,19 @@ The engineering decision of which version of JavaScript to select is always a ba
 
 ## Exercises
 
-#### `let` & `const`
+### `let` & `const`
 
 Open up the dev tools console in chrome. Follow the examples above to get the error. ****What does the error message say?
 
 Go back to an old piece of code you've written. Change a few of the variable declarations to `let` and `const`.
 
-#### Arrow Functions
+### Arrow Functions
 
 Go back to an old piece of code you've written. Change the function definition to use arrow functions in one place that you can easily test.
 
 You can change the definition of the `main` function in any old code from SWE101.
 
-#### Template Literals
+### Template Literals
 
 Change one string output where you used plus sign and change it to a template literal.
 
