@@ -1,12 +1,12 @@
 # 1.4.1: Creating Elements
 
-The `document` object gives the ability to create elements and put them on the screen.
+## HTML Elements as JavaScript Variables
 
-### HTML Elements as JavaScript Variables
+The `document` object gives the ability to create elements and put them on the screen.
 
 {% embed url="https://youtu.be/9E2wbG8Y6OY" caption="" %}
 
-### Creating an Output
+## Creating an Output
 
 We can use the DOM to create elements and put them on the page.
 
@@ -23,25 +23,24 @@ We use `const` to declare `coolParagraph` because we do not expect `coolParagrap
 After we've created this element we need to tell the DOM to put it into the page.
 
 ```javascript
-document.body.appendChild( coolParagraph );
+document.body.appendChild(coolParagraph);
 ```
 
 {% hint style="warning" %}
 When working with DOM elements in JavaScript, it's important to remember 3 things:
 
-1\) Elements are not visible unless they are appended into an element that is on the page. \(This can be any element on the page\).
-
-2\) Elements are empty unless you append something into them or set their contents
-
-3\) You can check your work by looking in the elements tab of the chrome dev tools and inspecting the elements your JavaScript put on screen.
+1. Elements are not visible unless they are appended into an element that is on the page. \(This can be any element on the page\).
+2. Elements are empty unless you append something into them or set their contents
+3. You can check your work by looking in the elements tab of the Chrome Dev Tools and inspecting the elements your JavaScript put on screen.
 {% endhint %}
 
+## Exercises
 
+### Setup
 
-{% hint style="info" %}
-**Start with this repo:** [**https://github.com/rocketacademy/swe101-next-steps-dom**](https://github.com/rocketacademy/swe101-next-steps-dom)\*\*\*\*
+Start with this repo: [https://github.com/rocketacademy/swe101-next-steps-dom](https://github.com/rocketacademy/swe101-next-steps-dom)
 
-Copy this css into your `index.html`
+Copy this CSS into your index.html
 
 ```css
 .word {
@@ -81,8 +80,6 @@ Create this set of HTML elements on the page, using JavaScript. The set of eleme
 
 It should look something like this:
 
-
-
 ![fdsf](../../.gitbook/assets/screen-shot-2020-09-29-at-6.52.58-pm.png)
 
 ### Element Creation in a Loop
@@ -108,7 +105,4 @@ Use this structured array to create a series of yellow boxes. \(The food should 
 ### Refactor
 
 Create a function for the creation of each kind of box. Pass the contents of the box as a parameter.
-{% endhint %}
-
-
 
