@@ -17,7 +17,7 @@ coolParagraph.innerText = 'hey, cool!!!1!';
 ```
 
 {% hint style="warning" %}
-Note that the data type of `coolParagraph` is an object, hence, `const`.
+We use `const` to declare `coolParagraph` because we do not expect `coolParagraph` to be reassigned a new value. See [1.2: ES6](../1-2-es6-basics.md#const-for-constant-values) to review `const`.
 {% endhint %}
 
 After we've created this element we need to tell the DOM to put it into the page.
