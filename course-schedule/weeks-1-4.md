@@ -15,6 +15,7 @@
 
 * [1.1.0: Wireframes](../1-front-end-basics/1-1-html-and-css/1.1.0-wireframes.md)
 * [1.1.1: HTML Basics](../1-front-end-basics/1-1-html-and-css/1.1.1-basic-html.md)
+* [1.2: ES6](../1-front-end-basics/1-2-es6-basics.md)
 * [1.4.1: DOM Review - Creating Elements](../1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
 * [1.4.2: DOM Review - Events](../1-front-end-basics/1-4-dom-review/1-4-2-events.md)
 
@@ -29,7 +30,6 @@
 #### Pre-Class
 
 * [1.1: CSS Basics 1](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-1)
-* [1.2: ES6](../1-front-end-basics/1-2-es6-basics.md#what-is-es-6)
 * [1.5: New High Card](../1-front-end-basics/1-6-new-high-card.md)
 * [1.6: Reading Documentation](../1-front-end-basics/1-5-reading-documentation.md)
 
