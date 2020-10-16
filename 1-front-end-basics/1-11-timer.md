@@ -2,9 +2,9 @@
 
 Use setTimeout and setInterval together to create a countdown timer.
 
-### Globals
+## Globals
 
-```js
+```javascript
 let milliseconds = 5000;
 let delayInMilliseconds = 1;
 const output = document.createElement('div');
@@ -12,12 +12,12 @@ output.innerText = milliseconds;
 document.body.appendChild(output);
 ```
 
-### Timer
+## Timer
 
-```js
+```javascript
 let ref =  setInterval( () => {
     output.innerText = milliseconds;
-    
+
     if( millisecnds <= 0 ){
         clearInterval( ref );
     }
@@ -26,9 +26,7 @@ let ref =  setInterval( () => {
 }, delayInMilliseconds );
 ```
 
-### Laps & Splits
+## Laps & Splits
 
-{% embed url="https://www.youtube.com/watch?v=BmkbHET5HuM" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=BmkbHET5HuM" caption="" %}
 

@@ -59,15 +59,13 @@ Click the triangles to see inside them.
 What is there?
 {% endhint %}
 
-### 
-
 ### Get Any Input
 
 Look up how to "listen" for any event: [https://www.w3schools.com/jsref/met\_document\_addeventlistener.asp](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
 
 You will also see this syntax:
 
-```js
+```javascript
 button.addEventListener('click', function(){
     console.log('clicked');
 });
@@ -94,7 +92,7 @@ Read through the comments to see what's actually happening.
 <button id="starter-button">submit me</button>
 ```
 
-```js
+```javascript
 // make a variable out of the input and button
 var input = document.querySelector('#starter-ex');
 var button = document.querySelector('#starter-button');

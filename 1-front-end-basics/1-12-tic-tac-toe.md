@@ -2,9 +2,9 @@
 
 Create a game of tic tac toe.
 
-### Globals
+## Globals
 
-```js
+```javascript
 const board = [
     ['','',''],
     ['','',''],
@@ -14,27 +14,27 @@ const board = [
 let boardElement;
 ```
 
-### Game Init
+## Game Init
 
-```js
+```javascript
 const gameInit = () => {
     buildBoard();
 };
 
 const buildBoard = (board) => {
-    
+
     boardElement = document.createElement('div');
     boardElement.classList.add('board');
-    
+
     for( let i=0; i<board.length; i++ ){
         let row = board[i];
         const rowElement = document.createElement('div');
         rowElement.classList.add('row');
-        
+
         for( let j=0; j<row.length; j++ ){
             const square = document.createElement('div');
             square.classList.add('square');
-            
+
             // async error
             square.addEventListener('click', ()=>{
                 squareClick( i,j );
@@ -45,9 +45,9 @@ const buildBoard = (board) => {
 };
 ```
 
-### Game Play
+## Game Play
 
-```js
+```javascript
 const squareClick = (column, row) => {
     if( board[column][row] === '' ){
         board[column][row] = currentPlayer;
@@ -67,7 +67,7 @@ const togglePlayer = () => {
 
 Add a checkWin function when the player clicks a square
 
-```js
+```javascript
 const squareClick = function(column, row){
     if( board[column][row] === '' ){
         board[column][row] = currentPlayer;
@@ -80,7 +80,7 @@ const squareClick = function(column, row){
 };
 ```
 
-```js
+```javascript
 const checkWin = (board) => {
 
     // check every position
@@ -88,7 +88,7 @@ const checkWin = (board) => {
     if( board[0][0] === board[0][1] === board[0][2] ){
         // XXX
     }
-    
+
     if( board[0][0] === board[1][0] === board[2][0] ){
         //X
         //X

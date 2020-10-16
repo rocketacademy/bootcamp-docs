@@ -14,3 +14,4 @@ HTML, CSS, and JS concepts do not only apply to making websites viewed on a trad
 
 1. Learn the basics of constructing the layout of a webpage in HTML and CSS.
 2. Dive deeper into JS fundamentals with more complex callbacks, deal with scope in callbacks.
+

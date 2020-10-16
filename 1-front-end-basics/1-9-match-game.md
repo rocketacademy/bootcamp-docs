@@ -2,9 +2,9 @@
 
 Create a card match game.
 
-### Globals
+## Globals
 
-```js
+```javascript
 const board = [];
 let firstCard = null;
 const boardSize = 6;
@@ -12,29 +12,29 @@ const boardSize = 6;
 let deck;
 ```
 
-### Game Init
+## Game Init
 
-```js
+```javascript
 const gameInit = () => {
     deck = shuffleCards( makeDeck() ); 
     buildBoard(board);
 };
 
 var buildBoard = (board) => {
-    
+
     const boardElement = document.createElement('div');
     boardElement.classList.add('board');
-    
+
     for( let i=0; i<board.length; i++ ){
         let row = board[i];
         const rowElement = document.createElement('div');
         rowElement.classList.add('row');
-        
+
         for( let j=0; j<row.length; j++ ){
             const square = document.createElement('div');
             square.classList.add('square');
             board[i][j] = deck.pop();
-            
+
             square.addEventListener('click', (event) => {
                 squareClick( event.target, i, j );
             });
@@ -44,9 +44,9 @@ var buildBoard = (board) => {
 };
 ```
 
-### Gameplay
+## Gameplay
 
-```js
+```javascript
 const squareClick = (cardElement, column, row) => {
     if( firstCard === null ){
         firstCard = board[column][row];

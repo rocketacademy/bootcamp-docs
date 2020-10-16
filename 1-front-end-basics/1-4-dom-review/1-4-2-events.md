@@ -8,7 +8,7 @@ An input to our JavaScript program is called an **event**. All this means is tha
 
 The function for an event is referred to as a _**callback**_ function.
 
-```js
+```javascript
 const myNewMain = (event) => {
     console.log('hey wow my new function');
 };
@@ -40,7 +40,7 @@ Use this page to find out more about these events: [https://developer.mozilla.or
 
 ### Click to Create Button
 
-Begin with the same button. 
+Begin with the same button.
 
 When the user clicks the button, build the elements above.
 

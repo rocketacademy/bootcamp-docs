@@ -61,11 +61,9 @@
 
 ## 3️⃣ Back End Application
 
----
-
-* [3.0: Module 3 Overview](3-0-module-3-overview.md)
-* [3.1: ES6 Iterators](3-1-es6-iterators.md)
-* [3.2: Intro to Express.js](3-2-intro-to-express-js.md)
+* [3.0: Module 3 Overview](3-back-end-application/3-0-module-3-overview.md)
+* [3.1: ES6 Iterators](3-back-end-application/3-1-es6-iterators.md)
+* [3.2: Intro to Express.js](3-back-end-application/3-2-intro-to-express-js.md)
 
 ## Extras
 

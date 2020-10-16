@@ -8,7 +8,7 @@ We'll be taking the High Card game done in SWE101 out of the starter code so we 
 
 The basic high card game is relatively similar to the original, non-DOM game.
 
-```js
+```javascript
 // get a random index from an array given it's size
 const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
@@ -16,6 +16,7 @@ const getRandomIndex = (size) => Math.floor(Math.random() * size);
 const shuffleCards = (cards) => {
   // Make a shallow copy of `cards`
   const shuffledCards = { ...cards };
+  
   // loop over the entire cards array
   for (let currentIndex = 0; currentIndex < shuffledCards.length; currentIndex += 1) {
     // select a random position from the deck
@@ -135,9 +136,25 @@ player2Button.addEventListener('click', () => {
 
 This is already a lot of code, so we'll arrange all the code so that it's easier to talk about:
 
+### Global Setup
+
+```javascript
+const deck = shuffleCards(makeDeck());
+
+const playersTurn = 1; // matches with starting instructions
+let player1Card;
+let player2Card;
+
+const player1Button = document.createElement('button');
+
+const player2Button = document.createElement('button');
+
+const gameInfo = document.createElement('div');
+```
+
 ### Helper Functions
 
-```js
+```javascript
 // get a random index from an array given it's size
 const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
@@ -145,6 +162,7 @@ const getRandomIndex = (size) => Math.floor(Math.random() * size);
 const shuffleCards = (cards) => {
   // Make a shallow copy of `cards`
   const shuffledCards = { ...cards };
+  
   // loop over the entire cards array
   for (let currentIndex = 0; currentIndex < shuffledCards.length; currentIndex += 1) {
     // select a random position from the deck
@@ -214,25 +232,9 @@ const output = (message) => {
 };
 ```
 
-### Global Setup
-
-```js
-const deck = shuffleCards(makeDeck());
-
-const playersTurn = 1; // matches with starting instructions
-let player1Card;
-let player2Card;
-
-const player1Button = document.createElement('button');
-
-const player2Button = document.createElement('button');
-
-const gameInfo = document.createElement('div');
-```
-
 ### Player Action Callbacks
 
-```js
+```javascript
 const player1Click = () => {
   if (playersTurn === 1) {
     player1Card = deck.pop();
@@ -254,14 +256,13 @@ const player2Click = () => {
     }
   }
 };
-
 ```
 
 ### Game Initialization
 
 Let's put all of these steps in a function.
 
-```js
+```javascript
 const gameInit = () => {
   // initialize button functionality
   player1Button.innerText = 'Player 1 Draw';
@@ -287,11 +288,9 @@ DOM allows us to affect what we see on the screen in a more comprehensive way.
 
 When working with DOM \(HTML\) elements and visual output we'll also use a few principals to make our code easier to write:
 
-1\) Hard code the HTML first to figure out what structure you need, before coding the JavaScript for that element.
-
-2\) When applying CSS to an element we can control the styles with the element CSS class \(or set of classes\). Unless absolutely necessary, we'll avoid directly applying any CSS styles to a DOM element.
-
-3\) Try to write a helper function for every element that gets affected or put on screen. Think about this as passing a specific set of values out of your main logic. Don't mix your element structure and styles with your logic.
+1. Hard code the HTML first to figure out what structure you need, before coding the JavaScript for that element.
+2. When applying CSS to an element we can control the styles with the element CSS class \(or set of classes\). Unless absolutely necessary, we'll avoid directly applying any CSS styles to a DOM element.
+3. Try to write a helper function for every element that gets affected or put on screen. Think about this as passing a specific set of values out of your main logic. Don't mix your element structure and styles with your logic.
 
 This might be the HTML we want for a single card:
 
@@ -350,7 +349,7 @@ For the sake of convenience we also want to make a place for our JavaScript to p
 
 The JavaScript to build the card element might look like this:
 
-```js
+```javascript
 const suit = document.createElement('div');
 suit.classList.add('suit');
 suit.innerText = '♥️';
@@ -370,7 +369,7 @@ We want to extract this out into a function so that we can use it to create the 
 
 We also added the card color in the example. In order to get this behavior for every card we could have implemented some logic:
 
-```js
+```javascript
 // if the suit is heart or diamond
 // the color is red
 ```
@@ -381,7 +380,7 @@ If we want to add other stylistic features we could also decide to change the na
 
 That is, in our example card layout above there is not room for a full name face card, like `queen` . We can add another attribute to the object:
 
-```js
+```javascript
 const cardInfo = {
   suitSymbol: '♦️',
   suit: 'diamond',
@@ -394,7 +393,7 @@ const cardInfo = {
 
 Now we can use the attributes in the `createCard` function:
 
-```js
+```javascript
 const createCard = (cardInfo) => {
   const suit = document.createElement('div');
   suit.classList.add('suit');
@@ -422,13 +421,13 @@ We can go back and hard-code all of these attributes into a deck array. But how 
 
 Add the `cardContainer` DOM element global variable to the globals:
 
-```js
+```javascript
 const cardContainer;
 ```
 
 Add the `card-container` div to the `gameInit` function:
 
-```js
+```javascript
 cardContainer = document.createElement('div');
 card.classList.add('card-container');
 document.body.appendChild(cardContainer);
@@ -436,7 +435,7 @@ document.body.appendChild(cardContainer);
 
 Let's take a look at the button callback functions:
 
-```js
+```javascript
 const player1Click = () => {
   if (playersTurn === 1) {
     player1Card = deck.pop();
@@ -475,3 +474,4 @@ const cardOutput = (message) => {
   gameInfo.innerText = message;
 };
 ```
+

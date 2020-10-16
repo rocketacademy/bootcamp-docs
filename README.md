@@ -18,7 +18,7 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 | :--- | :--- | :--- | :--- |
 | 1 | [Front End Basics](1-front-end-basics/1-0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
 | 2 | [Back End Basics](2-back-end-basics/2-0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
-| 3 | [Back End Application](3-0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
+| 3 | [Back End Application](3-back-end-application/3-0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
 | 4 | Full Stack Application | Full Stack Web Applications, MVC Architecture, ORM, APIs, AJAX | Full Stack |
 | 5 | React | React, Webpack | Front End |
 | 6 | Advanced React, Advanced Full Stack | React Context, Suspense, Create React App, Sockets, GraphQL | Full Stack |

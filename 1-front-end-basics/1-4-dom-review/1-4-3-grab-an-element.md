@@ -1,6 +1,6 @@
 # 1.4.3: Grab an Element
 
-### Grabbing DOM Elements
+## Grabbing DOM Elements
 
 {% embed url="https://youtu.be/eLYFvfY1lKU" caption="" %}
 
@@ -14,11 +14,11 @@ Given this element:
 
 We can create a variable that "grabs" it from the DOM.
 
-```js
+```javascript
 const wowParagraph = document.querySelector('#wow');
 ```
 
-### Grab Any Element
+## Grab Any Element
 
 To review how element selection works, see the simple examples on this page.
 
