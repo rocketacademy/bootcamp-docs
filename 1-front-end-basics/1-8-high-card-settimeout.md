@@ -8,13 +8,13 @@ We also want a global value that  represents the state that the user has already
 
 ### Globals
 
-```javascript
+```js
 let canClick = true;
 ```
 
 ### Player Click Callbacks 
 
-```javascript
+```js
 const player1Click = () => {
   if( playersTurn === 1 && canClick === true ){
     canClick = false;

@@ -1,12 +1,12 @@
 # 1.2: ES6 Basics
 
-## What is ES6?
+## What is ES6
 
 Every language matures and comes out with new versions as time goes on.
 
 For JavaScript the language began with very few features and has slowly been adding new ones over time.
 
-JavaScript is somewhat unique in that the version will always be tied to _**where the JavaScript is running**_. Which \(for front-end\) is in the browser of a user whose device that you as the programmer/company do not control- you do not know if the person is accessing your site from a brand new iPhone or from a [smart fridge](https://www.theguardian.com/technology/2019/aug/13/teen-smart-fridge-twitter-grounded). On many devices users are completely unable to upgrade their browser, the software that contains the specific version of JavaScript. 
+JavaScript is somewhat unique in that the version will always be tied to _**where the JavaScript is running**_. Which \(for front-end\) is in the browser of a user whose device that you as the programmer/company do not control- you do not know if the person is accessing your site from a brand new iPhone or from a [smart fridge](https://www.theguardian.com/technology/2019/aug/13/teen-smart-fridge-twitter-grounded). On many devices users are completely unable to upgrade their browser, the software that contains the specific version of JavaScript.
 
 The version of JavaScript we'll be using is not the very latest one, because most devices would not support it. We'll be learning features of ES6, which is the last, newest, widely supported version of JavaScript. It was released in 2015.
 
@@ -16,39 +16,39 @@ We'll be adding these ES features as we go along.
 
 So far we've created variables with `var`.
 
-```javascript
-var kilometers = 10;
-var randomDiceRolls = [3,2,4,5];
+```js
+const kilometers = 10;
+const randomDiceRolls = [3, 2, 4, 5];
 ```
 
 In ES6 we will change the standard way we create variables.
 
-```javascript
-let kilometers = 10;
-const randomDiceRolls = [3,2,4,1];
+```js
+const kilometers = 10;
+const randomDiceRolls = [3, 2, 4, 1];
 ```
 
 There are a few guidelines to how we choose to create variables with ES6:
 
-## `let` with Basic Values 
+## `let` with Basic Values
 
 If the value we are going to store is a number, string, or boolean, and we expect the value of that variable to be reassigned later, use `let`.
 
-```javascript
-let kilometers = 10;
+```js
+const kilometers = 10;
 ```
 
 ## `const` for constant values
 
-If it's a basic value, but this value won't change for the life of your program, use `const`. 
+If it's a basic value, but this value won't change for the life of your program, use `const`.
 
-```javascript
+```js
 const sidesOfDice = 6;
 ```
 
 #### Reassigning a value with const is an error
 
-```javascript
+```js
 const pi = 3.14;
 pi = 99999; // you will get an error with this line
 ```
@@ -57,8 +57,8 @@ pi = 99999; // you will get an error with this line
 
 If we are creating an array or object, use const.
 
-```javascript
-const diceRolls = [3,4,1,6,1];
+```js
+const diceRolls = [3, 4, 1, 6, 1];
 ```
 
 ### Reference vs. Value
@@ -67,22 +67,22 @@ A common question is, with `const`, does that mean that the value of an array is
 
 #### Altering the values _inside_ an array \(works fine\)
 
-```javascript
-const diceRolls = [4,2,1,4];
+```js
+const diceRolls = [4, 2, 1, 4];
 diceRolls.push(5); // this affects the values *inside* the array, not the array itself
 ```
 
 #### Altering the values _of the variable_ \(an error\)
 
-```javascript
-const diceRolls = [4,2,1,4];
+```js
+const diceRolls = [4, 2, 1, 4];
 diceRolls = 99; // this will be an error
 ```
 
 This is also related to why you cannot compare two arrays. The array itself is not equivalent to the values inside it.
 
-```javascript
-[1,2,3] === [1,2,3] // this boolean statement will not be true
+```js
+[1, 2, 3] === [1, 2, 3] // this boolean statement will not be true
 ```
 
 ## Arrow Functions
@@ -91,15 +91,15 @@ We'll change the default way we define functions in JavaScript.
 
 ### Old Way
 
-```javascript
-var rollDice = function() {
+```js
+const rollDice = function () {
   // random number stuff
 };
 ```
 
 ### New Way
 
-```javascript
+```js
 const rollDice = () => {
   // random number stuff
 };
@@ -113,14 +113,14 @@ We also always use `const` when defining a function.
 
 ### Old Way
 
-```javascript
-var output = 'you rolled ' + diceRoll + '. nice job!';
+```js
+const output = `you rolled ${diceRoll}. nice job!`;
 ```
 
 ### New Way
 
-```javascript
-var output = `you rolled ${diceRoll}. nice job!`;
+```js
+const output = `you rolled ${diceRoll}. nice job!`;
 
 ```
 
@@ -151,4 +151,3 @@ You can change the definition of the `main` function in any old code from SWE101
 ### Template Literals
 
 Change one string output where you used plus sign and change it to a template literal.
-

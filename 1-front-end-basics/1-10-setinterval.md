@@ -2,7 +2,7 @@
 
 `setInterval` repeats a callback function over and over again.
 
-```javascript
+```js
 console.log('starting...');
 
 const delayInMiliseconds = 1000; // this is one second
@@ -17,7 +17,7 @@ console.log('banans!');
 
 
 
-```javascript
+```js
 console.log('starting...');
 
 const delayInMiliseconds = 1000; // this is one second

@@ -4,7 +4,7 @@ Create a card match game.
 
 ### Globals
 
-```javascript
+```js
 const board = [];
 let firstCard = null;
 const boardSize = 6;
@@ -14,7 +14,7 @@ let deck;
 
 ### Game Init
 
-```javascript
+```js
 const gameInit = () => {
     deck = shuffleCards( makeDeck() ); 
     buildBoard(board);
@@ -46,7 +46,7 @@ var buildBoard = (board) => {
 
 ### Gameplay
 
-```javascript
+```js
 const squareClick = (cardElement, column, row) => {
     if( firstCard === null ){
         firstCard = board[column][row];

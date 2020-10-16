@@ -8,57 +8,49 @@ We'll be taking the High Card game done in SWE101 out of the starter code so we 
 
 The basic high card game is relatively similar to the original, non-DOM game.
 
-```javascript
+```js
 // get a random index from an array given it's size
-const getRandomIndex = (size) => {
-  return Math.floor(Math.random() * size);
-};
+const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
 // cards is an array of card objects
 const shuffleCards = (cards) => {
-
+  // Make a shallow copy of `cards`
+  const shuffledCards = { ...cards };
   // loop over the entire cards array
-  for( let i=0; i<cards.length; i++ ){
-  
+  for (let currentIndex = 0; currentIndex < shuffledCards.length; currentIndex += 1) {
     // select a random position from the deck
-    let randomIndex = getRandomIndex(cards.length);
+    const randomIndex = getRandomIndex(shuffledCards.length);
 
     // get the current card in the loop
-    const currentItem = cards[i];
+    const currentItem = shuffledCards[currentIndex];
 
     // get the random card
-    const randomItem = cards[randomIndex];
+    const randomItem = shuffledCards[randomIndex];
 
     // swap the current card and the random card
-    cards[currentIndex] = randomItem;
-    cards[randomIndex] = currentItem;
+    shuffledCards[currentIndex] = randomItem;
+    shuffledCards[randomIndex] = currentItem;
   }
 
   // give back the shuffled deck
-  return cards;
+  return shuffledCards;
 };
 
 const makeDeck = () => {
-
-  // create the empty deck at the beginning 
-  const deck = [];
-
+  // create the empty deck at the beginning
+  const newDeck = [];
   const suits = ['hearts', 'diamonds', 'clubs', 'spades'];
 
-  let suitIndex = 0;
-  for( let i=0; i<suits.length; i++ ){
-
+  for (let suitIndex = 0; suitIndex < suits.length; suitIndex += 1) {
     // make a variable of the current suit
-    var currentSuit = suits[i];
-    console.log(`current suit : ${currentSuit}`);
+    const currentSuit = suits[suitIndex];
+    console.log(`current suit: ${currentSuit}`);
 
     // loop to create all cards in this suit
     // rank 1-13
-    let rankCounter = 1;
-    for( let j=0; j<suits.length; j++ ){
-
-    while (rankCounter <= 13) {
-      let cardName = rankCounter+''; // make this into a string
+    for (let rankCounter = 1; rankCounter <= 13; rankCounter += 1) {
+      // Convert rankCounter to string
+      let cardName = `${rankCounter}`;
 
       // 1, 11, 12 ,13
       if (cardName === '1') {
@@ -75,21 +67,20 @@ const makeDeck = () => {
       const card = {
         name: cardName,
         suit: currentSuit,
-        rank: rankCounter
+        rank: rankCounter,
       };
 
-      console.log("rank : " + rankCounter);
+      console.log(`rank: ${rankCounter}`);
 
       // add the card to the deck
-      deck.push(card);
+      newDeck.push(card);
     }
   }
 
-  return deck;
-
+  return newDeck;
 };
 
-const deck = shuffleCards( makeDeck() );
+const deck = shuffleCards(makeDeck());
 
 let playersTurn = 1; // matches with starting instructions
 
@@ -98,44 +89,17 @@ let player1Card; // don't use const for this player card object
 // create two buttons
 const player1Button = document.createElement('button');
 player1Button.innerText = 'Player 1 Draw';
-document.body.appendChild( player1Button );
+document.body.appendChild(player1Button);
 
 const player2Button = document.createElement('button');
 player2Button.innerText = 'Player 2 Draw';
-document.body.appendChild( player2Button );
+document.body.appendChild(player2Button);
 
 // create game info div as global value
 // fill game info div with starting instructions
 const gameInfo = document.createElement('div');
 gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
-document.body.appendChild( gameInfo );
-
-player1Button.addEventListener('click',()=>{
-  if( playersTurn === 1 ){
-    player1Card = deck.pop();
-    playersTurn = 2;
-  }
-});
-
-player2Button.addEventListener('click',()=>{
-
-  if( playersTurn === 2 ){
-  
-    const player2Card = deck.pop();
-    playersTurn = 1;
-
-    if( player1Card.rank > player2Card.rank ){
-      
-      output('player 1 wins');
-    }else if( player1Card.rank < player2Card.rank ){
-    
-      output('player 2 wins');
-    }else{
-    
-      output('tie');
-    }
-  }
-});
+document.body.appendChild(gameInfo);
 
 // don't write the dom manipulation
 // code inline in the conditional
@@ -143,6 +107,28 @@ player2Button.addEventListener('click',()=>{
 const output = (message) => {
   gameInfo.innerText = message;
 };
+
+player1Button.addEventListener('click', () => {
+  if (playersTurn === 1) {
+    player1Card = deck.pop();
+    playersTurn = 2;
+  }
+});
+
+player2Button.addEventListener('click', () => {
+  if (playersTurn === 2) {
+    const player2Card = deck.pop();
+    playersTurn = 1;
+
+    if (player1Card.rank > player2Card.rank) {
+      output('player 1 wins');
+    } else if (player1Card.rank < player2Card.rank) {
+      output('player 2 wins');
+    } else {
+      output('tie');
+    }
+  }
+});
 ```
 
 ## Refactor
@@ -151,55 +137,49 @@ This is already a lot of code, so we'll arrange all the code so that it's easier
 
 ### Helper Functions
 
-```javascript
+```js
 // get a random index from an array given it's size
-const getRandomIndex = (size) => {
-  return Math.floor(Math.random() * size);
-};
+const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
 // cards is an array of card objects
 const shuffleCards = (cards) => {
-
+  // Make a shallow copy of `cards`
+  const shuffledCards = { ...cards };
   // loop over the entire cards array
-  for( let i=0; i<cards.length; i++ ){
-  
+  for (let currentIndex = 0; currentIndex < shuffledCards.length; currentIndex += 1) {
     // select a random position from the deck
-    let randomIndex = getRandomIndex(cards.length);
+    const randomIndex = getRandomIndex(shuffledCards.length);
 
     // get the current card in the loop
-    const currentItem = cards[i];
+    const currentItem = shuffledCards[currentIndex];
 
     // get the random card
-    const randomItem = cards[randomIndex];
+    const randomItem = shuffledCards[randomIndex];
 
     // swap the current card and the random card
-    cards[currentIndex] = randomItem;
-    cards[randomIndex] = currentItem;
+    shuffledCards[currentIndex] = randomItem;
+    shuffledCards[randomIndex] = currentItem;
   }
 
   // give back the shuffled deck
-  return cards;
+  return shuffledCards;
 };
 
 const makeDeck = () => {
-
-  // create the empty deck at the beginning 
-  const deck = [];
-
+  // create the empty deck at the beginning
+  const newDeck = [];
   const suits = ['hearts', 'diamonds', 'clubs', 'spades'];
 
-  let suitIndex = 0;
-  for( let i=0; i<suits.length; i++ ){
-
+  for (let suitIndex = 0; suitIndex < suits.length; suitIndex += 1) {
     // make a variable of the current suit
-    let currentSuit = suits[i];
-    console.log(`current suit : ${currentSuit}`);
+    const currentSuit = suits[suitIndex];
+    console.log(`current suit: ${currentSuit}`);
 
     // loop to create all cards in this suit
     // rank 1-13
-    for( let j=1; j<=13; j++ ){
-      
-      let cardName = j+''; // make this into a string
+    for (let rankCounter = 1; rankCounter <= 13; rankCounter += 1) {
+      // Convert rankCounter to string
+      let cardName = `${rankCounter}`;
 
       // 1, 11, 12 ,13
       if (cardName === '1') {
@@ -216,31 +196,30 @@ const makeDeck = () => {
       const card = {
         name: cardName,
         suit: currentSuit,
-        rank: rankCounter
+        rank: rankCounter,
       };
 
-      console.log("rank : " + rankCounter);
+      console.log(`rank: ${rankCounter}`);
 
       // add the card to the deck
-      deck.push(card);
+      newDeck.push(card);
     }
   }
 
-  return deck;
-
+  return newDeck;
 };
 
-var output = (message) => {
+const output = (message) => {
   gameInfo.innerText = message;
 };
 ```
 
 ### Global Setup
 
-```javascript
-const deck = shuffleCards( makeDeck() );
+```js
+const deck = shuffleCards(makeDeck());
 
-let playersTurn = 1; // matches with starting instructions
+const playersTurn = 1; // matches with starting instructions
 let player1Card;
 let player2Card;
 
@@ -253,29 +232,24 @@ const gameInfo = document.createElement('div');
 
 ### Player Action Callbacks
 
-```javascript
+```js
 const player1Click = () => {
-  if( playersTurn === 1 ){
+  if (playersTurn === 1) {
     player1Card = deck.pop();
     playersTurn = 2;
   }
 };
 
 const player2Click = () => {
-
-  if( playersTurn === 2 ){
-  
-    var player2Card = deck.pop();
+  if (playersTurn === 2) {
+    const player2Card = deck.pop();
     playersTurn = 1;
 
-    if( player1Card.rank > player2Card.rank ){
-      
+    if (player1Card.rank > player2Card.rank) {
       output('player 1 wins');
-    }else if( player1Card.rank < player2Card.rank ){
-    
+    } else if (player1Card.rank < player2Card.rank) {
       output('player 2 wins');
-    }else{
-    
+    } else {
       output('tie');
     }
   }
@@ -287,22 +261,21 @@ const player2Click = () => {
 
 Let's put all of these steps in a function.
 
-```javascript
-var gameInit = () => {
-    // initialize button functionality
-    player1Button.innerText = 'Player 1 Draw';
-    document.body.appendChild( player1Button );
-    
-    player2Button.innerText = 'Player 2 Draw';
-    document.body.appendChild( player2Button );
-    
-    player1Button.addEventListener('click',player1Click);
-    player2Button.addEventListener('click',player2Click);
-    
+```js
+const gameInit = () => {
+  // initialize button functionality
+  player1Button.innerText = 'Player 1 Draw';
+  document.body.appendChild(player1Button);
 
-    // fill game info div with starting instructions
-    gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
-    document.body.appendChild( gameInfo );
+  player2Button.innerText = 'Player 2 Draw';
+  document.body.appendChild(player2Button);
+
+  player1Button.addEventListener('click', player1Click);
+  player2Button.addEventListener('click', player2Click);
+
+  // fill game info div with starting instructions
+  gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
+  document.body.appendChild(gameInfo);
 };
 ```
 
@@ -360,7 +333,7 @@ We should be able to test this code in the HTML file.
 
 ![](../.gitbook/assets/screen-shot-2020-10-08-at-2.40.35-pm-2-.png)
 
-For the sake of convenience we also want to make a place for our javascript to put these cards within the game:
+For the sake of convenience we also want to make a place for our JavaScript to put these cards within the game:
 
 ```markup
 <div class="card-container">
@@ -372,18 +345,18 @@ For the sake of convenience we also want to make a place for our javascript to p
         <div class="name red">4</div>
         <div class="suit">♥️</div>
     </div>
-</div> 
+</div>
 ```
 
 The JavaScript to build the card element might look like this:
 
-```javascript
+```js
 const suit = document.createElement('div');
 suit.classList.add('suit');
 suit.innerText = '♥️';
 
 const name = document.createElement('div');
-name.classList.add('name','red');
+name.classList.add('name', 'red');
 name.innerText = '3';
 
 const card = document.createElement('div');
@@ -397,9 +370,9 @@ We want to extract this out into a function so that we can use it to create the 
 
 We also added the card color in the example. In order to get this behavior for every card we could have implemented some logic:
 
-```javascript
-// if the suit is heart or diamond 
-    // the color is red
+```js
+// if the suit is heart or diamond
+// the color is red
 ```
 
 But it would be a bit easier to encode this into the data of the card itself.
@@ -408,36 +381,36 @@ If we want to add other stylistic features we could also decide to change the na
 
 That is, in our example card layout above there is not room for a full name face card, like `queen` . We can add another attribute to the object:
 
-```javascript
-const card = {
-    suitSymbol: '♦️',
-    suit: 'diamond',
-    name: 'queen',
-    display: 'Q',
-    color: 'red',
-    rank: 12
+```js
+const cardInfo = {
+  suitSymbol: '♦️',
+  suit: 'diamond',
+  name: 'queen',
+  display: 'Q',
+  color: 'red',
+  rank: 12,
 };
 ```
 
 Now we can use the attributes in the `createCard` function:
 
-```javascript
-const createCard = (card) => {
-    const suit = document.createElement('div');
-    suit.classList.add('suit');
-    suit.innerText = card.suitSymbol;
-    
-    const name = document.createElement('div');
-    name.classList.add(card.display, card.color);
-    name.innerText = '3';
-    
-    const card = document.createElement('div');
-    card.classList.add('card');
-    
-    card.appendChild(name);
-    card.appendChild(suit);
-    
-    return card;
+```js
+const createCard = (cardInfo) => {
+  const suit = document.createElement('div');
+  suit.classList.add('suit');
+  suit.innerText = cardInfo.suitSymbol;
+
+  const name = document.createElement('div');
+  name.classList.add(cardInfo.display, cardInfo.color);
+  name.innerText = '3';
+
+  const card = document.createElement('div');
+  card.classList.add('card');
+
+  card.appendChild(name);
+  card.appendChild(suit);
+
+  return card;
 };
 ```
 
@@ -449,65 +422,56 @@ We can go back and hard-code all of these attributes into a deck array. But how 
 
 Add the `cardContainer` DOM element global variable to the globals:
 
-```javascript
+```js
 const cardContainer;
 ```
 
 Add the `card-container` div to the `gameInit` function:
 
-```javascript
+```js
 cardContainer = document.createElement('div');
 card.classList.add('card-container');
-document.body.appendChild( cardContainer );
+document.body.appendChild(cardContainer);
 ```
 
 Let's take a look at the button callback functions:
 
-```javascript
+```js
 const player1Click = () => {
-  if( playersTurn === 1 ){
-  
+  if (playersTurn === 1) {
     player1Card = deck.pop();
-    
-    const cardElement = createCard( playerCard );
-    
+
+    const cardElement = createCard(playerCard);
+
     // in case this is not the 1st time
     // in the entire app,
     // empty the card container
     cardContainer.innerHTML = '';
-    
-    cardContainer.appendChild( cardElement );
-    
+
+    cardContainer.appendChild(cardElement);
+
     playersTurn = 2;
   }
-});
+};
 
 const player2Click = () => {
-
-  if( playersTurn === 2 ){
-  
+  if (playersTurn === 2) {
     const player2Card = deck.pop();
-    cardContainer.appendChild( cardElement );
+    cardContainer.appendChild(cardElement);
 
     playersTurn = 1;
 
-    if( player1Card.rank > player2Card.rank ){
-      
+    if (player1Card.rank > player2Card.rank) {
       output('player 1 wins');
-    }else if( player1Card.rank < player2Card.rank ){
-    
+    } else if (player1Card.rank < player2Card.rank) {
       output('player 2 wins');
-    }else{
-    
+    } else {
       output('tie');
     }
   }
-});
+};
 
 const cardOutput = (message) => {
   gameInfo.innerText = message;
 };
 ```
-
-
-

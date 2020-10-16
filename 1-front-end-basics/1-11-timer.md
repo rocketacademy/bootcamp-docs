@@ -4,7 +4,7 @@ Use setTimeout and setInterval together to create a countdown timer.
 
 ### Globals
 
-```javascript
+```js
 let milliseconds = 5000;
 let delayInMilliseconds = 1;
 const output = document.createElement('div');
@@ -14,7 +14,7 @@ document.body.appendChild(output);
 
 ### Timer
 
-```javascript
+```js
 let ref =  setInterval( () => {
     output.innerText = milliseconds;
     

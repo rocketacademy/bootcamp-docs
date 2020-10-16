@@ -2,7 +2,7 @@
 
 Create some command line programs in JavaScript
 
-```javascript
+```js
 let distanceInKilometers = process.argv[2];
 
 let distanceInMiles = distanceInKilometers * 0.62;
