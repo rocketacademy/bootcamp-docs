@@ -14,8 +14,8 @@
 
 ## 🛠 Course Logistics
 
-* [Glossary](course-logistics/glossary.md)
 * [Required Hardware and Software](course-logistics/backend-setup.md)
+* [Glossary](course-logistics/glossary.md)
 
 ## 🏞 Projects
 
