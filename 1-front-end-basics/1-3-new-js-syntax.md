@@ -63,7 +63,7 @@ If your variable also represents something else, don't name it `i`, name it some
 
 ```javascript
 // initialize loop
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i+=1) {
   // main part of the loop
   console.log(`current counter: ${i}`);
 }

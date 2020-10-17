@@ -124,7 +124,7 @@ button.addEventListener('click', myButtonClicked);
 ## Exercises
 
 {% hint style="info" %}
-**Start with this repo:** [**https://github.com/rocketacademy/swe101-next-steps-dom**](https://github.com/rocketacademy/swe101-next-steps-dom)\*\*\*\*
+**Start with this repo:** [**https://github.com/rocketacademy/swe101-next-steps-dom**](https://github.com/rocketacademy/swe101-next-steps-dom)
 
 **1\) Implement the above code.**
 {% endhint %}

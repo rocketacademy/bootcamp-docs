@@ -17,14 +17,14 @@ We'll be adding these ES features as we go along.
 So far we've created variables with `var`.
 
 ```javascript
-const kilometers = 10;
+let kilometers = 10;
 const randomDiceRolls = [3, 2, 4, 5];
 ```
 
 In ES6 we will change the standard way we create variables.
 
 ```javascript
-const kilometers = 10;
+let kilometers = 10;
 const randomDiceRolls = [3, 2, 4, 1];
 ```
 
@@ -35,7 +35,7 @@ There are a few guidelines to how we choose to create variables with ES6:
 If the value we are going to store is a number, string, or boolean, and we expect the value of that variable to be reassigned later, use `let`.
 
 ```javascript
-const kilometers = 10;
+let kilometers = 10;
 ```
 
 ## `const` for constant values
@@ -85,6 +85,47 @@ This is also related to why you cannot compare two arrays. The array itself is n
 [1, 2, 3] === [1, 2, 3] // this boolean statement will not be true
 ```
 
+## Block Scope
+
+Variables you define in things like an if statement will not be available anymore.
+
+#### Old Way
+
+```javascript
+if( diceRoll === 6 ){
+    var win = true;
+}
+console.log(win); // this will be true
+```
+
+#### New Way
+
+```javascript
+if( diceRoll === 6 ){
+    let win = true;
+}
+
+// this will error- win variable doesn't
+// exist here, outside the if statement
+console.log(win);
+```
+
+```javascript
+if( diceRoll === 6 ){
+    const win = true;
+}
+
+// this will error- win variable doesn't
+// exist here, outside the if statement
+console.log(win);
+```
+
+Block scope refers to JavaScript **blocks**, which are if, \(and else if, etc.\), loops and switch statements. `let` and `const` values declared in a block will not exists outside the block.
+
+{% hint style="warning" %}
+Note that blocks here equates to curly braces- except for functions. Functions behave similarly but different in terms of variable availability, which is referred to as _function scope_.
+{% endhint %}
+
 ## Arrow Functions
 
 We'll change the default way we define functions in JavaScript.
@@ -114,30 +155,32 @@ We also always use `const` when defining a function.
 ### Old Way
 
 ```javascript
-const output = `you rolled ${diceRoll}. nice job!`;
+let output = 'you rolled ' + diceRoll + '. nice job!';
 ```
 
 ### New Way
 
 ```javascript
-const output = `you rolled ${diceRoll}. nice job!`;
+let output = `you rolled ${diceRoll}. nice job!`;
 ```
 
 {% hint style="warning" %}
 **Note:**
 
-The naming of the versions are confusing- see more [here](https://flaviocopes.com/ecmascript/) if you want to know the details.
+The naming of the JavaScript versions are confusing- see more [here](https://flaviocopes.com/ecmascript/) if you want to know the details.
 
 The versions of JavaScript are tied to individual features of that version. You can see a matrix of the version and it's support in each popular platform [here](https://kangax.github.io/compat-table/es6/) for ES6 and [here](https://kangax.github.io/compat-table/esnext/) for the latest version.
 
-The engineering decision of which version of JavaScript to select is always a balance between the demographics of your user base and the cost of supporting an older version of the language. For example, a cutting edge product like GitHub is more likely to have a user demographic that uses the latest version of JavaScript vs. a government service website or broad consumer site like Lazada or Amazon.
+The engineering decision of which version of JavaScript to select for a given project is always a balance between the demographics of your user base and the cost of supporting an older version of the language.
+
+For example, a cutting edge product like GitHub is more likely to have a user demographic that uses the latest version of JavaScript vs. a government service website or broad consumer site like Lazada or Amazon.
 {% endhint %}
 
 ## Exercises
 
 ### `let` & `const`
 
-Open up the dev tools console in chrome. Follow the examples above to get the error. \_\*\*\_What does the error message say?
+Open up the dev tools console in chrome. Follow the `const` examples above to get the error. What does the error message say?
 
 Go back to an old piece of code you've written. Change a few of the variable declarations to `let` and `const`.
 
