@@ -14,27 +14,25 @@ const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
 // cards is an array of card objects
 const shuffleCards = (cards) => {
-  // Make a shallow copy of `cards`
-  const shuffledCards = { ...cards };
 
   // loop over the entire cards array
-  for (let currentIndex = 0; currentIndex < shuffledCards.length; currentIndex += 1) {
+  for (let currentIndex = 0; currentIndex < cards.length; currentIndex += 1) {
     // select a random position from the deck
-    const randomIndex = getRandomIndex(shuffledCards.length);
+    const randomIndex = getRandomIndex(cards.length);
 
     // get the current card in the loop
-    const currentItem = shuffledCards[currentIndex];
+    const currentItem = cards[currentIndex];
 
     // get the random card
-    const randomItem = shuffledCards[randomIndex];
+    const randomItem = cards[randomIndex];
 
     // swap the current card and the random card
-    shuffledCards[currentIndex] = randomItem;
-    shuffledCards[randomIndex] = currentItem;
+    cards[currentIndex] = randomItem;
+    cards[randomIndex] = currentItem;
   }
 
   // give back the shuffled deck
-  return shuffledCards;
+  return cards;
 };
 
 const makeDeck = () => {
@@ -160,27 +158,25 @@ const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
 // cards is an array of card objects
 const shuffleCards = (cards) => {
-  // Make a shallow copy of `cards`
-  const shuffledCards = { ...cards };
 
   // loop over the entire cards array
-  for (let currentIndex = 0; currentIndex < shuffledCards.length; currentIndex += 1) {
+  for (let currentIndex = 0; currentIndex < cards.length; currentIndex += 1) {
     // select a random position from the deck
-    const randomIndex = getRandomIndex(shuffledCards.length);
+    const randomIndex = getRandomIndex(cards.length);
 
     // get the current card in the loop
-    const currentItem = shuffledCards[currentIndex];
+    const currentItem = cards[currentIndex];
 
     // get the random card
-    const randomItem = shuffledCards[randomIndex];
+    const randomItem = cards[randomIndex];
 
     // swap the current card and the random card
-    shuffledCards[currentIndex] = randomItem;
-    shuffledCards[randomIndex] = currentItem;
+    cards[currentIndex] = randomItem;
+    cards[randomIndex] = currentItem;
   }
 
   // give back the shuffled deck
-  return shuffledCards;
+  return cards;
 };
 
 const makeDeck = () => {
