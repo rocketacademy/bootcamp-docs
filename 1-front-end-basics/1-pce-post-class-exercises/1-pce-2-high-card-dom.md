@@ -1,4 +1,4 @@
-# 1.E.2: High Card DOM
+# 1.PCE.2: High Card DOM
 
 Start from the examples of High Card using DOM and add onto them.
 

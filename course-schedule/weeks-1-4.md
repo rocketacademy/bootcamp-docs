@@ -22,11 +22,11 @@
 
 #### In-Class
 
-* [DOM Drawing ](../1-front-end-basics/1.i-in-class-exercises/1.i.1-drawing-dom.md)
+* [DOM Drawing ](../1-front-end-basics/1-ice-in-class-exercises/1.ice.1-drawing-dom.md)
 
 #### Post-Class
 
-* [1.E.1: Noodle Recipe Website](../1-front-end-basics/1-e-post-class-exercises/1-e-1-noodles.md)
+* [1.E.1: Noodle Recipe Website](../1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
 
 ### Day 2
 
@@ -42,7 +42,7 @@
 
 #### Post-Class
 
-* [High Card](../1-front-end-basics/1-e-post-class-exercises/1-e-2-high-card-dom.md)
+* [High Card](../1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
 
 ### Day 3
 

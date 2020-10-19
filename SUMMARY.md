@@ -47,12 +47,12 @@
 * [1.10: setInterval](1-front-end-basics/1-10-setinterval.md)
 * [1.11: Timer](1-front-end-basics/1-11-timer.md)
 * [1.12: Tic Tac Toe](1-front-end-basics/1-12-tic-tac-toe.md)
-* [1.I: In Class Exercises](1-front-end-basics/1.i-in-class-exercises/README.md)
-  * [1.I.1: Drawing Dom](1-front-end-basics/1.i-in-class-exercises/1.i.1-drawing-dom.md)
-* [1.E: Post-Class Exercises](1-front-end-basics/1-e-post-class-exercises/README.md)
-  * [1.E.1: Noodle Recipe Website](1-front-end-basics/1-e-post-class-exercises/1-e-1-noodles.md)
-  * [1.E.2: High Card DOM](1-front-end-basics/1-e-post-class-exercises/1-e-2-high-card-dom.md)
-  * [1.E.3 Hi](1-front-end-basics/1-e-post-class-exercises/1.e.3-hi.md)
+* [1.ICE: In-Class Exercises](1-front-end-basics/1-ice-in-class-exercises/README.md)
+  * [1.ICE.1: Drawing Dom](1-front-end-basics/1-ice-in-class-exercises/1.ice.1-drawing-dom.md)
+* [1.PCE: Post-Class Exercises](1-front-end-basics/1-pce-post-class-exercises/README.md)
+  * [1.PCE.1: Noodle Recipe Website](1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
+  * [1.PCE.2: High Card DOM](1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
+  * [1.PCE.3 Hi](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-hi.md)
 
 ## 2️⃣ Back End Basics
 

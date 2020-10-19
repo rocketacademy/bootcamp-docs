@@ -1,4 +1,4 @@
-# 1.E.1: Noodle Recipe Website
+# 1.PCE.1: Noodle Recipe Website
 
 Begin with this empty [starter code.](https://github.com/rocketacademy/html-noodles-swe1)
 

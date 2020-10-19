@@ -1,4 +1,4 @@
-# 1.E: Post-Class Exercises
+# 1.PCE: Post-Class Exercises
 
 See sub-pages for exercises.
 
