@@ -52,7 +52,7 @@
 * [1.PCE: Post-Class Exercises](1-front-end-basics/1-pce-post-class-exercises/README.md)
   * [1.PCE.1: Noodle Recipe Website](1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
   * [1.PCE.2: High Card DOM](1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
-  * [1.PCE.3 Hi](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-hi.md)
+  * [1.PCE.3 Match Game](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-hi.md)
 
 ## 2️⃣ Back End Basics
 
