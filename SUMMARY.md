@@ -49,6 +49,7 @@
 * [1.12: Tic Tac Toe](1-front-end-basics/1-12-tic-tac-toe.md)
 * [1.ICE: In-Class Exercises](1-front-end-basics/1-ice-in-class-exercises/README.md)
   * [1.ICE.1: Drawing DOM](1-front-end-basics/1-ice-in-class-exercises/1.ice.1-drawing-dom.md)
+  * [1.ICE.2 - High Card Redux](1-front-end-basics/1-ice-in-class-exercises/1.ice.2-high-card-redux.md)
 * [1.PCE: Post-Class Exercises](1-front-end-basics/1-pce-post-class-exercises/README.md)
   * [1.PCE.1: Noodle Recipe Website](1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
   * [1.PCE.2: High Card DOM](1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
