@@ -17,8 +17,8 @@ We'll be adding these ES features as we go along.
 So far we've created variables with `var`.
 
 ```javascript
-let kilometers = 10;
-const randomDiceRolls = [3, 2, 4, 5];
+var kilometers = 10;
+var randomDiceRolls = [3, 2, 4, 5];
 ```
 
 In ES6 we will change the standard way we create variables.
@@ -133,7 +133,7 @@ We'll change the default way we define functions in JavaScript.
 ### Old Way
 
 ```javascript
-const rollDice = function () {
+var rollDice = function () {
   // random number stuff
 };
 ```
@@ -155,7 +155,7 @@ We also always use `const` when defining a function.
 ### Old Way
 
 ```javascript
-let output = 'you rolled ' + diceRoll + '. nice job!';
+var output = 'you rolled ' + diceRoll + '. nice job!';
 ```
 
 ### New Way
