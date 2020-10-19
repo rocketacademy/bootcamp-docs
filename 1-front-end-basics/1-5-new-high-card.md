@@ -471,3 +471,7 @@ const cardOutput = (message) => {
 };
 ```
 
+### Exercise
+
+Start with the [DOM starter code](https://github.com/rocketacademy/swe101-next-steps-dom) and copy the high card game above.
+

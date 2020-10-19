@@ -40,7 +40,7 @@ When working with DOM elements in JavaScript, it's important to remember 3 thing
 
 Start with this repo: [https://github.com/rocketacademy/swe101-next-steps-dom](https://github.com/rocketacademy/swe101-next-steps-dom)
 
-Copy this CSS into your index.html
+Copy this CSS into the `style.css` file. 
 
 ```css
 .word {
