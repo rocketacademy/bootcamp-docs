@@ -56,9 +56,11 @@
 
 #### In-Class
 
-* Review pre-class material
+* [1.ICE.2 Timeout / High Card Redux](../1-front-end-basics/1-ice-in-class-exercises/1.ice.2-high-card-redux.md)
 
 #### Post-Class
+
+* [1.PCE.3 Match Game](../1-front-end-basics/1-pce-post-class-exercises/1.pce.3-hi.md)
 
 ### Day 4
 
@@ -70,9 +72,11 @@
 
 #### In-Class
 
-* Review pre-class material
+* [1.ICE.3 setInterval](../1-front-end-basics/1-ice-in-class-exercises/1.ice.3-setinterval.md)
 
 #### Post-Class
+
+* [1.PCE.4 Timer](../1-front-end-basics/1-pce-post-class-exercises/1.pce.4-timer.md)
 
 ### Day 5
 
@@ -85,6 +89,8 @@
 * Review pre-class material
 
 #### Post-Class
+
+* [1.PCE.5 Tic Tac Toe](../1-front-end-basics/1-pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
 
 ## Week 2
 

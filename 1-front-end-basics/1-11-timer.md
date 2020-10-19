@@ -26,7 +26,5 @@ const ref = setInterval(() => {
 }, delayInMilliseconds);
 ```
 
-## Laps & Splits
-
-{% embed url="https://www.youtube.com/watch?v=BmkbHET5HuM" caption="" %}
+## 
 

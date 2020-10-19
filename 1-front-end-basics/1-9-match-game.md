@@ -6,6 +6,21 @@ In this Match Game implementation we'll use the idea of the board data structure
 
 Note that we are using the nested array of cards to create the rows and columns although this is not strictly needed for the gameplay- Match Game doesn't depend on which column or row the card is in. \(Although this board position idea will be required when we move into tic tac toe\).
 
+## CSS
+
+Paste this css into the `style.css` file. 
+
+```css
+.square{
+  padding:10px;
+  margin:10px;
+  background-color:white;
+  display:inline-block;
+  height:10px;
+  width:10px;
+}
+```
+
 ## Globals
 
 ```javascript
