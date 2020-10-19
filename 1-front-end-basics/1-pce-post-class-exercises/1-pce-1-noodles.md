@@ -1,6 +1,6 @@
 # 1.PCE.1: Noodle Recipe Website
 
-Begin with this empty [starter code.](https://github.com/rocketacademy/html-noodles-swe1)
+Begin by forking this empty [starter code.](https://github.com/rocketacademy/html-noodles-swe1)
 
 Create a set of seven HTML pages for noodle recipes.
 
@@ -21,4 +21,6 @@ When searching for the four recipes save a copy of each of the images into your 
 Create a main page that links to each noodle recipe page. \(Use an `a` tag\). Create a link on each other HTML page with a link back to the main page. 
 
 Create pages for the onion and chicken ingredients respectively. On each page, create lists of links to the recipes containing that ingredient, and a back link to the main page. Create links to the ingredient pages from the main page.
+
+When you're done with the exercise create a pull request for your work.
 
