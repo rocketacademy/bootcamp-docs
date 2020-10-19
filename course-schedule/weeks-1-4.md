@@ -22,7 +22,7 @@
 
 #### In-Class
 
-* Review pre-class material
+* [DOM Drawing ](../1-front-end-basics/1.i-in-class-exercises/1.i.1-drawing-dom.md)
 
 #### Post-Class
 
