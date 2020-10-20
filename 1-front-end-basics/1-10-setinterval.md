@@ -5,7 +5,7 @@
 ```javascript
 console.log('starting...');
 
-const delayInMiliseconds = 1000; // this is one second
+const delayInMilliseconds = 1000; // this is one second
 
 const ref = setInterval(() => {
   console.log(`I happen after ${delayInMilliseconds}`);
@@ -17,11 +17,11 @@ console.log('banans!');
 ```javascript
 console.log('starting...');
 
-const delayInMiliseconds = 1000; // this is one second
+const delayInMilliseconds = 1000; // this is one second
 let counter = 0;
 
 const ref = setInterval(() => {
-  console.log(`I happen after ${delayINMilliseconds}`);
+  console.log(`I happen after ${delayInMilliseconds}`);
   console.log(counter);
   counter += 1;
 
@@ -32,4 +32,8 @@ const ref = setInterval(() => {
 
 console.log('bananas!');
 ```
+
+### Exercise
+
+Run the above code.
 

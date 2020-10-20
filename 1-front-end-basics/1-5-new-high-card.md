@@ -141,7 +141,6 @@ const deck = shuffleCards(makeDeck());
 
 const playersTurn = 1; // matches with starting instructions
 let player1Card;
-let player2Card;
 
 const player1Button = document.createElement('button');
 

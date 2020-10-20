@@ -11,7 +11,7 @@ We also want a global value that represents the state that the user has already 
 ```javascript
 // eslint-disable-next-line
 let canClick = true;
-const cardContainer;
+let cardContainer;
 ```
 
 ## Game Initialization
