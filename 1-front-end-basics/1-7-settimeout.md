@@ -5,7 +5,7 @@
 ```javascript
 console.log('starting...');
 
-const delayInMiliseconds = 1000; // this is one second
+const delayInMilliseconds = 1000; // this is one second
 
 const doLater = () => {
   console.log('I happen Later!');
@@ -21,7 +21,7 @@ If we aren't reusing the function anywhere else we can move it directly into the
 ```javascript
 console.log('starting...');
 
-const delayInMiliseconds = 1000; // this is one second
+const delayInMilliseconds = 1000; // this is one second
 
 setTimeout(() => {
   console.log('I happen Later!');
@@ -57,7 +57,7 @@ When you run the code, compare what you thought happened to what happened. Is it
 ```javascript
 console.log('setTimeout! - 1');
 
-const delayInMiliseconds = 1000; // this is one second
+const delayInMilliseconds = 1000; // this is one second
 
 console.log('setTimeout! - 2');
 
