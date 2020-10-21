@@ -1,6 +1,6 @@
 # 1.PCE.2: High Card DOM
 
-Start from the examples of High Card using DOM and add onto them.
+Build on your work in the High Card repo from Module 1.5. Remember to work on a forked copy of the SWE1 High Card repo, and submit a Pull Request once done.
 
 ### Display
 
