@@ -1,4 +1,4 @@
-# 2.3: Disk Storage
+# 2.3: Disk Reading
 
 Store things on your computer that will be there later.
 
@@ -15,12 +15,22 @@ Store things on your computer that will be there later.
 
 ## Disk Access
 
+mystuff.txt
+
+```javascript
+hello worldd
+```
+
+index.js:
+
 ```javascript
 var fs = require('fs');
 
 const whenFileIsRead = (error, content) => {
    console.log( content );
 };
+
+const filename = 'mystuff.txt';
 
 fs.readFile(filename, whenFileIsRead);
 ```

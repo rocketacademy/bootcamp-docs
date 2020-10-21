@@ -1,12 +1,33 @@
-# 2.1: My First Node Program
+# 2.1: My First Node.js Program
+
+![](../.gitbook/assets/my-document-8-%20%281%29.jpg)
+
+We already saw the browser interact with 3 specific important parts of the computer:
+
+1. The screen of the computer.
+2. Getting files from the computer hard disk.
+3. Getting data from the internet - the networking hardware of the computer.
+4. \(other things are getting signals from the keyboard and mouse hardware of the computer, playing sounds on the speaker / audio hardware\)
+
+## What is Node.js
 
 We are going to shift gears to run JavaScript in a new environment.
 
-Nodejs is a JavaScript runtime environment that runs directly on your computer and can interact diectly with your computer.
+Node.js is a JavaScript runtime environment that runs directly on your computer and can interact directly with your computer.
 
-For the purposes of this course there are two important parts of the computer we want our programs to interact with. 1. The hard drive of the computer. 2. The networking hardware \(that is connected to the internet\).
+The JavaScript engine that we used on the Chrome browser was extracted out to be run independent of the browser environment. \(This [engine is called V8](https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29)\).
+
+For the purposes of this course there are two important parts of the computer we want our Node.js programs to interact with. 1. The hard drive of the computer. 2. The networking hardware \(that is connected to the internet\).
 
 Before we integrate these other aspects of the computer, first we are going to prove that we can run a whole complete JavaScript program directly on our computer.
+
+## Where are we going
+
+We will be using the Node.js environment to create a_pplication servers_ that listens for incoming network requests from the internet, and save data onto a computer hard drive, and give back responses- sometimes as HTML pages.
+
+We are going to learn how a given set of HTML gets to the browser and how we can control which HTML gets to the browser though the way we request things.
+
+We'll see that a request can save things onto the hard drive.
 
 ## Javascript Development Console Environment
 
@@ -15,6 +36,14 @@ node
 ```
 
 This takes you into an environment like the Dev Tools Console. Except that there are no files loaded or related to the environment.
+
+Try typing some Javascript operations like:
+
+```text
+2 + 2
+7 * 6
+'hello' + 'world'
+```
 
 Type `ctrl ^ c` to exit out.
 
@@ -29,7 +58,7 @@ cd my-first-node
 touch index.js
 ```
 
-Inside of index.js:
+Inside of `index.js`:
 
 ```text
 console.log('hello');
@@ -53,7 +82,7 @@ Just like the `git` command is an application we downloaded and installed on our
 
 A process is an operating system representation of a single program. Each Chrome window is a process on your computer. Typically every single application or application part will have it's own process.
 
-When we run our Nodejs programs they will also have their own process.
+When we run our Node.js programs they will also have their own process.
 
 We can prove that this is true by typing `node` into the command line again. We will be able to see this program running on the computer.
 

@@ -61,10 +61,15 @@
 ## 2️⃣ Back End Basics
 
 * [2.0: Module 2 Overview](2-back-end-basics/2-0-module-2-overview.md)
-* [2.1: My First Node Program](2-back-end-basics/2-1-my-first-node-program.md)
+* [2.1: My First Node.js Program](2-back-end-basics/2-1-my-first-node-program.md)
 * [2.2: Command Line Programs](2-back-end-basics/2-2-command-line-programs.md)
-* [2.3: Disk Storage](2-back-end-basics/2-3-disk-storage.md)
-* [2.4: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
+* [2.3: Modules](2-back-end-basics/2.3-modules.md)
+* [2.3: Disk Reading](2-back-end-basics/2-3-disk-storage.md)
+* [2.4: Disk Writing](2-back-end-basics/2.4-disk-writing.md)
+* [2.5: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
+* [2.6: What is the Internet 2](2-back-end-basics/2.6-what-is-the-internet-2.md)
+* [2.7: NPM](2-back-end-basics/2.7-npm.md)
+* [2.8: Deployment: AWS](2-back-end-basics/2.8-deployment-aws.md)
 
 ## 3️⃣ Back End Application
 
