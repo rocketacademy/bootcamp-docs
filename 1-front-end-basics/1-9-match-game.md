@@ -18,6 +18,7 @@ Paste this css into the `style.css` file.
   display:inline-block;
   height:10px;
   width:10px;
+  vertical-align: top;
 }
 ```
 
