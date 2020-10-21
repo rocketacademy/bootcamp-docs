@@ -472,5 +472,5 @@ const cardOutput = (message) => {
 
 ### Exercise
 
-Start with the [DOM starter code](https://github.com/rocketacademy/swe101-next-steps-dom) and copy the high card game above.
+Fork and clone the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1) and use code from High Card above to construct a working High Card game.
 
