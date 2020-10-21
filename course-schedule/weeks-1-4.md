@@ -66,7 +66,6 @@
 
 #### Pre-Class
 
-* [1.1.3: CSS Layout Part 1](../1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md#part-1)
 * [1.10: setInterval](../1-front-end-basics/1-10-setinterval.md)
 * [1.11: Timer](../1-front-end-basics/1-11-timer.md)
 
@@ -83,6 +82,7 @@
 #### Pre-Class
 
 * [1.12: Tic Tac Toe](../1-front-end-basics/1-12-tic-tac-toe.md)
+* [1.1.3: CSS Layout Part 1](../1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md#part-1)
 
 #### In-Class
 
