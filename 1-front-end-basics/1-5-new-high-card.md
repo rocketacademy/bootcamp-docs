@@ -136,10 +136,10 @@ This is already a lot of code, so we'll arrange all the code so that it's easier
 
 ### Global Setup
 
-```javascript
+```js
 const deck = shuffleCards(makeDeck());
 
-const playersTurn = 1; // matches with starting instructions
+let playersTurn = 1; // matches with starting instructions
 let player1Card;
 
 const player1Button = document.createElement('button');
@@ -473,4 +473,3 @@ const cardOutput = (message) => {
 ### Exercise
 
 Fork and clone the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1) and use code from High Card above to construct a working High Card game.
-

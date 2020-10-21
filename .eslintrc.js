@@ -14,13 +14,16 @@ module.exports = {
   plugins: [
     'spellcheck',
   ],
-  // ESLint settings for Gitbook JavaScript
+  // ESLint settings for GitBook JavaScript
   rules: {
-    // Gitbook formatting
+    // GitBook formatting
     // Sometimes we have partial code that doesn't warrant variable usage
     'no-unused-vars': 'off',
     // Sometimes we have partial code that assumes a prior definition above
     'no-undef': 'off',
+    // Disable prefer-const for GitBook because some variables are declared
+    // and used in different blocks
+    'prefer-const': 'off',
 
     // Course curriculum exceptions
     // Allow console for students to debug
