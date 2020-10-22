@@ -2,7 +2,7 @@
 
 `setTimeout` uses a callback function to do something at a later time.
 
-```javascript
+```js
 console.log('starting...');
 
 const delayInMilliseconds = 1000; // this is one second
@@ -18,7 +18,7 @@ console.log('bananas!');
 
 If we aren't reusing the function anywhere else we can move it directly into the setTimeout function call.
 
-```javascript
+```js
 console.log('starting...');
 
 const delayInMilliseconds = 1000; // this is one second
@@ -32,7 +32,7 @@ console.log('bananas!');
 
 ## DOM with setTimeout
 
-```javascript
+```js
 const wowParagraph = document.createElement('p');
 document.body.appendChild(wowParagraph);
 
@@ -54,7 +54,7 @@ Copy this code into `script.js`. Before you run it, read it carefully and decide
 
 When you run the code, compare what you thought happened to what happened. Is it the same or not? Why or why not?
 
-```javascript
+```js
 console.log('setTimeout! - 1');
 
 const delayInMilliseconds = 1000; // this is one second
@@ -69,4 +69,3 @@ console.log('setTimeout! - 4');
 setTimeout(doLater, delayInMilliseconds);
 console.log('setTimeout! - 5');
 ```
-

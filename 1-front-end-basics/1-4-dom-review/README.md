@@ -65,7 +65,7 @@ Look up how to "listen" for any event: [https://www.w3schools.com/jsref/met\_doc
 
 You will also see this syntax:
 
-```javascript
+```js
 button.addEventListener('click', function(){
     console.log('clicked');
 });
@@ -92,7 +92,7 @@ Read through the comments to see what's actually happening.
 <button id="starter-button">submit me</button>
 ```
 
-```javascript
+```js
 // make a variable out of the input and button
 var input = document.querySelector('#starter-ex');
 var button = document.querySelector('#starter-button');

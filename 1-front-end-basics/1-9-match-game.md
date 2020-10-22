@@ -8,10 +8,10 @@ Note that we are using the nested array of cards to create the rows and columns 
 
 ## CSS
 
-Paste this css into the `style.css` file. 
+Paste this css into the `style.css` file.
 
 ```css
-.square{
+.square {
   padding:10px;
   margin:10px;
   background-color:white;
@@ -24,7 +24,7 @@ Paste this css into the `style.css` file.
 
 ## Globals
 
-```javascript
+```js
 const board = [];
 const firstCard = null;
 const boardSize = 4; // has to be an even number
@@ -34,12 +34,11 @@ let deck;
 
 ## Gameplay
 
-```javascript
+```js
 const squareClick = (cardElement, column, row) => {
-
-  console.log( cardElement );
-  console.log('FIRST CARD', firstCard );
-  console.log( 'CLICKED CARD', board[column][row] );
+  console.log(cardElement);
+  console.log('FIRST CARD', firstCard);
+  console.log('CLICKED CARD', board[column][row]);
 
   if (firstCard === null) {
     firstCard = board[column][row];
@@ -59,74 +58,69 @@ const squareClick = (cardElement, column, row) => {
 
 ## Game Init
 
-```javascript
+```js
 // create all the board elements that will go on the screen
 // return the built board
 const buildBoardElements = (board) => {
-
   // create the element that everything will go inside of
   const boardElement = document.createElement('div');
-  
+
   // give it a class for CSS purposes
   boardElement.classList.add('board');
 
   // use the board data structure we passed in to create the correct size board
   for (let i = 0; i < board.length; i += 1) {
-
     // make a var for just this row of cards
     const row = board[i];
-    
+
     // make an element for this row of cards
     const rowElement = document.createElement('div');
     rowElement.classList.add('row');
 
     // make all the squares for this row
     for (let j = 0; j < row.length; j += 1) {
-
       // create the square element
       const square = document.createElement('div');
-      
+
       // set a class for CSS purposes
       square.classList.add('square');
 
       // set the click event
       // eslint-disable-next-line
       square.addEventListener('click', (event) => {
-      
+
         // we will want to pass in the card element so
         // that we can change how it looks on screen, i.e.,
         // "turn the card over"
         squareClick(event.currentTarget, i, j);
       });
 
-      rowElement.appendChild( square );
+      rowElement.appendChild(square);
     }
-    boardElement.appendChild( rowElement );
+    boardElement.appendChild(rowElement);
   }
-  
-  return boardElement;
 
+  return boardElement;
 };
 
 const gameInit = () => {
-
   // create this special deck by getting the doubled cards and
   // making a smaller array that is ( boardSize squared ) number of cards
   let doubleDeck = makeDeck();
-  let deckSubset = doubleDeck.slice(0,boardSize * boardSize)
+  let deckSubset = doubleDeck.slice(0, boardSize * boardSize);
   deck = shuffleCards(deckSubset);
 
-  // deal the cards out to the board data structure  
-  for( let i=0; i<boardSize; i+=1 ){
-    board.push( [] );
-    for( let j=0; j<boardSize; j+=1 ){
-      board[i].push( deck.pop() );
+  // deal the cards out to the board data structure
+  for (let i = 0; i < boardSize; i += 1) {
+    board.push([]);
+    for (let j = 0; j < boardSize; j += 1) {
+      board[i].push(deck.pop());
     }
   }
-  
+
   const boardEl = buildBoardElements(board);
-  
-  document.body.appendChild( boardEl );
+
+  document.body.appendChild(boardEl);
 };
 ```
 
@@ -134,7 +128,7 @@ const gameInit = () => {
 
 Add line 39 to `makeDeck` so that it outputs doubles of each card.
 
-```javascript
+```js
 const makeDeck = (cardAmount) => {
   // create the empty deck at the beginning
   const newDeck = [];
@@ -184,4 +178,3 @@ const makeDeck = (cardAmount) => {
 ## Exercise
 
 Fork and clone the SWE1 Match Game repo. Use code from the above implementation to build a working Match Game.
-

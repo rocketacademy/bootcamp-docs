@@ -8,40 +8,39 @@ Create some command line programs in Node.js
 
 Create this `index.js` file:
 
-```javascript
+```js
 console.log('this is process argv!');
-console.log( process.argv );
+console.log(process.argv);
 ```
 
 Run it a few times in the terminal:
 
-```javascript
+```js
 node index.js
 ```
 
-```javascript
+```js
 node index.js tomatoes
 ```
 
-```javascript
+```js
 node index.js apples bananas
 ```
 
-```javascript
+```js
 node index.js chicken pork beef
 ```
 
 ### Metric Conversion Program
 
-```javascript
+```js
 let distanceInKilometers = process.argv[2];
 
 let distanceInMiles = distanceInKilometers * 0.62;
 
-console.log( distanceInMiles );
+console.log(distanceInMiles);
 ```
 
-```javascript
+```js
 node index.js 2
 ```
-

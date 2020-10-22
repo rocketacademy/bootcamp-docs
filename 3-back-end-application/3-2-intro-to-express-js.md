@@ -1,7 +1,8 @@
 # 3.2: Intro to Express.js
 
-```javascript
+```js
 const express = require('express');
+
 const app = express();
 const port = 3000;
 
@@ -10,7 +11,6 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`Example app listening at http://localhost:${port}`);
 });
 ```
-

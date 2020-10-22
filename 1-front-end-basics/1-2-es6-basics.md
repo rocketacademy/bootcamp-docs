@@ -16,14 +16,14 @@ We'll be adding these ES features as we go along.
 
 So far we've created variables with `var`.
 
-```javascript
-var kilometers = 10;
-var randomDiceRolls = [3, 2, 4, 5];
+```js
+let kilometers = 10;
+let randomDiceRolls = [3, 2, 4, 5];
 ```
 
 In ES6 we will change the standard way we create variables.
 
-```javascript
+```js
 let kilometers = 10;
 const randomDiceRolls = [3, 2, 4, 1];
 ```
@@ -34,7 +34,7 @@ There are a few guidelines to how we choose to create variables with ES6:
 
 If the value we are going to store is a number, string, or boolean, and we expect the value of that variable to be reassigned later, use `let`.
 
-```javascript
+```js
 let kilometers = 10;
 ```
 
@@ -42,13 +42,13 @@ let kilometers = 10;
 
 If it's a basic value, but this value won't change for the life of your program, use `const`.
 
-```javascript
+```js
 const sidesOfDice = 6;
 ```
 
 #### Reassigning a value with const is an error
 
-```javascript
+```js
 const pi = 3.14;
 pi = 99999; // you will get an error with this line
 ```
@@ -57,7 +57,7 @@ pi = 99999; // you will get an error with this line
 
 If we are creating an array or object, use const.
 
-```javascript
+```js
 const diceRolls = [3, 4, 1, 6, 1];
 ```
 
@@ -67,22 +67,22 @@ A common question is, with `const`, does that mean that the value of an array is
 
 #### Altering the values _inside_ an array \(works fine\)
 
-```javascript
+```js
 const diceRolls = [4, 2, 1, 4];
 diceRolls.push(5); // this affects the values *inside* the array, not the array itself
 ```
 
 #### Altering the values _of the variable_ \(an error\)
 
-```javascript
+```js
 const diceRolls = [4, 2, 1, 4];
 diceRolls = 99; // this will be an error
 ```
 
 This is also related to why you cannot compare two arrays. The array itself is not equivalent to the values inside it.
 
-```javascript
-[1, 2, 3] === [1, 2, 3] // this boolean statement will not be true
+```js
+[1, 2, 3] === [1, 2, 3]; // this boolean statement will not be true
 ```
 
 ## Block Scope
@@ -91,18 +91,18 @@ Variables you define in things like an if statement will not be available anymor
 
 #### Old Way
 
-```javascript
-if( diceRoll === 6 ){
-    var win = true;
+```js
+if (diceRoll === 6) {
+  var win = true;
 }
 console.log(win); // this will be true
 ```
 
 #### New Way
 
-```javascript
-if( diceRoll === 6 ){
-    let win = true;
+```js
+if (diceRoll === 6) {
+  let win = true;
 }
 
 // this will error- win variable doesn't
@@ -110,9 +110,9 @@ if( diceRoll === 6 ){
 console.log(win);
 ```
 
-```javascript
-if( diceRoll === 6 ){
-    const win = true;
+```js
+if (diceRoll === 6) {
+  const win = true;
 }
 
 // this will error- win variable doesn't
@@ -132,15 +132,15 @@ We'll change the default way we define functions in JavaScript.
 
 ### Old Way
 
-```javascript
-var rollDice = function () {
+```js
+let rollDice = function () {
   // random number stuff
 };
 ```
 
 ### New Way
 
-```javascript
+```js
 const rollDice = () => {
   // random number stuff
 };
@@ -154,13 +154,13 @@ We also always use `const` when defining a function.
 
 ### Old Way
 
-```javascript
-var output = 'you rolled ' + diceRoll + '. nice job!';
+```js
+let output = `you rolled ${diceRoll}. nice job!`;
 ```
 
 ### New Way
 
-```javascript
+```js
 let output = `you rolled ${diceRoll}. nice job!`;
 ```
 
@@ -193,4 +193,3 @@ You can change the definition of the `main` function in any old code from SWE101
 ### Template Literals
 
 Change one string output where you used plus sign and change it to a template literal.
-

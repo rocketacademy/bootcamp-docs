@@ -2,7 +2,7 @@
 
 `setInterval` repeats a callback function over and over again.
 
-```javascript
+```js
 console.log('starting...');
 
 const delayInMilliseconds = 1000; // this is one second
@@ -14,7 +14,7 @@ const ref = setInterval(() => {
 console.log('banans!');
 ```
 
-```javascript
+```js
 console.log('starting...');
 
 const delayInMilliseconds = 1000; // this is one second
@@ -36,4 +36,3 @@ console.log('bananas!');
 ### Exercise
 
 Run the above code.
-

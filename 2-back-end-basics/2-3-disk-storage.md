@@ -17,21 +17,20 @@ Store things on your computer that will be there later.
 
 mystuff.txt
 
-```javascript
+```js
 hello worldd
 ```
 
 index.js:
 
-```javascript
-var fs = require('fs');
+```js
+let fs = require('fs');
 
 const whenFileIsRead = (error, content) => {
-   console.log( content );
+  console.log(content);
 };
 
 const filename = 'mystuff.txt';
 
 fs.readFile(filename, whenFileIsRead);
 ```
-

@@ -8,13 +8,12 @@ We'll be taking the High Card game done in SWE101 out of the starter code so we 
 
 The basic high card game is relatively similar to the original, non-DOM game.
 
-```javascript
+```js
 // get a random index from an array given it's size
 const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
 // cards is an array of card objects
 const shuffleCards = (cards) => {
-
   // loop over the entire cards array
   for (let currentIndex = 0; currentIndex < cards.length; currentIndex += 1) {
     // select a random position from the deck
@@ -136,7 +135,7 @@ This is already a lot of code, so we'll arrange all the code so that it's easier
 
 ### Global Setup
 
-```javascript
+```js
 const deck = shuffleCards(makeDeck());
 
 let playersTurn = 1; // matches with starting instructions
@@ -151,13 +150,12 @@ const gameInfo = document.createElement('div');
 
 ### Helper Functions
 
-```javascript
+```js
 // get a random index from an array given it's size
 const getRandomIndex = (size) => Math.floor(Math.random() * size);
 
 // cards is an array of card objects
 const shuffleCards = (cards) => {
-
   // loop over the entire cards array
   for (let currentIndex = 0; currentIndex < cards.length; currentIndex += 1) {
     // select a random position from the deck
@@ -229,7 +227,7 @@ const output = (message) => {
 
 ### Player Action Callbacks
 
-```javascript
+```js
 const player1Click = () => {
   if (playersTurn === 1) {
     player1Card = deck.pop();
@@ -257,7 +255,7 @@ const player2Click = () => {
 
 Let's put all of these steps in a function.
 
-```javascript
+```js
 const gameInit = () => {
   // initialize button functionality
   player1Button.innerText = 'Player 1 Draw';
@@ -344,7 +342,7 @@ For the sake of convenience we also want to make a place for our JavaScript to p
 
 The JavaScript to build the card element might look like this:
 
-```javascript
+```js
 const suit = document.createElement('div');
 suit.classList.add('suit');
 suit.innerText = '♥️';
@@ -364,7 +362,7 @@ We want to extract this out into a function so that we can use it to create the 
 
 We also added the card color in the example. In order to get this behavior for every card we could have implemented some logic:
 
-```javascript
+```js
 // if the suit is heart or diamond
 // the color is red
 ```
@@ -375,7 +373,7 @@ If we want to add other stylistic features we could also decide to change the na
 
 That is, in our example card layout above there is not room for a full name face card, like `queen` . We can add another attribute to the object:
 
-```javascript
+```js
 const cardInfo = {
   suitSymbol: '♦️',
   suit: 'diamond',
@@ -388,7 +386,7 @@ const cardInfo = {
 
 Now we can use the attributes in the `createCard` function:
 
-```javascript
+```js
 const createCard = (cardInfo) => {
   const suit = document.createElement('div');
   suit.classList.add('suit');
@@ -416,13 +414,13 @@ We can go back and hard-code all of these attributes into a deck array. But how 
 
 Add the `cardContainer` DOM element global variable to the globals:
 
-```javascript
+```js
 const cardContainer;
 ```
 
 Add the `card-container` div to the `gameInit` function:
 
-```javascript
+```js
 cardContainer = document.createElement('div');
 card.classList.add('card-container');
 document.body.appendChild(cardContainer);
@@ -430,7 +428,7 @@ document.body.appendChild(cardContainer);
 
 Let's take a look at the button callback functions:
 
-```javascript
+```js
 const player1Click = () => {
   if (playersTurn === 1) {
     player1Card = deck.pop();
@@ -473,4 +471,3 @@ const cardOutput = (message) => {
 ### Exercise
 
 Fork and clone the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1) and use code from High Card above to construct a working High Card game.
-

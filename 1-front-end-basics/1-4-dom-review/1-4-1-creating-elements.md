@@ -10,10 +10,10 @@ The `document` object gives the ability to create elements and put them on the s
 
 We can use the DOM to create elements and put them on the page.
 
-```javascript
+```js
 const coolParagraph = document.createElement('p');
 
-coolParagraph.innerText = 'hey, cool!!!1!';
+coolParagraph.innerText = 'hey, cool!!!!!';
 ```
 
 {% hint style="warning" %}
@@ -22,7 +22,7 @@ We use `const` to declare `coolParagraph` because we do not expect `coolParagrap
 
 After we've created this element we need to tell the DOM to put it into the page.
 
-```javascript
+```js
 document.body.appendChild(coolParagraph);
 ```
 
@@ -40,7 +40,7 @@ When working with DOM elements in JavaScript, it's important to remember 3 thing
 
 Start with this repo: [https://github.com/rocketacademy/swe101-next-steps-dom](https://github.com/rocketacademy/swe101-next-steps-dom)
 
-Copy this CSS into the `style.css` file. 
+Copy this CSS into the `style.css` file.
 
 ```css
 .word {
@@ -88,16 +88,16 @@ Write a loop so that you create 6 of these grey box elements. In the first pink 
 
 ### Element Contents From an Array
 
-```javascript
-const words = ["banana","pasta","alligator","purple","accurate","fickle"];
+```js
+const words = ['banana', 'pasta', 'alligator', 'purple', 'accurate', 'fickle'];
 ```
 
 Use this array to create the words in pink boxes. In this case, only create one yellow box.
 
 ### Element Contents From an Array of Arrays
 
-```javascript
-const words = [["orange","tomato"],["fire engine","basketball"]];
+```js
+const words = [['orange', 'tomato'], ['fire engine', 'basketball']];
 ```
 
 Use this structured array to create a series of yellow boxes. \(The food should be in one yellow box, and the objects in another yellow box\).
@@ -105,4 +105,3 @@ Use this structured array to create a series of yellow boxes. \(The food should 
 ### Refactor
 
 Create a function for the creation of each kind of box. Pass the contents of the box as a parameter.
-
