@@ -48,6 +48,7 @@
 * [1.10: setInterval](1-front-end-basics/1-10-setinterval.md)
 * [1.11: Timer](1-front-end-basics/1-11-timer.md)
 * [1.12: Tic Tac Toe](1-front-end-basics/1-12-tic-tac-toe.md)
+* [1.13: Multi File Refactor](1-front-end-basics/1.13-multi-file-refactor.md)
 * [1.ICE: In-Class Exercises](1-front-end-basics/1-ice-in-class-exercises/README.md)
   * [1.ICE.1: Drawing DOM](1-front-end-basics/1-ice-in-class-exercises/1.ice.1-drawing-dom.md)
   * [1.ICE.2 - Timeout / High Card Redux](1-front-end-basics/1-ice-in-class-exercises/1.ice.2-high-card-redux.md)

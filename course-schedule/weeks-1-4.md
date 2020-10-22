@@ -83,6 +83,7 @@
 #### Pre-Class
 
 * [1.12: Tic Tac Toe](../1-front-end-basics/1-12-tic-tac-toe.md)
+* [1.13: Multi File Refactor](../1-front-end-basics/1.13-multi-file-refactor.md)
 * [1.1.3: CSS Layout Part 1](../1-front-end-basics/1-1-html-and-css/1.1.3-css-layout.md#part-1)
 
 #### In-Class
@@ -158,7 +159,8 @@
 
 * Node.js
 * HTTP
-* Internet
+* What is the Internet
+* Servers
 
 ### Project
 
@@ -168,10 +170,8 @@ Backend Dynamic Data App
 
 #### Pre-Class
 
-What is Node.js
-
-* 
-Command line programs
+* 2.1 My First Node.js Program
+* 2.2 Command Line Programs
 
 #### In-Class
 
@@ -181,9 +181,7 @@ Command line programs
 
 #### Pre-Class
 
-Command line programs that get data on the disk
-
-Command line programs that store data on the disk
+* 2.3 Modules
 
 #### In-Class
 
@@ -193,9 +191,8 @@ Command line programs that store data on the disk
 
 #### Pre-Class
 
-What is the Internet
-
-HTTP
+* 2.4 Disk Reading
+* 2.5 Disk Writing
 
 #### In-Class
 
@@ -205,7 +202,8 @@ HTTP
 
 #### Pre-Class
 
-Basic File Servers
+* 2.5 What is the Internet
+* 2.6 What is the Internet 2
 
 #### In-Class
 
@@ -215,7 +213,8 @@ Basic File Servers
 
 #### Pre-Class
 
-Amazon EC2
+* 2.7 NPM
+* 2.6 AWS
 
 #### In-Class
 
