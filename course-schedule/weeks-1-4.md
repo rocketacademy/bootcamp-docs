@@ -49,7 +49,7 @@
 #### Pre-Class
 
 * [1.1.2: Basic CSS Part 2](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-2)
-* [1.1.2: Basic CSS Exercise](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-2-exercise)
+* [1.1.2: CSS Exercise: Tribute Page](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#html-css-exercise-1-tribute-page)
 * [1.7: setTimeout](../1-front-end-basics/1-7-settimeout.md)
 * [1.8: High Card setTimeout](../1-front-end-basics/1-8-high-card-settimeout.md)
 * [1.9: Match Game](../1-front-end-basics/1-9-match-game.md)
