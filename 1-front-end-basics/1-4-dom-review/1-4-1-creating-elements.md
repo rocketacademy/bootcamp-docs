@@ -80,7 +80,7 @@ Create this set of HTML elements on the page, using JavaScript. The set of eleme
 
 It should look something like this:
 
-![fdsf](../../.gitbook/assets/screen-shot-2020-09-29-at-6.52.58-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-09-29-at-6.52.58-pm.png)
 
 ### Element Creation in a Loop
 
