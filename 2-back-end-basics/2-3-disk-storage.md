@@ -17,13 +17,13 @@ Store things on your computer that will be there later.
 
 mystuff.txt
 
-```js
+```javascript
 hello worldd
 ```
 
 index.js:
 
-```js
+```javascript
 let fs = require('fs');
 
 const whenFileIsRead = (error, content) => {
@@ -34,3 +34,4 @@ const filename = 'mystuff.txt';
 
 fs.readFile(filename, whenFileIsRead);
 ```
+

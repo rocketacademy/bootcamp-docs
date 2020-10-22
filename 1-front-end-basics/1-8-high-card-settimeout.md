@@ -8,7 +8,7 @@ We also want a global value that represents the state that the user has already 
 
 ## Globals
 
-```js
+```javascript
 // eslint-disable-next-line
 let canClick = true;
 let cardContainer;
@@ -16,7 +16,7 @@ let cardContainer;
 
 ## Game Initialization
 
-```js
+```javascript
 const gameInit = () => {
   // other game init stuff goes here
   // ...
@@ -27,7 +27,7 @@ const gameInit = () => {
 
 ## Helper Functions
 
-```js
+```javascript
 // other helper functions
 // ...
 const createCard = (card) => {
@@ -39,7 +39,7 @@ const createCard = (card) => {
 
 ## Player Click Callbacks
 
-```js
+```javascript
 const player1Click = () => {
   if (playersTurn === 1 && canClick === true) {
     canClick = false;
@@ -89,3 +89,4 @@ const player2Click = () => {
 ### Exercise
 
 Add the timeout to your High Card game.
+

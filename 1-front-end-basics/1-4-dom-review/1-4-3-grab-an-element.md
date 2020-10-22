@@ -14,7 +14,7 @@ Given this element:
 
 We can create a variable that "grabs" it from the DOM.
 
-```js
+```javascript
 const wowParagraph = document.querySelector('#wow');
 ```
 
@@ -23,3 +23,4 @@ const wowParagraph = document.querySelector('#wow');
 To review how element selection works, see the simple examples on this page.
 
 Look up how to get a reference to any element: [https://www.w3schools.com/jsref/met\_document\_queryselector.asp](https://www.w3schools.com/jsref/met_document_queryselector.asp)
+

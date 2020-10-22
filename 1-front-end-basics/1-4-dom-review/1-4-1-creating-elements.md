@@ -10,7 +10,7 @@ The `document` object gives the ability to create elements and put them on the s
 
 We can use the DOM to create elements and put them on the page.
 
-```js
+```javascript
 const coolParagraph = document.createElement('p');
 
 coolParagraph.innerText = 'hey, cool!!!!!';
@@ -22,7 +22,7 @@ We use `const` to declare `coolParagraph` because we do not expect `coolParagrap
 
 After we've created this element we need to tell the DOM to put it into the page.
 
-```js
+```javascript
 document.body.appendChild(coolParagraph);
 ```
 
@@ -88,7 +88,7 @@ Write a loop so that you create 6 of these grey box elements. In the first pink 
 
 ### Element Contents From an Array
 
-```js
+```javascript
 const words = ['banana', 'pasta', 'alligator', 'purple', 'accurate', 'fickle'];
 ```
 
@@ -96,7 +96,7 @@ Use this array to create the words in pink boxes. In this case, only create one 
 
 ### Element Contents From an Array of Arrays
 
-```js
+```javascript
 const words = [['orange', 'tomato'], ['fire engine', 'basketball']];
 ```
 
@@ -105,3 +105,4 @@ Use this structured array to create a series of yellow boxes. \(The food should 
 ### Refactor
 
 Create a function for the creation of each kind of box. Pass the contents of the box as a parameter.
+

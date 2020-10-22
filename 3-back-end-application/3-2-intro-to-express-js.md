@@ -1,6 +1,6 @@
 # 3.2: Intro to Express.js
 
-```js
+```javascript
 const express = require('express');
 
 const app = express();
@@ -14,3 +14,4 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
 ```
+

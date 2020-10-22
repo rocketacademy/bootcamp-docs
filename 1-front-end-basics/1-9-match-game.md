@@ -24,7 +24,7 @@ Paste this css into the `style.css` file.
 
 ## Globals
 
-```js
+```javascript
 const board = [];
 const firstCard = null;
 const boardSize = 4; // has to be an even number
@@ -34,7 +34,7 @@ let deck;
 
 ## Gameplay
 
-```js
+```javascript
 const squareClick = (cardElement, column, row) => {
   console.log(cardElement);
   console.log('FIRST CARD', firstCard);
@@ -53,12 +53,11 @@ const squareClick = (cardElement, column, row) => {
     // turn this card back over
   }
 };
-
 ```
 
 ## Game Init
 
-```js
+```javascript
 // create all the board elements that will go on the screen
 // return the built board
 const buildBoardElements = (board) => {
@@ -128,7 +127,7 @@ const gameInit = () => {
 
 Add line 39 to `makeDeck` so that it outputs doubles of each card.
 
-```js
+```javascript
 const makeDeck = (cardAmount) => {
   // create the empty deck at the beginning
   const newDeck = [];
@@ -178,3 +177,4 @@ const makeDeck = (cardAmount) => {
 ## Exercise
 
 Fork and clone the SWE1 Match Game repo. Use code from the above implementation to build a working Match Game.
+

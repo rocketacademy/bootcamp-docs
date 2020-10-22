@@ -2,38 +2,38 @@
 
 Create some command line programs in Node.js
 
-### `process.argv`
+## `process.argv`
 
 `process.argv` contains all the information about what was typed into the terminal when the Node.js program was executed.
 
 Create this `index.js` file:
 
-```js
+```javascript
 console.log('this is process argv!');
 console.log(process.argv);
 ```
 
 Run it a few times in the terminal:
 
-```js
+```javascript
 node index.js
 ```
 
-```js
+```javascript
 node index.js tomatoes
 ```
 
-```js
+```javascript
 node index.js apples bananas
 ```
 
-```js
+```javascript
 node index.js chicken pork beef
 ```
 
-### Metric Conversion Program
+## Metric Conversion Program
 
-```js
+```javascript
 let distanceInKilometers = process.argv[2];
 
 let distanceInMiles = distanceInKilometers * 0.62;
@@ -41,6 +41,7 @@ let distanceInMiles = distanceInKilometers * 0.62;
 console.log(distanceInMiles);
 ```
 
-```js
+```javascript
 node index.js 2
 ```
+

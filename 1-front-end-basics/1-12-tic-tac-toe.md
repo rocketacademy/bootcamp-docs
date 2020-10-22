@@ -8,7 +8,7 @@ Note that the board data structure that was chosen \(an array inside an array\) 
 
 ## Globals
 
-```js
+```javascript
 // keep data about the game in a 2-D array
 const board = [
   ['', '', ''],
@@ -29,7 +29,7 @@ let currentPlayer = 'X';
 
 ## Helper Functions
 
-```js
+```javascript
 // completely rebuilds the entire board every time there's a click
 const buildBoard = (board) => {
   // start with an empty container
@@ -68,12 +68,11 @@ const buildBoard = (board) => {
     boardContainer.appendChild(rowElement);
   }
 };
-
 ```
 
 ## Game Init
 
-```js
+```javascript
 // create the board container element and put it on the screen
 const gameInit = () => {
   boardContainer = document.createElement('div');
@@ -86,7 +85,7 @@ const gameInit = () => {
 
 ## Game Play
 
-```js
+```javascript
 // switch the global values from one player to the next
 const togglePlayer = () => {
   if (currentPlayer === 'X') {
@@ -113,3 +112,4 @@ const squareClick = (column, row) => {
   }
 };
 ```
+
