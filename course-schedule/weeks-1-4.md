@@ -6,7 +6,7 @@
 
 * HTML
 * CSS
-* JS
+* DOM, setTimeout, setInterval
 * ES6
 
 ### Day 1
