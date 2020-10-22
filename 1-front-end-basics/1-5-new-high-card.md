@@ -434,7 +434,7 @@ const player1Click = () => {
   if (playersTurn === 1) {
     player1Card = deck.pop();
 
-    const cardElement = createCard(playerCard);
+    const cardElement = createCard(player1Card);
 
     // in case this is not the 1st time
     // in the entire app,
