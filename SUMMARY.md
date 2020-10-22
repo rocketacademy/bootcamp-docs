@@ -70,6 +70,8 @@
 * [2.6: What is the Internet 2](2-back-end-basics/2.6-what-is-the-internet-2.md)
 * [2.7: NPM](2-back-end-basics/2.7-npm.md)
 * [2.8: Deployment: AWS](2-back-end-basics/2.8-deployment-aws.md)
+* [2.PCE: Post Class Exercises](2-back-end-basics/2.pce-post-class-exercises/README.md)
+  * [2.PCE.1: CSS Command Line](2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
 
 ## 3️⃣ Back End Application
 

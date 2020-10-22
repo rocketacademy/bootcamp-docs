@@ -33,6 +33,8 @@ node index.js chicken pork beef
 
 ## Metric Conversion Program
 
+Use `process.arg` to capture input from the user.
+
 ```javascript
 let distanceInKilometers = process.argv[2];
 
@@ -42,6 +44,6 @@ console.log(distanceInMiles);
 ```
 
 ```javascript
-node index.js 2
+node index.js 76
 ```
 
