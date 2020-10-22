@@ -15,6 +15,7 @@
 ## 🛠 Course Logistics
 
 * [Required Hardware and Software](course-logistics/backend-setup.md)
+* [Pairing Assignments](course-logistics/pairing-assignments.md)
 * [Glossary](course-logistics/glossary.md)
 
 ## 🏞 Projects
