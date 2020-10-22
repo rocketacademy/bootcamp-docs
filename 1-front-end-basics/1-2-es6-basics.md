@@ -87,7 +87,7 @@ This is also related to why you cannot compare two arrays. The array itself is n
 
 ## Block Scope
 
-Variables you define in things like an if statement will not be available anymore.
+Variables we define in "blocks" like an if statement will not be available anymore when we use `let` and `const`. `var` in ES5 uses "function scope", which makes variables declared with `var` accessible anywhere within a given function.
 
 #### Old Way
 
