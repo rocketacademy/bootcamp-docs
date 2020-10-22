@@ -80,9 +80,11 @@ const makeDeck = () => {
 
 const deck = shuffleCards(makeDeck());
 
-let playersTurn = 1; // matches with starting instructions
+// Player 1 starts first
+let playersTurn = 1;
 
-let player1Card; // don't use const for this player card object
+// Use let for player1Card object because player1Card will be reassigned
+let player1Card;
 
 // create two buttons
 const player1Button = document.createElement('button');
@@ -93,15 +95,14 @@ const player2Button = document.createElement('button');
 player2Button.innerText = 'Player 2 Draw';
 document.body.appendChild(player2Button);
 
-// create game info div as global value
+// Create game info div as global value
 // fill game info div with starting instructions
 const gameInfo = document.createElement('div');
 gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
 document.body.appendChild(gameInfo);
 
-// don't write the dom manipulation
-// code inline in the conditional
-// create a helper function for output
+// create a helper function for output to abstract complexity
+// of DOM manipulation away from game logic
 const output = (message) => {
   gameInfo.innerText = message;
 };
