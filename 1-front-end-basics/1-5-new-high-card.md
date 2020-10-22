@@ -415,7 +415,7 @@ We can go back and hard-code all of these attributes into a deck array. But how 
 Add the `cardContainer` DOM element global variable to the globals:
 
 ```javascript
-const cardContainer;
+let cardContainer;
 ```
 
 Add the `card-container` div to the `gameInit` function:
@@ -471,4 +471,3 @@ const cardOutput = (message) => {
 ### Exercise
 
 Fork and clone the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1) and use code from High Card above to construct a working High Card game.
-
