@@ -54,9 +54,9 @@
 * [1.PCE: Post-Class Exercises](1-front-end-basics/1-pce-post-class-exercises/README.md)
   * [1.PCE.1: Noodle Recipe Website](1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
   * [1.PCE.2: High Card DOM](1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
-  * [1.PCE.3 Match Game](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-hi.md)
-  * [1.PCE.4 Timer](1-front-end-basics/1-pce-post-class-exercises/1.pce.4-timer.md)
-  * [1.PCE.5 Tic Tac Toe](1-front-end-basics/1-pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
+  * [1.PCE.3: Match Game](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-match-game.md)
+  * [1.PCE.4: Timer](1-front-end-basics/1-pce-post-class-exercises/1.pce.4-timer.md)
+  * [1.PCE.5: Tic Tac Toe](1-front-end-basics/1-pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
 
 ## 2️⃣ Back End Basics
 
