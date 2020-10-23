@@ -1,6 +1,6 @@
 # 1.5: New High Card
 
-We'll be taking the High Card game done in SWE101 out of the starter code so we can talk about all the parts we would need to build from scratch.
+We will be implementing High Card from scratch, adding DOM elements to make the game more visual and interactive. For a recap of High Card, see the SWE101 page [here](https://swe101.rocketacademy.co/10-javascript-objects/10-1-objects#high-card).
 
 ## Basic High Card
 
