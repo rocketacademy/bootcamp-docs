@@ -21,7 +21,7 @@ Build the display of other game elements, like the current player turn.
 
 ## High / Low Card
 
-The players can draw 2 cards each. The winner is the player who has the greatest difference in rank between the highest and lowest cards in his hand.
+The players can draw multiple cards each. The winner is the player who has the greatest difference in rank between the highest and lowest cards in his hand.
 
 Change the CSS of the game so that each players' cards are displayed in a row.
 
