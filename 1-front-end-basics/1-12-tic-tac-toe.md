@@ -113,3 +113,7 @@ const squareClick = (column, row) => {
 };
 ```
 
+## Exercise
+
+Fork and clone the [SWE1 Tic Tac Toe repo](https://github.com/rocketacademy/tictactoe-swe1). Use code from the above implementation to build a working Tic Tac Toe game.
+
