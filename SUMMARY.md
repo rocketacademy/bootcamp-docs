@@ -40,7 +40,7 @@
   * [1.4.1: Creating Elements](1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
   * [1.4.2: Events](1-front-end-basics/1-4-dom-review/1-4-2-events.md)
   * [1.4.3: Grab an Element](1-front-end-basics/1-4-dom-review/1-4-3-grab-an-element.md)
-* [1.5: New High Card](1-front-end-basics/1-5-new-high-card.md)
+* [1.5: High Card DOM](1-front-end-basics/1-5-high-card-dom.md)
 * [1.6: Reading Documentation](1-front-end-basics/1-6-reading-documentation.md)
 * [1.7: setTimeout](1-front-end-basics/1-7-settimeout.md)
 * [1.8: High Card setTimeout](1-front-end-basics/1-8-high-card-settimeout.md)

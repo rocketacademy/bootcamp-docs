@@ -1,6 +1,6 @@
 # 1.PCE.2: High Card DOM
 
-Build on your work in the High Card repo from [Module 1.5](../1-5-new-high-card.md). Remember to work on a forked copy of the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1), and submit a Pull Request once done.
+Build on your work in the High Card repo from [Module 1.5](../1-5-high-card-dom.md). Remember to work on a forked copy of the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1), and submit a Pull Request once done.
 
 ## Display
 

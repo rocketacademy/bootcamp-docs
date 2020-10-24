@@ -33,7 +33,7 @@
 #### Pre-Class
 
 * [1.1.2: Basic CSS Part 1](../1-front-end-basics/1-1-html-and-css/1.1.2-basic-css.md#part-1)
-* [1.5: New High Card](../1-front-end-basics/1-5-new-high-card.md)
+* [1.5: High Card DOM](../1-front-end-basics/1-5-high-card-dom.md)
 * [1.6: Reading Documentation](../1-front-end-basics/1-6-reading-documentation.md)
 
 #### In-Class
