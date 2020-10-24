@@ -70,10 +70,15 @@
 * [2.4: Disk Writing](2-back-end-basics/2.4-disk-writing.md)
 * [2.5: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
 * [2.6: What is the Internet 2](2-back-end-basics/2.6-what-is-the-internet-2.md)
-* [2.7: NPM](2-back-end-basics/2.7-npm.md)
+* [2.7: npm](2-back-end-basics/2.7-npm.md)
 * [2.8: Deployment: AWS](2-back-end-basics/2.8-deployment-aws.md)
+* [2.9: Git Branches](2-back-end-basics/2.9-git-branches.md)
+* [2.ICE: In-Class Exercises](2-back-end-basics/2.ice-in-class-exercises/README.md)
+  * [2.ICE.1 Conversions](2-back-end-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
+  * [2.ICE.2 Modules](2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules.md)
 * [2.PCE: Post Class Exercises](2-back-end-basics/2.pce-post-class-exercises/README.md)
   * [2.PCE.1: CSS Command Line](2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
+  * [2.PCE.2 CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
 
 ## 3️⃣ Back End Application
 

@@ -35,3 +35,35 @@ const filename = 'mystuff.txt';
 fs.readFile(filename, whenFileIsRead);
 ```
 
+### Splitting multi-line files
+
+mystuff.txt
+
+```javascript
+hello world
+bananas
+apples
+oranges
+```
+
+index.js:
+
+```javascript
+let fs = require('fs');
+
+const whenFileIsRead = (error, content) => {
+  const lines = content.split('\n');
+  
+  for( let i=0; i<lines.length; i+=1){
+    console.log(`line ${i+1}:${lines[i]}`);
+  }
+  
+};
+
+const filename = 'mystuff.txt';
+
+fs.readFile(filename, whenFileIsRead);
+```
+
+
+
