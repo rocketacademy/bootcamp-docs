@@ -363,7 +363,7 @@ We want to extract this out into a function so that we can use it to create the 
 
 We also added the card color in the example. In order to get this behavior for every card we could have implemented some logic:
 
-```js
+```javascript
 // if the suit is heart or diamond
 // the color is red
 ```
@@ -374,7 +374,7 @@ If we want to add other stylistic features we could also decide to change the na
 
 That is, in our example card layout above there is not room for a full name face card, like `queen` . We can add another attribute to the object:
 
-```js
+```javascript
 const cardInfo = {
   suitSymbol: '♦️',
   suit: 'diamond',
@@ -387,7 +387,7 @@ const cardInfo = {
 
 Now we can use the attributes in the `createCard` function:
 
-```js
+```javascript
 const createCard = (cardInfo) => {
   const suit = document.createElement('div');
   suit.classList.add('suit');

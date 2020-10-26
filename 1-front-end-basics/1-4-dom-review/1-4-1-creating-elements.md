@@ -105,3 +105,4 @@ Use this structured array to create a series of yellow boxes. \(The food should 
 ### Refactor
 
 Create a function for the creation of each kind of box. Pass the contents of the box as a parameter.
+
