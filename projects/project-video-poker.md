@@ -1,5 +1,9 @@
 # Project 1: Video Poker
 
+{% hint style="danger" %}
+Note that Rocket Academy does not endorse gambling or any other illegal activity.
+{% endhint %}
+
 Video Poker is the Poker card game, but for one player. You will play hands of poker and try to score points by getting the best hand possible.
 
 ### Setup
@@ -15,6 +19,10 @@ When they click the "deal" button a hand of five cards will be dealt. They user 
 The game gives points based on the hand the user got.
 
 Look up the [rankings of Poker hands here.](https://en.wikipedia.org/wiki/List_of_poker_hands)
+
+You can use this implementation of [Video Poker here as a reference](https://www.freeslots.com/poker.htm).
+
+You can also reference this [Wikipedia page about video poker.](https://en.wikipedia.org/wiki/Video_poker)
 
 ## Basic
 
