@@ -43,8 +43,8 @@ Start with this repo: [https://github.com/rocketacademy/swe101-next-steps-dom](h
 Copy this CSS into the `style.css` file.
 
 ```css
-.word {
-  background-color: pink;
+.word{
+  background-color:pink;
   margin: 0 4px;
   padding: 10px;
 }
@@ -105,4 +105,3 @@ Use this structured array to create a series of yellow boxes. \(The food should 
 ### Refactor
 
 Create a function for the creation of each kind of box. Pass the contents of the box as a parameter.
-

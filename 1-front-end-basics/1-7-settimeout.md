@@ -69,4 +69,3 @@ console.log('setTimeout! - 4');
 setTimeout(doLater, delayInMilliseconds);
 console.log('setTimeout! - 5');
 ```
-

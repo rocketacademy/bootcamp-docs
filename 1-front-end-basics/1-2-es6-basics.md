@@ -193,4 +193,3 @@ You can change the definition of the `main` function in any old code from SWE101
 ### Template Literals
 
 Change one string output where you used plus sign and change it to a template literal.
-

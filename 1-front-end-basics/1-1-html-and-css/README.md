@@ -23,4 +23,3 @@
 {% embed url="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage" %}
 
 #### Exercise 6: Noodle Recipe App Pages
-

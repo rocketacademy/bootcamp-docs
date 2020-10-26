@@ -13,4 +13,3 @@ Check out the article on documentation [here](http://cassandrawilcox.me/beginner
 Look up the documentation for the JavaScript [Date object.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) \(You can also google around for the answer\).
 
 Create a new copy of the [starter code.](https://github.com/rocketacademy/swe101-starter-code) Create a button that, when clicked, displays today's date.
-

@@ -89,4 +89,3 @@ const player2Click = () => {
 ### Exercise
 
 Add the timeout to your High Card game.
-

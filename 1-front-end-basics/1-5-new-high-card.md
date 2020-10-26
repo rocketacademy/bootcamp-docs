@@ -37,7 +37,7 @@ const shuffleCards = (cards) => {
 const makeDeck = () => {
   // create the empty deck at the beginning
   const newDeck = [];
-  const suits = ['hearts', 'diamonds', 'clubs', 'spades'];
+  const suits = ["hearts", "diamonds", "clubs", "spades"];
 
   for (let suitIndex = 0; suitIndex < suits.length; suitIndex += 1) {
     // make a variable of the current suit
@@ -51,14 +51,14 @@ const makeDeck = () => {
       let cardName = `${rankCounter}`;
 
       // 1, 11, 12 ,13
-      if (cardName === '1') {
-        cardName = 'ace';
-      } else if (cardName === '11') {
-        cardName = 'jack';
-      } else if (cardName === '12') {
-        cardName = 'queen';
-      } else if (cardName === '13') {
-        cardName = 'king';
+      if (cardName === "1") {
+        cardName = "ace";
+      } else if (cardName === "11") {
+        cardName = "jack";
+      } else if (cardName === "12") {
+        cardName = "queen";
+      } else if (cardName === "13") {
+        cardName = "king";
       }
 
       // make a single card object variable
@@ -87,18 +87,18 @@ let playersTurn = 1;
 let player1Card;
 
 // create two buttons
-const player1Button = document.createElement('button');
-player1Button.innerText = 'Player 1 Draw';
+const player1Button = document.createElement("button");
+player1Button.innerText = "Player 1 Draw";
 document.body.appendChild(player1Button);
 
-const player2Button = document.createElement('button');
-player2Button.innerText = 'Player 2 Draw';
+const player2Button = document.createElement("button");
+player2Button.innerText = "Player 2 Draw";
 document.body.appendChild(player2Button);
 
 // Create game info div as global value
 // fill game info div with starting instructions
-const gameInfo = document.createElement('div');
-gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
+const gameInfo = document.createElement("div");
+gameInfo.innerText = "Its player 1 turn. Click to draw a card!";
 document.body.appendChild(gameInfo);
 
 // create a helper function for output to abstract complexity
@@ -107,24 +107,24 @@ const output = (message) => {
   gameInfo.innerText = message;
 };
 
-player1Button.addEventListener('click', () => {
+player1Button.addEventListener("click", () => {
   if (playersTurn === 1) {
     player1Card = deck.pop();
     playersTurn = 2;
   }
 });
 
-player2Button.addEventListener('click', () => {
+player2Button.addEventListener("click", () => {
   if (playersTurn === 2) {
     const player2Card = deck.pop();
     playersTurn = 1;
 
     if (player1Card.rank > player2Card.rank) {
-      output('player 1 wins');
+      output("player 1 wins");
     } else if (player1Card.rank < player2Card.rank) {
-      output('player 2 wins');
+      output("player 2 wins");
     } else {
-      output('tie');
+      output("tie");
     }
   }
 });
@@ -142,11 +142,11 @@ const deck = shuffleCards(makeDeck());
 let playersTurn = 1; // matches with starting instructions
 let player1Card;
 
-const player1Button = document.createElement('button');
+const player1Button = document.createElement("button");
 
-const player2Button = document.createElement('button');
+const player2Button = document.createElement("button");
 
-const gameInfo = document.createElement('div');
+const gameInfo = document.createElement("div");
 ```
 
 ### Helper Functions
@@ -180,7 +180,7 @@ const shuffleCards = (cards) => {
 const makeDeck = () => {
   // create the empty deck at the beginning
   const newDeck = [];
-  const suits = ['hearts', 'diamonds', 'clubs', 'spades'];
+  const suits = ["hearts", "diamonds", "clubs", "spades"];
 
   for (let suitIndex = 0; suitIndex < suits.length; suitIndex += 1) {
     // make a variable of the current suit
@@ -194,14 +194,14 @@ const makeDeck = () => {
       let cardName = `${rankCounter}`;
 
       // 1, 11, 12 ,13
-      if (cardName === '1') {
-        cardName = 'ace';
-      } else if (cardName === '11') {
-        cardName = 'jack';
-      } else if (cardName === '12') {
-        cardName = 'queen';
-      } else if (cardName === '13') {
-        cardName = 'king';
+      if (cardName === "1") {
+        cardName = "ace";
+      } else if (cardName === "11") {
+        cardName = "jack";
+      } else if (cardName === "12") {
+        cardName = "queen";
+      } else if (cardName === "13") {
+        cardName = "king";
       }
 
       // make a single card object variable
@@ -242,11 +242,11 @@ const player2Click = () => {
     playersTurn = 1;
 
     if (player1Card.rank > player2Card.rank) {
-      output('player 1 wins');
+      output("player 1 wins");
     } else if (player1Card.rank < player2Card.rank) {
-      output('player 2 wins');
+      output("player 2 wins");
     } else {
-      output('tie');
+      output("tie");
     }
   }
 };
@@ -259,17 +259,17 @@ Let's put all of these steps in a function.
 ```javascript
 const gameInit = () => {
   // initialize button functionality
-  player1Button.innerText = 'Player 1 Draw';
+  player1Button.innerText = "Player 1 Draw";
   document.body.appendChild(player1Button);
 
-  player2Button.innerText = 'Player 2 Draw';
+  player2Button.innerText = "Player 2 Draw";
   document.body.appendChild(player2Button);
 
-  player1Button.addEventListener('click', player1Click);
-  player2Button.addEventListener('click', player2Click);
+  player1Button.addEventListener("click", player1Click);
+  player2Button.addEventListener("click", player2Click);
 
   // fill game info div with starting instructions
-  gameInfo.innerText = 'Its player 1 turn. Click to draw a card!';
+  gameInfo.innerText = "Its player 1 turn. Click to draw a card!";
   document.body.appendChild(gameInfo);
 };
 ```
@@ -298,27 +298,27 @@ This might be the HTML we want for a single card:
 The CSS for these elements might look like this:
 
 ```css
-.card{
-    margin:10px;
-    padding:10px;
-    background-color:grey;
-    width:50px;
-    text-align:center;
-    border-radius:8px;
-    display:inline-block;
+.card {
+  margin: 10px;
+  padding: 10px;
+  background-color: grey;
+  width: 50px;
+  text-align: center;
+  border-radius: 8px;
+  display: inline-block;
 }
-.suit{
-    margin: 5px;
-    font-size:20px;
+.suit {
+  margin: 5px;
+  font-size: 20px;
 }
-.name{
-    margin: 5px;
-    font-size:24px;
-    font-weight:bold;
-    font-family:sans-serif;
+.name {
+  margin: 5px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: sans-serif;
 }
-.red{
-    color:red;
+.red {
+  color: red;
 }
 ```
 
@@ -344,16 +344,16 @@ For the sake of convenience we also want to make a place for our JavaScript to p
 The JavaScript to build the card element might look like this:
 
 ```javascript
-const suit = document.createElement('div');
-suit.classList.add('suit');
-suit.innerText = '♥️';
+const suit = document.createElement("div");
+suit.classList.add("suit");
+suit.innerText = "♥️";
 
-const name = document.createElement('div');
-name.classList.add('name', 'red');
-name.innerText = '3';
+const name = document.createElement("div");
+name.classList.add("name", "red");
+name.innerText = "3";
 
-const card = document.createElement('div');
-card.classList.add('card');
+const card = document.createElement("div");
+card.classList.add("card");
 
 card.appendChild(name);
 card.appendChild(suit);
@@ -363,7 +363,7 @@ We want to extract this out into a function so that we can use it to create the 
 
 We also added the card color in the example. In order to get this behavior for every card we could have implemented some logic:
 
-```javascript
+```js
 // if the suit is heart or diamond
 // the color is red
 ```
@@ -374,7 +374,7 @@ If we want to add other stylistic features we could also decide to change the na
 
 That is, in our example card layout above there is not room for a full name face card, like `queen` . We can add another attribute to the object:
 
-```javascript
+```js
 const cardInfo = {
   suitSymbol: '♦️',
   suit: 'diamond',
@@ -387,7 +387,7 @@ const cardInfo = {
 
 Now we can use the attributes in the `createCard` function:
 
-```javascript
+```js
 const createCard = (cardInfo) => {
   const suit = document.createElement('div');
   suit.classList.add('suit');
@@ -422,8 +422,8 @@ let cardContainer;
 Add the `card-container` div to the `gameInit` function:
 
 ```javascript
-cardContainer = document.createElement('div');
-card.classList.add('card-container');
+cardContainer = document.createElement("div");
+card.classList.add("card-container");
 document.body.appendChild(cardContainer);
 ```
 
@@ -439,7 +439,7 @@ const player1Click = () => {
     // in case this is not the 1st time
     // in the entire app,
     // empty the card container
-    cardContainer.innerHTML = '';
+    cardContainer.innerHTML = "";
 
     cardContainer.appendChild(cardElement);
 
@@ -455,11 +455,11 @@ const player2Click = () => {
     playersTurn = 1;
 
     if (player1Card.rank > player2Card.rank) {
-      output('player 1 wins');
+      output("player 1 wins");
     } else if (player1Card.rank < player2Card.rank) {
-      output('player 2 wins');
+      output("player 2 wins");
     } else {
-      output('tie');
+      output("tie");
     }
   }
 };
