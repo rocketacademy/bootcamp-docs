@@ -1,4 +1,4 @@
-# 2.5: What is the Internet
+# 2.7: What is the Internet
 
 When you interact with the internet:
 
@@ -7,6 +7,25 @@ When you interact with the internet:
 2\) You don't know how long it will take.
 
 ![](../.gitbook/assets/my-document-2-%20%281%29.jpg)
+
+## HTTP
+
+A way to send things over TCP/IP.
+
+## Server That Responds With 'yay'
+
+```text
+import {createServer} from 'http';
+const PORT = 3004;
+
+createServer((request, response) => {
+    console.log('request ', request.url);
+    response.end('yay', 'utf-8');
+}).listen(PORT);
+console.log('Server running.');
+```
+
+## File Server
 
 ```text
 var http = require('http');

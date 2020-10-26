@@ -1,16 +1,21 @@
 # 1.PCE.2: High Card DOM
 
-Build on your work in the High Card repo from [Module 1.5](../1-5-new-high-card.md). Remember to work on a forked copy of the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1), and submit a Pull Request once done.
+Build on your work in the High Card repo from [Module 1.5](../1-5-high-card-dom.md). Remember to work on a forked copy of the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1), and submit a Pull Request once done.
 
-## Display
+## Base
+
+### Display
 
 Build helper functions that will create the card DOM elements for a given card. Call this function by passing in a card object. Use it to build the cards you need to display in the game.
 
 ```javascript
-const cardObj = {
-  name: '2',
-  rank: 2,
-  suit: 'hearts',
+const cardInfo = {
+  suitSymbol: '♦️',
+  suit: 'diamond',
+  name: 'queen',
+  display: 'Q',
+  color: 'red',
+  rank: 12,
 };
 
 const cardElement = buildCard(cardObj);
@@ -19,17 +24,21 @@ document.body.appendChild(cardElement);
 
 Build the display of other game elements, like the current player turn.
 
-## High / Low Card
+## Comfortable
 
-The players can draw multiple cards. The winner is the player who draws the hand that has the highest and the lowest card, or the greatest difference in rank between two cards in his hand.
+### High / Low Card
+
+The players can draw multiple cards each. The winner is the player who has the greatest difference in rank between the highest and lowest cards in his hand.
 
 Change the CSS of the game so that each players' cards are displayed in a row.
 
-## Card Display
+## More Comfortable
+
+### Card Display
 
 Arrange the cards so that the 2 most winningest cards are displayed next to each other in the row.
 
-## Number of Cards
+### Number of Cards
 
 Create a text input. The players will decide before hand how many cards will be drawn per player in the game by typing a number in the input and clicking a button.
 

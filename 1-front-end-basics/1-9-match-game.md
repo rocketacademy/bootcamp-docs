@@ -176,4 +176,4 @@ const makeDeck = (cardAmount) => {
 
 ## Exercise
 
-Fork and clone the SWE1 Match Game repo. Use code from the above implementation to build a working Match Game.
+Fork and clone the [SWE1 Match Game repo](https://github.com/rocketacademy/match-game-swe1). Use code from the above implementation to build a working Match Game.

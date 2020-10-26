@@ -15,11 +15,13 @@
 ## 🛠 Course Logistics
 
 * [Required Hardware and Software](course-logistics/backend-setup.md)
+* [Pairing Assignments](course-logistics/pairing-assignments.md)
 * [Glossary](course-logistics/glossary.md)
 
 ## 🏞 Projects
 
 * [Project 1: Video Poker](projects/project-video-poker.md)
+* [Project Code Review](projects/project-code-review.md)
 
 ## 1️⃣ Front End Basics
 
@@ -39,7 +41,7 @@
   * [1.4.1: Creating Elements](1-front-end-basics/1-4-dom-review/1-4-1-creating-elements.md)
   * [1.4.2: Events](1-front-end-basics/1-4-dom-review/1-4-2-events.md)
   * [1.4.3: Grab an Element](1-front-end-basics/1-4-dom-review/1-4-3-grab-an-element.md)
-* [1.5: New High Card](1-front-end-basics/1-5-new-high-card.md)
+* [1.5: High Card DOM](1-front-end-basics/1-5-high-card-dom.md)
 * [1.6: Reading Documentation](1-front-end-basics/1-6-reading-documentation.md)
 * [1.7: setTimeout](1-front-end-basics/1-7-settimeout.md)
 * [1.8: High Card setTimeout](1-front-end-basics/1-8-high-card-settimeout.md)
@@ -47,6 +49,7 @@
 * [1.10: setInterval](1-front-end-basics/1-10-setinterval.md)
 * [1.11: Timer](1-front-end-basics/1-11-timer.md)
 * [1.12: Tic Tac Toe](1-front-end-basics/1-12-tic-tac-toe.md)
+* [1.13: Multi File Refactor](1-front-end-basics/1.13-multi-file-refactor.md)
 * [1.ICE: In-Class Exercises](1-front-end-basics/1-ice-in-class-exercises/README.md)
   * [1.ICE.1: Drawing DOM](1-front-end-basics/1-ice-in-class-exercises/1.ice.1-drawing-dom.md)
   * [1.ICE.2 - Timeout / High Card Redux](1-front-end-basics/1-ice-in-class-exercises/1.ice.2-high-card-redux.md)
@@ -54,9 +57,9 @@
 * [1.PCE: Post-Class Exercises](1-front-end-basics/1-pce-post-class-exercises/README.md)
   * [1.PCE.1: Noodle Recipe Website](1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
   * [1.PCE.2: High Card DOM](1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
-  * [1.PCE.3 Match Game](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-hi.md)
-  * [1.PCE.4 Timer](1-front-end-basics/1-pce-post-class-exercises/1.pce.4-timer.md)
-  * [1.PCE.5 Tic Tac Toe](1-front-end-basics/1-pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
+  * [1.PCE.3: Match Game](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-match-game.md)
+  * [1.PCE.4: Timer](1-front-end-basics/1-pce-post-class-exercises/1.pce.4-timer.md)
+  * [1.PCE.5: Tic Tac Toe](1-front-end-basics/1-pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
 
 ## 2️⃣ Back End Basics
 
@@ -64,14 +67,20 @@
 * [2.1: My First Node.js Program](2-back-end-basics/2-1-my-first-node-program.md)
 * [2.2: Command Line Programs](2-back-end-basics/2-2-command-line-programs.md)
 * [2.3: Modules](2-back-end-basics/2.3-modules.md)
-* [2.3: Disk Reading](2-back-end-basics/2-3-disk-storage.md)
-* [2.4: Disk Writing](2-back-end-basics/2.4-disk-writing.md)
-* [2.5: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
-* [2.6: What is the Internet 2](2-back-end-basics/2.6-what-is-the-internet-2.md)
-* [2.7: NPM](2-back-end-basics/2.7-npm.md)
-* [2.8: Deployment: AWS](2-back-end-basics/2.8-deployment-aws.md)
+* [2.4: Disk Reading](2-back-end-basics/2-3-disk-storage.md)
+* [2.5: Disk Writing](2-back-end-basics/2.4-disk-writing.md)
+* [2.6: Altering Disk Files](2-back-end-basics/2.6-altering-disk-files.md)
+* [2.7: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
+* [2.8: What is the Internet 2](2-back-end-basics/2.6-what-is-the-internet-2.md)
+* [2.9: npm](2-back-end-basics/2.7-npm.md)
+* [2.10: Deployment: AWS](2-back-end-basics/2.8-deployment-aws.md)
+* [2.11: Git Branches](2-back-end-basics/2.9-git-branches.md)
+* [2.ICE: In-Class Exercises](2-back-end-basics/2.ice-in-class-exercises/README.md)
+  * [2.ICE.1 Conversions](2-back-end-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
+  * [2.ICE.2 Modules](2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules.md)
 * [2.PCE: Post Class Exercises](2-back-end-basics/2.pce-post-class-exercises/README.md)
   * [2.PCE.1: CSS Command Line](2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
+  * [2.PCE.2 CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
 
 ## 3️⃣ Back End Application
 

@@ -1,6 +1,6 @@
-# 1.5: New High Card
+# 1.5: High Card DOM
 
-We'll be taking the High Card game done in SWE101 out of the starter code so we can talk about all the parts we would need to build from scratch.
+We will be implementing High Card from scratch, adding DOM elements to make the game more visual and interactive. For a recap of High Card, see the SWE101 page [here](https://swe101.rocketacademy.co/10-javascript-objects/10-1-objects#high-card).
 
 ## Basic High Card
 
@@ -434,7 +434,7 @@ const player1Click = () => {
   if (playersTurn === 1) {
     player1Card = deck.pop();
 
-    const cardElement = createCard(playerCard);
+    const cardElement = createCard(player1Card);
 
     // in case this is not the 1st time
     // in the entire app,
@@ -472,3 +472,4 @@ const cardOutput = (message) => {
 ### Exercise
 
 Fork and clone the [SWE1 High Card repo](https://github.com/rocketacademy/high-card-swe1) and use code from High Card above to construct a working High Card game.
+

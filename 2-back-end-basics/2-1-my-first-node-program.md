@@ -111,19 +111,25 @@ node index.js
 
 Look for this process in your Activity Monitor. It should be taking up 100% of one core.
 
+Type ctrl ^c to exit. 
+
 ### Process Variable
 
-In the DOM - on the other context of running JavaScript we saw before, the variables that _represented_ our running environment \(a browser window/tab\) were the two variables `window` and `document`.
+In the DOM - the other context of running JavaScript we saw before, the variables that _**represented**_ our running environment \(a browser window/tab\) were the two variables `window` and `document`.
 
 To refresh on this concept, open any page in your Chrome browser and open the Dev Tools. Type `document` and `window` in the console.
 
 For `window` click the triangle to see the keys inside this object. What are two keys that represent the state of the window or some data about the current page?
 
-In Nodejs we also have one variable that represents the enviroment our code is running in: `process`.
+In Nodejs we also have one variable that represents the environment our code is running in: `process`.
+
+Create a new node program with one line:
 
 ```text
 console.log( process );
 ```
+
+Run it:
 
 ```text
 node index.js

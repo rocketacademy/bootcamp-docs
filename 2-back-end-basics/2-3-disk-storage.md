@@ -1,4 +1,4 @@
-# 2.3: Disk Reading
+# 2.4: Disk Reading
 
 Store things on your computer that will be there later.
 
@@ -27,6 +27,12 @@ index.js:
 let fs = require('fs');
 
 const whenFileIsRead = (error, content) => {
+  
+  if( error ) {
+    console.log( 'read error', error );
+    return;
+  }
+
   console.log(content);
 };
 
@@ -34,4 +40,36 @@ const filename = 'mystuff.txt';
 
 fs.readFile(filename, whenFileIsRead);
 ```
+
+### Splitting multi-line files
+
+mystuff.txt
+
+```javascript
+hello world
+bananas
+apples
+oranges
+```
+
+index.js:
+
+```javascript
+let fs = require('fs');
+
+const whenFileIsRead = (error, content) => {
+  const lines = content.split('\n');
+  
+  for( let i=0; i<lines.length; i+=1){
+    console.log(`line ${i+1}:${lines[i]}`);
+  }
+  
+};
+
+const filename = 'mystuff.txt';
+
+fs.readFile(filename, whenFileIsRead);
+```
+
+
 
