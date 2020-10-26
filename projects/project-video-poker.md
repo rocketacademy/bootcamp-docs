@@ -16,13 +16,13 @@ The game gives points based on the hand the user got.
 
 Look up the [rankings of Poker hands here.](https://en.wikipedia.org/wiki/List_of_poker_hands)
 
-## Approach
+## Basic
 
-Create a helper function called handScore. This function will take an array of card objects and return the number of points that the user scored for the cards in their hand.
+Create a helper function called `getHandScore`. This function will take an array of card objects and return the number of points that the user scored for the cards in their hand.
 
-This handScore function will allow you to build the gameplay and abstract away the hand score logic. It will also make testing the hand score logic very easy.
+This `getHandScore` function will allow you to build the gameplay and abstract away the hand scoring logic. It will also make testing the hand scoring logic very easy.
 
-Begin by coding the entire basic working game where the handScore function returns the same number of points regardless of the cards that are passed to it.
+Begin by coding the entire basic working game where the `getHandScore` function returns the same number of points regardless of the cards that are passed to it.
 
 Specifically this functionality is where:
 
@@ -32,13 +32,13 @@ Specifically this functionality is where:
 * The users selects which cards they want to keep.
 * The game gives the user their final score and adds or subtracts points.
 
-### `handScore` 
+### `getHandScore` 
 
-After you have a working, playable version of the game, add logic to the hand score function. Begin by adding the logic for detecting each hand one at a time. Test that logic and then move onto detecting the next kind of hand.
+After you have a working, playable version of the game, add logic to `getHandScore`. Begin by adding the logic for detecting each hand one at a time. Test that logic and then move onto detecting the next kind of hand.
 
 Hard code the arrays of card objects you will need to test your logic. Don't forget to test the negative cases. \(You win, but can you still lose?\)
 
-## More Comfortable
+## Comfortable
 
 ### Polish
 
@@ -51,15 +51,9 @@ This is your chance to create a project that has polish and that you can show of
 * looks good on a phone \(responsive CSS\)
 * runs without any errors / is resetable - when using the game it has no unexpected behaviors or weird quirks
 
+## More Comfortable
+
 ### Game Logic
 
 Implement 7 card stud rules for poker instead of 5 card draw.
-
-
-
-## 
-
-
-
-
 
