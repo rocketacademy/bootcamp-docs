@@ -26,7 +26,7 @@
 
 #### Post-Class
 
-* [1.PCE.1: Noodle Recipe Website](../1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
+* [1.PCE.1: Noodle Recipe Website](../1-front-end-basics/1-pce-post-class-exercises/1.pce.1-noodles.md)
 
 ### Day 2
 
@@ -42,7 +42,7 @@
 
 #### Post-Class
 
-* [1.PCE.2: High Card DOM](../1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
+* [1.PCE.2: High Card DOM](../1-front-end-basics/1-pce-post-class-exercises/1.pce.2-high-card-dom.md)
 
 ### Day 3
 

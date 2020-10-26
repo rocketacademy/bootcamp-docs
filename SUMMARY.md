@@ -53,11 +53,11 @@
 * [1.13: Multi File Refactor](1-front-end-basics/1.13-multi-file-refactor.md)
 * [1.ICE: In-Class Exercises](1-front-end-basics/1-ice-in-class-exercises/README.md)
   * [1.ICE.1: Drawing DOM](1-front-end-basics/1-ice-in-class-exercises/1.ice.1-drawing-dom.md)
-  * [1.ICE.2 - Timeout / High Card Redux](1-front-end-basics/1-ice-in-class-exercises/1.ice.2-high-card-redux.md)
-  * [1.ICE.3 setInterval](1-front-end-basics/1-ice-in-class-exercises/1.ice.3-setinterval.md)
+  * [1.ICE.2: Timeout / High Card Redux](1-front-end-basics/1-ice-in-class-exercises/1.ice.2-high-card-redux.md)
+  * [1.ICE.3: setInterval](1-front-end-basics/1-ice-in-class-exercises/1.ice.3-setinterval.md)
 * [1.PCE: Post-Class Exercises](1-front-end-basics/1-pce-post-class-exercises/README.md)
-  * [1.PCE.1: Noodle Recipe Website](1-front-end-basics/1-pce-post-class-exercises/1-pce-1-noodles.md)
-  * [1.PCE.2: High Card DOM](1-front-end-basics/1-pce-post-class-exercises/1-pce-2-high-card-dom.md)
+  * [1.PCE.1: Noodle Recipe Website](1-front-end-basics/1-pce-post-class-exercises/1.pce.1-noodles.md)
+  * [1.PCE.2: High Card DOM](1-front-end-basics/1-pce-post-class-exercises/1.pce.2-high-card-dom.md)
   * [1.PCE.3: Match Game](1-front-end-basics/1-pce-post-class-exercises/1.pce.3-match-game.md)
   * [1.PCE.4: Timer](1-front-end-basics/1-pce-post-class-exercises/1.pce.4-timer.md)
   * [1.PCE.5: Tic Tac Toe](1-front-end-basics/1-pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
@@ -78,10 +78,10 @@
 * [2.11: Git Branches](2-back-end-basics/2.9-git-branches.md)
 * [2.ICE: In-Class Exercises](2-back-end-basics/2.ice-in-class-exercises/README.md)
   * [2.ICE.1 Conversions](2-back-end-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
-  * [2.ICE.2 Modules](2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules.md)
+  * [2.ICE.2: Modules](2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules.md)
 * [2.PCE: Post Class Exercises](2-back-end-basics/2.pce-post-class-exercises/README.md)
   * [2.PCE.1: CSS Command Line](2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
-  * [2.PCE.2 CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
+  * [2.PCE.2: CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
 
 ## 3️⃣ Back End Application
 
