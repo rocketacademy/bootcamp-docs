@@ -88,7 +88,7 @@
 
 #### In-Class
 
-* Review 1.PCE4: Timer
+* Review 1.PCE.4: Timer
 
 #### Post-Class
 
@@ -98,11 +98,11 @@
 
 ### Topics
 
-* CSS
+* Advanced CSS
 
 ### Project
 
-* [Video Poker](../projects/project-video-poker.md)
+* [Project 1: Video Poker](../projects/project-video-poker.md)
 
 ### Day 1
 
@@ -112,7 +112,11 @@
 
 #### In-Class
 
+* Review 1.PCE.5: Tic Tac Toe
+
 #### Post-Class
+
+* [Project 1: Video Poker](../projects/project-video-poker.md)
 
 ### Day 2
 
@@ -124,6 +128,8 @@
 
 #### Post-Class
 
+* [Project 1: Video Poker](../projects/project-video-poker.md)
+
 ### Day 3
 
 #### Pre-Class
@@ -133,6 +139,8 @@
 #### In-Class
 
 #### Post-Class
+
+* [Project 1: Video Poker](../projects/project-video-poker.md)
 
 ### Day 4
 
@@ -145,6 +153,8 @@
 
 #### Post-Class
 
+* [Project 1: Video Poker](../projects/project-video-poker.md)
+
 ### Day 5
 
 #### In-Class
@@ -152,6 +162,8 @@
 * Project Presentation
 
 **Post-Class**
+
+* [Project 1: Video Poker](../projects/project-video-poker.md)
 
 ## Week 3
 
