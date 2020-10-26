@@ -1,4 +1,4 @@
-# 2.3: Disk Reading
+# 2.4: Disk Reading
 
 Store things on your computer that will be there later.
 
@@ -27,6 +27,12 @@ index.js:
 let fs = require('fs');
 
 const whenFileIsRead = (error, content) => {
+  
+  if( error ) {
+    console.log( 'read error', error );
+    return;
+  }
+
   console.log(content);
 };
 

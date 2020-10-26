@@ -1,4 +1,4 @@
-# 2.5: What is the Internet
+# 2.7: What is the Internet
 
 When you interact with the internet:
 
