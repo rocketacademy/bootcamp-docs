@@ -24,12 +24,11 @@ hello worldd
 index.js:
 
 ```javascript
-let fs = require('fs');
+import { readFile } from 'fs';
 
 const whenFileIsRead = (error, content) => {
-  
-  if( error ) {
-    console.log( 'read error', error );
+  if (error) {
+    console.log('read error', error);
     return;
   }
 
@@ -38,7 +37,7 @@ const whenFileIsRead = (error, content) => {
 
 const filename = 'mystuff.txt';
 
-fs.readFile(filename, whenFileIsRead);
+readFile(filename, whenFileIsRead);
 ```
 
 ### Splitting multi-line files
@@ -55,20 +54,19 @@ oranges
 index.js:
 
 ```javascript
-let fs = require('fs');
+import { readFile } from 'fs';
 
 const whenFileIsRead = (error, content) => {
   const lines = content.split('\n');
-  
-  for( let i=0; i<lines.length; i+=1){
-    console.log(`line ${i+1}:${lines[i]}`);
+
+  for (let i = 0; i < lines.length; i += 1) {
+    console.log(`line ${i + 1}:${lines[i]}`);
   }
-  
 };
 
 const filename = 'mystuff.txt';
 
-fs.readFile(filename, whenFileIsRead);
+readFile(filename, whenFileIsRead);
 ```
 
 
