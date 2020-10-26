@@ -126,9 +126,14 @@
 
 #### In-Class
 
+* Review Flexbox
+
 #### Post-Class
 
 * [Project 1: Video Poker](../projects/project-video-poker.md)
+* [1.1 HTML & CSS Project: Technical Documentation](../1-front-end-basics/1-1-html-and-css/#html-css-exercise-technical-documentation-page)
+* Sign Up for Amazon Web Services
+* [Setup for Module 2](../2-back-end-basics/2-0-module-2-overview.md)
 
 ### Day 3
 
@@ -138,9 +143,12 @@
 
 #### In-Class
 
+* Review Responsive Design
+
 #### Post-Class
 
 * [Project 1: Video Poker](../projects/project-video-poker.md)
+* [1.1 HTML & CSS Project: Technical Documentation](../1-front-end-basics/1-1-html-and-css/#html-css-exercise-technical-documentation-page)
 
 ### Day 4
 
@@ -151,15 +159,18 @@
 
 #### In-Class
 
+* Review Bootstrap / Design
+
 #### Post-Class
 
 * [Project 1: Video Poker](../projects/project-video-poker.md)
+* [1.1 HTML & CSS Project: Product Page](../1-front-end-basics/1-1-html-and-css/#html-css-exercise-product-landing-page)
 
 ### Day 5
 
 #### In-Class
 
-* Project Presentation
+* Review CSS Page Exercise
 
 **Post-Class**
 
@@ -182,16 +193,30 @@ Backend Dynamic Data App
 
 #### Pre-Class
 
+* [Project 1: Video Poker](../projects/project-video-poker.md)
+
+#### In-Class
+
+* [Project 1 Presentation](../projects/project-video-poker.md) 
+
+#### Post-Class
+
+* Project Code Review
+
+### **Day 2**
+
+#### Pre-Class
+
 * 2.1 My First Node.js Program
 * 2.2 Command Line Programs
 
-#### In-Class
+**In-Class**
 
 #### Post-Class
 
 * [2.PCE.1: CSS](../2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
 
-### Day 2
+### Day 3
 
 #### Pre-Class
 
@@ -201,7 +226,7 @@ Backend Dynamic Data App
 
 #### Post-Class
 
-### Day 3
+### Day 4
 
 #### Pre-Class
 
@@ -212,21 +237,12 @@ Backend Dynamic Data App
 
 #### Post-Class
 
-### Day 4
+### Day 5
 
 #### Pre-Class
 
 * 2.5 What is the Internet
 * 2.6 What is the Internet 2
-
-#### In-Class
-
-#### Post-Class
-
-### Day 5
-
-#### Pre-Class
-
 * 2.7 NPM
 * 2.6 AWS
 
