@@ -9,7 +9,7 @@ Each day's deliverables are due by the **start** of that day's class. We will co
 * Vanilla HTML, CSS, JS
 * Intro to server, storing data on disk
 
-## [Weeks 5-8](weeks-5-8.md)
+## [Weeks 5-8](weeks-5-8/)
 
 * SQL
 * Authentication
