@@ -45,3 +45,4 @@ All files and folders are in kebab-case \(lowercase and hyphenated\) for ease of
 4. Within each `dayX` folder, create `pre-class`, `in-class`, and `post-class` folders for the respective exercises.
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
 6. Store projects within a `projects` directory directly within the `swe1` folder for easy accessibility.
+

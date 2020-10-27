@@ -16,7 +16,11 @@ The Comfortable section is for students that are able to complete Base and wish 
 
 The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete SWE1 successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
 
+## Recommended Order of Work
 
+On any given day in SWE1, students will have Post-Class Exercises for the current day, Pre-Class Exercises  for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
 
-
+1. Base section of Post-Class Exercises / Project
+2. Pre-Class Exercises
+3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
 

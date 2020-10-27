@@ -29,3 +29,4 @@ const ref = setInterval(() => {
 ## Exercise
 
 Create a timer that counts up instead of down. Have it stop after the same amount of time as the countdown timer above. \(5000 milliseconds\).
+

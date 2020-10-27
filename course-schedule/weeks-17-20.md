@@ -4,12 +4,13 @@
 
 ### Topics
 
-- React Context
-- HTTP Sockets
-- React Error Boundaries
+* React Context
+* HTTP Sockets
+* React Error Boundaries
 
 ## Weeks 19 & 20
 
 ### Project
 
-- \[Group Project\] Full Stack React Data App
+* \[Group Project\] Full Stack React Data App
+

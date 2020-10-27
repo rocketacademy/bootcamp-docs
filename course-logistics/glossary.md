@@ -19,3 +19,4 @@ The command line is a text-based interface that we can use to operate our comput
 ## Terminal
 
 A terminal is an interface that we can use to operate our computers through a text-based "command line".
+

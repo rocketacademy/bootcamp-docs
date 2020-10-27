@@ -6,39 +6,40 @@ Each day's deliverables are due by the **start** of that day's class. We will co
 
 ## [Weeks 1-4](weeks-1-4/)
 
-- Vanilla HTML, CSS, JS
-- Intro to server, storing data on disk
+* Vanilla HTML, CSS, JS
+* Intro to server, storing data on disk
 
 ## [Weeks 5-8](weeks-5-8/)
 
-- SQL
-- Authentication
-- CRUD application with DB
+* SQL
+* Authentication
+* CRUD application with DB
 
 ## [Weeks 9-12](weeks-9-12/)
 
-- Asynchronous JavaScript
-- MVC
-- Rest APIs
-- ORM
+* Asynchronous JavaScript
+* MVC
+* Rest APIs
+* ORM
 
 ## [Weeks 13-16](weeks-13-16.md)
 
-- React
-- Webpack
-- Data Structures and Algorithms
+* React
+* Webpack
+* Data Structures and Algorithms
 
 ## [Weeks 17-20](weeks-17-20.md)
 
-- Advanced React
-- Sockets
-- GraphQL
-- Data Structures and Algorithms
-- Group Project
+* Advanced React
+* Sockets
+* GraphQL
+* Data Structures and Algorithms
+* Group Project
 
 ## [Weeks 21-24](weeks-21-24.md)
 
-- 3rd-Party APIs \(Google AI, Google Maps, Twilio, Sendgrid, Stripe\)
-- Cron
-- Computer Systems \(Operating Systems, Networking, Compilers\)
-- Final Project
+* 3rd-Party APIs \(Google AI, Google Maps, Twilio, Sendgrid, Stripe\)
+* Cron
+* Computer Systems \(Operating Systems, Networking, Compilers\)
+* Final Project
+

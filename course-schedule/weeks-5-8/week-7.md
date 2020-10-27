@@ -2,10 +2,10 @@
 
 ## Topics
 
-- SQL Database Design
-- SQL Joins
-- Cookies
-- User Auth
+* SQL Database Design
+* SQL Joins
+* Cookies
+* User Auth
 
 ## Day 1
 
@@ -30,3 +30,4 @@ Password Hashing - Security
 ## Day 5
 
 EC2 DB Deployment
+
