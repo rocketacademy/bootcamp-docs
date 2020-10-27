@@ -46,3 +46,7 @@ All files and folders are in kebab-case \(lowercase and hyphenated\) for ease of
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
 6. Store projects within a `projects` directory directly within the `swe1` folder for easy accessibility.
 
+## VS Code - Open in Browser
+
+Add [this extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make opening the `index.html` file easier.
+

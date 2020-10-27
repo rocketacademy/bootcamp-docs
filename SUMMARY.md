@@ -84,9 +84,9 @@
 * [2.4: Disk Reading](2-back-end-basics/2-3-disk-storage.md)
 * [2.5: Disk Writing](2-back-end-basics/2.4-disk-writing.md)
 * [2.6: Altering Disk Files](2-back-end-basics/2.6-altering-disk-files.md)
-* [2.7: What is the Internet](2-back-end-basics/2-4-what-is-the-internet.md)
-* [2.8: What is the Internet 2](2-back-end-basics/2.6-what-is-the-internet-2.md)
-* [2.9: npm](2-back-end-basics/2.7-npm.md)
+* [2.7: What is the Internet](2-back-end-basics/2.6-what-is-the-internet-2.md)
+* [2.8: What is the Internet: HTTP](2-back-end-basics/2-4-what-is-the-internet.md)
+* [2.9: File Server](2-back-end-basics/2.9-file-server.md)
 * [2.10: Deployment: AWS](2-back-end-basics/2.8-deployment-aws.md)
 * [2.11: Git Branches](2-back-end-basics/2.9-git-branches.md)
 * [2.ICE: In-Class Exercises](2-back-end-basics/2.ice-in-class-exercises/README.md)
@@ -98,6 +98,7 @@
 
 ## 3️⃣ Back-End Application
 
+* [2.9: npm](3-back-end-application/2.7-npm.md)
 * [3.0: Module 3 Overview](3-back-end-application/3-0-module-3-overview.md)
 * [3.1: ES6 Iterators](3-back-end-application/3-1-es6-iterators.md)
 * [3.2: Intro to Express.js](3-back-end-application/3-2-intro-to-express-js.md)
