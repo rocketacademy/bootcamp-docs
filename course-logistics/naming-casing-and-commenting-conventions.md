@@ -20,13 +20,13 @@ In general, variable names should be as specific as possible to prevent miscommu
 
 ### Variables
 
-By default, JavaScript uses [camelCase](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) for variable names.
+By default, JavaScript uses [camelCase](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) for variable names. Treat acronyms like regular words and use [camelCase for the acronym](https://stackoverflow.com/questions/15526107/acronyms-in-camelcase#:~:text=When%20using%20acronyms%2C%20use%20Pascal,in%20identifiers%20or%20parameter%20names) for greater readability, e.g. `cardHtmlElement` instead of `cardHTMLElement`.
 
 ### Constants
 
 Sometimes we have variables that are constant in our program and used in multiple places, for example game modes. To communicate clearly what these constants are and prevent bugs due to string or number misspelling, we often store these variables in "constant" variables, often near the top of our file or in a separate `constants.js` file.
 
-Constants are typically cased with [SCREAMING\_SNAKE\_CASE](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) by convention.
+Constants are typically cased with [SCREAMING\_SNAKE\_CASE](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) by convention, e.g. `GAME_MODE_DEAL_CARDS`.
 
 ### File Names
 
