@@ -6,11 +6,11 @@ Rocket Academy does not endorse gambling or any other illegal activity.
 
 Video Poker is the Poker card game, but for one player. You will play hands of poker and try to score points by getting the best hand possible.
 
-### Setup
+## Setup
 
 Begin by forking the [Video Poker Repo](https://github.com/rocketacademy/video-poker-swe1).
 
-### Game Play
+## Game Play
 
 The user will start the game with 100 points.
 
