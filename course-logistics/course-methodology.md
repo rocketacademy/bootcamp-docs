@@ -24,3 +24,7 @@ On any given day in SWE1, students will have Post-Class Exercises for the curren
 2. Pre-Class Exercises
 3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
 
+## Exercise / Project Strategy
+
+Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+
