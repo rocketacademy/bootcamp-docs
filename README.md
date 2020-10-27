@@ -29,7 +29,7 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 
 | Project | Name |
 | :--- | :--- |
-| 1 | [Video Poker](projects/project-video-poker.md) |
+| 1 | [Video Poker](projects/project-1-video-poker.md) |
 | 2 | Server side web application |
 | 3 | Full stack web application |
 | 4 | Full stack web application with React |

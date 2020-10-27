@@ -15,11 +15,11 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [Project 1: Video Poker](../../projects/project-video-poker.md)
+* [Project 1: Video Poker](../../projects/project-1-video-poker.md)
 
 ### In-Class
 
-* [Project 1 Presentation](../../projects/project-video-poker.md)
+* [Project 1 Presentation](../../projects/project-1-video-poker.md)
 
 ### Post-Class
 
