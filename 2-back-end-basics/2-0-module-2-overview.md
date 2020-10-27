@@ -1,6 +1,6 @@
 # 2.0: Module 2 Overview
 
-**Backend Fundamentals**
+## **Backend Fundamentals**
 
 The focus of the entire SWE1 course is building applications that interact with the internet.
 

@@ -15,7 +15,7 @@ Each day's deliverables are due by the **start** of that day's class. We will co
 * Authentication
 * CRUD application with DB
 
-## [Weeks 9-12](weeks-9-12.md)
+## [Weeks 9-12](weeks-9-12/)
 
 * Asynchronous JavaScript
 * MVC

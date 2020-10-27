@@ -15,7 +15,11 @@
   * [Week 6](course-schedule/weeks-5-8/week-6.md)
   * [Week 7](course-schedule/weeks-5-8/week-7.md)
   * [Week 8](course-schedule/weeks-5-8/week-8.md)
-* [Weeks 9-12](course-schedule/weeks-9-12.md)
+* [Weeks 9-12](course-schedule/weeks-9-12/README.md)
+  * [Week 9](course-schedule/weeks-9-12/week-9.md)
+  * [Week 10](course-schedule/weeks-9-12/week-10.md)
+  * [Week 11](course-schedule/weeks-9-12/week-11.md)
+  * [Week 12](course-schedule/weeks-9-12/week-12.md)
 * [Weeks 13-16](course-schedule/weeks-13-16.md)
 * [Weeks 17-20](course-schedule/weeks-17-20.md)
 * [Weeks 21-24](course-schedule/weeks-21-24.md)
@@ -32,7 +36,7 @@
 * [Project 1: Video Poker](projects/project-video-poker.md)
 * [Project Code Review](projects/project-code-review.md)
 
-## 1️⃣ Front End Basics
+## 1️⃣ Front-End Basics
 
 * [1.0: Module 1 Overview](1-front-end-basics/1-0-module-1-overview.md)
 * [1.1: HTML & CSS](1-front-end-basics/1-1-html-and-css/README.md)
@@ -70,7 +74,7 @@
   * [1.PCE.4: Timer](1-front-end-basics/1-pce-post-class-exercises/1.pce.4-timer.md)
   * [1.PCE.5: Tic Tac Toe](1-front-end-basics/1-pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
 
-## 2️⃣ Back End Basics
+## 2️⃣ Back-End Basics
 
 * [2.0: Module 2 Overview](2-back-end-basics/2-0-module-2-overview.md)
 * [2.1: My First Node.js Program](2-back-end-basics/2-1-my-first-node-program.md)
@@ -91,13 +95,31 @@
   * [2.PCE.1: CSS Command Line](2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
   * [2.PCE.2: CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
 
-## 3️⃣ Back End Application
+## 3️⃣ Back-End Application
 
 * [3.0: Module 3 Overview](3-back-end-application/3-0-module-3-overview.md)
 * [3.1: ES6 Iterators](3-back-end-application/3-1-es6-iterators.md)
 * [3.2: Intro to Express.js](3-back-end-application/3-2-intro-to-express-js.md)
 
-## Extras
+## 4️⃣ Full-Stack Application <a id="full-stack-application"></a>
 
-* [Further Topics](extras/further-topics.md)
+---
+
+* [4.0: Module 4 Overview](4.0-module-4-overview.md)
+
+## 5️⃣ React
+
+* [5.0: Module 5 Overview](5-react/5.0-module-5-overview.md)
+
+## 6️⃣ Advanced React
+
+* [6.0: Module 6 Overview](6-advanced-react/6.0-module-6-overview.md)
+
+## 7️⃣ Advanced Topics
+
+* [7.0: Module 7 Overview](7-advanced-topics/7.0-module-7-overview.md)
+
+## 🧮 Data Structures and Algorithms
+
+* [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview.md)
 
