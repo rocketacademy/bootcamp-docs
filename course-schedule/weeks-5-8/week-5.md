@@ -2,8 +2,8 @@
 
 ## Topics
 
-- Express.js
-- HTTP Request Methods
+* Express.js
+* HTTP Request Methods
 
 ## Day 1
 
@@ -32,3 +32,4 @@ HTTP Put
 ## Day 5
 
 HTTP Delete
+

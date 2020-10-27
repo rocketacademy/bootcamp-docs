@@ -23,7 +23,7 @@ Before we integrate these other aspects of the computer, first we are going to p
 
 ## Where are we going
 
-We will be using the Node.js environment to create a*pplication servers* that listens for incoming network requests from the internet, and save data onto a computer hard drive, and give back responses- sometimes as HTML pages.
+We will be using the Node.js environment to create a_pplication servers_ that listens for incoming network requests from the internet, and save data onto a computer hard drive, and give back responses- sometimes as HTML pages.
 
 We are going to learn how a given set of HTML gets to the browser and how we can control which HTML gets to the browser though the way we request things.
 
@@ -136,3 +136,4 @@ node index.js
 ```
 
 Find some relevant keys in the `process` object.
+

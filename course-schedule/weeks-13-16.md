@@ -4,11 +4,12 @@
 
 ### Topics
 
-- Intro to React
-- Webpack
+* Intro to React
+* Webpack
 
 ## Weeks 15 & 16
 
 ### Project
 
-- Full Stack React Data App
+* Full Stack React Data App
+

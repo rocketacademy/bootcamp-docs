@@ -2,4 +2,5 @@
 
 ## Project
 
-- Full Stack Data App
+* Full Stack Data App
+

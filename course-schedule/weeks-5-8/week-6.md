@@ -2,9 +2,9 @@
 
 ## Topics
 
-- SQL
-- Postgres
-- Express.js SQL
+* SQL
+* Postgres
+* Express.js SQL
 
 ## Day 1
 
@@ -27,3 +27,4 @@ SQL Table Relationships: 1 - Many
 ## Day 5
 
 SQL Table Relationships: Many - to - Many
+
