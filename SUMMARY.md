@@ -26,8 +26,9 @@
 
 ## 🛠 Course Logistics
 
-* [Required Hardware and Software](course-logistics/backend-setup.md)
 * [Pairing Assignments](course-logistics/pairing-assignments.md)
+* [Required Hardware and Software](course-logistics/backend-setup.md)
+* [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
 * [Glossary](course-logistics/glossary.md)
 
