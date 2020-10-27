@@ -148,7 +148,7 @@
 #### Post-Class
 
 * [Project 1: Video Poker](../projects/project-video-poker.md)
-* [1.1 HTML & CSS Project: Technical Documentation](../1-front-end-basics/1-1-html-and-css/#html-css-exercise-technical-documentation-page)
+* [1.1 HTML & CSS Project: Product Page](../1-front-end-basics/1-1-html-and-css/#html-css-exercise-product-landing-page)
 
 ### Day 4
 
@@ -164,7 +164,6 @@
 #### Post-Class
 
 * [Project 1: Video Poker](../projects/project-video-poker.md)
-* [1.1 HTML & CSS Project: Product Page](../1-front-end-basics/1-1-html-and-css/#html-css-exercise-product-landing-page)
 
 ### Day 5
 
