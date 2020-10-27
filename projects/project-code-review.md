@@ -6,9 +6,9 @@ Before the allotted time please prepare the questionnaire on your work and have 
 
 ### Code
 
-What part of the project went well, technically? Give at least one link to your repo as an example. 
+What part of the project went well, technically? Give at least one link to your repo as an example.
 
-What part the project was a struggle, technically? Give at least one link to your repo as an example. 
+What part the project was a struggle, technically? Give at least one link to your repo as an example.
 
 ### Process
 
@@ -21,6 +21,3 @@ What in the approach and process during this project did not go well?
 What technical adjustments would you make for the next project? Why?
 
 What wold you change in your process and approach in the next project? Why?
-
-
-

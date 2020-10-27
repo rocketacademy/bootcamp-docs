@@ -2,8 +2,8 @@
 
 ## Topics
 
-* Express.js
-* HTTP Request Methods
+- Express.js
+- HTTP Request Methods
 
 ## Day 1
 
@@ -13,7 +13,7 @@ NPM
 
 ## Day **2**
 
-Express.js - An HTTP  web application library
+Express.js - An HTTP web application library
 
 HTTP GET
 
@@ -32,4 +32,3 @@ HTTP Put
 ## Day 5
 
 HTTP Delete
-

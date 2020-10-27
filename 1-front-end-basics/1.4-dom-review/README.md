@@ -22,16 +22,16 @@ We have purposely described inputs and outputs very narrowly, but the next step 
 
 **Our javascript is capable of taking as input:**
 
-* Any user mouse movement within the browser screen.
-* Any element on the page they've clicked on.
-* Any radio button, drop down or checkbox they've interacted with.
-* And more....
+- Any user mouse movement within the browser screen.
+- Any element on the page they've clicked on.
+- Any radio button, drop down or checkbox they've interacted with.
+- And more....
 
 #### DOM Output - JS to Element to Browser
 
 **Out JavaScript is capable of giving output as:**
 
-* Any HTML element, with any CSS style applied to it.
+- Any HTML element, with any CSS style applied to it.
 
 The power of JavaScript is that our program can take in and control anything the user does in a browser page.
 
@@ -50,6 +50,7 @@ DOM is also referred to as an API - an Application Programming Interface - the i
 In this case interface refers to the fact that JavaScript does not literally know about everything that happens in the browser screen, \(e.g., when you bring up the Mac or Windows right click menus\), just the subset of things that Chrome allows us to interface with.
 
 {% hint style="info" %}
+
 #### Exercises
 
 Open the console and type in the variable names window and document to see the values in the console.
@@ -61,13 +62,13 @@ What is there?
 
 ### Get Any Input
 
-Look up how to "listen" for any event: [https://www.w3schools.com/jsref/met\_document\_addeventlistener.asp](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
+Look up how to "listen" for any event: [https://www.w3schools.com/jsref/met_document_addeventlistener.asp](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
 
 You will also see this syntax:
 
 ```javascript
-button.addEventListener('click', function(){
-    console.log('clicked');
+button.addEventListener('click', function () {
+  console.log('clicked');
 });
 ```
 
@@ -75,9 +76,9 @@ This syntax sets the function without making a separate variable out of it.
 
 ### Make Any Output
 
-Create an element: [https://www.w3schools.com/jsref/met\_document\_createelement.asp](https://www.w3schools.com/jsref/met_document_createelement.asp)
+Create an element: [https://www.w3schools.com/jsref/met_document_createelement.asp](https://www.w3schools.com/jsref/met_document_createelement.asp)
 
-Add it to the page with `appendChild`: [https://www.w3schools.com/jsref/met\_node\_appendchild.asp](https://www.w3schools.com/jsref/met_node_appendchild.asp)
+Add it to the page with `appendChild`: [https://www.w3schools.com/jsref/met_node_appendchild.asp](https://www.w3schools.com/jsref/met_node_appendchild.asp)
 
 ## Starter Code
 
@@ -97,23 +98,21 @@ Read through the comments to see what's actually happening.
 var input = document.querySelector('#starter-ex');
 var button = document.querySelector('#starter-button');
 
-
-// call this function 
+// call this function
 var myButtonClicked = function () {
-
   // get the current value that's been typed into the input
   var typedValue = input.value;
 
   // create a new h2
   var newHtwo = document.createElement('h2');
 
-  // set the text inside this new element  
+  // set the text inside this new element
   newHtwo.innerText = typedValue;
 
   // make the h2 appear on screen
-  document.body.appendChild( newHtwo );
+  document.body.appendChild(newHtwo);
 
-  // empty out the HTML input 
+  // empty out the HTML input
   input.value = '';
 };
 
@@ -128,4 +127,3 @@ button.addEventListener('click', myButtonClicked);
 
 **1\) Implement the above code.**
 {% endhint %}
-

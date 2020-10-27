@@ -2,5 +2,4 @@
 
 ## Project
 
-* Final Project
-
+- Final Project

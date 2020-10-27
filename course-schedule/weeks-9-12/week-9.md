@@ -2,7 +2,6 @@
 
 ## Topics
 
-* Front-end JS
-* Express file server
-* AJAX
-
+- Front-end JS
+- Express file server
+- AJAX

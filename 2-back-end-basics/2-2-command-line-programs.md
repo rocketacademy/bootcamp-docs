@@ -46,4 +46,3 @@ console.log(distanceInMiles);
 ```javascript
 node index.js 76
 ```
-

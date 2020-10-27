@@ -36,7 +36,7 @@ http.createServer((request, response) => {
     console.log('request ', request.url);
 
     var filePath = '.' + request.url;
-    
+
     fs.readFile(filePath, (error, content) => {
         if (error) {
             if(error.code == 'ENOENT') {
@@ -57,4 +57,3 @@ http.createServer((request, response) => {
 }).listen(PORT);
 console.log('Server running.');
 ```
-

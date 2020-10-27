@@ -33,16 +33,15 @@ Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
 
 ## Folder Organisation
 
-In SWE1 we will be cloning starter code many times for new projects. To keep things organised, we  recommend the following folder structure.
+In SWE1 we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
 
 {% hint style="warning" %}
 All files and folders are in kebab-case \(lowercase and hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them.
 {% endhint %}
 
-1. Host all SWE1 code in a folder called `swe1`. Keep this in your  `Documents` folder.
+1. Host all SWE1 code in a folder called `swe1`. Keep this in your `Documents` folder.
 2. Within the `swe1` folder, for each week \(there are 24 total\) in SWE1, create a new folder for that week. This means you will have 24 week-specific folders, such as `week1`, `week2`, ..., `week24`.
 3. Within each `weekX` folder, create 1 folder for each day of the week, i.e. `day1`, `day2`, ..., `day5`.
 4. Within each `dayX` folder, create `pre-class`, `in-class`, and `post-class` folders for the respective exercises.
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
 6. Store projects within a `projects` directory directly within the `swe1` folder for easy accessibility.
-

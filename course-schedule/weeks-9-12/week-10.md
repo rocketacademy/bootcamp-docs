@@ -2,7 +2,6 @@
 
 ## Topics
 
-* Model View Controller app refactor
-* SQL DB ORM - Sequelize
-* REST APIs
-
+- Model View Controller app refactor
+- SQL DB ORM - Sequelize
+- REST APIs

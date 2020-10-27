@@ -2,5 +2,4 @@
 
 ## Project
 
-* Full Stack Game App
-
+- Full Stack Game App

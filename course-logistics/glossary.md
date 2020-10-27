@@ -14,11 +14,8 @@ IDEs are programs in which software engineers write code. It's easier to code in
 
 ## Command Line
 
-The command line is a text-based interface that we can use to operate our computers through programs known as "terminals". 
+The command line is a text-based interface that we can use to operate our computers through programs known as "terminals".
 
 ## Terminal
 
 A terminal is an interface that we can use to operate our computers through a text-based "command line".
-
-
-
