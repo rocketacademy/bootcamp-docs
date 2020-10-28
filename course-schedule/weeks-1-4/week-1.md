@@ -36,7 +36,7 @@
 
 ### In-Class
 
-* Review 1.PCE.1: Noodle Recipe Website
+* [Review 1.PCE.1: Noodle Recipe Website](../../course-logistics/course-methodology.md#peer-led-code-review)
 * [1.ICE.1: Drawing DOM](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
 
 ### Post-Class
@@ -55,7 +55,7 @@
 
 ### In-Class
 
-* Review 1.PCE.2: High Card
+* [Review 1.PCE.2: High Card](../../course-logistics/course-methodology.md#peer-led-code-review)
 * [1.ICE.2: Timeout / High Card Redux](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
 
 ### Post-Class
@@ -71,7 +71,7 @@
 
 ### In-Class
 
-* Review 1.PCE.3: Match Game
+* [Review 1.PCE.3: Match Game](../../course-logistics/course-methodology.md#peer-led-code-review)
 * [1.ICE.3: setInterval](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.3-setinterval.md)
 
 ### Post-Class
@@ -88,7 +88,7 @@
 
 ### In-Class
 
-* Review 1.PCE.4: Timer
+* [Review 1.PCE.4: Timer](../../course-logistics/course-methodology.md#peer-led-code-review)
 
 ### Post-Class
 

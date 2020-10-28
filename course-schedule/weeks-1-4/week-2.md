@@ -16,7 +16,7 @@
 
 ### In-Class
 
-* Review 1.PCE.5: Tic Tac Toe
+* [Review 1.PCE.5: Tic Tac Toe](../../course-logistics/course-methodology.md#peer-led-code-review)
 
 ### Post-Class
 
