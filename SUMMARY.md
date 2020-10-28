@@ -35,7 +35,6 @@
 ## 🏞 Projects
 
 * [Project 1: Video Poker](projects/project-1-video-poker.md)
-* [Project Code Review](projects/project-code-review.md)
 
 ## 1️⃣ Front-End Basics
 

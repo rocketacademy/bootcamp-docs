@@ -23,7 +23,7 @@ Backend Dynamic Data App
 
 ### Post-Class
 
-* [Project Code Review](../../projects/project-code-review.md)
+* [Project Code Review]()
 
 ## **Day 2**
 

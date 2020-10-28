@@ -1,5 +1,17 @@
 # Course Methodology
 
+## Recommended Order of Work
+
+On any given day in SWE1, students will have Post-Class Exercises for the current day, Pre-Class Exercises  for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
+
+1. Base section of Post-Class Exercises / Project
+2. Pre-Class Exercises
+3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
+
+## Exercise / Project Strategy
+
+Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+
 ## Base, Comfortable, More Comfortable
 
 To accommodate different learning speeds and prior experience, exercises and projects in SWE1 may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
@@ -16,19 +28,7 @@ The Comfortable section is for students that are able to complete Base and wish 
 
 The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete SWE1 successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
 
-## Recommended Order of Work
-
-On any given day in SWE1, students will have Post-Class Exercises for the current day, Pre-Class Exercises  for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
-
-1. Base section of Post-Class Exercises / Project
-2. Pre-Class Exercises
-3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
-
-## Exercise / Project Strategy
-
-Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
-
-## In-Class Code Review
+## Peer-Led Code Review
 
 On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
 
@@ -74,4 +74,23 @@ Once done with one person's code, send the code to your pair \(it's their projec
 _Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default._
 
 If you both have working versions, implement a new feature in one of the projects together.
+
+## Instructor-Led Code Review
+
+After each project an instructor will review your code with you 1-1. Please prepare answers to the following questions before the 1-1.
+
+### Code
+
+1. What part of the project went well, technically? Give at least one link to your repo as an example.
+2. What part the project was a struggle, technically? Give at least one link to your repo as an example.
+
+### Process
+
+1. What in the approach and process during this project went well?
+2. What in the approach and process during this project did not go well?
+
+### Looking Ahead
+
+1. What technical adjustments would you make for the next project? Why?
+2. What would you change in your process and approach in the next project? Why?
 
