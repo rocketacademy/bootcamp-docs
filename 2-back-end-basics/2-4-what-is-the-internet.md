@@ -1,4 +1,4 @@
-# 2.8: What is the Internet: HTTP
+# 2.9: What is the Internet: HTTP
 
 When you interact with the internet:
 
@@ -11,6 +11,24 @@ When you interact with the internet:
 ## HTTP
 
 A way to send things over TCP/IP.
+
+## HTTP Request Headers
+
+Headers are meta information about a given request. 
+
+### HTTP Method
+
+The method indicates what kind of action the user is requesting the server do.
+
+GET is the default method when you type into the browser bar. THis method specification is sent in the header of the request.
+
+## HTTP Response Headers
+
+### Status Code
+
+The status code is the number that indicates what the server application says about the response.
+
+200 is the status code num,ber that means everything was OK.
 
 ## Server That Responds With 'yay'
 
@@ -50,4 +68,30 @@ https.get('https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY', (resp) => {
   console.log("Error: " + err.message);
 });
 ```
+
+## ngrok
+
+For the purposes of this module section we will want to be able to listen for requests that come from the actual internet.
+
+ngrok is a service that sets a given internet address and forwards all request from that address to your computer, bypassing the LAN that your computer is connected to.
+
+## Make Requests
+
+Send some things back and forth.
+
+Install [ngrok](https://ngrok.com/).
+
+Start it:
+
+```text
+./ngrok http 3004
+```
+
+Open a new terminal and start a server:
+
+```text
+node index.js
+```
+
+Make a request to the ngrok address.
 

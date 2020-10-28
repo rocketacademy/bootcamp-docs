@@ -8,6 +8,11 @@
 
 ### Pre-Class
 
+
+
+* 2.11: Git Branches
+* 2.12: npm
+
 ### In-Class
 
 ### Post-Class
@@ -17,6 +22,8 @@
 ### Pre-Class
 
 ### In-Class
+
+* 2.13 AWS
 
 ### Post-Class
 

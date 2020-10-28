@@ -34,9 +34,11 @@ Backend Dynamic Data App
 
 ### **In-Class**
 
+* 2.ICE.1: Conversions
+
 ### Post-Class
 
-* 2.PCE.1: Command Line
+* 2.PCE.1: CSS Command Line
 
 ## Day 3
 
@@ -47,11 +49,11 @@ Backend Dynamic Data App
 
 ### In-Class
 
+* 2.ICE.2: Modules, Disk Reading
+
 ### Post-Class
 
-
-
-* [2.PCE.1: CSS Reading](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
+* [2.PCE.1: CSS Color Reading](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
 
 ## Day 4
 
@@ -59,27 +61,31 @@ Backend Dynamic Data App
 
 * 2.5 Disk Writing
 * 2.6 Disk Altering
-* 2.5 What is the Internet
+* 2.7 What is the Internet
+* 2.8 Chrome Networking
 
 ### In-Class
 
+* 2.ICE.3: Disk Altering, Internet
+
 ### Post-Class
 
-* 2.PCE: CSS Processor
+* 2.PCE.3: CSS Processor
 
 ## Day 5
 
 ### Pre-Class
 
-* 2.6 What is the Internet HTTP
-* 2.7 File Server
-* AWS
+* 2.9 What is the Internet HTTP
+* 2.10 File Server
 
-### In-Class
+### **In-Class**
+
+* 2.ICE.4: Internet 2
 
 ### Post-Class
 
-* 2.PCE: Deployed File Server
+* 2.PCE.4: Deployed File Server
 
 ## 
 
