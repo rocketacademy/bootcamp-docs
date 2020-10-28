@@ -36,21 +36,9 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 | 5 | Full stack web application with React \(group project\) |
 | 6 | Final Project |
 
-## Daily Schedule
+## Daily Meeting Agenda
 
-### Morning Meeting:
-
-Review pre-class material.
-
-Review post-class work.
-
-Introduce post-class work. 
-
-### Suggested work order:
-
-Post-class base version.
-
-Pre-class exercises.
-
-Rest of post-class exercises.
+1. Review today's pre-class material
+2. Review yesterday's post-class work
+3. Introduce today's post-class work
 
