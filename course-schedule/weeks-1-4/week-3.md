@@ -23,7 +23,7 @@ Backend Dynamic Data App
 
 ### Post-Class
 
-* [Project Code Review]()
+* [Instructor-Led Code Review](../../course-logistics/course-methodology.md#instructor-led-code-review)
 
 ## **Day 2**
 
