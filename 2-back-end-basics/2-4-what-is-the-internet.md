@@ -103,7 +103,3 @@ ngrok is a service that sets a given internet address and forwards all requests 
 brew cask install ngrok
 ```
 
-## sdfsd
-
-
-
