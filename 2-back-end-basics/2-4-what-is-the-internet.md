@@ -48,10 +48,22 @@ createServer(whenIncomingRequest).listen(PORT);
 
 ## Send Requests Out
 
-```javascript
-const https = require('https');
+### Send Requests with Chrome
 
-https.get('https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY', (resp) => {
+Type in google.com to the address bar.
+
+### Send Requests with the Command Line
+
+```text
+curl google.com
+```
+
+### Send Requests with Node.js
+
+```javascript
+import { get } from 'http';
+
+get('https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY', (resp) => {
   let data = '';
 
   // A chunk of data has been recieved.
@@ -73,25 +85,5 @@ https.get('https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY', (resp) => {
 
 For the purposes of this module section we will want to be able to listen for requests that come from the actual internet.
 
-ngrok is a service that sets a given internet address and forwards all request from that address to your computer, bypassing the LAN that your computer is connected to.
-
-## Make Requests
-
-Send some things back and forth.
-
-Install [ngrok](https://ngrok.com/).
-
-Start it:
-
-```text
-./ngrok http 3004
-```
-
-Open a new terminal and start a server:
-
-```text
-node index.js
-```
-
-Make a request to the ngrok address.
+ngrok is a service that sets a given internet address and forwards all requests from that address to your computer, bypassing the local network your computer is connected to.
 
