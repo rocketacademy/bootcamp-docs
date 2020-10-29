@@ -29,8 +29,8 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [2.1 My First Node.js Program](../../2-back-end-basics/2-1-my-first-node-program.md)
-* [2.2 Command Line Programs](../../2-back-end-basics/2-2-command-line-programs.md)
+* [2.1: My First Node.js Program](../../2-back-end-basics/2-1-my-first-node-program.md)
+* [2.2: Command Line Programs](../../2-back-end-basics/2-2-command-line-programs.md)
 
 ### **In-Class**
 
@@ -44,8 +44,8 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [2.3 Modules](../../2-back-end-basics/2.3-modules.md)
-* [2.4 Disk Reading](../../2-back-end-basics/2-3-disk-storage.md)
+* [2.3: Modules](../../2-back-end-basics/2.3-modules.md)
+* [2.4: Disk Reading](../../2-back-end-basics/2-3-disk-storage.md)
 
 ### In-Class
 
@@ -59,10 +59,10 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [2.5 Disk Writing](../../2-back-end-basics/2.4-disk-writing.md)
-* [2.6 Disk Altering](../../2-back-end-basics/2.6-altering-disk-files.md)
-* [2.7 What is the Internet](../../2-back-end-basics/2.6-what-is-the-internet-2.md)
-* [2.8 Chrome Networking](../../2-back-end-basics/2.8-chrome-networking.md)
+* [2.5: Disk Writing](../../2-back-end-basics/2.4-disk-writing.md)
+* [2.6: Disk Altering](../../2-back-end-basics/2.6-altering-disk-files.md)
+* [2.7: What is the Internet](../../2-back-end-basics/2.6-what-is-the-internet-2.md)
+* [2.8: Chrome Networking](../../2-back-end-basics/2.8-chrome-networking.md)
 
 ### In-Class
 
@@ -76,8 +76,8 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [2.9 What is the Internet HTTP](../../2-back-end-basics/2-4-what-is-the-internet.md)
-* [2.10 File Server](../../2-back-end-basics/2.9-file-server.md)
+* [2.9: What is the Internet HTTP](../../2-back-end-basics/2-4-what-is-the-internet.md)
+* [2.10: File Server](../../2-back-end-basics/2.9-file-server.md)
 
 ### **In-Class**
 
@@ -86,6 +86,4 @@ Backend Dynamic Data App
 ### Post-Class
 
 * [2.PCE.4: File Server](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.4-file-server.md)
-
-## 
 
