@@ -8,10 +8,8 @@
 
 ### Pre-Class
 
-
-
-* 2.11: Git Branches
-* 2.12: npm
+* [2.11: Git Branches](../../2-back-end-basics/2.9-git-branches.md)
+* [2.12: npm](../../2-back-end-basics/2.7-npm.md)
 
 ### In-Class
 
@@ -23,7 +21,7 @@
 
 ### In-Class
 
-* 2.13 AWS
+* [2.13 AWS](../../2-back-end-basics/2.8-deployment-aws.md)
 
 ### Post-Class
 
