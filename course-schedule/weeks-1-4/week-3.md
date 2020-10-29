@@ -34,22 +34,22 @@ Backend Dynamic Data App
 
 ### **In-Class**
 
-* 2.ICE.1: Conversions
+* [2.ICE.1: Conversions](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
 
 ### Post-Class
 
-* 2.PCE.1: CSS Command Line
+* [2.PCE.1: CSS Command Line](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
 
 ## Day 3
 
 ### Pre-Class
 
-* 2.3 Modules
-* 2.4 Disk Reading
+* [2.3 Modules](../../2-back-end-basics/2.3-modules.md)
+* [2.4 Disk Reading](../../2-back-end-basics/2-3-disk-storage.md)
 
 ### In-Class
 
-* 2.ICE.2: Modules, Disk Reading
+* [2.ICE.2: Modules, Disk Reading](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules.md)
 
 ### Post-Class
 
@@ -59,33 +59,33 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* 2.5 Disk Writing
-* 2.6 Disk Altering
-* 2.7 What is the Internet
-* 2.8 Chrome Networking
+* [2.5 Disk Writing](../../2-back-end-basics/2.4-disk-writing.md)
+* [2.6 Disk Altering](../../2-back-end-basics/2.6-altering-disk-files.md)
+* [2.7 What is the Internet](../../2-back-end-basics/2.6-what-is-the-internet-2.md)
+* [2.8 Chrome Networking](../../2-back-end-basics/2.8-chrome-networking.md)
 
 ### In-Class
 
-* 2.ICE.3: Disk Altering, Internet
+* [2.ICE.3: Internet, Disk](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.3-internet.md)
 
 ### Post-Class
 
-* 2.PCE.3: CSS Processor
+* [2.PCE.3: CSS Processor](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.3-css-processor.md)
 
 ## Day 5
 
 ### Pre-Class
 
-* 2.9 What is the Internet HTTP
-* 2.10 File Server
+* [2.9 What is the Internet HTTP](../../2-back-end-basics/2-4-what-is-the-internet.md)
+* [2.10 File Server](../../2-back-end-basics/2.9-file-server.md)
 
 ### **In-Class**
 
-* 2.ICE.4: Internet 2
+* [2.ICE.4: Internet 2](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet-2.md)
 
 ### Post-Class
 
-* 2.PCE.4: Deployed File Server
+* [2.PCE.4: File Server](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.4-file-server.md)
 
 ## 
 
