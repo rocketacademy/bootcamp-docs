@@ -73,7 +73,6 @@
 
 ### In-Class
 
-### **Post-Class**
-
+* [Deploy to Github Pages](https://swe101.rocketacademy.co/12-next-steps/12.3-deployment)
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
 
