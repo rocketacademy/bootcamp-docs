@@ -12,6 +12,14 @@ When you interact with the internet:
 
 A way to send things over TCP/IP.
 
+## 127.0.0.1
+
+There is a special IP address that doesn't access the network outside of the computer. It simply sends the request back around to the computer as if a request had come in from outside.
+
+## localhost
+
+localhost is the hostname that is resolved directly on your computer to 127.0.0.1
+
 ## HTTP Request Headers
 
 Headers are meta information about a given request. 
@@ -28,7 +36,7 @@ GET is the default method when you type into the browser bar. THis method specif
 
 The status code is the number that indicates what the server application says about the response.
 
-200 is the status code num,ber that means everything was OK.
+200 is the status code number that means everything was OK.
 
 ## Server That Responds With 'yay'
 
@@ -86,4 +94,16 @@ get('https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY', (resp) => {
 For the purposes of this module section we will want to be able to listen for requests that come from the actual internet.
 
 ngrok is a service that sets a given internet address and forwards all requests from that address to your computer, bypassing the local network your computer is connected to.
+
+## Exercise
+
+### Install ngrok
+
+```javascript
+brew cask install ngrok
+```
+
+## sdfsd
+
+
 
