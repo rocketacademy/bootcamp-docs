@@ -4,6 +4,8 @@ Naming, casing, and commenting are critical to software engineering because they
 
 ## Naming
 
+### JavaScript
+
 ### Functions
 
 Function names should start with a verb. This is to distinguish functions from data that might take a similar name. For example, the function `getRandomNum` may return a random number that gets stored in a variable `randomNum`.
@@ -15,6 +17,20 @@ Boolean variable names should start with a question word. This is to clearly com
 ### Other Variables
 
 In general, variable names should be as specific as possible to prevent miscommunication. For example, for a game with 2 JS Objects, 1 an HTML element representing a playing card and 1 a JS Object containing playing card's name, suit, and rank, we might name the former `cardElement` and the latter `cardMetadata`. Avoid naming either variable `card` to prevent miscommunication.
+
+### HTML
+
+### Tags
+
+Lowercase.
+
+### Attributes
+
+Lowercase kebab case. `<div data-save="banana">hello</div>`
+
+### CSS
+
+IDs and classes in kebab-case. Prefix classes with the  type. `.card-image` and `.card-text`.
 
 ## Casing
 
