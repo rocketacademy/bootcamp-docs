@@ -73,8 +73,6 @@
 
 ### In-Class
 
-* Review CSS Page Exercise
-
 ### **Post-Class**
 
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
