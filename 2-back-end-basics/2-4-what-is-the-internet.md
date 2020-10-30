@@ -1,4 +1,4 @@
-# 2.9: What is the Internet: HTTP
+# 2.9: HTTP
 
 When you interact with the internet:
 
