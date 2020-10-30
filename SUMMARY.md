@@ -90,6 +90,7 @@
 * [2.11: Git Branches](2-back-end-basics/2.9-git-branches.md)
 * [2.12: npm](2-back-end-basics/2.7-npm.md)
 * [2.13: Deployment: AWS](2-back-end-basics/2.8-deployment-aws.md)
+* [2.14 Domain Names](2-back-end-basics/2.14-domain-names.md)
 * [2.ICE: In-Class Exercises](2-back-end-basics/2.ice-in-class-exercises/README.md)
   * [2.ICE.1: Conversions](2-back-end-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
   * [2.ICE.2: Modules, Disk Reading](2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules.md)
