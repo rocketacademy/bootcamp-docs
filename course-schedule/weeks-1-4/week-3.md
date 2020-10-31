@@ -45,11 +45,11 @@ Backend Dynamic Data App
 ### Pre-Class
 
 * [2.3: Modules](../../2-back-end-basics/2.3-modules.md)
-* [2.4: Disk Reading](../../2-back-end-basics/2-3-disk-storage.md)
+* [2.4: Disk Reading](../../2-back-end-basics/2-4-disk-reading.md)
 
 ### In-Class
 
-* [2.ICE.2: Modules, Disk Reading](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules.md)
+* [2.ICE.2: Modules, Disk Reading](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading.md)
 
 ### Post-Class
 
@@ -59,14 +59,14 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [2.5: Disk Writing](../../2-back-end-basics/2.4-disk-writing.md)
+* [2.5: Disk Writing](../../2-back-end-basics/2.5-disk-writing.md)
 * [2.6: Disk Altering](../../2-back-end-basics/2.6-altering-disk-files.md)
-* [2.7: What is the Internet](../../2-back-end-basics/2.6-what-is-the-internet-2.md)
+* [2.7: What is the Internet](../../2-back-end-basics/2.7-what-is-the-internet.md)
 * [2.8: Chrome Networking](../../2-back-end-basics/2.8-chrome-networking.md)
 
 ### In-Class
 
-* [2.ICE.3: Internet, Disk](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.3-internet.md)
+* [2.ICE.3: Internet, Disk](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.3-disk.md)
 
 ### Post-Class
 
@@ -76,12 +76,12 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [2.9: HTTP](../../2-back-end-basics/2-4-what-is-the-internet.md)
-* [2.10: HTTP File Server](../../2-back-end-basics/2.9-file-server.md)
+* [2.9: HTTP](../../2-back-end-basics/2-9-http.md)
+* [2.10: HTTP File Server](../../2-back-end-basics/2.10-http-file-server.md)
 
 ### **In-Class**
 
-* [2.ICE.4: Internet 2](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet-2.md)
+* [2.ICE.4: Internet 2](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
 * [Peer-Led Code Review: 2.PCE.3: CSS Processor](../../course-logistics/course-methodology.md#peer-led-code-review)
 
 ### Post-Class
