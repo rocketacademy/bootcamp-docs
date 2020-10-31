@@ -37,7 +37,7 @@
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
 * [1.1 HTML & CSS Project: Technical Documentation](https://github.com/rocketacademy/swe1-docs/tree/0bde3c82b4a5ef6ccc9fc2945959119809eb69c0/1-front-end-basics/1.1-html-and-css#html-css-exercise-technical-documentation-page)
 * Sign Up for Amazon Web Services
-* [Setup for Module 2](../../2-back-end-basics/2-0-module-2-overview.md)
+* [Setup for Module 2](../../2-back-end-basics/2.0-module-2-overview.md)
 
 ## Day 3
 

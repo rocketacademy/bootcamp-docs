@@ -76,11 +76,11 @@
 
 ## 2️⃣ Back-End Basics
 
-* [2.0: Module 2 Overview](2-back-end-basics/2-0-module-2-overview.md)
-* [2.1: My First Node.js Program](2-back-end-basics/2-1-my-first-node-program.md)
-* [2.2: Command Line Programs](2-back-end-basics/2-2-command-line-programs.md)
+* [2.0: Module 2 Overview](2-back-end-basics/2.0-module-2-overview.md)
+* [2.1: My First Node.js Program](2-back-end-basics/2.1-my-first-node-program.md)
+* [2.2: Command Line Programs](2-back-end-basics/2.2-command-line-programs.md)
 * [2.3: Modules](2-back-end-basics/2.3-modules.md)
-* [2.4: Disk Reading](2-back-end-basics/2-4-disk-reading.md)
+* [2.4: Disk Reading](2-back-end-basics/2.4-disk-reading.md)
 * [2.5: Disk Writing](2-back-end-basics/2.5-disk-writing.md)
 * [2.6: Altering Disk Files](2-back-end-basics/2.6-altering-disk-files.md)
 * [2.7: What is the Internet](2-back-end-basics/2.7-what-is-the-internet.md)
