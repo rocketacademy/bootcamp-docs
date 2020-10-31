@@ -61,7 +61,13 @@ This is your chance to create a project that has polish and that you can show of
 
 ## More Comfortable
 
-### Game Logic
+Note: The goal of this project is to practise frontend, thus please make sure your app is at a good level of polish before attempting the following More Comfortable features.
+
+### Probabilities
+
+Show the user the probability of getting each winning hand if they choose to switch the cards that are currently selected.
+
+### 7 Card Stud
 
 Implement 7 card stud rules for poker instead of 5 card draw.
 
