@@ -76,7 +76,7 @@ Backend Dynamic Data App
 
 ### Pre-Class
 
-* [2.9: HTTP](../../2-back-end-basics/2-9-http.md)
+* [2.9: HTTP](../../2-back-end-basics/2.9-http.md)
 * [2.10: HTTP File Server](../../2-back-end-basics/2.10-http-file-server.md)
 
 ### **In-Class**

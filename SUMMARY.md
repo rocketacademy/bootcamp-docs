@@ -85,7 +85,7 @@
 * [2.6: Altering Disk Files](2-back-end-basics/2.6-altering-disk-files.md)
 * [2.7: What is the Internet](2-back-end-basics/2.7-what-is-the-internet.md)
 * [2.8: Chrome Networking](2-back-end-basics/2.8-chrome-networking.md)
-* [2.9: HTTP](2-back-end-basics/2-9-http.md)
+* [2.9: HTTP](2-back-end-basics/2.9-http.md)
 * [2.10: HTTP File Server](2-back-end-basics/2.10-http-file-server.md)
 * [2.11: Git Branches](2-back-end-basics/2.11-git-branches.md)
 * [2.12: npm](2-back-end-basics/2.12-npm.md)
