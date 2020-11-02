@@ -49,15 +49,13 @@ DOM is also referred to as an API - an Application Programming Interface - the i
 
 In this case interface refers to the fact that JavaScript does not literally know about everything that happens in the browser screen, \(e.g., when you bring up the Mac or Windows right click menus\), just the subset of things that Chrome allows us to interface with.
 
-{% hint style="info" %}
-#### Exercises
+### Exercises
 
 Open the console and type in the variable names window and document to see the values in the console.
 
 Click the triangles to see inside them.
 
 What is there?
-{% endhint %}
 
 ### Get Any Input
 
@@ -121,9 +119,7 @@ button.addEventListener('click', myButtonClicked);
 
 ## Exercises
 
-{% hint style="info" %}
-**Start with this repo:** [**https://github.com/rocketacademy/swe101-next-steps-dom**](https://github.com/rocketacademy/swe101-next-steps-dom)
+Start with this repo: [https://github.com/rocketacademy/swe101-next-steps-dom](https://github.com/rocketacademy/swe101-next-steps-dom)
 
-**1\) Implement the above code.**
-{% endhint %}
+Implement the above code.
 
