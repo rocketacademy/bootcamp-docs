@@ -2,7 +2,9 @@
 
 ## Topics
 
-## Project
+* AWS
+* Express.js
+* EJS
 
 ## Day 1
 
@@ -21,7 +23,8 @@
 
 ### In-Class
 
-* [2.13 AWS](../../2-back-end-basics/2.13-deployment-aws.md)
+* [2.13: AWS](../../2-back-end-basics/2.13-deployment-aws.md)
+* 2.14: domain names
 
 ### Post-Class
 
@@ -31,11 +34,16 @@
 
 ### In-Class
 
+* ES6 Iterators
+* Disk Module
+
 ### Post-Class
 
 ## Day 4
 
 ### Pre-Class
+
+* Express.js - HTTP GET
 
 ### In-Class
 
@@ -45,7 +53,11 @@
 
 ### Pre-Class
 
+* Express.js - EJS
+
 ### In-Class
 
 ### Post-Class
+
+* Noodle App - GET only
 

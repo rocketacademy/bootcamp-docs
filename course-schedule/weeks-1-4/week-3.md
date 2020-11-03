@@ -7,10 +7,6 @@
 * What is the Internet
 * Servers
 
-## Project
-
-Backend Dynamic Data App
-
 ## Day 1
 
 ### Pre-Class
