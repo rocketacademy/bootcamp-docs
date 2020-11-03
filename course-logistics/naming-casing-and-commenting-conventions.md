@@ -1,10 +1,8 @@
 # Naming, Casing, and Commenting Conventions
 
-Naming, casing, and commenting are critical to software engineering because they help us communicate what our code does, preventing miscommunication and bugs. The following are a set of naming, casing, and commenting conventions to follow during SWE1 \(and hopefully beyond\).
+Naming, casing, and commenting are critical to software engineering because they help us communicate what our code does, preventing miscommunication and bugs. The following are a set of naming, casing, and commenting conventions to follow during SWE1 \(primarily for JavaScript\) \(and hopefully beyond\).
 
 ## Naming
-
-### JavaScript
 
 ### Functions
 
@@ -18,19 +16,9 @@ Boolean variable names should start with a question word. This is to clearly com
 
 In general, variable names should be as specific as possible to prevent miscommunication. For example, for a game with 2 JS Objects, 1 an HTML element representing a playing card and 1 a JS Object containing playing card's name, suit, and rank, we might name the former `cardElement` and the latter `cardMetadata`. Avoid naming either variable `card` to prevent miscommunication.
 
-### HTML
+### Event Handlers
 
-### Tags
-
-Lowercase.
-
-### Attributes
-
-Lowercase kebab case. `<div data-save="banana">hello</div>`
-
-### CSS
-
-IDs and classes in kebab-case. Prefix classes with the  type. `.card-image` and `.card-text`.
+Callback functions that handle events are typically prefixed with `handle` and suffixed with the event type. For example, for the on-click callback function for a deal cards button, we might call it `handleDealButtonClick`.
 
 ## Casing
 
@@ -47,6 +35,18 @@ Constants are typically cased with [SCREAMING\_SNAKE\_CASE](https://en.wikipedia
 ### File Names
 
 File and folder names typically use [kebab-case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) or [snake\_case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) for easy typing and autocomplete in the terminal.
+
+### HTML Tags
+
+Lowercase.
+
+### HTML Attributes
+
+Lowercase kebab case. `<div data-save="banana">hello</div>`
+
+### CSS
+
+IDs and classes in kebab-case. Prefix classes with the  type. `.card-image` and `.card-text`.
 
 ## Commenting
 
