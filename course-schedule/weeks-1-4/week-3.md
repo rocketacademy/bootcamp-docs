@@ -62,7 +62,7 @@
 
 ### In-Class
 
-* [2.ICE.3: Internet, Disk](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.3-disk.md)
+* [2.ICE.3: Disk](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.3-disk.md)
 
 ### Post-Class
 
