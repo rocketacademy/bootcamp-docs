@@ -94,7 +94,7 @@
 * [2.ICE: In-Class Exercises](2-back-end-basics/2.ice-in-class-exercises/README.md)
   * [2.ICE.1: Conversions](2-back-end-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
   * [2.ICE.2: Modules, Disk Reading](2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading.md)
-  * [2.ICE.3: Disk](2-back-end-basics/2.ice-in-class-exercises/2.ice.3-disk.md)
+  * [2.ICE.3: Disk Altering](2-back-end-basics/2.ice-in-class-exercises/2.ice.3-disk-altering.md)
   * [2.ICE.4: Internet](2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
   * [2.ICE.5: File Server](2-back-end-basics/2.ice-in-class-exercises/2.ice.5-file-server.md)
 * [2.PCE: Post Class Exercises](2-back-end-basics/2.pce-post-class-exercises/README.md)
