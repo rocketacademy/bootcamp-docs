@@ -3,33 +3,74 @@
 ## Topics
 
 * Express.js
-* HTTP Request Methods
 
 ## Day 1
 
-ES Import / Modules
+### Pre-Class
 
-NPM
+* 3.4.1: Forms
+* 3.4.2: Post
 
-## Day **2**
+### In-Class
 
-Express.js - An HTTP web application library
+* Post Forms
 
-HTTP GET
+### Post-Class
+
+* Noodle App
+
+## Day 2
+
+### Pre-Class
+
+* 3.5: PUT
+
+### In-Class
+
+* Review
+
+### Post-Class
+
+* Noodle App
 
 ## Day 3
 
-HTML Forms
+### Pre-Class
 
-HTTP POST
+* 2.16: ES6 Array Iterators
 
-HTTP Requests that write to disk
+### In-Class
+
+* Review TODO
+
+### **Post-Class**
+
+* **-**
 
 ## Day 4
 
-HTTP Put
+### Pre-Class
+
+* 3.1: Intro to Express.js
+
+### In-Class
+
+* Express
+
+### Post-Class
 
 ## Day 5
 
-HTTP Delete
+### Pre-Class
+
+* 3.2: ES6 Spread / Destructure
+* 3.3: Intro to EJS
+
+### In-Class
+
+* EJS
+
+### Post-Class
+
+* Noodle App - GET only
 
