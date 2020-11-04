@@ -28,6 +28,12 @@ Please read through all sections of exercises and projects before starting. Late
 
 Whenever possible, separate UI logic from business logic. This is to separate concerns and make it easier to debug both UI and business logic by only having to worry about 1 at a time. For example, code to manipulate the DOM can be separated from code that determines rules of a game.
 
+#### Use a project management tool
+
+Project management tools can be helpful to manage longer-term projects involving multiple people. Even for individual projects they can be useful tools to organise one's thoughts and prioritise development.
+
+[Trello](https://trello.com/) is a popular, simple project management tool that we recommend for SWE1, and [here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work)'s a breakdown of how to get started with it.
+
 ### Recommended Order of Work
 
 On any given day in SWE1, students will have Post-Class Exercises for the current day, Pre-Class Exercises  for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
