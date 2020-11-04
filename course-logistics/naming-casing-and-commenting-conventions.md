@@ -38,15 +38,15 @@ JavaScript file names typically use [lowerCamelCase](https://en.wikipedia.org/wi
 
 ### HTML Tags
 
-Lowercase.
+Lowercase. E.g. `<div>`
 
 ### HTML Attributes
 
-Lowercase kebab case. `<div data-save="banana">hello</div>`
+Lowercase kebab case. E.g. `<div my-attr="banana">hello</div>`
 
 ### CSS
 
-IDs and classes in kebab-case. Prefix classes with the  type. `.card-image` and `.card-text`.
+IDs and classes in kebab-case. Prefix classes with identifiers for common grouping, if any, e.g. "card" for card-related CSS classes. `.card-image` and `.card-text`.
 
 ## Commenting
 
