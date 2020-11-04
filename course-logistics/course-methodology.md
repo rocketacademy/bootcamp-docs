@@ -18,7 +18,9 @@ The Comfortable section is for students that are able to complete Base and wish 
 
 The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete SWE1 successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
 
-### Exercise / Project Strategy
+### Exercise / Project Strategies
+
+#### Read Full Project Page Before Starting
 
 Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
 
