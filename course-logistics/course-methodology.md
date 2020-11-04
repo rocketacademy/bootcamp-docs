@@ -1,6 +1,28 @@
 # Course Methodology
 
-## Recommended Order of Work
+## Exercises and Projects
+
+### Base, Comfortable, and More Comfortable
+
+To accommodate different learning speeds and prior experience, exercises and projects in SWE1 may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
+
+#### Base
+
+Everything in the Base section must be completed to minimally understand relevant concepts. When short on time, we can complete the Base section then move onto the next exercise or project.
+
+#### Comfortable
+
+The Comfortable section is for students that are able to complete Base and wish to practise more of the relevant concepts. This will help students solidify their understanding of the concepts and be better prepared for more complex exercises and projects.
+
+#### More Comfortable
+
+The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete SWE1 successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
+
+### Exercise / Project Strategy
+
+Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+
+### Recommended Order of Work
 
 On any given day in SWE1, students will have Post-Class Exercises for the current day, Pre-Class Exercises  for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
 
@@ -8,31 +30,20 @@ On any given day in SWE1, students will have Post-Class Exercises for the curren
 2. Pre-Class Exercises
 3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
 
-## Exercise / Project Strategy
+### Project Presentations
 
-Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+After each project we will spend time in class for presentations. Each student will have a chance to present, and presentations should cover the following:
 
-## Base, Comfortable, More Comfortable
+1. Demonstration of how the application works
+2. Discussion of the strategy the student took when developing this application
+3. Discussion of some of the biggest challenges the student faced when working on the project
+4. Discussion of what the student would like to do next if he/she had more time on the project
 
-To accommodate different learning speeds and prior experience, exercises and projects in SWE1 may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
-
-### Base
-
-Everything in the Base section must be completed to minimally understand relevant concepts. When short on time, we can complete the Base section then move onto the next exercise or project.
-
-### Comfortable
-
-The Comfortable section is for students that are able to complete Base and wish to practise more of the relevant concepts. This will help students solidify their understanding of the concepts and be better prepared for more complex exercises and projects.
-
-### More Comfortable
-
-The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete SWE1 successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
-
-## Peer-Led Code Review
+## Peer Code Review
 
 On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
 
-### Code Review - Individual
+### Step 1: Individual
 
 #### 1\) Clone Partner's Code
 
@@ -65,7 +76,7 @@ It may be helpful to make changes to the code to help you understand it better. 
 
 Once both partners are done with \#1-4, discuss what you saw.
 
-### Code Review - In Pairs
+### Step 2: In Pairs
 
 You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.** 
 
@@ -75,7 +86,7 @@ _Note: If you are working on your partner's code you can't push to their repo be
 
 If you both have working versions, implement a new feature in one of the projects together.
 
-## Instructor-Led Code Review
+## Instructor Code Review
 
 After each project an instructor will review your code with you 1-1. Please prepare answers to the following questions before the 1-1.
 
