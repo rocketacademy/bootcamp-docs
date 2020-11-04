@@ -20,9 +20,13 @@ The More Comfortable section is for students that wish to push their boundaries 
 
 ### Exercise / Project Strategies
 
-#### Read Full Project Page Before Starting
+#### Read full project page before starting
 
 Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+
+#### Separate UI logic from business logic
+
+Whenever possible, separate UI logic from business logic. This is to separate concerns and make it easier to debug both UI and business logic by only having to worry about 1 at a time. For example, code to manipulate the DOM can be separated from code that determines rules of a game.
 
 ### Recommended Order of Work
 
