@@ -12,7 +12,7 @@
 ### Pre-Class
 
 * [2.11: AWS](../../2-back-end-basics/2.13-deployment-aws.md)
-* 2.12: domain names
+* 2.12: Domain Names
 * 2.13.1: JSON
 * 2.13.2: JSON Module
 
