@@ -54,8 +54,7 @@
 
 ### **Post-Class**
 
-* **-**
-
+* 
 ## Day 4
 
 ### Pre-Class
@@ -68,6 +67,7 @@
 
 ### Post-Class
 
+* 
 ## Day 5
 
 ### Pre-Class
