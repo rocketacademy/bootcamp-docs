@@ -67,7 +67,8 @@
 
 ### Post-Class
 
-* 
+* Noodle App - GET only
+
 ## Day 5
 
 ### Pre-Class
@@ -81,5 +82,5 @@
 
 ### Post-Class
 
-* Noodle App - GET only
+* Noodle App
 
