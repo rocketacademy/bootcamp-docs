@@ -30,7 +30,7 @@
 
 ### Pre-Class
 
-* 2.13.4: JSON Module
+* 2.13.3: JSON Module - Callbacks
 * [2.14: npm](../../2-back-end-basics/2.14-npm.md)
 
 ### In-Class
