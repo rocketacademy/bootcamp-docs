@@ -12,13 +12,17 @@ Function names should start with a verb. This is to distinguish functions from d
 
 Boolean variable names should start with a question word. This is to clearly communicate that this variable stores a boolean. For example, `isGameOver` and `hasPlayerWon` would be preferred boolean variable names than `gameOver` and `playerWon` because the former more explicitly store booleans.
 
-### Other Variables
-
-In general, variable names should be as specific as possible to prevent miscommunication. For example, for a game with 2 JS Objects, 1 an HTML element representing a playing card and 1 a JS Object containing playing card's name, suit, and rank, we might name the former `cardElement` and the latter `cardMetadata`. Avoid naming either variable `card` to prevent miscommunication.
-
 ### Event Handlers
 
 Callback functions that handle events are typically prefixed with `handle` and suffixed with the event type. For example, for the on-click callback function for a deal cards button, we might call it `handleDealButtonClick`.
+
+### In General
+
+In general, variable names should be as specific as possible to prevent miscommunication. For example, for a game with 2 JS Objects, 1 an HTML element representing a playing card and 1 a JS Object containing playing card's name, suit, and rank, we might name the former `cardElement` and the latter `cardMetadata`. Avoid naming either variable `card` to prevent miscommunication.
+
+Avoid using shorthand in variable names that might be common in [SMS language](https://en.wikipedia.org/wiki/SMS_language), because such naming may not be universal and can cause confusion and bugs. Strive for precision and concision, prioritising the former whenever necessary.
+
+For example, in Singapore it may be common to use the letter "n" as an abbreviation for "and" and the letter "w" as an abbreviation for "with". Avoid these in variable names because they may not be universal.
 
 ## Casing
 
@@ -34,19 +38,19 @@ Constants are typically cased with [SCREAMING\_SNAKE\_CASE](https://en.wikipedia
 
 ### File Names
 
-File and folder names typically use [kebab-case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) or [snake\_case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) for easy typing and autocomplete in the terminal.
+JavaScript file names typically use [lowerCamelCase](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats). Other file and folder names typically use [kebab-case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) or [snake\_case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) for easy typing and autocomplete in the terminal. 
 
 ### HTML Tags
 
-Lowercase.
+Lowercase. E.g. `<div>`
 
 ### HTML Attributes
 
-Lowercase kebab case. `<div data-save="banana">hello</div>`
+Lowercase kebab case. E.g. `<div my-attr="banana">hello</div>`
 
 ### CSS
 
-IDs and classes in kebab-case. Prefix classes with the  type. `.card-image` and `.card-text`.
+IDs and classes in kebab-case. Prefix classes with identifiers for common grouping, if any, e.g. "card" for card-related CSS classes. `.card-image` and `.card-text`.
 
 ## Commenting
 

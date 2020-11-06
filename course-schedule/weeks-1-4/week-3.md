@@ -78,7 +78,7 @@
 ### **In-Class**
 
 * [2.ICE.4: Internet](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
-* [Peer-Led Code Review: 2.PCE.3: CSS Processor](../../course-logistics/course-methodology.md#peer-led-code-review)
+* [Peer Code Review: 2.PCE.3: CSS Processor](../../course-logistics/course-methodology.md#peer-code-review)
 
 ### Post-Class
 
