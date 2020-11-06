@@ -22,16 +22,16 @@ We have purposely described inputs and outputs very narrowly, but the next step 
 
 **Our JavaScript is capable of taking as input:**
 
-- Any user mouse movement within the browser screen.
-- Any element on the page they've clicked on.
-- Any radio button, drop down or checkbox they've interacted with.
-- And more....
+* Any user mouse movement within the browser screen.
+* Any element on the page they've clicked on.
+* Any radio button, drop down or checkbox they've interacted with.
+* And more....
 
 #### DOM Output - JS to Element to Browser
 
 **Our JavaScript is capable of giving output as:**
 
-- Any HTML element, with any CSS style applied to it.
+* Any HTML element, with any CSS style applied to it.
 
 The power of JavaScript is that our program can take in and control anything the user does in a browser page.
 
@@ -59,7 +59,7 @@ What is there?
 
 ### Get Any Input
 
-Look up how to "listen" for any event: [https://www.w3schools.com/jsref/met_document_addeventlistener.asp](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
+Look up how to "listen" for any event: [https://www.w3schools.com/jsref/met\_document\_addeventlistener.asp](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
 
 You will also see this syntax:
 
@@ -73,9 +73,9 @@ This syntax sets the function without making a separate variable out of it.
 
 ### Make Any Output
 
-Create an element: [https://www.w3schools.com/jsref/met_document_createelement.asp](https://www.w3schools.com/jsref/met_document_createelement.asp)
+Create an element: [https://www.w3schools.com/jsref/met\_document\_createelement.asp](https://www.w3schools.com/jsref/met_document_createelement.asp)
 
-Add it to the page with `appendChild`: [https://www.w3schools.com/jsref/met_node_appendchild.asp](https://www.w3schools.com/jsref/met_node_appendchild.asp)
+Add it to the page with `appendChild`: [https://www.w3schools.com/jsref/met\_node\_appendchild.asp](https://www.w3schools.com/jsref/met_node_appendchild.asp)
 
 ## Starter Code
 
@@ -122,3 +122,4 @@ button.addEventListener('click', myButtonClicked);
 Start with this repo: [https://github.com/rocketacademy/swe101-next-steps-dom](https://github.com/rocketacademy/swe101-next-steps-dom)
 
 Implement the above code.
+
