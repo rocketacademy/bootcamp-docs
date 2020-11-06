@@ -1,5 +1,7 @@
 # 3.1: Intro to Express.js
 
+![](../../.gitbook/assets/express.jpg)
+
 ```javascript
 const express = require('express');
 
