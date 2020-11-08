@@ -18,7 +18,7 @@
 
 ### In-Class
 
-* JSON Card Game
+* [2.ICE.5 JSON Cards](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
 
 ### Post-Class
 
@@ -30,7 +30,7 @@
 
 ### Pre-Class
 
-* 2.13.3: JSON Module - Callbacks
+* [2.13.3: JSON Module - Callbacks](../../2-back-end-basics/2.13.1-json/2.13.3-json-module-callbacks.md)
 * [2.14: npm](../../2-back-end-basics/2.14-npm.md)
 
 ### In-Class
@@ -46,7 +46,7 @@
 ### Pre-Class
 
 * [2.15: Git Branches](../../2-back-end-basics/2.15-git-branches.md)
-* 2.16: ES6 Array Iterators
+* [2.16: ES6 Array Iterators](../../2-back-end-basics/2.16-es6-array-iterators.md)
 
 ### In-Class
 
@@ -59,7 +59,7 @@
 
 ### Pre-Class
 
-* 3.1: Intro to Express.js
+* [3.1: Intro to Express.js](../../3-back-end-application/3-2-intro-to-express-js/)
 
 ### In-Class
 
@@ -73,8 +73,8 @@
 
 ### Pre-Class
 
-* 3.2: ES6 Spread / Destructure
-* 3.3: Intro to EJS
+* [3.2: ES6 Spread / Destructure](../../3-back-end-application/3.2-es6-spread-destructure.md)
+* [3.3.1: Intro to EJS](../../3-back-end-application/3.3.1-intro-to-ejs/)
 
 ### In-Class
 
