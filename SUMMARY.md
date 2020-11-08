@@ -101,6 +101,7 @@
   * [2.ICE.2: Modules, Disk Reading](2-back-end-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading.md)
   * [2.ICE.3: Disk Altering](2-back-end-basics/2.ice-in-class-exercises/2.ice.3-disk-altering.md)
   * [2.ICE.4: Internet](2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
+  * [2.ICE.5: JSON Cards](2-back-end-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
 * [2.PCE: Post Class Exercises](2-back-end-basics/2.pce-post-class-exercises/README.md)
   * [2.PCE.1: CSS Command Line](2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
   * [2.PCE.2: CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
