@@ -33,11 +33,11 @@
 
 ### In-Class
 
-* npm/json
-
+* Review
+* 
 ### Post-Class
 
-* Todo: JSON
+* [2.PCE.6: Todo - JSON](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.6-todo-list-json.md)
 
 ## Day 3
 
