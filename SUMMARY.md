@@ -107,6 +107,8 @@
   * [2.PCE.2: CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
   * [2.PCE.3: CSS Processor](2-back-end-basics/2.pce-post-class-exercises/2.pce.3-css-processor.md)
   * [2.PCE.4: File Server](2-back-end-basics/2.pce-post-class-exercises/2.pce.4-file-server.md)
+  * [2.PCE.5: Noodle Website](2-back-end-basics/2.pce-post-class-exercises/2.pce.5-noodle-website.md)
+  * [2.PCE.6: Todo List - JSON](2-back-end-basics/2.pce-post-class-exercises/2.pce.6-todo-list-json.md)
 
 ## 3️⃣ Back-End Application
 

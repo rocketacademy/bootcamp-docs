@@ -22,9 +22,7 @@
 
 ### Post-Class
 
-* Deployed File Server
-* Deployed Noodle App
-* Deployed Video Poker
+* [2.PCE.5 Noodle Website / Video Poker](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.5-noodle-website.md)
 
 ## Day 2
 
