@@ -38,7 +38,7 @@
 
 ### Post-Class
 
-* [2.PCE.6: Todo - JSON](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.6-todo-list-json.md)
+* [2.PCE.6: Todo List - JSON](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.6-todo-list-json.md)
 
 ## Day 3
 
@@ -50,7 +50,7 @@
 ### In-Class
 
 * Git Branches
-* Review 2.PCE.6: Todo - JSON
+* Review 2.PCE.6: Todo List - JSON
 
 ### **Post-Class**
 
