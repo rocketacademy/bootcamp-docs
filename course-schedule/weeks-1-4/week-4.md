@@ -14,7 +14,7 @@
 * [2.11: AWS](../../2-back-end-basics/2.13-deployment-aws.md)
 * [2.12: Domain Names](../../2-back-end-basics/2.12-domain-names.md)
 * [2.13.1: JSON](../../2-back-end-basics/2.13.1-json/)
-* [2.13.2: JSON Module](../../2-back-end-basics/2.13.1-json/2.13.2-json-module-read-write.md)
+* [2.13.2: JSON Module - Read, Write](../../2-back-end-basics/2.13.1-json/2.13.2-json-module-read-write.md)
 
 ### In-Class
 
@@ -29,7 +29,7 @@
 ### Pre-Class
 
 * [2.13.3: JSON Module - Callbacks](../../2-back-end-basics/2.13.1-json/2.13.3-json-module-callbacks.md)
-* 2.13.4: JSON 
+* [2.13.4: JSON Module - Summary](../../2-back-end-basics/2.13.1-json/2.13.4-json-module-summary.md)
 * [2.14: npm](../../2-back-end-basics/2.14-npm.md)
 
 ### In-Class
