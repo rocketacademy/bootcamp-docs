@@ -49,6 +49,7 @@
 
 ### In-Class
 
+* Git Branches
 * Review TODO
 
 ### **Post-Class**
