@@ -1,4 +1,4 @@
-# 3.3.1: Intro to EJS
+# 3.3: Intro to EJS
 
 ```text
 const user = {

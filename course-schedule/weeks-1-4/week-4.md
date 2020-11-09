@@ -72,7 +72,7 @@
 ### Pre-Class
 
 * [3.2: ES6 Spread / Destructure](../../3-back-end-application/3.2-es6-spread-destructure.md)
-* [3.3.1: Intro to EJS](../../3-back-end-application/3.3.1-intro-to-ejs/)
+* [3.3: Intro to EJS](../../3-back-end-application/3.3-intro-to-ejs/)
 
 ### In-Class
 
