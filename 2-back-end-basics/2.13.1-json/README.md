@@ -19,7 +19,7 @@ It looks like this:
 
 A couple of the major JSON formatting rules are:
 
-* strings must be keys
+* keys must be strings
 * all strings must have double quotes, not single quotes
 * no trailing commas for key/value pairs \(the last key/value set before the closing curly brace\)
 
