@@ -2,18 +2,42 @@
 
 ![](../../.gitbook/assets/express.jpg)
 
+Express.js is an npm package that provides some common patterns for dealing with HTTP requests.
+
+Compare this basic code example to our original 'yay' server.
+
+Express
+
 ```javascript
 const express = require('express');
 
 const app = express();
-const port = 3000;
+const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+
+    console.log('request came in');
+
+  res.send('yay');
 });
 
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`);
-});
+app.listen(PORT);
+```
+
+createServer
+
+```javascript
+import { createServer } from 'http';
+
+const PORT = 3004;
+
+const whenIncomingRequest = (request, response) => {
+  
+  console.log('request came in');
+
+  response.end('yay', 'utf-8');
+};
+
+createServer(whenIncomingRequest).listen(PORT);
 ```
 
