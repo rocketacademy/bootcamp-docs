@@ -33,7 +33,6 @@
 
 ### In-Class
 
-* Review Callbacks
 * [2.ICE.6: npm](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
 
 ### Post-Class
