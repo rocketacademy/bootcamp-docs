@@ -50,7 +50,7 @@
 ### In-Class
 
 * Git Branches
-* Review TODO
+* Review 2.PCE.6: Todo - JSON
 
 ### **Post-Class**
 
