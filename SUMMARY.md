@@ -124,17 +124,16 @@
   * [3.1.2: Advanced EJS](3-back-end-application/3.3.1-intro-to-ejs/3.1.2-advanced-ejs.md)
 * [3.4 SQL](3-back-end-application/3.4-sql/README.md)
   * [3.4.2: Intro to SQL](3-back-end-application/3.4-sql/3.4.2-intro-to-sql.md)
-  * [3.4.3: Postgresql](3-back-end-application/3.4-sql/3.4.3-postgresql.md)
   * [3.4.4: SQL Relationships - 1 - M](3-back-end-application/3.4-sql/3.4.4-sql-relationships-1-m.md)
   * [3.4.5: SQL Relationships - M - M](3-back-end-application/3.4-sql/3.4.5-sql-relationships-m-m.md)
   * [3.4.6: SQL - Schema Design](3-back-end-application/3.4-sql/3.4.6-sql-schema-design.md)
 * [3.5: SQL Based Web Application](3-back-end-application/3.5-sql-based-web-application/README.md)
   * [3.5.1: Postgresql](3-back-end-application/3.5-sql-based-web-application/3.5.1-postgresql.md)
-* [3.5: User Auth](3-back-end-application/3.5-user-auth/README.md)
-  * [3.5.1: Cookies](3-back-end-application/3.5-user-auth/3.5.1-cookies.md)
-  * [3.5.2: User Auth](3-back-end-application/3.5-user-auth/3.5.2-user-auth.md)
-  * [3.5.3: Password Hashing](3-back-end-application/3.5-user-auth/3.5.3-password-hashing.md)
-  * [Untitled](3-back-end-application/3.5-user-auth/untitled.md)
+* [3.6: User Auth](3-back-end-application/3.5-user-auth/README.md)
+  * [3.6.1: Cookies](3-back-end-application/3.5-user-auth/3.5.1-cookies.md)
+  * [3.6.2: User Auth](3-back-end-application/3.5-user-auth/3.5.2-user-auth.md)
+  * [3.6.3: Password Hashing](3-back-end-application/3.5-user-auth/3.5.3-password-hashing.md)
+* [3.7: ES Promises](3-back-end-application/3.7-es-promises.md)
 
 ## 4️⃣ Full-Stack Application <a id="full-stack-application"></a>
 
