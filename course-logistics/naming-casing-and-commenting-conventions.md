@@ -46,11 +46,15 @@ Lowercase. E.g. `<div>`
 
 ### HTML Attributes
 
-Lowercase kebab case. E.g. `<div my-attr="banana">hello</div>`
+Lowercase kebab-case. E.g. `<div my-attr="banana">hello</div>`
 
 ### CSS
 
 IDs and classes in kebab-case. Prefix classes with identifiers for common grouping, if any, e.g. "card" for card-related CSS classes. `.card-image` and `.card-text`.
+
+### Git Branches
+
+Git branches are typically named with kebab-case, e.g. `my-new-feature`.
 
 ## Commenting
 
