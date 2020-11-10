@@ -49,12 +49,13 @@
 
 ### In-Class
 
-* Git Branches
+* [2.ICE.7: Git Branches](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
 * Review 2.PCE.6: Todo List - JSON
 
 ### **Post-Class**
 
-* 
+* [2.PCE.6: Todo List - JSON](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.6-todo-list-json.md)
+
 ## Day 4
 
 ### Pre-Class
