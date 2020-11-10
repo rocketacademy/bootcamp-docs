@@ -91,13 +91,11 @@ Start with the [base node repo](https://github.com/rocketacademy/base-node-swe1-
 
 ### Dice Roll
 
-Create an express app that rolls a dice when the user make a request to the route `/dice-roll`. Format the output so it's easy for the user to read.
+Create an express app that rolls a dice when the user makes a request to the route `/dice-roll`. Format the output so it's easy for the user to read.
 
-### Dices Roll
+### Two Dice Rolls
 
 Add another route to the app `/two-dice-roll` that rolls two dice and outputs it to the user.
-
-Requests
 
 Make this request with the browser and with `curl`. They should be the same. 
 
