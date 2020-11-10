@@ -136,6 +136,8 @@
   * [3.6.2: User Auth](3-back-end-application/3.5-user-auth/3.5.2-user-auth.md)
   * [3.6.3: Password Hashing](3-back-end-application/3.5-user-auth/3.5.3-password-hashing.md)
 * [3.7: ES Promises](3-back-end-application/3.7-es-promises.md)
+* [3.PCE](3-back-end-application/3.pce.md)
+* [3.PCE.1: Express Noodle App 1](3-back-end-application/3.pce.1-express-noodle-app-1.md)
 
 ## 4️⃣ Full-Stack Application <a id="full-stack-application"></a>
 
