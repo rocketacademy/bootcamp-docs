@@ -70,7 +70,7 @@
 
 ### Post-Class
 
-* Noodle App - GET only
+* 3.PCE.1: Noodle App - GET only
 
 ## Day 5
 
