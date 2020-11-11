@@ -1,4 +1,4 @@
-# 2.13.1: JSON
+# 2.13: JSON
 
 We need to introduce a way to store structured data in a text file, rather than just reading from lines.
 
