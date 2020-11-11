@@ -81,3 +81,23 @@ app.get('/wow-bananas', whenIncomingRequest);
 
 Normal web application URL paths are meant to match what would be a normal sounding file server path; That is to say, even though we won't have any HTML files in our express app, the naming convention of the URL paths will still be named similarly, as if we were still dealing with files.
 
+Each `app.<METHOD NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "**route**".
+
+## Exercise
+
+Create an Express.js application as above.
+
+Start with the [base node repo](https://github.com/rocketacademy/base-node-swe1-template) and install the Express.js library.
+
+### Dice Roll
+
+Create an express app that rolls a dice when the user makes a request to the route `/dice-roll`. Format the output so it's easy for the user to read.
+
+### Two Dice Rolls
+
+Add another route to the app `/two-dice-roll` that rolls two dice and outputs it to the user.
+
+Make this request with the browser and with `curl`. They should be the same. 
+
+
+

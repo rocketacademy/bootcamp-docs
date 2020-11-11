@@ -103,6 +103,7 @@
   * [2.ICE.4: Internet](2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
   * [2.ICE.5: JSON Cards](2-back-end-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
   * [2.ICE.6: npm / jsonFileStorage](2-back-end-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
+  * [2.ICE.7: Git Branches](2-back-end-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
 * [2.PCE: Post Class Exercises](2-back-end-basics/2.pce-post-class-exercises/README.md)
   * [2.PCE.1: CSS Command Line](2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
   * [2.PCE.2: CSS Color Reading](2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
@@ -135,6 +136,8 @@
   * [3.6.2: User Auth](3-back-end-application/3.5-user-auth/3.5.2-user-auth.md)
   * [3.6.3: Password Hashing](3-back-end-application/3.5-user-auth/3.5.3-password-hashing.md)
 * [3.7: ES Promises](3-back-end-application/3.7-es-promises.md)
+* [3.PCE](3-back-end-application/3.pce.md)
+* [3.PCE.1: Express Noodle App 1](3-back-end-application/3.pce.1-express-noodle-app-1.md)
 
 ## 4️⃣ Full-Stack Application <a id="full-stack-application"></a>
 

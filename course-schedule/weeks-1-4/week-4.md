@@ -49,17 +49,20 @@
 
 ### In-Class
 
-* Git Branches
+* [2.ICE.7: Git Branches](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
 * Review 2.PCE.6: Todo List - JSON
 
 ### **Post-Class**
 
-* 
+* [2.PCE.6: Todo List - JSON](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.6-todo-list-json.md)
+
 ## Day 4
 
 ### Pre-Class
 
+* [3.0: Overview](../../3-back-end-application/3-0-module-3-overview.md)
 * [3.1: Intro to Express.js](../../3-back-end-application/3-2-intro-to-express-js/)
+* [3.1.1: Express.js + JSON](../../3-back-end-application/3-2-intro-to-express-js/3.1.1-express.js-+-json.md)
 
 ### In-Class
 
