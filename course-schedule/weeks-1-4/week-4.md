@@ -70,7 +70,7 @@
 
 ### Post-Class
 
-* 3.PCE.1: Noodle App - GET only
+* [3.PCE.1: Express Noodle App 1](../../3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app-1.md)
 
 ## Day 5
 
