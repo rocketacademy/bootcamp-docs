@@ -83,6 +83,8 @@ Normal web application URL paths are meant to match what would be a normal sound
 
 Each `app.<METHOD NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "**route**".
 
+Take a look at the full [Express.js docs here.](https://expressjs.com/en/4x/api.html#res)
+
 ## Exercise
 
 Create an Express.js application as above.
