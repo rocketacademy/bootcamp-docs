@@ -30,6 +30,7 @@
 * [Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
+* [Helpful JavaScript Functions](course-logistics/helpful-javascript-functions.md)
 * [Glossary](course-logistics/glossary.md)
 
 ## 🏞 Projects
