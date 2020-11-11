@@ -101,5 +101,3 @@ Add another route to the app `/two-dice-roll` that rolls two dice and outputs it
 
 Make this request with the browser and with `curl`. They should be the same. 
 
-
-
