@@ -87,7 +87,7 @@ Each `app.<METHOD NAME>` `app.get`, `app.post`, etc. function call and listener 
 
 Create an Express.js application as above.
 
-Start with the [base node repo](https://github.com/rocketacademy/base-node-swe1-template) and install the Express.js library.
+Start with the [base node repo](https://github.com/rocketacademy/base-node-swe1) and install the Express.js library.
 
 ### Dice Roll
 
