@@ -19,9 +19,9 @@ It looks like this:
 
 A couple of the major JSON formatting rules are:
 
-* keys must be strings
-* all strings must have double quotes, not single quotes
-* no trailing commas for key/value pairs \(the last key/value set before the closing curly brace\)
+- keys must be strings
+- all strings must have double quotes, not single quotes
+- no trailing commas for key/value pairs \(the last key/value set before the closing curly brace\)
 
 You can also have nested structures such as other objects and arrays in JSON:
 
@@ -72,16 +72,15 @@ The opposite of `parse` is `stringify`. Take a JavaScript object and turn it int
 
 ```javascript
 const myUser = {
-    "name":"kai",
-    "height":4
+  name: 'kai',
+  height: 4,
 };
 
 myUser.height = Math.random(); // we can access and change values in the object
 
-const myJson = JSON.stringify(myUser); // make the object into a string 
+const myJson = JSON.stringify(myUser); // make the object into a string
 ```
 
 ## Exercise
 
 Open the chrome dev tools console and paste these examples in to try them out.
-
