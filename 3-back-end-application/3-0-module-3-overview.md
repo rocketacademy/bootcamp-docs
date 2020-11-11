@@ -14,7 +14,7 @@ In this module we'll officially define the back-end and front-end portions of ou
 
 The front-end is where the user actions occur. For the purposes of this module these actions are represented by requests that are generated at the front-end and are sent to the back-end.
 
-The front-end, specifically the browser application is the thing that receives and renders the response to the request. In this module the response mostly refers to HTML.
+The front-end, specifically the browser application is the thing that sends requests out and receives and renders the response to the request. In this module the response mostly refers to HTML.
 
 ### Back-end
 
