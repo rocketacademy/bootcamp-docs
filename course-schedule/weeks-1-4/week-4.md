@@ -66,7 +66,7 @@
 
 ### In-Class
 
-* Express
+* [3.ICE.1: Bigfoot](../../3-back-end-application/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
 
 ### Post-Class
 
