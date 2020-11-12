@@ -70,7 +70,7 @@
 
 ### Post-Class
 
-* [3.PCE.1: Express Noodle App 1](../../3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app-1.md)
+* [3.PCE.1: Express Noodle App](../../3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app.md)
 
 ## Day 5
 
@@ -86,5 +86,5 @@
 
 ### Post-Class
 
-* [3.PCE.2: Noodle App](../../3-back-end-application/3.pce-post-class-exercises/3.pce.2-noodle-app.md)
+* [3.PCE.2: Express, EJS Noodle App](../../3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)
 
