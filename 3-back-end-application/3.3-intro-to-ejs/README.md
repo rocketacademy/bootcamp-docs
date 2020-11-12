@@ -6,9 +6,9 @@ EJS is the npm library that works together with Express.js so that our responses
 
 It uses EJS HTML template files so that the main part of the HTML document does not have to be rewritten for every kind of response.
 
-Express.js' `render` function runs the EJS part of the system and produces an HTML string that is sent back to the browser. 
+Express.js' `render` function runs the EJS part of the system and produces an HTML string that is sent back to the browser.
 
-We are beginning to split our app up into separate files by putting the response HTML templates in their own directory. 
+We are beginning to split our app up into separate files by putting the response HTML templates in their own directory.
 
 ### Views
 
@@ -22,13 +22,13 @@ EJS takes data passed to it from the `render` function and uses that to produce 
 
 Install the EJS library:
 
-```markup
+```sh
 npm install ejs
 ```
 
 Set the library for all requests. This line goes below where you define `app`, but above any routes.
 
-```markup
+```js
 app.set('view engine', 'ejs');
 ```
 
@@ -49,16 +49,15 @@ app.set('view engine', 'ejs');
 #### index.js
 
 ```javascript
-app.get('/bananas', (request,response) =>{
-
+app.get('/bananas', (request, response) => {
   const data = {
-      user : {
-          name: 'kai'
-      }
+    user: {
+      name: 'kai',
+    },
   };
-  
+
   response.render('index', data);
-})
+});
 ```
 
 #### index.ejs
@@ -80,4 +79,3 @@ Run the above code.
 Write an `h1` element and fill it with another key in the `data` object.
 
 Create a request param: `/fruits/:name`. In the route callback get a hold of the value and output that request value in the HTML by adding it to the data object, then referencing it in the HTML.
-
