@@ -12,7 +12,7 @@ We are beginning to split our app up into separate files by putting the response
 
 ### Views
 
-EJS takes data passed to it from the `render` function and uses that to produce the HTML that gets sent back. These files will all live in a directory called `views`.
+EJS takes data passed to it from the `render` function and uses that to produce the HTML that gets sent back. These files will all live in a directory called `views`. The term "view" comes from the [Model-View-Controller or MVC framework](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) that defines views as the looks of the application, i.e. what the user is able to "view".
 
 ![](../../.gitbook/assets/ejs2.jpg)
 
