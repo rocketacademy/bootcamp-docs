@@ -119,7 +119,7 @@
 * [3.1: Intro to Express.js](3-back-end-application/3-2-intro-to-express-js/README.md)
   * [3.1.1: Express.js + JSON](3-back-end-application/3-2-intro-to-express-js/3.1.1-express.js-+-json.md)
   * [3.1.2: HTML Forms](3-back-end-application/3-2-intro-to-express-js/3.1.2-html-forms.md)
-  * [3.1.3: POST - request.body](3-back-end-application/3-2-intro-to-express-js/3.1.3-post-request.body.md)
+  * [3.1.3: POST](3-back-end-application/3-2-intro-to-express-js/3.1.3-post-request.body.md)
   * [3.1.4: POST](3-back-end-application/3-2-intro-to-express-js/3.1.4-post.md)
   * [3.1.5: PUT/DELETE](3-back-end-application/3-2-intro-to-express-js/3.1.5-put-delete.md)
 * [3.2: ES6 Spread / Destructure](3-back-end-application/3.2-es6-spread-destructure.md)
