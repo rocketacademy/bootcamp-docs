@@ -62,11 +62,11 @@ app.get('/bananas', (request, response) => {
 
 #### index.ejs
 
-```markup
+```html
 <html>
-    <body>
-        <h2><%= user.name %></h2>
-    </body>
+  <body>
+    <h2><%= user.name %></h2>
+  </body>
 </html>
 ```
 
