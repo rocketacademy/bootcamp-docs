@@ -45,7 +45,7 @@ In Express.js the differences are line 8 where the response is being sent back, 
 
 ## app.get
 
-Line `13` of the code example is where we set the callback listener. It works differently from the other request listeners we've created.
+Line 11 of the code example is where we set the callback listener. It works differently from the other request listeners we've created.
 
 An Express.js app is meant to take in many different types of requests. The library has built-in functionality to segment the different types of request this type of application normally has.
 
