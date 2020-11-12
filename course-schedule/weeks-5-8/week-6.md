@@ -8,23 +8,29 @@
 
 ## Day 1
 
-Intro to SQL Language
+Express.js w/ SQL
 
-PostgreSQL Server
+SQL Table Relationships - 1 - M
 
 ## Day 2
 
-Express.js w/ SQL
+User Login
+
+SQL Table Relationships: Many - to - Many
 
 ## Day 3
 
-SQL Table Relationships
+Password Hashing
+
+SQL Database Schema Building
 
 ## Day 4
 
-SQL Table Relationships: 1 - Many
+SQL Database Schema Building
 
 ## Day 5
 
-SQL Table Relationships: Many - to - Many
+SQL Database Schema Building
+
+
 
