@@ -15,9 +15,7 @@ const app = express();
 const PORT = 3000;
 
 const whenIncomingRequest = (request, response) => {
-
   console.log('request came in');
-
   response.send('yay');
 };
 
@@ -34,13 +32,11 @@ import { createServer } from 'http';
 const PORT = 3004;
 
 const whenIncomingRequest = (request, response) => {
-  
   console.log('request came in');
-
   response.end('yay', 'utf-8');
 };
 
-const server = createServer(whenIncomingRequest)
+const server = createServer(whenIncomingRequest);
 
 server.listen(PORT);
 ```
@@ -61,7 +57,7 @@ app.get('/', whenIncomingRequest);
 
 ### HTTP Methods
 
-Each request callback is set with a function named after an HTTP method: `get`, `post`, `put`, `delete`, etc. 
+Each request callback is set with a function named after an HTTP method: `get`, `post`, `put`, `delete`, etc.
 
 ### HTTP Path
 
@@ -99,5 +95,4 @@ Create an express app that rolls a dice when the user makes a request to the rou
 
 Add another route to the app `/two-dice-roll` that rolls two dice and outputs it to the user.
 
-Make this request with the browser and with `curl`. They should be the same. 
-
+Make this request with the browser and with `curl`. They should be the same.
