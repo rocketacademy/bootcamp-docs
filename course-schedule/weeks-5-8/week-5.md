@@ -10,8 +10,8 @@
 
 ### Pre-Class
 
-* [3.1.2: Forms](../../3-back-end-application/3-2-intro-to-express-js/3.1.2-html-forms.md)
-* [3.1.3: Post](../../3-back-end-application/3-2-intro-to-express-js/3.1.3-post-request.body.md)
+* [3.1.2: Forms](../../3-back-end-application/3.1-intro-to-express-js/3.1.2-html-forms.md)
+* [3.1.3: Post](../../3-back-end-application/3.1-intro-to-express-js/3.1.3-post-request.body.md)
 * [3.3.2: EJS Conditionals](../../3-back-end-application/3.3-intro-to-ejs/3.3.2-ejs-conditions.md)
 
 ### In-Class

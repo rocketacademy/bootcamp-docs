@@ -61,8 +61,8 @@
 ### Pre-Class
 
 * [3.0: Overview](../../3-back-end-application/3-0-module-3-overview.md)
-* [3.1: Intro to Express.js](../../3-back-end-application/3-2-intro-to-express-js/)
-* [3.1.1: Express.js + JSON](../../3-back-end-application/3-2-intro-to-express-js/3.1.1-express.js-+-json.md)
+* [3.1: Intro to Express.js](../../3-back-end-application/3.1-intro-to-express-js/)
+* [3.1.1: Express.js + JSON](../../3-back-end-application/3.1-intro-to-express-js/3.1.1-express.js-+-json.md)
 
 ### In-Class
 
