@@ -86,5 +86,5 @@
 
 ### Post-Class
 
-* Noodle App
+* [3.PCE.2: Noodle App](../../3-back-end-application/3.pce-post-class-exercises/3.pce.2-noodle-app.md)
 
