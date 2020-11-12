@@ -125,7 +125,7 @@
 * [3.2: ES6 Spread / Destructure](3-back-end-application/3.2-es6-spread-destructure.md)
 * [3.3: Intro to EJS](3-back-end-application/3.3-intro-to-ejs/README.md)
   * [3.3.1: EJS Loops](3-back-end-application/3.3-intro-to-ejs/3.3.1-ejs-loops.md)
-  * [3.1.2: EJS Conditions](3-back-end-application/3.3-intro-to-ejs/3.1.2-ejs-conditions.md)
+  * [3.3.2: EJS Conditions](3-back-end-application/3.3-intro-to-ejs/3.3.2-ejs-conditions.md)
   * [3.3.3: Advanced EJS](3-back-end-application/3.3-intro-to-ejs/3.3.3-advanced-ejs.md)
 * [3.4 SQL](3-back-end-application/3.4-sql/README.md)
   * [3.4.2: Intro to SQL](3-back-end-application/3.4-sql/3.4.2-intro-to-sql.md)

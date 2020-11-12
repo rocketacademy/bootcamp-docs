@@ -6,6 +6,7 @@
 
 * Intro to React
 * Webpack
+* Data Structures & Algorithms
 
 ## Weeks 15 & 16
 
