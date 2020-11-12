@@ -82,7 +82,7 @@
 
 ### In-Class
 
-* EJS
+* [3.ICE.2: Bigfoot EJS](../../3-back-end-application/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
 
 ### Post-Class
 

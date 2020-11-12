@@ -144,6 +144,7 @@
   * [3.ICE.2: Bigfoot EJS](3-back-end-application/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
 * [3.PCE: Post-Class Exercises](3-back-end-application/3.pce-post-class-exercises/README.md)
   * [3.PCE.1: Express Noodle App 1](3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app-1.md)
+  * [3.PCE.2: Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-noodle-app.md)
 
 ## 4️⃣ Full-Stack Application <a id="full-stack-application"></a>
 
