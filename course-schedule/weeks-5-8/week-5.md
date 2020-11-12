@@ -10,8 +10,9 @@
 
 ### Pre-Class
 
-* 3.1.2: Forms
-* 3.1.3: Post
+* [3.1.2: Forms](../../3-back-end-application/3-2-intro-to-express-js/3.1.2-html-forms.md)
+* [3.1.3: Post](../../3-back-end-application/3-2-intro-to-express-js/3.1.3-post-request.body.md)
+* 3.1.2
 
 ### In-Class
 
@@ -19,7 +20,7 @@
 
 ### Post-Class
 
-* Noodle App
+* UFO App
 
 ## Day 2
 
@@ -33,7 +34,7 @@
 
 ### Post-Class
 
-* Noodle App
+* UFO App
 
 ## Day 3
 
@@ -47,7 +48,8 @@
 
 ### **Post-Class**
 
-* 
+* UFO App
+
 ## Day 4
 
 ### Pre-Class
@@ -57,9 +59,12 @@
 
 ### In-Class
 
-* Express
+* Cookies
+* SQL
 
 ### Post-Class
+
+* UFO App
 
 ## Day 5
 
@@ -69,9 +74,9 @@
 
 ### In-Class
 
-* Express
+* Review UFO App
 
 ### Post-Class
 
-* Noodle App
+* Meal Tracker SQL CLI
 
