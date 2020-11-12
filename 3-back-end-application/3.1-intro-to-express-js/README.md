@@ -41,7 +41,7 @@ const server = createServer(whenIncomingRequest);
 server.listen(PORT);
 ```
 
-In Express.js the differences are line `10` where the response is being sent back, and more importantly, on line `13`.
+In Express.js the differences are line 8 where the response is being sent back, and more importantly, on line 11.
 
 ## app.get
 
@@ -96,3 +96,4 @@ Create an express app that rolls a dice when the user makes a request to the rou
 Add another route to the app `/two-dice-roll` that rolls two dice and outputs it to the user.
 
 Make this request with the browser and with `curl`. They should be the same.
+
