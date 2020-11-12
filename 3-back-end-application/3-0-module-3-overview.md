@@ -10,19 +10,19 @@ Express.js is the NPM HTTP library we'll be using to construct our web applicati
 
 In this module we'll officially define the back-end and front-end portions of our app architecture:
 
-### Front-end
+### Front End
 
-The front-end is where the user actions occur. For the purposes of this module these actions are represented by requests that are generated at the front-end and are sent to the back-end.
+The front end is where the user actions occur. For the purposes of this module these actions are represented by requests that are generated at the front end and are sent to the back end.
 
-The front-end, specifically the browser application is the thing that sends requests out and receives and renders the response to the request. In this module the response mostly refers to HTML.
+The front end, specifically the browser application is the thing that sends requests out and receives and renders the response to the request. In this module the response mostly refers to HTML.
 
-### Back-end
+### Back End
 
-The back-end listens for incoming user actions \(in the form of a request\). When it receives a request it runs some JavaScript logic to determine what response to send back.
+The back end listens for incoming user actions \(in the form of a request\). When it receives a request it runs some JavaScript logic to determine what response to send back.
 
 Thus far, the logic in our file server was limited to responding if the file specified in the URL path was a file that existed in that computer's file system.
 
-We'll grow out the logic of our back-end to be the main logic of our application.
+We'll grow out the logic of our back end to be the main logic of our application.
 
 ## Bigger Picture
 
