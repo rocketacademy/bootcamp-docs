@@ -56,6 +56,10 @@ IDs and classes in kebab-case. Prefix classes with identifiers for common groupi
 
 Git branches are typically named with kebab-case, e.g. `my-new-feature`.
 
+### URLs
+
+URL entities that consist of multiple words are separated by hyphens. For example, `www.mysite.com/my-url-entity`.
+
 ## Commenting
 
 For function-level comments, consider using [JSDoc format](https://jsdoc.app/about-getting-started.html#adding-documentation-comments-to-your-code) for clearer identification of functions and what they do.
