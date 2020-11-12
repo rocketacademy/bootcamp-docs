@@ -115,7 +115,7 @@
 
 ## 3️⃣ Back-End Application
 
-* [3.0: Module 3 Overview](3-back-end-application/3-0-module-3-overview.md)
+* [3.0: Module 3 Overview](3-back-end-application/3.0-module-3-overview.md)
 * [3.1: Intro to Express.js](3-back-end-application/3.1-intro-to-express-js/README.md)
   * [3.1.1: Express.js + JSON](3-back-end-application/3.1-intro-to-express-js/3.1.1-express.js-+-json.md)
   * [3.1.2: HTML Forms](3-back-end-application/3.1-intro-to-express-js/3.1.2-html-forms.md)
