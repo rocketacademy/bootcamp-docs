@@ -18,7 +18,7 @@ The front-end, specifically the browser application is the thing that sends requ
 
 ### Back-end
 
-The back-end listens for incoming user actions \(in the form of a request\). When it receives a request it runs some javascript logic to determine what response to send back.
+The back-end listens for incoming user actions \(in the form of a request\). When it receives a request it runs some JavaScript logic to determine what response to send back.
 
 Thus far, the logic in our file server was limited to responding if the file specified in the URL path was a file that existed in that computer's file system.
 
