@@ -45,7 +45,7 @@ In Express.js the differences are line 8 where the response is being sent back, 
 
 ## app.get
 
-Line 11 of the code example is where we set the callback listener. It works differently from the other request listeners we've created.
+Line 11 of the Express code example is where we set the callback listener. It works differently from the other request listeners we've created.
 
 An Express.js app is meant to take in many different types of requests. The library has built-in functionality to segment the different types of request this type of application normally has.
 
@@ -77,9 +77,9 @@ app.get('/wow-bananas', whenIncomingRequest);
 
 Normal web application URL paths are meant to match what would be a normal sounding file server path; That is to say, even though we won't have any HTML files in our express app, the naming convention of the URL paths will still be named similarly, as if we were still dealing with files.
 
-Each `app.<METHOD_NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "**route**".
+Each `app.<METHOD_NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "route". Routes are considered 1 form of Express "middleware", where middleware are functions with access to the request and response objects, that are executed in the order they are bound to the `app` object, until any middleware sends a response back to the client. 
 
-Take a look at the full [Express.js docs here.](https://expressjs.com/en/4x/api.html#res)
+Read more about Express middleware [here](https://expressjs.com/en/guide/using-middleware.html) and on Express in general [here](https://expressjs.com/en/4x/api.html#express).
 
 ## Exercise
 
