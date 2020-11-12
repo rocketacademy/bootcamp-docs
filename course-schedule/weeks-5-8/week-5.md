@@ -44,7 +44,7 @@
 
 ### In-Class
 
-* Review TODO
+* Review
 
 ### **Post-Class**
 
