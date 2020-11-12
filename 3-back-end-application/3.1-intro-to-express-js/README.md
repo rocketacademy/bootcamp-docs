@@ -77,7 +77,7 @@ app.get('/wow-bananas', whenIncomingRequest);
 
 Normal web application URL paths are meant to match what would be a normal sounding file server path; That is to say, even though we won't have any HTML files in our express app, the naming convention of the URL paths will still be named similarly, as if we were still dealing with files.
 
-Each `app.<METHOD NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "**route**".
+Each `app.<METHOD_NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "**route**".
 
 Take a look at the full [Express.js docs here.](https://expressjs.com/en/4x/api.html#res)
 
