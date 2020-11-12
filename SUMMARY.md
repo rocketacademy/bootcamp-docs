@@ -141,6 +141,7 @@
 * [3.7: ES Promises](3-back-end-application/3.7-es-promises.md)
 * [3.ICE: In-Class Exercises](3-back-end-application/3.ice-in-class-exercises/README.md)
   * [3.ICE.1: Bigfoot](3-back-end-application/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
+  * [3.ICE.2: Bigfoot EJS](3-back-end-application/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
 * [3.PCE: Post-Class Exercises](3-back-end-application/3.pce-post-class-exercises/README.md)
   * [3.PCE.1: Express Noodle App 1](3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app-1.md)
 
