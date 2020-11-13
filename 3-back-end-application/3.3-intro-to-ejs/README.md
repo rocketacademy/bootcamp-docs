@@ -82,6 +82,8 @@ app.get('/banana', (request, response) => {
 
 EJS files look similar to HTML files, except with "templating syntax" to inject JavaScript variables into the HTML. In this example, the properties of the `data` object in `index.js` are exposed in `index.ejs`.
 
+These templating concepts and syntax are similar across most web application frameworks, including Ruby on Rails, Python Django, and Java Spring.
+
 ```markup
 <html>
   <body>
