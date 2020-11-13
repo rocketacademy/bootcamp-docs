@@ -26,38 +26,48 @@ An example of EJS and DOM working together in the same application can be our No
 
 ## Using EJS
 
-#### Configuration
+### Configuration
 
-Install the EJS library:
+Install the EJS library.
 
 ```bash
 npm install ejs
 ```
 
-Set the library for all requests. This line goes below where you define `app`, but above any routes.
+Install the EJS syntax highlighter for VSCode. This is to enable JS syntax highlighting and formatting within EJS files.
 
-```javascript
-app.set('view engine', 'ejs');
-```
+[https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
 
-#### Banana App File Structure
+### File Structure
 
 ```text
-└── bananas-app
+└── banana-app
     ├── index.js
     └── views
        └── index.ejs
 ```
 
-`response.render` takes two arguments.
+### index.js
+
+Set the view engine to generate HTML responses in `index.js`. This line goes below where you define `app`, but above any routes.
+
+```javascript
+app.set('view engine', 'ejs');
+```
+
+Within a route, when ready to return an HTML page as a response, call `response.render`. `response.render` takes two arguments.
 
 1. The path/name of a file \(without extension\) in the `views` directory.
 2. Data that will be used to render the HTML. This is an object.
 
-#### index.js
-
 ```javascript
-app.get('/bananas', (request, response) => {
+import express from 'express';
+
+const app = express();
+
+app.set('view engine', 'ejs');
+
+app.get('/banana', (request, response) => {
   const data = {
     user: {
       name: 'kai',
@@ -68,7 +78,9 @@ app.get('/bananas', (request, response) => {
 });
 ```
 
-#### index.ejs
+### index.ejs
+
+EJS files look similar to HTML files, except with "templating syntax" to inject JavaScript variables into the HTML. In this example, the properties of the `data` object in `index.js` are exposed in `index.ejs`.
 
 ```markup
 <html>
@@ -77,8 +89,6 @@ app.get('/bananas', (request, response) => {
   </body>
 </html>
 ```
-
-Install the EJS syntax highlighter for VSCode: [https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
 
 ## Exercise
 
