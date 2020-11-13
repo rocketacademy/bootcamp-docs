@@ -122,7 +122,7 @@
   * [3.1.3: POST \(request.body\)](3-back-end-application/3.1-intro-to-express-js/3.1.3-post-request.body.md)
   * [3.1.4: POST](3-back-end-application/3.1-intro-to-express-js/3.1.4-post.md)
   * [3.1.5: PUT/DELETE](3-back-end-application/3.1-intro-to-express-js/3.1.5-put-delete.md)
-* [3.2: ES6 Spread / Destructure](3-back-end-application/3.2-es6-spread-destructure.md)
+* [3.2: ES6 Destructuring, Spread Operators](3-back-end-application/3.2-es6-spread-destructure.md)
 * [3.3: Intro to EJS](3-back-end-application/3.3-intro-to-ejs/README.md)
   * [3.3.1: EJS Loops](3-back-end-application/3.3-intro-to-ejs/3.3.1-ejs-loops.md)
   * [3.3.2: EJS Conditions](3-back-end-application/3.3-intro-to-ejs/3.3.2-ejs-conditions.md)
