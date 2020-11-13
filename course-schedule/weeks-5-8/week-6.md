@@ -4,7 +4,7 @@
 
 * SQL
 * Postgres
-* Express.js SQL
+* Express.js + SQL
 
 ## Day 1
 

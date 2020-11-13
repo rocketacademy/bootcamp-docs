@@ -2,5 +2,5 @@
 
 ## Project
 
-* Full Stack Game App
+* Server Side Data App
 
