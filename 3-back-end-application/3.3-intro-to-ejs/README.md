@@ -92,6 +92,21 @@ These templating concepts and syntax are similar across most web application fra
 </html>
 ```
 
+{% hint style="info" %}
+**Naming Conventions**
+
+EJS files are named after the routes that render them.  
+  
+A route like this:
+
+```javascript
+app.get('/recipe/0', ...
+
+```
+
+should render an EJS file called `recipe.ejs`. There are very few exceptions to this convention.
+{% endhint %}
+
 ## Exercise
 
 Run the above code.
