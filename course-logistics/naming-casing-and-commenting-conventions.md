@@ -64,3 +64,25 @@ URL entities that consist of multiple words are separated by hyphens. For exampl
 
 For function-level comments, consider using [JSDoc format](https://jsdoc.app/about-getting-started.html#adding-documentation-comments-to-your-code) for clearer identification of functions and what they do.
 
+## Express
+
+You must have a directory named `views` and `public`. \(You can also change this in the configs\).
+
+An ejs file is named kebab-case after the route: `/recipes` ➡️`recipes.ejs`.
+
+## Routes
+
+We are creating ways to deal with data through HTTP requests. 
+
+#### Routes
+
+| URL Path | Method | Purpose |
+| :--- | :--- | :--- |
+| /resource | GET | Render a form that will create a new resource. |
+| /resource | POST | Accept a POST request to create a new resource. |
+| /resource/:id | GET | Render a single resource. |
+| / | GET | Render a list. |
+| /resource/:id/edit | GET | Render a form to edit. |
+| /resource/:id/edit | PUT | Accept a request to edit. |
+| /resource/:id/delete | DELETE | Accept a request to delete. |
+
