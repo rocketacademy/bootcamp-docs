@@ -55,7 +55,7 @@
 ### Pre-Class
 
 * 3.4: Intro to SQL
-* 3.6.1: cookies
+* 3.6.1: Cookies
 
 ### In-Class
 
