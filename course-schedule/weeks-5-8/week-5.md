@@ -20,7 +20,7 @@
 
 ### Post-Class
 
-* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
+* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 2
 
@@ -34,7 +34,7 @@
 
 ### Post-Class
 
-* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
+* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 3
 
@@ -48,7 +48,7 @@
 
 ### **Post-Class**
 
-* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
+* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 4
 
@@ -64,7 +64,7 @@
 
 ### Post-Class
 
-* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
+* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 5
 
