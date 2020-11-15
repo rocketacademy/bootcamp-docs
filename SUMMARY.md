@@ -145,6 +145,7 @@
 * [3.PCE: Post-Class Exercises](3-back-end-application/3.pce-post-class-exercises/README.md)
   * [3.PCE.1: Express Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app.md)
   * [3.PCE.2: Express, EJS Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)
+  * [3.PCE.3: Express - UFOs](3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## 4️⃣ Full-Stack Application <a id="full-stack-application"></a>
 
