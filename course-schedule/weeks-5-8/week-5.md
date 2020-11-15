@@ -40,7 +40,7 @@
 
 ### Pre-Class
 
-* Advanced EJS
+* [3.3.3: Advanced EJS](../../3-back-end-application/3.3-intro-to-ejs/3.3.3-advanced-ejs.md)
 
 ### In-Class
 
