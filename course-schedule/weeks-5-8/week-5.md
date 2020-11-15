@@ -20,13 +20,13 @@
 
 ### Post-Class
 
-* UFO App
+* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 2
 
 ### Pre-Class
 
-* 3.1.5: PUT/DELETE
+* [3.1.4: PUT/DELETE](../../3-back-end-application/3.1-intro-to-express-js/3.1.4-put-delete.md)
 
 ### In-Class
 
@@ -34,7 +34,7 @@
 
 ### Post-Class
 
-* UFO App
+* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 3
 
@@ -48,7 +48,7 @@
 
 ### **Post-Class**
 
-* UFO App
+* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 4
 
@@ -64,7 +64,7 @@
 
 ### Post-Class
 
-* UFO App
+* [3.PCE.3: Express UFO](../../3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
 ## Day 5
 
