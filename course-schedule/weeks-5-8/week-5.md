@@ -44,7 +44,7 @@
 
 ### In-Class
 
-* Review Pre-Class, 3.PCE.3
+* [3.ICE.4: CSS](../../3-back-end-application/3.ice-in-class-exercises/3.ice.4-css.md)
 
 ### **Post-Class**
 
