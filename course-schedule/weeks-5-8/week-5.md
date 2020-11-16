@@ -30,7 +30,7 @@
 
 ### In-Class
 
-* Review
+* Review Pre-Class, 3.PCE.3
 
 ### Post-Class
 
@@ -44,7 +44,7 @@
 
 ### In-Class
 
-* Review
+* Review Pre-Class, 3.PCE.3
 
 ### **Post-Class**
 
