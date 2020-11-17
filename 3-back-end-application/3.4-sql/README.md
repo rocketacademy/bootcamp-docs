@@ -6,7 +6,7 @@ It's distinct from the **database system**, which is the software that keeps dat
 
 SQL the language simply describes how a set of conceptual data should be stored and retrieved.
 
-We've seen a couple of different formats of data storage:
+So far, we've seen a couple of different formats of data storage:
 
 * Data stored in a plain file, separated by line endings \(\n\)
 * Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
