@@ -141,6 +141,7 @@
   * [3.6.1: Cookies](3-back-end-application/3.6-user-auth/3.6.1-cookies.md)
   * [3.6.2: User Auth](3-back-end-application/3.6-user-auth/3.6.2-user-auth.md)
   * [3.6.3: Password Hashing](3-back-end-application/3.6-user-auth/3.6.3-password-hashing.md)
+  * [3.6.4: Session Hashing](3-back-end-application/3.6-user-auth/3.6.4-session-hashing.md)
 * [3.7: ES Promises](3-back-end-application/3.7-es-promises.md)
 * [3.ICE: In-Class Exercises](3-back-end-application/3.ice-in-class-exercises/README.md)
   * [3.ICE.1: Bigfoot](3-back-end-application/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
@@ -152,6 +153,7 @@
   * [3.PCE.1: Express Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app.md)
   * [3.PCE.2: Express, EJS Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)
   * [3.PCE.3: Express - UFOs](3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
+  * [3.PCE.4: SQL Meal Keeper](3-back-end-application/3.pce-post-class-exercises/3.pce.4-sql-meal-keeper.md)
 
 ## 4️⃣ Full-Stack Application
 

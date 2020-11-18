@@ -81,5 +81,5 @@
 
 ### Post-Class
 
-* Meal Tracker SQL CLI
+*  [3.PCE.4: Meal Tracker](../../3-back-end-application/3.pce-post-class-exercises/3.pce.4-sql-meal-keeper.md)
 
