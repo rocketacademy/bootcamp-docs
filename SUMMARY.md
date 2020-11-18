@@ -154,6 +154,7 @@
   * [3.PCE.2: Express, EJS Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)
   * [3.PCE.3: Express - UFOs](3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
   * [3.PCE.4: SQL Meal Keeper](3-back-end-application/3.pce-post-class-exercises/3.pce.4-sql-meal-keeper.md)
+  * [3.PCE.5: Bird Watching](3-back-end-application/3.pce-post-class-exercises/3.pce.5-bird-watching.md)
 
 ## 4️⃣ Full-Stack Application
 
