@@ -152,9 +152,9 @@
   * [3.PCE.2: Express, EJS Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)
   * [3.PCE.3: Express - UFOs](3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
 
-## 4️⃣ Full-Stack Application <a id="full-stack-application"></a>
+## 4️⃣ Full-Stack Application
 
-* [4.0: Module 4 Overview](full-stack-application/4.0-module-4-overview.md)
+* [4.0: Module 4 Overview](4-full-stack-application/4.0-module-4-overview.md)
 
 ## 5️⃣ React
 
