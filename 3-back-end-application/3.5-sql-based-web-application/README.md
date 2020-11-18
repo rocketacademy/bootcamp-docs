@@ -46,6 +46,12 @@ createuser -s <USER>
 createdb <USER>
 ```
 
+Test it:
+
+```text
+psql
+```
+
 [https://linuxhint.com/install\_postgresql\_-ubuntu/](https://linuxhint.com/install_postgresql_-ubuntu/)
 
 
