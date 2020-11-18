@@ -74,6 +74,7 @@
 
 * [3.5: SQL Based Web Application](../../3-back-end-application/3.5-sql-based-web-application/)
 * [3.5.1: Postgresql](../../3-back-end-application/3.5-sql-based-web-application/3.5.1-postgresql.md)
+* [3.5.2: PostgreSQL CLI](../../3-back-end-application/3.5-sql-based-web-application/3.5.2-postgresql-cli.md)
 
 ### In-Class
 
