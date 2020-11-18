@@ -38,7 +38,7 @@ One kind of data in your table. A table has a column each for every type of data
 
 Unlike in the JSON file, when you create the entire table \(before there's any data inside\) the data type of each column is specified. The data types are things like numbers, booleans and strings.
 
-_The weight of a kind of fruit._
+_An integer number weight of a kind of fruit._ 
 
 #### Row
 
