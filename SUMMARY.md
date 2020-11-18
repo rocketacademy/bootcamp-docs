@@ -133,7 +133,7 @@
   * [3.4.4: SQL Schema Design](3-back-end-application/3.4-sql/3.4.4-sql-schema-design.md)
 * [3.5: SQL-Based Web Application](3-back-end-application/3.5-sql-based-web-application/README.md)
   * [3.5.1: PostgreSQL](3-back-end-application/3.5-sql-based-web-application/3.5.1-postgresql.md)
-  * [3.5.2: PostgreSQL CLI](3-back-end-application/3.5-sql-based-web-application/3.5.2-postgresql-cli.md)
+  * [3.5.2: PostgreSQL Node Apps](3-back-end-application/3.5-sql-based-web-application/3.5.2-postgresql-cli.md)
   * [3.5.3: Express.js + PostgreSQL](3-back-end-application/3.5-sql-based-web-application/3.5.3-express.js-+-postgresql.md)
   * [3.5.4: PGAdmin](3-back-end-application/3.5-sql-based-web-application/3.5.4-pgadmin.md)
 * [3.6: User Auth](3-back-end-application/3.6-user-auth/README.md)
