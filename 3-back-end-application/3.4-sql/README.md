@@ -16,6 +16,8 @@ The literal data format stored on the hard drive is determined by the implementa
 
 ![](../../.gitbook/assets/screen-shot-2020-11-14-at-2.10.22-pm.png)
 
+![](../../.gitbook/assets/sql-database.jpg)
+
 The hierarchy of data in a SQL system is:
 
 #### Database
@@ -34,7 +36,7 @@ _All fruits_
 
 One kind of data in your table. A table has a column each for every type of data that we want to track.
 
-Unlike in the JSON file, when you create the entire table the data type of each column is specified. The data types are things like numbers, booleans and strings.
+Unlike in the JSON file, when you create the entire table \(before there's any data inside\) the data type of each column is specified. The data types are things like numbers, booleans and strings.
 
 _The weight of a kind of fruit._
 
