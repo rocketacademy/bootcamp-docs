@@ -61,8 +61,7 @@
 
 ### In-Class
 
-* Cookies
-* SQL
+* [3.ICE.5: Cookies](../../3-back-end-application/3.ice-in-class-exercises/3.ice.5-cookies.md)
 
 ### Post-Class
 
