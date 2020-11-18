@@ -14,6 +14,16 @@ Install [postgres.app](https://postgresapp.com/). Open the application and follo
 
 ### Windows
 
+```text
+sudo apt update
+sudo apt upgrade
+sudo apt install postgresql
+sudo apt install postgresql-client
+
+```
+
+
+
 [https://linuxhint.com/install\_postgresql\_-ubuntu/](https://linuxhint.com/install_postgresql_-ubuntu/)
 
 
