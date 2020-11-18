@@ -19,10 +19,32 @@ sudo apt update
 sudo apt upgrade
 sudo apt install postgresql
 sudo apt install postgresql-client
-
+sudo service postgresql start
 ```
 
+```text
+sudo "$(which code)" /etc/postgresql/12/main/pg_hba.conf
+```
 
+```text
+# TYPE  DATABASE        USER            ADDRESS                 METHOD
+
+# IPv4 local connections:
+host    all             all             nnn.nn.nnn.nnn/32       trust
+host    all             all             127.0.0.1/32            trust
+# IPv6 local connections:
+host    all             all             ::1/128                 trust
+```
+
+```text
+sudo service postgresql restart
+```
+
+```text
+sudo su - postgres
+createuser -s <USER>
+createdb <USER>
+```
 
 [https://linuxhint.com/install\_postgresql\_-ubuntu/](https://linuxhint.com/install_postgresql_-ubuntu/)
 
