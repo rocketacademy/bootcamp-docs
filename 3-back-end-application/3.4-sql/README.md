@@ -34,6 +34,8 @@ _All fruits_
 
 One kind of data in your table. A table has a column each for every type of data that we want to track.
 
+Unlike in the JSON file, when you create the entire table the data type of each column is specified. The data types are things like numbers, booleans and strings.
+
 _The weight of a kind of fruit._
 
 #### Row
