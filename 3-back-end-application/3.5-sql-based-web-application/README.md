@@ -8,11 +8,13 @@ When we deploy this application in its final form \(on the service Heroku\) the 
 
 ## Setup
 
+For our initial engagement with SQL we will use the `psql` command line app to get used to writing raw SQL queries.
+
 ### Mac 
 
 Install [postgres.app](https://postgresapp.com/). Open the application and follow the setup instructions.
 
-### Windows
+### Windows \(in WSL\)
 
 Install Postgres
 
