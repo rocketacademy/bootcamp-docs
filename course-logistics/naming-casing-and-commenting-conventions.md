@@ -60,6 +60,10 @@ Git branches are typically named with kebab-case, e.g. `my-new-feature`.
 
 URL entities that consist of multiple words are separated by hyphens. For example, `www.mysite.com/my-url-entity`.
 
+### SQL Table and Column Names
+
+SQL column names should be in snake\_case. SQL is case-insensitive, and SQL commands such as CREATE and WHERE are often capitalised, thus lowercase is preferred for column names. Underscores are preferred over hyphens to separate words because hyphens are special characters in some SQL implementations.
+
 ## Commenting
 
 For function-level comments, consider using [JSDoc format](https://jsdoc.app/about-getting-started.html#adding-documentation-comments-to-your-code) for clearer identification of functions and what they do.
