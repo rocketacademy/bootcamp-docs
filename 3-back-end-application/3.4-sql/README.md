@@ -52,3 +52,15 @@ One piece of data of the column type. A hard rule of SQL is that a cell can neve
 
 _The weight data \(a number\) of one kind of fruit._
 
+## SQL Query vs Search
+
+The SQL database we are building is a data store that structures our data and stores it so that we can get it back out.
+
+It will not be setup to make searches against all the rows in all tables. We'll be doing a query across, at most, 2-3 tables at a time.
+
+A SQL query that we design to be run within the app is something that has the intention to find a row or set of rows within a couple of tables.
+
+A search is a different idea, where it tries to find relevant things within a bunch of the data held within the app.
+
+If the search is "leong" that could refer to data across multiple tables, \(cat name, address, last name, etc.\) and within the idea of a search we might want to suggest things like capitalization, singular vs. plural, popular search, etc. The is what a _search engine application_ does. SQL has some of these functionality, but  a normal web application is not setup to give these result through a SQL query.
+
