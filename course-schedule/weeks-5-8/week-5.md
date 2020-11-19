@@ -57,7 +57,7 @@
 
 * [3.4: SQL](../../3-back-end-application/3.4-sql/)
 * [3.4.1: Intro to SQL](../../3-back-end-application/3.4-sql/3.4.1-intro-to-sql.md)
-* [3.6.1: Cookies](../../3-back-end-application/3.6-user-auth/3.6.1-cookies.md)
+* [3.6.1: Cookies](../../3-back-end-application/3.6-authentication/3.6.1-cookies.md)
 
 ### In-Class
 
