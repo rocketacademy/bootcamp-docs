@@ -24,3 +24,7 @@ A terminal is an interface that we can use to operate our computers through a te
 
 Code that is repeated in multiple places will little alteration. [https://en.wikipedia.org/wiki/Boilerplate\_code](https://en.wikipedia.org/wiki/Boilerplate_code)
 
+## Application Programming Interface \(API\)
+
+An API is an interface through which programmers can have computers perform pre-programmed logic. For example, data.gov.sg exposes an [API](https://data.gov.sg/dataset/realtime-weather-readings) for developers to obtain real-time weather information in their appllications through the API. 
+
