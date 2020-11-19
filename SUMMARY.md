@@ -127,7 +127,7 @@
   * [3.3.2: EJS Conditionals](3-back-end-application/3.3-intro-to-ejs/3.3.2-ejs-conditionals.md)
   * [3.3.3: Advanced EJS](3-back-end-application/3.3-intro-to-ejs/3.3.3-advanced-ejs.md)
 * [3.4: SQL](3-back-end-application/3.4-sql/README.md)
-  * [3.4.1: Intro to SQL](3-back-end-application/3.4-sql/3.4.1-intro-to-sql.md)
+  * [3.4.1: Basic SQL Commands](3-back-end-application/3.4-sql/3.4.1-intro-to-sql.md)
   * [3.4.2: SQL Relationships \(One to Many\)](3-back-end-application/3.4-sql/3.4.2-sql-relationships-one-to-many.md)
   * [3.4.3: SQL Relationships \(Many to Many\)](3-back-end-application/3.4-sql/3.4.3-sql-relationships-many-to-many.md)
   * [3.4.4: SQL Schema Design](3-back-end-application/3.4-sql/3.4.4-sql-schema-design.md)

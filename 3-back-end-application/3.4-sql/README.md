@@ -1,5 +1,7 @@
 # 3.4: SQL
 
+## Intro to SQL
+
 SQL \(Structured Query Language\) is a language that describes how to manipulate data organised in tables.
 
 It's distinct from the **database system**, which is the software that keeps data on the disk, and runs the SQL language in order to know what data to manipulate on disk.
@@ -16,23 +18,25 @@ The literal data format stored on the hard drive is determined by the implementa
 
 ![](../../.gitbook/assets/screen-shot-2020-11-14-at-2.10.22-pm.png)
 
+## SQL Data Organisation
+
+The organisation of data in a SQL system is the following: Database &gt; Table &gt; Column/Row &gt; Cell. Cells are always within Columns and Rows, Columns and Rows are always within Tables, and Tables are always within Databases.
+
 ![](../../.gitbook/assets/sql-database.jpg)
 
-The hierarchy of data in a SQL system is the following: Database &gt; Table &gt; Column/Row &gt; Cell. Cells are always within Columns and Rows, Columns and Rows are always within Tables, and Tables are always within Databases.
-
-#### Database
+### Database
 
 The data for an entire project / business / domain.
 
 _An entire grocery business._
 
-#### Table
+### Table
 
 A set of data for one "thing" or data type. A database has many tables.
 
 _All fruits_
 
-#### Column
+### Column
 
 One kind of data in your table. A table has a column each for every type of data that we want to track.
 
@@ -40,27 +44,21 @@ Unlike in the JSON file, when you create the entire table \(before there's any d
 
 _An integer number weight of a kind of fruit._ 
 
-#### Row
+### Row
 
 One set of data that represents one of the things your table tracks. 
 
 _One fruit._
 
-#### Cell
+### Cell
 
 One piece of data of the column type. A hard rule of SQL is that a cell can never contain more than one single piece of data.
 
 _The weight data \(a number\) of one kind of fruit._
 
-## SQL Query vs Search
+## SQL Query is Targeted Retrieval, not General Search
 
-The SQL database we are building is a data store that structures our data and stores it so that we can get it back out.
+SQL databases for web applications typically structure and store our data so that we can retrieve specific entries efficiently without traversing through all entries. A search is a different idea, where we might search across all entries in a database for potentially relevant data.
 
-It will not be setup to make searches against all the rows in all tables. We'll be doing a query across, at most, 2-3 tables at a time.
-
-A SQL query that we design to be run within the app is something that has the intention to find a row or set of rows within a couple of tables.
-
-A search is a different idea, where it tries to find relevant things within a bunch of the data held within the app.
-
-If the search is "leong" that could refer to data across multiple tables, \(cat name, address, last name, etc.\) and within the idea of a search we might want to suggest things like capitalization, singular vs. plural, popular search, etc. The is what a _search engine application_ does. SQL has some of these functionality, but  a normal web application is not setup to give these result through a SQL query.
+For example, a "search" for "osman" could refer to data across multiple tables such as cat name, address, and last name, and we might want to suggest search extensions such as capitalization, singular vs. plural, and popular searches. The is what a _search engine application_ does. SQL has some of this functionality, but a typical web application is not set up to give these results through a SQL query.
 
