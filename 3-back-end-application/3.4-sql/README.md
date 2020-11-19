@@ -1,8 +1,8 @@
-# 3.4 SQL
+# 3.4: SQL
 
-SQL is a language that describes how to get a set of organized data.
+SQL \(Structured Query Language\) is a language that describes how to manipulate data organised in tables.
 
-It's distinct from the **database system**, which is the software that keeps data on the disk, and runs the SQL language in order to know which data to retrieve from the disk.
+It's distinct from the **database system**, which is the software that keeps data on the disk, and runs the SQL language in order to know what data to manipulate on disk.
 
 SQL the language simply describes how a set of conceptual data should be stored and retrieved.
 
@@ -12,13 +12,13 @@ So far, we've seen a couple of different formats of data storage:
 * Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
 * Binary data, such as images.
 
-The literal data format stored on the hard drive is determined by the implementation of the SQL system, but the conceptual format of the data is simply a set of spreadsheets.
+The literal data format stored on the hard drive is determined by the implementation of the SQL system, but the conceptual format of the data is simply a set of tables.
 
 ![](../../.gitbook/assets/screen-shot-2020-11-14-at-2.10.22-pm.png)
 
 ![](../../.gitbook/assets/sql-database.jpg)
 
-The hierarchy of data in a SQL system is:
+The hierarchy of data in a SQL system is the following: Database &gt; Table &gt; Column/Row &gt; Cell. Cells are always within Columns and Rows, Columns and Rows are always within Tables, and Tables are always within Databases.
 
 #### Database
 
