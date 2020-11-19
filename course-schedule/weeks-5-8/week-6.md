@@ -17,8 +17,6 @@
 
 ### Post-Class
 
-
-
 ## Day 2
 
 ### Pre-Class
