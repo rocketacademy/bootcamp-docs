@@ -20,3 +20,7 @@ The command line is a text-based interface that we can use to operate our comput
 
 A terminal is an interface that we can use to operate our computers through a text-based "command line".
 
+## Boilerplate
+
+Code that is repeated in multiple places will little alteration. [https://en.wikipedia.org/wiki/Boilerplate\_code](https://en.wikipedia.org/wiki/Boilerplate_code)
+
