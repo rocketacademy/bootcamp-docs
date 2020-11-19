@@ -4,19 +4,23 @@
 
 SQL \(Structured Query Language\) is a language that describes how to manipulate data organised in tables.
 
-It's distinct from the **database system**, which is the software that keeps data on the disk, and runs the SQL language in order to know what data to manipulate on disk.
+It's distinct from the **database system**, which is the software that keeps data on the disk, and runs the SQL language to determine what data to manipulate on disk.
 
 SQL the language simply describes how a set of conceptual data should be stored and retrieved.
 
-So far, we've seen a couple of different formats of data storage:
+So far, we've seen some different formats of data storage:
 
 * Data stored in a plain file, separated by line endings \(\n\)
 * Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
 * Binary data, such as images.
 
-The literal data format stored on the hard drive is determined by the implementation of the SQL system, but the conceptual format of the data is simply a set of tables.
+The literal data format stored on the hard drive is determined by the implementation of the SQL system, but the conceptual format of the data is simply a set of tables, where each row is an "entry".
 
 ![](../../.gitbook/assets/screen-shot-2020-11-14-at-2.10.22-pm.png)
+
+{% hint style="info" %}
+You may have heard of NoSQL and be wondering what that is. NoSQL is a non-relational database implementation designed as an alternative to SQL for higher efficiency in certain use cases. SQL is more common and we will learn NoSQL later.
+{% endhint %}
 
 ## SQL Data Organisation
 
