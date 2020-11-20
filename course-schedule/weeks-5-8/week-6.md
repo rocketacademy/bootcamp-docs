@@ -11,7 +11,7 @@
 ### Pre-Class
 
 * [3.4.2: SQL Relationships \(One to Many\)](../../3-back-end-application/3.4-sql-language/3.4.2-sql-relationships-one-to-many.md)
-* [3.5.3: Express.js + PostgreSQL](../../3-back-end-application/3.5-sql-applications/3.5.3-express.js-+-postgresql.md)
+* [3.5.3: Express.js + PostgreSQL](../../3-back-end-application/3.5-sql-applications/3.5.3-postgresql-express-app.md)
 
 ### In-Class
 
