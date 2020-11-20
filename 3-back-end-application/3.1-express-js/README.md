@@ -1,4 +1,4 @@
-# 3.1: Intro to Express.js
+# 3.1: Express.js
 
 ![](../../.gitbook/assets/express.jpg)
 

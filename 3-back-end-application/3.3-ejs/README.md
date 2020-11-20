@@ -1,4 +1,4 @@
-# 3.3: Intro to EJS
+# 3.3: EJS
 
 ## What is EJS?
 

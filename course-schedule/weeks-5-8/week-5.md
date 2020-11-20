@@ -10,9 +10,9 @@
 
 ### Pre-Class
 
-* [3.1.2: Forms](../../3-back-end-application/3.1-intro-to-express-js/3.1.2-html-forms.md)
-* [3.1.3: POST](../../3-back-end-application/3.1-intro-to-express-js/3.1.3-post-request.body.md)
-* [3.3.2: EJS Conditionals](../../3-back-end-application/3.3-intro-to-ejs/3.3.2-ejs-conditionals.md)
+* [3.1.2: Forms](../../3-back-end-application/3.1-express-js/3.1.2-html-forms.md)
+* [3.1.3: POST](../../3-back-end-application/3.1-express-js/3.1.3-post-request.body.md)
+* [3.3.2: EJS Conditionals](../../3-back-end-application/3.3-ejs/3.3.2-ejs-conditionals.md)
 
 ### In-Class
 
@@ -26,7 +26,7 @@
 
 ### Pre-Class
 
-* [3.1.4: PUT/DELETE](../../3-back-end-application/3.1-intro-to-express-js/3.1.4-put-delete.md)
+* [3.1.4: PUT/DELETE](../../3-back-end-application/3.1-express-js/3.1.4-put-delete.md)
 
 ### In-Class
 
@@ -40,7 +40,7 @@
 
 ### Pre-Class
 
-* [3.3.3: Advanced EJS](../../3-back-end-application/3.3-intro-to-ejs/3.3.3-advanced-ejs.md)
+* [3.3.3: Advanced EJS](../../3-back-end-application/3.3-ejs/3.3.3-advanced-ejs.md)
 
 ### In-Class
 

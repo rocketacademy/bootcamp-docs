@@ -61,8 +61,8 @@
 ### Pre-Class
 
 * [3.0: Overview](../../3-back-end-application/3.0-module-3-overview.md)
-* [3.1: Intro to Express.js](../../3-back-end-application/3.1-intro-to-express-js/)
-* [3.1.1: Express.js + JSON](../../3-back-end-application/3.1-intro-to-express-js/3.1.1-express.js-+-json.md)
+* [3.1: Intro to Express.js](../../3-back-end-application/3.1-express-js/)
+* [3.1.1: Express.js + JSON](../../3-back-end-application/3.1-express-js/3.1.1-express.js-+-json.md)
 
 ### In-Class
 
@@ -77,8 +77,8 @@
 ### Pre-Class
 
 * [3.2: ES6 Spread / Destructure](../../3-back-end-application/3.2-es6-spread-destructure.md)
-* [3.3: Intro to EJS](../../3-back-end-application/3.3-intro-to-ejs/)
-* [3.3.1: EJS Loops](../../3-back-end-application/3.3-intro-to-ejs/3.3.1-ejs-loops.md)
+* [3.3: Intro to EJS](../../3-back-end-application/3.3-ejs/)
+* [3.3.1: EJS Loops](../../3-back-end-application/3.3-ejs/3.3.1-ejs-loops.md)
 
 ### In-Class
 
