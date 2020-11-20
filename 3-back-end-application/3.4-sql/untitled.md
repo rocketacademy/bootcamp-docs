@@ -40,7 +40,8 @@ Query that JOINs the two tables:
 ```text
  SELECT recipes.id, recipes.label, recipes.category_id, categories.id, categories.name
  FROM recipes                                                                                     
- INNER JOIN categories ON categories.id = recipes.category_id;
+ INNER JOIN categories
+ ON categories.id = recipes.category_id;
 ```
 
 ![](../../.gitbook/assets/join-venn.jpg)
@@ -52,4 +53,33 @@ An inner join is a query to find the overlapping values between two tables. This
 The result of the query is to output a new table that has one row when two rows from the joined tables matched. \(`categories.id` is equal to r`ecipes.category_id`\).
 
 ![](../../.gitbook/assets/join-table.jpg)
+
+Notice how the result of the query in psql is another table:
+
+```text
+ id |  label  | category_id | id | name
+----+---------+-------------+----+-------
+  1 | Udon    |           1 |  1 | vegan
+  2 | Mee Pok |           2 |  2 | keto
+  3 | Pasta   |           1 |  1 | vegan
+```
+
+### AS
+
+We can change the column names of this result by using `AS`:
+
+```text
+SELECT recipes.id, recipes.label, recipes.category_id AS recipe_category_id, categories.id AS category_id, categories.name
+FROM recipes                           
+INNER JOIN categories
+ON categories.id = recipes.category_id;
+```
+
+```text
+ id |  label  | recipe_category_id | category_id | name
+----+---------+--------------------+-------------+-------
+  1 | Udon    |                  1 |           1 | vegan
+  2 | Mee Pok |                  2 |           2 | keto
+  3 | Pasta   |                  1 |           1 | vegan
+```
 

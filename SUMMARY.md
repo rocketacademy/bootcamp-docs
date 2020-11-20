@@ -132,7 +132,6 @@
   * [3.4.3: SQL Relationships \(Many to Many\)](3-back-end-application/3.4-sql/3.4.3-sql-relationships-many-to-many.md)
   * [3.4.4: INNER JOIN](3-back-end-application/3.4-sql/untitled.md)
   * [3.4.5: SQL Schema Design](3-back-end-application/3.4-sql/3.4.5-sql-schema-design.md)
-  * [3.4.](3-back-end-application/3.4-sql/3.4..md)
 * [3.5: SQL-Based Web Application](3-back-end-application/3.5-sql-based-web-application/README.md)
   * [3.5.1: PostgreSQL](3-back-end-application/3.5-sql-based-web-application/3.5.1-postgresql.md)
   * [3.5.2: PostgreSQL Node Apps](3-back-end-application/3.5-sql-based-web-application/3.5.2-postgresql-cli.md)
