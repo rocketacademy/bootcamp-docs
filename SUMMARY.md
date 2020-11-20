@@ -133,7 +133,7 @@
   * [3.4.4: INNER JOIN](3-back-end-application/3.4-sql-language/untitled.md)
   * [3.4.5: SQL Schema Design](3-back-end-application/3.4-sql-language/3.4.5-sql-schema-design.md)
 * [3.5: SQL Applications](3-back-end-application/3.5-sql-applications/README.md)
-  * [3.5.1: PostgreSQL](3-back-end-application/3.5-sql-applications/3.5.1-postgresql.md)
+  * [3.5.1: PostgreSQL, psql](3-back-end-application/3.5-sql-applications/3.5.1-postgresql-psql.md)
   * [3.5.2: PostgreSQL Node Apps](3-back-end-application/3.5-sql-applications/3.5.2-postgresql-cli.md)
   * [3.5.3: Express.js + PostgreSQL](3-back-end-application/3.5-sql-applications/3.5.3-express.js-+-postgresql.md)
   * [3.5.4: Database Setup](3-back-end-application/3.5-sql-applications/3.5.4-database-setup.md)
