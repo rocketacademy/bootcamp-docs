@@ -12,7 +12,7 @@ For our initial engagement with SQL we will use the `psql` command line app to g
 
 ### Mac 
 
-Install [postgres.app](https://postgresapp.com/). Open the application and follow the setup instructions.
+Install [postgres.app](https://postgresapp.com/). Open the application and follow the setup instructions at [postgresapp.com](https://postgresapp.com).
 
 ### Windows \(in WSL\)
 
