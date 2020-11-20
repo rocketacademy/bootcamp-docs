@@ -55,8 +55,8 @@
 
 ### Pre-Class
 
-* [3.4: SQL](../../3-back-end-application/3.4-sql/)
-* [3.4.1: Intro to SQL](../../3-back-end-application/3.4-sql/3.4.1-intro-to-sql.md)
+* [3.4: SQL](../../3-back-end-application/3.4-sql-language/)
+* [3.4.1: Intro to SQL](../../3-back-end-application/3.4-sql-language/3.4.1-intro-to-sql.md)
 * [3.6.1: Cookies](../../3-back-end-application/3.6-authentication/3.6.1-cookies.md)
 
 ### In-Class
@@ -71,9 +71,9 @@
 
 ### Pre-Class
 
-* [3.5: SQL Based Web Application](../../3-back-end-application/3.5-sql-based-web-application/)
-* [3.5.1: PostgreSQL](../../3-back-end-application/3.5-sql-based-web-application/3.5.1-postgresql.md)
-* [3.5.2: PostgreSQL CLI](../../3-back-end-application/3.5-sql-based-web-application/3.5.2-postgresql-cli.md)
+* [3.5: SQL Based Web Application](../../3-back-end-application/3.5-sql-applications/)
+* [3.5.1: PostgreSQL](../../3-back-end-application/3.5-sql-applications/3.5.1-postgresql.md)
+* [3.5.2: PostgreSQL CLI](../../3-back-end-application/3.5-sql-applications/3.5.2-postgresql-cli.md)
 
 ### In-Class
 

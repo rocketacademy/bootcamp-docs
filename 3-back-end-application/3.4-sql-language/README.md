@@ -1,4 +1,4 @@
-# 3.4: SQL
+# 3.4: SQL Language
 
 ## Intro to SQL
 

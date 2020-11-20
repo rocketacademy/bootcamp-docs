@@ -1,4 +1,4 @@
-# 3.5: SQL-Based Web Application
+# 3.5: SQL Applications
 
 ![](../../.gitbook/assets/express-2.jpg)
 
