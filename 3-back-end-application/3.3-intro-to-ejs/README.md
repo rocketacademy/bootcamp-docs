@@ -107,6 +107,17 @@ app.get('/recipe/0', ...
 should render an EJS file called `recipe.ejs`. There are very few exceptions to this convention.
 {% endhint %}
 
+## Add .prettierignore File for Prettier to Ignore EJS
+
+VSCode interprets EJS files as HTML, and sometimes we do not want Prettier to format EJS as HTML. We will add a `.prettierignore` file at the root of the folder open in VSCode to ignore files with a `.ejs` file extension. 
+
+Please add a `.prettierignore` file at the root of the folder open in VSCode with the following contents. For example, if my `rocket` folder is open in VSCode with many subfolders such as `ice`, `prce`, `poce`, `projects`, I will add `.prettierignore` to the `rocket` folder and not any of its subfolders. More info on Prettier Ignore [here](https://prettier.io/docs/en/ignore.html).
+
+```text
+# Ignore all EJS files
+*.ejs
+```
+
 ## Exercise
 
 Run the above code.
