@@ -43,10 +43,10 @@ sudo "$(which code)" /etc/postgresql/12/main/pg_hba.conf
 # TYPE  DATABASE        USER            ADDRESS                 METHOD
 
 # IPv4 local connections:
-host    all             all             nnn.nn.nnn.nnn/32       trust
-host    all             all             127.0.0.1/32            trust
+local    all            all                                     trust
+host     all            all             127.0.0.1/32            trust
 # IPv6 local connections:
-host    all             all             ::1/128                 trust
+host     all            all             ::1/128                 trust
 ```
 
 Restart to get the new configs:
@@ -61,6 +61,12 @@ Create a user and database named after your Ubuntu user:
 sudo su - postgres
 createuser -s <USER>
 createdb <USER>
+```
+
+Exit out of the postgres user
+
+```text
+exit
 ```
 
 Test it:
