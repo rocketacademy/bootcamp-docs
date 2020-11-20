@@ -77,3 +77,11 @@ psql
 
 [https://linuxhint.com/install\_postgresql\_-ubuntu/](https://linuxhint.com/install_postgresql_-ubuntu/)
 
+{% hint style="warning" %}
+When you restart your computer you may have to start up the Postgres server: 
+
+```text
+sudo service postgresql start
+```
+{% endhint %}
+
