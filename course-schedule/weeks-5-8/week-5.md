@@ -56,7 +56,7 @@
 ### Pre-Class
 
 * [3.4: SQL](../../3-back-end-application/3.4-sql-language/)
-* [3.4.1: Intro to SQL](../../3-back-end-application/3.4-sql-language/3.4.1-intro-to-sql.md)
+* [3.4.1: Intro to SQL](../../3-back-end-application/3.4-sql-language/3.4.1-basic-sql-commands.md)
 * [3.6.1: Cookies](../../3-back-end-application/3.6-authentication/3.6.1-cookies.md)
 
 ### In-Class
