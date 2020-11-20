@@ -1,4 +1,4 @@
-# 3.4.3: INNER JOIN
+# 3.4.4: INNER JOIN
 
 ## Setup
 
