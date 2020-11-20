@@ -83,3 +83,17 @@ ON categories.id = recipes.category_id;
   3 | Pasta   |                  1 |           1 | vegan
 ```
 
+### WHERE
+
+Almost all of our INNER JOIN queries will have a WHERE clause.
+
+Get a list of recipes with the category name for each recipe for all the vegan recipes:
+
+```text
+SELECT recipes.id, recipes.label, recipes.category_id AS recipe_category_id, categories.id AS category_id, categories.name
+FROM recipes                           
+INNER JOIN categories
+ON categories.id = recipes.category_id
+WHERE category_id=1;
+```
+
