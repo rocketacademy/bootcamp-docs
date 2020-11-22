@@ -159,6 +159,7 @@
   * [3.PCE.3: Express - UFOs](3-back-end-application/3.pce-post-class-exercises/3.pce.3-express-ufos.md)
   * [3.PCE.4: SQL Meal Tracker](3-back-end-application/3.pce-post-class-exercises/3.pce.4-sql-meal-keeper.md)
   * [3.PCE.5: Bird Watching](3-back-end-application/3.pce-post-class-exercises/3.pce.5-bird-watching.md)
+  * [3.PCE.6: Bird Watching Users](3-back-end-application/3.pce-post-class-exercises/3.pce.6-bird-watching-users.md)
 
 ## 4️⃣ Full-Stack Application
 
