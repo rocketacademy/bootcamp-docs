@@ -10,9 +10,9 @@ SQL the language simply describes how a set of conceptual data should be stored 
 
 So far, we've seen some different formats of data storage:
 
-- Data stored in a plain file, separated by line endings \(\n\)
-- Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
-- Binary data, such as images.
+* Data stored in a plain file, separated by line endings \(\n\)
+* Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
+* Binary data, such as images.
 
 The literal data format stored on the hard drive is determined by the implementation of the SQL system, but the conceptual format of the data is simply a set of tables, where each row is an "entry".
 
@@ -65,3 +65,4 @@ _The weight data \(a number\) of one kind of fruit._
 SQL databases for web applications typically structure and store our data so that we can retrieve specific entries efficiently without traversing through all entries. A search is a different idea, where we might search across all entries in a database for potentially relevant data.
 
 For example, a "search" for "osman" could refer to data across multiple tables such as cat name, address, and last name, and we might want to suggest search extensions such as capitalization, singular vs. plural, and popular searches. The is what a _search engine application_ does. SQL has some of this functionality, but a typical web application is not set up to give these results through a SQL query.
+
