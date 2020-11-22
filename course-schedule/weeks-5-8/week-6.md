@@ -2,7 +2,7 @@
 
 ## Topics
 
-* SQL
+* SQL Relationships
 * Postgres
 * Express.js + SQL
 
