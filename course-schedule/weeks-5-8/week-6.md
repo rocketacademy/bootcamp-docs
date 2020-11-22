@@ -31,7 +31,11 @@
 
 ### In-Class
 
+* Many to Many
+
 ### Post-Class
+
+* [3.PCE.6: Bird Watching Users](../../3-back-end-application/3.pce-post-class-exercises/3.pce.6-bird-watching-users.md)
 
 ## Day 3
 
@@ -42,7 +46,11 @@
 
 ### In-Class
 
+* Database Schema
+
 ### Post-Class
+
+* Bird Watching
 
 ## Day 4
 
@@ -52,7 +60,11 @@
 
 ### In-Class
 
+* Database Schema
+
 ### Post-Class
+
+* Bird Watching
 
 ## Day 5
 
@@ -62,5 +74,11 @@
 
 ### In-Class
 
+* Database  Schema 
+
 ### Post-Class
+
+* Bird Watching
+
+
 
