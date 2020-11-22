@@ -11,12 +11,16 @@
 ### Pre-Class
 
 * [3.4.2: SQL Relationships \(One to Many\)](../../3-back-end-application/3.4-sql-language/3.4.2-sql-relationships-one-to-many.md)
-* 3.5.3: Nested Queries
-* 3.5.4: Express.js + PostgreSQL
+* [3.5.3: Nested Queries](../../3-back-end-application/3.5-sql-applications/3.5.3-nested-sql-queries.md)
+* [3.5.4: Express.js + PostgreSQL](../../3-back-end-application/3.5-sql-applications/3.5.4-postgresql-express-app.md)
 
 ### In-Class
 
+* [3.ICE.6: One-to-Many](../../3-back-end-application/3.ice-in-class-exercises/3.ice.6-one-to-many.md)
+
 ### Post-Class
+
+* [3.PCE.5: Bird Watching](../../3-back-end-application/3.pce-post-class-exercises/3.pce.5-bird-watching.md)
 
 ## Day 2
 
