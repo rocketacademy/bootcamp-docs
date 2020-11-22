@@ -4,14 +4,15 @@
 
 * Express.js
 * EJS
-* Intro to SQL
+* SQL
+* Cookies
 
 ## Day 1
 
 ### Pre-Class
 
 * [3.1.2: Forms](../../3-back-end-application/3.1-express-js/3.1.2-html-forms.md)
-* [3.1.3: POST](../../3-back-end-application/3.1-express-js/3.1.3-post-request.body.md)
+* [3.1.3: POST Requests](../../3-back-end-application/3.1-express-js/3.1.3-post-requests.md) 
 * [3.3.2: EJS Conditionals](../../3-back-end-application/3.3-ejs/3.3.2-ejs-conditionals.md)
 
 ### In-Class
@@ -26,7 +27,7 @@
 
 ### Pre-Class
 
-* [3.1.4: PUT/DELETE](../../3-back-end-application/3.1-express-js/3.1.4-put-delete.md)
+* [3.1.4: PUT, DELETE Requests](../../3-back-end-application/3.1-express-js/3.1.4-put-delete-requests.md)
 
 ### In-Class
 
@@ -55,8 +56,8 @@
 
 ### Pre-Class
 
-* [3.4: SQL](../../3-back-end-application/3.4-sql-language/)
-* [3.4.1: Intro to SQL](../../3-back-end-application/3.4-sql-language/3.4.1-basic-sql-commands.md)
+* [3.4: SQL Language](../../3-back-end-application/3.4-sql-language/)
+* [3.4.1: Basic SQL Commands](../../3-back-end-application/3.4-sql-language/3.4.1-basic-sql-commands.md)
 * [3.6.1: Cookies](../../3-back-end-application/3.6-authentication/3.6.1-cookies.md)
 
 ### In-Class
@@ -71,13 +72,13 @@
 
 ### Pre-Class
 
-* [3.5: SQL Based Web Application](../../3-back-end-application/3.5-sql-applications/)
-* [3.5.1: PostgreSQL](../../3-back-end-application/3.5-sql-applications/3.5.1-postgresql-psql.md)
-* [3.5.2: PostgreSQL CLI](../../3-back-end-application/3.5-sql-applications/3.5.2-postgresql-node-app.md)
+* [3.5: SQL Applications](../../3-back-end-application/3.5-sql-applications/)
+* [3.5.1: PostgreSQL, psql](../../3-back-end-application/3.5-sql-applications/3.5.1-postgresql-psql.md)
+* [3.5.2: PostgreSQL Node App](../../3-back-end-application/3.5-sql-applications/3.5.2-postgresql-node-app.md)
 
 ### In-Class
 
-* Review UFO App
+* [Project Presentation: 3.PCE.3](../../course-logistics/course-methodology.md#project-presentations)
 
 ### Post-Class
 
