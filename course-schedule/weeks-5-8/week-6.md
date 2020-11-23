@@ -3,8 +3,8 @@
 ## Topics
 
 * SQL Relationships
-* Postgres
 * Express.js + SQL
+* User Authentication
 
 ## Day 1
 
