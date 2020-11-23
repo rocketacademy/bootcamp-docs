@@ -31,7 +31,7 @@
 
 ### In-Class
 
-* Joins
+* [3.ICE.7: Inner Joins](../../3-back-end-application/3.ice-in-class-exercises/3.ice.7-inner-join.md)
 
 ### Post-Class
 
