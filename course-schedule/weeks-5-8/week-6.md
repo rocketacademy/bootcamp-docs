@@ -31,7 +31,7 @@
 
 ### In-Class
 
-* Many to Many
+* Joins
 
 ### Post-Class
 
@@ -43,11 +43,10 @@
 
 * [3.6.3: Password Hashing](../../3-back-end-application/3.6-authentication/3.6.3-password-hashing.md)
 * [3.4.3: SQL Relationships \(Many to Many\)](../../3-back-end-application/3.4-sql-language/3.4.3-sql-relationships-many-to-many.md)
-* SQL Database Schema Building
 
 ### In-Class
 
-* Database Schema
+* Many-to-Many
 
 ### Post-Class
 
