@@ -41,8 +41,8 @@
 
 ### Pre-Class
 
-* [3.6.3: Password Hashing](../../3-back-end-application/3.6-authentication/3.6.3-password-hashing.md)
 * [3.4.3: SQL Relationships \(Many to Many\)](../../3-back-end-application/3.4-sql-language/3.4.3-sql-relationships-many-to-many.md)
+* [3.6.3: Password Hashing](../../3-back-end-application/3.6-authentication/3.6.3-password-hashing.md)
 
 ### In-Class
 
@@ -56,8 +56,8 @@
 
 ### Pre-Class
 
+* [3.4.5: Multi-Foreign Key Relationships](../../3-back-end-application/3.4-sql-language/3.4.5-multi-foreign-key-relationships.md)
 * [3.6.4: Session Hashing](../../3-back-end-application/3.6-authentication/3.6.4-session-hashing.md)
-* [3.4.5: Multi-Foreign Key Relationships](../../3-back-end-application/3.4-sql-language/3.4.5-multiple-foreign-keys.md)
 
 ### In-Class
 
@@ -71,15 +71,13 @@
 
 ### Pre-Class
 
-* SQL Database Schema Building
+* [3.4.6: SQL Schema Design](../../3-back-end-application/3.4-sql-language/3.4.6-sql-schema-design.md)
 
 ### In-Class
 
-* Database  Schema 
+* Database Schema 
 
 ### Post-Class
 
 * Bird Watching
-
-
 
