@@ -130,7 +130,7 @@
   * [3.4.1: Basic SQL Commands](3-back-end-application/3.4-sql-language/3.4.1-basic-sql-commands.md)
   * [3.4.2: SQL Relationships \(One to Many\)](3-back-end-application/3.4-sql-language/3.4.2-sql-relationships-one-to-many.md)
   * [3.4.3: SQL Relationships \(Many to Many\)](3-back-end-application/3.4-sql-language/3.4.3-sql-relationships-many-to-many.md)
-  * [3.4.4: INNER JOIN](3-back-end-application/3.4-sql-language/3.4.4-inner-join.md)
+  * [3.4.4: Inner Join](3-back-end-application/3.4-sql-language/3.4.4-inner-join.md)
   * [3.4.5: Multiple Foreign Keys](3-back-end-application/3.4-sql-language/3.4.5-multiple-foreign-keys.md)
   * [3.4.6: SQL Schema Design](3-back-end-application/3.4-sql-language/3.4.6-sql-schema-design.md)
 * [3.5: SQL Applications](3-back-end-application/3.5-sql-applications/README.md)
