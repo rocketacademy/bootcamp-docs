@@ -26,7 +26,7 @@
 
 ### Pre-Class
 
-* [3.4.4: INNER JOIN](../../3-back-end-application/3.4-sql-language/3.4.4-inner-join.md)
+* [3.4.4: Inner Join](../../3-back-end-application/3.4-sql-language/3.4.4-inner-join.md)
 * [3.6.2: User Auth](../../3-back-end-application/3.6-authentication/3.6.2-user-auth.md)
 
 ### In-Class
