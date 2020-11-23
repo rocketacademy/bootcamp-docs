@@ -57,11 +57,11 @@
 ### Pre-Class
 
 * [3.6.4: Session Hashing](../../3-back-end-application/3.6-authentication/3.6.4-session-hashing.md)
-* SQL Database Schema Building
+* [3.4.5: Multi-Foreign Key Relationships](../../3-back-end-application/3.4-sql-language/3.4.5-multiple-foreign-keys.md)
 
 ### In-Class
 
-* Database Schema
+* Multi-Foreign Key
 
 ### Post-Class
 
