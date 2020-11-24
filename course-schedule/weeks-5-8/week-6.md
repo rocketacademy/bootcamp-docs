@@ -50,7 +50,7 @@
 
 ### Post-Class
 
-* Bird Watching
+* [3.PCE.7: Bird Watching Species](../../3-back-end-application/3.pce-post-class-exercises/3.pce.7-bird-watching-species.md)
 
 ## Day 4
 
