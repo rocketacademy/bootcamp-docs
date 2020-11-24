@@ -7,7 +7,7 @@ This app is a culmination of everything that you've learned about server-side we
 #### Your app must:
 
 * Have at least 2 SQL tables.
-* Have at least 1 full CRUD route \(create, edit, delete, etc\).
+* Have at least 1 full CRUD route \(create, retrieve, update, delete\).
 * Render HTML.
 * Use CSS.
 
