@@ -36,6 +36,7 @@
 ## 🏞 Projects
 
 * [Project 1: Video Poker](projects/project-1-video-poker.md)
+* [Project 2: Server Side App](projects/project-2-server-side-app.md)
 
 ## 1️⃣ Front-End Basics
 

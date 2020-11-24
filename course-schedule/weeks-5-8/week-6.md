@@ -73,6 +73,7 @@
 ### Pre-Class
 
 * [3.4.6: SQL Schema Design](../../3-back-end-application/3.4-sql-language/3.4.6-sql-schema-design.md)
+* [3.5.6: Many-to-Many forms](../../3-back-end-application/3.5-sql-applications/3.5.6-rendering-many-to-many-forms.md)
 
 ### In-Class
 
