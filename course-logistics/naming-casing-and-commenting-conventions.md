@@ -60,6 +60,10 @@ Sometimes we have variables that are constant in our program and used in multipl
 
 Constants are typically cased with [SCREAMING\_SNAKE\_CASE](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) by convention, e.g. `GAME_MODE_DEAL_CARDS`.
 
+### Environment Variables
+
+SCREAM\_CASE. `MY_ENV_VAR`.
+
 ### File Names
 
 JavaScript file names typically use [lowerCamelCase](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats). Other file and folder names typically use [kebab-case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) or [snake\_case](https://en.wikipedia.org/wiki/Naming_convention_%28programming%29#Examples_of_multiple-word_identifier_formats) for easy typing and autocomplete in the terminal. 
