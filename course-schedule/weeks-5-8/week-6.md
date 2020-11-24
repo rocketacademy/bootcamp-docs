@@ -58,6 +58,7 @@
 
 * [3.4.5: Multi-Foreign Key Relationships](../../3-back-end-application/3.4-sql-language/3.4.5-multi-foreign-key-relationships.md)
 * [3.6.4: Session Hashing](../../3-back-end-application/3.6-authentication/3.6.4-session-hashing.md)
+* [3.5.5: One-to-Many Forms](../../3-back-end-application/3.5-sql-applications/3.5.5-rendering-one-to-many-forms.md)
 
 ### In-Class
 
