@@ -18,7 +18,7 @@ Your app must be complete in the sense that it cannot rely on the theoretical ex
 
 You are responsible for any seed data your app would need to run. The final version of your app must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
 
-Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app that we will learn in [Module 4](../4-full-stack-application/4.0-module-4-overview.md)\), there are certain ideas that will be more easily accomplished when we bring in more modern technologies such as the following. No worries if you don't have them for now.
+Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app that we will learn in [Module 4](../4-full-stack-application/4.0-module-4-overview.md)\), there are certain ideas that will be more easily accomplished when we include more modern technologies such as the following. No worries if you don't have these for now.
 
 * Date or date-time input fields for scheduling or calendars.
 * User location using maps.
@@ -27,28 +27,20 @@ Given the relative restrictions of a server-side app that renders HTML pages \(a
 
 ## App Ideas
 
-In this module we have only covered the general mechanic of a web application that stores, changes and retrieves data using HTTP and HTML. In fact every single service or app on the internet has these properties.
+In Module 3 we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
-* Google stores website it finds and users search inside that database.
-* Uber stores drivers that are available and users ask drivers to pick them up.
-* Telegram stores messages between users.
-* EBay stores auction data.
+* Google stores websites and users retrieve those websites
+* Uber stores drivers and their availability and users retrieve available drivers nearby
+* Telegram stores messages between users and users retrieve and create those messages
+* EBay stores auction data and users retrieve products for auction
 
-That is not to say that the goal of project is to create Google, but that what a web application does is not GET and POST requests- it stores the data involved in it's core functionality \(ride pickup, auctions, search, etc.\).
+While we may not yet have the power to index websites like Google, we know enough to build prototypes of similar applications. Dream big. The role of a web application is not just to make GET and POST requests, but to store and retrieve data related to its core functionality, e.g. search, ride sharing, messaging, auctions.
 
-Your app idea is more compelling if it's use is for something specific and realistic. The best case is if it's actually something you yourself would use.
+Your app idea is more compelling if its purpose is for something specific and realistic. The best case is if it's actually something you yourself would use.
 
 ## Process
 
-This project is about polish, so we expect that half or even a majority of the time spent will be spent after the main features are finished.
+After choosing a project idea and reviewing it with instructors, we recommend planning the database schema and pages within your application. Create milestones so you know whether you are on track, and so that if you are short on time, you know what is crucial and what is optional.
 
-Refactoring or rewriting some or most of the app is encouraged. We hope that this code is something that can be proudly demonstrated to a potential employer. \(No last minute spaghetti code\).
-
-Given that, remember that speccing the specific stages and milestones in the project is a really important part of the process. Don't forge ahead without a plan.
-
-
-
-
-
-
+We expect half or more of our time to be spent on polish after finishing our apps' core functionalities. We encourage refactoring or rewriting some or most of the app for clear communication. Treat this as a portfolio project that you would show to prospective employers.
 
