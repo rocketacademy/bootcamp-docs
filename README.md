@@ -30,10 +30,10 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 | Project | Name |
 | :--- | :--- |
 | 1 | [Video Poker](projects/project-1-video-poker.md) |
-| 2 | Server side web application |
-| 3 | Full stack web application |
-| 4 | Full stack web application with React |
-| 5 | Full stack web application with React \(group project\) |
+| 2 | [Server-Side Web Application](projects/project-2-server-side-app.md) |
+| 3 | Full-Stack Web Application |
+| 4 | Full-Stack Web Application with React |
+| 5 | Full-Stack Web Application with React \(group project\) |
 | 6 | Final Project |
 
 ## Daily Meeting Agenda
