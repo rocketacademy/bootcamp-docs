@@ -132,7 +132,7 @@
   * [3.4.2: SQL Relationships \(One to Many\)](3-back-end-application/3.4-sql-language/3.4.2-sql-relationships-one-to-many.md)
   * [3.4.3: SQL Relationships \(Many to Many\)](3-back-end-application/3.4-sql-language/3.4.3-sql-relationships-many-to-many.md)
   * [3.4.4: Inner Join](3-back-end-application/3.4-sql-language/3.4.4-inner-join.md)
-  * [3.4.5: Relationship Data in Join Table](3-back-end-application/3.4-sql-language/3.4.5-relationship-data-in-join-table.md)
+  * [3.4.5: Non-FK-Relationship Data in Join Table](3-back-end-application/3.4-sql-language/3.4.5-non-fk-relationship-data-in-join-table.md)
   * [3.4.6: SQL Schema Design](3-back-end-application/3.4-sql-language/3.4.6-sql-schema-design.md)
 * [3.5: SQL Applications](3-back-end-application/3.5-sql-applications/README.md)
   * [3.5.1: PostgreSQL, psql](3-back-end-application/3.5-sql-applications/3.5.1-postgresql-psql.md)
