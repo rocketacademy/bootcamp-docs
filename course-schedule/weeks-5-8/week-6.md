@@ -46,7 +46,7 @@
 
 ### In-Class
 
-* Many-to-Many
+* [3.ICE.8: Many-to-Many](../../3-back-end-application/3.ice-in-class-exercises/3.ice.8-many-to-many.md)
 
 ### Post-Class
 
