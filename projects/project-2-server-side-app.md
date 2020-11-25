@@ -1,25 +1,28 @@
-# Project 2: Server Side App
+# Project 2: Server-Side App
 
-This app is a culmination of everything that you've learned about server-side web applications.
+## Introduction
+
+This app is a culmination of everything we've learned about server-side web applications. It is an open-ended project, meaning you will build something based on your unique needs.
 
 ## Requirements
 
-#### Your app must:
+Your app must have the following requirements.
 
-* Have at least 2 SQL tables.
-* Have at least 1 full CRUD route \(create, retrieve, update, delete\).
-* Render HTML.
-* Use CSS.
+* At least 3 SQL tables
+* At least 1 one-to-many and 1 many-to-many SQL relationship
+* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+* Render HTML
+* Use CSS
 
-Your app must be a complete working thing. It cannot rely on the theoretical existence of another system, e.g., "_if I had access to a bank account database system, then my app would...._"
+Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
 
-You are responsible for creating any fake data that your app would need to fully run. The final version of your app must be populated to a degree with data that looks at least semi-realistic. A social media app cannot have 1 post, 1 comment and 1 like in the entire system.
+You are responsible for any seed data your app would need to run. The final version of your app must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
 
-Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app\), there are certain ideas that will be more easily accomplished when we bring in more modern technologies such as:
+Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app that we will learn in [Module 4](../4-full-stack-application/4.0-module-4-overview.md)\), there are certain ideas that will be more easily accomplished when we bring in more modern technologies such as the following. No worries if you don't have them for now.
 
-* User inputted date, time or date range, such as scheduling or calendars.
-* User location and using maps.
-* Anything involving a typeahead UI.
+* Date or date-time input fields for scheduling or calendars.
+* User location using maps.
+* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
 * Anything where the user might have to drag or draw something.
 
 ## App Ideas
