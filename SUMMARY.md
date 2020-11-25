@@ -169,6 +169,7 @@
   * [3.PCE.5: Bird Watching](3-back-end-application/3.pce-post-class-exercises/3.pce.5-bird-watching.md)
   * [3.PCE.6: Bird Watching Users](3-back-end-application/3.pce-post-class-exercises/3.pce.6-bird-watching-users.md)
   * [3.PCE.7: Bird Watching Species](3-back-end-application/3.pce-post-class-exercises/3.pce.7-bird-watching-species.md)
+  * [3.PCE.8: Bird Watching Behaviour](3-back-end-application/3.pce-post-class-exercises/3.pce.8-bird-watching-behaviour.md)
 
 ## 4️⃣ Full-Stack Application
 
