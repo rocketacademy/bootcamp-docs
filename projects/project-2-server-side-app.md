@@ -8,22 +8,18 @@ This app is a culmination of everything we've learned about server-side web appl
 
 Your app must have the following requirements.
 
-* At least 3 SQL tables
-* At least 1 one-to-many and 1 many-to-many SQL relationship
-* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
 * Render HTML
 * Use CSS
+* Serve webpages with Express.js and EJS
+* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+* At least 3 SQL tables
+* At least 1 one-to-many and 1 many-to-many SQL relationship
+* Username and password login
+* Session authentication for login-only pages
 
 Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
 
 You are responsible for any seed data your app would need to run. The final version of your app must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
-
-Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app that we will learn in [Module 4](../4-full-stack-application/4.0-module-4-overview.md)\), there are certain ideas that will be more easily accomplished when we include more modern technologies such as the following. No worries if you don't have these for now.
-
-* Date or date-time input fields for scheduling or calendars.
-* User location using maps.
-* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
-* Anything where the user might have to drag or draw something.
 
 ## App Ideas
 
@@ -43,4 +39,13 @@ Your app idea is more compelling if its purpose is for something specific and re
 After choosing a project idea and reviewing it with instructors, we recommend planning the database schema and pages within your application. Create milestones so you know whether you are on track, and so that if you are short on time, you know what is crucial and what is optional.
 
 We expect half or more of our time to be spent on polish after finishing our apps' core functionalities. We encourage refactoring or rewriting some or most of the app for clear communication. Treat this as a portfolio project that you would show to prospective employers.
+
+## Additional Notes
+
+Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app that we will learn in [Module 4](../4-full-stack-application/4.0-module-4-overview.md)\), there are certain ideas that will be more easily accomplished when we include more modern technologies such as the following. No worries if you don't have these for now.
+
+* Date or date-time input fields for scheduling or calendars.
+* User location using maps.
+* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
+* Anything where the user might have to drag or draw something.
 
