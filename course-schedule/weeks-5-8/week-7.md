@@ -21,7 +21,7 @@
 
 ### In-Class
 
-* Review Bird Watching
+* [3.ICE.11: Bird Watching Redux](../../3-back-end-application/3.ice-in-class-exercises/3.ice.11-bird-watching-redux.md)
 
 ### Post-Class
 
