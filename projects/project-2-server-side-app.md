@@ -34,9 +34,19 @@ While we may not yet have the power to index websites like Google, we know enoug
 
 Your app idea is more compelling if its purpose is for something specific and realistic. The best case is if it's actually something you yourself would use.
 
-## Process
+## Project Timeline
 
-After choosing a project idea and reviewing it with instructors, we recommend planning the database schema and pages within your application. Create milestones so you know whether you are on track, and so that if you are short on time, you know what is crucial and what is optional.
+| Day of Week | Course Day | Deliverable |
+| :--- | :--- | :--- |
+| Thu | W6D4 | Introduce Project 2 |
+| Fri | W6D5 | Post project ideas in Slack for feedback |
+| Mon | W7D1 | Review project idea with instructors, start working on sitemaps, wireframes, and DB ERDs |
+| Tue | W7D2 | Finalise project idea with sitemaps, wireframes, and DB ERDs |
+| Fri | W7D5 | Core functionality complete |
+| Wed | W8D3 | Polish complete |
+| Fri | W8D5 | Project Presentations |
+
+After choosing a project idea and reviewing it with instructors, we recommend planning the pages and database schema within your application. Create milestones so you know whether you are on track, and so that if you are short on time, you know what is crucial and what is optional.
 
 We expect half or more of our time to be spent on polish after finishing our apps' core functionalities. We encourage refactoring or rewriting some or most of the app for clear communication. Treat this as a portfolio project that you would show to prospective employers.
 
