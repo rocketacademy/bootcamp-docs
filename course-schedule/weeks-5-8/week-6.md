@@ -82,6 +82,6 @@
 
 ### Post-Class
 
-* Bird Watching
+* [3.PCE.9: Bird Watching Comments](../../3-back-end-application/3.pce-post-class-exercises/3.pce.9-bird-watching-comments.md)
 * [Project 2 Brainstorming](../../projects/project-2-server-side-app.md)
 
