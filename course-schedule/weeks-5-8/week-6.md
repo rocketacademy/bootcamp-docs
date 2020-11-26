@@ -62,12 +62,12 @@
 
 ### In-Class
 
-* Multi-Foreign Key
+* [3.ICE.9: Multiple Foreign Keys](../../3-back-end-application/3.ice-in-class-exercises/3.ice.9-multi-foreign-key.md)
 
 ### Post-Class
 
 * [Project 2 Brainstorming](../../projects/project-2-server-side-app.md)
-* Bird Watching
+* [3.PCE.8: Bird Watching Behaviour](../../3-back-end-application/3.pce-post-class-exercises/3.pce.8-bird-watching-behaviour.md)
 
 ## Day 5
 
