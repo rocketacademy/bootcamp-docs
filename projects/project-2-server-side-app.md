@@ -74,10 +74,18 @@ Your app idea is more compelling if its purpose is for something specific and re
 
 ## Additional Notes
 
+### Separating Logic and UI Concerns
+
+In general, our Express middleware should handle all business logic, for example determining whether a user is authenticated, or querying the DB, making calculations for any data that should be rendered. Our EJS templates should be focused on the UI, i.e. displaying the data passed to it.
+
+### Frontend Limitations
+
 Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app that we will learn in [Module 4](../4-full-stack-application/4.0-module-4-overview.md)\), there are certain ideas that will be more easily accomplished when we include more modern technologies such as the following. No worries if you don't have these for now.
 
 * Date or date-time input fields for scheduling or calendars.
 * User location using maps.
 * Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
 * Anything where the user might have to drag or draw something.
+
+### 
 
