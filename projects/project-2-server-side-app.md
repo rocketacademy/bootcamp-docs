@@ -23,16 +23,16 @@ You are responsible for any seed data your app would need to run. The final vers
 
 ## App Ideas
 
-In Module 3 we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
+In [Module 3](../3-back-end-application/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
 * Google stores websites and users retrieve those websites
 * Uber stores drivers and their availability and users retrieve available drivers nearby
 * Telegram stores messages between users and users retrieve and create those messages
 * EBay stores auction data and users retrieve products for auction
 
-While we may not yet have the power to index websites like Google, we know enough to build prototypes of similar applications. Dream big. The role of a web application is not just to make GET and POST requests, but to store and retrieve data related to its core functionality, e.g. search, ride sharing, messaging, auctions.
+While we may not yet have the power to index websites like Google, we know enough to build prototypes of similar applications. The role of a web application is not just to make GET and POST requests, but to store and retrieve data related to its core functionality, e.g. search, ride sharing, messaging, auctions.
 
-Your app idea is more compelling if its purpose is for something specific and realistic. The best case is if it's actually something you yourself would use.
+Your app idea is more compelling if its purpose is for something specific and realistic. The best case is if it's actually something you yourself would use. Consider Module 3 PCE and ICE exercises as inspiration.
 
 ## Project Timeline
 
