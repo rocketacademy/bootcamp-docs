@@ -161,6 +161,7 @@
   * [3.ICE.7: Inner Join](3-back-end-application/3.ice-in-class-exercises/3.ice.7-inner-join.md)
   * [3.ICE.8: Many to Many](3-back-end-application/3.ice-in-class-exercises/3.ice.8-many-to-many.md)
   * [3.ICE.9: Multiple Foreign Keys](3-back-end-application/3.ice-in-class-exercises/3.ice.9-multi-foreign-key.md)
+  * [3.ICE.10: DB Schema Design](3-back-end-application/3.ice-in-class-exercises/3.ice.10-db-schema-design.md)
 * [3.PCE: Post-Class Exercises](3-back-end-application/3.pce-post-class-exercises/README.md)
   * [3.PCE.1: Express Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app.md)
   * [3.PCE.2: Express, EJS Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)

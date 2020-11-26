@@ -78,7 +78,7 @@
 
 ### In-Class
 
-* SQL Schema Design
+* [3.ICE.10: DB Design](../../3-back-end-application/3.ice-in-class-exercises/3.ice.10-db-schema-design.md)
 
 ### Post-Class
 
