@@ -66,8 +66,8 @@
 
 ### Post-Class
 
-* [Project 2 Brainstorming](../../projects/project-2-server-side-app.md)
 * [3.PCE.8: Bird Watching Behaviour](../../3-back-end-application/3.pce-post-class-exercises/3.pce.8-bird-watching-behaviour.md)
+* [Project 2 Brainstorming](../../projects/project-2-server-side-app.md)
 
 ## Day 5
 
@@ -78,9 +78,10 @@
 
 ### In-Class
 
-* Database Schema 
+* SQL Schema Design
 
 ### Post-Class
 
 * Bird Watching
+* [Project 2 Brainstorming](../../projects/project-2-server-side-app.md)
 
