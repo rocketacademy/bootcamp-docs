@@ -27,6 +27,10 @@
 
 ### Pre-Class
 
+* 3.6.5: Express Middleware
+
+### Pre-Class
+
 ### In-Class
 
 ### Post-Class
