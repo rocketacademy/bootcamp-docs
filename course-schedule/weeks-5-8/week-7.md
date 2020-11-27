@@ -4,8 +4,6 @@
 
 * Server Side Data App
 
-
-
 ## Topics
 
 * CSS
@@ -27,5 +25,33 @@
 
 ## Day 2
 
+### Pre-Class
 
+### In-Class
+
+### Post-Class
+
+## Day 3
+
+### Pre-Class
+
+### In-Class
+
+### Post-Class
+
+## Day 4
+
+### Pre-Class
+
+### In-Class
+
+### Post-Class
+
+## Day 5
+
+### Pre-Class
+
+### In-Class
+
+### Post-Class
 

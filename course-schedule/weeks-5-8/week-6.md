@@ -4,6 +4,7 @@
 
 * SQL Relationships
 * Express.js + SQL
+* SQL Schema Design
 * User Authentication
 
 ## Day 1
