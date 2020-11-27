@@ -2,11 +2,11 @@
 
 ## Project
 
-* Server Side Data App
+* [Project 2: Server-Side App](../../projects/project-2-server-side-app.md)
 
 ## Topics
 
-* CSS
+* JavaScript Promises
 
 ## Day 1
 
