@@ -27,7 +27,7 @@
 
 ### Pre-Class
 
-* 3.6.5: Express Middleware
+* [3.6.5: Auth Middleware](../../3-back-end-application/3.6-authentication/3.6.5-user-auth-w-middleware.md)
 
 ### Pre-Class
 
