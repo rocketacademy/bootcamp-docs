@@ -134,6 +134,7 @@
   * [3.4.4: Inner Join](3-back-end-application/3.4-sql-language/3.4.4-inner-join.md)
   * [3.4.5: Non-FK Relationship Data in Join Table](3-back-end-application/3.4-sql-language/3.4.5-non-fk-relationship-data-in-join-table.md)
   * [3.4.6: SQL Schema Design](3-back-end-application/3.4-sql-language/3.4.6-sql-schema-design.md)
+  * [3.4.7: Self-Referencing Foreign Keys](3-back-end-application/3.4-sql-language/3.4.7-self-referencing-foreign-keys.md)
 * [3.5: SQL Applications](3-back-end-application/3.5-sql-applications/README.md)
   * [3.5.1: PostgreSQL, psql](3-back-end-application/3.5-sql-applications/3.5.1-postgresql-psql.md)
   * [3.5.2: PostgreSQL Node App](3-back-end-application/3.5-sql-applications/3.5.2-postgresql-node-app.md)
