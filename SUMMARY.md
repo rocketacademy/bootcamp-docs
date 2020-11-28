@@ -146,6 +146,7 @@
   * [3.5.8: SQL + JS Dates](3-back-end-application/3.5-sql-applications/3.5.8-sql-+-js-dates.md)
   * [3.5.9: pg Promises](3-back-end-application/3.5-sql-applications/3.5.9-pg-promises.md)
   * [3.5.10: PGAdmin](3-back-end-application/3.5-sql-applications/3.5.10-pgadmin.md)
+  * [3.5.11: Uploads](3-back-end-application/3.5-sql-applications/3.5.11-uploads.md)
 * [3.6: Authentication](3-back-end-application/3.6-authentication/README.md)
   * [3.6.1: Cookies](3-back-end-application/3.6-authentication/3.6.1-cookies.md)
   * [3.6.2: User Auth](3-back-end-application/3.6-authentication/3.6.2-user-auth.md)
