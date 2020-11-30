@@ -27,7 +27,7 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Post-Class
 
-* Project 2 Planning
+* [Project 2](../../projects/project-2-server-side-app.md) Planning: Instructor 1-1s, Sitemaps, Wireframes, DB ERDs
 
 ## Day 2
 
