@@ -34,11 +34,13 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 * [3.6.5: Auth Middleware](../../3-back-end-application/3.6-authentication/3.6.5-user-auth-w-middleware.md)
 
-### Pre-Class
-
 ### In-Class
 
+* [3.ICE.12: DB Schema - Uber](../../3-back-end-application/3.ice-in-class-exercises/3.ice.12-db-schema-uber.md)
+
 ### Post-Class
+
+* [Project 2: Server-Side App](../../projects/project-2-server-side-app.md)
 
 ## Day 3
 
