@@ -166,6 +166,7 @@
   * [3.ICE.9: Multiple Foreign Keys](3-back-end-application/3.ice-in-class-exercises/3.ice.9-multi-foreign-key.md)
   * [3.ICE.10: DB Schema Design](3-back-end-application/3.ice-in-class-exercises/3.ice.10-db-schema-design.md)
   * [3.ICE.11: Bird Watching Redux](3-back-end-application/3.ice-in-class-exercises/3.ice.11-bird-watching-redux.md)
+  * [3.ICE.12: DB Schema - Uber](3-back-end-application/3.ice-in-class-exercises/3.ice.12-db-schema-uber.md)
 * [3.PCE: Post-Class Exercises](3-back-end-application/3.pce-post-class-exercises/README.md)
   * [3.PCE.1: Express Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app.md)
   * [3.PCE.2: Express, EJS Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)
