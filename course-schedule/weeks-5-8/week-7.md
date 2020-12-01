@@ -63,6 +63,8 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
+* [3.5.11: Uploads](../../3-back-end-application/3.5-sql-applications/3.5.11-uploads.md)
+
 ### In-Class
 
 ### Post-Class
