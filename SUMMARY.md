@@ -153,7 +153,7 @@
   * [3.6.3: Password Hashing](3-back-end-application/3.6-authentication/3.6.3-password-hashing.md)
   * [3.6.4: Session Hashing](3-back-end-application/3.6-authentication/3.6.4-session-hashing.md)
   * [3.6.5: User Auth w/ Middleware](3-back-end-application/3.6-authentication/3.6.5-user-auth-w-middleware.md)
-* [3.7: Promises](3-back-end-application/3.7-promises.md)
+* [3.7: JavaScript Promises](3-back-end-application/3.7-javascript-promises.md)
 * [3.ICE: In-Class Exercises](3-back-end-application/3.ice-in-class-exercises/README.md)
   * [3.ICE.1: Bigfoot](3-back-end-application/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
   * [3.ICE.2: Bigfoot EJS](3-back-end-application/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
