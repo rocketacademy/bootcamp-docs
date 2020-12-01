@@ -33,7 +33,7 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
-* [3.5.7: DB Setup Files](../../3-back-end-application/3.5-sql-applications/3.5.7-database-setup-files.md)
+* [3.5.7: Database Setup Files](../../3-back-end-application/3.5-sql-applications/3.5.7-database-setup-files.md)
 * [3.6.5: Auth Middleware](../../3-back-end-application/3.6-authentication/3.6.5-user-auth-w-middleware.md)
 
 ### In-Class
