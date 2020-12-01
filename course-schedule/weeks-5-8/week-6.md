@@ -18,11 +18,11 @@
 ### In-Class
 
 * [3.ICE.6: One to Many](../../3-back-end-application/3.ice-in-class-exercises/3.ice.6-one-to-many.md)
-* Introduce [Project 2: Server-Side App](../../projects/project-2-server-side-app.md), ideas due by EOW
 
 ### Post-Class
 
 * [3.PCE.5: Bird Watching](../../3-back-end-application/3.pce-post-class-exercises/3.pce.5-bird-watching.md)
+* [Project 2 Planning: Ideation](../../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ## Day 2
 
@@ -69,7 +69,6 @@
 ### Post-Class
 
 * [3.PCE.8: Bird Watching Behaviour](../../3-back-end-application/3.pce-post-class-exercises/3.pce.8-bird-watching-behaviour.md)
-* [Project 2 Brainstorming](../../projects/project-2-server-side-app.md)
 
 ## Day 5
 
@@ -86,5 +85,5 @@
 
 * [3.PCE.9: Bird Watching Comments](../../3-back-end-application/3.pce-post-class-exercises/3.pce.9-bird-watching-comments.md)
 * [3.PCE.10: Deployment](../../3-back-end-application/3.pce-post-class-exercises/3.pce.10-deployment.md)
-* [Project 2 Brainstorming](../../projects/project-2-server-side-app.md)
+* [Project 2 Planning: Ideation Deadline](../../projects/project-2-server-side-app.md#ideation-phase-1)
 
