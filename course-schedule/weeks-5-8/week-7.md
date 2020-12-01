@@ -18,7 +18,7 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
-* [3.7: Promises](../../3-back-end-application/3.7-promises.md)
+* [3.7: JavaScript Promises](../../3-back-end-application/3.7-promises.md)
 * [3.5.9: pg Promises](../../3-back-end-application/3.5-sql-applications/3.5.9-pg-promises.md)
 
 ### In-Class
