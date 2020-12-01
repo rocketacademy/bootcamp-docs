@@ -2,7 +2,7 @@
 
 ## Project
 
-* Server Side Data App
+* [Project 2: Server-Side App](../../projects/project-2-server-side-app.md)
 
 ## Day 1
 
@@ -12,6 +12,8 @@
 
 ### Post-Class
 
+* Project 2 Implementation
+
 ## Day 2
 
 ### Pre-Class
@@ -19,6 +21,8 @@
 ### In-Class
 
 ### Post-Class
+
+* Project 2 Implementation
 
 ## Day 3
 
@@ -28,6 +32,8 @@
 
 ### Post-Class
 
+* Project 2 Implementation
+
 ## Day 4
 
 ### Pre-Class
@@ -36,6 +42,8 @@
 
 ### Post-Class
 
+* Project 2 Implementation
+
 ## Day 5
 
 ### Pre-Class
@@ -43,4 +51,6 @@
 ### In-Class
 
 ### Post-Class
+
+* Project 2 Implementation
 

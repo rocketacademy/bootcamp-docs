@@ -4,15 +4,15 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 # Week 7
 
-## Project
-
-* [Project 2: Server-Side App](../../projects/project-2-server-side-app.md)
-
 ## Topics
 
 * JavaScript Promises
 * Custom Middleware for Auth
 * JavaScript Dates
+
+## Project
+
+* [Project 2: Server-Side App](../../projects/project-2-server-side-app.md)
 
 ## Day 1
 
@@ -57,6 +57,8 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Post-Class
 
+* Project 2 Implementation
+
 ## Day 4
 
 ### Pre-Class
@@ -65,6 +67,8 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Post-Class
 
+* Project 2 Implementation
+
 ## Day 5
 
 ### Pre-Class
@@ -72,4 +76,6 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 ### In-Class
 
 ### Post-Class
+
+* Project 2 Implementation
 
