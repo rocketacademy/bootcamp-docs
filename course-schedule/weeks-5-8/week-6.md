@@ -18,6 +18,7 @@
 ### In-Class
 
 * [3.ICE.6: One to Many](../../3-back-end-application/3.ice-in-class-exercises/3.ice.6-one-to-many.md)
+* Introduce [Project 2: Server-Side App](../../projects/project-2-server-side-app.md), ideas due by EOW
 
 ### Post-Class
 
