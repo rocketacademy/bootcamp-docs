@@ -51,7 +51,7 @@ After each project we will spend time in class for presentations. Each student w
 3. Discussion of some of the biggest challenges the student faced when working on the project
 4. Discussion of what the student would like to do next if he/she had more time on the project
 
-### How to Save In-Class Exercise Code to a New GitHub Repo
+### How to Save Generic Exercise Code to a New GitHub Repo
 
 Sometimes we might want to save pre-class or in-class exercise work to a repo in our own GitHubs, but we completed the exercises on a copy of the [base-node-swe1 repo](https://github.com/rocketacademy/base-node-swe1) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
 
