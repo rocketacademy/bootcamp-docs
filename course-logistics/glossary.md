@@ -32,9 +32,9 @@ An API is an interface through which programmers can have computers perform pre-
 
 Schema can refer to a few things, but in general it refers to a "blueprint" or "plan" for a database structure.
 
-1. Relation or Table Schema
-2. Database Schema
+1. Database Schema
+2. Relation or Table Schema
 3. PostgreSQL Schema
 
-See this [Stack Overflow answer](https://stackoverflow.com/a/298765) for a definition of \#1 and \#2, and [Postgres documentation](https://www.postgresql.org/docs/13/ddl-schemas.html) for \#3. We will rarely be using definition \#3 in SWE1.
+See this [Stack Overflow answer](https://stackoverflow.com/a/298765) for definitions of \#1 and \#2, and [Postgres documentation](https://www.postgresql.org/docs/13/ddl-schemas.html) for \#3. We will rarely be using definition \#3 in SWE1.
 
