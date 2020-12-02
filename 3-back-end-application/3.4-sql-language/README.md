@@ -66,3 +66,9 @@ SQL databases for web applications typically structure and store our data so tha
 
 For example, a "search" for "osman" could refer to data across multiple tables such as cat name, address, and last name, and we might want to suggest search extensions such as capitalization, singular vs. plural, and popular searches. The is what a _search engine application_ does. SQL has some of this functionality, but a typical web application is not set up to give these results through a SQL query.
 
+## Further Reading
+
+See the following resources for further reading on SQL usage and database design that may not be covered in SWE1.
+
+1. [https://cs145-fa20.github.io/](https://cs145-fa20.github.io/)
+
