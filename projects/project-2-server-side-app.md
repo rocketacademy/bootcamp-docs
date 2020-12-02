@@ -47,6 +47,17 @@ Given the relative restrictions of a server-side app that renders HTML pages, th
 * Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
 * Anything where the user might have to drag or draw something.
 
+### File Uploading
+
+If your app idea involves file uploading, [3.5.11: File Uploads](../3-back-end-application/3.5-sql-applications/3.5.11-file-uploads.md) is a primer on how to accomplish this using the technologies we have learned so far.
+
+### 3rd-Party APIs
+
+The following are some ideas for 3rd-party APIs that we can use in our apps.
+
+* [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
+* [Data.gov.sg APIs](https://data.gov.sg/)
+
 ## Project Timeline
 
 ### Summary
