@@ -51,6 +51,15 @@ After each project we will spend time in class for presentations. Each student w
 3. Discussion of some of the biggest challenges the student faced when working on the project
 4. Discussion of what the student would like to do next if he/she had more time on the project
 
+### How to Save In-Class Exercise Code to a New GitHub Repo
+
+Sometimes we might want to save pre-class or in-class exercise work to a repo in our own GitHubs, but we completed the exercises on a copy of the [base-node-swe1 repo](https://github.com/rocketacademy/base-node-swe1) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
+
+1. Create a new, empty repo in GitHub
+2. In your local copy of `base-node-swe1` that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL>` looks something like `https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and de-llink it from `base-node-swe1`.
+3. Run `git remote -v` to verify that our local repo is linked to the new repo in GitHub
+4. Commit any desired local changes and run `git push`. This will push the current state of the repo to the `origin` remote, which should be the new repo we created.
+
 ## Peer Code Review
 
 On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
