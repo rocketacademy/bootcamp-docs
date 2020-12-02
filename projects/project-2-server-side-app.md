@@ -25,6 +25,8 @@ You are responsible for any seed data your app would need to run. The final vers
 
 ## App Ideas
 
+### General Ideas
+
 In [Module 3](../3-back-end-application/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
 * Google stores websites and users retrieve those websites
@@ -35,6 +37,15 @@ In [Module 3](../3-back-end-application/3.0-module-3-overview.md) we covered gen
 While we may not yet have the power to index websites like Google, we know enough to build prototypes of similar applications. The role of a web application is not just to make GET and POST requests, but to store and retrieve data related to its core functionality, e.g. search, ride sharing, messaging, auctions.
 
 Your app idea is more compelling if its purpose is for something specific and realistic. The best case is if it's actually something you yourself would use. Consider Module 3 PCE and ICE exercises as inspiration.
+
+### Frontend Limitations
+
+Given the relative restrictions of a server-side app that renders HTML pages, there are certain ideas that will be more easily accomplished when we include more modern technologies. In later SWE1 modules we will learn how to incorporate 3rd-party JS libraries into our frontends to accomplish some of the following. No worries if you don't have these for now.
+
+* Date or date-time input fields for scheduling or calendars.
+* User location using maps.
+* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
+* Anything where the user might have to drag or draw something.
 
 ## Project Timeline
 
@@ -69,13 +80,4 @@ Plan the app implementation. Create planning docs: a [user-flow diagram](https:/
 ### Separating Logic and UI Concerns
 
 In general, our Express middleware should handle all business logic, for example determining whether a user is authenticated, or querying the DB, making calculations for any data that should be rendered. Our EJS templates should be focused on the UI, i.e. displaying the data passed to it.
-
-### Frontend Limitations
-
-Given the relative restrictions of a server-side app that renders HTML pages \(as compared to a modern full-stack app that we will learn in [Module 4](../4-full-stack-application/4.0-module-4-overview.md)\), there are certain ideas that will be more easily accomplished when we include more modern technologies such as the following. No worries if you don't have these for now.
-
-* Date or date-time input fields for scheduling or calendars.
-* User location using maps.
-* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
-* Anything where the user might have to drag or draw something.
 
