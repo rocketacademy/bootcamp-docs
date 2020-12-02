@@ -1,2 +1,2 @@
-# 2.PCE: Post Class Exercises
+# 2.PCE: Post-Class Exercises
 
