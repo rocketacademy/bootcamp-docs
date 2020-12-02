@@ -195,13 +195,15 @@
 
 * [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
 
-## 7️⃣ Advanced Topics
+## 8️⃣ Advanced React
+
+* [8.0: Module 8 Overview](8-advanced-react/untitled.md)
+
+## 9️⃣ Advanced Topics
+
+* [9.0: Advanced Topics Overview](9-advanced-topics/9.0-advanced-topics-overview.md)
 
 ## 🧮 Data Structures and Algorithms
 
 * [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview.md)
-
-## 8️⃣ Advanced React
-
-* [Untitled](8-advanced-react/untitled.md)
 
