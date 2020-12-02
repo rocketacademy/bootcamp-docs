@@ -53,7 +53,7 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### In-Class
 
-* [3.ICE.12: DB Schema - Uber](../../3-back-end-application/3.ice-in-class-exercises/3.ice.12-db-schema-uber.md)
+* [3.ICE.12: DB Schema Design - Uber](../../3-back-end-application/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
 
 ### Post-Class
 
@@ -63,7 +63,7 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
-* [3.5.11: Uploads](../../3-back-end-application/3.5-sql-applications/3.5.11-uploads.md)
+* [3.5.11: File Uploads](../../3-back-end-application/3.5-sql-applications/3.5.11-file-uploads.md)
 
 ### In-Class
 
