@@ -179,23 +179,29 @@
   * [3.PCE.9: Bird Watching Comments](3-back-end-application/3.pce-post-class-exercises/3.pce.9-bird-watching-comments.md)
   * [3.PCE.10: Deployment](3-back-end-application/3.pce-post-class-exercises/3.pce.10-deployment.md)
 
-## 4️⃣ Full-Stack Application
+## 4️⃣ Back-End Structure
 
-* [4.0: Module 4 Overview](4-full-stack-application/4.0-module-4-overview.md)
+* [4.0: Module 4 Overview](4-back-end-structure/4.0-module-4-overview.md)
 
-## 5️⃣ React
+## 5️⃣ Full-Stack
 
-* [5.0: Module 5 Overview](5-react/5.0-module-5-overview.md)
+* [5.0: Module 5 Overview](5-full-stack/5.0-module-5-overview.md)
 
-## 6️⃣ Advanced React
+## 6️⃣ Front-End Infrastructure
 
-* [6.0: Module 6 Overview](6-advanced-react/6.0-module-6-overview.md)
+* [6.0: Module 6 Overview](6-front-end-infrastructure/6.0-module-6-overview.md)
+
+## 7️⃣ React
+
+* [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
 
 ## 7️⃣ Advanced Topics
-
-* [7.0: Module 7 Overview](7-advanced-topics/7.0-module-7-overview.md)
 
 ## 🧮 Data Structures and Algorithms
 
 * [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview.md)
+
+## 8️⃣ Advanced React
+
+* [Untitled](8-advanced-react/untitled.md)
 
