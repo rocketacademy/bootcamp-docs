@@ -143,7 +143,7 @@
   * [3.5.5: Forms for One-to-Many Relationships](3-back-end-application/3.5-sql-applications/3.5.5-forms-for-one-to-many-relationships.md)
   * [3.5.6: Forms for Many-to-Many Relationships](3-back-end-application/3.5-sql-applications/3.5.6-forms-for-many-to-many-relationships.md)
   * [3.5.7: Database Setup Files](3-back-end-application/3.5-sql-applications/3.5.7-database-setup-files.md)
-  * [3.5.8: SQL + JS Dates](3-back-end-application/3.5-sql-applications/3.5.8-sql-+-js-dates.md)
+  * [3.5.8: Dates in SQL and JS](3-back-end-application/3.5-sql-applications/3.5.8-sql-+-js-dates.md)
   * [3.5.9: pg Promises](3-back-end-application/3.5-sql-applications/3.5.9-pg-promises.md)
   * [3.5.10: PGAdmin](3-back-end-application/3.5-sql-applications/3.5.10-pgadmin.md)
   * [3.5.11: File Uploads](3-back-end-application/3.5-sql-applications/3.5.11-file-uploads.md)
