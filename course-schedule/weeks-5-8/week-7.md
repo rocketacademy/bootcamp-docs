@@ -77,6 +77,8 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### In-Class
 
+* [3.ICE.13: Instagram DB](../../3-back-end-application/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
+
 ### Post-Class
 
 * Project 2 Implementation
