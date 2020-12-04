@@ -67,10 +67,10 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 | Mon | W6D1 | \[Ideation Phase 1\] Introduce Project 2, post project ideas in Slack for feedback |
 | Fri | W6D5 | Deadline to post project ideas in Slack |
 | Mon | W7D1 | \[Ideation Phase 2\] Create planning docs: user-flow diagram, DB ERD, and wireframes |
-| Tue | W7D2 | \[Start Implementation\] Deadline to finalise project idea and share planning docs in GitHub repo over Slack. Review planning docs with instructor. |
-| Fri | W7D5 | Core functionality complete |
-| Wed | W8D3 | Polish complete |
-| Fri | W8D5 | Project Presentations |
+| Tue | W7D2 | \[Start Implementation\] Deadline to finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
+| Mon | W8D1 | \[Core Functionality Complete\] 15-minute mid-point check-in with instructor. |
+| Wed | W8D3 | \[Deadline to Stop Adding Features\] Use remaining time to focus on polish. 15-minute review with instructor. |
+| Mon | W9D1 | \[Deadline to Finish Project\] Project presentations |
 
 ### Ideation Phase 1
 
