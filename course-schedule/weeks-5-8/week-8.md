@@ -6,13 +6,9 @@
 
 ## Day 1
 
-### Pre-Class
-
-TBD
-
 ### In-Class
 
-TBD
+* CSS Exercise
 
 ### Post-Class
 
@@ -20,13 +16,9 @@ TBD
 
 ## Day 2
 
-### Pre-Class
-
-TBD
-
 ### In-Class
 
-TBD
+* Scrum
 
 ### Post-Class
 
@@ -40,7 +32,7 @@ TBD
 
 ### In-Class
 
-TBD
+* CSS Exercise
 
 ### Post-Class
 
@@ -48,13 +40,9 @@ TBD
 
 ## Day 4
 
-### Pre-Class
-
-TBD
-
 ### In-Class
 
-TBD
+* Scrum
 
 ### Post-Class
 
@@ -62,13 +50,9 @@ TBD
 
 ## Day 5
 
-### Pre-Class
-
-TBD
-
 ### In-Class
 
-TBD
+* CSS Exercise
 
 ### Post-Class
 
