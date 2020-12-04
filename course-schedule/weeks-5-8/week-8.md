@@ -9,6 +9,7 @@
 ### In-Class
 
 * CSS Exercise
+* Scrum
 
 ### Post-Class
 
@@ -29,6 +30,7 @@
 ### In-Class
 
 * CSS Exercise
+* Scrum
 
 ### Post-Class
 
@@ -49,6 +51,7 @@
 ### In-Class
 
 * CSS Exercise
+* Scrum
 
 ### Post-Class
 
