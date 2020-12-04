@@ -26,10 +26,6 @@
 
 ## Day 3
 
-### Pre-Class
-
-TBD
-
 ### In-Class
 
 * CSS Exercise
