@@ -42,6 +42,14 @@ On any given day in SWE1, students will have Post-Class Exercises for the curren
 2. Pre-Class Exercises
 3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
 
+### Project Scrums
+
+Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). We will simulate this during SWE1 project weeks. Every morning we will take turns to share the following with each other, to make sure we are on-track with our projects and don't get stuck on blockers.
+
+1. What I did yesterday
+2. What I plan to do today
+3. Anything I am blocked on
+
 ### Project Presentations
 
 After each project we will spend time in class for presentations. Each student will have a chance to present, and presentations should cover the following:

@@ -38,12 +38,12 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### In-Class
 
-* Project 2 Planning: Peer Discussion
+* [Project 2 Planning: Peer Discussion](../../projects/project-2-server-side-app.md#ideation-phase-2)
 
 ### Post-Class
 
-* Project 2 Planning: Instructor 1-1s
-* Project 2 Implementation
+* [Project 2 Planning: Instructor 1-1s](../../projects/project-2-server-side-app.md#ideation-phase-2)
+* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ## Day 3
 
@@ -54,10 +54,11 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 ### In-Class
 
 * [3.ICE.12: DB Schema Design - Uber](../../3-back-end-application/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
-* Project 2 Implementation
+* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ## Day 4
 
@@ -67,19 +68,24 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### In-Class
 
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
+
 ### Post-Class
 
-* Project 2 Implementation
+* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ## Day 5
 
 ### Pre-Class
 
+No pre-class material today.
+
 ### In-Class
 
 * [3.ICE.13: Instagram DB](../../3-back-end-application/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
-* Project 2 Implementation
+* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
