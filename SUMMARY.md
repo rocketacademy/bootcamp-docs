@@ -168,6 +168,7 @@
   * [3.ICE.11: Bird Watching Redux](3-back-end-application/3.ice-in-class-exercises/3.ice.11-bird-watching-redux.md)
   * [3.ICE.12: DB Schema Design - Uber](3-back-end-application/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
   * [3.ICE.13: DB Schema Design - Instagram](3-back-end-application/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
+  * [3.ICE.14: CSS Practice](3-back-end-application/3.ice-in-class-exercises/3.ice.14-css-practice.md)
 * [3.PCE: Post-Class Exercises](3-back-end-application/3.pce-post-class-exercises/README.md)
   * [3.PCE.1: Express Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.1-express-noodle-app.md)
   * [3.PCE.2: Express, EJS Noodle App](3-back-end-application/3.pce-post-class-exercises/3.pce.2-express-ejs-noodle-app.md)
