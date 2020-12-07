@@ -9,18 +9,18 @@
 ### In-Class
 
 * [3.ICE.14: CSS Practice 2](../../3-back-end-application/3.ice-in-class-exercises/3.ice.14-css-practice-2.md)
-* Scrum
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
-* Project 2 Mid-Point Instructor Meeting \(30 minutes\)
+* [Project 2 Mid-Point Instructor Meeting \(30 minutes\)](../../projects/project-2-server-side-app.md#project-timeline)
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ## Day 2
 
 ### In-Class
 
-* Scrum
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
@@ -30,8 +30,8 @@
 
 ### In-Class
 
-* CSS Exercise
-* Scrum
+* CSS Practice 3
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
@@ -41,20 +41,20 @@
 
 ### In-Class
 
-* Scrum
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
-* Project 2 Feature Freeze \(no new features, focus on polish\)
-* Project 2 Pre-Presentation Meeting \(15 minutes\)
+* [Project 2 Feature Freeze \(no new features, focus on polish\)](../../projects/project-2-server-side-app.md#project-timeline)
+* [Project 2 Pre-Presentation Meeting \(15 minutes\)](../../projects/project-2-server-side-app.md#project-timeline)
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ## Day 5
 
 ### In-Class
 
-* CSS Exercise
-* Scrum
+* CSS Practice 4
+* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
