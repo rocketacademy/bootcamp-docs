@@ -8,7 +8,7 @@
 
 ### In-Class
 
-* [3.ICE.14: CSS](../../3-back-end-application/3.ice-in-class-exercises/3.ice.14-css-practice.md)
+* [3.ICE.14: CSS Practice 2](../../3-back-end-application/3.ice-in-class-exercises/3.ice.14-css-practice-2.md)
 * Scrum
 
 ### Post-Class
