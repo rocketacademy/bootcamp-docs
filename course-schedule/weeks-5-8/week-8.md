@@ -30,7 +30,7 @@
 
 ### In-Class
 
-* CSS Practice 3
+* [CSS Practice 3](../../3-back-end-application/3.ice-in-class-exercises/3.ice.15-css-practice-3.md)
 * [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
