@@ -31,6 +31,17 @@ module.exports = {
     // Allow param reassignments to properties of arrays or objects
     'no-param-reassign': ['error', { props: false }],
 
+    // in sequelize we need to combine commonJS and import with file
+    // extensions (mjs)
+    'import/extensions': 'off',
+
+    // no errors for an import statement
+    // eslint checks file paths
+    'import/no-unresolved': 'off',
+
+    //
+    'import/prefer-default-export': 'off',
+
     // Spell checker
     'spellcheck/spell-checker': [1,
       {
@@ -38,13 +49,6 @@ module.exports = {
         strings: true,
         identifiers: true,
         lang: 'en_GB',
-        skipWords: [
-          'etc',
-          'gitbook',
-          'dict',
-          'aff',
-          'utils',
-        ],
         skipIfMatch: [
           'http://[^s]*',
           '^[-\\w]+[-\\w\\.]+$', // For MIME Types
