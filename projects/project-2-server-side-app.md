@@ -64,13 +64,13 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 
 | Day of Week | Course Day | Deliverable |
 | :--- | :--- | :--- |
-| Mon | W6D1 | \[Ideation Phase 1\] Introduce Project 2, post project ideas in Slack for feedback |
+| Mon | W6D1 | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback |
 | Fri | W6D5 | Deadline to post project ideas in Slack |
-| Mon | W7D1 | \[Ideation Phase 2\] Create planning docs: user-flow diagram, DB ERD, and wireframes |
-| Tue | W7D2 | \[Start Implementation\] Deadline to finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
-| Mon | W8D1 | \[Core Functionality Complete\] 15-minute mid-point check-in with instructor. |
-| Wed | W8D3 | \[Deadline to Stop Adding Features\] Use remaining time to focus on polish. 15-minute review with instructor. |
-| Mon | W9D1 | \[Deadline to Finish Project\] Project presentations |
+| Mon | W7D1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
+| Tue | W7D2 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
+| Mon | W8D1 | Finish core functionality. Users should be able to perform the primary user story. 30-minute mid-point check-in with instructor. |
+| Thu | W8D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code, deployment to AWS. 30-minute review with instructor. |
+| Mon | W9D1 | Project presentations |
 
 ### Ideation Phase 1
 
