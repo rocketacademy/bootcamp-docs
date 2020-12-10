@@ -157,6 +157,7 @@
 * [3.8: Heroku](3-back-end-application/3.8-heroku/README.md)
   * [3.8.1: Heroku Deploy](3-back-end-application/3.8-heroku/3.8.1-heroku-deploy.md)
   * [3.8.2: Heroku Postgres](3-back-end-application/3.8-heroku/3.8.2-heroku-postgres.md)
+  * [3.8.3: Heroku S3](3-back-end-application/3.8-heroku/3.8.3-heroku-s3.md)
 * [3.ICE: In-Class Exercises](3-back-end-application/3.ice-in-class-exercises/README.md)
   * [3.ICE.1: Bigfoot](3-back-end-application/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
   * [3.ICE.2: Bigfoot EJS](3-back-end-application/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
