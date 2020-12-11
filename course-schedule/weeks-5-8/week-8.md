@@ -53,7 +53,6 @@
 
 ### In-Class
 
-* CSS Practice 4
 * [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
