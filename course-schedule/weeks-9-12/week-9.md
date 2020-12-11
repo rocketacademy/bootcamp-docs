@@ -25,6 +25,7 @@
 
 ### In-Class
 
+* Kenrick OCR Presentation \(15 minutes\)
 * Sequelize
 
 ### Post-Class
