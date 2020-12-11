@@ -11,11 +11,11 @@
 
 ### In-Class
 
-* Project Presentation
+* [Project 2 Presentations](../../course-logistics/course-methodology.md#project-presentations)
 
 ### Post-Class
 
-* Project Post-Mortem
+* [Project 2 Post-Mortems](../../projects/project-2-server-side-app.md#project-timeline)
 
 ## Day 2
 
