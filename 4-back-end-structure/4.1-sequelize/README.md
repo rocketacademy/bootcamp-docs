@@ -6,11 +6,11 @@ Sequelize is an ORM for PostgreSQL.
 
 You may have noticed that for each set of CRUD routes in an Express.js app, the SQL queries that need to be written follow a certain pattern:
 
-Create a thing?
+#### Create a thing?
 
 `INSERT INTO <TABLENAME> (<COLUMN_NAMES>) VALUES (<VALUES>);`
 
-Get a thing?
+#### Get a thing?
 
 `SELECT * FROM <TABLE_NAME> WHERE id=<ID>;`
 
