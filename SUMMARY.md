@@ -200,6 +200,12 @@
 ## 5️⃣ Full-Stack
 
 * [5.0: Module 5 Overview](5-full-stack/5.0-module-5-overview.md)
+* [5.1: Script](5-full-stack/5.1-script.md)
+* [5.2: DOM Manipulation](5-full-stack/5.2-dom-manipulation.md)
+* [5.3: AJAX](5-full-stack/5.3-ajax.md)
+* [5.PCE: Post-Class-Exercises](5-full-stack/5.pce-post-class-exercises/README.md)
+  * [5.PCE.1: Video Poker](5-full-stack/5.pce-post-class-exercises/5.pce.1-video-poker.md)
+  * [Untitled](5-full-stack/5.pce-post-class-exercises/untitled.md)
 
 ## 6️⃣ Front-End Infrastructure
 
