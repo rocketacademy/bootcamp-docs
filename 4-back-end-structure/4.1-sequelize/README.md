@@ -1,5 +1,7 @@
 # 4.1: Sequelize
 
+![](../../.gitbook/assets/logo-small.png)
+
 Sequelize is an ORM for PostgreSQL.
 
 You may have noticed that for each set of CRUD routes in an Express.js app, the SQL queries that need to be written follow a certain pattern:
