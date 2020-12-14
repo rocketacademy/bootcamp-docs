@@ -195,11 +195,15 @@
   * [4.1.3: Async Await](4-back-end-structure/4.1-async-await/4.1.3-async-await.md)
 * [4.2: ORM, Sequelize](4-back-end-structure/4.2-sequelize/README.md)
   * [4.2.1: Intro to Sequelize](4-back-end-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
-  * [4.2.2: Sequelize Relationships](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-relationships.md)
+  * [4.2.2: Sequelize One-to-Many](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-one-many.md)
 * [4.3: MVC](4-back-end-structure/4.3-mvc/README.md)
   * [4.3.1: Routes](4-back-end-structure/4.3-mvc/4.3.1-routes.md)
   * [4.3.2: Controllers](4-back-end-structure/4.3-mvc/4.3.2-controllers.md)
   * [4.3.3: Models](4-back-end-structure/4.3-mvc/4.3.3-models.md)
+* [4.ICE: In-Class Exercises](4-back-end-structure/4.ice-in-class-exercises/README.md)
+  * [4.ICE.1: Project 2 Redux](4-back-end-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
+* [4.PCE: Post-Class Exercises](4-back-end-structure/4.pce-post-class-exercises/README.md)
+  * [4.PCE.1: Heroku Deploy](4-back-end-structure/4.pce-post-class-exercises/4.pce.1-heroku-deploy.md)
 
 ## 5️⃣ Full-Stack
 
@@ -207,6 +211,7 @@
 * [5.1: Script](5-full-stack/5.1-script.md)
 * [5.2: DOM Manipulation](5-full-stack/5.2-dom-manipulation.md)
 * [5.3: AJAX](5-full-stack/5.3-ajax.md)
+* [5.4: Webpack](5-full-stack/5.4-webpack.md)
 * [5.PCE: Post-Class-Exercises](5-full-stack/5.pce-post-class-exercises/README.md)
   * [5.PCE.1: Video Poker](5-full-stack/5.pce-post-class-exercises/5.pce.1-video-poker.md)
   * [Untitled](5-full-stack/5.pce-post-class-exercises/untitled.md)
