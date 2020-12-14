@@ -119,18 +119,15 @@ If you both have working versions, implement a new feature in one of the project
 
 After each project an instructor will review your code with you 1-1. Please prepare answers to the following questions before the 1-1.
 
-### Code
+### Technical Review
 
 1. What part of the project went well, technically? Give at least one link to your repo as an example.
 2. What part the project was a struggle, technically? Give at least one link to your repo as an example.
+3. What technical adjustments would you make for the next project? Why?
 
-### Process
+### Process Review
 
 1. What in the approach and process during this project went well?
 2. What in the approach and process during this project did not go well?
-
-### Looking Ahead
-
-1. What technical adjustments would you make for the next project? Why?
-2. What would you change in your process and approach in the next project? Why?
+3. What would you change in your process and approach in the next project? Why?
 
