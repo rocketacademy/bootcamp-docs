@@ -189,7 +189,7 @@
 ## 4️⃣ Back-End Structure
 
 * [4.0: Module 4 Overview](4-back-end-structure/4.0-module-4-overview.md)
-* [4.1: Sequelize](4-back-end-structure/4.1-sequelize/README.md)
+* [4.1: ORM, Sequelize](4-back-end-structure/4.1-sequelize/README.md)
   * [4.1.1: Intro to Sequelize](4-back-end-structure/4.1-sequelize/4.1.1-intro-to-sequelize.md)
   * [4.1.2: Sequelize Relationships](4-back-end-structure/4.1-sequelize/4.1.2-sequelize-relationships.md)
 * [4.2: MVC](4-back-end-structure/4.2-mvc/README.md)
