@@ -41,6 +41,15 @@ module.exports = {
 
     //
     'import/prefer-default-export': 'off',
+    
+    // allow multi line arrow functions for readability
+    'arrow-body-style' : 'never',
+    
+    // allow throw of non objects
+    'no-throw-literal' : 'off'
+
+    // no max length for code examples
+    'max-len' : 'off'
 
     // Spell checker
     'spellcheck/spell-checker': [1,
