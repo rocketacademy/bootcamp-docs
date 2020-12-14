@@ -189,13 +189,17 @@
 ## 4️⃣ Back-End Structure
 
 * [4.0: Module 4 Overview](4-back-end-structure/4.0-module-4-overview.md)
-* [4.1: ORM, Sequelize](4-back-end-structure/4.1-sequelize/README.md)
-  * [4.1.1: Intro to Sequelize](4-back-end-structure/4.1-sequelize/4.1.1-intro-to-sequelize.md)
-  * [4.1.2: Sequelize Relationships](4-back-end-structure/4.1-sequelize/4.1.2-sequelize-relationships.md)
-* [4.2: MVC](4-back-end-structure/4.2-mvc/README.md)
-  * [4.2.1: Routes](4-back-end-structure/4.2-mvc/4.2.1-routes.md)
-  * [4.2.2: Controllers](4-back-end-structure/4.2-mvc/4.2.2-controllers.md)
-  * [4.2.3: Models](4-back-end-structure/4.2-mvc/4.2.3-models.md)
+* [4.1 Async Await](4-back-end-structure/4.1-async-await/README.md)
+  * [4.1.1: Try Catch](4-back-end-structure/4.1-async-await/4.1.1-try-catch.md)
+  * [4.1.2: Promises 2](4-back-end-structure/4.1-async-await/4.1.2-promises-2.md)
+  * [4.1.3: Async Await](4-back-end-structure/4.1-async-await/4.1.3-async-await.md)
+* [4.2: ORM, Sequelize](4-back-end-structure/4.2-sequelize/README.md)
+  * [4.2.1: Intro to Sequelize](4-back-end-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
+  * [4.2.2: Sequelize Relationships](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-relationships.md)
+* [4.3: MVC](4-back-end-structure/4.3-mvc/README.md)
+  * [4.3.1: Routes](4-back-end-structure/4.3-mvc/4.3.1-routes.md)
+  * [4.3.2: Controllers](4-back-end-structure/4.3-mvc/4.3.2-controllers.md)
+  * [4.3.3: Models](4-back-end-structure/4.3-mvc/4.3.3-models.md)
 
 ## 5️⃣ Full-Stack
 

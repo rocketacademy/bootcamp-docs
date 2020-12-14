@@ -1,4 +1,4 @@
-# 4.1: ORM, Sequelize
+# 4.2: ORM, Sequelize
 
 ## Introduction
 

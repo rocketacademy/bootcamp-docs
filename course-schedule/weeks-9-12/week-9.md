@@ -21,7 +21,7 @@
 
 ### Pre-Class
 
-* [Intro to Sequelize](../../4-back-end-structure/4.1-sequelize/4.1.1-intro-to-sequelize.md)
+* [Intro to Sequelize](../../4-back-end-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
 
 ### In-Class
 
