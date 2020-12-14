@@ -212,6 +212,7 @@
 * [5.2: DOM Manipulation](5-full-stack/5.2-dom-manipulation.md)
 * [5.3: AJAX](5-full-stack/5.3-ajax.md)
 * [5.4: Webpack](5-full-stack/5.4-webpack.md)
+* [5.ICE: In-Class Exercises](5-full-stack/5.ice-in-class-exercises.md)
 * [5.PCE: Post-Class-Exercises](5-full-stack/5.pce-post-class-exercises/README.md)
   * [5.PCE.1: Video Poker](5-full-stack/5.pce-post-class-exercises/5.pce.1-video-poker.md)
   * [Untitled](5-full-stack/5.pce-post-class-exercises/untitled.md)
