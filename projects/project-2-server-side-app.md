@@ -86,6 +86,10 @@ Plan the app implementation. Create planning docs: a [user-flow diagram](https:/
 2. Login functionality
 3. Any stretch functionality, e.g. AI APIs or file uploading
 
+### Post-Mortem Meeting
+
+Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor. 
+
 ## Additional Notes
 
 ### Separating Logic and UI Concerns
