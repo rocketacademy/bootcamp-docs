@@ -71,6 +71,7 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 | Mon | W8D1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
 | Thu | W8D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
 | Mon | W9D1 | Project presentations. 60-minute post-mortem with instructor. |
+| Tue | W9D2 | Project blog post. |
 
 ### Ideation Phase 1
 
@@ -82,13 +83,19 @@ Plan the app implementation. Create planning docs: a [user-flow diagram](https:/
 
 ### Recommended Order of Implementation
 
+Implement the core user story first. What are users coming to your app to do? Make sure they are able to accomplish that, before adding authentication and nice-to-have features.
+
 1. CRUD functionality
 2. Login functionality
 3. Any stretch functionality, e.g. AI APIs or file uploading
 
 ### Post-Mortem Meeting
 
-Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor. 
+Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
+
+### Project Blog Post
+
+To conclude this project, we will create a small technical blog post to share 1 concept we learned through this project. 
 
 ## Additional Notes
 
