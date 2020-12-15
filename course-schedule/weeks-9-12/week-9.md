@@ -30,7 +30,7 @@
 ### Post-Class
 
 * [4.PCE.1: Heroku Deploy](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.1-heroku-deploy.md)
-* Project 2 Blog Post
+* Start [Project 2 Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due W10D1\)
 
 ## Day 3
 
