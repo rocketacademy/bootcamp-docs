@@ -45,7 +45,7 @@
 ### In-Class
 
 * Kenrick OCR Presentation \(15 minutes\)
-* DB ERD
+* [4.ICE.2: AirBnB ERD](../../4-back-end-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
 
 ### Post-Class
 
@@ -56,6 +56,7 @@
 ### Pre-Class
 
 * [4.1.3: Async Await](../../4-back-end-structure/4.1-advanced-promise-handling/4.1.3-async-await.md)
+* [4.2.3: Sequelize Async Await](../../4-back-end-structure/4.2-sequelize/4.2.3-sequelize-async-await.md)
 * [4.3: MVC](../../4-back-end-structure/4.3-mvc.md)
 
 ### In-Class
