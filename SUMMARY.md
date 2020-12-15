@@ -189,10 +189,10 @@
 ## 4️⃣ Back-End Structure
 
 * [4.0: Module 4 Overview](4-back-end-structure/4.0-module-4-overview.md)
-* [4.1 Async Await](4-back-end-structure/4.1-async-await/README.md)
-  * [4.1.1: Try Catch](4-back-end-structure/4.1-async-await/4.1.1-try-catch.md)
-  * [4.1.2: Promises 2](4-back-end-structure/4.1-async-await/4.1.2-promises-2.md)
-  * [4.1.3: Async Await](4-back-end-structure/4.1-async-await/4.1.3-async-await.md)
+* [4.1: Advanced Promise Handling](4-back-end-structure/4.1-advanced-promise-handling/README.md)
+  * [4.1.1: Try Catch](4-back-end-structure/4.1-advanced-promise-handling/4.1.1-try-catch.md)
+  * [4.1.2: Promises 2](4-back-end-structure/4.1-advanced-promise-handling/4.1.2-promises-2.md)
+  * [4.1.3: Async Await](4-back-end-structure/4.1-advanced-promise-handling/4.1.3-async-await.md)
 * [4.2: ORM, Sequelize](4-back-end-structure/4.2-sequelize/README.md)
   * [4.2.1: Intro to Sequelize](4-back-end-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
   * [4.2.2: Sequelize One-to-Many](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-one-many.md)
