@@ -283,7 +283,7 @@ We are going to have a separate file in our app that is only for URL path matchi
 
 Since this is the file we'll be setting the callbacks, we will start dealing with the database in this file. The `db` instance, containing the connection pool, will be passed around so that every route has access to the database.
 
-Note the `getAll` key of `ItemsController` that we'll be creating in the controller file below.
+Note the `index` key of `ItemsController` that we'll be creating in the controller file below.
 
 #### routes.mjs
 
@@ -296,7 +296,7 @@ export default function routes( app ){
   // pass in the db for all items callbacks
   const ItemsController = items(db);
 
-  app.get('/items', ItemsController.getAll);
+  app.get('/items', ItemsController.index);
 }
 ```
 
@@ -313,11 +313,11 @@ We export a whole function \(`items`\), rather than each route callback separate
 // that we can make db queries inside
 export default function items(db){
 
-  const getAll = (request, response) => {
+  const index = (request, response) => {
 
     db.Item.findAll()
     .then((items) => {
-      response.render('items/all',{items});
+      response.render('items/index',{items});
     })
     .catch((error) => console.log(error));
   };
@@ -325,7 +325,7 @@ export default function items(db){
   // return all functions we define in an object
   // refer to the routes file above to see this used
   return {
-    getAll
+    index
   };
 }
 ```
@@ -334,13 +334,15 @@ export default function items(db){
 
 This example assumes you need to display a list of things.
 
+For convenience and consistency we can give standard names to the CRUD methods of our controllers. \(e.g., `index`\) See the [names table below](./#names) for a complete listing. 
+
 #### controllers/&lt;NAME\_PLURAL\_LOWERCASE&gt;.mjs
 
 ```javascript
 export default function <NAME_PLURAL_LOWERCASE>(db){
 
   // route to render a list of all the <NAME>
-  const getAll = (request, response) => {
+  const index = (request, response) => {
 
     db.<NAME>.findAll()
     .then((<NAME_PLURAL_LOWERCASE>) => {
@@ -350,7 +352,7 @@ export default function <NAME_PLURAL_LOWERCASE>(db){
   };
 
   return {
-    getAll
+    index
   };
 }
 ```
@@ -363,7 +365,7 @@ mkdir items
 
 Create one directory for each controller. Name it after the controller.
 
-#### views/items/all.ejs
+#### views/items/index.ejs
 
 ```javascript
 <% items.forEach( item => { %>
@@ -373,17 +375,17 @@ Create one directory for each controller. Name it after the controller.
 <% }) %>
 ```
 
-### Names
+## Names
 
 Across our entire app we should have standardized names for our CRUD actions.
 
-| URL Path | Method | Purpose | Controller Method Name | Sequelize Model Method Name |
-| :--- | :--- | :--- | :--- | :--- |
-| /items/new | GET | Render a form that will create a new item. | newForm | N/A |
-| /items | POST | Accept a POST request to create a new item. | create | create |
-| /items/:id | GET | Render a single item. | getOne | findOne |
-| /items | GET | Render a list of items. | getAll | findAll |
-| /items/:id/edit | GET | Render a form to edit a item. | editForm | N/A |
-| /items/:id | PUT | Accept a request to edit a single item | update | update |
-| /items/:id | DELETE | Accept a request to delete an item. | delete | destroy |
+| URL Path | Method | Purpose | Controller Method Name | View File Name | Sequelize Model Method Name |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| /items/new | GET | Render a form that will create a new item. | newForm | newForm | N/A |
+| /items | POST | Accept a POST request to create a new item. | create | N/A | create |
+| /items/:id | GET | Render a single item. | show | show | findOne |
+| /items | GET | Render a list of items. | index | index | findAll |
+| /items/:id/edit | GET | Render a form to edit a item. | editForm | editForm | N/A |
+| /items/:id | PUT | Accept a request to edit a single item | update | update | update |
+| /items/:id | DELETE | Accept a request to delete an item. | delete | delete | destroy |
 
