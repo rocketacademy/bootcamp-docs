@@ -71,7 +71,8 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 | Mon | W8D1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
 | Thu | W8D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
 | Mon | W9D1 | Project presentations. 60-minute post-mortem with instructor. |
-| Tue | W9D2 | Project blog post. |
+| Tue | W9D2 | Start project-2-based technical blog post. |
+| Mon | W10D1 | Blog post due. |
 
 ### Ideation Phase 1
 
@@ -93,9 +94,19 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
 
-### Project Blog Post
+### Technical Blog Post
 
-To conclude this project, we will create a small technical blog post to share 1 concept we learned through this project. 
+To conclude this project, we will create a small technical blog post to share 1 concept we learned. The goals of this post are:
+
+1. Help other developers by sharing knowledge
+2. Practise our written technical communication skills
+3. Impress potential recruiters and employers
+4. Help build the author's personal brand
+5. Help RA look good
+
+Your instructor will help you choose an idea during the Post-Mortem meeting. This concept will typically be something you struggled with and overcame during the project that might be helpful for other developers to learn. [Here](https://medium.com/quark-works/tips-on-how-to-write-your-first-successful-technical-blog-4cb65e5b4ce4) is a primer on how to write a technical blog post. If you do not have a preferred blog platform, please use [Medium](https://medium.com/) to create your post. Medium is a common platform for blog posts in general, including technical blog posts, and will help your post gain visibility due to Medium's strong SEO. [Here](https://help.medium.com/hc/en-us/articles/215194537-Using-the-story-editor#:~:text=To%20begin%20a%20code%20block,do%20not%20support%20syntax%20highlighting.) is how to insert code snippets in Medium.
+
+Please do not spend too long on this blog post. &lt;1 day should be sufficient, and the post does not need to be perfect. It is meant as a guide to solve the specific problem you faced, created for other developers that might face similar issues. We can share this and future blog posts on LinkedIn, our resumes, and on RA's website for visibility. If you would like, feel free to mention RA and link to our website [https://rocketacademy.co](https://rocketacademy.co) in your blog.
 
 ## Additional Notes
 
