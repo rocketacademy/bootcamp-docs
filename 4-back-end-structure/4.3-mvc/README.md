@@ -24,3 +24,330 @@ In our app everything left from our refactor that is not a model will go in the 
 
 We will have one more piece of our architecture. A separate file that only lists the URL path matching and HTTP methods \(i.e., `app.get`s and `app.post`s\).
 
+## App Setup
+
+
+## Models
+
+Let's setup our models:
+
+```text
+npm init
+```
+
+```text
+npm install pg sequelize
+npm install --save-dev sequelize-cli
+```
+
+Create the empty folders:
+
+```text
+mkdir config migrations models seeders
+```
+
+Create a config file:
+
+#### config/config.js
+
+```javascript
+module.exports = {
+  development: {
+    username: '<YOUR_USER_NAME>',
+    password: null,
+    database: 'grocerymvc_development',
+    host: '127.0.0.1',
+    dialect: 'postgres',
+  },
+};
+```
+
+## Create the database:
+
+```text
+npx sequelize-cli db:create
+```
+
+## Create the item table:
+
+```text
+npx sequelize-cli migration:generate --name create-item-table
+```
+
+Delete the entire contents of the file and write the table creation code:
+
+#### &lt;GENERATED\_DATE&gt;-create-item-table.js
+
+```javascript
+module.exports = {
+  up: async (queryInterface, Sequelize) => {
+
+    await queryInterface.createTable('Items', {
+      id: {
+        allowNull: false,
+        autoIncrement: true,
+        primaryKey: true,
+        type: Sequelize.INTEGER,
+      },
+      name: {
+        type: Sequelize.STRING,
+      },
+      createdAt: {
+        allowNull: false,
+        type: Sequelize.DATE,
+      },
+      updatedAt: {
+        allowNull: false,
+        type: Sequelize.DATE,
+      },
+      categoryId: {
+        allowNull: false,
+        type: Sequelize.INTEGER,
+        references: {
+          model: "Categories",
+          key: "id"
+        }
+      },
+    });
+  },
+
+  down: async (queryInterface, Sequelize) => {
+    await queryInterface.dropTable('items');
+  },
+};
+```
+
+### Create the table
+
+```text
+npx sequelize-cli db:migrate
+```
+
+Check it in psql:
+
+```text
+psql -d grocerymvc_development
+```
+
+## Create the model file:
+
+#### models/item.mjs
+
+```javascript
+export default function itemModel(sequelize, DataTypes) {
+  return sequelize.define('Item', {
+    id: {
+      allowNull: false,
+      autoIncrement: true,
+      primaryKey: true,
+      type: DataTypes.INTEGER,
+    },
+    name: {
+      type: DataTypes.STRING,
+    },
+    createdAt: {
+      allowNull: false,
+      type: DataTypes.DATE,
+    },
+    updatedAt: {
+      allowNull: false,
+      type: DataTypes.DATE,
+    },
+  });
+}
+```
+
+#### models/index.mjs
+
+```javascript
+import { Sequelize } from 'sequelize';
+import allConfig from '../config/config.js';
+
+import itemModel from './item.mjs';
+
+const env = process.env.NODE_ENV || 'development';
+
+const config = allConfig[env];
+
+const db = {};
+
+let sequelize = new Sequelize(config.database, config.username, config.password, config);
+
+db.Item = itemModel(sequelize, Sequelize.DataTypes);
+
+db.sequelize = sequelize;
+db.Sequelize = Sequelize;
+
+export default db;
+```
+
+## Seed
+
+```text
+npx sequelize-cli seed:generate --name fake-data
+```
+
+#### &lt;GENERATED\_DATE&gt;-fake-data.js
+
+```javascript
+module.exports = {
+  up: async (queryInterface) => {
+
+    const itemsList = [
+      {
+        name: 'doritos',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        name: 'mangoes',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      },
+      {
+        name: 'pork shoulder',
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }
+    ];
+
+    queryInterface.bulkInsert("Items", itemsList);
+
+  },
+
+  down: async (queryInterface) => {
+    await queryInterface.bulkDelete("Items", null, {});
+    await queryInterface.bulkDelete("Categories", null, {});
+  },
+};
+```
+
+Run the migration
+
+```javascript
+npx sequelize-cli db:seed:all
+```
+
+## Express.js
+
+Install Express.js and all the standard libraries:
+
+```
+npm install express ejs method-override cookie-parser 
+```
+
+Create the standard Express.js app directories:
+
+```
+mkdir views public
+```
+
+Standard Express.js index.js setup:
+
+index.js
+```js
+import express from 'express';
+import cookieParser from 'cookie-parser';
+import methodOverride from 'method-override';
+
+const app = express();
+
+app.use(cookieParser());
+
+app.set('view engine', 'ejs');
+
+app.use(express.urlencoded({ extended: false }));
+
+app.use(express.static('public'));
+
+app.use(methodOverride('_method'));
+
+const PORT = process.env.PORT || 3004;
+
+app.listen(PORT);
+```
+
+## Routes
+
+We are going to have a separate file in our app that is only for URL path matching functions. There are methods to split these up between files, but since route matching happens in the order they are set in `app`, it's convenient to have them all in one file.
+
+Since this is the file we'll be setting the callbacks, we will start dealing with the database in this file. The `db` instance, containing the connection pool, will be passed around so that every route has access to the database.
+
+#### routes.mjs
+```js
+import db from './models/index.mjs';
+import items from './controllers/items.mjs'
+
+export default function routes( app ){
+  
+  // pass in the db for all items callbacks
+  const ItemsController = items(db);
+  
+  app.get('/items', ItemsController.getAll);
+}
+```
+
+## Controllers
+
+We will write the matching method calls in the `routes` file, but the callbacks themselves we'll put in the controller file.
+
+#### controllers/items.mjs
+```js
+export default function items(db){
+
+  const getAll = (request, response) => {
+
+    db.Item.findAll()
+    .then((items) => {
+      response.render('items/all');
+    })
+    .catch((error) => console.log(error));
+  };
+
+  return {
+    getAll
+  };
+}
+```
+
+#### Controller template
+
+#### controllers/.mjs
+
+```js
+export default function <NAME>(db){
+
+  // route to render a list of all the <NAME>
+  const getAll = (request, response) => {
+
+    db.<NAME>.findAll()
+    .then((<NAME_PLURAL>) => {
+      response.render('<NAME>/all');
+    })
+    .catch((error) => console.log(error));
+  };
+
+  return {
+    <FUNCTION_NAME>
+  };
+}
+```
+
+## Views
+
+```
+mkdir items
+```
+
+Create one directory for each controller. Name it after the controller. 
+
+#### views/items/all.ejs
+
+```js
+<% items.forEach( item => { %>
+  <p>
+    <%= item.id %> : <%= item.name %>
+  </p>
+<% }) %>
+```
+
