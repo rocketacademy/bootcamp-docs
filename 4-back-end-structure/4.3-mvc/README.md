@@ -6,13 +6,15 @@ MVC Refers to Model, View, Controller- the logical parts of our web application.
 
 We already have a view. This is the views folder, and encompasses all the ejs files we have.
 
-One specific principle of MVC is the distinction between _application logic_ and _view logic_. Do you need a loop,. conditional or function that simply transforms your data into a new format? This is _view logic_. For example: Making the title of a post upper case. Shortening a post down so it fits in a table. Transforming a database boolean value \(TRUE, FALSE\) into something user-readable- e.g., a heart icon, if the post is liked or not.
+One specific principle of MVC is the distinction between _application logic_ and _view logic_. Do you need a loop, conditional or function that simply transforms your data into a new format? This is _view logic_. For example: Making the title of a post upper case. Shortening a post down so it fits in a table. Transforming a database boolean value \(TRUE, FALSE\) into something user-readable- e.g., a heart icon, if the post is liked or not.
 
 ### Model
 
-We will be using Sequelize as the heart of our model architecture. You don't need Sequelize or any library \(or even a SQL database\) to architect your app to have models. Models are the part of the app that's responsible for getting data from a data source.
+We will be using Sequelize as the heart of our model architecture. However, you don't need Sequelize or any library \(or even a SQL database\) to architect your app to have models in the MVC sense. Models are the part of the app that's responsible for getting data from a data source.
 
-Depending on the opinion of the architect, more or less logic can be placed in the model. See more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models). We will have models that only contain our Sequelize definitions.
+Depending on the opinion of the architect, more or less logic can be placed in the model. See more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models).
+
+In our app we will have models that only contain our Sequelize definitions.
 
 ### Controllers
 
@@ -266,6 +268,12 @@ const PORT = process.env.PORT || 3004;
 
 app.listen(PORT);
 ```
+
+We will try to keep this file as small as possible, only adding library configuration middleware.
+
+If we need to add things like user auth middleware we can do that here as an import from another file.
+
+Note that if your middleware looks in the database, that middleware must be defined in the routes file.
 
 ## Routes
 
