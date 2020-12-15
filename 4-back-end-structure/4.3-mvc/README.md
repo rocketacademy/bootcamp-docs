@@ -26,7 +26,9 @@ In our app everything left from our refactor that is not a model will go in the 
 
 We will have one more piece of our architecture. A separate file that only lists the URL path matching and HTTP methods \(i.e., `app.get`s and `app.post`s\).
 
-## App Setup
+## Grocery App Example
+
+We'll create an example grocery app with a single model.
 
 ## Models
 
@@ -370,4 +372,18 @@ Create one directory for each controller. Name it after the controller.
   </p>
 <% }) %>
 ```
+
+### Names
+
+Across our entire app we should have standardized names for our CRUD actions.
+
+| URL Path | Method | Purpose | Controller Method Name | Sequelize Model Method Name |
+| :--- | :--- | :--- | :--- | :--- |
+| /items/new | GET | Render a form that will create a new item. | newForm | N/A |
+| /items | POST | Accept a POST request to create a new item. | create | create |
+| /items/:id | GET | Render a single item. | getOne | findOne |
+| /items | GET | Render a list of items. | getAll | findAll |
+| /items/:id/edit | GET | Render a form to edit a item. | editForm | N/A |
+| /items/:id | PUT | Accept a request to edit a single item | update | update |
+| /items/:id | DELETE | Accept a request to delete an item. | delete | destroy |
 
