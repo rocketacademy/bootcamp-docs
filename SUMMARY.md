@@ -195,7 +195,7 @@
   * [4.1.3: Async Await](4-back-end-structure/4.1-advanced-promise-handling/4.1.3-async-await.md)
 * [4.2: ORM, Sequelize](4-back-end-structure/4.2-sequelize/README.md)
   * [4.2.1: Intro to Sequelize](4-back-end-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
-  * [4.2.2: Sequelize One-to-Many](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-one-many.md)
+  * [4.2.2: Sequelize One-to-Many Relationships](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-one-to-many-relationships.md)
 * [4.3: MVC](4-back-end-structure/4.3-mvc/README.md)
   * [4.3.1: Routes](4-back-end-structure/4.3-mvc/4.3.1-routes.md)
   * [4.3.2: Controllers](4-back-end-structure/4.3-mvc/4.3.2-controllers.md)
