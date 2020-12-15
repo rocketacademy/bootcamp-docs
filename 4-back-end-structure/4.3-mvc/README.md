@@ -12,7 +12,7 @@ One specific principle of MVC is the distinction between _application logic_ and
 
 We will be using Sequelize as the heart of our model architecture. You don't need Sequelize or any library \(or even a SQL database\) to architect your app to have models. Models are the part of the app that's responsible for getting data from a data source.
 
-Depending on the opinion of the architect, more or less logic can be placed in the model. See more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models). We will have models that only contain our Sequelize definitions. 
+Depending on the opinion of the architect, more or less logic can be placed in the model. See more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models). We will have models that only contain our Sequelize definitions.
 
 ### Controllers
 
@@ -25,7 +25,6 @@ In our app everything left from our refactor that is not a model will go in the 
 We will have one more piece of our architecture. A separate file that only lists the URL path matching and HTTP methods \(i.e., `app.get`s and `app.post`s\).
 
 ## App Setup
-
 
 ## Models
 
@@ -112,7 +111,7 @@ module.exports = {
   },
 
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('items');
+    await queryInterface.dropTable('Items');
   },
 };
 ```
@@ -232,20 +231,21 @@ npx sequelize-cli db:seed:all
 
 Install Express.js and all the standard libraries:
 
-```
-npm install express ejs method-override cookie-parser 
+```text
+npm install express ejs method-override cookie-parser
 ```
 
 Create the standard Express.js app directories:
 
-```
+```text
 mkdir views public
 ```
 
 Standard Express.js index.js setup:
 
-index.js
-```js
+#### index.js
+
+```javascript
 import express from 'express';
 import cookieParser from 'cookie-parser';
 import methodOverride from 'method-override';
@@ -273,16 +273,19 @@ We are going to have a separate file in our app that is only for URL path matchi
 
 Since this is the file we'll be setting the callbacks, we will start dealing with the database in this file. The `db` instance, containing the connection pool, will be passed around so that every route has access to the database.
 
+Note the `getAll` key of `ItemsController` that we'll be creating in the controller file below.
+
 #### routes.mjs
-```js
+
+```javascript
 import db from './models/index.mjs';
 import items from './controllers/items.mjs'
 
 export default function routes( app ){
-  
+
   // pass in the db for all items callbacks
   const ItemsController = items(db);
-  
+
   app.get('/items', ItemsController.getAll);
 }
 ```
@@ -291,15 +294,47 @@ export default function routes( app ){
 
 We will write the matching method calls in the `routes` file, but the callbacks themselves we'll put in the controller file.
 
+We export a whole function \(`items`\), rather than each route callback separately so that we pass `db` to all the routes at once.
+
 #### controllers/items.mjs
-```js
+
+```javascript
+// db is an argument to this function so
+// that we can make db queries inside
 export default function items(db){
 
   const getAll = (request, response) => {
 
     db.Item.findAll()
     .then((items) => {
-      response.render('items/all');
+      response.render('items/all',{items});
+    })
+    .catch((error) => console.log(error));
+  };
+
+  // return all functions we define in an object
+  // refer to the routes file above to see this used
+  return {
+    getAll
+  };
+}
+```
+
+#### Controller template
+
+This example assumes you need to display a list of things.
+
+#### controllers/&lt;NAME\_PLURAL\_LOWERCASE&gt;.mjs
+
+```javascript
+export default function <NAME_PLURAL_LOWERCASE>(db){
+
+  // route to render a list of all the <NAME>
+  const getAll = (request, response) => {
+
+    db.<NAME>.findAll()
+    .then((<NAME_PLURAL_LOWERCASE>) => {
+      response.render('<NAME_PLURAL_LOWERCASE>/all',{<NAME_PLURAL_LOWERCASE>});
     })
     .catch((error) => console.log(error));
   };
@@ -310,40 +345,17 @@ export default function items(db){
 }
 ```
 
-#### Controller template
-
-#### controllers/.mjs
-
-```js
-export default function <NAME>(db){
-
-  // route to render a list of all the <NAME>
-  const getAll = (request, response) => {
-
-    db.<NAME>.findAll()
-    .then((<NAME_PLURAL>) => {
-      response.render('<NAME>/all');
-    })
-    .catch((error) => console.log(error));
-  };
-
-  return {
-    <FUNCTION_NAME>
-  };
-}
-```
-
 ## Views
 
-```
+```text
 mkdir items
 ```
 
-Create one directory for each controller. Name it after the controller. 
+Create one directory for each controller. Name it after the controller.
 
 #### views/items/all.ejs
 
-```js
+```javascript
 <% items.forEach( item => { %>
   <p>
     <%= item.id %> : <%= item.name %>
