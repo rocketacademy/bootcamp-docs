@@ -25,7 +25,6 @@
 
 ### In-Class
 
-* Kenrick OCR Presentation \(15 minutes\)
 * [4.ICE.1: Project 2 Redux](../../4-back-end-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
 
 ### Post-Class
@@ -44,6 +43,7 @@
 
 ### In-Class
 
+* Kenrick OCR Presentation \(15 minutes\)
 * DB ERD
 
 ### Post-Class
