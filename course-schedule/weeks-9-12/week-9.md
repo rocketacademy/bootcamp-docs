@@ -54,8 +54,8 @@
 
 ### Pre-Class
 
-* [4.1.3: Async Await](../../4-back-end-structure/4.1-advanced-promise-handling/4.1.3-async-await.md)
-* [4.2.3: Async Await with Sequelize](../../4-back-end-structure/4.2-sequelize/4.2.3-sequelize-async-await.md)
+* [4.1.3: Async/Await](../../4-back-end-structure/4.1-advanced-promise-handling/4.1.3-async-await.md)
+* [4.2.3: Async/Await with Sequelize](../../4-back-end-structure/4.2-sequelize/4.2.3-async-await-with-sequelize.md)
 * [4.3: MVC](../../4-back-end-structure/4.3-mvc.md)
 
 ### In-Class
