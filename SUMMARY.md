@@ -204,6 +204,7 @@
 * [4.PCE: Post-Class Exercises](4-back-end-structure/4.pce-post-class-exercises/README.md)
   * [4.PCE.1: Heroku Deploy](4-back-end-structure/4.pce-post-class-exercises/4.pce.1-heroku-deploy.md)
   * [4.PCE.2: Sequelize CLI - Travel Itenerary](4-back-end-structure/4.pce-post-class-exercises/4.pce.2-sequelize-cli.md)
+  * [4.PCE.3: Project 2 MVC Refactor](4-back-end-structure/4.pce-post-class-exercises/4.pce.3-project-2-mvc-refactor.md)
 
 ## 5️⃣ Full-Stack
 
