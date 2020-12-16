@@ -49,7 +49,7 @@
 
 ### Post-Class
 
-* Sequelize CLI
+* [4.PCE.2: Sequelize CLI](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.2-sequelize-cli.md)
 
 ## Day 4
 
