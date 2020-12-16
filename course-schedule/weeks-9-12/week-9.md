@@ -78,5 +78,6 @@
 
 ### Post-Class
 
-* Project 2 Refactor
+* [4.PCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.3-project-2-mvc-refactor.md)
+* [Project 2 Technical Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due Monday\)
 
