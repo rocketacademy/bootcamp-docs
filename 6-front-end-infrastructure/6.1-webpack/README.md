@@ -1,10 +1,10 @@
-# 5.3: Webpack
+# 6.1: Webpack
 
 ## Why Webpack
 
 When running the front end of our applications we deal with collecting the correct libraries at the last step, that is, when the user's browser is running the link and script tags, as the last step in the process of HTTP request and response.
 
-In fact this system is inefficient, since we know about what set of files the user needs way before each individual user requests for a page- we know what set of JavaScript and CSS _**every**_ user needs when we finish writing the app.
+In fact, this system is inefficient, since we know about what set of files the user needs way before _**each**_ individual user requests for a page- we know what set of JavaScript and CSS _**every**_ user needs when we finish writing the app.
 
 Instead of letting the set of JavaScipt and CSS files collate in _**each**_ users' browser, we can pre-process / prepare the set of front-end files we want before the Express.js server even starts.
 

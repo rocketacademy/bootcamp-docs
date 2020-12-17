@@ -211,9 +211,6 @@
 * [5.0: Module 5 Overview](5-full-stack/5.0-module-5-overview.md)
 * [5.1: DOM Manipulation](5-full-stack/5.1-dom-manipulation.md)
 * [5.2: AJAX](5-full-stack/5.2-ajax.md)
-* [5.3: Webpack](5-full-stack/5.3-webpack/README.md)
-  * [5.3.1: NPM](5-full-stack/5.3-webpack/5.3.1-npm.md)
-  * [5.3.2: Babel](5-full-stack/5.3-webpack/5.3.2-babel.md)
 * [5.ICE: In-Class Exercises](5-full-stack/5.ice-in-class-exercises/README.md)
   * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
 * [5.PCE: Post-Class-Exercises](5-full-stack/5.pce-post-class-exercises/README.md)
@@ -222,6 +219,9 @@
 ## 6️⃣ Front-End Infrastructure
 
 * [6.0: Module 6 Overview](6-front-end-infrastructure/6.0-module-6-overview.md)
+* [6.1: Webpack](6-front-end-infrastructure/6.1-webpack/README.md)
+  * [6.1.1: NPM](6-front-end-infrastructure/6.1-webpack/5.1.1-npm.md)
+  * [6.1.2: Babel](6-front-end-infrastructure/6.1-webpack/6.1.2-babel.md)
 
 ## 7️⃣ React
 
