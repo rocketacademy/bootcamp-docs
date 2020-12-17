@@ -26,7 +26,7 @@
 
 ### Pre-Class
 
-* AJAX 2
+* Sequelize Many-to-Many
 
 ### In-Class
 
@@ -39,7 +39,7 @@
 ### Pre-Class
 
 * AJAX 3
-
+* 
 ### In-Class
 
 * 
