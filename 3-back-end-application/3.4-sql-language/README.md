@@ -1,6 +1,6 @@
 # 3.4: SQL Language
 
-## Intro to SQL
+## Introduction
 
 SQL \(Structured Query Language\) is a language that describes how to manipulate data organised in tables.
 
