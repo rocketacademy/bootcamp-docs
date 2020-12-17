@@ -38,7 +38,6 @@
 
 ### Pre-Class
 
-* Webpack
 * AJAX 3
 
 ### In-Class
@@ -51,8 +50,7 @@
 
 ### Pre-Class
 
-* Webpack NPM
-
+* 
 ### In-Class
 
 * 
@@ -63,8 +61,7 @@
 
 ### Pre-Class
 
-* Webpack Babel
-
+* 
 ### In-Class
 
 * 
