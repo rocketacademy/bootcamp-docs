@@ -44,7 +44,19 @@ touch dist/index.html
 #### src/script.js
 
 ```text
-console.log('hello');
+const component = () => {
+
+  // create an element
+  const element = document.createElement('h1');
+
+  // set the contents
+  element.innerHTML = 'Hello!'
+
+  // return the element
+  return element;
+}
+
+document.body.appendChild(component());
 ```
 
 #### dist/index.html
@@ -80,13 +92,13 @@ module.exports = {
 
 ### Running Webpack
 
-When we run webpack it will transform our `script.js` into `script.js` in the `dist` directory.
+When we run `webpack` it will transform our `script.js` into `script.js` in the `dist` directory.
 
 ```text
 npx webpack --mode=production
 ```
 
-Look inside the dist/script.js to see the transformed JavaScript file. Note in what ways Webpack has transformed the file.
+Look inside the `dist/script.js` to see the transformed JavaScript file. Note in what ways Webpack has transformed the file. Note that the comments are gone from the output file.
 
 Try to paste in some other JavaScript into the source file and see what changes.
 
