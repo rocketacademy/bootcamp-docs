@@ -60,7 +60,7 @@
 
 ### In-Class
 
-* [4.ICE.2: Airbnb ERD](../../4-back-end-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
+* [4.ICE.2: DB Schema Design - Airbnb](../../4-back-end-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
 
 ### Post-Class
 

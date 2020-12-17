@@ -200,7 +200,7 @@
 * [4.3: MVC](4-back-end-structure/4.3-mvc.md)
 * [4.ICE: In-Class Exercises](4-back-end-structure/4.ice-in-class-exercises/README.md)
   * [4.ICE.1: Project 2 Redux](4-back-end-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
-  * [4.ICE.2: DB Schema Design - AirBnB](4-back-end-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
+  * [4.ICE.2: DB Schema Design - Airbnb](4-back-end-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
 * [4.PCE: Post-Class Exercises](4-back-end-structure/4.pce-post-class-exercises/README.md)
   * [4.PCE.1: Heroku Deploy](4-back-end-structure/4.pce-post-class-exercises/4.pce.1-heroku-deploy.md)
   * [4.PCE.2: Sequelize CLI - Travel Itenerary](4-back-end-structure/4.pce-post-class-exercises/4.pce.2-sequelize-cli.md)
