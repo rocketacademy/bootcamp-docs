@@ -74,7 +74,7 @@
 
 ### In-Class
 
-* DB ERD
+* [5.ICE.1: Modal](../../5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
 
 ### Post-Class
 
