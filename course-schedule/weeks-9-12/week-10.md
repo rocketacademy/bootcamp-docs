@@ -2,8 +2,8 @@
 
 ## Topics
 
-* Model View Controller app refactor
-* SQL DB ORM - Sequelize
+* Full-Stack DOM
+* AJAX
 * REST APIs
 
 
@@ -13,18 +13,21 @@
 ### Pre-Class
 
 * Deadline: [Project 2 Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) Due
+* [5.2: AJAX](../../5-full-stack/5.2-ajax.md)
 
 ### In-Class
 
 * 
 ### Post-Class
 
-* 
+* [5.PCE.1: Video Poker](../../5-full-stack/5.pce-post-class-exercises/5.pce.1-video-poker.md)
+
 ## Day 2
 
 ### Pre-Class
 
-* 
+* AJAX 2
+
 ### In-Class
 
 * 
@@ -35,7 +38,9 @@
 
 ### Pre-Class
 
-* 
+* Webpack
+* AJAX 3
+
 ### In-Class
 
 * 
@@ -46,7 +51,8 @@
 
 ### Pre-Class
 
-* 
+* Webpack NPM
+
 ### In-Class
 
 * 
@@ -57,7 +63,8 @@
 
 ### Pre-Class
 
-* 
+* Webpack Babel
+
 ### In-Class
 
 * 
