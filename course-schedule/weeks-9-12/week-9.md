@@ -70,7 +70,7 @@
 
 ### Pre-Class
 
-* Browser JS
+* [5.1: Browser DOM JS](../../5-full-stack/5.1-dom-manipulation.md)
 
 ### In-Class
 
