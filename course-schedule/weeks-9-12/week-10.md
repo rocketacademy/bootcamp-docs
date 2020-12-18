@@ -24,7 +24,7 @@
 
 ### Pre-Class
 
-* Sequelize Many-to-Many
+* [Sequelize Many-to-Many](../../4-back-end-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
 
 ### In-Class
 
