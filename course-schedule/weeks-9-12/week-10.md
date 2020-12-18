@@ -6,8 +6,6 @@
 * AJAX
 * REST APIs
 
-
-
 ## Day 1
 
 ### Pre-Class
