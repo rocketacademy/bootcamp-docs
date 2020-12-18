@@ -4,8 +4,6 @@
 
 * Sequelize
 * MVC
-* AJAX
-* Webpack
 
 ## Day 1
 
