@@ -197,6 +197,7 @@
   * [4.2.1: Intro to Sequelize](4-back-end-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
   * [4.2.2: Sequelize One-to-Many Relationships](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-one-to-many-relationships.md)
   * [4.2.3: Async/Await With Sequelize](4-back-end-structure/4.2-sequelize/4.2.3-async-await-with-sequelize.md)
+  * [4.2.4: Sequelize Many-to-Many](4-back-end-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
 * [4.3: MVC](4-back-end-structure/4.3-mvc.md)
 * [4.ICE: In-Class Exercises](4-back-end-structure/4.ice-in-class-exercises/README.md)
   * [4.ICE.1: Project 2 Redux](4-back-end-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
