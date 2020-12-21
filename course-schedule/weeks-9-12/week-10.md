@@ -54,6 +54,7 @@
 
 ### Pre-Class
 
+* 6.1: Webpack
 * 
 ### In-Class
 
@@ -61,14 +62,5 @@
 ### Post-Class
 
 * 
-## Day 5
+## 
 
-### Pre-Class
-
-* 
-### In-Class
-
-* 
-### Post-Class
-
-* 
