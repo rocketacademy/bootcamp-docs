@@ -54,6 +54,8 @@
      });
    ```
 
+See [more about Axios here.](https://github.com/axios/axios/blob/master/README.md#example)
+
 ### Manipulate DOM with Server Response
 
 After we receive the server response, manipulate the DOM to show all items in the HTML page.
