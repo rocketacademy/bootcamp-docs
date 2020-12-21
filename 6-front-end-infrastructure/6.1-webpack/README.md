@@ -12,19 +12,21 @@ We are now building a back-end to the front-end JavaScript that runs in the brow
 
 Webpack is the command line tool that prepares these sets of files.
 
-![](../../.gitbook/assets/webpac.jpg)
+![](../../.gitbook/assets/webpack-good.jpg)
 
 
 
-1. The webpack command is run. Webpack, based on the settings, takes the src/script.js file \(or whatever other files or groups of files are specified\) and transforms it, putting the resulting file in `./dist`. The Express.js server starts at some point with `node index.js` in the command line. The server is ready to accept requests.
-2. The browser makes a request to the server for a page.
-3. The browser reads a script tag in the HTML response. The script tag `src` source triggers a get request.
-4. The Express.js server, based on the request path, looks in the hard drive for a file that matches the request. This script tag requests the transformed `script.js` file in `./dist`.
-5. Because the request was kicked off from a script tag, the file contents response is digested by the JavaScript interpreter of the browser.
+1. The webpack command is run.
+2. Webpack, based on the settings, takes the src/script.js file \(or whatever other files or groups of files are specified\) and transforms it.
+3. Based on the Webpack settings, Webapck puts the resulting file in `./dist`.
+4. The Express.js server starts with `node index.js` in the command line. The server is ready to accept requests.
+5. The browser makes a request to the server for a page.
+6. The browser reads a script tag in the HTML response. The script tag `src` source triggers a get request.
+7. The Express.js server, based on the request path, looks in the hard drive for a file that matches the request. This script tag requests the transformed `script.js` file in `./dist`. Because the request was kicked off from a script tag, the file contents response is digested by the JavaScript interpreter of the browser.
 
 ## Webpack Example
 
-Create a directory and install webpack
+Create a directory and install Webpack
 
 ```text
 mkdir webpack-demo
@@ -101,4 +103,8 @@ npx webpack --mode=production
 Look inside the `dist/script.js` to see the transformed JavaScript file. Note in what ways Webpack has transformed the file. Note that the comments are gone from the output file.
 
 Try to paste in some other JavaScript into the source file and see what changes.
+
+## Running `index.html`
+
+Double click on the `index.html file` to open it in the browser \(without a file server\).
 

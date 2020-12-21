@@ -10,7 +10,7 @@
 
 ### Pre-Class
 
-* [5.2: AJAX](../../5-full-stack/5.2-ajax.md)
+* [5.2: AJAX](../../5-full-stack/5.2-ajax/)
 
 ### In-Class
 

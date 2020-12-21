@@ -211,7 +211,8 @@
 
 * [5.0: Module 5 Overview](5-full-stack/5.0-module-5-overview.md)
 * [5.1: DOM Manipulation](5-full-stack/5.1-dom-manipulation.md)
-* [5.2: AJAX](5-full-stack/5.2-ajax.md)
+* [5.2: AJAX](5-full-stack/5.2-ajax/README.md)
+  * [5.2.1: AJAX Post](5-full-stack/5.2-ajax/5.2.1-ajax-post.md)
 * [5.ICE: In-Class Exercises](5-full-stack/5.ice-in-class-exercises/README.md)
   * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
   * [5.ICE.2: AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.2-ajax.md)
