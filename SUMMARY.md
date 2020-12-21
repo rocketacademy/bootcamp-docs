@@ -214,6 +214,7 @@
 * [5.2: AJAX](5-full-stack/5.2-ajax.md)
 * [5.ICE: In-Class Exercises](5-full-stack/5.ice-in-class-exercises/README.md)
   * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
+  * [5.ICE.2: AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.2-ajax.md)
 * [5.PCE: Post-Class-Exercises](5-full-stack/5.pce-post-class-exercises/README.md)
   * [5.PCE.1: Video Poker](5-full-stack/5.pce-post-class-exercises/5.pce.1-video-poker.md)
 
