@@ -29,7 +29,7 @@
 
 ### In-Class
 
-No ICE today.
+* [5.ICE.3: Full Stack AJAX](../../5-full-stack/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
 
 ### Post-Class
 
