@@ -14,7 +14,8 @@
 
 ### In-Class
 
-* 
+* [5.ICE.2: AJAX](../../5-full-stack/5.ice-in-class-exercises/5.ice.2-ajax.md)
+
 ### Post-Class
 
 * [4.PCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.3-project-2-mvc-refactor.md) \(Due Today\)
