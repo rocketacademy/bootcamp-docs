@@ -29,10 +29,11 @@
 
 ### In-Class
 
-* 
+No ICE today.
+
 ### Post-Class
 
-* [5.PCE.1: Video Poker](../../5-full-stack/5.pce-post-class-exercises/5.pce.1-video-poker.md)
+* [5.PCE.1: Bug Reports AJAX](../../5-full-stack/5.pce-post-class-exercises/5.pce.1-bug-reports-ajax.md)
 
 ## Day 3
 
