@@ -39,14 +39,17 @@
 
 ### Pre-Class
 
-* AJAX 3
-* 
+* [4.2.5: Sequelize Many-to-N](../../4-back-end-structure/4.2-sequelize/4.2.5-sequelize-many-to-n.md)
+* [5.2.1: AJAX POST](../../5-full-stack/5.2-ajax/5.2.1-ajax-post.md)
+
 ### In-Class
 
-* 
+* AJAX
+
 ### Post-Class
 
-* 
+* AJAX Users
+
 ## Day 4
 
 ### Pre-Class
