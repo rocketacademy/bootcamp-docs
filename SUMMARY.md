@@ -199,6 +199,7 @@
   * [4.2.3: Async/Await With Sequelize](4-back-end-structure/4.2-sequelize/4.2.3-async-await-with-sequelize.md)
   * [4.2.4: Sequelize Many-to-Many](4-back-end-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
   * [4.2.5: Sequelize Many-to-N](4-back-end-structure/4.2-sequelize/4.2.5-sequelize-many-to-n.md)
+  * [4.2.6: Sequelize Validations](4-back-end-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
 * [4.3: MVC](4-back-end-structure/4.3-mvc.md)
 * [4.ICE: In-Class Exercises](4-back-end-structure/4.ice-in-class-exercises/README.md)
   * [4.ICE.1: Project 2 Redux](4-back-end-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
@@ -230,6 +231,8 @@
 * [6.1: Webpack](6-front-end-infrastructure/6.1-webpack/README.md)
   * [6.1.1: NPM](6-front-end-infrastructure/6.1-webpack/5.1.1-npm.md)
   * [6.1.2: Babel](6-front-end-infrastructure/6.1-webpack/6.1.2-babel.md)
+  * [6.1.3: SASS](6-front-end-infrastructure/6.1-webpack/6.1.3-sass.md)
+  * [6.1.4: Webpack + Express.js](6-front-end-infrastructure/6.1-webpack/6.1.4-webpack-+-express.js.md)
 
 ## 7️⃣ React
 
