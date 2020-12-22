@@ -34,7 +34,7 @@
 
 ### Post-Class
 
-* [2.PCE.1: CSS Command Line](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
+* [2.POCE.1: CSS Command Line](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
 
 ## Day 3
 
@@ -49,7 +49,7 @@
 
 ### Post-Class
 
-* [2.PCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
+* [2.POCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
 
 ## Day 4
 
@@ -66,7 +66,7 @@
 
 ### Post-Class
 
-* [2.PCE.3: CSS Processor](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
+* [2.POCE.3: CSS Processor](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 
 ## Day 5
 
@@ -78,9 +78,9 @@
 ### **In-Class**
 
 * [2.ICE.4: Internet](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
-* [Peer Code Review: 2.PCE.3: CSS Processor](../../course-logistics/course-methodology.md#peer-code-review)
+* [Peer Code Review: 2.POCE.3: CSS Processor](../../course-logistics/course-methodology.md#peer-code-review)
 
 ### Post-Class
 
-* [2.PCE.4: File Server](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
+* [2.POCE.4: File Server](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 
