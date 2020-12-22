@@ -55,7 +55,7 @@
 ### Pre-Class
 
 * 6.1: Webpack
-* 
+
 ### In-Class
 
 * 
