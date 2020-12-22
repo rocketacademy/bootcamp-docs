@@ -18,7 +18,7 @@
 
 ### Post-Class
 
-* [4.PCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md) \(Due Today\)
+* [4.POCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md) \(Due Today\)
 * [Project 2 Technical Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due Today\)
 
 ## Day 2
@@ -33,7 +33,7 @@
 
 ### Post-Class
 
-* [5.PCE.1: Bug Reports AJAX](../../5-full-stack/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
+* [5.POCE.1: Bug Reports AJAX](../../5-full-stack/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
 
 ## Day 3
 
