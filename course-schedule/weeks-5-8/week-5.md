@@ -21,7 +21,7 @@
 
 ### Post-Class
 
-* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ## Day 2
 
@@ -35,7 +35,7 @@
 
 ### Post-Class
 
-* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ## Day 3
 
@@ -50,7 +50,7 @@
 
 ### **Post-Class**
 
-* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ## Day 4
 
@@ -66,7 +66,7 @@
 
 ### Post-Class
 
-* [3.PCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: Express - UFOs](../../3-back-end-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ## Day 5
 
@@ -78,9 +78,9 @@
 
 ### In-Class
 
-* [Project Presentation: 3.PCE.3](../../course-logistics/course-methodology.md#project-presentations)
+* [Project Presentation: 3.POCE.3](../../course-logistics/course-methodology.md#project-presentations)
 
 ### Post-Class
 
-*  [3.PCE.4: Meal Tracker](../../3-back-end-application/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper.md)
+*  [3.POCE.4: Meal Tracker](../../3-back-end-application/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper.md)
 
