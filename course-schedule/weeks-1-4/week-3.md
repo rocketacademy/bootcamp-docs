@@ -34,7 +34,7 @@
 
 ### Post-Class
 
-* [2.PCE.1: CSS Command Line](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.1-css-command-line.md)
+* [2.PCE.1: CSS Command Line](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
 
 ## Day 3
 
@@ -49,7 +49,7 @@
 
 ### Post-Class
 
-* [2.PCE.2: CSS Color Reading](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.2-css-color-reading.md)
+* [2.PCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
 
 ## Day 4
 
@@ -66,7 +66,7 @@
 
 ### Post-Class
 
-* [2.PCE.3: CSS Processor](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.3-css-processor.md)
+* [2.PCE.3: CSS Processor](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 
 ## Day 5
 
@@ -82,5 +82,5 @@
 
 ### Post-Class
 
-* [2.PCE.4: File Server](../../2-back-end-basics/2.pce-post-class-exercises/2.pce.4-file-server.md)
+* [2.PCE.4: File Server](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 

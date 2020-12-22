@@ -24,7 +24,7 @@
 
 ### Post-Class
 
-* [1.PCE.1: Noodle Recipe Website](../../1-front-end-basics/1.pce-post-class-exercises/1.pce.1-noodles.md)
+* [1.PCE.1: Noodle Recipe Website](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
 
 ## Day 2
 
@@ -41,7 +41,7 @@
 
 ### Post-Class
 
-* [1.PCE.2: High Card DOM](../../1-front-end-basics/1.pce-post-class-exercises/1.pce.2-high-card-dom.md)
+* [1.PCE.2: High Card DOM](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
 
 ## Day 3
 
@@ -60,7 +60,7 @@
 
 ### Post-Class
 
-* [1.PCE.3: Match Game](../../1-front-end-basics/1.pce-post-class-exercises/1.pce.3-match-game.md)
+* [1.PCE.3: Match Game](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
 
 ## Day 4
 
@@ -76,7 +76,7 @@
 
 ### Post-Class
 
-* [1.PCE.4: Timer](../../1-front-end-basics/1.pce-post-class-exercises/1.pce.4-timer.md)
+* [1.PCE.4: Timer](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
 
 ## Day 5
 
@@ -92,5 +92,5 @@
 
 ### Post-Class
 
-* [1.PCE.5: Tic Tac Toe](../../1-front-end-basics/1.pce-post-class-exercises/1.pce.5-tic-tac-toe.md)
+* [1.PCE.5: Tic Tac Toe](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
 
