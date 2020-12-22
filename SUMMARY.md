@@ -225,7 +225,6 @@
 * [5.POCE: Post-Class Exercises](5-full-stack/5.poce-post-class-exercises/README.md)
   * [5.POCE.1: Bug Reports AJAX](5-full-stack/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
   * [5.POCE.2: Bug Reports AJAX Users](5-full-stack/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
-  * [5.POCE.2: Video Poker](5-full-stack/5.poce-post-class-exercises/5.poce.2-video-poker.md)
 
 ## 6️⃣ Front-End Infrastructure
 
