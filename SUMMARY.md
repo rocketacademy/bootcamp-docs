@@ -198,7 +198,7 @@
   * [4.2.2: Sequelize One-to-Many Relationships](4-back-end-structure/4.2-sequelize/4.2.2-sequelize-one-to-many-relationships.md)
   * [4.2.3: Async/Await With Sequelize](4-back-end-structure/4.2-sequelize/4.2.3-async-await-with-sequelize.md)
   * [4.2.4: Sequelize Many-to-Many](4-back-end-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
-  * [4.2.5: Sequelize Many-to-Many with Through Table Attributes](4-back-end-structure/4.2-sequelize/4.2.5-sequelize-many-to-n.md)
+  * [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](4-back-end-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table-attributes.md)
   * [4.2.6: Sequelize Validations](4-back-end-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
 * [4.3: MVC](4-back-end-structure/4.3-mvc.md)
 * [4.ICE: In-Class Exercises](4-back-end-structure/4.ice-in-class-exercises/README.md)
