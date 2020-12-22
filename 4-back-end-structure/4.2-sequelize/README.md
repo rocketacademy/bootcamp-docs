@@ -6,6 +6,10 @@
 
 [ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping) stands for "object-relational mapping", where database tables \(also known as "[relations](https://en.wikipedia.org/wiki/Relation_%28database%29)"\) are mapped to [objects or classes](https://en.wikipedia.org/wiki/Object_%28computer_science%29#:~:text=An%20object%20is%20an%20abstract,found%20in%20the%20real%20world.), such that SQL relations and their relevant associations can be manipulated directly from application code using pre-defined methods without writing SQL query strings. This helps our applications be more robust and secure because there is less chance for human error. [Sequelize](https://sequelize.org/) is the most popular ORM for JavaScript and PostgreSQL. We will use Sequelize during SWE1 for our web applications to replace raw SQL.
 
+[Sequelize](https://sequelize.org/) is the most popular ORM for JavaScript and PostgreSQL. We will use Sequelize to replace raw SQL in our applications.
+
+## Motivation
+
 ## ORMs Replace Common SQL Queries
 
 You may have noticed that SQL queries for each set of CRUD routes follow a similar pattern. Most CRUD queries follow this same pattern, and can be relatively easily substituted with ORM.

@@ -1,2 +1,2 @@
-# 5.POCE: Post-Class-Exercises
+# 5.POCE: Post-Class Exercises
 
