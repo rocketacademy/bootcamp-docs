@@ -48,7 +48,7 @@
 
 ### Post-Class
 
-* AJAX Users
+* [5.POCE.2: Bug Reports AJAX Users](../../5-full-stack/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
 
 ## Day 4
 
