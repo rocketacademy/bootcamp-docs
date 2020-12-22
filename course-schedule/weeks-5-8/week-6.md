@@ -21,7 +21,7 @@
 
 ### Post-Class
 
-* [3.PCE.5: Bird Watching](../../3-back-end-application/3.poce-post-class-exercises/3.poce.5-bird-watching.md)
+* [3.POCE.5: Bird Watching](../../3-back-end-application/3.poce-post-class-exercises/3.poce.5-bird-watching.md)
 * [Project 2 Planning: Ideation](../../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ## Day 2
@@ -37,7 +37,7 @@
 
 ### Post-Class
 
-* [3.PCE.6: Bird Watching Users](../../3-back-end-application/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
+* [3.POCE.6: Bird Watching Users](../../3-back-end-application/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
 
 ## Day 3
 
@@ -52,7 +52,7 @@
 
 ### Post-Class
 
-* [3.PCE.7: Bird Watching Species](../../3-back-end-application/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
+* [3.POCE.7: Bird Watching Species](../../3-back-end-application/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
 
 ## Day 4
 
@@ -68,7 +68,7 @@
 
 ### Post-Class
 
-* [3.PCE.8: Bird Watching Behaviour](../../3-back-end-application/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
+* [3.POCE.8: Bird Watching Behaviour](../../3-back-end-application/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
 
 ## Day 5
 
@@ -83,7 +83,7 @@
 
 ### Post-Class
 
-* [3.PCE.9: Bird Watching Comments](../../3-back-end-application/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
-* [3.PCE.10: Deployment](../../3-back-end-application/3.poce-post-class-exercises/3.poce.10-deployment.md)
+* [3.POCE.9: Bird Watching Comments](../../3-back-end-application/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
+* [3.POCE.10: Deployment](../../3-back-end-application/3.poce-post-class-exercises/3.poce.10-deployment.md)
 * [Project 2 Planning: Ideation Deadline](../../projects/project-2-server-side-app.md#ideation-phase-1)
 
