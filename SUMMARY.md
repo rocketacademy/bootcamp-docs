@@ -221,6 +221,7 @@
   * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
   * [5.ICE.2: AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.2-ajax.md)
   * [5.ICE.3: Full Stack AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
+  * [5.ICE.4: Cross Domain AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
 * [5.POCE: Post-Class Exercises](5-full-stack/5.poce-post-class-exercises/README.md)
   * [5.POCE.1: Bug Reports AJAX](5-full-stack/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
   * [5.POCE.2: Bug Reports AJAX Users](5-full-stack/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
