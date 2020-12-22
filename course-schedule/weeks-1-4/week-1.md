@@ -24,7 +24,7 @@
 
 ### Post-Class
 
-* [1.PCE.1: Noodle Recipe Website](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
+* [1.POCE.1: Noodle Recipe Website](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
 
 ## Day 2
 
@@ -36,12 +36,12 @@
 
 ### In-Class
 
-* [Review 1.PCE.1: Noodle Recipe Website](../../course-logistics/course-methodology.md#peer-led-code-review)
+* [Review 1.POCE.1: Noodle Recipe Website](../../course-logistics/course-methodology.md#peer-led-code-review)
 * [1.ICE.1: Drawing DOM](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
 
 ### Post-Class
 
-* [1.PCE.2: High Card DOM](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
+* [1.POCE.2: High Card DOM](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
 
 ## Day 3
 
@@ -55,12 +55,12 @@
 
 ### In-Class
 
-* [Review 1.PCE.2: High Card](../../course-logistics/course-methodology.md#peer-led-code-review)
+* [Review 1.POCE.2: High Card](../../course-logistics/course-methodology.md#peer-led-code-review)
 * [1.ICE.2: Timeout / High Card Redux](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
 
 ### Post-Class
 
-* [1.PCE.3: Match Game](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
+* [1.POCE.3: Match Game](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
 
 ## Day 4
 
@@ -71,12 +71,12 @@
 
 ### In-Class
 
-* [Review 1.PCE.3: Match Game](../../course-logistics/course-methodology.md#peer-led-code-review)
+* [Review 1.POCE.3: Match Game](../../course-logistics/course-methodology.md#peer-led-code-review)
 * [1.ICE.3: setInterval](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.3-setinterval.md)
 
 ### Post-Class
 
-* [1.PCE.4: Timer](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
+* [1.POCE.4: Timer](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
 
 ## Day 5
 
@@ -88,9 +88,9 @@
 
 ### In-Class
 
-* [Review 1.PCE.4: Timer](../../course-logistics/course-methodology.md#peer-led-code-review)
+* [Review 1.POCE.4: Timer](../../course-logistics/course-methodology.md#peer-led-code-review)
 
 ### Post-Class
 
-* [1.PCE.5: Tic Tac Toe](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
+* [1.POCE.5: Tic Tac Toe](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
 
