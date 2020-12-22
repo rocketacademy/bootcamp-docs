@@ -204,10 +204,10 @@
 * [4.ICE: In-Class Exercises](4-back-end-structure/4.ice-in-class-exercises/README.md)
   * [4.ICE.1: Project 2 Redux](4-back-end-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
   * [4.ICE.2: DB Schema Design - Airbnb](4-back-end-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
-* [4.PCE: Post-Class Exercises](4-back-end-structure/4.pce-post-class-exercises/README.md)
-  * [4.PCE.1: Heroku Deploy](4-back-end-structure/4.pce-post-class-exercises/4.pce.1-heroku-deploy.md)
-  * [4.PCE.2: Sequelize CLI - Travel Itinerary](4-back-end-structure/4.pce-post-class-exercises/4.pce.2-sequelize-cli.md)
-  * [4.PCE.3: Project 2 MVC Refactor](4-back-end-structure/4.pce-post-class-exercises/4.pce.3-project-2-mvc-refactor.md)
+* [4.POCE: Post-Class Exercises](4-back-end-structure/4.poce-post-class-exercises/README.md)
+  * [4.POCE.1: Heroku Deploy](4-back-end-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
+  * [4.POCE.2: Sequelize CLI - Travel Itinerary](4-back-end-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
+  * [4.POCE.3: Project 2 MVC Refactor](4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
 ## 5️⃣ Full-Stack
 
@@ -220,10 +220,10 @@
   * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
   * [5.ICE.2: AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.2-ajax.md)
   * [5.ICE.3: Full Stack AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
-* [5.PCE: Post-Class-Exercises](5-full-stack/5.pce-post-class-exercises/README.md)
-  * [5.PCE.1: Bug Reports AJAX](5-full-stack/5.pce-post-class-exercises/5.pce.1-bug-reports-ajax.md)
-  * [5.PCE.2: Bug Reports AJAX Users](5-full-stack/5.pce-post-class-exercises/5.pce.2-bug-reports-ajax-users.md)
-  * [5.PCE.2: Video Poker](5-full-stack/5.pce-post-class-exercises/5.pce.2-video-poker.md)
+* [5.POCE: Post-Class-Exercises](5-full-stack/5.poce-post-class-exercises/README.md)
+  * [5.POCE.1: Bug Reports AJAX](5-full-stack/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
+  * [5.POCE.2: Bug Reports AJAX Users](5-full-stack/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
+  * [5.POCE.2: Video Poker](5-full-stack/5.poce-post-class-exercises/5.poce.2-video-poker.md)
 
 ## 6️⃣ Front-End Infrastructure
 

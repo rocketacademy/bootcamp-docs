@@ -28,7 +28,7 @@
 
 ### Post-Class
 
-* [4.PCE.1: Heroku Deploy](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.1-heroku-deploy.md)
+* [4.PCE.1: Heroku Deploy](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
 * Start [Project 2 Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due W10D1\)
 
 ## Day 3
@@ -46,7 +46,7 @@
 
 ### Post-Class
 
-* [4.PCE.2: Sequelize CLI](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.2-sequelize-cli.md)
+* [4.PCE.2: Sequelize CLI](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
 
 ## Day 4
 
@@ -62,7 +62,7 @@
 
 ### Post-Class
 
-* [4.PCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.3-project-2-mvc-refactor.md)
+* [4.PCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
 ## Day 5
 
@@ -76,6 +76,6 @@
 
 ### Post-Class
 
-* [4.PCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.pce-post-class-exercises/4.pce.3-project-2-mvc-refactor.md)
+* [4.PCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 * [Project 2 Technical Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due Monday\)
 
