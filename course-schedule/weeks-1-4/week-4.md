@@ -22,7 +22,7 @@
 
 ### Post-Class
 
-* [2.PCE.5 Noodle Website / Video Poker](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
+* [2.POCE.5 Noodle Website / Video Poker](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
 
 ## Day 2
 
@@ -38,7 +38,7 @@
 
 ### Post-Class
 
-* [2.PCE.6: Todo List - JSON](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
+* [2.POCE.6: Todo List - JSON](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ## Day 3
 
@@ -50,11 +50,11 @@
 ### In-Class
 
 * [2.ICE.7: Git Branches](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
-* Review 2.PCE.6: Todo List - JSON
+* [Review 2.POCE.6: Todo List - JSON](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ### **Post-Class**
 
-* [2.PCE.6: Todo List - JSON](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
+* [2.POCE.6: Todo List - JSON](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ## Day 4
 
@@ -70,7 +70,7 @@
 
 ### Post-Class
 
-* [3.PCE.1: Express Noodle App](../../3-back-end-application/3.poce-post-class-exercises/3.poce.1-express-noodle-app.md)
+* [3.POCE.1: Express Noodle App](../../3-back-end-application/3.poce-post-class-exercises/3.poce.1-express-noodle-app.md)
 
 ## Day 5
 
@@ -86,5 +86,5 @@
 
 ### Post-Class
 
-* [3.PCE.2: Express, EJS Noodle App](../../3-back-end-application/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
+* [3.POCE.2: Express, EJS Noodle App](../../3-back-end-application/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
 
