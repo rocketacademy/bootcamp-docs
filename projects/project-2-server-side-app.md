@@ -90,6 +90,10 @@ Implement the core user story first. What are users coming to your app to do? Ma
 2. Login functionality
 3. Any stretch functionality, e.g. AI APIs or file uploading
 
+### Refactoring
+
+We will be learning more ways to decompose our Express apps into logical files and folders in Module 4. For Project 2, feel free to decompose and organise functions within index.js.
+
 ### Post-Mortem Meeting
 
 Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
