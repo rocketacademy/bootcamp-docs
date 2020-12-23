@@ -7,6 +7,10 @@
 1. [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 2. [https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 
+### Git, GitHub
+
+Past students have found this [video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) helpful in better understanding Git and GitHub.
+
 ## CSS
 
 ### CSS Properties
