@@ -59,11 +59,11 @@
 
 ### In-Class
 
-* Bug Reports Redux
+* [Bug Reports Redux](../../course-logistics/course-methodology.md#peer-code-review)
 
 ### Post-Class
 
-* 5.PCE.3: Cards
+* [5.POCE.3: AJAX Cards](../../5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ## Day 5
 
