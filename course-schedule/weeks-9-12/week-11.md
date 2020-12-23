@@ -2,7 +2,7 @@
 
 ## Project
 
-* Full Stack Data App
+* Full Stack App
 
 ## Topics
 
