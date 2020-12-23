@@ -229,10 +229,11 @@
 
 * [6.0: Module 6 Overview](6-front-end-infrastructure/6.0-module-6-overview.md)
 * [6.1: Webpack](6-front-end-infrastructure/6.1-webpack/README.md)
-  * [6.1.1: NPM](6-front-end-infrastructure/6.1-webpack/5.1.1-npm.md)
-  * [6.1.2: Babel](6-front-end-infrastructure/6.1-webpack/6.1.2-babel.md)
-  * [6.1.3: SASS](6-front-end-infrastructure/6.1-webpack/6.1.3-sass.md)
-  * [6.1.4: Webpack + Express.js](6-front-end-infrastructure/6.1-webpack/6.1.4-webpack-+-express.js.md)
+  * [6.1.1: Webpack Modules](6-front-end-infrastructure/6.1-webpack/6.1.1-webpack-modules.md)
+  * [6.1.2: NPM](6-front-end-infrastructure/6.1-webpack/6.1.2-npm.md)
+  * [6.1.3: Babel](6-front-end-infrastructure/6.1-webpack/6.1.3-babel.md)
+  * [6.1.4: SASS](6-front-end-infrastructure/6.1-webpack/6.1.4-sass.md)
+  * [6.1.5: Webpack + Express.js](6-front-end-infrastructure/6.1-webpack/6.1.5-webpack-+-express.js.md)
 
 ## 7️⃣ React
 

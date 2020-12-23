@@ -48,14 +48,24 @@ touch dist/index.html
 ```text
 const component = () => {
 
-  // create an element
-  const element = document.createElement('h1');
+  // make a container
+  const div = document.createElement('div');
+  
+  // display element
+  const span = document.createElement('span');
+  
+  // input
+  const input = document.createElement('input');
 
-  // set the contents
-  element.innerHTML = 'Hello!'
+  // on change, display in the span
+  input.addEventListener('change', function(){
+    span.innerText = input.value;
+  });
 
-  // return the element
-  return element;
+  div.appendChild( input );
+  div.appendChild( span );
+
+  return div;
 }
 
 document.body.appendChild(component());
@@ -71,7 +81,7 @@ document.body.appendChild(component());
      <title>Getting Started</title>
    </head>
    <body>
-    <script src="main.js"></script>
+    <script src="script.js"></script>
    </body>
  </html>
 ```
@@ -97,7 +107,7 @@ module.exports = {
 When we run `webpack` it will transform our `script.js` into `script.js` in the `dist` directory.
 
 ```text
-npx webpack --mode=production
+npx webpack --mode=none
 ```
 
 Look inside the `dist/script.js` to see the transformed JavaScript file. Note in what ways Webpack has transformed the file. Note that the comments are gone from the output file.
