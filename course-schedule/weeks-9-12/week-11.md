@@ -15,6 +15,7 @@
 ### Pre-Class
 
 * Sequelize Validations
+* Webpack Import
 * Webpack NPM
 
 ### In-Class
@@ -22,7 +23,8 @@
 * 
 ### Post-Class
 
-* 
+* AJAX Cards
+
 ## Day 2
 
 ### Pre-Class

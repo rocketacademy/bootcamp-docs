@@ -37,6 +37,7 @@
 
 * [Project 1: Video Poker](projects/project-1-video-poker.md)
 * [Project 2: Server-Side App](projects/project-2-server-side-app.md)
+* [Project 3: Full Stack Card Game](projects/project-3-full-stack-card-game.md)
 
 ## 1️⃣ Front-End Basics
 
