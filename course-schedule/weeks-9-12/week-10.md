@@ -59,7 +59,8 @@
 
 ### In-Class
 
-* 
+* Bug Reports Redux
+
 ### Post-Class
 
 * 5.PCE.3: Cards
