@@ -4,7 +4,7 @@ Create an interactive card game that runs partially on the server so that the us
 
 Requirements:
 
-* User login
+* User login \(full stack or server side\)
 * Users cannot cheat by looking in the dev console
 * Single or many players
 * Interactivity using browser-side javascript
