@@ -1,4 +1,4 @@
-# Helpful CSS Properties and Tools
+# Helpful CSS Properties, Tools, and Tips
 
 ## CSS Properties
 
@@ -7,4 +7,9 @@
 ## Chrome Extensions
 
 1. Past students have found the [Pesticide Chrome extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) helpful in visualising CSS elements on a page.
+
+## Tips
+
+1. When applying media query styles in custom CSS, use Bootstrap widths as a standard.
+   1. [https://getbootstrap.com/docs/4.1/layout/overview/\#responsive-breakpoints](https://getbootstrap.com/docs/4.1/layout/overview/#responsive-breakpoints)
 
