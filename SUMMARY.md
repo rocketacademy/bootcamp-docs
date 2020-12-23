@@ -31,7 +31,7 @@
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
 * [Helpful JavaScript Functions and Quirks](course-logistics/helpful-javascript-functions.md)
-* [Helpful CSS Properties](course-logistics/helpful-css-properties.md)
+* [Helpful CSS Properties and Tools](course-logistics/helpful-css-properties.md)
 * [Glossary](course-logistics/glossary.md)
 
 ## 🏞 Projects
