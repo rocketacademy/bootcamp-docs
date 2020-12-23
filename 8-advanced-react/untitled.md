@@ -6,7 +6,7 @@ Add data control with Context.
 
 Refactor with Higher-Order components.
 
-Use CSS inside a component.
+Use CSS inside a component with CSS Modules and SASS.
 
 Use Create React App and hook it into a backend we create.
 
