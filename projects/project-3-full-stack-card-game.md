@@ -10,3 +10,8 @@ Requirements:
 * Interactivity using browser-side javascript
 * The game play cannot be over more than one page
 
+Pre-Project Materials:
+
+* Wireframes
+* ERD
+
