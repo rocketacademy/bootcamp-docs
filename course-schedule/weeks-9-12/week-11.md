@@ -14,9 +14,9 @@
 
 ### Pre-Class
 
-* Sequelize Validations
-* Webpack Import
-* Webpack NPM
+* [4.2.6: Sequelize Validations](../../4-back-end-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
+* [6.1.1: Webpack Import](../../6-front-end-infrastructure/6.1-webpack/6.1.1-webpack-modules.md)
+* [6.1.2: Webpack NPM](../../6-front-end-infrastructure/6.1-webpack/6.1.2-npm.md)
 
 ### In-Class
 
@@ -29,8 +29,8 @@
 
 ### Pre-Class
 
-* Webpack Babel
-* Webpack SASS
+* [6.1.3: Webpack Babel](../../6-front-end-infrastructure/6.1-webpack/6.1.3-babel.md)
+* [6.1.4: Webpack SASS](../../6-front-end-infrastructure/6.1-webpack/6.1.4-sass.md)
 
 ### In-Class
 
