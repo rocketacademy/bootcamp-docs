@@ -236,6 +236,8 @@
   * [6.1.3: Babel](6-front-end-infrastructure/6.1-webpack/6.1.3-babel.md)
   * [6.1.4: SASS](6-front-end-infrastructure/6.1-webpack/6.1.4-sass.md)
   * [6.1.5: Webpack + Express.js](6-front-end-infrastructure/6.1-webpack/6.1.5-webpack-+-express.js.md)
+* [6.ICE: In-Class Exercises](6-front-end-infrastructure/6.ice-in-class-exercises/README.md)
+  * [6.ICE.1: NPM Webpack](6-front-end-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
 
 ## 7️⃣ React
 
