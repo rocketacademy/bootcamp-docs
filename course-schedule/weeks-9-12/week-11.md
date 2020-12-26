@@ -20,7 +20,8 @@
 
 ### In-Class
 
-* 
+* [6.ICE.1: NPM Webpack](../../6-front-end-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
+
 ### Post-Class
 
 * AJAX Cards
