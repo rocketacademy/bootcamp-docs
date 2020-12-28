@@ -38,7 +38,9 @@
 * 
 ### Post-Class
 
-* 
+* [5.POCE.3: AJAX Cards](../../5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* Project 3 User Stories, Wireframes, ERD
+
 ## Day 3
 
 ### Pre-Class
@@ -47,22 +49,27 @@
 
 ### In-Class
 
-* 
+TBD
+
 ### Post-Class
 
-* 
+* Project 3
+
 ## Day 4
 
 ### Pre-Class
 
-* 
+TBD
+
 ### In-Class
 
-* 
+TBD
+
 ### Post-Class
 
-* 
+* Project 3
+
 ## Day 5
 
-NY break :\)
+New Year's break :\)
 
