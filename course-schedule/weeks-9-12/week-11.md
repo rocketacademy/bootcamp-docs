@@ -24,7 +24,7 @@
 
 ### Post-Class
 
-* AJAX Cards
+* [5.POCE.3: AJAX Cards](../../5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ## Day 2
 
