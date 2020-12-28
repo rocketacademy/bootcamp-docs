@@ -2,9 +2,9 @@
 
 ## Topics
 
-* Full-Stack DOM
 * AJAX
-* REST APIs
+* Sequelize
+* Webpack
 
 ## Day 1
 
