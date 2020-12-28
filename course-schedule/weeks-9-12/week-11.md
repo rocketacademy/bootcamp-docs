@@ -6,8 +6,8 @@
 
 ## Topics
 
-* Sequelize
 * AJAX
+* Sequelize
 * Webpack
 
 ## Day 1
