@@ -2,13 +2,13 @@
 
 ## Project
 
-* Full Stack App
+* [Project 3: Full-Stack Card Game](../../projects/project-3-full-stack-card-game.md)
 
 ## Topics
 
 * Sequelize
 * AJAX
-* REST APIs
+* Webpack
 
 ## Day 1
 
