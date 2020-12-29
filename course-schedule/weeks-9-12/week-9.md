@@ -76,6 +76,6 @@
 
 ### Post-Class
 
-* [4.POCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
+* [4.POCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md) \(Due Monday\)
 * [Project 2 Technical Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due Monday\)
 
