@@ -35,11 +35,12 @@
 
 ### In-Class
 
-* 
+No ICE today.
+
 ### Post-Class
 
 * [5.POCE.3: AJAX Cards](../../5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
-* Project 3 User Stories, Wireframes, ERD
+* [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-card-game.md#ideation-phase-1)
 
 ## Day 3
 
@@ -49,11 +50,11 @@
 
 ### In-Class
 
-TBD
+No ICE today.
 
 ### Post-Class
 
-* Project 3
+* [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-card-game.md#ideation-phase-2)
 
 ## Day 4
 
@@ -63,11 +64,11 @@ TBD
 
 ### In-Class
 
-TBD
+No ICE today.
 
 ### Post-Class
 
-* Project 3
+* [Project 3](../../projects/project-3-full-stack-card-game.md)
 
 ## Day 5
 
