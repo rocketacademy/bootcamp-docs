@@ -25,6 +25,8 @@ If you choose to implement a card game with a known set of rules, you as the gam
 
 Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
 
+Begin with this starter repo: [https://github.com/rocketacademy/webpack-mvc-base-swe1](https://github.com/rocketacademy/webpack-mvc-base-swe1)
+
 {% hint style="warning" %}
 Note that you can choose to implement user authentication completely in AJAX requests, or you can choose to implement user authentication as in project 2, where the user is restricted from visiting the game page.
 {% endhint %}

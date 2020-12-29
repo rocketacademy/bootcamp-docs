@@ -45,7 +45,7 @@
 
 ### Pre-Class
 
-* Webpack Express
+* [6.1.5: Webpack + Express](../../6-front-end-infrastructure/6.1-webpack/6.1.5-webpack-+-express.js.md)
 
 ### In-Class
 
