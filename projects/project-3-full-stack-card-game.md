@@ -53,7 +53,7 @@ Avoid any ideas the depend on timing between players or if another player must b
 | W11D3 | Deadline to post project ideas in Slack |
 | W11D3 | Ideation Phase 2. Create planning docs: DB ERD, and wireframes |
 | W11D3 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
-| W12D2 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze. 30-minute mid-point check-in with instructor. |
+| W12D2 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze. 30-minute mid-point check-in with instructor. |
 | W12D5 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. |
 | W13D1 | Project presentations. 60-minute post-mortem with instructor. |
 
