@@ -10,7 +10,7 @@
 
 1. The browser makes a request to the server.
 2. The Express.js server sends back HTML.
-3. The browser reads a `script` tag in the HTML response. The `script` tag's `src` attribute triggers a get request.
+3. The browser reads a `script` tag in the HTML response. The `script` tag's `src` attribute triggers a GET request.
 4. The Express.js server, based on the request path, looks in the hard drive for a file that matches the request and sends the file contents back in the response.
 5. Because the request was invoked from a `script` tag, the file contents in the response is digested by the JavaScript interpreter of the browser.
 6. The JavaScript file contains code that executes a JavaScript HTTP request using Axios. A request is sent to the server for path `/ha`.
