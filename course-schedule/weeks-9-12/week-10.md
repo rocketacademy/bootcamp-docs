@@ -29,7 +29,7 @@
 
 ### In-Class
 
-* [5.ICE.3: Full Stack AJAX](../../5-full-stack/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
+* [5.ICE.3: Bug Reports AJAX](../../5-full-stack/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
 
 ### Post-Class
 
@@ -59,7 +59,7 @@
 
 ### In-Class
 
-* [Bug Reports Redux](../../course-logistics/course-methodology.md#peer-code-review)
+* [Bug Reports \(5.POCE.1, 5.POCE.2\) Redux](../../course-logistics/course-methodology.md#peer-code-review)
 
 ### Post-Class
 
