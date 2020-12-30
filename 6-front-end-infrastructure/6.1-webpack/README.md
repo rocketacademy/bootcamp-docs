@@ -14,8 +14,6 @@ Webpack is the command line tool that prepares these sets of files.
 
 ![](../../.gitbook/assets/webpack-good.jpg)
 
-
-
 1. The webpack command is run.
 2. Webpack, based on the settings, takes the src/script.js file \(or whatever other files or groups of files are specified\) and transforms it.
 3. Based on the Webpack settings, Webapck puts the resulting file in `./dist`.
@@ -45,52 +43,51 @@ touch dist/index.html
 
 #### src/script.js
 
-```text
+```js
 const component = () => {
-
   // make a container
   const div = document.createElement('div');
-  
+
   // display element
   const span = document.createElement('span');
-  
+
   // input
   const input = document.createElement('input');
 
   // on change, display in the span
-  input.addEventListener('change', function(){
+  input.addEventListener('change', function () {
     span.innerText = input.value;
   });
 
-  div.appendChild( input );
-  div.appendChild( span );
+  div.appendChild(input);
+  div.appendChild(span);
 
   return div;
-}
+};
 
 document.body.appendChild(component());
 ```
 
 #### dist/index.html
 
-```text
- <!DOCTYPE html>
- <html>
-   <head>
-     <meta charset="utf-8" />
-     <title>Getting Started</title>
-   </head>
-   <body>
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Getting Started</title>
+  </head>
+  <body>
     <script src="script.js"></script>
-   </body>
- </html>
+  </body>
+</html>
 ```
 
 ### Webpack configuration:
 
 #### webpack.config.js
 
-```text
+```js
 const path = require('path');
 
 module.exports = {
@@ -117,4 +114,3 @@ Try to paste in some other JavaScript into the source file and see what changes.
 ## Running `index.html`
 
 Double click on the `index.html file` to open it in the browser \(without a file server\).
-
