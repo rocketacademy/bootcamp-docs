@@ -43,7 +43,7 @@ touch dist/index.html
 
 #### src/script.js
 
-```js
+```javascript
 const component = () => {
   // make a container
   const div = document.createElement('div');
@@ -70,7 +70,7 @@ document.body.appendChild(component());
 
 #### dist/index.html
 
-```html
+```markup
 <!DOCTYPE html>
 <html>
   <head>
@@ -87,7 +87,7 @@ document.body.appendChild(component());
 
 #### webpack.config.js
 
-```js
+```javascript
 const path = require('path');
 
 module.exports = {
@@ -101,7 +101,7 @@ module.exports = {
 
 ### Running Webpack
 
-When we run `webpack` it will transform our `script.js` into `script.js` in the `dist` directory.
+When we run `webpack` it will transform our `script.js` into `script.js` in the `dist` directory. We specify `--mode=none` to ensure Webpack looks at the right config file. More on `mode` [here](https://webpack.js.org/api/cli/#default-configurations).
 
 ```text
 npx webpack --mode=none
@@ -114,3 +114,4 @@ Try to paste in some other JavaScript into the source file and see what changes.
 ## Running `index.html`
 
 Double click on the `index.html file` to open it in the browser \(without a file server\).
+
