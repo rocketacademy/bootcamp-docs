@@ -60,7 +60,7 @@ No ICE today.
 
 ### Pre-Class
 
-TBD
+No PRCE today.
 
 ### In-Class
 
@@ -68,7 +68,7 @@ No ICE today.
 
 ### Post-Class
 
-* [Project 3](../../projects/project-3-full-stack-card-game.md)
+* [Project 3 Implementation](../../projects/project-3-full-stack-card-game.md)
 
 ## Day 5
 
