@@ -2,7 +2,7 @@
 
 ## Project
 
-* [Project 3: Full-Stack Card Game](../../projects/project-3-full-stack-card-game.md)
+* [Project 3: Full-Stack Game](../../projects/project-3-full-stack-game.md)
 
 ## Topics
 
@@ -40,7 +40,7 @@ No ICE today.
 ### Post-Class
 
 * [5.POCE.3: AJAX Cards](../../5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
-* [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-card-game.md#ideation-phase-1)
+* [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ## Day 3
 
@@ -54,7 +54,7 @@ No ICE today.
 
 ### Post-Class
 
-* [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-card-game.md#ideation-phase-2)
+* [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-game.md#ideation-phase-2)
 
 ## Day 4
 
@@ -68,7 +68,7 @@ No ICE today.
 
 ### Post-Class
 
-* [Project 3 Implementation](../../projects/project-3-full-stack-card-game.md)
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
 
 ## Day 5
 
