@@ -40,7 +40,7 @@
 ### Pre-Class
 
 * [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../../4-back-end-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table-attributes.md)
-* [5.2.1: AJAX POST](../../5-full-stack/5.2-ajax/5.2.1-ajax-post.md)
+* [5.2.1: AJAX POST](../../5-full-stack/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 ### In-Class
 
