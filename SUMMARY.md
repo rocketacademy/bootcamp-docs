@@ -247,7 +247,7 @@
 
 ## 8️⃣ Advanced React
 
-* [8.0: Module 8 Overview](8-advanced-react/untitled.md)
+* [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
 
 ## 9️⃣ Advanced Topics
 
