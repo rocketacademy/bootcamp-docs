@@ -252,7 +252,7 @@
 ## 9️⃣ Advanced Topics
 
 * [9.0: Advanced Topics Overview](9-advanced-topics/9.0-advanced-topics-overview.md)
-* [9.1: Node Debugger](9-advanced-topics/9.1-node-debugger.md)
+* [9.1: VSCode Node Debugger](9-advanced-topics/9.1-node-debugger.md)
 
 ## 🧮 Data Structures and Algorithms
 
