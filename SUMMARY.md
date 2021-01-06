@@ -247,6 +247,7 @@
 * [7.3: Intro to React State](7-react/7.3-intro-to-react-state.md)
 * [7.4: Express.js + Webpack + React](7-react/7.4-express.js-+-webpack-+-react.md)
 * [7.5: Intro to Prop Functions](7-react/7.5-intro-to-prop-functions.md)
+* [7.6: useEffect](7-react/7.6-useeffect.md)
 
 ## 8️⃣ Advanced React
 
