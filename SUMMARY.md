@@ -243,10 +243,14 @@
 
 * [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
 * [7.1: JSX Intro](7-react/7.1-jsx-intro.md)
-* [7.2: Intro to Components](7-react/7.2-intro-to-components.md)
-* [7.3: Intro to React State](7-react/7.3-intro-to-react-state.md)
+* [7.2: Components](7-react/7.2-components/README.md)
+  * [7.2.1: Props](7-react/7.2-components/7.2.1-props.md)
+  * [7.2.2: State](7-react/7.2-components/7.2.2-state.md)
+  * [7.2.3: Conditional Rendering](7-react/7.2-components/7.2.3-conditional-rendering.md)
+  * [7.2.4: Rendering in a Loop](7-react/7.2-components/7.2.4-rendering-in-a-loop.md)
+* [7.3: Controlled Forms](7-react/7.3-controlled-forms.md)
 * [7.4: Express.js + Webpack + React](7-react/7.4-express.js-+-webpack-+-react.md)
-* [7.5: Intro to Prop Functions](7-react/7.5-intro-to-prop-functions.md)
+* [7.5: Prop Functions](7-react/7.5-prop-functions.md)
 * [7.6: useEffect](7-react/7.6-useeffect.md)
 
 ## 8️⃣ Advanced React
