@@ -242,7 +242,7 @@
 ## 7️⃣ React
 
 * [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
-* [7.1: React Intro](7-react/7.1-react-intro.md)
+* [7.1: JSX Intro](7-react/7.1-jsx-intro.md)
 * [7.2: Express.js + Webpack + React](7-react/7.2-express.js-+-webpack-+-react.md)
 
 ## 8️⃣ Advanced React
