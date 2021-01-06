@@ -243,7 +243,10 @@
 
 * [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
 * [7.1: JSX Intro](7-react/7.1-jsx-intro.md)
-* [7.2: Express.js + Webpack + React](7-react/7.2-express.js-+-webpack-+-react.md)
+* [7.2: Intro to Components](7-react/7.2-intro-to-components.md)
+* [7.3: Intro to React State](7-react/7.3-intro-to-react-state.md)
+* [7.4: Express.js + Webpack + React](7-react/7.4-express.js-+-webpack-+-react.md)
+* [7.5: Intro to Prop Functions](7-react/7.5-intro-to-prop-functions.md)
 
 ## 8️⃣ Advanced React
 
