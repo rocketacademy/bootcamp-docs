@@ -37,7 +37,7 @@
 
 * [Project 1: Video Poker](projects/project-1-video-poker.md)
 * [Project 2: Server-Side App](projects/project-2-server-side-app.md)
-* [Project 3: Full Stack Card Game](projects/project-3-full-stack-card-game.md)
+* [Project 3: Full Stack Game](projects/project-3-full-stack-game.md)
 
 ## 1️⃣ Front-End Basics
 
@@ -215,7 +215,7 @@
 * [5.0: Module 5 Overview](5-full-stack/5.0-module-5-overview.md)
 * [5.1: DOM Manipulation](5-full-stack/5.1-dom-manipulation.md)
 * [5.2: AJAX](5-full-stack/5.2-ajax/README.md)
-  * [5.2.1: AJAX Post](5-full-stack/5.2-ajax/5.2.1-ajax-post.md)
+  * [5.2.1: AJAX POST Requests](5-full-stack/5.2-ajax/5.2.1-ajax-post-requests.md)
   * [5.2.2: AJAX Cards](5-full-stack/5.2-ajax/5.2.2-ajax-cards.md)
 * [5.ICE: In-Class Exercises](5-full-stack/5.ice-in-class-exercises/README.md)
   * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
@@ -247,11 +247,12 @@
 
 ## 8️⃣ Advanced React
 
-* [8.0: Module 8 Overview](8-advanced-react/untitled.md)
+* [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
 
 ## 9️⃣ Advanced Topics
 
 * [9.0: Advanced Topics Overview](9-advanced-topics/9.0-advanced-topics-overview.md)
+* [9.1: VSCode Node Debugger](9-advanced-topics/9.1-node-debugger.md)
 
 ## 🧮 Data Structures and Algorithms
 
