@@ -1,6 +1,6 @@
 # 6.1: Webpack
 
-## Why Webpack
+## What and Why Webpack
 
 When running the front end of our applications we deal with collecting the correct libraries at the last step, that is, when the user's browser is running the link and script tags, as the last step in the process of HTTP request and response.
 
