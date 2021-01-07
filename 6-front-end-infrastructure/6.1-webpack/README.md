@@ -6,6 +6,8 @@ When application front-ends run, `link` and `script` tags run after HTML is retr
 
 We are now building a "back-end" to the front-end JavaScript that runs in the browser, a back-end that does not depend on or interact with our Express.js app. Webpack is the command line tool that pre-processes our front-end files.
 
+## Webpack Order of Events
+
 ![](../../.gitbook/assets/webpack-good.jpg)
 
 1. The `webpack` command is run.
