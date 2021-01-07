@@ -16,7 +16,7 @@
 
 * [4.2.6: Sequelize Validations](../../4-back-end-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
 * [6.1.1: Webpack Import](../../6-front-end-infrastructure/6.1-webpack/6.1.1-webpack-modules.md)
-* [6.1.2: Webpack NPM](../../6-front-end-infrastructure/6.1-webpack/6.1.2-npm.md)
+* [6.1.2: Webpack NPM](../../6-front-end-infrastructure/6.1-webpack/6.1.2-webpack-with-npm.md)
 
 ### In-Class
 
@@ -30,8 +30,8 @@
 
 ### Pre-Class
 
-* [6.1.3: Webpack Babel](../../6-front-end-infrastructure/6.1-webpack/6.1.3-babel.md)
-* [6.1.4: Webpack SASS](../../6-front-end-infrastructure/6.1-webpack/6.1.4-sass.md)
+* [6.1.3: Webpack Babel](../../6-front-end-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
+* [6.1.4: Webpack SASS](../../6-front-end-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
 
 ### In-Class
 
@@ -46,7 +46,7 @@ No ICE today.
 
 ### Pre-Class
 
-* [6.1.5: Webpack + Express](../../6-front-end-infrastructure/6.1-webpack/6.1.5-webpack-+-express.js.md)
+* [6.1.5: Webpack + Express](../../6-front-end-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
 
 ### In-Class
 
