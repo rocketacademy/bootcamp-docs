@@ -20,7 +20,7 @@ We are now building a "back-end" to the front-end JavaScript that runs in the br
 
 ## Webpack Example
 
-### Initialise Webpack Folder
+### Initialise Project Folder
 
 Create a new folder and install Webpack.
 
