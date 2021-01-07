@@ -26,7 +26,7 @@ Create a new folder and install Webpack.
 mkdir webpack-demo
 cd webpack-demo
 npm init -y
-npm install webpack webpack-cli --save-dev
+npm install --save-dev webpack webpack-cli
 ```
 
 Create basic folders and files that Webpack will use for compilation.
