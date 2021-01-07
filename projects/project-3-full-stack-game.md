@@ -13,7 +13,7 @@ Requirements:
 * User login \(full stack or server side\)
 * Users cannot cheat by looking in the dev console
 * Single or many players
-* Interactivity using browser-side javascript
+* Interactivity using browser-side JS
 * The game _play_ cannot be over more than one page
 * Use CSS
 * Use Express.js
