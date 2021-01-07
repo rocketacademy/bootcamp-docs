@@ -113,5 +113,5 @@ Look inside the `dist/script.js` to see the transformed JavaScript file. Note in
 
 ### Run `index.html`
 
-Open `index.html` in the browser without running an Express server. Does our JavaScript from `script.js` load?
+Open `dist/index.html` in the browser without running an Express server. Does our JavaScript from `dist/script.js` load?
 
