@@ -15,8 +15,8 @@ Webpack is the command line tool that prepares these sets of files.
 ![](../../.gitbook/assets/webpack-good.jpg)
 
 1. The webpack command is run.
-2. Webpack, based on the settings, takes the src/script.js file \(or whatever other files or groups of files are specified\) and transforms it.
-3. Based on the Webpack settings, Webapck puts the resulting file in `./dist`.
+2. Webpack, based on the settings, takes the src/script.js file \(or whatever other files or groups of files are specified\) and transforms it. "src" stands for "source".
+3. Based on the Webpack settings, Webapck puts the resulting file in `./dist`. "dist" stands for "distribution".
 4. The Express.js server starts with `node index.js` in the command line. The server is ready to accept requests.
 5. The browser makes a request to the server for a page.
 6. The browser reads a script tag in the HTML response. The script tag `src` source triggers a get request.
