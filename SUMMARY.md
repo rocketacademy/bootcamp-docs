@@ -231,8 +231,8 @@
 
 * [6.0: Module 6 Overview](6-front-end-infrastructure/6.0-module-6-overview.md)
 * [6.1: Webpack](6-front-end-infrastructure/6.1-webpack/README.md)
-  * [6.1.1: Webpack Modules](6-front-end-infrastructure/6.1-webpack/6.1.1-webpack-modules.md)
-  * [6.1.2: Webpack with NPM](6-front-end-infrastructure/6.1-webpack/6.1.2-webpack-with-npm.md)
+  * [6.1.1: Webpack with Local Modules](6-front-end-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
+  * [6.1.2: Webpack with NPM Modules](6-front-end-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
   * [6.1.3: Webpack with Babel](6-front-end-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
   * [6.1.4: Webpack with SASS](6-front-end-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
   * [6.1.5: Webpack with Express](6-front-end-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
