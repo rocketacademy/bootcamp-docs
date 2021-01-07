@@ -31,7 +31,7 @@ npm init -y
 npm install --save-dev webpack webpack-cli
 ```
 
-Create basic folders and files that Webpack will use for compilation.
+Create folders and files that Webpack will use for compilation.
 
 ```text
 mkdir src dist
