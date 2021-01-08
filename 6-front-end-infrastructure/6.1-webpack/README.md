@@ -36,7 +36,7 @@ Create folders and files that Webpack will use for compilation.
 ```text
 mkdir src dist
 touch src/script.js
-touch dist/index.html
+touch dist/main.html
 ```
 
 #### src/script.js
@@ -68,9 +68,9 @@ const component = () => {
 document.body.appendChild(component());
 ```
 
-#### dist/index.html
+#### dist/main.html
 
-Populate an `index.html` file that will load Webpack's transformed `script.js`.
+Populate a `main.html` file that will load Webpack's transformed `script.js`.
 
 ```markup
 <!DOCTYPE html>
@@ -113,7 +113,7 @@ npx webpack --mode=none
 
 Look inside the `dist/script.js` to see the transformed JavaScript file. Note in what ways Webpack has transformed the file. Note that Webpack has removed comments in the output file. Try invoking other JS in the source file and see what changes in Webpack transformation.
 
-### Run `index.html`
+### Run `main.html`
 
-Open `dist/index.html` in the browser without running an Express server. Does our JavaScript from `dist/script.js` load?
+Open `dist/main.html` in the browser without running an Express server. Does our JavaScript from `dist/script.js` load?
 
