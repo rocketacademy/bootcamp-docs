@@ -12,7 +12,7 @@ We can use these files/components to compose together an entire app by condition
 
 At its simplest, a component is a function that returns JSX. In React this is referred to as a _functional component_. The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
 
-```text
+```js
 function BigAnnouncement(){
 
     const myEl = (<div>
@@ -35,7 +35,7 @@ In the above example all we did is move the previous example's JSX into a functi
 
 In the complete example we reference the name of our component _**as if it was an HTML element**_.
 
-```text
+```js
 import React from 'react';
 import { render } from 'react-dom';
 
@@ -63,14 +63,12 @@ document.body.appendChild(rootElement);
 // have react render the JSX element into the root element.
 render( <BigAnnouncement/>, rootElement);
 ```
+
+## Repeating Components
 
 In the sense that BigAnnouncement is an element itself, it can be mentioned more than once. We'll create a surrounding JSX and put BigAnnouncement inside.
 
-
-
-
-
-```text
+```js
 import React from 'react';
 import { render } from 'react-dom';
 
@@ -89,17 +87,19 @@ function BigAnnouncement(){
     return myEl;
 }
 
-const myEl = 
-
 // create an element that React will render stuff into
 const rootElement = document.createElement('div');
 
 // put that element onto the page
 document.body.appendChild(rootElement);
 
+const myContainer = (<div>
+    <BigAnnouncement/>
+    <BigAnnouncement/>
+    <BigAnnouncement/>
+    <BigAnnouncement/>
+</div>);
+
 // have react render the JSX element into the root element.
-render( <BigAnnouncement/>, rootElement);
+render( myContainer, rootElement);
 ```
-
-
-
