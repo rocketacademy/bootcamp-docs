@@ -22,7 +22,7 @@ Each day's deliverables are due by the **start** of that day's class. We will co
 * Rest APIs
 * ORM
 
-## [Weeks 13-16](weeks-13-16.md)
+## [Weeks 13-16](weeks-13-16/)
 
 * React
 * Webpack
