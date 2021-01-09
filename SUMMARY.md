@@ -252,6 +252,8 @@
 * [7.4: Express.js + Webpack + React](7-react/7.4-express.js-+-webpack-+-react.md)
 * [7.5: Prop Functions](7-react/7.5-prop-functions.md)
 * [7.6: useEffect](7-react/7.6-useeffect.md)
+* [7.ICE: In-Class Exercises](7-react/7.ice-in-class-exercises.md)
+* [7.ICE.1: Product Rendering](7-react/7.ice.1-product-rendering.md)
 * [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises.md)
 
 ## 8️⃣ Advanced React
