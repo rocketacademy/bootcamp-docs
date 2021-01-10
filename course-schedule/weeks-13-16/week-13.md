@@ -8,23 +8,17 @@
 
 ### In-Class
 
-* 
-### Post-Class
-
-* 
-## Day 2
+* **Post-Class**
+* **Day 2**
 
 ### Pre-Class
 
-* 
-### In-Class
-
+* **In-Class**
 * Project Presentation
 
 ### Post-Class
 
-* 
-## Day 3
+* **Day 3**
 
 ### Pre-Class
 
@@ -71,5 +65,4 @@
 ### Post-Class
 
 * React Tic Tac Toe
-
 
