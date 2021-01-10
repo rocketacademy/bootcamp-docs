@@ -258,6 +258,7 @@
 * [7.7: Error Boundaries](7-react/7.7-error-boundaries.md)
 * [7.ICE: In-Class Exercises](7-react/7.ice-in-class-exercises/README.md)
   * [7.ICE.1: Product Rendering](7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
+  * [7.ICE.2: Pokedex](7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 * [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises.md)
 
 ## 8️⃣ Advanced React

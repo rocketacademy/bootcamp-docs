@@ -8,17 +8,17 @@
 
 ### In-Class
 
-* **Post-Class**
-* **Day 2**
+[Project 3](../../projects/project-3-full-stack-game.md)
 
-### Pre-Class
+### **Day 2**
 
-* **In-Class**
+### **In-Class**
+
 * Project Presentation
 
 ### Post-Class
 
-* **Day 3**
+### **Day 3**
 
 ### Pre-Class
 
@@ -44,11 +44,11 @@
 
 ### In-Class
 
-* React Components
+* React Pokedex
 
 ### Post-Class
 
-* React Components
+* React Recipes
 
 ## Day 5
 
