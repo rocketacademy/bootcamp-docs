@@ -28,21 +28,25 @@
 
 ### Pre-Class
 
-* React
+* JSX Intro
+* Rendering In a Loop
+* Conditional Rendering
 
 ### In-Class
 
-* React
+* JSX Products Items 
 
 ### Post-Class
 
-* React
+* JSX Bug Reports
 
 ## Day 4
 
 ### Pre-Class
 
-* React
+* Intro to Components
+* Props 
+* Intro to Python
 
 ### In-Class
 
@@ -56,7 +60,10 @@
 
 ### Pre-Class
 
-* React
+* React Express
+* React useState
+* Intro to Python
+* React controlled forms
 
 ### In-Class
 
@@ -64,5 +71,5 @@
 
 ### Post-Class
 
-* React
+* React HotPot
 
