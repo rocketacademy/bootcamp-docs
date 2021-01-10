@@ -8,17 +8,23 @@
 
 ### In-Class
 
-* **Post-Class**
-* **Day 2**
+* 
+### Post-Class
+
+* 
+## Day 2
 
 ### Pre-Class
 
-* **In-Class**
+* 
+### In-Class
+
 * Project Presentation
 
 ### Post-Class
 
-* **Day 3**
+* 
+## Day 3
 
 ### Pre-Class
 
@@ -44,11 +50,11 @@
 
 ### In-Class
 
-* React
+* React Components
 
 ### Post-Class
 
-* React
+* React Components
 
 ## Day 5
 
@@ -57,13 +63,13 @@
 * React Express
 * React useState
 * Intro to Python
-* React controlled forms
 
 ### In-Class
 
-* React
+* React Cards
 
 ### Post-Class
 
-* React HotPot
+* React Tic Tac Toe
+
 
