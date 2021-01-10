@@ -48,7 +48,7 @@
 
 ### Post-Class
 
-* React Recipes
+* React Pokedex
 
 ## Day 5
 
