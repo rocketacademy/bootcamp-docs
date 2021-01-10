@@ -22,6 +22,7 @@
   * [Week 12](course-schedule/weeks-9-12/week-12.md)
 * [Weeks 13-16](course-schedule/weeks-13-16/README.md)
   * [Week 13](course-schedule/weeks-13-16/week-13.md)
+  * [Week 14](course-schedule/weeks-13-16/week-14.md)
 * [Weeks 17-20](course-schedule/weeks-17-20.md)
 * [Weeks 21-24](course-schedule/weeks-21-24.md)
 
