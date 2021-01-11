@@ -153,7 +153,7 @@ In EJS we used the `<%= %>` characters, but in JSX it's `{}`. Just like in EJS a
 
 On line 4 we specify a number and use it on line 12.
 
-```javascript
+```jsx
 import React from 'react';
 import { render } from 'react-dom';
 
