@@ -38,24 +38,24 @@
 
 ### Pre-Class
 
-* Intro to Components
-* Props 
+* [7.2: Components](../../7-react/7.2-components/)
+* [7.2.1: Props ](../../7-react/7.2-components/7.2.1-props.md)
 * Intro to Python
 
 ### In-Class
 
-* React Pokedex
+* [7.ICE.2: React Pokedex](../../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 
 ### Post-Class
 
-* React Pokedex
+* [7.ICE.2: React Pokedex](../../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 
 ## Day 5
 
 ### Pre-Class
 
-* React Express
-* React useState
+* [7.3: React Express](../../7-react/7.3-express.js-+-webpack-+-react.md)
+* [7.4: React useState](../../7-react/7.4-state.md)
 * Intro to Python
 
 ### In-Class
