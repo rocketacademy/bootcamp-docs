@@ -22,17 +22,17 @@
 
 ### Pre-Class
 
-* JSX Intro
-* Rendering In a Loop
-* Conditional Rendering
+* [7.1: JSX Intro](../../7-react/7.1-jsx-intro/)
+* [7.1.1: Conditional Rendering](../../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
+* [7.1.2: Rendering In a Loop](../../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
 
 ### In-Class
 
-* JSX Products Items 
+* [7.ICE.1: JSX Products Items ](../../7-react/7.ice-in-class-exercises/)
 
 ### Post-Class
 
-* JSX Bug Reports
+* [7.POCE.1: JSX Bug Reports](../../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
 
 ## Day 4
 
