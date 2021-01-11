@@ -228,3 +228,7 @@ const myEl = (
 
 See more about JSX on the official docs: [https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)
 
+## Exercise
+
+Repeat the above code.
+
