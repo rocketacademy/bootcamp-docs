@@ -8,13 +8,13 @@ Begin with the base Webpack repo: [https://github.com/rocketacademy/webpack-mvc-
 
 Install the React libraries:
 
-```text
+```bash
 npm install --save-dev react react-dom
 ```
 
 Install the Babel config:
 
-```text
+```bash
 npm install --save-dev @babel/preset-react
 ```
 
@@ -43,21 +43,21 @@ The following code samples accomplish a similar task- creating a div with text i
 
 **DOM JavaScript**
 
-```javascript
+```jsx
 const myEl = doucment.createElement('div');
 myEl.innerText = 'Heeeyyyyy Wow!';
 ```
 
 **React JavaScript**
 
-```javascript
+```jsx
 const React.createElement('div');
 const myEl = React.createElement('div', null, 'Heeeyyyyy Wow!');
 ```
 
 **JSX**
 
-```javascript
+```jsx
 const myEl = <div>Heeeyyyyy Wow!</div>;
 ```
 
@@ -70,7 +70,7 @@ We set Babel up to automatically transform the JSX code into the React code.
 This line from the Webpack config says: transform the JSX into the equivalent React code.
 
 ```javascript
-presets: ['@babel/preset-env','@babel/preset-react'],
+presets: ['@babel/preset-env', '@babel/preset-react'],
 ```
 
 ### Putting it All Together
@@ -79,14 +79,14 @@ We'll use React to put the JSX-React element onto the page.
 
 **src/index.js**
 
-```javascript
+```jsx
 import React from 'react';
 import { render } from 'react-dom';
 
 // create a JSX element
 const myEl = <div>Heeeyyyyy Wow!</div>;
 
-console.log( 'myEl:', myEl );
+console.log('myEl:', myEl);
 
 // create an element that React will render stuff into
 const rootElement = document.createElement('div');
@@ -95,7 +95,7 @@ const rootElement = document.createElement('div');
 document.body.appendChild(rootElement);
 
 // have react render the JSX element into the root element.
-render( myEl, rootElement);
+render(myEl, rootElement);
 ```
 
 #### ReactDom `render`
@@ -106,7 +106,7 @@ In React, in an entire app \(hundreds or thousands of lines long\), one principl
 
 In JSX and React, elements can't have a `class` attribute. We have to replace it with `className`. React will make sure that the final on-screen DOM element has the `class` attribute instead of the `className` attribute.
 
-```javascript
+```jsx
 const myEl = <div className="hero-text">Heeeyyyyy Wow!</div>;
 ```
 
@@ -116,24 +116,24 @@ So far we've created a single element using JSX. This element is then rendered o
 
 There are a few rules when writing bigger JSX:
 
-* When we write out multi-line JSX we have to surround the whole thing with parentheses.
-* Our variable can only contain one element at a time. Note that the `myEl` variable contains a single element \(even though it has other elements _**inside**_\). In general JSX can only deal with single element values.
+- When we write out multi-line JSX we have to surround the whole thing with parentheses.
+- Our variable can only contain one element at a time. Note that the `myEl` variable contains a single element \(even though it has other elements _**inside**_\). In general JSX can only deal with single element values.
 
-```javascript
+```jsx
 import React from 'react';
 import { render } from 'react-dom';
 
 // create a JSX element
-const myEl = (<div>
+const myEl = (
+  <div>
     <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+      Heyyyy <span className="warning">Wow!</span>
     </h1>
-    <p>
-        Lorem Ipsum!!
-    </p>
-</div>);
+    <p>Lorem Ipsum!!</p>
+  </div>
+);
 
-console.log( 'myEl:', myEl );
+console.log('myEl:', myEl);
 
 // create an element that React will render stuff into
 const rootElement = document.createElement('div');
@@ -142,7 +142,7 @@ const rootElement = document.createElement('div');
 document.body.appendChild(rootElement);
 
 // have react render the JSX element into the root element.
-render( myEl, rootElement);
+render(myEl, rootElement);
 ```
 
 ## JSX Templating with Data
@@ -160,16 +160,16 @@ import { render } from 'react-dom';
 const myRandomNum = Math.random();
 
 // create a JSX element
-const myEl = (<div>
+const myEl = (
+  <div>
     <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+      Heyyyy <span className="warning">Wow!</span>
     </h1>
-    <p>
-        Random Value: {myRandomNum}
-    </p>
-</div>);
+    <p>Random Value: {myRandomNum}</p>
+  </div>
+);
 
-console.log( 'myEl:', myEl );
+console.log('myEl:', myEl);
 
 // create an element that React will render stuff into
 const rootElement = document.createElement('div');
@@ -178,33 +178,33 @@ const rootElement = document.createElement('div');
 document.body.appendChild(rootElement);
 
 // have react render the JSX element into the root element.
-render( myEl, rootElement);
+render(myEl, rootElement);
 ```
 
 ### Rendering Values
 
 Any valid JavaScript statement can go into the parentheses.
 
-```javascript
-const myEl = (<div>
+```jsx
+const myEl = (
+  <div>
     <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+      Heyyyy <span className="warning">Wow!</span>
     </h1>
-    <p>
-        Random Value: {Math.random()}
-    </p>
-</div>);
+    <p>Random Value: {Math.random()}</p>
+  </div>
+);
 ```
 
-```javascript
-const myEl = (<div>
+```jsx
+const myEl = (
+  <div>
     <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+      Heyyyy <span className="warning">Wow!</span>
     </h1>
-    <p>
-        Random Value: {Math.random() * 100}
-    </p>
-</div>);
+    <p>Random Value: {Math.random() * 100}</p>
+  </div>
+);
 ```
 
 ### Attributes
@@ -213,18 +213,17 @@ Any HTML attribute value can also be specified, not just the element contents. Q
 
 On line 3 we specify a string URL value. On line 7 we set the HREF of the link tag.
 
-```javascript
+```jsx
 const myUrl = 'http://google.com';
 
-const myEl = (<div>
+const myEl = (
+  <div>
     <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+      Heyyyy <span className="warning">Wow!</span>
     </h1>
-    <a href={myUrl}>
-        Random Value: {Math.random() * 100}
-    </p>
-</div>);
+    <a href={myUrl}>Random Value: {Math.random() * 100}</p>
+  </div>
+);
 ```
 
 See more about JSX on the official docs: [https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)
-
