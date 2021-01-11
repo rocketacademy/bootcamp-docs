@@ -10,7 +10,7 @@
 
 [Project 3](../../projects/project-3-full-stack-game.md)
 
-### **Day 2**
+## **Day 2**
 
 ### **In-Class**
 
@@ -18,7 +18,7 @@
 
 ### Post-Class
 
-### **Day 3**
+## **Day 3**
 
 ### Pre-Class
 
