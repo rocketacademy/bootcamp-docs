@@ -1,0 +1,2104 @@
+{
+  "bugs": [
+    {
+      "id": 1,
+      "problem": "Use the back-end PCI panel, then you can copy the 1080p card!",
+      "errorText": "We need to override the auxiliary PNG pixel!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 2,
+      "problem": "We need to quantify the redundant USB driver!",
+      "errorText": "I'll calculate the cross-platform SCSI pixel, that should transmitter the TCP protocol!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 3,
+      "problem": "The PCI bus is down, generate the wireless array so we can reboot the ADP alarm!",
+      "errorText": "If we override the monitor, we can get to the RSS application through the redundant SCSI monitor!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 4,
+      "problem": "Try to override the IB bus, maybe it will generate the 1080p firewall!",
+      "errorText": "The SCSI alarm is down, hack the 1080p monitor so we can index the TCP firewall!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 5,
+      "problem": "The SMS card is down, override the auxiliary array so we can reboot the HTTP bus!",
+      "errorText": "The JBOD monitor is down, override the back-end system so we can connect the SSL alarm!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 6,
+      "problem": "navigating the matrix won't do anything, we need to program the multi-byte USB pixel!",
+      "errorText": "Use the multi-byte COM capacitor, then you can transmit the online protocol!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 7,
+      "problem": "You can't navigate the system without quantifying the primary SMS matrix!",
+      "errorText": "If we synthesize the matrix, we can get to the SMTP monitor through the neural SQL bus!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 8,
+      "problem": "Use the 1080p SSL port, then you can transmit the back-end application!",
+      "errorText": "Try to program the RSS firewall, maybe it will synthesize the bluetooth application!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 9,
+      "problem": "Use the mobile PCI array, then you can quantify the primary sensor!",
+      "errorText": "We need to synthesize the auxiliary TCP pixel!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 10,
+      "problem": "Try to quantify the SAS microchip, maybe it will back up the haptic bandwidth!",
+      "errorText": "Use the cross-platform PNG panel, then you can generate the open-source sensor!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 21,
+      "FeatureId": 21,
+      "Feature": {
+        "id": 21,
+        "name": "alarm-calculate",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 21,
+        "email": "Julien.Windler@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 11,
+      "problem": "If we override the panel, we can get to the AI circuit through the online AGP alarm!",
+      "errorText": "Use the multi-byte FTP protocol, then you can back up the open-source monitor!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 12,
+      "problem": "bypassing the system won't do anything, we need to generate the optical JSON system!",
+      "errorText": "You can't connect the circuit without programming the back-end SMTP system!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 13,
+      "problem": "Use the auxiliary HTTP alarm, then you can reboot the mobile circuit!",
+      "errorText": "If we input the hard drive, we can get to the TCP program through the online SMS driver!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 14,
+      "problem": "If we transmit the program, we can get to the EXE circuit through the multi-byte HDD monitor!",
+      "errorText": "Try to reboot the AI microchip, maybe it will copy the online card!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 15,
+      "problem": "Try to navigate the EXE hard drive, maybe it will parse the online matrix!",
+      "errorText": "I'll connect the online ADP matrix, that should hard drive the GB matrix!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 16,
+      "problem": "Try to navigate the SQL bus, maybe it will hack the open-source hard drive!",
+      "errorText": "The IB panel is down, back up the optical transmitter so we can parse the SDD port!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 17,
+      "problem": "Use the digital SAS transmitter, then you can reboot the open-source interface!",
+      "errorText": "Try to connect the FTP matrix, maybe it will index the virtual alarm!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 18,
+      "problem": "Use the haptic AI system, then you can connect the 1080p application!",
+      "errorText": "Try to copy the SMTP port, maybe it will bypass the haptic panel!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 19,
+      "problem": "If we generate the interface, we can get to the SSL monitor through the redundant IB firewall!",
+      "errorText": "If we bypass the port, we can get to the SMTP port through the multi-byte HTTP matrix!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 20,
+      "problem": "We need to transmit the 1080p CSS sensor!",
+      "errorText": "We need to calculate the open-source IB matrix!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 22,
+      "FeatureId": 22,
+      "Feature": {
+        "id": 22,
+        "name": "capacitor-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 22,
+        "email": "Keenan.Welch@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 21,
+      "problem": "If we input the sensor, we can get to the JBOD microchip through the open-source USB driver!",
+      "errorText": "generating the array won't do anything, we need to calculate the bluetooth SMTP application!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 22,
+      "problem": "We need to bypass the mobile GB feed!",
+      "errorText": "The GB alarm is down, input the redundant microchip so we can reboot the HTTP matrix!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 23,
+      "problem": "You can't transmit the program without hacking the haptic RSS monitor!",
+      "errorText": "I'll bypass the 1080p XSS system, that should port the IB microchip!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 24,
+      "problem": "We need to reboot the back-end THX array!",
+      "errorText": "We need to navigate the optical EXE transmitter!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 25,
+      "problem": "We need to compress the primary FTP alarm!",
+      "errorText": "You can't transmit the protocol without backing up the wireless JSON microchip!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 26,
+      "problem": "The SSL bandwidth is down, bypass the open-source driver so we can bypass the AI port!",
+      "errorText": "backing up the system won't do anything, we need to synthesize the haptic SQL interface!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 27,
+      "problem": "Use the redundant THX array, then you can override the multi-byte card!",
+      "errorText": "We need to transmit the back-end SMS firewall!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 28,
+      "problem": "The ADP bandwidth is down, transmit the mobile capacitor so we can transmit the THX microchip!",
+      "errorText": "You can't navigate the program without quantifying the redundant SDD protocol!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 29,
+      "problem": "We need to synthesize the open-source IB program!",
+      "errorText": "compressing the microchip won't do anything, we need to generate the bluetooth HDD sensor!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 30,
+      "problem": "If we hack the application, we can get to the GB hard drive through the cross-platform JSON alarm!",
+      "errorText": "You can't override the bus without bypassing the auxiliary SDD application!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 23,
+      "FeatureId": 23,
+      "Feature": {
+        "id": 23,
+        "name": "capacitor-input",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 23,
+        "email": "Jocelyn17@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 31,
+      "problem": "I'll input the solid state JSON alarm, that should program the FTP bandwidth!",
+      "errorText": "You can't transmit the hard drive without bypassing the haptic RSS protocol!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 32,
+      "problem": "We need to synthesize the optical PCI system!",
+      "errorText": "The PNG port is down, calculate the multi-byte firewall so we can connect the XML monitor!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 33,
+      "problem": "I'll transmit the multi-byte XML microchip, that should circuit the SAS circuit!",
+      "errorText": "The HTTP protocol is down, generate the primary application so we can input the HTTP system!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 34,
+      "problem": "If we generate the hard drive, we can get to the SMS port through the haptic SAS pixel!",
+      "errorText": "Use the cross-platform AI interface, then you can input the wireless system!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 35,
+      "problem": "Use the neural EXE firewall, then you can bypass the neural panel!",
+      "errorText": "If we program the microchip, we can get to the SMS pixel through the digital SMTP circuit!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 36,
+      "problem": "If we program the feed, we can get to the SSL panel through the digital SMS bandwidth!",
+      "errorText": "calculating the interface won't do anything, we need to generate the neural RAM circuit!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 37,
+      "problem": "bypassing the card won't do anything, we need to override the haptic SDD panel!",
+      "errorText": "If we copy the card, we can get to the COM bus through the 1080p FTP circuit!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 38,
+      "problem": "Use the open-source RAM microchip, then you can input the cross-platform microchip!",
+      "errorText": "I'll quantify the digital SAS capacitor, that should circuit the FTP monitor!",
+      "createdAt": "2021-01-11T14:51:59.855Z",
+      "updatedAt": "2021-01-11T14:51:59.855Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 39,
+      "problem": "We need to synthesize the bluetooth HTTP circuit!",
+      "errorText": "indexing the program won't do anything, we need to transmit the virtual TCP microchip!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 40,
+      "problem": "The RAM circuit is down, index the multi-byte firewall so we can hack the ADP port!",
+      "errorText": "Use the haptic FTP transmitter, then you can transmit the online program!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 24,
+      "FeatureId": 24,
+      "Feature": {
+        "id": 24,
+        "name": "system-copy",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 24,
+        "email": "Itzel_Tillman43@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 41,
+      "problem": "You can't override the bandwidth without synthesizing the digital AI array!",
+      "errorText": "We need to calculate the primary COM port!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 42,
+      "problem": "Use the bluetooth THX panel, then you can calculate the mobile interface!",
+      "errorText": "copying the transmitter won't do anything, we need to bypass the back-end SMS transmitter!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 43,
+      "problem": "Try to parse the PNG hard drive, maybe it will compress the multi-byte system!",
+      "errorText": "We need to program the online IB application!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 44,
+      "problem": "I'll calculate the 1080p AGP monitor, that should application the RAM capacitor!",
+      "errorText": "You can't input the program without synthesizing the back-end GB pixel!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 45,
+      "problem": "You can't override the firewall without compressing the online SCSI array!",
+      "errorText": "If we copy the bus, we can get to the JBOD program through the wireless PCI matrix!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 46,
+      "problem": "Use the online RSS interface, then you can transmit the virtual port!",
+      "errorText": "Use the virtual RAM panel, then you can copy the primary microchip!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 47,
+      "problem": "Use the multi-byte SMS protocol, then you can copy the primary bandwidth!",
+      "errorText": "I'll hack the neural HTTP feed, that should port the GB bus!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 48,
+      "problem": "If we back up the panel, we can get to the IB capacitor through the multi-byte USB alarm!",
+      "errorText": "If we hack the protocol, we can get to the TCP sensor through the primary SDD bandwidth!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 49,
+      "problem": "We need to copy the online ADP port!",
+      "errorText": "You can't reboot the panel without hacking the haptic TCP feed!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 50,
+      "problem": "Try to calculate the SSL circuit, maybe it will navigate the back-end system!",
+      "errorText": "Use the multi-byte SAS card, then you can back up the virtual protocol!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 25,
+      "FeatureId": 25,
+      "Feature": {
+        "id": 25,
+        "name": "hard-drive-program",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 25,
+        "email": "Lia.Shanahan@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 51,
+      "problem": "We need to input the neural IB program!",
+      "errorText": "parsing the panel won't do anything, we need to override the back-end GB program!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 52,
+      "problem": "If we hack the port, we can get to the JBOD circuit through the bluetooth CSS interface!",
+      "errorText": "hacking the system won't do anything, we need to back up the virtual EXE transmitter!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 53,
+      "problem": "Use the open-source FTP firewall, then you can generate the redundant circuit!",
+      "errorText": "transmitting the application won't do anything, we need to back up the haptic USB array!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 54,
+      "problem": "I'll index the mobile FTP port, that should protocol the SDD alarm!",
+      "errorText": "The GB circuit is down, bypass the optical array so we can navigate the SSL feed!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 55,
+      "problem": "Try to connect the GB sensor, maybe it will quantify the redundant array!",
+      "errorText": "Use the multi-byte SCSI port, then you can copy the haptic protocol!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 56,
+      "problem": "We need to generate the online TCP application!",
+      "errorText": "You can't reboot the protocol without copying the mobile JBOD card!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 57,
+      "problem": "If we program the panel, we can get to the SQL alarm through the back-end PCI sensor!",
+      "errorText": "If we transmit the matrix, we can get to the XSS sensor through the digital IB card!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 58,
+      "problem": "You can't bypass the protocol without backing up the primary ADP firewall!",
+      "errorText": "You can't override the monitor without compressing the open-source PNG port!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 59,
+      "problem": "Use the wireless CSS firewall, then you can input the primary driver!",
+      "errorText": "You can't program the hard drive without hacking the wireless USB interface!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 60,
+      "problem": "Try to copy the SMS port, maybe it will calculate the back-end port!",
+      "errorText": "Try to calculate the GB sensor, maybe it will navigate the online port!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 26,
+      "FeatureId": 26,
+      "Feature": {
+        "id": 26,
+        "name": "array-quantify",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 26,
+        "email": "Craig.Wisozk@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 61,
+      "problem": "The CSS matrix is down, copy the auxiliary monitor so we can reboot the SDD monitor!",
+      "errorText": "transmitting the card won't do anything, we need to synthesize the mobile TCP sensor!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 62,
+      "problem": "I'll reboot the solid state TCP transmitter, that should hard drive the ADP pixel!",
+      "errorText": "Use the bluetooth AI alarm, then you can copy the digital system!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 63,
+      "problem": "The THX application is down, connect the redundant transmitter so we can connect the PNG pixel!",
+      "errorText": "I'll generate the solid state HDD pixel, that should port the PNG sensor!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 64,
+      "problem": "Try to parse the SSL matrix, maybe it will generate the 1080p port!",
+      "errorText": "I'll reboot the online TCP bus, that should microchip the XML capacitor!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 65,
+      "problem": "You can't synthesize the card without synthesizing the online RAM protocol!",
+      "errorText": "You can't reboot the port without programming the 1080p SSL pixel!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 66,
+      "problem": "You can't copy the protocol without synthesizing the cross-platform JSON matrix!",
+      "errorText": "navigating the microchip won't do anything, we need to override the solid state SMS protocol!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 67,
+      "problem": "The SCSI application is down, transmit the back-end driver so we can copy the GB transmitter!",
+      "errorText": "We need to copy the open-source USB driver!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 68,
+      "problem": "We need to navigate the bluetooth SAS system!",
+      "errorText": "We need to transmit the solid state EXE card!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 69,
+      "problem": "Use the redundant AGP firewall, then you can copy the optical firewall!",
+      "errorText": "You can't input the interface without parsing the multi-byte RAM protocol!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 70,
+      "problem": "You can't generate the driver without bypassing the redundant SQL capacitor!",
+      "errorText": "copying the panel won't do anything, we need to override the redundant TCP matrix!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 27,
+      "FeatureId": 27,
+      "Feature": {
+        "id": 27,
+        "name": "driver-bypass",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 27,
+        "email": "Gregoria.Grimes27@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 71,
+      "problem": "Try to input the FTP capacitor, maybe it will transmit the auxiliary card!",
+      "errorText": "You can't compress the port without programming the mobile XSS system!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 72,
+      "problem": "The XML array is down, quantify the cross-platform protocol so we can bypass the SAS protocol!",
+      "errorText": "generating the capacitor won't do anything, we need to override the solid state EXE sensor!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 73,
+      "problem": "Try to input the FTP capacitor, maybe it will compress the online sensor!",
+      "errorText": "parsing the monitor won't do anything, we need to navigate the digital PCI bandwidth!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 74,
+      "problem": "You can't back up the microchip without compressing the virtual GB circuit!",
+      "errorText": "The FTP circuit is down, back up the digital matrix so we can index the SDD feed!",
+      "createdAt": "2021-01-11T14:51:59.856Z",
+      "updatedAt": "2021-01-11T14:51:59.856Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 75,
+      "problem": "I'll hack the bluetooth FTP microchip, that should matrix the XSS protocol!",
+      "errorText": "Try to navigate the TCP bandwidth, maybe it will reboot the neural protocol!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 76,
+      "problem": "The JSON program is down, calculate the solid state circuit so we can transmit the FTP pixel!",
+      "errorText": "calculating the alarm won't do anything, we need to generate the haptic AGP pixel!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 77,
+      "problem": "Use the bluetooth SSL program, then you can quantify the multi-byte hard drive!",
+      "errorText": "I'll override the bluetooth XSS system, that should interface the AGP monitor!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 78,
+      "problem": "The XSS hard drive is down, parse the bluetooth program so we can input the AGP alarm!",
+      "errorText": "programming the program won't do anything, we need to bypass the solid state JSON interface!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 79,
+      "problem": "I'll parse the cross-platform PNG sensor, that should firewall the HTTP pixel!",
+      "errorText": "The ADP transmitter is down, synthesize the online protocol so we can connect the EXE card!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 80,
+      "problem": "You can't hack the pixel without navigating the primary THX driver!",
+      "errorText": "We need to reboot the mobile SCSI panel!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 28,
+      "FeatureId": 28,
+      "Feature": {
+        "id": 28,
+        "name": "matrix-hack",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 28,
+        "email": "Lesley.Gleason@yahoo.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 81,
+      "problem": "The EXE program is down, synthesize the solid state system so we can override the SDD capacitor!",
+      "errorText": "Use the haptic TCP interface, then you can reboot the open-source bus!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 82,
+      "problem": "I'll parse the optical RSS circuit, that should bus the SMTP program!",
+      "errorText": "navigating the firewall won't do anything, we need to parse the back-end XSS bus!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 83,
+      "problem": "If we synthesize the alarm, we can get to the AI circuit through the mobile PNG sensor!",
+      "errorText": "We need to input the neural EXE alarm!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 84,
+      "problem": "bypassing the application won't do anything, we need to reboot the wireless SAS driver!",
+      "errorText": "I'll program the multi-byte PNG hard drive, that should feed the RAM capacitor!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 85,
+      "problem": "Try to program the EXE protocol, maybe it will compress the solid state protocol!",
+      "errorText": "The SCSI monitor is down, back up the neural sensor so we can connect the SSL program!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 86,
+      "problem": "We need to back up the primary RSS system!",
+      "errorText": "Try to compress the SDD program, maybe it will navigate the solid state card!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 87,
+      "problem": "You can't index the microchip without programming the back-end SMS matrix!",
+      "errorText": "We need to synthesize the digital SCSI panel!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 88,
+      "problem": "We need to hack the open-source SAS protocol!",
+      "errorText": "I'll reboot the neural IB pixel, that should card the PCI sensor!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 89,
+      "problem": "Try to synthesize the RSS monitor, maybe it will quantify the primary program!",
+      "errorText": "We need to navigate the haptic AI protocol!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 90,
+      "problem": "synthesizing the microchip won't do anything, we need to transmit the online SMTP protocol!",
+      "errorText": "If we bypass the array, we can get to the COM monitor through the mobile SAS matrix!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 29,
+      "FeatureId": 29,
+      "Feature": {
+        "id": 29,
+        "name": "circuit-back-up",
+        "createdAt": "2021-01-11T14:51:59.843Z",
+        "updatedAt": "2021-01-11T14:51:59.843Z"
+      },
+      "User": {
+        "id": 29,
+        "email": "Lina_Boehm@hotmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 91,
+      "problem": "We need to generate the primary SCSI panel!",
+      "errorText": "Try to calculate the EXE protocol, maybe it will calculate the haptic pixel!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 92,
+      "problem": "synthesizing the application won't do anything, we need to reboot the bluetooth USB port!",
+      "errorText": "The RAM transmitter is down, reboot the mobile bus so we can navigate the CSS bandwidth!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 93,
+      "problem": "We need to back up the optical THX monitor!",
+      "errorText": "I'll reboot the bluetooth RSS monitor, that should port the SCSI card!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 94,
+      "problem": "The RAM driver is down, index the mobile sensor so we can reboot the XSS alarm!",
+      "errorText": "If we copy the card, we can get to the IB interface through the wireless SAS circuit!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 95,
+      "problem": "I'll compress the redundant HDD driver, that should capacitor the COM driver!",
+      "errorText": "indexing the interface won't do anything, we need to calculate the digital SSL capacitor!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 96,
+      "problem": "We need to connect the neural SAS bus!",
+      "errorText": "If we override the hard drive, we can get to the THX application through the solid state THX bus!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 97,
+      "problem": "If we input the hard drive, we can get to the CSS card through the bluetooth SMS feed!",
+      "errorText": "Try to generate the SDD feed, maybe it will calculate the haptic protocol!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 98,
+      "problem": "If we override the port, we can get to the FTP array through the multi-byte SMS transmitter!",
+      "errorText": "I'll transmit the auxiliary IB monitor, that should microchip the FTP port!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 99,
+      "problem": "You can't connect the firewall without overriding the cross-platform SDD interface!",
+      "errorText": "You can't connect the circuit without overriding the cross-platform THX array!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    },
+    {
+      "id": 100,
+      "problem": "I'll back up the bluetooth GB monitor, that should card the IB monitor!",
+      "errorText": "We need to calculate the online THX program!",
+      "createdAt": "2021-01-11T14:51:59.857Z",
+      "updatedAt": "2021-01-11T14:51:59.857Z",
+      "UserId": 30,
+      "FeatureId": 30,
+      "Feature": {
+        "id": 30,
+        "name": "firewall-reboot",
+        "createdAt": "2021-01-11T14:51:59.844Z",
+        "updatedAt": "2021-01-11T14:51:59.844Z"
+      },
+      "User": {
+        "id": 30,
+        "email": "Robert35@gmail.com",
+        "createdAt": "2021-01-11T14:51:59.850Z",
+        "updatedAt": "2021-01-11T14:51:59.850Z"
+      }
+    }
+  ]
+}
