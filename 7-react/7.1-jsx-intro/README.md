@@ -1,10 +1,10 @@
 # 7.1: JSX Intro
 
-## 7.1: JSX Intro
+## Introduction
 
 Begin with the base Webpack repo: [https://github.com/rocketacademy/webpack-mvc-base-swe1.git](https://github.com/rocketacademy/webpack-mvc-base-swe1.git)
 
-### Setup
+## Setup
 
 Install the React libraries:
 
@@ -35,7 +35,7 @@ Change the regex \(line 2\) to include our new file extension, JSX.
 },
 ```
 
-### JSX
+## JSX
 
 JSX is a _syntax extension_ to JavaScript. It allows us to specify DOM elements directly in our JavaScript code, by just writing out the HTML for that kind of element. JSX is used with React so that you can specify the kinds of elements you want the React library to manipulate.
 
@@ -63,7 +63,7 @@ const myEl = <div>Heeeyyyyy Wow!</div>;
 
 Try to copy and paste the JSX example code into the Chrome dev tools console- You'll get a syntax error.
 
-### Babel
+## Babel
 
 We set Babel up to automatically transform the JSX code into the React code.
 
@@ -73,7 +73,7 @@ This line from the Webpack config says: transform the JSX into the equivalent Re
 presets: ['@babel/preset-env', '@babel/preset-react'],
 ```
 
-### Putting it All Together
+## Putting it All Together
 
 We'll use React to put the JSX-React element onto the page.
 
@@ -102,7 +102,7 @@ render(myEl, rootElement);
 
 In React, in an entire app \(hundreds or thousands of lines long\), one principle that developers try to adhere to is that the DOM is only ever mentioned once, at the beginning of the setup of the app. This line tells React which container element to render all the rest of the DOM elements into. When we have React control more and more elements on the screen the DOM will still only ever be mentioned once in relation to the `ReactDOM` `render` function.
 
-### Classes
+## Classes
 
 In JSX and React, elements can't have a `class` attribute. We have to replace it with `className`. React will make sure that the final on-screen DOM element has the `class` attribute instead of the `className` attribute.
 
@@ -110,7 +110,7 @@ In JSX and React, elements can't have a `class` attribute. We have to replace it
 const myEl = <div className="hero-text">Heeeyyyyy Wow!</div>;
 ```
 
-### Benefits of JSX
+## Benefits of JSX
 
 So far we've created a single element using JSX. This element is then rendered onto the page. Our equivalent DOM code is the same length or shorter. However, the real power of JSX is the ability to specify a complete set of elements easily, the same as just writing HTML. How many lines would it take to write the equivalent DOM code?
 

@@ -42,22 +42,29 @@
 
 ### In-Class
 
-* **Post-Class**
+### **Post-Class**
+
 * React Hot Pot
 
 ## Day 4
 
 ### Pre-Class
 
-* **In-Class**
-* **Post-Class**
+### **In-Class**
+
+### **Post-Class**
+
 * React Hot Pot
 
 ## Day 5
 
 ### Pre-Class
 
-* **In-Class**
-* **Post-Class**
+### **In-Class**
+
+### **Post-Class**
+
 * React Hot Pot
+
+### 
 
