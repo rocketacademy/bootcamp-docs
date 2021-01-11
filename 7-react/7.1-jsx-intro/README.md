@@ -116,8 +116,8 @@ So far we've created a single element using JSX. This element is then rendered o
 
 There are a few rules when writing bigger JSX:
 
-- When we write out multi-line JSX we have to surround the whole thing with parentheses.
-- Our variable can only contain one element at a time. Note that the `myEl` variable contains a single element \(even though it has other elements _**inside**_\). In general JSX can only deal with single element values.
+* When we write out multi-line JSX we have to surround the whole thing with parentheses.
+* Our variable can only contain one element at a time. Note that the `myEl` variable contains a single element \(even though it has other elements _**inside**_\). In general JSX can only deal with single element values.
 
 ```jsx
 import React from 'react';
@@ -227,3 +227,4 @@ const myEl = (
 ```
 
 See more about JSX on the official docs: [https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)
+
