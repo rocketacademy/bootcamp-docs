@@ -250,16 +250,17 @@
 * [7.2: Components](7-react/7.2-components/README.md)
   * [7.2.1: Props](7-react/7.2-components/7.2.1-props.md)
   * [7.2.2: Rendering Components](7-react/7.2-components/7.2.2-rendering-components.md)
-  * [7.2.3: State](7-react/7.2-components/7.2.3-state.md)
 * [7.3: Express.js + Webpack + React](7-react/7.3-express.js-+-webpack-+-react.md)
-* [7.4: Controlled Forms](7-react/7.4-controlled-forms.md)
-* [7.5: Prop Functions](7-react/7.5-prop-functions.md)
-* [7.6: useEffect](7-react/7.6-useeffect.md)
-* [7.7: Error Boundaries](7-react/7.7-error-boundaries.md)
+* [7.4: State](7-react/7.4-state.md)
+* [7.5: Controlled Forms](7-react/7.5-controlled-forms.md)
+* [7.6: Prop Functions](7-react/7.6-prop-functions.md)
+* [7.7: useEffect](7-react/7.7-useeffect.md)
+* [7.8: Error Boundaries](7-react/7.8-error-boundaries.md)
 * [7.ICE: In-Class Exercises](7-react/7.ice-in-class-exercises/README.md)
   * [7.ICE.1: Product Rendering](7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
   * [7.ICE.2: Pokedex](7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
-* [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises.md)
+* [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises/README.md)
+  * [7.POCE.1: Bugs](7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
 
 ## 8️⃣ Advanced React
 
