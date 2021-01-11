@@ -24,7 +24,7 @@
 
 ### Post-Class
 
-* [5.POCE.3: AJAX Cards](../../5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ## Day 2
 
@@ -39,7 +39,7 @@ No ICE today.
 
 ### Post-Class
 
-* [5.POCE.3: AJAX Cards](../../5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 * [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ## Day 3

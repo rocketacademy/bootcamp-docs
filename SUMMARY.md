@@ -212,22 +212,22 @@
   * [4.POCE.2: Sequelize CLI - Travel Itinerary](4-back-end-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
   * [4.POCE.3: Project 2 MVC Refactor](4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-## 5️⃣ Full-Stack
+## 5️⃣ Full-Stack Application
 
-* [5.0: Module 5 Overview](5-full-stack/5.0-module-5-overview.md)
-* [5.1: DOM Manipulation](5-full-stack/5.1-dom-manipulation.md)
-* [5.2: AJAX](5-full-stack/5.2-ajax/README.md)
-  * [5.2.1: AJAX POST Requests](5-full-stack/5.2-ajax/5.2.1-ajax-post-requests.md)
-  * [5.2.2: AJAX Cards](5-full-stack/5.2-ajax/5.2.2-ajax-cards.md)
-* [5.ICE: In-Class Exercises](5-full-stack/5.ice-in-class-exercises/README.md)
-  * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
-  * [5.ICE.2: AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.2-ajax.md)
-  * [5.ICE.3: Full Stack AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
-  * [5.ICE.4: Cross Domain AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
-* [5.POCE: Post-Class Exercises](5-full-stack/5.poce-post-class-exercises/README.md)
-  * [5.POCE.1: Bug Reports AJAX](5-full-stack/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
-  * [5.POCE.2: Bug Reports AJAX Users](5-full-stack/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
-  * [5.POCE.3: AJAX Cards](5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.0: Module 5 Overview](5-full-stack-application/5.0-module-5-overview.md)
+* [5.1: DOM Manipulation](5-full-stack-application/5.1-dom-manipulation.md)
+* [5.2: AJAX](5-full-stack-application/5.2-ajax/README.md)
+  * [5.2.1: AJAX POST Requests](5-full-stack-application/5.2-ajax/5.2.1-ajax-post-requests.md)
+  * [5.2.2: AJAX Cards](5-full-stack-application/5.2-ajax/5.2.2-ajax-cards.md)
+* [5.ICE: In-Class Exercises](5-full-stack-application/5.ice-in-class-exercises/README.md)
+  * [5.ICE.1: Full Stack Modal](5-full-stack-application/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
+  * [5.ICE.2: AJAX](5-full-stack-application/5.ice-in-class-exercises/5.ice.2-ajax.md)
+  * [5.ICE.3: Full Stack AJAX](5-full-stack-application/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
+  * [5.ICE.4: Cross Domain AJAX](5-full-stack-application/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
+* [5.POCE: Post-Class Exercises](5-full-stack-application/5.poce-post-class-exercises/README.md)
+  * [5.POCE.1: Bug Reports AJAX](5-full-stack-application/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
+  * [5.POCE.2: Bug Reports AJAX Users](5-full-stack-application/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
+  * [5.POCE.3: AJAX Cards](5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ## 6️⃣ Front-End Infrastructure
 
