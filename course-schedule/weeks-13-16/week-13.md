@@ -14,9 +14,11 @@
 
 ### **In-Class**
 
-* Project Presentation
+* [Project 3 Presentations](../../course-logistics/course-methodology.md#project-presentations)
 
 ### Post-Class
+
+* [Project 3 Post-Mortems](../../projects/project-3-full-stack-game.md#post-mortem-meeting)
 
 ## **Day 3**
 
