@@ -153,7 +153,7 @@ Run Express:
 npx nodemon index.mjs
 ```
 
-http://localhost:3004/home
+Go to the page: http://localhost:3004/home
 
 ## ReactDom `render`
 
