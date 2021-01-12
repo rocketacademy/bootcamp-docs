@@ -8,7 +8,30 @@ During the 2nd half of SWE1 we will learn the concepts behind and drill DS&A int
 
 ## Outline
 
-1. Software engineering interview overview
+1. Intro to Python
+2. Intro to Object-Oriented Programming
+3. Software engineering interview overview
    1. Industry overview
    2. Interview overview
+4. Complexity Analysis, Big-O Notation
+   1. Analysis of Common Algorithms
+5. Recursion
+6. Sorting Algorithms
+7. Arrays
+8. Hash Tables
+9. Stacks
+10. Queues
+11. Linked Lists
+12. Trees
+13. Graphs
+14. Heaps
+15. Dynamic Programming
+16. Common Question Patterns
+    1. Binary Search
+    2. Breadth-First Search
+    3. Depth-First Search
+    4. Bit Operations and Manipulation
+    5. Sliding Window
+    6. Backtracking
+17. Practice \(Leetcode, Hackerrank, Cracking the Coding Interview\)
 
