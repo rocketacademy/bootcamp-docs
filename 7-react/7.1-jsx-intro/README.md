@@ -37,6 +37,8 @@ Change the regex \(line 2\) to include our new file extension, JSX.
 
 #### webpack.dev.js
 
+The full config file should look like this:
+
 ```jsx
 const { merge } = require('webpack-merge');
 const path = require('path');
