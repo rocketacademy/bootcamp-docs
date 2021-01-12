@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Begin with the base Webpack repo: [https://github.com/rocketacademy/webpack-mvc-base-swe1.git](https://github.com/rocketacademy/webpack-mvc-base-swe1.git)
+Begin with the base Webpack repo: [https://github.com/rocketacademy/webpack-mvc-base-swe1](https://github.com/rocketacademy/webpack-mvc-base-swe1.git)
 
 ## Setup
 
@@ -33,6 +33,47 @@ Change the regex \(line 2\) to include our new file extension, JSX.
     },
   },
 },
+```
+
+#### webpack.dev.js
+
+```jsx
+const { merge } = require('webpack-merge');
+const path = require('path');
+
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const common = require('./webpack.common.js');
+
+module.exports = merge(common, {
+  entry: {
+    main: './src/index.js',
+  },
+  mode: 'development',
+  devtool: 'inline-source-map',
+  watch: true,
+  module: {
+    rules: [
+      {
+        test: /\.(js|mjs|jsx)$/, // regex to see which files to run babel on
+        exclude: /node_modules/,
+        use: {
+          loader: require.resolve('babel-loader'),
+          options: {
+            presets: ['@babel/preset-env','@babel/preset-react'],
+          },
+        },
+      },
+    ],
+  },
+  plugins: [
+    new HtmlWebpackPlugin({
+      // name this file main, so that it does not get automatically requested as a static file
+      filename: './main.html',
+      template: path.resolve(__dirname, '..', 'src', 'main.html'),
+    }),
+
+  ].filter(Boolean),
+});
 ```
 
 ## JSX
@@ -98,7 +139,21 @@ document.body.appendChild(rootElement);
 render(myEl, rootElement);
 ```
 
-#### ReactDom `render`
+To run it use the watch command:
+
+```jsx
+npm run watch
+```
+
+Run Express:
+
+```jsx
+npx nodemon index.mjs
+```
+
+http://localhost:3004/home
+
+## ReactDom `render`
 
 In React, in an entire app \(hundreds or thousands of lines long\), one principle that developers try to adhere to is that the DOM is only ever mentioned once, at the beginning of the setup of the app. This line tells React which container element to render all the rest of the DOM elements into. When we have React control more and more elements on the screen the DOM will still only ever be mentioned once in relation to the `ReactDOM` `render` function.
 
