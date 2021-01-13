@@ -81,7 +81,15 @@ module.exports = merge(common, {
 
 ## JSX Syntax
 
-The following are 3 examples of how we might create a div with inner text in DOM, React, and JSX respectively. Try to execute the JSX code in Chrome DevTools- we should get a syntax error.
+The following are examples of how we might create a div with inner text in DOM, React, and JSX syntax respectively. Eventually we will write React with JSX syntax, combining the best of React with JSX. Try to execute the JSX code in Chrome DevTools- we should get a syntax error.
+
+{% hint style="info" %}
+We set up Babel in our Webpack config to automatically transform JSX to React. Note that `@babel/preset-env` needs to be specified before `@babel/preset-react` so that ES6 gets transformed to ES5 before JSX gets transformed to React.
+
+```javascript
+presets: ['@babel/preset-env', '@babel/preset-react'],
+```
+{% endhint %}
 
 ### **DOM JavaScript**
 
@@ -102,74 +110,63 @@ const myEl = React.createElement('div', null, 'Hey Wow!');
 const myEl = <div>Hey Wow!</div>;
 ```
 
-## Use Babel to Transform JSX
+## Minimal JSX App
 
-We set up Babel in our Webpack config to automatically transform JSX to React. The following line from the Webpack config says: "transform the JSX into the equivalent React code". Note that `@babel/preset-env` needs to be specified before `@babel/preset-react` so that ES6 gets transformed to ES5 before JSX gets transformed to React.
+Render a div element with React and JSX.
 
-```javascript
-presets: ['@babel/preset-env', '@babel/preset-react'],
-```
-
-## Putting it All Together
-
-We'll use React to put the JSX-React element onto the page.
-
-**src/index.jsx**
+**src/index.js**
 
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
 import './styles.scss';
 
-// Create JSX element and log it
+// Create JSX element and log it.
 const myEl = <div>Hey Wow!</div>;
 console.log('myEl: ', myEl);
 
-// Create root element that React will render other elements into
+// Create root element to render other elements into, add root element to DOM.
 const rootElement = document.createElement('div');
-// Add root element to page
 document.body.appendChild(rootElement);
 
-// have react render the JSX element into the root element.
+// Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
 
-To run it use the watch command:
+Run the `watch` command to have Webpack auto-compile our code.
 
 ```jsx
 npm run watch
 ```
 
-Run Express:
+Run our Express server in a new terminal to serve our website.
 
 ```jsx
 npx nodemon index.mjs
 ```
 
-Go to the page: http://localhost:3004/home
+Visit [http://localhost:3004/home](http://localhost:3004/home) in Chrome to view our element.
 
-## ReactDom `render`
+## Only Use `react-dom`'s  `render` Function Once Per App
 
 In React, in an entire app \(hundreds or thousands of lines long\), one principle that developers try to adhere to is that the DOM is only ever mentioned once, at the beginning of the setup of the app. This line tells React which container element to render all the rest of the DOM elements into. When we have React control more and more elements on the screen the DOM will still only ever be mentioned once in relation to the `ReactDOM` `render` function.
 
+## Using CSS Classes with React
 
-
-## Classes
-
-In JSX and React, elements can't have a `class` attribute. We have to replace it with `className`. React will make sure that the final on-screen DOM element has the `class` attribute instead of the `className` attribute.
+In JSX and React, HTML elements can't have a `class` attribute because the HTML `class` keyword conflicts with JavaScript's `class` keyword. JSX has chosen to replace `class` with `className`. React will translate `className` to `class` such that our browsers know what CSS to apply.
 
 ```jsx
-const myEl = <div className="hero-text">Heeeyyyyy Wow!</div>;
+const myEl = <div className="hero-text">Hey Wow!</div>;
 ```
 
 ## Benefits of JSX
 
 So far we've created a single element using JSX. This element is then rendered onto the page. Our equivalent DOM code is the same length or shorter. However, the real power of JSX is the ability to specify a complete set of elements easily, the same as just writing HTML. How many lines would it take to write the equivalent DOM code?
 
-There are a few rules when writing bigger JSX:
+There are a few rules when writing longer JSX:
 
-* When we write out multi-line JSX we have to surround the whole thing with parentheses.
-* Our variable can only contain one element at a time. Note that the `myEl` variable contains a single element \(even though it has other elements _**inside**_\). In general JSX can only deal with single element values.
+1. When we write multi-line JSX we surround the JSX expression with parentheses.
+2. Our variable can only contain one element at a time. Note that the `myEl` variable contains a single element \(even though it has other elements _**inside**_\). In general JSX can only deal with single element values.
 
 ```jsx
 import React from 'react';
@@ -179,7 +176,7 @@ import { render } from 'react-dom';
 const myEl = (
   <div>
     <h1 className="hero-text">
-      Heyyyy <span className="warning">Wow!</span>
+      Hey <span className="warning">Wow!</span>
     </h1>
     <p>Lorem Ipsum!!</p>
   </div>
