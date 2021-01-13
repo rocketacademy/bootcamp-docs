@@ -2,9 +2,13 @@
 
 ## Introduction
 
-Begin with the base Webpack repo: [https://github.com/rocketacademy/webpack-mvc-base-swe1](https://github.com/rocketacademy/webpack-mvc-base-swe1.git)
+JSX is a JS **"syntax extension"** that allows us to specify HTML elements directly in JS. We use JSX with React to specify elements we want React to manipulate. In this module we'll create a sample app with JSX, starting with the [base Webpack repo](https://github.com/rocketacademy/webpack-mvc-base-swe1).
 
 ## Setup
+
+### Clone Repo
+
+Clone the [base Webpack repo](https://github.com/rocketacademy/webpack-mvc-base-swe1).
 
 ### Install Packages
 
@@ -75,38 +79,32 @@ module.exports = merge(common, {
 });
 ```
 
-## JSX
+## JSX Syntax
 
-JSX is a _syntax extension_ to JavaScript. It allows us to specify DOM elements directly in our JavaScript code, by just writing out the HTML for that kind of element. JSX is used with React so that you can specify the kinds of elements you want the React library to manipulate.
+The following are 3 examples of how we might create a div with inner text in DOM, React, and JSX respectively. Try to execute the JSX code in Chrome DevTools- we should get a syntax error.
 
-The following code samples accomplish a similar task- creating a div with text inside it:
-
-**DOM JavaScript**
+### **DOM JavaScript**
 
 ```jsx
-const myEl = doucment.createElement('div');
-myEl.innerText = 'Heeeyyyyy Wow!';
+const myEl = document.createElement('div');
+myEl.innerText = 'Hey Wow!';
 ```
 
-**React JavaScript**
+### **React JavaScript**
 
 ```jsx
-const myEl = React.createElement('div', null, 'Heeeyyyyy Wow!');
+const myEl = React.createElement('div', null, 'Hey Wow!');
 ```
 
-**JSX**
+### **JSX**
 
 ```jsx
-const myEl = <div>Heeeyyyyy Wow!</div>;
+const myEl = <div>Hey Wow!</div>;
 ```
 
-Try to copy and paste the JSX example code into the Chrome dev tools console- You'll get a syntax error.
+## Use Babel to Transform JSX
 
-## Babel
-
-We set Babel up to automatically transform the JSX code into the React code.
-
-This line from the Webpack config says: transform the JSX into the equivalent React code.
+We set up Babel in our Webpack config to automatically transform JSX to React. The following line from the Webpack config says: "transform the JSX into the equivalent React code". Note that `@babel/preset-env` needs to be specified before `@babel/preset-react` so that ES6 gets transformed to ES5 before JSX gets transformed to React.
 
 ```javascript
 presets: ['@babel/preset-env', '@babel/preset-react'],
@@ -123,15 +121,13 @@ import React from 'react';
 import { render } from 'react-dom';
 import './styles.scss';
 
-// create a JSX element
-const myEl = <div>Heeeyyyyy Wow!</div>;
+// Create JSX element and log it
+const myEl = <div>Hey Wow!</div>;
+console.log('myEl: ', myEl);
 
-console.log('myEl:', myEl);
-
-// create an element that React will render stuff into
+// Create root element that React will render other elements into
 const rootElement = document.createElement('div');
-
-// put that element onto the page
+// Add root element to page
 document.body.appendChild(rootElement);
 
 // have react render the JSX element into the root element.
