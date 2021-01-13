@@ -114,6 +114,16 @@ Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
 
 Add [this extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make opening the `index.html` file easier.
 
+## VSCode Settings \(Mac and Windows\)
+
+We will be using React in SWE1. Please add the following setting to VSCode to support React. To find these settings, follow [instructions from SWE101](https://swe101.rocketacademy.co/course-logistics/required-hardware-and-software#vscode).
+
+```bash
+"[javascriptreact]": {
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+},
+```
+
 ## Folder Organisation \(Mac and Windows\)
 
 In SWE1 we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
