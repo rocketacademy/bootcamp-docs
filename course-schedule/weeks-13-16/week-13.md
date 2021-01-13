@@ -6,11 +6,23 @@
 
 ## Day 1
 
+### Pre-Class
+
+No pre-class material today.
+
 ### In-Class
 
-[Project 3](../../projects/project-3-full-stack-game.md)
+No in-class material today.
+
+### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md) 
 
 ## **Day 2**
+
+### **Pre-Class**
+
+No pre-class material today.
 
 ### **In-Class**
 
