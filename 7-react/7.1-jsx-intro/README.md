@@ -112,9 +112,9 @@ const myEl = <div>Hey Wow!</div>;
 
 ## Minimal JSX App
 
-Render a div element with React and JSX.
+Render a div element with React and JSX. 1 common property of React apps is that the DOM is only ever mentioned once, at app setup with `react-dom`'s `render` function. This is true of apps like ours below and apps with millions of lines of code. `render` tells React which element to render all other DOM elements into.
 
-**src/index.js**
+### **src/index.js**
 
 ```jsx
 import React from 'react';
@@ -147,10 +147,6 @@ npx nodemon index.mjs
 
 Visit [http://localhost:3004/home](http://localhost:3004/home) in Chrome to view our element.
 
-## Only Use `react-dom`'s  `render` Function Once Per App
-
-In React, in an entire app \(hundreds or thousands of lines long\), one principle that developers try to adhere to is that the DOM is only ever mentioned once, at the beginning of the setup of the app. This line tells React which container element to render all the rest of the DOM elements into. When we have React control more and more elements on the screen the DOM will still only ever be mentioned once in relation to the `ReactDOM` `render` function.
-
 ## Using CSS Classes with React
 
 In JSX and React, HTML elements can't have a `class` attribute because the HTML `class` keyword conflicts with JavaScript's `class` keyword. JSX has chosen to replace `class` with `className`. React will translate `className` to `class` such that our browsers know what CSS to apply.
@@ -159,20 +155,20 @@ In JSX and React, HTML elements can't have a `class` attribute because the HTML 
 const myEl = <div className="hero-text">Hey Wow!</div>;
 ```
 
-## Benefits of JSX
+## JSX with Multiple Elements
 
-So far we've created a single element using JSX. This element is then rendered onto the page. Our equivalent DOM code is the same length or shorter. However, the real power of JSX is the ability to specify a complete set of elements easily, the same as just writing HTML. How many lines would it take to write the equivalent DOM code?
+So far we've used JSX to create a single HTML element and rendered that element onto our page. Our equivalent DOM code would be the same length or shorter. The real benefit of JSX is the ability to specify a set of nested elements in the same way we would write HTML. How many lines would the equivalent DOM code be?
 
-There are a few rules when writing longer JSX:
+There are a few rules when writing longer JSX.
 
-1. When we write multi-line JSX we surround the JSX expression with parentheses.
-2. Our variable can only contain one element at a time. Note that the `myEl` variable contains a single element \(even though it has other elements _**inside**_\). In general JSX can only deal with single element values.
+1. Surround multi-line JSX expressions with parentheses.
+2. 1 JS variable contains at most 1 JSX element. Note the `myEl` variable contains a single element even though it has other elements inside it.
 
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
 
-// create a JSX element
+// Create JSX element and log it.
 const myEl = (
   <div>
     <h1 className="hero-text">
@@ -181,26 +177,21 @@ const myEl = (
     <p>Lorem Ipsum!!</p>
   </div>
 );
+console.log('myEl: ', myEl);
 
-console.log('myEl:', myEl);
-
-// create an element that React will render stuff into
+// Create root element to render other elements into, add root element to DOM.
 const rootElement = document.createElement('div');
-
-// put that element onto the page
 document.body.appendChild(rootElement);
 
-// have react render the JSX element into the root element.
+// Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
 
 ## JSX Templating with Data
 
-In JSX it's possible to turn JavaScript variable values into rendered elements.
+### Basic Templating Example
 
-In EJS we used the `<%= %>` characters, but in JSX it's `{}`. Just like in EJS any variable value we specify will get put into the final element on the page.
-
-On line 4 we specify a number and use it on line 12.
+We can inject JS variables into JSX, similar to how we injected JS variables into EJS. In EJS we used `<%= %>` syntax, but in JSX it's `{}`. In the following example, we initialise a number on line 4 and use it on line 12.
 
 ```jsx
 import React from 'react';
@@ -208,63 +199,46 @@ import { render } from 'react-dom';
 
 const myRandomNum = Math.random();
 
-// create a JSX element
+// Create JSX element and log it.
 const myEl = (
   <div>
     <h1 className="hero-text">
-      Heyyyy <span className="warning">Wow!</span>
+      Hey <span className="warning">Wow!</span>
     </h1>
     <p>Random Value: {myRandomNum}</p>
   </div>
 );
+console.log('myEl: ', myEl);
 
-console.log('myEl:', myEl);
-
-// create an element that React will render stuff into
+// Create root element to render other elements into, add root element to DOM.
 const rootElement = document.createElement('div');
-
-// put that element onto the page
 document.body.appendChild(rootElement);
 
-// have react render the JSX element into the root element.
+// Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
 
-### Rendering Values
+### Templates Accept Any JS Code
 
-Any valid JavaScript statement can go into the parentheses.
-
-```jsx
-const myEl = (
-  <div>
-    <h1 className="hero-text">
-      Heyyyy <span className="warning">Wow!</span>
-    </h1>
-    <p>Random Value: {Math.random()}</p>
-  </div>
-);
-```
+Curly braces in JSX can contain any valid JavaScript code.
 
 ```jsx
 const myEl = (
   <div>
     <h1 className="hero-text">
-      Heyyyy <span className="warning">Wow!</span>
+      Hey <span className="warning">Wow!</span>
     </h1>
     <p>Random Value: {Math.random() * 100}</p>
   </div>
 );
 ```
 
-### Attributes
+### Template Substitution Also Works in Element Attributes
 
-Any HTML attribute value can also be specified, not just the element contents. Quotations for the attribute value are not needed.
-
-On line 3 we specify a string URL value. On line 7 we set the `href` of the link tag.
+JSX also allows templating of HTML attribute values, not just HTML element contents. We need not specify quotations around HTML attribute values. In the following example we initialise a URL string on line 1 and use it in an `href` attribute on line 7.
 
 ```jsx
 const myUrl = 'http://google.com';
-
 const myEl = (
   <div>
     <h1 className="hero-text">
@@ -275,7 +249,9 @@ const myEl = (
 );
 ```
 
-See more about JSX on the official docs: [https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)
+## Further Reading
+
+Read more about JSX on the official docs: [https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)
 
 ## Exercise
 
