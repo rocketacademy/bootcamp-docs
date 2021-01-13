@@ -269,7 +269,7 @@ const myEl = (
 
 Any HTML attribute value can also be specified, not just the element contents. Quotations for the attribute value are not needed.
 
-On line 3 we specify a string URL value. On line 7 we set the HREF of the link tag.
+On line 3 we specify a string URL value. On line 7 we set the `href` of the link tag.
 
 ```jsx
 const myUrl = 'http://google.com';
