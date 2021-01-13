@@ -119,7 +119,7 @@ presets: ['@babel/preset-env', '@babel/preset-react'],
 
 We'll use React to put the JSX-React element onto the page.
 
-**src/index.js**
+**src/index.jsx**
 
 ```jsx
 import React from 'react';
