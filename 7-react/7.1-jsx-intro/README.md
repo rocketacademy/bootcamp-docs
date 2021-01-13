@@ -2,7 +2,7 @@
 
 ## Introduction
 
-JSX is a JS **"syntax extension"** that allows us to specify HTML elements directly in JS. We use JSX with React to specify elements we want React to manipulate. In this module we'll create a sample app with JSX, starting with the [base Webpack repo](https://github.com/rocketacademy/webpack-mvc-base-swe1).
+JSX is a JS **"syntax extension"** that allows us to specify HTML elements directly in JS. We use JSX with React to specify elements we want React to manipulate. In this module we'll create a sample app with JSX.
 
 ## Setup
 
