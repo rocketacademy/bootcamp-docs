@@ -6,25 +6,23 @@ Begin with the base Webpack repo: [https://github.com/rocketacademy/webpack-mvc-
 
 ## Setup
 
-Install the React libraries:
+### Install Packages
+
+Install React libraries and Babel preset for React.
 
 ```bash
-npm install --save-dev react react-dom
+npm install --save-dev react react-dom @babel/preset-react
 ```
 
-Install the Babel config:
+### Update Webpack Config to Support React
 
-```bash
-npm install --save-dev @babel/preset-react
-```
-
-Add the react preset to the Babel configs \(line 7\).
-
-Change the regex \(line 2\) to include our new file extension, JSX.
+1. Update the `test` regular expression \(line 3\) to include our new file extension, `.jsx`.
+2. Add the React preset to the `presets` key \(line 8\).
 
 ```javascript
 {
-  test: /\.(js|mjs|jsx)$/, // regex to see which files to run babel on
+  // regex to see which files to run babel on
+  test: /\.(js|mjs|jsx)$/,
   exclude: /node_modules/,
   use: {
     loader: require.resolve('babel-loader'),
@@ -35,15 +33,14 @@ Change the regex \(line 2\) to include our new file extension, JSX.
 },
 ```
 
-#### webpack.dev.js
+### Sample `webpack.dev.js`
 
-The full config file should look like this:
+The full Webpack dev config should look like the following.
 
 ```jsx
-const { merge } = require('webpack-merge');
-const path = require('path');
-
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const path = require('path');
+const { merge } = require('webpack-merge');
 const common = require('./webpack.common.js');
 
 module.exports = merge(common, {
@@ -53,28 +50,28 @@ module.exports = merge(common, {
   mode: 'development',
   devtool: 'inline-source-map',
   watch: true,
-  module: {
-    rules: [
-      {
-        test: /\.(js|mjs|jsx)$/, // regex to see which files to run babel on
-        exclude: /node_modules/,
-        use: {
-          loader: require.resolve('babel-loader'),
-          options: {
-            presets: ['@babel/preset-env','@babel/preset-react'],
-          },
-        },
-      },
-    ],
-  },
   plugins: [
     new HtmlWebpackPlugin({
       // name this file main, so that it does not get automatically requested as a static file
       filename: './main.html',
       template: path.resolve(__dirname, '..', 'src', 'main.html'),
     }),
-
   ].filter(Boolean),
+  module: {
+    rules: [
+      {
+        // regex to see which files to run babel on
+        test: /\.(js|mjs|jsx)$/,
+        exclude: /node_modules/,
+        use: {
+          loader: require.resolve('babel-loader'),
+          options: {
+            presets: ['@babel/preset-env', '@babel/preset-react'],
+          },
+        },
+      },
+    ],
+  },
 });
 ```
 
