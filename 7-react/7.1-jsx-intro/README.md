@@ -124,6 +124,7 @@ We'll use React to put the JSX-React element onto the page.
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
+import './styles.scss';
 
 // create a JSX element
 const myEl = <div>Heeeyyyyy Wow!</div>;
