@@ -94,7 +94,6 @@ myEl.innerText = 'Heeeyyyyy Wow!';
 **React JavaScript**
 
 ```jsx
-const React.createElement('div');
 const myEl = React.createElement('div', null, 'Heeeyyyyy Wow!');
 ```
 
@@ -280,7 +279,7 @@ const myEl = (
     <h1 className="hero-text">
       Heyyyy <span className="warning">Wow!</span>
     </h1>
-    <a href={myUrl}>Random Value: {Math.random() * 100}</p>
+    <a href={myUrl}>Random Value: {Math.random() * 100}</a>
   </div>
 );
 ```
