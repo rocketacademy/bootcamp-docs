@@ -274,4 +274,5 @@
 ## 🧮 Data Structures and Algorithms
 
 * [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview.md)
+* [Intro to Python](data-structures-and-algorithms/intro-to-python.md)
 
