@@ -74,7 +74,7 @@ No pre-class material today.
 
 ### In-Class
 
-* React Cards
+* [7.ICE.3: React Cards](../../7-react/7.ice-in-class-exercises/7.ice.3-react-cards.md)
 
 ### Post-Class
 
