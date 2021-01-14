@@ -9,16 +9,16 @@ During the 2nd half of SWE1 we will learn the concepts behind and drill DS&A int
 ## Outline
 
 1. Intro to Python
-2. Intro to Object-Oriented Programming
-3. Software engineering interview overview
+2. Software engineering interview overview
    1. Industry overview
    2. Interview overview
-4. Complexity Analysis, Big-O Notation
+3. Complexity Analysis, Big-O Notation
    1. Analysis of Common Algorithms
-5. Recursion
-6. Sorting Algorithms
-7. Arrays
-8. Hash Tables
+4. Recursion
+5. Sorting Algorithms
+6. Arrays
+7. Hash Tables
+8. Intro to Object-Oriented Programming
 9. Stacks
 10. Queues
 11. Linked Lists
