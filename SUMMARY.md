@@ -259,6 +259,7 @@
 * [7.ICE: In-Class Exercises](7-react/7.ice-in-class-exercises/README.md)
   * [7.ICE.1: Product Rendering](7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
   * [7.ICE.2: Pokedex](7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
+  * [7.ICE.3: React Cards](7-react/7.ice-in-class-exercises/7.ice.3-react-cards.md)
 * [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises/README.md)
   * [7.POCE.1: Bugs](7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
 
