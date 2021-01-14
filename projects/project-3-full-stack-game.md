@@ -1,4 +1,4 @@
-# Project 3: Full Stack Game
+# Project 3: Full-Stack Game
 
 ## Introduction
 

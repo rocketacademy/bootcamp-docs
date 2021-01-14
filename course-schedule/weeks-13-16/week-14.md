@@ -32,7 +32,7 @@
 
 ### Post-Class
 
-* React Tasks
+* React Task Tracker
 
 ## Day 3
 

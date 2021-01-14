@@ -39,7 +39,7 @@
 
 * [Project 1: Video Poker](projects/project-1-video-poker.md)
 * [Project 2: Server-Side App](projects/project-2-server-side-app.md)
-* [Project 3: Full Stack Game](projects/project-3-full-stack-game.md)
+* [Project 3: Full-Stack Game](projects/project-3-full-stack-game.md)
 
 ## 1️⃣ Front-End Basics
 
@@ -212,22 +212,22 @@
   * [4.POCE.2: Sequelize CLI - Travel Itinerary](4-back-end-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
   * [4.POCE.3: Project 2 MVC Refactor](4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-## 5️⃣ Full-Stack
+## 5️⃣ Full-Stack Application
 
-* [5.0: Module 5 Overview](5-full-stack/5.0-module-5-overview.md)
-* [5.1: DOM Manipulation](5-full-stack/5.1-dom-manipulation.md)
-* [5.2: AJAX](5-full-stack/5.2-ajax/README.md)
-  * [5.2.1: AJAX POST Requests](5-full-stack/5.2-ajax/5.2.1-ajax-post-requests.md)
-  * [5.2.2: AJAX Cards](5-full-stack/5.2-ajax/5.2.2-ajax-cards.md)
-* [5.ICE: In-Class Exercises](5-full-stack/5.ice-in-class-exercises/README.md)
-  * [5.ICE.1: Full Stack Modal](5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
-  * [5.ICE.2: AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.2-ajax.md)
-  * [5.ICE.3: Full Stack AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
-  * [5.ICE.4: Cross Domain AJAX](5-full-stack/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
-* [5.POCE: Post-Class Exercises](5-full-stack/5.poce-post-class-exercises/README.md)
-  * [5.POCE.1: Bug Reports AJAX](5-full-stack/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
-  * [5.POCE.2: Bug Reports AJAX Users](5-full-stack/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
-  * [5.POCE.3: AJAX Cards](5-full-stack/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.0: Module 5 Overview](5-full-stack-application/5.0-module-5-overview.md)
+* [5.1: DOM Manipulation](5-full-stack-application/5.1-dom-manipulation.md)
+* [5.2: AJAX](5-full-stack-application/5.2-ajax/README.md)
+  * [5.2.1: AJAX POST Requests](5-full-stack-application/5.2-ajax/5.2.1-ajax-post-requests.md)
+  * [5.2.2: AJAX Cards](5-full-stack-application/5.2-ajax/5.2.2-ajax-cards.md)
+* [5.ICE: In-Class Exercises](5-full-stack-application/5.ice-in-class-exercises/README.md)
+  * [5.ICE.1: Full Stack Modal](5-full-stack-application/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
+  * [5.ICE.2: AJAX](5-full-stack-application/5.ice-in-class-exercises/5.ice.2-ajax.md)
+  * [5.ICE.3: Full Stack AJAX](5-full-stack-application/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
+  * [5.ICE.4: Cross Domain AJAX](5-full-stack-application/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
+* [5.POCE: Post-Class Exercises](5-full-stack-application/5.poce-post-class-exercises/README.md)
+  * [5.POCE.1: Bug Reports AJAX](5-full-stack-application/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
+  * [5.POCE.2: Bug Reports AJAX Users](5-full-stack-application/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
+  * [5.POCE.3: AJAX Cards](5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ## 6️⃣ Front-End Infrastructure
 
@@ -250,16 +250,18 @@
 * [7.2: Components](7-react/7.2-components/README.md)
   * [7.2.1: Props](7-react/7.2-components/7.2.1-props.md)
   * [7.2.2: Rendering Components](7-react/7.2-components/7.2.2-rendering-components.md)
-  * [7.2.3: State](7-react/7.2-components/7.2.3-state.md)
 * [7.3: Express.js + Webpack + React](7-react/7.3-express.js-+-webpack-+-react.md)
-* [7.4: Controlled Forms](7-react/7.4-controlled-forms.md)
-* [7.5: Prop Functions](7-react/7.5-prop-functions.md)
-* [7.6: useEffect](7-react/7.6-useeffect.md)
-* [7.7: Error Boundaries](7-react/7.7-error-boundaries.md)
+* [7.4: State](7-react/7.4-state.md)
+* [7.5: Controlled Forms](7-react/7.5-controlled-forms.md)
+* [7.6: Prop Functions](7-react/7.6-prop-functions.md)
+* [7.7: useEffect](7-react/7.7-useeffect.md)
+* [7.8: Error Boundaries](7-react/7.8-error-boundaries.md)
 * [7.ICE: In-Class Exercises](7-react/7.ice-in-class-exercises/README.md)
   * [7.ICE.1: Product Rendering](7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
   * [7.ICE.2: Pokedex](7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
-* [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises.md)
+  * [7.ICE.3: React Cards](7-react/7.ice-in-class-exercises/7.ice.3-react-cards.md)
+* [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises/README.md)
+  * [7.POCE.1: Bugs](7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
 
 ## 8️⃣ Advanced React
 
@@ -272,5 +274,6 @@
 
 ## 🧮 Data Structures and Algorithms
 
-* [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview.md)
+* [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview/README.md)
+  * [Intro to Python](data-structures-and-algorithms/d.0-module-d-overview/intro-to-python.md)
 

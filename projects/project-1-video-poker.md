@@ -1,10 +1,12 @@
 # Project 1: Video Poker
 
-{% hint style="danger" %}
-Rocket Academy does not endorse gambling or any other illegal activity.
-{% endhint %}
+## Introduction
 
 Video Poker is the Poker card game, but for one player. You will play hands of poker and try to score points by getting the best hand possible.
+
+{% hint style="danger" %}
+**Rocket Academy does not endorse gambling.** We chose Video Poker as a project because of its complex rules that help facilitate coding instruction.
+{% endhint %}
 
 ## Setup
 

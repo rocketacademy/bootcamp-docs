@@ -68,11 +68,11 @@
 
 ### Pre-Class
 
-* [5.1: Browser DOM JS](../../5-full-stack/5.1-dom-manipulation.md)
+* [5.1: Browser DOM JS](../../5-full-stack-application/5.1-dom-manipulation.md)
 
 ### In-Class
 
-* [5.ICE.1: Modal](../../5-full-stack/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
+* [5.ICE.1: Modal](../../5-full-stack-application/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
 
 ### Post-Class
 

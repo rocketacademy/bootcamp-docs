@@ -16,14 +16,16 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 
 | Module | Name | Topics | Stack |
 | :--- | :--- | :--- | :--- |
-| 1 | [Front End Basics](1-front-end-basics/1.0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
-| 2 | [Back End Basics](2-back-end-basics/2.0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
-| 3 | [Back End Application](3-back-end-application/3.0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
-| 4 | [Full Stack Application](4-back-end-structure/4.0-module-4-overview.md) | Full Stack Web Applications, MVC Architecture, ORM, APIs, AJAX | Full Stack |
-| 5 | [React](5-full-stack/5.0-module-5-overview.md) | React, Webpack | Front End |
-| 6 | [Advanced React, Advanced Full Stack](6-front-end-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App, Sockets, GraphQL | Full Stack |
-| 7 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Mobile, Data Science, Operating Systems, Networking, Compilers | Full Stack |
-| D | [Data Structures and Algorithms](data-structures-and-algorithms/d.0-module-d-overview.md) | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
+| 1 | [Front-End Basics](1-front-end-basics/1.0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
+| 2 | [Back-End Basics](2-back-end-basics/2.0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
+| 3 | [Back-End Application](3-back-end-application/3.0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
+| 4 | [Back-End Structure](4-back-end-structure/4.0-module-4-overview.md) | ORM, Sequelize, MVC | Back End |
+| 5 | [Full-Stack Application](4-back-end-structure/4.0-module-4-overview.md) | AJAX, APIs | Full Stack |
+| 6 | [Front-End Infrastructure](6-front-end-infrastructure/6.0-module-6-overview.md) | Webpack | Front End |
+| 7 | [React](5-full-stack-application/5.0-module-5-overview.md) | React | Front End |
+| 8 | [Advanced React, Advanced Full Stack](6-front-end-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App, | Full Stack |
+| 9 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Mobile, Data Science, Operating Systems, Networking, Compilers,   | Full Stack |
+| D | [Data Structures and Algorithms](data-structures-and-algorithms/d.0-module-d-overview/) | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
 
 ## Projects
 
