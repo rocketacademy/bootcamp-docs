@@ -78,5 +78,5 @@ No pre-class material today.
 
 ### Post-Class
 
-* React Tic Tac Toe
+* [7.POCE.2: React Tic Tac Toe](../../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
 
