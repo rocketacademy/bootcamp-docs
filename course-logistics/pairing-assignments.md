@@ -16,11 +16,9 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 2 \(Jan 2021 - Jun 2021\)
 
-| Day | Pair 1 | Pair 2 | Pair 3 |
-| :--- | :--- | :--- | :--- |
-| Mon | Ian, Michelle | Kara, Jerome | Zeph |
-| Tue | Ian, Kara | Michelle, Zeph | Jerome |
-| Wed | Ian, Jerome | Kara, Zeph | Michelle |
-| Thu | Ian, Zeph | Michelle, Jerome | Kara |
-| Fri | Michelle, Kara | Jerome, Zeph | Ian |
+| Day | Pair 1 | Pair 2 |
+| :--- | :--- | :--- |
+| 1 | Ian, Michelle | Jerome, Zeph |
+| 2 | Ian, Jerome | Michelle, Zeph |
+| 3 | Ian, Zeph | Michelle, Jerome |
 
