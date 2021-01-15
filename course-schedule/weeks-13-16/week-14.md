@@ -8,8 +8,8 @@
 
 ### Pre-Class
 
-* React controlled forms
-* Prop Functions
+* [7.5: Controlled Forms](../../7-react/7.5-controlled-forms.md)
+* [7.6: Prop Functions](../../7-react/7.6-prop-functions.md)
 
 ### In-Class
 
