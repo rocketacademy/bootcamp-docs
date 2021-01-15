@@ -262,6 +262,7 @@
   * [7.ICE.3: React Cards](7-react/7.ice-in-class-exercises/7.ice.3-react-cards.md)
 * [7.POCE: Post-Class Exercises](7-react/7.poce-post-class-exercises/README.md)
   * [7.POCE.1: Bugs](7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
+  * [7.POCE.2: React Tic Tac Toe](7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
 
 ## 8️⃣ Advanced React
 
