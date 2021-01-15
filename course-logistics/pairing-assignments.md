@@ -16,7 +16,9 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 2 \(Jan 2021 - Jun 2021\)
 
-| Day | Pair 1 | Pair 2 |
+Formation number is determined by `((${weekNum} * ${dayNum}) % 3) + 1`.
+
+| Formation | Pair 1 | Pair 2 |
 | :--- | :--- | :--- |
 | 1 | Ian, Michelle | Jerome, Zeph |
 | 2 | Ian, Jerome | Michelle, Zeph |
