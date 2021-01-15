@@ -52,9 +52,9 @@ No pre-class material today.
 
 ### Pre-Class
 
-* [7.2: Components](../../7-react/7.2-components/)
-* [7.2.1: Props ](../../7-react/7.2-components/7.2.1-props.md)
 * [Intro to Python: 1-8](../../data-structures-and-algorithms/d.0-module-d-overview/intro-to-python.md)
+* [7.2: Components](../../7-react/7.2-components/)
+* [7.2.1: Props](../../7-react/7.2-components/7.2.1-props.md)
 
 ### In-Class
 
@@ -68,9 +68,9 @@ No pre-class material today.
 
 ### Pre-Class
 
+* [Intro to Python: 9-11](../../data-structures-and-algorithms/d.0-module-d-overview/intro-to-python.md)
 * [7.3: React Express](../../7-react/7.3-express.js-+-webpack-+-react.md)
 * [7.4: React useState](../../7-react/7.4-state.md)
-* [Intro to Python: 9-11](../../data-structures-and-algorithms/d.0-module-d-overview/intro-to-python.md)
 
 ### In-Class
 
