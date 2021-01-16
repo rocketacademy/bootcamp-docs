@@ -265,6 +265,7 @@
   * [7.POCE.1: Bugs](7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
   * [7.POCE.2: React Tic Tac Toe](7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
   * [7.POCE.3: Read Later](7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+  * [7.POCE.4: Hot Pot Bill Splitter](7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 
 ## 8️⃣ Advanced React
 
