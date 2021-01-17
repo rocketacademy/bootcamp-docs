@@ -20,5 +20,3 @@ The following are a collection of concise exercises from [learnpython.org](https
 10. [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
 11. [Dictionaries](https://www.learnpython.org/en/Dictionaries)
 
-
-
