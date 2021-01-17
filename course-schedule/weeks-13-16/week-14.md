@@ -1,8 +1,15 @@
 # Week 14
 
-## Topics
+## Development Topics
 
-* React
+1. React
+
+## Data Structures and Algorithms
+
+1. Intro to SWE Interviews
+2. Complexity Analysis
+3. Recursion
+4. Sorting Algorithms
 
 ## Day 1
 
@@ -23,6 +30,9 @@
 
 ### Pre-Class
 
+* [D.1: Intro to SWE Interviews](../../data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
+* [D.3: Complexity Analysis, Big-O Notation](../../data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
+* [D.4: Recursion](../../data-structures-and-algorithms/d.4-recursion.md)
 * React App Component Hierarchy
 * React Full Stack
 
