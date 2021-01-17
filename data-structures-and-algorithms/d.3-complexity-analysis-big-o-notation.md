@@ -50,7 +50,35 @@ Known as linear time, `O(n)` complexity means that the algorithm needs to inspec
 
 Given an unsorted input array of numbers of length `n`, find the position of the largest number. We cannot perform binary search on this array because it is unsorted and we do not know the value of the largest number. If the array were sorted, we could extract the last element of the array which would be the largest number in `O(1)` time. The fastest sorting algorithms take `O(nlogn)` time complexity. Thus the best method we have is to iterate over each element of the array linearly \(i.e. a for loop\) until we reach the end of the array and confirm the largest number, which would take `O(n)` time complexity.
 
+### `O(nlogn)`
 
+#### Description
 
-### 
+`O(nlogn)` complexity typically involves performing a binary-search-like operation for every element in the input.
+
+#### Example: Sort an unsorted array of numbers
+
+It's rare to invent a sorting algorithm from scratch. Computer scientists have been working on efficient sorting algorithms since the start of the field, and so far they have concluded that [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) is the fastest sorting algorithm \(in the worst case\) that exists today, and it runs in `O(nlogn)` time. Thus whenever we are given a problem to sort an unordered list, our first instinct should be to think that this could run in `O(nlogn)` time.
+
+Companies rarely ask candidates to implement sorting algorithms such as merge sort in interviews because it's the kind of answer that can be memorised. It doesn't hurt to memorise how common sorting algorithms such as merge sort work, but there's no need to spend too much time on them other than to understand how they work.
+
+### `O(n^2)`
+
+#### Description
+
+`O(n^2)` complexity typically involves nested loops over an input collection. 
+
+#### Example: Find all pairs of numbers in an array
+
+Given an array of numbers, find all unordered pairs of those numbers. This problem requires us to loop through each element of the array, and for each element of the array, loop through each other element of the array. This is a class `O(n^2)`-complexity algorithm.
+
+### `O(2^n)`
+
+#### Description
+
+Also known as exponential complexity, `O(2^n)` complexity \(and any `O(C^n)` complexity where `C` is a constant\) is the highest order of complexity \(without combining it with itself or others above\) and typically bad. If you find that your algorithm runs in exponential complexity in a DS&A interview, there is probably a more efficient algorithm to solve the problem.
+
+#### Example: Calculate the n-th Fibonacci Number
+
+The Fibonacci sequence is defined as `Fib(n) = Fib(n-1) + Fib(n-2)`, where `Fib(0) == 1` and `Fib(1) == 1`. The naïve way to solve Fibonacci is to write a recursive algorithm that calculates `Fib(n)` by calling `Fib(n-1)` and `Fib(n-2)`. However, this results in 2 operations per `Fib` operation, and because each `Fib` operation runs recursively, we end up with `2^n` operations because it would take `n` levels of `Fib` operations to reach the base cases of `Fib(0)` and `Fib(1)`. Interestingly, this problem can be solved in `O(n)` time complexity. See [here](https://stackoverflow.com/questions/18172257/efficient-calculation-of-fibonacci-series) for solution. 
 
