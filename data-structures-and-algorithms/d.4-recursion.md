@@ -26,15 +26,15 @@ Please review the following resources to better understand recursion.
 3. Simple Recursion Problems and Solutions in Python
    1. [https://repl.it/@Learnpython/Recursion](https://repl.it/@Learnpython/Recursion)
 
-## Optional Reading
-
-1. Fast Exponentiation. What would be the time complexity of an algorithm to calculate the value of `2^n`, where `n` is an input value? A naïve solution would be to write a for loop to multiply 2 by itself `n` times, which would run in `O(n)` time complexity. However, if we take the notion that `2^2^2 == 2^4` , and `2^4^2 == 2^8`, we can see that we can calculate `2^n` in many fewer operations than `n`, on the order of `log(n)`, with time complexity of `O(logn)`. Fast exponentiation can be implemented relatively easily with recursion. Programming languages typically implement exponent operators using fast exponentiation.
-   1. [https://en.wikipedia.org/wiki/Exponentiation\_by\_squaring\#Basic\_method](https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Basic_method)
-
 ## Exercises
 
 1. Erase and implement the answers from scratch to the LearnPython Recursion problems.
    1. [https://repl.it/@Learnpython/Recursion](https://repl.it/@Learnpython/Recursion)
 2. Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified.
    1. [https://leetcode.com/problems/n-th-tribonacci-number/](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+## Optional Reading
+
+1. Fast Exponentiation. What would be the time complexity of an algorithm to calculate the value of `2^n`, where `n` is an input value? A naïve solution would be to write a for loop to multiply 2 by itself `n` times, which would run in `O(n)` time complexity. However, if we take the notion that `2^2^2 == 2^4` , and `2^4^2 == 2^8`, we can see that we can calculate `2^n` in many fewer operations than `n`, on the order of `log(n)`, with time complexity of `O(logn)`. Fast exponentiation can be implemented relatively easily with recursion. Programming languages typically implement exponent operators using fast exponentiation.
+   1. [https://en.wikipedia.org/wiki/Exponentiation\_by\_squaring\#Basic\_method](https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Basic_method)
 
