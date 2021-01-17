@@ -1,4 +1,4 @@
-# Intro to Python
+# D.1: Intro to Python
 
 1. [Hello, World!](https://www.learnpython.org/en/Hello%2C_World%21)
 2. [Variables and Types](https://www.learnpython.org/en/Variables_and_Types)
