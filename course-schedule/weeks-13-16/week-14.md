@@ -13,11 +13,11 @@
 
 ### In-Class
 
-* React Forms / Functions
+* [7.ICE.4: Guess the Word](../../7-react/7.ice-in-class-exercises/7.ice.4-guess-the-word.md)
 
 ### Post-Class
 
-* React Tasks
+* [7.POCE.3: Read Later](../../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 
 ## Day 2
 

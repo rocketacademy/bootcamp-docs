@@ -255,6 +255,7 @@
 * [7.5: Controlled Forms](7-react/7.5-controlled-forms.md)
 * [7.6: Prop Functions](7-react/7.6-prop-functions.md)
 * [7.7: useEffect](7-react/7.7-useeffect.md)
+* [Untitled](7-react/untitled.md)
 * [7.8: Error Boundaries](7-react/7.8-error-boundaries.md)
 * [7.ICE: In-Class Exercises](7-react/7.ice-in-class-exercises/README.md)
   * [7.ICE.1: Product Rendering](7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
