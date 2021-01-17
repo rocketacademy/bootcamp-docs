@@ -5,8 +5,6 @@
 ### Topics
 
 * React Context
-* HTTP Sockets
-* React Error Boundaries
 
 ## Weeks 19 & 20
 
