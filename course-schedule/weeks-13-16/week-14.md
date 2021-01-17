@@ -71,6 +71,8 @@
 
 ### Pre-Class
 
+* React Dev Tools
+
 ### **In-Class**
 
 ### **Post-Class**
