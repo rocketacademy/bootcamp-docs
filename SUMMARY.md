@@ -279,5 +279,21 @@
 ## 🧮 Data Structures and Algorithms
 
 * [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview.md)
-* [D.1: Intro to Python](data-structures-and-algorithms/intro-to-python.md)
+* [D.1: Intro to SWE Interviews](data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
+* [D.2: Intro to Python](data-structures-and-algorithms/d.2-intro-to-python.md)
+* [D.3: Complexity Analysis, Big-O Notation](data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
+* [D.4: Recursion](data-structures-and-algorithms/d.4-recursion.md)
+* [D.5: Sorting Algorithms](data-structures-and-algorithms/d.5-sorting-algorithms.md)
+* [D.6: Arrays](data-structures-and-algorithms/d.6-arrays.md)
+* [D.7: Hash Tables](data-structures-and-algorithms/d.7-hash-tables.md)
+* [D.8: Intro to Object-Oriented Programming](data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
+* [D.9: Stacks](data-structures-and-algorithms/d.9-stacks.md)
+* [D.10: Queues](data-structures-and-algorithms/d.10-queues.md)
+* [D.11: Linked Lists](data-structures-and-algorithms/d.11-linked-lists.md)
+* [D.12: Trees](data-structures-and-algorithms/d.12-trees.md)
+* [D.13: Graphs](data-structures-and-algorithms/d.13-graphs.md)
+* [D.14: Heaps](data-structures-and-algorithms/d.14-heaps.md)
+* [D.15: Dynamic Programming](data-structures-and-algorithms/d.15-dynamic-programming.md)
+* [D.16: Common Patterns](data-structures-and-algorithms/d.16-common-patterns.md)
+* [D.17: Additional Practice](data-structures-and-algorithms/d.17-additional-practice.md)
 

@@ -8,10 +8,10 @@ During the 2nd half of SWE1 we will learn the concepts behind and drill DS&A int
 
 ## Outline
 
-1. Intro to Python
-2. Software engineering interview overview
-   1. Industry overview
-   2. Interview overview
+1. Intro to SWE Interviews
+   1. Industry Overview
+   2. Interview Overview
+2. Intro to Python
 3. Complexity Analysis, Big-O Notation
    1. Analysis of Common Algorithms
 4. Recursion
