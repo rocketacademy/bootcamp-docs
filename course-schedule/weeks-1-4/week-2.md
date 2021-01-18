@@ -26,9 +26,14 @@
 
 ### Pre-Class
 
+No pre-class material for today.
+
 ### In-Class
 
-* **Post-Class**
+* Project 1 Scrum
+
+### **Post-Class**
+
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
 * [1.1 HTML & CSS Project: Technical Documentation](https://github.com/rocketacademy/swe1-docs/tree/0bde3c82b4a5ef6ccc9fc2945959119809eb69c0/1-front-end-basics/1.1-html-and-css#html-css-exercise-technical-documentation-page)
 * Sign Up for Amazon Web Services
@@ -38,13 +43,12 @@
 
 ### Pre-Class
 
-
-
 * [1.1.4: CSS Flexbox](../../1-front-end-basics/1.1-html-and-css/1.1.4-flexbox.md)
 * [1.1.5: CSS Responsive Design](../../1-front-end-basics/1.1-html-and-css/1.1.5-responsive-design.md)
 
 ### In-Class
 
+* Project 1 Scrum
 * Review Responsive Design
 
 ### Post-Class
@@ -61,6 +65,7 @@
 
 ### In-Class
 
+* Project 1 Scrum
 * Review Bootstrap / Design
 
 ### Post-Class
@@ -71,6 +76,7 @@
 
 ### In-Class
 
+* Project 1 Scrum
 * [Deploy to Github Pages](https://swe101.rocketacademy.co/12-next-steps/12.3-deployment)
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
 
