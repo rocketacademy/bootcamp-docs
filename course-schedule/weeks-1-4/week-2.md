@@ -31,6 +31,7 @@ No pre-class material today.
 ### In-Class
 
 * Project 1 Scrum
+* CSS: Straights Times
 
 ### **Post-Class**
 
