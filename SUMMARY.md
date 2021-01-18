@@ -1,6 +1,6 @@
 # Table of contents
 
-* [SWE1: Software Engineering Foundations](README.md)
+* [Overview](README.md)
 
 ## 📅 Course Schedule
 

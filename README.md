@@ -1,8 +1,8 @@
 ---
-description: Singapore's Best Coding Bootcamp Course
+description: 'SWE1: Singapore''s Best Coding Bootcamp Course'
 ---
 
-# SWE1: Software Engineering Foundations
+# Overview
 
 ## Welcome to SWE1!
 
