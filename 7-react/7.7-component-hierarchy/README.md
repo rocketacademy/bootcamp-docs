@@ -16,7 +16,7 @@ When the user clicks the Add to Cart button, the cart is displayed with all the 
 
 See the full repo here: [https://github.com/rocketacademy/react-ecom-swe1](https://github.com/rocketacademy/react-ecom-swe1)
 
-![](../.gitbook/assets/shopping.jpg)
+![](../../.gitbook/assets/shopping.jpg)
 
 ### App Data vs Component Data
 
