@@ -47,7 +47,7 @@
 
 ### Pre-Class
 
-* useEffect
+* [7.7.1: Components & AJAX](../../7-react/7.7-component-hierarchy/7.7.1-component-ajax.md)
 
 ### In-Class
 
@@ -60,6 +60,7 @@
 ### Pre-Class
 
 * Error Boundaries
+* useEffect
 
 ### **In-Class**
 

@@ -269,7 +269,7 @@
 * [7.6: Prop Functions](7-react/7.6-prop-functions.md)
 * [7.7: Component Hierarchy](7-react/7.7-component-hierarchy/README.md)
   * [7.7.1: Component AJAX](7-react/7.7-component-hierarchy/7.7.1-component-ajax.md)
-* [7.8: useEffect](7-react/7.8-useeffect.md)
+  * [7.7.2: useEffect](7-react/7.7-component-hierarchy/7.7.2-useeffect.md)
 * [7.9: Error Boundaries](7-react/7.9-error-boundaries.md)
 * [7.10: React Dev Tools](7-react/7.10-react-dev-tools.md)
 * [7.ICE: In-Class Exercises](7-react/7.ice-in-class-exercises/README.md)
