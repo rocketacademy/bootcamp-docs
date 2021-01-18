@@ -79,5 +79,3 @@
 
 * [7.POCE.4: Hot Pot](../../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 
-### 
-
