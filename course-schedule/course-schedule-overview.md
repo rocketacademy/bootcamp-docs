@@ -31,13 +31,13 @@ Each day's deliverables are due by the **start** of that day's class. We will co
 * Webpack
 * Data Structures and Algorithms
 
-## [Weeks 17-20](weeks-17-20.md)
+## [Weeks 17-20](weeks-17-20/)
 
 * Advanced React
 * Data Structures and Algorithms
 * Group Project
 
-## [Weeks 21-24](weeks-21-24.md)
+## [Weeks 21-24](weeks-21-24/)
 
 * 3rd-Party APIs \(Google AI, Google Maps, Twilio, Sendgrid, Stripe\)
 * Sockets

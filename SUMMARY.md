@@ -23,8 +23,18 @@
 * [Weeks 13-16](course-schedule/weeks-13-16/README.md)
   * [Week 13](course-schedule/weeks-13-16/week-13.md)
   * [Week 14](course-schedule/weeks-13-16/week-14.md)
-* [Weeks 17-20](course-schedule/weeks-17-20.md)
-* [Weeks 21-24](course-schedule/weeks-21-24.md)
+  * [Week 15](course-schedule/weeks-13-16/week-15.md)
+  * [Week 16](course-schedule/weeks-13-16/week-16.md)
+* [Weeks 17-20](course-schedule/weeks-17-20/README.md)
+  * [Week 17](course-schedule/weeks-17-20/week-17.md)
+  * [Week 18](course-schedule/weeks-17-20/week-18.md)
+  * [Week 19](course-schedule/weeks-17-20/week-19.md)
+  * [Week 20](course-schedule/weeks-17-20/week-20.md)
+* [Weeks 21-24](course-schedule/weeks-21-24/README.md)
+  * [Week 21](course-schedule/weeks-21-24/week-21.md)
+  * [Week 22](course-schedule/weeks-21-24/week-22.md)
+  * [Week 23](course-schedule/weeks-21-24/week-23.md)
+  * [Week 24](course-schedule/weeks-21-24/week-24.md)
 
 ## 🛠 Course Logistics
 
