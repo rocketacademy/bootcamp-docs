@@ -31,7 +31,7 @@ No pre-class material today.
 ### In-Class
 
 * Project 1 Scrum
-* CSS: Straights Times
+* [1.ICE.4: Straights Times CSS](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.4-straights-times-css.md)
 
 ### **Post-Class**
 
