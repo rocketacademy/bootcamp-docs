@@ -23,14 +23,12 @@ Please review the following resources to better understand recursion.
    1. [https://www.freecodecamp.org/news/quick-intro-to-recursion/](https://www.freecodecamp.org/news/quick-intro-to-recursion/)
 2. Stanford's Intro to Recursion
    1. [https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1206/lectures/intro-to-recursion/](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1206/lectures/intro-to-recursion/)
-3. Simple Recursion Problems and Solutions in Python
+3. Simple Recursion Problems and Solutions in Python. We will be working through these exercises over 1 week.
    1. [https://repl.it/@Learnpython/Recursion](https://repl.it/@Learnpython/Recursion)
 
 ## Exercises
 
-1. Erase and implement the answers from scratch to the LearnPython Recursion problems.
-   1. [https://repl.it/@Learnpython/Recursion](https://repl.it/@Learnpython/Recursion)
-2. Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified.
+1. Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified. After you attempt the problem, view other Python submissions in the [Discuss tab](https://leetcode.com/problems/n-th-tribonacci-number/discuss/?currentPage=1&orderBy=hot&query=).
    1. [https://leetcode.com/problems/n-th-tribonacci-number/](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 ## Optional Reading
