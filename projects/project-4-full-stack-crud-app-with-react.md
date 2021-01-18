@@ -11,11 +11,11 @@ As much as possible, create milestones so you know whether you are on track, and
 Your app must fulfill the following requirements.
 
 * Use React
-* Use CSS
-* Use AJAX to get and set data from the server.
+* Use AJAX to get and set data from the server
 * At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
 * At least 2 SQL tables
 * At least 1 one-to-many and 1 many-to-many SQL relationship
+* Use CSS
 
 Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
 
