@@ -2,7 +2,7 @@
 description: Singapore's Best Coding Bootcamp Course
 ---
 
-# 🚀 Welcome to SWE1!
+# Welcome to SWE1!
 
 ## Welcome
 

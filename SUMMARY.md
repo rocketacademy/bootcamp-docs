@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Welcome to SWE1!](README.md)
+* [Welcome to SWE1!](README.md)
 
 ## 📅 Course Schedule
 
