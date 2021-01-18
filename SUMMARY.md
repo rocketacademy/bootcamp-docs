@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to SWE1!](README.md)
+* [SWE1: Software Engineering Foundations](README.md)
 
 ## 📅 Course Schedule
 

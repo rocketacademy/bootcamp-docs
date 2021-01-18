@@ -2,9 +2,9 @@
 description: Singapore's Best Coding Bootcamp Course
 ---
 
-# Welcome to SWE1!
+# SWE1: Software Engineering Foundations
 
-## Welcome
+## Welcome to SWE1!
 
 SWE1 is Rocket Academy's flagship career conversion course. It builds on material from [SWE101: Intro to Coding](https://swe101.rocketacademy.co). By the end of SWE1, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203_890e2dab19_b-811x900.jpg).
 
