@@ -84,6 +84,7 @@
   * [1.ICE.2: Timeout / High Card Redux](1-front-end-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
   * [1.ICE.3: setInterval](1-front-end-basics/1.ice-in-class-exercises/1.ice.3-setinterval.md)
   * [1.ICE.4: Straights Times CSS](1-front-end-basics/1.ice-in-class-exercises/1.ice.4-straights-times-css.md)
+  * [1.ICE.5: Etsy CSS](1-front-end-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
 * [1.POCE: Post-Class Exercises](1-front-end-basics/1.poce-post-class-exercises/README.md)
   * [1.POCE.1: Noodle Recipe Website](1-front-end-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
   * [1.POCE.2: High Card DOM](1-front-end-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
