@@ -26,7 +26,7 @@
 
 ### Pre-Class
 
-No pre-class material for today.
+No pre-class material today.
 
 ### In-Class
 
@@ -49,7 +49,6 @@ No pre-class material for today.
 ### In-Class
 
 * Project 1 Scrum
-* Review Responsive Design
 
 ### Post-Class
 
@@ -66,7 +65,6 @@ No pre-class material for today.
 ### In-Class
 
 * Project 1 Scrum
-* Review Bootstrap / Design
 
 ### Post-Class
 
@@ -74,9 +72,16 @@ No pre-class material for today.
 
 ## Day 5
 
+### Pre-Class
+
+No pre-class material today.
+
 ### In-Class
 
 * Project 1 Scrum
+
+### Post-Class
+
 * [Deploy to Github Pages](https://swe101.rocketacademy.co/12-next-steps/12.3-deployment)
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
 
