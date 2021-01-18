@@ -50,7 +50,7 @@
 * [Project 1: Video Poker](projects/project-1-video-poker.md)
 * [Project 2: Server-Side App](projects/project-2-server-side-app.md)
 * [Project 3: Full-Stack Game](projects/project-3-full-stack-game.md)
-* [Project 4: React Full Stack CRUD App](projects/project-4-react-full-stack-crud-app.md)
+* [Project 4: Full-Stack CRUD App With React](projects/project-4-full-stack-crud-app-with-react.md)
 
 ## 1️⃣ Front-End Basics
 
