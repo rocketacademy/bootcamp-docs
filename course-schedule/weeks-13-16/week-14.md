@@ -37,7 +37,7 @@
 
 ### In-Class
 
-* React AJAX POST
+* [7.ICE.5: Create Item](../../7-react/7.ice-in-class-exercises/7.ice.5-create-item.md)
 
 ### Post-Class
 
@@ -50,6 +50,8 @@
 * [7.7.1: Components & AJAX](../../7-react/7.7-component-hierarchy/7.7.1-component-ajax.md)
 
 ### In-Class
+
+* Review Read Later
 
 ### **Post-Class**
 
