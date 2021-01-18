@@ -23,8 +23,6 @@ Please review the following resources to better understand recursion.
    1. [https://www.freecodecamp.org/news/quick-intro-to-recursion/](https://www.freecodecamp.org/news/quick-intro-to-recursion/)
 2. Stanford's Intro to Recursion
    1. [https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1206/lectures/intro-to-recursion/](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1206/lectures/intro-to-recursion/)
-3. Simple Recursion Problems and Solutions in Python. We will be working through these exercises over 1 week.
-   1. [https://repl.it/@Learnpython/Recursion](https://repl.it/@Learnpython/Recursion)
 
 ## Exercises
 
