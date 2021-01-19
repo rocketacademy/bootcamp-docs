@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Over some days, we will complete all recursion problems from the @Learnpython Recursion Repl. Problems and answers are below. 
+Over 1 week, complete as many recursion problems as you can from the @Learnpython Recursion Repl. Problems and answers are below. 
 
 ## Exercises
 
-Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA has created this empty starter repl by copying the @Learnpython Recursion Repl and removing answers. Pressing the Play button \(or `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases.
+Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
 
 The problems are the following. 
 
@@ -43,5 +43,5 @@ The problems are the following.
 
 ## Sample Answers
 
-Please find sample answers to each of the problems above in the @Learnpython Recursion Repl [here](https://repl.it/@Learnpython/Recursion). The answers are in that link, but please do not look at the answer for each problem until you have attempted that problem. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
+See sample answers to each problem in the @Learnpython Recursion Repl [here](https://repl.it/@Learnpython/Recursion). Please avoid reviewing each problem's answer until after attempting that problem. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
 
