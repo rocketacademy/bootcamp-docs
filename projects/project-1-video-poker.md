@@ -14,17 +14,11 @@ Begin by forking the [Video Poker Repo](https://github.com/rocketacademy/video-p
 
 ## Game Play
 
-The user will start the game with 100 points.
+1. The user will start the game with 100 points.
+2. When they click the "deal" button a hand of five cards will be dealt. They user can ask for different cards if they want.
+3. The game gives points based on the hand the user got. Look up the [rankings of Poker hands here.](https://en.wikipedia.org/wiki/List_of_poker_hands)
 
-When they click the "deal" button a hand of five cards will be dealt. They user can ask for different cards if they want.
-
-The game gives points based on the hand the user got.
-
-Look up the [rankings of Poker hands here.](https://en.wikipedia.org/wiki/List_of_poker_hands)
-
-You can use this implementation of [Video Poker here as a reference](https://www.freeslots.com/poker.htm).
-
-You can also reference this [Wikipedia page about video poker.](https://en.wikipedia.org/wiki/Video_poker)
+You can use this implementation of [Video Poker here as a reference](https://www.freeslots.com/poker.htm). You can also reference this [Wikipedia page about video poker.](https://en.wikipedia.org/wiki/Video_poker)
 
 ## Basic
 
