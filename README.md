@@ -40,7 +40,8 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 
 ## Daily Meeting Agenda
 
-1. Review today's pre-class material
-2. Review yesterday's post-class work
-3. Introduce today's post-class work
+1. Review yesterday's post-class work
+2. Review today's pre-class material
+3. Complete today's in-class exercise
+4. Introduce today's post-class work
 
