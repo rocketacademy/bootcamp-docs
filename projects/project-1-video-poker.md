@@ -36,11 +36,27 @@ Specifically this functionality is where:
 * The users selects which cards they want to keep.
 * The game gives the user their final score and adds or subtracts points.
 
+Lay the game controls out for a phone \(portrait orientation\). Set the `max-width` of the container so that it does not look bad on a wider device.
+
 ### `calcHandScore`
 
 After you have a working, playable version of the game, add logic to `calcHandScore`. Begin by adding the logic for detecting each hand one at a time. Test that logic and then move onto detecting the next kind of hand.
 
 Hard code the arrays of card objects you will need to test your logic. Don't forget to test the negative cases. \(You win, but can you still lose?\)
+
+```javascript
+// example hand
+const playerHand = [
+  { rank: 2, suit: 'hearts', name: '2' },
+  { rank: 2, suit: 'diamonds', name: '2' },
+  { rank: 5, suit: 'spades', name: '5' },
+  { rank: 7, suit: 'spades', name: '7' },
+  { rank: 9, suit: 'hearts', name: '9' },
+];
+
+// in this example the function will return points for a pair
+const pointsForHand = calcHandScore(playerHand);
+```
 
 ## Comfortable
 
@@ -52,7 +68,7 @@ This is your chance to create a project that has polish and that you can show of
 * clean design \(just make sure that the colors are muted and things are centered and have padding\)
 * sounds
 * animations \(you can look up CSS animations, you can also append GIFs into the screen to get motion\)
-* looks good on a phone \(responsive CSS\)
+* looks good on a laptop/desktop \(responsive CSS\)
 * runs without any errors / is resetable - when using the game it has no unexpected behaviors or weird quirks
 
 ## More Comfortable
