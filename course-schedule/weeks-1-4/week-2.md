@@ -44,7 +44,8 @@ No pre-class material today.
 
 ### Pre-Class
 
-* 
+No pre-class material for today.
+
 ### In-Class
 
 * Project 1 Scrum
