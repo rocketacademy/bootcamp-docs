@@ -63,7 +63,6 @@
 
 ### Pre-Class
 
-* Error Boundaries
 * useEffect
 
 ### **In-Class**
@@ -80,6 +79,7 @@
 ### Pre-Class
 
 * React Dev Tools
+* Error Boundaries
 
 ### **In-Class**
 
