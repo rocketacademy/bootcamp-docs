@@ -44,12 +44,11 @@ No pre-class material today.
 
 ### Pre-Class
 
-* [1.1.4: CSS Flexbox](../../1-front-end-basics/1.1-html-and-css/1.1.4-flexbox.md)
-* [1.1.5: CSS Responsive Design](../../1-front-end-basics/1.1-html-and-css/1.1.5-responsive-design.md)
-
+* 
 ### In-Class
 
 * Project 1 Scrum
+* [1.ICE.5: Etsy CSS](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
 
 ### Post-Class
 
@@ -60,6 +59,8 @@ No pre-class material today.
 
 ### Pre-Class
 
+* [1.1.4: CSS Flexbox](../../1-front-end-basics/1.1-html-and-css/1.1.4-flexbox.md)
+* [1.1.5: CSS Responsive Design](../../1-front-end-basics/1.1-html-and-css/1.1.5-responsive-design.md)
 * [1.1.6: Web Design Basics](../../1-front-end-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
 * [1.1.7: CSS Bootstrap](../../1-front-end-basics/1.1-html-and-css/1.1.7-bootstrap.md)
 
