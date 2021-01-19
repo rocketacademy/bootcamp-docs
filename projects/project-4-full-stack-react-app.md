@@ -1,4 +1,4 @@
-# Project 4: Full-Stack CRUD App With React
+# Project 4: Full-Stack React App
 
 ## Introduction
 
