@@ -42,6 +42,7 @@
 ### Post-Class
 
 * [7.POCE.3: Read Later](../../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ## Day 3
 
@@ -51,11 +52,13 @@
 
 ### In-Class
 
-* Review Read Later
+* Review [7.POCE.3: Read Later](../../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ### **Post-Class**
 
 * [7.POCE.4: Hot Pot](../../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ## Day 4
 
@@ -66,9 +69,12 @@
 
 ### **In-Class**
 
+* [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+
 ### **Post-Class**
 
 * [7.POCE.4: Hot Pot](../../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ## Day 5
 
@@ -78,7 +84,10 @@
 
 ### **In-Class**
 
+* [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+
 ### **Post-Class**
 
 * [7.POCE.4: Hot Pot](../../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
