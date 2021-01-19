@@ -63,7 +63,7 @@
 
 ### Pre-Class
 
-* useEffect
+* [7.7.2: useEffect](../../7-react/7.7-component-hierarchy/7.7.2-useeffect.md)
 
 ### **In-Class**
 
