@@ -9,7 +9,6 @@
 1. Intro to SWE Interviews
 2. Complexity Analysis
 3. Recursion
-4. Sorting Algorithms
 
 ## Day 1
 
