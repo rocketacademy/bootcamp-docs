@@ -60,10 +60,7 @@ No pre-class material for today.
 
 ### Pre-Class
 
-* [1.1.4: CSS Flexbox](../../1-front-end-basics/1.1-html-and-css/1.1.4-flexbox.md)
-* [1.1.5: CSS Responsive Design](../../1-front-end-basics/1.1-html-and-css/1.1.5-responsive-design.md)
-* [1.1.6: Web Design Basics](../../1-front-end-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
-* [1.1.7: CSS Bootstrap](../../1-front-end-basics/1.1-html-and-css/1.1.7-bootstrap.md)
+* [1.1.4: CSS Flexbox Froggy](../../1-front-end-basics/1.1-html-and-css/1.1.4-flexbox.md) 
 
 ### In-Class
 
@@ -77,7 +74,9 @@ No pre-class material for today.
 
 ### Pre-Class
 
-No pre-class material today.
+* [1.1.5: CSS Responsive Design](../../1-front-end-basics/1.1-html-and-css/1.1.5-responsive-design.md)
+* [1.1.6: Web Design Basics](../../1-front-end-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
+* [1.1.7: CSS Bootstrap](../../1-front-end-basics/1.1-html-and-css/1.1.7-bootstrap.md)
 
 ### In-Class
 
