@@ -78,7 +78,7 @@
 
 ### Pre-Class
 
-* React Dev Tools
+* [7.9: React Dev Tools](../../7-react/7.9-react-dev-tools.md)
 * Error Boundaries
 
 ### **In-Class**
