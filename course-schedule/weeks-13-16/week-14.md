@@ -78,8 +78,8 @@
 
 ### Pre-Class
 
+* [7.8: Error Boundaries](../../7-react/7.8-error-boundaries.md)
 * [7.9: React Dev Tools](../../7-react/7.9-react-dev-tools.md)
-* Error Boundaries
 
 ### **In-Class**
 
