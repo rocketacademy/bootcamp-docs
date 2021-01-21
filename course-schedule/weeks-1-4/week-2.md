@@ -78,10 +78,10 @@ No pre-class material for today.
 ### In-Class
 
 * Project 1 Scrum
+* [1.1 HTML & CSS Project: Product Page](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-product-landing-page)
 
 ### Post-Class
 
 * [Deploy to Github Pages](https://swe101.rocketacademy.co/12-next-steps/12.3-deployment)
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
-* [1.1 HTML & CSS Project: Product Page](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-product-landing-page)
 
