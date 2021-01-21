@@ -4,7 +4,19 @@
 
 ### HTML/CSS Exercise: Tribute Page
 
+No need to do user story \#8 because it will be covered later.
+
 [https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+
+{% hint style="info" %}
+You may want the `text-align: center` style for this exercise.
+
+```css
+div {
+  text-align: center;
+}
+```
+{% endhint %}
 
 ### HTML/CSS Exercise: Technical Documentation Page
 
