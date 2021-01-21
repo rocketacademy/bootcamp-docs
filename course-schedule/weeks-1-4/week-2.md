@@ -63,11 +63,11 @@ No pre-class material for today.
 ### In-Class
 
 * Project 1 Scrum
+* [1.1 HTML & CSS Project: Technical Documentation](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-technical-documentation-page)
 
 ### Post-Class
 
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
-* [1.1 HTML & CSS Project: Technical Documentation](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-technical-documentation-page)
 
 ## Day 5
 
