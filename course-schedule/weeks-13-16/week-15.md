@@ -14,7 +14,9 @@
 
 ### Pre-Class
 
-No pre-class material for today.
+* Arrays
+* Sorting Algorithms
+* Hash Tables
 
 ### In-Class
 
