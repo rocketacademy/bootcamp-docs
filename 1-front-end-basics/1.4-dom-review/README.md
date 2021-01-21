@@ -1,8 +1,8 @@
 # 1.4: DOM Review
 
-The DOM is the set of variables that represents the elements in the screen of that browser window.
+## Introduction
 
-It is the interface through which our JavaScript logic can change what's on screen and how the user's actions can affect our code \(specifically by executing functions\).
+The DOM is the set of variables that represents the elements in the screen of that browser window. It is the interface through which our JavaScript logic can change what's on screen and how the user's actions can affect our code \(specifically by executing functions\).
 
 ![](../../.gitbook/assets/img_0018.png)
 
