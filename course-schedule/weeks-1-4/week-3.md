@@ -25,6 +25,15 @@
 
 ### Pre-Class
 
+CSS
+
+* [1.1.5: CSS Responsive Design](../../1-front-end-basics/1.1-html-and-css/1.1.5-responsive-design.md)
+* [1.1.6: Web Design Basics](../../1-front-end-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
+
+
+
+Node.js
+
 * [2.1: My First Node.js Program](../../2-back-end-basics/2.1-my-first-node-program.md)
 * [2.2: Command Line Programs](../../2-back-end-basics/2.2-command-line-programs.md)
 
@@ -39,6 +48,12 @@
 ## Day 3
 
 ### Pre-Class
+
+CSS
+
+* [1.1.7: CSS Bootstrap](../../1-front-end-basics/1.1-html-and-css/1.1.7-bootstrap.md)
+
+Node.js
 
 * [2.3: Modules](../../2-back-end-basics/2.3-modules.md)
 * [2.4: Disk Reading](../../2-back-end-basics/2.4-disk-reading.md)
