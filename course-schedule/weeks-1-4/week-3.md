@@ -19,7 +19,7 @@
 
 ### Post-Class
 
-* [Instructor-Led Code Review](../../course-logistics/course-methodology.md#instructor-led-code-review)
+* [Instructor-Led Code Review](https://swe1.rocketacademy.co/course-logistics/course-methodology#instructor-code-review)
 
 ## **Day 2**
 
