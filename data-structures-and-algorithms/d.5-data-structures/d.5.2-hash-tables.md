@@ -16,21 +16,19 @@ See [this Repl](https://repl.it/@kaiyuanneo/hashmapapplications#main.py) on comm
 
 ### Rocket Academy
 
-The following are exercises compiled by former RA instructors Lionell and Jonathan. Please only view the solution for each problem after you have attempted the problem.
+The following are exercises compiled by former RA instructors Lionell and Jonathan. Please only view the solution for each problem after you have attempted the problem. \#3 is challenging- feel free to start Leetcode problems before \#3 if you need more warmup!
 
 #### Problems
 
 1. [https://repl.it/@LionellRocket/hashmap1](https://repl.it/@LionellRocket/hashmap1)
 2. [https://repl.it/@LionellRocket/hashmap2](https://repl.it/@LionellRocket/hashmap2)
 3. [https://repl.it/@LionellRocket/hashmap3](https://repl.it/@LionellRocket/hashmap3)
-4. [https://repl.it/@LionellRocket/hashmap4](https://repl.it/@LionellRocket/hashmap4)
 
 #### Solutions
 
 1. [https://repl.it/@LionellRocket/hashmap1solns](https://repl.it/@LionellRocket/hashmap1solns)
 2. [https://repl.it/@LionellRocket/hashmap2solns](https://repl.it/@LionellRocket/hashmap2solns)
 3. [https://repl.it/@LionellRocket/hashmap3solns](https://repl.it/@LionellRocket/hashmap3solns)
-4. [https://repl.it/@LionellRocket/hashmap4](https://repl.it/@LionellRocket/hashmap4)
 
 ### Leetcode
 
