@@ -8,15 +8,29 @@ Hash tables are the generalised computer-science concept behind JavaScript Objec
 
 See [this slide deck ](https://docs.google.com/presentation/d/15nBnrcsigXujmNuIAa6QZ0dGr8E1JeWHVdtmPukuGno/edit?usp=sharing)for concise hash table theory compiled by one of RA's former instructors Lionell.
 
+## Python Dictionary Usage Examples
+
+See [this Repl](https://repl.it/@kaiyuanneo/hashmapapplications#main.py) on common Python Dictionary usage patterns compiled by one of RA's former instructors Jon.
+
 ## Exercises
 
 ### Rocket Academy
+
+The following are exercises compiled by former RA instructors Lionell and Jonathan. Please only view the solution for each problem after you have attempted the problem.
+
+#### Problems
 
 1. [https://repl.it/@LionellRocket/hashmap1](https://repl.it/@LionellRocket/hashmap1)
 2. [https://repl.it/@LionellRocket/hashmap2](https://repl.it/@LionellRocket/hashmap2)
 3. [https://repl.it/@LionellRocket/hashmap3](https://repl.it/@LionellRocket/hashmap3)
 4. [https://repl.it/@LionellRocket/hashmap4](https://repl.it/@LionellRocket/hashmap4)
-5. [https://repl.it/@JonathanYisheng/hashmapapplications](https://repl.it/@JonathanYisheng/hashmapapplications)
+
+#### Solutions
+
+1. [https://repl.it/@LionellRocket/hashmap1solns](https://repl.it/@LionellRocket/hashmap1solns)
+2. [https://repl.it/@LionellRocket/hashmap2solns](https://repl.it/@LionellRocket/hashmap2solns)
+3. [https://repl.it/@LionellRocket/hashmap3solns](https://repl.it/@LionellRocket/hashmap3solns)
+4. [https://repl.it/@LionellRocket/hashmap4](https://repl.it/@LionellRocket/hashmap4)
 
 ### Leetcode
 
