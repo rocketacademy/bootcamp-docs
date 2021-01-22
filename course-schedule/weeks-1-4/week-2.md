@@ -30,24 +30,23 @@ No pre-class material today.
 
 ### In-Class
 
-* Project 1 Scrum
+* [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [1.ICE.4: Straights Times CSS](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.4-straights-times-css.md)
 
 ### **Post-Class**
 
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
-* Sign Up for Amazon Web Services
-* [Setup for Module 2](../../2-back-end-basics/2.0-module-2-overview.md)
 
 ## Day 3
 
 ### Pre-Class
 
-No pre-class material for today.
+* Sign Up for Amazon Web Services
+* [Setup for Module 2](../../2-back-end-basics/2.0-module-2-overview.md)
 
 ### In-Class
 
-* Project 1 Scrum
+* [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [1.ICE.5: Etsy CSS](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
 
 ### Post-Class
@@ -62,7 +61,7 @@ No pre-class material for today.
 
 ### In-Class
 
-* Project 1 Scrum
+* [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [1.1: HTML & CSS \(Technical Documentation\)](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-technical-documentation-page)
 
 ### Post-Class
@@ -77,7 +76,7 @@ No pre-class material for today.
 
 ### In-Class
 
-* Project 1 Scrum
+* [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [1.1: HTML & CSS \(Product Page\)](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-product-landing-page)
 
 ### Post-Class
