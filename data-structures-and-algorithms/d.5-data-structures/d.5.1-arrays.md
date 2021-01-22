@@ -9,7 +9,7 @@ Many of us will be familiar with arrays since we started using them in SWE101. T
 1. Basic Python array methods: [https://www.w3schools.com/python/python\_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
 2. Python array slice syntax: [https://stackoverflow.com/a/509295](https://stackoverflow.com/a/509295)
 
-## Array-Specific Practice Problems
+## Exercises
 
 The following are 100+ Easy-level array-specific problems on Leetcode. Please complete as many as you can. You can ignore problems with a lock icon next to them because those require a Leetcode Premium subscription. Once you've attempted each problem, find solutions in the Discuss tab on that problem's page.
 
