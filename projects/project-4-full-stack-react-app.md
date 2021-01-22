@@ -63,7 +63,7 @@ Please answer [these questions](../course-logistics/course-methodology.md#instru
 
 ## Video Demo
 
-Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it.
+Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it. The video should not go into any technical details that would be incomprehensible to someone non-technical.
 
 For example, when talking about a react shopping app, when demoing the app, don't talk about how when the button gets clicked that the item moves to the shopping cart column, rather, speak about the process of the user selecting an item they want to buy and ordering it.
 
