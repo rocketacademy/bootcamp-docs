@@ -6,7 +6,7 @@ Hash tables are the generalised computer-science concept behind JavaScript Objec
 
 ## Hash Table Theory
 
-See [this slide deck ](https://docs.google.com/presentation/d/15nBnrcsigXujmNuIAa6QZ0dGr8E1JeWHVdtmPukuGno/edit?usp=sharing)for concise hash table theory compiled by one of RA's former instructors.
+See [this slide deck ](https://docs.google.com/presentation/d/15nBnrcsigXujmNuIAa6QZ0dGr8E1JeWHVdtmPukuGno/edit?usp=sharing)for concise hash table theory compiled by one of RA's former instructors Lionell.
 
 ## Exercises
 
