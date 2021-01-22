@@ -11,26 +11,7 @@ Many of us will be familiar with arrays since we started using them in SWE101. T
 
 ## Array-Specific Practice Problems
 
-The following are all Easy array-specific problems on Leetcode. Please complete as many as you can.
+The following are 100+ Easy-level array-specific problems on Leetcode. Please complete as many as you can. You can ignore problems with a lock icon next to them because those require a Leetcode Premium subscription. Once you've attempted each problem, find solutions in the Discuss tab on that problem's page.
 
-[https://leetcode.com/problemset/all/?search=array&difficulty=Easy](https://leetcode.com/problemset/all/?search=array&difficulty=Easy)
-
-1. Running Sum of 1d Array
-2. Shuffle the Array
-3. Decode XORed Array
-4. XOR Operation in an Array
-5. Sort Array by Parity
-6. Array Partition I
-7. Squares of a Sorted Array
-8. Sort Array by Parity II
-9. Relative Sort Array
-10. Intersection of Two Arrays
-11. String Matching in an Array
-12. Monotonic Array
-13. Rank Transform of an Array
-14. Degree of an Array
-15. Intersection of Two Arrays II
-16. Merge Sorted Array
-17. Valid Mountain Array
-18. Non-decreasing Array 
+[https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=array](https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=array)
 
