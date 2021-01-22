@@ -61,3 +61,18 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
 
+## Video Demo
+
+Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it.
+
+For example, when talking about a react shopping app, when demoing the app, don't talk about how when the button gets clicked that the item moves to the shopping cart column, rather, speak about the process of the user selecting an item they want to buy and ordering it.
+
+#### How to Record the video
+
+Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
+
+* Upload it to YouTube. Embed the video in your project README.md file.
+* Put the video file in your project repo and commit the file.
+
+
+
