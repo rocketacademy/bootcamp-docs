@@ -41,8 +41,7 @@ No pre-class material today.
 
 ### Pre-Class
 
-* Sign Up for Amazon Web Services
-* [Setup for Module 2](../../2-back-end-basics/2.0-module-2-overview.md)
+* [2.0: Module 2 Setup](../../2-back-end-basics/2.0-module-2-overview.md)
 
 ### In-Class
 
