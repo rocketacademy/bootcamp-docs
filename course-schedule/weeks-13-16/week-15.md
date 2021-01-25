@@ -18,7 +18,6 @@
 
 ### In-Class
 
-* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [Review 7.POCE.4: Hot Pot Bill Splitter](../../course-logistics/course-methodology.md#peer-code-review)
 * [D.5.1: Arrays](../../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md)
 
