@@ -42,6 +42,7 @@
 ### Post-Class
 
 * [2.POCE.1: CSS Command Line](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
+* [1.POCE.6: CSS Flexbox](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
 
 ## Day 3
 
@@ -59,7 +60,6 @@
 ### Post-Class
 
 * [2.POCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
-* [1.POCE.6: CSS Flexbox](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
 
 ## Day 4
 
