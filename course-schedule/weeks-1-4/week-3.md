@@ -47,10 +47,6 @@
 
 ### Pre-Class
 
-#### CSS
-
-* [1.1.7: CSS Bootstrap](../../1-front-end-basics/1.1-html-and-css/1.1.7-bootstrap.md)
-
 #### Node.js
 
 * [2.3: Modules](../../2-back-end-basics/2.3-modules.md)
@@ -63,6 +59,7 @@
 ### Post-Class
 
 * [2.POCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
+* [1.POCE.6: CSS Flexbox](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
 
 ## Day 4
 
@@ -84,6 +81,12 @@
 ## Day 5
 
 ### Pre-Class
+
+#### CSS
+
+* [1.1.7: CSS Bootstrap](../../1-front-end-basics/1.1-html-and-css/1.1.7-bootstrap.md)
+
+#### Node
 
 * [2.9: HTTP](../../2-back-end-basics/2.9-http.md)
 * [2.10: HTTP File Server](../../2-back-end-basics/2.10-http-file-server.md)

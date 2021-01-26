@@ -92,6 +92,7 @@
   * [1.POCE.3: Match Game](1-front-end-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
   * [1.POCE.4: Timer](1-front-end-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
   * [1.POCE.5: Tic Tac Toe](1-front-end-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
+  * [1.POCE.6: Technical Documentation Page - Flexbox / Responsive](1-front-end-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
 
 ## 2️⃣ Back-End Basics
 
