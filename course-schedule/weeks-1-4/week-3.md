@@ -41,8 +41,8 @@
 
 ### Post-Class
 
-* [2.POCE.1: CSS Command Line](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
 * [1.POCE.6: CSS Flexbox](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
+* [2.POCE.1: CSS Command Line](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
 
 ## Day 3
 
