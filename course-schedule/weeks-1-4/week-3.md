@@ -60,6 +60,7 @@
 ### Post-Class
 
 * [2.POCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
+* [1.POCE.7: Flexbox Calendar](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
 
 ## Day 4
 
