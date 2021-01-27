@@ -1,5 +1,7 @@
 # 2.13: JSON
 
+## Introduction
+
 We need to introduce a way to store structured data in a text file, rather than just reading from lines.
 
 We'll also use this in our web application to store it's data before we talk about SQL.
