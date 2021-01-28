@@ -78,6 +78,7 @@
 ### Post-Class
 
 * [2.POCE.3: CSS Processor](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
+* [1.POCE.8: Personal Page](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.8-personal-page-flexbox.md)
 
 ## Day 5
 
@@ -100,5 +101,5 @@
 ### Post-Class
 
 * [2.POCE.4: File Server](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
-* 1.POCE.9: Bootstrap
+* [1.POCE.9: Bootstrap](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.9-bootstrap-columns.md)
 
