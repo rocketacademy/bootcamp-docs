@@ -88,7 +88,7 @@
 
 * [1.1.7: CSS Bootstrap](../../1-front-end-basics/1.1-html-and-css/1.1.7-bootstrap.md)
 
-#### Node
+#### Node.js
 
 * [2.9: HTTP](../../2-back-end-basics/2.9-http.md)
 * [2.10: HTTP File Server](../../2-back-end-basics/2.10-http-file-server.md)
