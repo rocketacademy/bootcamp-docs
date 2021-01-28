@@ -96,6 +96,7 @@
   * [1.POCE.7: Flexbox Calendar](1-front-end-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
   * [1.POCE.8: Personal Page - Flexbox](1-front-end-basics/1.poce-post-class-exercises/1.poce.8-personal-page-flexbox.md)
   * [1.POCE.9: Bootstrap Columns](1-front-end-basics/1.poce-post-class-exercises/1.poce.9-bootstrap-columns.md)
+  * [1.POCE.10: Bootstrap Adobe](1-front-end-basics/1.poce-post-class-exercises/1.poce.10-bootstrap-adobe.md)
 
 ## 2️⃣ Back-End Basics
 
