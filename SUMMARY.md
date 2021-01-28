@@ -94,6 +94,7 @@
   * [1.POCE.5: Tic Tac Toe](1-front-end-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
   * [1.POCE.6: Technical Documentation Page - Flexbox / Responsive](1-front-end-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
   * [1.POCE.7: Flexbox Calendar](1-front-end-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
+  * [1.POCE.8: Bootstrap Columns](1-front-end-basics/1.poce-post-class-exercises/1.poce.8-bootstrap-columns.md)
 
 ## 2️⃣ Back-End Basics
 
