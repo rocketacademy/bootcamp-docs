@@ -59,8 +59,8 @@
 
 ### Post-Class
 
-* [2.POCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
 * [1.POCE.7: Flexbox Calendar](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
+* [2.POCE.2: CSS Color Reading](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
 
 ## Day 4
 
@@ -77,8 +77,8 @@
 
 ### Post-Class
 
-* [2.POCE.3: CSS Processor](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 * [1.POCE.8: Personal Page](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.8-personal-page-flexbox.md)
+* [2.POCE.3: CSS Processor](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 
 ## Day 5
 
@@ -95,11 +95,11 @@
 
 ### **In-Class**
 
-* [2.ICE.4: Internet](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
 * [Peer Code Review: 2.POCE.3: CSS Processor](../../course-logistics/course-methodology.md#peer-code-review)
+* [2.ICE.4: Internet](../../2-back-end-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
 
 ### Post-Class
 
-* [2.POCE.4: File Server](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 * [1.POCE.9: Bootstrap](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.9-bootstrap-columns.md)
+* [2.POCE.4: File Server](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 
