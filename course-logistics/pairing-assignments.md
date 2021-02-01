@@ -16,7 +16,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 2 \(Jan 2021 - Jun 2021\)
 
-Formation ID is determined by `((weekNum * 5 + dayNum) % 3) + 1`.
+Formation ID is determined by `(((weekNum - 1) * 5 + dayOfWeekNum) % 3) + 1`. `weekNum` is the week number of the course, i.e. 1-24. `dayOfWeekNum` is the day number corresponding to the day of week, i.e. 1-5.
 
 | Formation ID | Pair 1 | Pair 2 |
 | :--- | :--- | :--- |
