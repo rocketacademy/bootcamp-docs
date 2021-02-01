@@ -35,7 +35,7 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 | 2 | [Server-Side Web Application](projects/project-2-server-side-app.md) |
 | 3 | [Full-Stack Game](projects/project-3-full-stack-game.md) |
 | 4 | [Full-Stack React App](projects/project-4-full-stack-react-app.md) |
-| 5 | Full-Stack Web Application with React \(group project\) |
+| 5 | Advanced Full-Stack React App \(Group Project\) |
 | 6 | Final Project |
 
 ## Daily Meeting Agenda
