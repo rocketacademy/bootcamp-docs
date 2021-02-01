@@ -8,12 +8,15 @@ We have already used classes extensively in SWE1, perhaps unknowingly. For examp
 
 In the DS&A context, we will be using classes to define non-built-in data structures in Python to help us solve problems more efficiently. These new data structures will include stacks, queues, linked lists, trees, graphs, and heaps. All of these data structures will be built on built-in features of Python.
 
-## Code Examples
-
-
-
 ## Helpful Videos
 
 1. [This](https://www.youtube.com/watch?v=pTB0EiLXUC8) video introduces key concepts of OOP \(encapsulation, abstraction, inheritance, and polymorphism\) without getting into much code.
 2. [This](https://www.youtube.com/watch?v=7Dai8SJgLkM) video explains the same key concepts of OOP with more code examples.
+
+## Code Examples
+
+Please read and understand the following class implementations in Python in [this](https://repl.it/@kaiyuanneo/oop-examples#main.py) Repl.
+
+1. Person
+2. Worker and Tool
 
