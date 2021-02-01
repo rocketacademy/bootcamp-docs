@@ -19,10 +19,12 @@ No pre-class material for today.
 ### In-Class
 
 * Project 4 Scrum
+* DS&A
 
 ### Post-Class
 
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
+* DS&A
 
 ## Day 2
 
