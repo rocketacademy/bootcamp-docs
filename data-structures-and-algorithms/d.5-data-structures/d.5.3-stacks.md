@@ -6,6 +6,9 @@ A stack is a data structure that supports adding and removing only from the end/
 
 ## Helpful Videos
 
+1. [This](https://www.youtube.com/watch?v=k1PX5LxFfTo) is a concise, high-level overview of the stack data structure concept, methods, and use cases.
+2. [This](https://www.youtube.com/watch?v=F1F2imiOJfk) is a slightly more detailed video covering the same concepts.
+
 ## Exercises
 
 ### Rocket Academy
