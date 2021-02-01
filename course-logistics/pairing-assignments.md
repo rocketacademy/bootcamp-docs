@@ -16,7 +16,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 2 \(Jan 2021 - Jun 2021\)
 
-Formation ID is determined by `((weekNum + dayNum) % 3) + 1`.
+Formation ID is determined by `((weekNum * 5 + dayNum) % 3) + 1`.
 
 | Formation ID | Pair 1 | Pair 2 |
 | :--- | :--- | :--- |
