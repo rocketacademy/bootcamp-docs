@@ -1,2 +1,14 @@
 # D.5.3: Stacks
 
+## Introduction
+
+A stack is a data structure that supports and adding and removing only from the end/top of the stack. We can think of the stack data structure like a stack of pancakes- we can only add and remove pancakes from the top of the stack, but we cannot add or remove from anywhere else in the stack lest we damage the pancakes. You may notice we already have the functionality of stacks with arrays, through list `append` and `pop` methods. Indeed the functionality of stacks is a subset of that of arrays, but the concepts behind why and how we use stacks may be new to us.
+
+## Helpful Videos
+
+## Exercises
+
+### Rocket Academy
+
+### Leetcode
+
