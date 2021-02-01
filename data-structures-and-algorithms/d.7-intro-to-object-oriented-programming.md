@@ -14,5 +14,6 @@ In the DS&A context, we will be using classes to define non-built-in data struct
 
 ## Helpful Videos
 
-* [This](https://www.youtube.com/watch?v=7Dai8SJgLkM) video explains key elements of OOP: encapsulation, abstraction, inheritance, and polymorphism.
+1. [This](https://www.youtube.com/watch?v=pTB0EiLXUC8) video introduces key concepts of OOP \(encapsulation, abstraction, inheritance, and polymorphism\) without getting into much code.
+2. [This](https://www.youtube.com/watch?v=7Dai8SJgLkM) video explains the same key concepts of OOP with more code examples.
 
