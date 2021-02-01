@@ -15,11 +15,19 @@ Please read and understand the queue class definition in [this](https://repl.it/
 
 ## Exercises
 
+Please complete as many exercises as you can. Try to complete at least 2 problems per day.
+
 ### Rocket Academy
 
 #### Problems
 
+Feel free to skip problem 5 and move onto Leetcode if you find it too difficult.
+
+1. [https://repl.it/@kaiyuanneo/queues\#main.py](https://repl.it/@kaiyuanneo/queues#main.py)
+
 #### Solutions
+
+1. [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
 
 ### Leetcode
 
