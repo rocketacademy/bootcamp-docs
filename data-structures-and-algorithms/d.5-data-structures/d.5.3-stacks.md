@@ -17,6 +17,16 @@ Please read and understand the stack class implementation in [this](https://repl
 
 ### Rocket Academy
 
+#### Exercises
+
+1. [https://repl.it/@kaiyuanneo/stacks1\#main.py](https://repl.it/@kaiyuanneo/stacks1#main.py)
+2. [https://repl.it/@kaiyuanneo/stacks2\#main.py](https://repl.it/@kaiyuanneo/stacks2#main.py)
+
+#### Solutions
+
+1. [https://repl.it/@kaiyuanneo/stacks2\#main.py](https://repl.it/@kaiyuanneo/stacks2#main.py)
+2. [https://repl.it/@kaiyuanneo/stacks2soln\#main.py](https://repl.it/@kaiyuanneo/stacks2soln#main.py)
+
 ### Leetcode
 
 [Here](https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=stack) are 12 Easy-level stack-specific problems on Leetcode. Please complete as many as you can. Once you've attempted each problem, please review solutions in the Discuss tab on that problem's page.
