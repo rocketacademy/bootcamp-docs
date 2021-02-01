@@ -19,18 +19,16 @@ No pre-class material for today.
 ### In-Class
 
 * Project 4 Scrum
-* DS&A
 
 ### Post-Class
 
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
-* DS&A
 
 ## Day 2
 
 ### Pre-Class
 
-No pre-class material for today.
+* [D.7: Object-Oriented Programming](../../data-structures-and-algorithms/d.7-intro-to-object-oriented-programming.md)
 
 ### In-Class
 
