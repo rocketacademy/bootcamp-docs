@@ -22,8 +22,8 @@
 
 ### Post-Class
 
-* [2.POCE.5 Noodle Website / Video Poker](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
 * [1.POCE.10: Bootstrap Adobe](../../1-front-end-basics/1.poce-post-class-exercises/1.poce.10-bootstrap-adobe.md)
+* [2.POCE.5 Noodle Website / Video Poker](../../2-back-end-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
 
 ## Day 2
 
