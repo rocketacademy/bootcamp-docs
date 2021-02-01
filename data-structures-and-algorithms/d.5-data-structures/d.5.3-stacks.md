@@ -9,7 +9,7 @@ A stack is a data structure that supports adding and removing only from the end/
 1. [This](https://www.youtube.com/watch?v=k1PX5LxFfTo) is a concise, high-level overview of the stack data structure concept, methods, and use cases.
 2. [This](https://www.youtube.com/watch?v=F1F2imiOJfk) is a slightly more detailed video covering the same concepts.
 
-## Code Examples
+## Code Example
 
 Please read and understand the stack class implementation in [this](https://repl.it/@kaiyuanneo/stack-class-definitions#main.py) Repl.
 
