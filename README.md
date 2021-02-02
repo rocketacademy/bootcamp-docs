@@ -24,7 +24,7 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 | 6 | [Front-End Infrastructure](6-front-end-infrastructure/6.0-module-6-overview.md) | Webpack | Front End |
 | 7 | [React](5-full-stack-application/5.0-module-5-overview.md) | React | Front End |
 | 8 | [Advanced React, Advanced Full Stack](6-front-end-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App, | Full Stack |
-| 9 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Mobile, Data Science, Operating Systems, Networking, Compilers,   | Full Stack |
+| 9 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Testing, Sockets, GraphQL, Mobile, Data Science | Full Stack |
 | D | [Data Structures and Algorithms](data-structures-and-algorithms/d.0-module-d-overview.md) | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
 
 ## Projects
