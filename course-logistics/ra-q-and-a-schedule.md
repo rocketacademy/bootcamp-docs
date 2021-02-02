@@ -16,6 +16,7 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 24 Feb 2021 | 3-345pm | [Frank Chen](https://www.linkedin.com/in/frankchn/) | Senior Software Engineer at Google Tensorflow, Founding Engineer at Coursera |
 | Wed | 17 Feb 2021 | 3-345pm | [Edwin Feng](https://www.linkedin.com/in/edwin-feng-56742a27/) | CTO at Talenox |
 | Wed | 10 Feb 2021 | 3-345pm | [Yong Cheng Toh](https://www.linkedin.com/in/yong-cheng-sebastian-toh-1361642b/) | Senior Staff Software Engineer at Xendit |
 | Wed | 3 Feb 2021 | 3-345pm | [Akira Wong](https://www.linkedin.com/in/awongh/) | Head of Education at Rocket Academy |
