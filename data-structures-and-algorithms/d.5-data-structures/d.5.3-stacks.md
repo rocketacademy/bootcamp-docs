@@ -24,7 +24,7 @@ Please read and understand the stack class implementation in [this](https://repl
 
 #### Solutions
 
-1. [https://repl.it/@kaiyuanneo/stacks2\#main.py](https://repl.it/@kaiyuanneo/stacks2#main.py)
+1. [https://repl.it/@kaiyuanneo/stacks1soln\#main.py](https://repl.it/@kaiyuanneo/stacks1soln#main.py)
 2. [https://repl.it/@kaiyuanneo/stacks2soln\#main.py](https://repl.it/@kaiyuanneo/stacks2soln#main.py)
 
 ### Leetcode
