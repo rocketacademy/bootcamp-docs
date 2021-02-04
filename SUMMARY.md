@@ -300,6 +300,7 @@
 * [8.4: React Router](8-advanced-react/8.4-react-router.md)
 * [8.5: Advanced useEffect](8-advanced-react/8.5-advanced-useeffect.md)
 * [8.6: Styled Components](8-advanced-react/8.6-styled-components.md)
+* [8.7: React Portals](8-advanced-react/8.7-react-portals.md)
 
 ## 9️⃣ Advanced Topics
 
