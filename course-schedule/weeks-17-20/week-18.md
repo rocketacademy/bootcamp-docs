@@ -18,17 +18,17 @@
 
 ### In-Class
 
-* Project 4 Presentation
+* TBD
 
 ### Post-Class
 
-* Project 4 Video Demo
+* TBD
 
 ## Day 2
 
 ### Pre-Class
 
-* 8.1: Create React App
+* 8.4: React Router: Deep Linking
 
 ### In-Class
 
@@ -42,7 +42,7 @@
 
 ### Pre-Class
 
-* 8.2: useContext
+* 8.5: Advanced useEffect
 
 ### In-Class
 
@@ -56,7 +56,8 @@
 
 ### Pre-Class
 
-* 8.2: useContext
+* 8.6: Styled Components
+* 8.7: React Portals
 
 ### **In-Class**
 
@@ -70,7 +71,7 @@
 
 ### Pre-Class
 
-* 8.3: Higher Order Components
+* 8.8: React NPM Packages
 
 ### **In-Class**
 
