@@ -295,6 +295,7 @@
 
 * [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
 * [8.1: Create React App](8-advanced-react/8.1-create-react-app.md)
+* [8.2: useContext](8-advanced-react/8.2-usecontext.md)
 
 ## 9️⃣ Advanced Topics
 
