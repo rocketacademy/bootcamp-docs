@@ -46,6 +46,7 @@ Since the focus of this project is on React, try not to create a database that i
 | Mon | W16D1 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
 | Thu | W16D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
 | Mon | W17D1 | Project presentations. 60-minute post-mortem with instructor. |
+| Wed | W17D3 | Project Video Due |
 
 ### Ideation Phase 1
 
