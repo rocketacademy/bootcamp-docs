@@ -14,7 +14,7 @@
 ### Pre-Class
 
 * Project 4
-* 4.6.5: Linked Lists
+* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ### In-Class
 
@@ -23,7 +23,7 @@
 ### Post-Class
 
 * Project 4 Video Demo
-* 4.6.5: Linked Lists
+* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ## Day 2
 
@@ -33,26 +33,26 @@
 
 ### In-Class
 
-* 4.6.5: Linked Lists
+* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ### Post-Class
 
-* 4.6.5: Linked Lists
+* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ## Day 3
 
 ### Pre-Class
 
 * 8.2: useContext
-* 4.6.6: Trees
+* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### In-Class
 
-* 4.6.6: Trees
+* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### **Post-Class**
 
-* 4.6.6: Trees
+* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ## Day 4
 
@@ -62,11 +62,11 @@
 
 ### **In-Class**
 
-* 4.6.6: Trees
+* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### **Post-Class**
 
-* 4.6.6: Trees
+* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ## Day 5
 
