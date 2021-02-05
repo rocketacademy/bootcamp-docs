@@ -16,6 +16,8 @@
 
 * [7.5: Controlled Forms](../../7-react/7.5-controlled-forms.md)
 * [7.6: Prop Functions](../../7-react/7.6-prop-functions.md)
+* [D.3: Complexity Analysis, Big-O Notation](../../data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
+* [D.4: Interview Strategies](../../data-structures-and-algorithms/d.4-interview-strategies.md)
 
 ### In-Class
 
@@ -29,10 +31,8 @@
 
 ### Pre-Class
 
-* [D.1: Intro to SWE Interviews](../../data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
-* [D.3: Complexity Analysis, Big-O Notation](../../data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
-* [D.4: Recursion](../../data-structures-and-algorithms/d.5-recursion.md)
 * [7.7: Component Hierarchy](../../7-react/7.7-component-hierarchy/)
+* [D.5: Recursion](../../data-structures-and-algorithms/d.5-recursion.md)
 
 ### In-Class
 
