@@ -4,7 +4,9 @@
 
 Trees are a common data structure used to represent hierarchical data. 
 
-## Helpful Videos
+## Helpful Resources
+
+1. Read pages 112-115 in the [Cracking the Coding Interview PDF](../d.0-module-d-overview.md#resources).
 
 ## Exercises
 
