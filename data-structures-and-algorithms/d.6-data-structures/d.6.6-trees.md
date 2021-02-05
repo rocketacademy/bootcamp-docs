@@ -16,12 +16,14 @@ Trees are a common data structure used to represent hierarchical data, often see
 #### Problems
 
 1. [https://repl.it/@JonathanYisheng/treeintro](https://repl.it/@JonathanYisheng/treeintro)
-2. [https://repl.it/@JonathanYisheng/treetraversals](https://repl.it/@JonathanYisheng/treetraversals)
-3. [https://repl.it/@JonathanYisheng/treebst](https://repl.it/@JonathanYisheng/treebst)
+2. [https://repl.it/@kaiyuanneo/treetraversals\#main.py](https://repl.it/@kaiyuanneo/treetraversals#main.py)
+3. [https://repl.it/@kaiyuanneo/treebst\#main.py](https://repl.it/@kaiyuanneo/treebst#main.py)
 
 #### Solutions
 
-TBD
+1. [https://repl.it/@kaiyuanneo/treeintrosoln](https://repl.it/@kaiyuanneo/treeintrosoln)
+2. [https://repl.it/@kaiyuanneo/treetraversals-soln](https://repl.it/@kaiyuanneo/treetraversals-soln)
+3. [https://repl.it/@kaiyuanneo/treebstsoln](https://repl.it/@kaiyuanneo/treebstsoln)
 
 ### Leetcode
 
