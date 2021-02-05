@@ -25,9 +25,9 @@ The hardest part of DS&A problems is coming up with the algorithm. When we write
 
 ## Trace Code With Simple Examples
 
-More often than not we will develop a flawed solution on our first try. The code may run but it fails our test cases. Instead of guessing where the bugs in our code may be, we must be methodical about testing. 
+More often than not we will develop a flawed solution on our first try. The code may run but it fails our test cases. Instead of guessing where bugs may be, we must test methodically. 
 
-1 common and foolproof way to find bugs in our code is to trace the code line by line with the simplest examples that our algorithm fails to address. 1 way to do this efficiently is to put `print` statements where we want to read intermediate variable values. We can also do this without running our code by keeping track of variable values on paper or on a whiteboard. At which line in our code does the intermediate value not match our expectations and why?
+1 common and foolproof way to find bugs in our code is to trace the code line by line with the simplest examples that our algorithm fails to address. 1 way is to put `print` statements where we want to read intermediate variable values. We can also do this without running code by tracking variable values on paper or on a whiteboard. At which line in our code does the intermediate value not match our expectations and why?
 
 ## Think of Test Cases
 
