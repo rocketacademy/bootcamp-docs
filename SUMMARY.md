@@ -330,6 +330,7 @@
 * [D.9: Dynamic Programming](data-structures-and-algorithms/d.9-dynamic-programming.md)
 * [D.10: Common Patterns](data-structures-and-algorithms/d.10-common-patterns.md)
 * [D.11: Additional Practice](data-structures-and-algorithms/d.11-additional-practice.md)
+* [Untitled](data-structures-and-algorithms/untitled.md)
 * [D.ICE: In-Class Exercises](data-structures-and-algorithms/d.ice-in-class-exercises/README.md)
   * [D.ICE.1: Recursion](data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 * [D.POCE: Post-Class Exercises](data-structures-and-algorithms/d.poce-post-class-exercises.md)

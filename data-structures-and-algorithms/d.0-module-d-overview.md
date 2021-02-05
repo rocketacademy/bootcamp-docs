@@ -33,3 +33,7 @@ During the 2nd half of SWE1 we will learn the concepts behind and drill DS&A int
    6. Backtracking
 10. Practice \(Leetcode, Hackerrank, Cracking the Coding Interview\)
 
+## Resources
+
+{% file src="../.gitbook/assets/cracking-the-coding-interview-6th-edition-189-programming-questions-and-solutions.pdf" caption="Cracking the Coding Interview" %}
+

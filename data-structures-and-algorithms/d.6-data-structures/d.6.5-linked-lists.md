@@ -13,9 +13,14 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, however, 
 | Insertion/Deletion \(anywhere except end\) | `O(n)` | `O(1)` \(Assuming we have access to the previous or current node, `O(n)` otherwise\) |
 | Access element at specific index | `O(1)` | `O(n)` |
 
-## Helpful Videos
+## Helpful Resources
 
 1. [Here](https://www.youtube.com/watch?v=R9PTBwOzceo) is a short and intuitive introduction to linked lists.
+2. Read pages 104-106 in the [Cracking the Coding Interview PDF](../d.0-module-d-overview.md#resources).
+
+## Use Cases
+
+Linked lists \(LLs\) are typically used when we want faster insertion or deletion of the first element in a list, for example to implement queues or hash tables. LLs are also used when we may not have sufficient contiguous storage space, for example in file systems on our hard drives. 
 
 ## Exercises
 
