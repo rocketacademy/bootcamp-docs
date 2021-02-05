@@ -34,7 +34,9 @@ Linked lists \(LLs\) are typically used when we want faster insertion or deletio
 
 #### Solutions
 
-TBD
+1. [https://repl.it/@kaiyuanneo/singly-linked-list-soln](https://repl.it/@kaiyuanneo/singly-linked-list-soln)
+2. [https://repl.it/@kaiyuanneo/doubly-linked-list-soln](https://repl.it/@kaiyuanneo/doubly-linked-list-soln)
+3. [https://repl.it/@kaiyuanneo/circular-doubly-linked-list-soln](https://repl.it/@kaiyuanneo/circular-doubly-linked-list-soln)
 
 ### Leetcode
 
