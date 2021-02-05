@@ -35,5 +35,5 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, however, 
 
 ### Leetcode
 
-[Here](https://leetcode.com/problemset/all/?topicSlugs=queue%2Clinked-list&difficulty=Easy) are 11 Easy-level Leetcode problems with linked lists.
+[Here](https://leetcode.com/problemset/all/?topicSlugs=linked-list&difficulty=Easy) are 10 Easy-level Leetcode problems with linked lists.
 
