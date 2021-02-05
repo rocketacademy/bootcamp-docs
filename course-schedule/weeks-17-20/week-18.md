@@ -1,14 +1,13 @@
 # Week 18
 
-
-
 ## Development Topics
 
 1. Advanced React
 
 ## Data Structures and Algorithms
 
-1. TBD
+1. Graphs
+2. Heaps
 
 ## Day 1
 
