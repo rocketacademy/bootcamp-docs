@@ -14,6 +14,7 @@
 ### Pre-Class
 
 * Project 4
+* 4.6.5: Linked Lists
 
 ### In-Class
 
@@ -22,6 +23,7 @@
 ### Post-Class
 
 * Project 4 Video Demo
+* 4.6.5: Linked Lists
 
 ## Day 2
 
@@ -31,25 +33,26 @@
 
 ### In-Class
 
-* TBD
+* 4.6.5: Linked Lists
 
 ### Post-Class
 
-* TBD
+* 4.6.5: Linked Lists
 
 ## Day 3
 
 ### Pre-Class
 
 * 8.2: useContext
+* 4.6.6: Trees
 
 ### In-Class
 
-* TBD
+* 4.6.6: Trees
 
 ### **Post-Class**
 
-* TBD
+* 4.6.6: Trees
 
 ## Day 4
 
@@ -59,23 +62,15 @@
 
 ### **In-Class**
 
-* TBD
+* 4.6.6: Trees
 
 ### **Post-Class**
 
-* TBD
+* 4.6.6: Trees
 
 ## Day 5
 
 ### Pre-Class
 
 * 8.3: Higher Order Components
-
-### **In-Class**
-
-* TBD
-
-### **Post-Class**
-
-* TBD
 
