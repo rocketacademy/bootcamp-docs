@@ -33,4 +33,5 @@ Feel free to skip problem 5 and move onto Leetcode if you find it too difficult.
 
 1. Easy: There is 1 Easy problem on queues in Leetcode [here](https://leetcode.com/problemset/all/?topicSlugs=queue&difficulty=Easy).
 2. Medium: There are 4 Medium problems on queues in Leetcode [here](https://leetcode.com/problemset/all/?topicSlugs=queue&difficulty=Medium).
+   1. Some of these problems will involve data structures you may not have seen before, for example binary trees and linked lists. Feel free to skip these problems for now if you have difficulty understanding the problem.
 
