@@ -1,14 +1,13 @@
 # Week 17
 
-
-
 ## Development Topics
 
 1. Advanced React
 
 ## Data Structures and Algorithms
 
-1. TBD
+1. Linked Lists
+2. Trees
 
 ## Day 1
 
