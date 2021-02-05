@@ -29,9 +29,7 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, however, 
 
 #### Solutions
 
-1. [https://repl.it/@kaiyuanneo/singly-linked-list](https://repl.it/@kaiyuanneo/singly-linked-list)
-2. [https://repl.it/@kaiyuanneo/doubly-linked-list](https://repl.it/@kaiyuanneo/doubly-linked-list)
-3. [https://repl.it/@kaiyuanneo/circular-doubly-linked-list](https://repl.it/@kaiyuanneo/circular-doubly-linked-list)
+TBD
 
 ### Leetcode
 
