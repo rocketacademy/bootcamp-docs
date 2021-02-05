@@ -18,7 +18,7 @@ No pre-class material for today.
 
 ### In-Class
 
-* Project 4 Scrum
+* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
 
@@ -33,7 +33,7 @@ No pre-class material for today.
 
 ### In-Class
 
-* Project 4 Scrum
+* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [D.5.3: Stacks](../../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md)
 
 ### Post-Class
@@ -49,7 +49,7 @@ No pre-class material for today.
 
 ### In-Class
 
-* Project 4 Scrum
+* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [D.5.3: Stacks](../../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md)
 
 ### Post-Class
@@ -65,7 +65,7 @@ No pre-class material for today.
 
 ### In-Class
 
-* Project 4 Scrum
+* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [D.5.4: Queues](../../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md)
 
 ### Post-Class
@@ -81,7 +81,7 @@ No pre-class material for today.
 
 ### In-Class
 
-* Project 4 Scrum
+* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
 * [D.5.4: Queues](../../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md)
 
 ### Post-Class
