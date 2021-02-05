@@ -19,6 +19,7 @@
 ### In-Class
 
 * Project 4 Presentation
+* Alvin React Uploads Presentation
 
 ### Post-Class
 
