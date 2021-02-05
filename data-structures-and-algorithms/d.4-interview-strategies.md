@@ -19,9 +19,9 @@ Thinking out load greatly increases one's chances of succeeding in DS&A intervie
 
 Always write pseudocode before code in DS&A problems. One might think that this "extra" step saps time in a short interview, but in reality the pseudocode provides clarity and prevents errors in code writing and more often saves time than not. 
 
-The hardest part of DS&A problems is coming up with the algorithm. When we write pseudocode, it frees us to imagine the algorithm without worrying about code syntax. It is easy to improve our algorithm in pseudocode because we need not worry that code runs. **We should always ask ourselves if we can solve the problem faster during the pseudocode stage, before writing code.** This allows us to find optimal algorithms without having to write and rewrite code. Having our algorithm in pseudocode also allows our interviewer to provide valuable feedback on our algorithm early.
+The hardest part of DS&A problems is coming up with the algorithm. When we write pseudocode, it frees us to imagine the algorithm without worrying about code syntax. It is easy to improve our algorithm in pseudocode because we need not worry that code runs. **We should always ask ourselves if we can solve the problem faster during the pseudocode stage, before writing code.** This allows us to find optimal algorithms without writing and rewriting code. Having our algorithm in pseudocode also allows our interviewer to provide valuable feedback on our algorithm early.
 
-1 caveat to this rule is during automated online interviews. While pseudocode is still beneficial to make sure we code efficiently, our pseudocode may not be taken into account when our interviews are graded, thus we may not want to invest as much time in the "prettiness" of our pseudocode. 
+1 caveat to this rule is during automated online interviews. While pseudocode is still beneficial to make sure we code efficiently, our pseudocode may not be considered when our interviews are graded, thus we may not want to invest as much time in the "prettiness" of our pseudocode. 
 
 ## Trace Code With Simple Examples
 
