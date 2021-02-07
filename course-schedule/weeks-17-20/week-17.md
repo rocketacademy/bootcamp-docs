@@ -30,7 +30,8 @@
 
 ### Pre-Class
 
-* 8.1: Create React App
+* [8.1: Create React App](../../8-advanced-react/8.1-create-react-app/)
+* [8.1.1: Create React App Full Stack](../../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
 
 ### In-Class
 

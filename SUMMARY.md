@@ -295,7 +295,7 @@
 
 * [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
 * [8.1: Create React App](8-advanced-react/8.1-create-react-app/README.md)
-  * [8.2.1: Create React App Full Stack Setup](8-advanced-react/8.1-create-react-app/8.2.1-create-react-app-full-stack-setup.md)
+  * [8.1.1: Create React App Full Stack Setup](8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
 * [8.2: useContext](8-advanced-react/8.2-usecontext.md)
 * [8.3: Higher Order Components](8-advanced-react/8.3-higher-order-components.md)
 * [8.4: React Router](8-advanced-react/8.4-react-router.md)
