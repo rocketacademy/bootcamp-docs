@@ -13,12 +13,11 @@
 
 ### Pre-Class
 
-* Project 4
 * [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ### In-Class
 
-* Project 4 Presentation
+* [Project 4 Presentation](../../course-logistics/course-methodology.md#project-presentations)
 * Alvin React Uploads Presentation
 
 ### Post-Class
@@ -60,7 +59,7 @@
 
 ### Pre-Class
 
-* 8.2: useContext
+* 8.3: Higher Order Components
 
 ### **In-Class**
 
@@ -72,7 +71,5 @@
 
 ## Day 5
 
-### Pre-Class
-
-* 8.3: Higher Order Components
+CNY Holiday :\)
 
