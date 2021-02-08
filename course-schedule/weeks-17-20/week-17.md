@@ -44,7 +44,8 @@
 
 ### Pre-Class
 
-* 8.2: useContext
+* [8.2: Higher Order Components](../../8-advanced-react/8.3-higher-order-components.md)
+* [8.3.1: useContext](../../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### In-Class
@@ -59,7 +60,9 @@
 
 ### Pre-Class
 
-* 8.3: Higher Order Components
+* [8.3.2: useReducer](../../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
+* [8.3.3: useContext + useReducer](../../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
+* 8.3.4: React Ecom w/ Store
 
 ### **In-Class**
 
