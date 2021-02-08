@@ -308,6 +308,7 @@
 * [8.7: React Portals](8-advanced-react/8.7-react-portals.md)
 * [8.8: React NPM Packages](8-advanced-react/8.8-react-npm-packages.md)
 * [8.ICE: In-Class Exercises](8-advanced-react/8.ice-in-class-exercises/README.md)
+  * [8.POCE: Post-Class Exercises](8-advanced-react/8.ice-in-class-exercises/8.poce-post-class-exercises.md)
   * [8.ICE.1: useContext](8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 
 ## 9️⃣ Advanced Topics
