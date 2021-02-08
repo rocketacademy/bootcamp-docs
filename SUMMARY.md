@@ -303,6 +303,7 @@
 * [8.6: Styled Components](8-advanced-react/8.6-styled-components.md)
 * [8.7: React Portals](8-advanced-react/8.7-react-portals.md)
 * [8.8: React NPM Packages](8-advanced-react/8.8-react-npm-packages.md)
+* [8.ICE: In-Class Exercises](8-advanced-react/8.ice-in-class-exercises.md)
 
 ## 9️⃣ Advanced Topics
 
