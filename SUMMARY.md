@@ -296,7 +296,7 @@
 * [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
 * [8.1: Create React App](8-advanced-react/8.1-create-react-app/README.md)
   * [8.1.1: Create React App Full Stack Setup](8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
-* [8.2: Higher Order Components](8-advanced-react/8.3-higher-order-components.md)
+* [8.2: Higher-Order Components](8-advanced-react/8.3-higher-order-components.md)
 * [8.3: Advanced State](8-advanced-react/8.2-usecontext/README.md)
   * [8.3.1: useContext](8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
   * [8.3.2: useReducer](8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
