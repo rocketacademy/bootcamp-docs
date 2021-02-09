@@ -23,7 +23,6 @@ Run the create-react-app command and give a name to the react app.
 
 ```text
 npx create-react-app <APP_NAME>
-
 ```
 
 Create React App creates a folder and all the boilerplate files. It also runs `npm install` for all the default dependencies.
