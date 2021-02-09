@@ -51,7 +51,6 @@
 
 ### In-Class
 
-* useContext + useReducer
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### **Post-Class**
