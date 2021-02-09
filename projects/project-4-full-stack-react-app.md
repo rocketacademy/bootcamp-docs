@@ -81,5 +81,3 @@ Use zoom to record the video locally on your computer. It will record you and yo
 * Upload it to YouTube. Embed the video in your project README.md file.
 * Put the video file in your project repo and commit the file.
 
-
-

@@ -21,7 +21,7 @@
 
 ### Post-Class
 
-* Project 4 Video Demo
+* [Project 4 Video Demo](../../projects/project-4-full-stack-react-app.md#video-demo)
 * [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ## Day 2
