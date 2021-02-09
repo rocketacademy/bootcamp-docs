@@ -51,11 +51,11 @@
 
 ### In-Class
 
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+* [8.ICE.1: useContext](../../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 
 ### **Post-Class**
 
-* useContext + useReducer
+* [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ## Day 4
