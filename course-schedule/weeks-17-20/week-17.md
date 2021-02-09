@@ -62,7 +62,7 @@
 
 ### Pre-Class
 
-* 8.3.4: React Ecom w/ Store
+* [8.3.4: React E-Commerce App with Store](../../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
 
 ### **In-Class**
 
@@ -70,7 +70,7 @@
 
 ### **Post-Class**
 
-* useContext + useReducer
+* [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ## Day 5
