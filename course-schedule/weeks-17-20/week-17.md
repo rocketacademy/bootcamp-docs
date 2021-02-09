@@ -18,7 +18,6 @@
 ### In-Class
 
 * [Project 4 Presentation](../../course-logistics/course-methodology.md#project-presentations)
-* Alvin React Uploads Presentation
 
 ### Post-Class
 
@@ -46,22 +45,24 @@
 
 * [8.2: Higher Order Components](../../8-advanced-react/8.3-higher-order-components.md)
 * [8.3.1: useContext](../../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
+* [8.3.2: useReducer](../../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
+* [8.3.3: useContext + useReducer](../../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### In-Class
 
+* useContext + useReducer
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### **Post-Class**
 
+* useContext + useReducer
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ## Day 4
 
 ### Pre-Class
 
-* [8.3.2: useReducer](../../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
-* [8.3.3: useContext + useReducer](../../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
 * 8.3.4: React Ecom w/ Store
 
 ### **In-Class**
@@ -70,6 +71,7 @@
 
 ### **Post-Class**
 
+* useContext + useReducer
 * [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ## Day 5
