@@ -41,6 +41,10 @@
 
 ## Day 3
 
+### Due
+
+* [Project 4 Video Demo](../../projects/project-4-full-stack-react-app.md#video-demo)
+
 ### Pre-Class
 
 * [8.2: Higher Order Components](../../8-advanced-react/8.3-higher-order-components.md)
