@@ -6,6 +6,7 @@
 
 * [Course Days](course-schedule/course-days.md)
 * [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
+* [Batch 2 Schedule](course-schedule/batch-2-schedule.md)
 * [Weeks 1-4](course-schedule/weeks-1-4/README.md)
   * [Week 1](course-schedule/weeks-1-4/week-1.md)
   * [Week 2](course-schedule/weeks-1-4/week-2.md)
