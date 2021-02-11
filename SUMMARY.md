@@ -4,7 +4,6 @@
 
 ## 📅 Course Schedule
 
-* [Course Schedule Overview](course-schedule/course-schedule-overview.md)
 * [Course Days](course-schedule/course-days.md)
 * [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
 * [Weeks 1-4](course-schedule/weeks-1-4/README.md)
