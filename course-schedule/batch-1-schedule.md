@@ -6,7 +6,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 19-23 Oct | [CD1]() | [CD2]() | [CD3]() | [CD4]() | [CD5]() |
+| 1 | 19-23 Oct | [CD1](course-days.md#cd1) | [CD2]() | [CD3]() | [CD4]() | [CD5]() |
 | 2 | 26-30 Oct | [CD6]() | [CD7]() | [CD8]() | [CD9]() | [CD10]() |
 | 3 | 2-6 Nov | [CD11]() | [CD12]() | [CD13]() | [CD14]() | [CD15]() |
 | 4 | 9-13 Nov | [CD16]() | [CD17]() | [CD18]() | [CD19]() | [CD20]() |
