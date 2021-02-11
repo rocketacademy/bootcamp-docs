@@ -5,7 +5,16 @@
 ## 📅 Course Schedule
 
 * [Course Schedule Overview](course-schedule/course-schedule-overview.md)
-* [Course Days](course-schedule/course-days.md)
+* [Course Days](course-schedule/course-days/README.md)
+  * [Module 1: Frontend Basics](course-schedule/course-days/module-1-frontend-basics.md)
+  * [Module 2: Backend Basics](course-schedule/course-days/module-2-backend-basics.md)
+  * [Module 3: Backend Application](course-schedule/course-days/module-3-backend-application.md)
+  * [Module 4: Backend Structure](course-schedule/course-days/module-4-backend-structure.md)
+  * [Module 5: Full-Stack Application](course-schedule/course-days/module-5-full-stack-application.md)
+  * [Module 6: Frontend Infrastructure](course-schedule/course-days/module-6-frontend-infrastructure.md)
+  * [Module 7: React](course-schedule/course-days/module-7-react.md)
+  * [Module 8: Advanced React](course-schedule/course-days/module-8-advanced-react.md)
+  * [Module 9: Advanced Topics](course-schedule/course-days/module-9-advanced-topics.md)
 * [Weeks 1-4](course-schedule/weeks-1-4/README.md)
   * [Week 1](course-schedule/weeks-1-4/week-1.md)
   * [Week 2](course-schedule/weeks-1-4/week-2.md)
