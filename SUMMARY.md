@@ -15,6 +15,7 @@
   * [Module 7: React](course-schedule/course-days/module-7-react.md)
   * [Module 8: Advanced React](course-schedule/course-days/module-8-advanced-react.md)
   * [Module 9: Advanced Topics](course-schedule/course-days/module-9-advanced-topics.md)
+* [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
 * [Weeks 1-4](course-schedule/weeks-1-4/README.md)
   * [Week 1](course-schedule/weeks-1-4/week-1.md)
   * [Week 2](course-schedule/weeks-1-4/week-2.md)
