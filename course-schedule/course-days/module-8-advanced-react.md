@@ -1,178 +1,177 @@
 # Module 8: Advanced React
 
-## CD80
+### CD80
 
-### Pre-Class
+#### Pre-Class
 
-* [8.1: Create React App](../../8-advanced-react/8.1-create-react-app/)
-* [8.1.1: Create React App Full Stack](../../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
+- [8.1: Create React App](../../8-advanced-react/8.1-create-react-app/)
+- [8.1.1: Create React App Full Stack](../../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
 
-### In-Class
+#### In-Class
 
-* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
+- [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
-### Post-Class
+#### Post-Class
 
-* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
+- [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
-## CD81
+### CD81
 
-### Due
+#### Due
 
-* [Project 4 Video Demo](../../projects/project-4-full-stack-react-app.md#video-demo)
+- [Project 4 Video Demo](../../projects/project-4-full-stack-react-app.md#video-demo)
 
-### Pre-Class
+#### Pre-Class
 
-* [8.2: Higher Order Components](../../8-advanced-react/8.3-higher-order-components.md)
-* [8.3.1: useContext](../../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
-* [8.3.2: useReducer](../../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
-* [8.3.3: useContext + useReducer](../../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
+- [8.2: Higher Order Components](../../8-advanced-react/8.3-higher-order-components.md)
+- [8.3.1: useContext](../../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
+- [8.3.2: useReducer](../../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
+- [8.3.3: useContext + useReducer](../../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
 
-### In-Class
+#### In-Class
 
-* [8.ICE.1: useContext](../../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
+- [8.ICE.1: useContext](../../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 
-### **Post-Class**
+#### **Post-Class**
 
-* [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+- [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 
-## CD82
+### CD82
 
-### Pre-Class
+#### Pre-Class
 
-* [8.3.4: React E-Commerce App with Store](../../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+- [8.3.4: React E-Commerce App with Store](../../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
+- [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
-### **In-Class**
+#### **In-Class**
 
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+- [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
-### **Post-Class**
+#### **Post-Class**
 
-* [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+- [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+- [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
-## CD83
+### CD83
 
-### Pre-Class
+#### Pre-Class
 
-* 8.4: React Router
+- 8.4: React Router
 
-### In-Class
+#### In-Class
 
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+- [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
-### Post-Class
+#### Post-Class
 
-## CD84
+### CD84
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD85
+### CD85
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD86
+### CD86
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD87
+### CD87
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD88
+### CD88
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD89
+### CD89
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD90
+### CD90
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD91
+### CD91
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD92
+### CD92
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD93
+### CD93
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD94
+### CD94
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD95
+### CD95
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD96
+### CD96
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD97
+### CD97
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
-
+#### Post-Class

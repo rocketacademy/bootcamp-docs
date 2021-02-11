@@ -1,122 +1,121 @@
 # Module 9: Advanced Topics
 
-## CD98
+### CD98
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD99
+### CD99
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD100
+### CD100
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD101
+### CD101
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD102
+### CD102
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD103
+### CD103
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD104
+### CD104
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD105
+### CD105
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD106
+### CD106
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD107
+### CD107
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD108
+### CD108
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD109
+### CD109
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD110
+### CD110
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD111
+### CD111
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
+#### Post-Class
 
-## CD112
+### CD112
 
-### Pre-Class
+#### Pre-Class
 
-### In-Class
+#### In-Class
 
-### Post-Class
-
+#### Post-Class
