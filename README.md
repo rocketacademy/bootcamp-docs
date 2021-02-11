@@ -14,18 +14,18 @@ SWE1 is in [beta](https://medium.com/swlh/what-does-beta-really-mean-a8accc5e235
 
 SWE1 consists of modules, each of which covers a significant topic within full-stack software engineering. Course content and schedule are subject to minor changes depending on industry trends and student progress.
 
-| Module | Name | Topics | Stack |
-| :--- | :--- | :--- | :--- |
-| 1 | [Front-End Basics](1-frontend-basics/1.0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
-| 2 | [Back-End Basics](2-backend-basics/2.0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
-| 3 | [Back-End Application](3-backend-application/3.0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
-| 4 | [Back-End Structure](4-backend-structure/4.0-module-4-overview.md) | ORM, Sequelize, MVC | Back End |
-| 5 | [Full-Stack Application](4-backend-structure/4.0-module-4-overview.md) | AJAX, APIs | Full Stack |
-| 6 | [Front-End Infrastructure](6-frontend-infrastructure/6.0-module-6-overview.md) | Webpack | Front End |
-| 7 | [React](5-full-stack-application/5.0-module-5-overview.md) | React | Front End |
-| 8 | [Advanced React, Advanced Full Stack](6-frontend-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App, | Full Stack |
-| 9 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Testing, Sockets, GraphQL, Mobile, Data Science | Full Stack |
-| D | [Data Structures and Algorithms](data-structures-and-algorithms/d.0-module-d-overview.md) | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
+| Module | Weeks | Name | Topics | Stack |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 1-2 | [Front-End Basics](1-frontend-basics/1.0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
+| 2 | 3-4 | [Back-End Basics](2-backend-basics/2.0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
+| 3 | 4-8 | [Back-End Application](3-backend-application/3.0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
+| 4 | 9 | [Back-End Structure](4-backend-structure/4.0-module-4-overview.md) | ORM, Sequelize, MVC | Back End |
+| 5 | 10 | [Full-Stack Application](4-backend-structure/4.0-module-4-overview.md) | AJAX, APIs | Full Stack |
+| 6 | 11-12 | [Front-End Infrastructure](6-frontend-infrastructure/6.0-module-6-overview.md) | Webpack | Front End |
+| 7 | 13-16 | [React](5-full-stack-application/5.0-module-5-overview.md) | React | Front End |
+| 8 | 17-20 | [Advanced React, Advanced Full Stack](6-frontend-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App, | Full Stack |
+| 9 | 21-24 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Testing, Sockets, GraphQL, Mobile, Data Science | Full Stack |
+| D | 1-24 | [Data Structures and Algorithms](data-structures-and-algorithms/d.0-module-d-overview.md) | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
 
 ## Projects
 
