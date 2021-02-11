@@ -1,12 +1,12 @@
 # Glossary
 
-## Front End
+## Frontend
 
-Also known as "front-end" or "frontend", front end refers to everything to do with the user interface of an application, and the logic that happens on the user's machine.
+Also known as "front-end" or "front end", front end refers to everything to do with the user interface of an application, and the logic that happens on the user's machine.
 
-## Back End
+## Backend
 
-Also known as "back-end" or "backend", back end refers to everything that happens behind the user interface, typically logic which gets executed "server-side", i.e. not on the user's device.
+Also known as "back-end" or "back end", back end refers to everything that happens behind the user interface, typically logic which gets executed "server-side", i.e. not on the user's device.
 
 ## Integrated Development Environment \(IDE\)
 
