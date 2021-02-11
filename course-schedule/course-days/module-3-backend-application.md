@@ -64,7 +64,7 @@
 
 * [3.POCE.3: Express - UFOs](../../3-backend-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
-### CD23
+## CD23
 
 ### Pre-Class
 
@@ -79,7 +79,7 @@
 
 * [3.POCE.3: Express - UFOs](../../3-backend-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
-### CD24
+## CD24
 
 ### Pre-Class
 
@@ -96,7 +96,7 @@
 
 * [3.POCE.3: Express - UFOs](../../3-backend-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
-### CD25
+## CD25
 
 ### Pre-Class
 
@@ -112,7 +112,7 @@
 
 *  [3.POCE.4: Meal Tracker](../../3-backend-application/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper.md)
 
-### CD26
+## CD26
 
 ### Pre-Class
 
@@ -129,7 +129,7 @@
 * [3.POCE.5: Bird Watching](../../3-backend-application/3.poce-post-class-exercises/3.poce.5-bird-watching.md)
 * [Project 2 Planning: Ideation](../../projects/project-2-server-side-app.md#ideation-phase-1)
 
-### CD27
+## CD27
 
 ### Pre-Class
 
@@ -144,7 +144,7 @@
 
 * [3.POCE.6: Bird Watching Users](../../3-backend-application/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
 
-### CD28
+## CD28
 
 ### Pre-Class
 
@@ -159,7 +159,7 @@
 
 * [3.POCE.7: Bird Watching Species](../../3-backend-application/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
 
-### CD29
+## CD29
 
 ### Pre-Class
 
@@ -175,7 +175,7 @@
 
 * [3.POCE.8: Bird Watching Behaviour](../../3-backend-application/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
 
-### CD30
+## CD30
 
 ### Pre-Class
 
@@ -192,7 +192,7 @@
 * [3.POCE.10: Deployment](../../3-backend-application/3.poce-post-class-exercises/3.poce.10-deployment.md)
 * [Project 2 Planning: Ideation Deadline](../../projects/project-2-server-side-app.md#ideation-phase-1)
 
-### CD31
+## CD31
 
 ### Pre-Class
 
@@ -207,7 +207,7 @@
 
 * [Project 2 Planning: User Flows, Wireframes, DB ERDs](../../projects/project-2-server-side-app.md#ideation-phase-2)
 
-### CD32
+## CD32
 
 ### Pre-Class
 
@@ -223,7 +223,7 @@
 * [Project 2 Planning: Instructor 1-1s](../../projects/project-2-server-side-app.md#ideation-phase-2)
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD33
+## CD33
 
 ### Pre-Class
 
@@ -238,7 +238,7 @@
 
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD34
+## CD34
 
 ### Pre-Class
 
@@ -252,7 +252,7 @@
 
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD35
+## CD35
 
 ### Pre-Class
 
@@ -267,7 +267,7 @@ None
 
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD36
+## CD36
 
 ### Pre-Class
 
@@ -283,7 +283,7 @@ None
 * [Project 2 Mid-Point Instructor Meeting \(30 minutes\)](../../projects/project-2-server-side-app.md#project-timeline)
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD37
+## CD37
 
 ### Pre-Class
 
@@ -297,7 +297,7 @@ None
 
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD38
+## CD38
 
 ### Pre-Class
 
@@ -312,7 +312,7 @@ None
 
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD39
+## CD39
 
 ### Pre-Class
 
@@ -328,7 +328,7 @@ None
 * [Project 2 Pre-Presentation Meeting \(15 minutes\)](../../projects/project-2-server-side-app.md#project-timeline)
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD40
+## CD40
 
 ### Pre-Class
 
@@ -342,7 +342,7 @@ None
 
 * [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
-### CD41
+## CD41
 
 ### Pre-Class
 
