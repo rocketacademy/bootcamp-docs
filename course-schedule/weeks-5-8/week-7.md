@@ -18,12 +18,12 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
-* [3.7: JavaScript Promises](../../3-back-end-application/3.7-javascript-promises.md)
-* [3.5.9: pg Promises](../../3-back-end-application/3.5-sql-applications/3.5.9-pg-promises.md)
+* [3.7: JavaScript Promises](../../3-backend-application/3.7-javascript-promises.md)
+* [3.5.9: pg Promises](../../3-backend-application/3.5-sql-applications/3.5.9-pg-promises.md)
 
 ### In-Class
 
-* [3.ICE.11: Bird Watching Redux](../../3-back-end-application/3.ice-in-class-exercises/3.ice.11-bird-watching-redux.md)
+* [3.ICE.11: Bird Watching Redux](../../3-backend-application/3.ice-in-class-exercises/3.ice.11-bird-watching-redux.md)
 
 ### Post-Class
 
@@ -33,8 +33,8 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
-* [3.5.7: Database Setup Files](../../3-back-end-application/3.5-sql-applications/3.5.7-database-setup-files.md)
-* [3.6.5: Custom Middleware for Authentication](../../3-back-end-application/3.6-authentication/3.6.5-custom-middleware-for-authentication.md)
+* [3.5.7: Database Setup Files](../../3-backend-application/3.5-sql-applications/3.5.7-database-setup-files.md)
+* [3.6.5: Custom Middleware for Authentication](../../3-backend-application/3.6-authentication/3.6.5-custom-middleware-for-authentication.md)
 
 ### In-Class
 
@@ -49,11 +49,11 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
-* [3.5.8: SQL + JS Dates](../../3-back-end-application/3.5-sql-applications/3.5.8-sql-+-js-dates.md)
+* [3.5.8: SQL + JS Dates](../../3-backend-application/3.5-sql-applications/3.5.8-sql-+-js-dates.md)
 
 ### In-Class
 
-* [3.ICE.12: DB Schema Design - Uber](../../3-back-end-application/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
+* [3.ICE.12: DB Schema Design - Uber](../../3-backend-application/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
 * [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
@@ -64,7 +64,7 @@ description: 'Batch 1: 30/11 - 4/12 | Batch 2:'
 
 ### Pre-Class
 
-* [3.5.11: File Uploads](../../3-back-end-application/3.5-sql-applications/3.5.11-file-uploads.md)
+* [3.5.11: File Uploads](../../3-backend-application/3.5-sql-applications/3.5.11-file-uploads.md)
 
 ### In-Class
 
@@ -82,7 +82,7 @@ No pre-class material today.
 
 ### In-Class
 
-* [3.ICE.13: Instagram DB](../../3-back-end-application/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
+* [3.ICE.13: Instagram DB](../../3-backend-application/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
 * [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class

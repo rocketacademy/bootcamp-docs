@@ -18,14 +18,14 @@
 
 ### Post-Class
 
-* [4.POCE.3: Project 2 MVC Refactor](../../4-back-end-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md) \(Due Today\)
+* [4.POCE.3: Project 2 MVC Refactor](../../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md) \(Due Today\)
 * [Project 2 Technical Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due Today\)
 
 ## Day 2
 
 ### Pre-Class
 
-* [4.2.4: Sequelize Many-to-Many](../../4-back-end-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
+* [4.2.4: Sequelize Many-to-Many](../../4-backend-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
 
 ### In-Class
 
@@ -39,7 +39,7 @@
 
 ### Pre-Class
 
-* [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../../4-back-end-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table-attributes.md)
+* [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../../4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table-attributes.md)
 * [5.2.1: AJAX POST](../../5-full-stack-application/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 ### In-Class
@@ -54,7 +54,7 @@
 
 ### Pre-Class
 
-* [6.1: Webpack](../../6-front-end-infrastructure/6.1-webpack/)
+* [6.1: Webpack](../../6-frontend-infrastructure/6.1-webpack/)
 * [5.2.2: AJAX Cards](../../5-full-stack-application/5.2-ajax/5.2.2-ajax-cards.md)
 
 ### In-Class

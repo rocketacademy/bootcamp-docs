@@ -8,7 +8,7 @@
 
 ### In-Class
 
-* [3.ICE.14: CSS Practice 2](../../3-back-end-application/3.ice-in-class-exercises/3.ice.14-css-practice-2.md)
+* [3.ICE.14: CSS Practice 2](../../3-backend-application/3.ice-in-class-exercises/3.ice.14-css-practice-2.md)
 * [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class
@@ -30,7 +30,7 @@
 
 ### In-Class
 
-* [3.ICE.15: CSS Practice 3](../../3-back-end-application/3.ice-in-class-exercises/3.ice.15-css-practice-3.md)
+* [3.ICE.15: CSS Practice 3](../../3-backend-application/3.ice-in-class-exercises/3.ice.15-css-practice-3.md)
 * [Scrum](../../course-logistics/course-methodology.md#project-scrums)
 
 ### Post-Class

@@ -27,7 +27,7 @@ You are responsible for any seed data your app would need to run. The final vers
 
 ### General Ideas
 
-In [Module 3](../3-back-end-application/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
+In [Module 3](../3-backend-application/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
 * Google stores websites and users retrieve those websites
 * Uber stores drivers and their availability and users retrieve available drivers nearby
@@ -49,7 +49,7 @@ Given the relative restrictions of a server-side app that renders HTML pages, th
 
 ### File Uploading
 
-If your app idea involves file uploading, [3.5.11: File Uploads](../3-back-end-application/3.5-sql-applications/3.5.11-file-uploads.md) is a primer on how to accomplish this using the technologies we have learned so far.
+If your app idea involves file uploading, [3.5.11: File Uploads](../3-backend-application/3.5-sql-applications/3.5.11-file-uploads.md) is a primer on how to accomplish this using the technologies we have learned so far.
 
 ### 3rd-Party APIs
 

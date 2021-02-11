@@ -14,13 +14,13 @@
 
 ### Pre-Class
 
-* [4.2.6: Sequelize Validations](../../4-back-end-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
-* [6.1.1: Webpack with Local Modules](../../6-front-end-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
-* [6.1.2: Webpack with NPM Modules](../../6-front-end-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
+* [4.2.6: Sequelize Validations](../../4-backend-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
+* [6.1.1: Webpack with Local Modules](../../6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
+* [6.1.2: Webpack with NPM Modules](../../6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
 
 ### In-Class
 
-* [6.ICE.1: NPM Webpack](../../6-front-end-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
+* [6.ICE.1: NPM Webpack](../../6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
 
 ### Post-Class
 
@@ -30,8 +30,8 @@
 
 ### Pre-Class
 
-* [6.1.3: Webpack with Babel](../../6-front-end-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
-* [6.1.4: Webpack with SASS](../../6-front-end-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
+* [6.1.3: Webpack with Babel](../../6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
+* [6.1.4: Webpack with SASS](../../6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
 
 ### In-Class
 
@@ -46,7 +46,7 @@ No ICE today.
 
 ### Pre-Class
 
-* [6.1.5: Webpack with Express](../../6-front-end-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
+* [6.1.5: Webpack with Express](../../6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
 
 ### In-Class
 

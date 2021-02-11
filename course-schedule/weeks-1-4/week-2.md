@@ -12,7 +12,7 @@
 
 ### Pre-Class
 
-* [1.1.3: CSS Page Layout 2](../../1-front-end-basics/1.1-html-and-css/1.1.3-css-layout.md#part-2)
+* [1.1.3: CSS Page Layout 2](../../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout.md#part-2)
 
 ### In-Class
 
@@ -31,7 +31,7 @@ No pre-class material today.
 ### In-Class
 
 * [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.4: Straights Times CSS](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.4-straights-times-css.md)
+* [1.ICE.4: Straights Times CSS](../../1-frontend-basics/1.ice-in-class-exercises/1.ice.4-straights-times-css.md)
 
 ### **Post-Class**
 
@@ -41,12 +41,12 @@ No pre-class material today.
 
 ### Pre-Class
 
-* [2.0: Module 2 Setup](../../2-back-end-basics/2.0-module-2-overview.md)
+* [2.0: Module 2 Setup](../../2-backend-basics/2.0-module-2-overview.md)
 
 ### In-Class
 
 * [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.5: Etsy CSS](../../1-front-end-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
+* [1.ICE.5: Etsy CSS](../../1-frontend-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
 
 ### Post-Class
 
@@ -56,12 +56,12 @@ No pre-class material today.
 
 ### Pre-Class
 
-* [1.1.4: CSS Flexbox Froggy](../../1-front-end-basics/1.1-html-and-css/1.1.4-flexbox.md) 
+* [1.1.4: CSS Flexbox Froggy](../../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md) 
 
 ### In-Class
 
 * [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [1.1: HTML & CSS \(Technical Documentation\)](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-technical-documentation-page)
+* [1.1: HTML & CSS \(Technical Documentation\)](../../1-frontend-basics/1.1-html-and-css/#html-css-exercise-technical-documentation-page)
 
 ### Post-Class
 
@@ -71,12 +71,12 @@ No pre-class material today.
 
 ### Pre-Class
 
-* [1.1.4: Flexbox Layout](../../1-front-end-basics/1.1-html-and-css/1.1.4-flexbox.md#see-how-to-use-flexbox-to-create-css-layouts)
+* [1.1.4: Flexbox Layout](../../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md#see-how-to-use-flexbox-to-create-css-layouts)
 
 ### In-Class
 
 * [Project 1 Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [1.1: HTML & CSS \(Product Page\)](../../1-front-end-basics/1.1-html-and-css/#html-css-exercise-product-landing-page)
+* [1.1: HTML & CSS \(Product Page\)](../../1-frontend-basics/1.1-html-and-css/#html-css-exercise-product-landing-page)
 
 ### Post-Class
 
