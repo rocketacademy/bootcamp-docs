@@ -1339,6 +1339,8 @@ No pre-class material for today.
 
 #### Pre-Class
 
+* 8.5: Advanced useEffect    
+
 #### In-Class
 
 #### Post-Class
@@ -1347,6 +1349,9 @@ No pre-class material for today.
 
 #### Pre-Class
 
+* 8.6: Styled Components    
+* 8.7: React Portals    
+
 #### In-Class
 
 #### Post-Class
@@ -1354,6 +1359,8 @@ No pre-class material for today.
 ### CD86
 
 #### Pre-Class
+
+* 8.8: React NPM Packages    
 
 #### In-Class
 
