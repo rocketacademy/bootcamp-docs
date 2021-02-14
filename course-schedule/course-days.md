@@ -1339,11 +1339,16 @@ No pre-class material for today.
 
 #### Pre-Class
 
-* 8.5: Advanced useEffect    
+* 8.5: Advanced useEffect 
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 #### In-Class
 
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+
 #### Post-Class
+
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 ### CD85
 
@@ -1354,17 +1359,26 @@ No pre-class material for today.
 
 #### In-Class
 
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+
 #### Post-Class
+
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 ### CD86
 
 #### Pre-Class
 
 * 8.8: React NPM Packages    
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 #### In-Class
 
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+
 #### Post-Class
+
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### CD87
 
@@ -1372,7 +1386,11 @@ No pre-class material for today.
 
 #### In-Class
 
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+
 #### Post-Class
+
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### CD88
 
