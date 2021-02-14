@@ -1339,7 +1339,7 @@ No pre-class material for today.
 
 #### Pre-Class
 
-* 8.5: Advanced useEffect 
+* [8.5: Advanced useEffect ](../8-advanced-react/8.5-advanced-useeffect.md)
 * [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 #### In-Class
