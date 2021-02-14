@@ -276,6 +276,7 @@
   * [8.3.4: React E-Commerce App with Store](8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
 * [8.4: React Router](8-advanced-react/8.4-react-router/README.md)
   * [8.4.1: React Router Shopping](8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
+  * [8.4.2: React Router Deep Linking](8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
 * [8.5: Advanced useEffect](8-advanced-react/8.5-advanced-useeffect.md)
 * [8.6: Styled Components](8-advanced-react/8.6-styled-components.md)
 * [8.7: React Portals](8-advanced-react/8.7-react-portals.md)
