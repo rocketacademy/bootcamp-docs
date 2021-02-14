@@ -1325,7 +1325,9 @@ No pre-class material for today.
 
 #### Pre-Class
 
-* 8.4: React Router
+* [8.4: React Router](../8-advanced-react/8.4-react-router/)
+* [8.4.1: React Router Shopping](../8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
+* [8.4.2: React Router Deep Linking](../8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
 
 #### In-Class
 
