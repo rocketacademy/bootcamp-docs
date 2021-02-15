@@ -16,6 +16,7 @@
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
 * [Coding Tool and Language Tips](course-logistics/coding-tool-and-language-tips.md)
+* [Group Work](course-logistics/group-work.md)
 * [Glossary](course-logistics/glossary.md)
 
 ## 🏞 Projects
@@ -285,6 +286,7 @@
   * [8.ICE.1: useContext](8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 * [8.POCE: Post-Class Exercises](8-advanced-react/8.poce-post-class-exercises/README.md)
   * [8.POCE.1: Car Rental](8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+  * [8.POCE.2: Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 
 ## 9️⃣ Advanced Topics
 
