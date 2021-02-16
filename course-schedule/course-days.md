@@ -414,7 +414,7 @@ Node.js
 
 #### Pre-Class
 
-* [3.5: SQL Applications](https://github.com/rocketacademy/swe1-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/3-backend-application/3.5-sql-applications)
+* [3.5: SQL Applications](../3-backend-application/3.5-sql-applications/)
 * [3.5.1: PostgreSQL, psql](../3-backend-application/3.5-sql-applications/3.5.1-postgresql-psql.md)
 * [3.5.2: PostgreSQL Node App](../3-backend-application/3.5-sql-applications/3.5.2-postgresql-node-app.md)
 
