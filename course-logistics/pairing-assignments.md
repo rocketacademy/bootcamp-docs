@@ -20,9 +20,9 @@ Formation ID is determined by `(((weekNum - 1) * 5 + dayOfWeekNum) % 3) + 1`. `w
 
 | Formation ID | Pair 1 | Pair 2 |
 | :--- | :--- | :--- |
-| 1 | Ian, Michelle | Jerome, Zeph |
-| 2 | Ian, Jerome | Michelle, Zeph |
-| 3 | Ian, Zeph | Michelle, Jerome |
+| 0 | Ian, Michelle | Jerome, Zeph |
+| 1 | Ian, Jerome | Michelle, Zeph |
+| 2 | Ian, Zeph | Michelle, Jerome |
 
 #### Formation Calculation Code
 
@@ -58,12 +58,16 @@ function getWeekNumber(d) {
     return weekNo;
 }
 
-var dayOfWeekNum = new Date().getDay() + 1;
+var formationCount = 3;
+
+var daysInAWeek = 5; 
+
+var ordinalDayOfWeek = new Date().getDay() + 1; // day of week - 1-7
 
 var weekNum = getWeekNumber(new Date());
 
-var formation = (((weekNum - 1) * 5 + dayOfWeekNum) % 3) + 1;
+var formationNumber = ((weekNum * daysInAWeek + ordinalDayOfWeek) % formationCount);
 
-console.log( formation );
+console.log( formationNumber );
 ```
 
