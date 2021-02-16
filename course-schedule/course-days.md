@@ -1349,13 +1349,14 @@ No pre-class material for today.
 #### Post-Class
 
 * [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 
 ### CD85
 
 #### Pre-Class
 
-* 8.6: Styled Components    
-* 8.7: React Portals    
+* [8.6: Styled Components    ](../8-advanced-react/8.6-styled-components.md)
+* [8.7: React Portals    ](../8-advanced-react/8.7-react-portals.md)
 
 #### In-Class
 
