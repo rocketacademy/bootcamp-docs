@@ -66,6 +66,20 @@ One member of the team will create a GitHub repo and invite the other collaborat
 
 For each task in the Kanban board a new branch will be created from `main`, and named after the task to be completed. When a task is done create a pull request and merge the code into `main`.
 
+#### Getting the Lastest Changes
+
+When working in a team, changes will be happening to main branch that will need to be pulled down locally.
+
+Whenever there is a big change to main follow these steps to get them locally:
+
+1. Save & commit all changes on the current \(non-main\) feature branch. Checkout main: `git checkout main`
+2. `git pull origin main` to get the latest changes from GitHub on the main branch made by others.
+3. `git checkout` the feature branch again.
+4. If there are changes on `main` that are needed in the feature branch, do a merge: `git merge main`
+5. \(optional\) If work is not completed yet on the feature branch, it's possible to do a defensive merge of `main` into the feature branch, even if that code is not needed. This best practice prevents very large changes from being merged all at once.
+
+
+
 #### Avoiding Merge Conflicts
 
 In a React full-stack app, there are a few files that might generate merge conflicts, such as `App.js` or `routes.js` on the back-end. For the most part, to avoid merge conflicts it simply takes a lot of communication when two people are both changing these centralized files. Ideally each new change would just be done one after the other, where one person waits to get the code of the second person.
