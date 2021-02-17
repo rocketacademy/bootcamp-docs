@@ -1371,7 +1371,7 @@ No pre-class material for today.
 
 #### Pre-Class
 
-* 8.8: React NPM Packages    
+* [8.8: React NPM Packages    ](../8-advanced-react/8.8-react-npm-packages.md)
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 #### In-Class
