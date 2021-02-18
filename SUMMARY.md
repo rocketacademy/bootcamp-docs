@@ -25,6 +25,7 @@
 * [Project 2: Server-Side App](projects/project-2-server-side-app.md)
 * [Project 3: Full-Stack Game](projects/project-3-full-stack-game.md)
 * [Project 4: Full-Stack React App](projects/project-4-full-stack-react-app.md)
+* [Project 5: Group React App](projects/project-5-group-react-app.md)
 
 ## 1️⃣ Frontend Basics
 
