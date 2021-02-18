@@ -66,19 +66,21 @@ One member of the team will create a GitHub repo and invite the other collaborat
 
 For each task in the Kanban board a new branch will be created from `main`, and named after the task to be completed. When a task is done create a pull request and merge the code into `main`.
 
-#### Getting the Lastest Changes
+#### Getting the Latest Changes
 
 When working in a team, changes will be happening to main branch that will need to be pulled down locally.
 
 Whenever there is a big change to main follow these steps to get them locally:
 
-1. Save & commit all changes on the current \(non-main\) feature branch. Checkout main: `git checkout main`
-2. `git pull origin main` to get the latest changes from GitHub on the main branch made by others.
-3. `git checkout` the feature branch again.
-4. If there are changes on `main` that are needed in the feature branch, do a merge: `git merge main`
-5. \(optional\) If work is not completed yet on the feature branch, it's possible to do a defensive merge of `main` into the feature branch, even if that code is not needed. This best practice prevents very large changes from being merged all at once.
-
-
+1. Save & commit all changes on the current \(non-main\) feature branch. Get latest changes on `main` with `git pull origin main`.
+2. If there are changes on `main` that are needed in the feature branch, do a merge: `git merge main`
+3. \(optional\) If work is not completed yet on the feature branch, it's possible to do a defensive merge of `main` into the feature branch, even if that code is not needed. This best practice prevents very large changes from being merged all at once.
+4. Resolve any conflicts on the feature branch \(follow instructions in the console\)
+5. Once all conflicts are resolved, feel free to push feature branch to GitHub with `git push`, then create a PR to merge feature branch with `main` on GitHub.
+6. Once PR is merged, run `git pull origin main` to get latest `main` branch changes from GitHub.
+7. Delete old feature branch locally with `git branch -d <MY-FEATURE-BRANCH-NAME>` 
+8. Delete old feature branch on GitHub with `git push origin --delete <MY-FEATURE-BRANCH-NAME>`
+9. Checkout new feature branch and work on new feature with `git branch -b <MY-NEW-FEATURE-BRANCH>`
 
 #### Avoiding Merge Conflicts
 
@@ -90,5 +92,12 @@ One hard rule is, _**never merge a pull request into `main` that has a conflict.
 
 #### Merge `main` into the Branch
 
-The main strategy for dealing with merge conflicts and keeping the main branch clean is to merge `main` into the conflicting branch and make all necessary code edits in the conflicting branch. \(this all happens on the local computer\). Then push that \(now clean\) branch to GitHub.
+The main strategy for dealing with merge conflicts and keeping the `main` branch clean is to merge `main` into the conflicting branch and make all necessary code edits in the conflicting branch. \(this all happens on the local computer\). Then push that \(now clean\) branch to GitHub.
+
+The commands for merging `main` to our feature branch will be:
+
+1. `git checkout <MY-FEATURE-BRANCH-NAME>` to checkout feature branch
+2. `git merge main` to merge the commits from `main` to feature branch
+3. Resolve any conflicts on the feature branch
+4. Once all conflicts are resolved, feel free to push feature branch to GitHub with `git push`, then create a PR to merge feature branch with `main` on GitHub.
 
