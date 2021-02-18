@@ -14,7 +14,7 @@ Heap is a data structure that is useful for keeping track of the minimum or maxi
 
 ## Summary \(What do we need to know?\)
 
-1. Efficient extraction \(`O(logn)`\) of min or max in a changing collection 
+1. Efficient extraction \(`O(logn)`\) of min or max elements in a mutable collection 
 2. Creating a heap is `O(n)` 
 3. Heap push and heap pop run in `O(logn)` because they each involve 1 heapify call
 4. Heap sort runs in `O(nlogn)` time, but in practice is slower than Merge Sort
