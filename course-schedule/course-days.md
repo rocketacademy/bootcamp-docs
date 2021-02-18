@@ -464,6 +464,7 @@ Node.js
 
 * [3.4.3: SQL Relationships \(Many to Many\)](../3-backend-application/3.4-sql-language/3.4.3-sql-relationships-many-to-many.md)
 * [3.6.3: Password Hashing](../3-backend-application/3.6-authentication/3.6.3-password-hashing.md)
+* [3.5.5: Forms for One-to-Many Relationships](../3-backend-application/3.5-sql-applications/3.5.5-forms-for-one-to-many-relationships.md)
 
 #### In-Class
 
@@ -478,7 +479,6 @@ Node.js
 #### Pre-Class
 
 * [3.4.5: Non-FK Relationship Data in Join Table](../3-backend-application/3.4-sql-language/3.4.5-non-fk-relationship-data-in-join-table.md)
-* [3.5.5: Forms for One-to-Many Relationships](../3-backend-application/3.5-sql-applications/3.5.5-forms-for-one-to-many-relationships.md)
 * [3.6.4: Session Hashing](../3-backend-application/3.6-authentication/3.6.4-session-hashing.md)
 
 #### In-Class
