@@ -26,5 +26,6 @@ Heap is a data structure that is useful for keeping track of the minimum or maxi
 ## Exercises
 
 1. Complete the 2 Easy-level heap problems on Leetcode [here](https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=heap).  You may find the [Python `heapq` library ](https://docs.python.org/3/library/heapq.html)helpful. 
+   1. Hint for Kth-Largest problem: What's the most efficient way to get the k-th largest element in a heap of size k? Would we use a min-heap or max-heap?
 2. Attempt the top Medium-level heap problems on Leetcode in decreasing order of acceptance percentage [here](https://leetcode.com/problemset/all/?difficulty=Medium&topicSlugs=heap). Use Python `heapq` where necessary.
 
