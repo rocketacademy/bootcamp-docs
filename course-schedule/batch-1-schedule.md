@@ -6,7 +6,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 19-23 Oct | HTML, CSS, DOM, ES6 | - | [CD1](course-days/#cd1) | [CD2](course-days/#cd2) | [CD3](course-days/#cd3) | [CD4](course-days/#cd4) | [CD5](course-days/#cd5) |
+| 1 | 19-23 Oct | HTML, CSS, DOM, ES6 | - | [CD1](course-days/1-28.md#cd1) | [CD2](course-days/#cd2) | [CD3](course-days/#cd3) | [CD4](course-days/#cd4) | [CD5](course-days/#cd5) |
 | 2 | 26-30 Oct | Advanced CSS | [P1](../projects/project-1-video-poker.md) | [CD6](course-days/#cd6) | [CD7](course-days/#cd7) | [CD8](course-days/#cd8) | [CD9](course-days/#cd9) | [CD10](course-days/#cd10) |
 | 3 | 2-6 Nov | Node.js, HTTP, File Servers | - | [CD11](course-days/#cd11) | [CD12](course-days/#cd12) | [CD13](course-days/#cd13) | [CD14](course-days/#cd14) | [CD15](course-days/#cd15) |
 | 4 | 9-13 Nov | AWS, JSON, Express.js, EJS | - | [CD16](course-days/#cd16) | [CD17](course-days/#cd17) | [CD18](course-days/#cd18) | [CD19](course-days/#cd19) | [CD20](course-days/#cd20) |
