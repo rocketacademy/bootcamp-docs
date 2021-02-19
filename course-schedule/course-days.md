@@ -1335,6 +1335,9 @@ No pre-class material for today.
 
 #### Post-Class
 
+* [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+
 ### CD84
 
 #### Pre-Class
@@ -1348,8 +1351,8 @@ No pre-class material for today.
 
 #### Post-Class
 
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 ### CD85
 
@@ -1364,8 +1367,8 @@ No pre-class material for today.
 
 #### Post-Class
 
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 ### CD86
 
@@ -1380,31 +1383,37 @@ No pre-class material for today.
 
 #### Post-Class
 
-* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### CD87
 
 #### Pre-Class
 
+* [Project 5](../projects/project-5-group-react-app.md): Deadline to post teams and project ideas \(user stories\) in Slack
+
 #### In-Class
 
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 #### Post-Class
 
-* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### CD88
 
 #### Pre-Class
 
+Dynamic Programming
+
 #### In-Class
 
-* Redux Climbing Trip Postclass Exercise
+* Climbing Trip Redux
 
 #### Post-Class
+
+Project 5 Ideation \(wireframes, user stories, ERD\)
 
 ### CD89
 
