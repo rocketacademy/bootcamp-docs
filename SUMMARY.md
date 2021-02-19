@@ -4,39 +4,13 @@
 
 ## 📅 Course Schedule
 
-* [Course Days](course-schedule/course-days.md)
+* [Course Days](course-schedule/course-days/README.md)
+  * [1-28](course-schedule/course-days/1-28.md)
+  * [29-56](course-schedule/course-days/29-56.md)
+  * [57-84](course-schedule/course-days/57-84.md)
+  * [85-112](course-schedule/course-days/85-112.md)
 * [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
 * [Batch 2 Schedule](course-schedule/batch-2-schedule.md)
-* [Weeks 1-4](course-schedule/weeks-1-4/README.md)
-  * [Week 1](course-schedule/weeks-1-4/week-1.md)
-  * [Week 2](course-schedule/weeks-1-4/week-2.md)
-  * [Week 3](course-schedule/weeks-1-4/week-3.md)
-  * [Week 4](course-schedule/weeks-1-4/week-4.md)
-* [Weeks 5-8](course-schedule/weeks-5-8/README.md)
-  * [Week 5](course-schedule/weeks-5-8/week-5.md)
-  * [Week 6](course-schedule/weeks-5-8/week-6.md)
-  * [Week 7](course-schedule/weeks-5-8/week-7.md)
-  * [Week 8](course-schedule/weeks-5-8/week-8.md)
-* [Weeks 9-12](course-schedule/weeks-9-12/README.md)
-  * [Week 9](course-schedule/weeks-9-12/week-9.md)
-  * [Week 10](course-schedule/weeks-9-12/week-10.md)
-  * [Week 11](course-schedule/weeks-9-12/week-11.md)
-  * [Week 12](course-schedule/weeks-9-12/week-12.md)
-* [Weeks 13-16](course-schedule/weeks-13-16/README.md)
-  * [Week 13](course-schedule/weeks-13-16/week-13.md)
-  * [Week 14](course-schedule/weeks-13-16/week-14.md)
-  * [Week 15](course-schedule/weeks-13-16/week-15.md)
-  * [Week 16](course-schedule/weeks-13-16/week-16.md)
-* [Weeks 17-20](course-schedule/weeks-17-20/README.md)
-  * [Week 17](course-schedule/weeks-17-20/week-17.md)
-  * [Week 18](course-schedule/weeks-17-20/week-18.md)
-  * [Week 19](course-schedule/weeks-17-20/week-19.md)
-  * [Week 20](course-schedule/weeks-17-20/week-20.md)
-* [Weeks 21-24](course-schedule/weeks-21-24/README.md)
-  * [Week 21](course-schedule/weeks-21-24/week-21.md)
-  * [Week 22](course-schedule/weeks-21-24/week-22.md)
-  * [Week 23](course-schedule/weeks-21-24/week-23.md)
-  * [Week 24](course-schedule/weeks-21-24/week-24.md)
 
 ## 🛠 Course Logistics
 
@@ -46,6 +20,7 @@
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
 * [Coding Tool and Language Tips](course-logistics/coding-tool-and-language-tips.md)
+* [Group Work](course-logistics/group-work.md)
 * [Glossary](course-logistics/glossary.md)
 
 ## 🏞 Projects
@@ -54,6 +29,7 @@
 * [Project 2: Server-Side App](projects/project-2-server-side-app.md)
 * [Project 3: Full-Stack Game](projects/project-3-full-stack-game.md)
 * [Project 4: Full-Stack React App](projects/project-4-full-stack-react-app.md)
+* [Project 5: Group React App](projects/project-5-group-react-app.md)
 
 ## 1️⃣ Frontend Basics
 
@@ -304,7 +280,9 @@
   * [8.3.2: useReducer](8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
   * [8.3.3: useContext + useReducer](8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
   * [8.3.4: React E-Commerce App with Store](8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
-* [8.4: React Router](8-advanced-react/8.4-react-router.md)
+* [8.4: React Router](8-advanced-react/8.4-react-router/README.md)
+  * [8.4.1: React Router Shopping](8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
+  * [8.4.2: React Router Deep Linking](8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
 * [8.5: Advanced useEffect](8-advanced-react/8.5-advanced-useeffect.md)
 * [8.6: Styled Components](8-advanced-react/8.6-styled-components.md)
 * [8.7: React Portals](8-advanced-react/8.7-react-portals.md)
@@ -313,6 +291,7 @@
   * [8.ICE.1: useContext](8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 * [8.POCE: Post-Class Exercises](8-advanced-react/8.poce-post-class-exercises/README.md)
   * [8.POCE.1: Car Rental](8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+  * [8.POCE.2: Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 
 ## 9️⃣ Advanced Topics
 

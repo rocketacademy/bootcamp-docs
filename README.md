@@ -35,7 +35,7 @@ SWE1 consists of modules, each of which covers a significant topic within full-s
 | 2 | [Server-Side Web Application](projects/project-2-server-side-app.md) |
 | 3 | [Full-Stack Game](projects/project-3-full-stack-game.md) |
 | 4 | [Full-Stack React App](projects/project-4-full-stack-react-app.md) |
-| 5 | Advanced Full-Stack React App \(Group Project\) |
+| 5 | [Advanced Full-Stack React App \(Group Project\)](projects/project-5-group-react-app.md) |
 | 6 | Final Project |
 
 ## Schedule
@@ -44,7 +44,7 @@ Students are expected to be working on SWE1 minimally from 10am-6pm M-F. Each ba
 
 The SWE1 schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1 to 112. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
 
-The [Course Days](course-schedule/course-days.md) page lists deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. Each day's deliverables are due by the **start** of that day's class. We will complete exercises based on each day's deliverables in pairs during class.
+The [Course Days](course-schedule/course-days/) page lists deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. Each day's deliverables are due by the **start** of that day's class. We will complete exercises based on each day's deliverables in pairs during class.
 
 ## Daily Meeting Agenda
 
