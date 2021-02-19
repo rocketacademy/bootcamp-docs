@@ -4,6 +4,12 @@ description: 18 Oct - 2 Apr
 
 # Batch 1 Schedule
 
+## Current Week Material \(Week 18: 15-19 Feb\)
+
+[Course Days 83-87](course-days/85-112.md#cd85)
+
+## Overall Schedule
+
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 19-23 Oct | HTML, CSS, DOM, ES6 | - | [CD1](course-days/1-28.md#cd1) | [CD2](course-days/1-28.md#cd2) | [CD3](course-days/1-28.md#cd3) | [CD4](course-days/1-28.md#cd4) | [CD5](course-days/1-28.md#cd5) |
