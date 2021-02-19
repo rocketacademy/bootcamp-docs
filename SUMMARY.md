@@ -4,7 +4,11 @@
 
 ## 📅 Course Schedule
 
-* [Course Days](course-schedule/course-days.md)
+* [Course Days](course-schedule/course-days/README.md)
+  * [1-28](course-schedule/course-days/1-28.md)
+  * [29-56](course-schedule/course-days/29-56.md)
+  * [57-84](course-schedule/course-days/57-84.md)
+  * [85-112](course-schedule/course-days/85-112.md)
 * [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
 * [Batch 2 Schedule](course-schedule/batch-2-schedule.md)
 

@@ -6,28 +6,28 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 11-15 Jan | HTML, CSS, DOM, ES6 | - | [CD1](course-days.md#cd1) | [CD2](course-days.md#cd2) | [CD3](course-days.md#cd3) | [CD4](course-days.md#cd4) | [CD5](course-days.md#cd5) |
-| 2 | 18-22 Jan | Advanced CSS | [P1](../projects/project-1-video-poker.md) | [CD6](course-days.md#cd6) | [CD7](course-days.md#cd7) | [CD8](course-days.md#cd8) | [CD9](course-days.md#cd9) | [CD10](course-days.md#cd10) |
-| 3 | 25-29 Jan | Node.js, HTTP, File Servers | - | [CD11](course-days.md#cd11) | [CD12](course-days.md#cd12) | [CD13](course-days.md#cd13) | [CD14](course-days.md#cd14) | [CD15](course-days.md#cd15) |
-| 4 | 1-5 Feb | AWS, JSON, Express.js, EJS | - | [CD16](course-days.md#cd16) | [CD17](course-days.md#cd17) | [CD18](course-days.md#cd18) | [CD19](course-days.md#cd19) | [CD20](course-days.md#cd20) |
-| 5 | 8-12 Feb | Express.js, EJS, SQL, Cookies | - | [CD21](course-days.md#cd21) | [CD22](course-days.md#cd22) | [CD23](course-days.md#cd23) | [CD24](course-days.md#cd24) | **PH** |
-| 6 | 15-19 Feb | SQL Associations, SQL Schema Design, User Authentication | - | [CD25](course-days.md#cd25) | [CD26](course-days.md#cd26) | [CD27](course-days.md#cd27) | [CD28](course-days.md#cd28) | [CD29](course-days.md#cd29) |
-| 7 | 22-26 Feb | JS Promises, Auth Middleware, JS Dates | [P2](../projects/project-2-server-side-app.md) | [CD30](course-days.md#cd30) | [CD31](course-days.md#cd31) | [CD32](course-days.md#cd32) | [CD33](course-days.md#cd33) | [CD34](course-days.md#cd34) |
-| 8 | 1-5 Mar | - | [P2](../projects/project-2-server-side-app.md) | [CD35](course-days.md#cd35) | [CD36](course-days.md#cd36) | [CD37](course-days.md#cd37) | [CD38](course-days.md#cd38) | [CD39](course-days.md#cd39) |
-| 9 | 8-12 Mar | Sequelize ORM, MVC | - | [CD40](course-days.md#cd40) | [CD41](course-days.md#cd41) | [CD42](course-days.md#cd42) | [CD43](course-days.md#cd43) | [CD44](course-days.md#cd44) |
-| 10 | 15-19 Mar | Sequelize Associations, AJAX, Webpack | - | [CD45](course-days.md#cd45) | [CD46](course-days.md#cd46) | [CD47](course-days.md#cd47) | [CD48](course-days.md#cd48) | [CD49](course-days.md#cd49) |
-| 11 | 22-26 Mar | Advanced Webpack | [P3](../projects/project-3-full-stack-game.md) | [CD50](course-days.md#cd50) | [CD51](course-days.md#cd51) | [CD52](course-days.md#cd52) | [CD53](course-days.md#cd53) | [CD54](course-days.md#cd54) |
-| 12 | 29 Mar - 2 Apr | - | [P3](../projects/project-3-full-stack-game.md) | [CD55](course-days.md#cd55) | [CD56](course-days.md#cd56) | [CD57](course-days.md#cd57) | [CD58](course-days.md#cd58) | **PH** |
-| 13 | 5-9 Apr | React: JSX, Components, Props. Intro to Python. | - | [CD59](course-days.md#cd59) | [CD60](course-days.md#cd60) | [CD61](course-days.md#cd61) | [CD62](course-days.md#cd62) | [CD63](course-days.md#cd63) |
-| 14 | 12-16 Apr | React and AJAX, Complexity Analysis, Recursion | - | [CD64](course-days.md#cd64) | [CD65](course-days.md#cd65) | [CD66](course-days.md#cd66) | [CD67](course-days.md#cd67) | [CD68](course-days.md#cd68) |
-| 15 | 19-23 Apr | Arrays, Sorting Algorithms, Hash Tables | [P4](../projects/project-4-full-stack-react-app.md) | [CD69](course-days.md#cd69) | [CD70](course-days.md#cd70) | [CD71](course-days.md#cd71) | [CD72](course-days.md#cd72) | [CD73](course-days.md#cd73) |
-| 16 | 26-30 Apr | OOP, Stacks, Queues | [P4](../projects/project-4-full-stack-react-app.md) | [CD74](course-days.md#cd74) | [CD75](course-days.md#cd75) | [CD76](course-days.md#cd76) | [CD77](course-days.md#cd77) | [CD78](course-days.md#cd78) |
-| 17 | 3-7 May | Create React App, Higher-Order Components, Global React State, Linked Lists, Trees | - | [CD79](course-days.md#cd79) | [CD80](course-days.md#cd80) | [CD81](course-days.md#cd81) | [CD82](course-days.md#cd82) | [CD83](course-days.md#cd83) |
-| 18 | 10-14 May | React Router, Styled Components, Graphs, Heaps | - | [CD84](course-days.md#cd84) | [CD85](course-days.md#cd85) | [CD86](course-days.md#cd86) | **PH** | [CD87](course-days.md#cd87) |
-| 19 | 17-21 May | Dynamic Programming | P5 | [CD88](course-days.md#cd88) | [CD89](course-days.md#cd89) | [CD90](course-days.md#cd90) | [CD91](course-days.md#cd91) | [CD92](course-days.md#cd92) |
-| 20 | 24-28 May | Common Algorithm Patterns | P5 | [CD93](course-days.md#cd93) | [CD94](course-days.md#cd94) | **PH** | [CD95](course-days.md#cd95) | [CD96](course-days.md#cd96) |
-| 21 | 31 May - 4 Jun | Testing, Sockets | P6 | [CD97](course-days.md#cd97) | [CD98](course-days.md#cd98) | [CD99](course-days.md#cd99) | [CD100](course-days.md#cd100) | [CD101](course-days.md#cd101) |
-| 22 | 7-11 Jun | Cron Jobs, Server-Side APIs | P6 | [CD102](course-days.md#cd102) | [CD103](course-days.md#cd103) | [CD104](course-days.md#cd104) | [CD105](course-days.md#cd105) | [CD106](course-days.md#cd106) |
-| 23 | 14-18 Jun | React Native | P6 | [CD107](course-days.md#cd107) | [CD108](course-days.md#cd108) | [CD109](course-days.md#cd109) | [CD110](course-days.md#cd110) | [CD111](course-days.md#cd111) |
-| 24 | 21-25 Jun | Naive Bayes Data Processing | P6 | [CD112](course-days.md#cd112) | Bonus | Bonus | Bonus | Bonus |
+| 1 | 11-15 Jan | HTML, CSS, DOM, ES6 | - | [CD1](course-days/#cd1) | [CD2](course-days/#cd2) | [CD3](course-days/#cd3) | [CD4](course-days/#cd4) | [CD5](course-days/#cd5) |
+| 2 | 18-22 Jan | Advanced CSS | [P1](../projects/project-1-video-poker.md) | [CD6](course-days/#cd6) | [CD7](course-days/#cd7) | [CD8](course-days/#cd8) | [CD9](course-days/#cd9) | [CD10](course-days/#cd10) |
+| 3 | 25-29 Jan | Node.js, HTTP, File Servers | - | [CD11](course-days/#cd11) | [CD12](course-days/#cd12) | [CD13](course-days/#cd13) | [CD14](course-days/#cd14) | [CD15](course-days/#cd15) |
+| 4 | 1-5 Feb | AWS, JSON, Express.js, EJS | - | [CD16](course-days/#cd16) | [CD17](course-days/#cd17) | [CD18](course-days/#cd18) | [CD19](course-days/#cd19) | [CD20](course-days/#cd20) |
+| 5 | 8-12 Feb | Express.js, EJS, SQL, Cookies | - | [CD21](course-days/#cd21) | [CD22](course-days/#cd22) | [CD23](course-days/#cd23) | [CD24](course-days/#cd24) | **PH** |
+| 6 | 15-19 Feb | SQL Associations, SQL Schema Design, User Authentication | - | [CD25](course-days/#cd25) | [CD26](course-days/#cd26) | [CD27](course-days/#cd27) | [CD28](course-days/#cd28) | [CD29](course-days/#cd29) |
+| 7 | 22-26 Feb | JS Promises, Auth Middleware, JS Dates | [P2](../projects/project-2-server-side-app.md) | [CD30](course-days/#cd30) | [CD31](course-days/#cd31) | [CD32](course-days/#cd32) | [CD33](course-days/#cd33) | [CD34](course-days/#cd34) |
+| 8 | 1-5 Mar | - | [P2](../projects/project-2-server-side-app.md) | [CD35](course-days/#cd35) | [CD36](course-days/#cd36) | [CD37](course-days/#cd37) | [CD38](course-days/#cd38) | [CD39](course-days/#cd39) |
+| 9 | 8-12 Mar | Sequelize ORM, MVC | - | [CD40](course-days/#cd40) | [CD41](course-days/#cd41) | [CD42](course-days/#cd42) | [CD43](course-days/#cd43) | [CD44](course-days/#cd44) |
+| 10 | 15-19 Mar | Sequelize Associations, AJAX, Webpack | - | [CD45](course-days/#cd45) | [CD46](course-days/#cd46) | [CD47](course-days/#cd47) | [CD48](course-days/#cd48) | [CD49](course-days/#cd49) |
+| 11 | 22-26 Mar | Advanced Webpack | [P3](../projects/project-3-full-stack-game.md) | [CD50](course-days/#cd50) | [CD51](course-days/#cd51) | [CD52](course-days/#cd52) | [CD53](course-days/#cd53) | [CD54](course-days/#cd54) |
+| 12 | 29 Mar - 2 Apr | - | [P3](../projects/project-3-full-stack-game.md) | [CD55](course-days/#cd55) | [CD56](course-days/#cd56) | [CD57](course-days/#cd57) | [CD58](course-days/#cd58) | **PH** |
+| 13 | 5-9 Apr | React: JSX, Components, Props. Intro to Python. | - | [CD59](course-days/#cd59) | [CD60](course-days/#cd60) | [CD61](course-days/#cd61) | [CD62](course-days/#cd62) | [CD63](course-days/#cd63) |
+| 14 | 12-16 Apr | React and AJAX, Complexity Analysis, Recursion | - | [CD64](course-days/#cd64) | [CD65](course-days/#cd65) | [CD66](course-days/#cd66) | [CD67](course-days/#cd67) | [CD68](course-days/#cd68) |
+| 15 | 19-23 Apr | Arrays, Sorting Algorithms, Hash Tables | [P4](../projects/project-4-full-stack-react-app.md) | [CD69](course-days/#cd69) | [CD70](course-days/#cd70) | [CD71](course-days/#cd71) | [CD72](course-days/#cd72) | [CD73](course-days/#cd73) |
+| 16 | 26-30 Apr | OOP, Stacks, Queues | [P4](../projects/project-4-full-stack-react-app.md) | [CD74](course-days/#cd74) | [CD75](course-days/#cd75) | [CD76](course-days/#cd76) | [CD77](course-days/#cd77) | [CD78](course-days/#cd78) |
+| 17 | 3-7 May | Create React App, Higher-Order Components, Global React State, Linked Lists, Trees | - | [CD79](course-days/#cd79) | [CD80](course-days/#cd80) | [CD81](course-days/#cd81) | [CD82](course-days/#cd82) | [CD83](course-days/#cd83) |
+| 18 | 10-14 May | React Router, Styled Components, Graphs, Heaps | - | [CD84](course-days/#cd84) | [CD85](course-days/#cd85) | [CD86](course-days/#cd86) | **PH** | [CD87](course-days/#cd87) |
+| 19 | 17-21 May | Dynamic Programming | P5 | [CD88](course-days/#cd88) | [CD89](course-days/#cd89) | [CD90](course-days/#cd90) | [CD91](course-days/#cd91) | [CD92](course-days/#cd92) |
+| 20 | 24-28 May | Common Algorithm Patterns | P5 | [CD93](course-days/#cd93) | [CD94](course-days/#cd94) | **PH** | [CD95](course-days/#cd95) | [CD96](course-days/#cd96) |
+| 21 | 31 May - 4 Jun | Testing, Sockets | P6 | [CD97](course-days/#cd97) | [CD98](course-days/#cd98) | [CD99](course-days/#cd99) | [CD100](course-days/#cd100) | [CD101](course-days/#cd101) |
+| 22 | 7-11 Jun | Cron Jobs, Server-Side APIs | P6 | [CD102](course-days/#cd102) | [CD103](course-days/#cd103) | [CD104](course-days/#cd104) | [CD105](course-days/#cd105) | [CD106](course-days/#cd106) |
+| 23 | 14-18 Jun | React Native | P6 | [CD107](course-days/#cd107) | [CD108](course-days/#cd108) | [CD109](course-days/#cd109) | [CD110](course-days/#cd110) | [CD111](course-days/#cd111) |
+| 24 | 21-25 Jun | Naive Bayes Data Processing | P6 | [CD112](course-days/#cd112) | Bonus | Bonus | Bonus | Bonus |
 
