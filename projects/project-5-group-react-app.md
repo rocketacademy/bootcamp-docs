@@ -4,7 +4,7 @@ Build a full-stack app in a team setting.
 
 This project will incorporate group work into building a complete full-stack React app.
 
-The required technologies are not any different from the previous project, although it is heavily reccomended to implement a reduce/context store for the data in the React app.
+The required technologies are not any different from the previous project, although it is heavily recommended to implement a reduce/context store for the data in the React app.
 
 The backend should be derived the same standard Express MVC  app: [https://github.com/rocketacademy/base-mvc-swe1](https://github.com/rocketacademy/base-mvc-swe1)
 
@@ -24,8 +24,6 @@ The app must fulfill the following requirements.
 The app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. Any 3rd-party APIs available on the internet can be used, e.g. NPM libraries.
 
 Any seed data your app would need to run needs to be included in the repo. The final version of the app must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
-
-
 
 ## Project Timeline
 
@@ -66,6 +64,4 @@ Use zoom to record the video locally on your computer. It will record you and yo
 
 * Upload it to YouTube. Embed the video in your project README.md file.
 * Put the video file in your project repo and commit the file.
-
-
 
