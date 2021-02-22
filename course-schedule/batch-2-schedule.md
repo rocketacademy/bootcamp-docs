@@ -6,7 +6,9 @@ description: 11 Jan - 25 Jun
 
 ## Current Week
 
-Week 7, 22-26 Feb: [Course Days 30-34](course-days/course-days-29-56.md#cd30)
+| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 7 | 22-26 Feb | JS Promises, Auth Middleware, JS Dates | [P2](../projects/project-2-server-side-app.md) | [CD30](course-days/course-days-29-56.md#cd30) | [CD31](course-days/course-days-29-56.md#cd31) | [CD32](course-days/course-days-29-56.md#cd32) | [CD33](course-days/course-days-29-56.md#cd33) | [CD34](course-days/course-days-29-56.md#cd34) |
 
 ## Overall Schedule
 
