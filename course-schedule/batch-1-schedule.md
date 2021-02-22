@@ -6,7 +6,9 @@ description: 18 Oct - 2 Apr
 
 ## Current Week
 
-Week 19, 22-26 Feb: [Course Days 88-92](course-days/course-days-85-112.md#cd88)
+| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 19 | 22-26 Feb | Dynamic Programming | [P5](../projects/project-5-group-react-app.md) | [CD88](course-days/course-days-85-112.md#cd88) | [CD89](course-days/course-days-85-112.md#cd89) | [CD90](course-days/course-days-85-112.md#cd90) | [CD91](course-days/course-days-85-112.md#cd91) | [CD92](course-days/course-days-85-112.md#cd92) |
 
 ## Overall Schedule
 
