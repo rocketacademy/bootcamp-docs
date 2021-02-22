@@ -7,6 +7,7 @@
 #### Pre-Class
 
 * [3.4.5: Non-FK Relationship Data in Join Table](../../3-backend-application/3.4-sql-language/3.4.5-non-fk-relationship-data-in-join-table.md)
+* [3.5.6: Forms for Many-to-Many Relationships](../../3-backend-application/3.5-sql-applications/3.5.6-forms-for-many-to-many-relationships.md)
 * [3.6.4: Session Hashing](../../3-backend-application/3.6-authentication/3.6.4-session-hashing.md)
 
 #### In-Class
@@ -22,7 +23,6 @@
 #### Pre-Class
 
 * [3.4.6: SQL Schema Design](../../3-backend-application/3.4-sql-language/3.4.6-sql-schema-design.md)
-* [3.5.6: Forms for Many-to-Many Relationships](../../3-backend-application/3.5-sql-applications/3.5.6-forms-for-many-to-many-relationships.md)
 
 #### In-Class
 
