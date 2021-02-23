@@ -12,18 +12,6 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 ## Exercises
 
-### Rocket Academy
-
-#### Problems
-
-1. [https://repl.it/@JonathanYisheng/dp1](https://repl.it/@JonathanYisheng/dp1)
-2. [https://repl.it/@JonathanYisheng/dp2](https://repl.it/@JonathanYisheng/dp2)
-3. [https://repl.it/@JonathanYisheng/dp3](https://repl.it/@JonathanYisheng/dp3)
-
-#### Solutions
-
-TBD
-
 ### Leetcode
 
 Attempt the 7 Easy-level Leetcode DP problems [here](https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming&difficulty=Easy).
