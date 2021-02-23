@@ -44,6 +44,8 @@ More often than not we will develop a flawed solution on our first try. The code
 
 1 common and foolproof way to find bugs in our code is to trace the code line by line with the simplest examples that our algorithm fails to address. 1 way is to put `print` statements where we want to read intermediate variable values. We can also do this without running code by tracking variable values on paper or on a whiteboard. At which line in our code does the intermediate value not match our expectations and why?
 
+If we find our code is still failing on more complex test cases, gradually increase the complexity of the test cases until we find the simplest test case where our code fails. Trace our code for that simplest failing test case to find the bug.
+
 ## Read and Understand Solutions
 
 To maximise chances of success in DS&A interviews, always review and understand solutions after attempting each problem. Commit the strategies to memory, because there is a good chance we will encounter a similar problem in the future. There are a finite number of patterns in DS&A problems, and even fewer for common DS&A problems used in interviews. We will cover a majority of these common patterns in SWE1's DS&A curriculum. If the platform you are using does not provide a solution for a given problem, Google almost always will have one.
