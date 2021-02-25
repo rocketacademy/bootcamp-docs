@@ -10,6 +10,15 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 2. [This](https://www.youtube.com/watch?v=vYquumk4nWw) video illustrates 2 fundamental examples of dynamic programming with the Fibonacci sequence.
 3. [This](https://awjin.me/algos-js/dp/tab-memo.html) article describes the differences between memoisation and tabulation methods of DP
 
+## Key Concepts
+
+1. Memoisation
+   1. Store previous calculations in cache to avoid repeated calculations
+2. "Take or don't take"
+   1. The problem can be broken down into "find the optimal value between choosing the current element and not choosing the current element"
+   2. "Take or don't take" problems typically also involve memoisation
+3. \(Advanced, optional\) Tabulation and optimal space usage
+
 ## Exercises
 
 ### Rocket Academy
