@@ -69,8 +69,17 @@ For each exercise, please answer why this is more efficiently solved with BFS th
 
 ### Recursive Backtracking
 
-1. [Slides](https://docs.google.com/presentation/d/1rpY5NnOvN7MKVLSI5NoU7LYySGVNRTC9Yptl9mtaXRY/edit?usp=sharing)
-2. [Exercises](https://repl.it/@LionellRocket/BackTracking)
+Backtracking means pruning exploration of subtrees that we know are invalid. See RA's slides [here](https://docs.google.com/presentation/d/1rpY5NnOvN7MKVLSI5NoU7LYySGVNRTC9Yptl9mtaXRY/edit#slide=id.g81c439b50b_0_81) for a more detailed explanation.
+
+#### Exercises
+
+The following exercises are all Medium-level exercises on Leetcode. The Easy Leetcode backtracking problems weren't relevant.
+
+1. [https://leetcode.com/problems/generate-parentheses/](https://leetcode.com/problems/generate-parentheses/)
+2. [https://leetcode.com/problems/permutations/](https://leetcode.com/problems/permutations/)
+3. [https://leetcode.com/problems/letter-case-permutation/](https://leetcode.com/problems/letter-case-permutation/)
+4. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+5. [https://leetcode.com/problems/combination-sum/](https://leetcode.com/problems/combination-sum/)
 
 ## Arrays
 
