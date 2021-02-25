@@ -37,5 +37,16 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 ### Leetcode
 
-Attempt the Easy-level Leetcode DP problems [here](https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming&difficulty=Easy).
+Attempt the following Easy DP problems on Leetcode.
+
+1. [https://leetcode.com/problems/divisor-game/](https://leetcode.com/problems/divisor-game/)
+   1. Note: This can be solved with math and not DP, but please implement the DP version for practice.
+2. [https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)
+3. [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)
+4. [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
+
+The following problems are tagged as Easy DP problems in Leetcode but can be solved more efficiently without DP. Try them out.
+
+1. [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+2. [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)
 
