@@ -99,6 +99,7 @@
 * [2.14: npm](2-backend-basics/2.14-npm.md)
 * [2.15: Git Branches](2-backend-basics/2.15-git-branches.md)
 * [2.16: ES6 Array Iterators](2-backend-basics/2.16-es6-array-iterators.md)
+* [2.17: Git Pull](2-backend-basics/2.17-git-pull.md)
 * [2.ICE: In-Class Exercises](2-backend-basics/2.ice-in-class-exercises/README.md)
   * [2.ICE.1: Conversions](2-backend-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
   * [2.ICE.2: Modules, Disk Reading](2-backend-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading.md)
