@@ -8,10 +8,30 @@ This module reviews common algorithmic patterns in DS&A interview problems.
 
 ### Depth-First Search
 
-1. [Slides](https://docs.google.com/presentation/d/1NXWbDYJz2EMvrHQGq1IYkftwwQ8sdDlE25QGiGWlrpY/edit?usp=sharing)
-2. [Exercises](https://repl.it/@LionellRocket/DFSpattern)
+Most vanilla recursion applies DFS. For example, the naive Fibonacci implementation of Fib\(n\) might solve the entire Fib\(n-1\) subtree before recursing on Fib\(n-2\).
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+#### Exercises
+
+1. [https://leetcode.com/problems/increasing-order-search-tree/](https://leetcode.com/problems/increasing-order-search-tree/)
+2. [https://leetcode.com/problems/maximum-depth-of-n-ary-tree/](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+3. [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+4. [https://leetcode.com/problems/leaf-similar-trees/](https://leetcode.com/problems/leaf-similar-trees/)
+5. [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+6. [https://leetcode.com/problems/flood-fill/](https://leetcode.com/problems/flood-fill/)
+7. [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)
+8. [https://leetcode.com/problems/minimum-distance-between-bst-nodes/](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+9. [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
+10. [https://leetcode.com/problems/binary-tree-tilt/](https://leetcode.com/problems/binary-tree-tilt/)
+11. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
+12. [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
+13. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
+14. [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 ### Breadth-First Search
+
+![](../.gitbook/assets/image.png)
 
 1. [Slides](https://docs.google.com/presentation/d/1NXWbDYJz2EMvrHQGq1IYkftwwQ8sdDlE25QGiGWlrpY/edit?usp=sharing)
 2. [Exercises](https://repl.it/@LionellRocket/BFS)
