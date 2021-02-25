@@ -12,7 +12,21 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 ## Exercises
 
+### Rocket Academy
+
+#### Problems
+
+1. [https://repl.it/@kaiyuanneo/dp1-basics\#main.py](https://repl.it/@kaiyuanneo/dp1-basics#main.py)
+2. [https://repl.it/@kaiyuanneo/dp2-intermediate\#main.py](https://repl.it/@kaiyuanneo/dp2-intermediate#main.py)
+3. [https://repl.it/@kaiyuanneo/dp3-advanced\#main.py](https://repl.it/@kaiyuanneo/dp3-advanced#main.py)
+   1. Advanced covers topics such as tabulation and optimal space usage. Please review and understand the examples in this page, but the exercises are optional.
+
+#### Solutions
+
+1. [https://repl.it/@kaiyuanneo/dp1-basics-soln\#main.py](https://repl.it/@kaiyuanneo/dp1-basics-soln#main.py)
+2. [https://repl.it/@kaiyuanneo/dp2-intermediate-soln\#main.py](https://repl.it/@kaiyuanneo/dp2-intermediate-soln#main.py)
+
 ### Leetcode
 
-Attempt the 7 Easy-level Leetcode DP problems [here](https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming&difficulty=Easy).
+Attempt the Easy-level Leetcode DP problems [here](https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming&difficulty=Easy).
 
