@@ -27,14 +27,45 @@ Most vanilla recursion applies DFS. For example, the naive Fibonacci implementat
 11. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
 12. [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
 13. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
-14. [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 ### Breadth-First Search
 
+BFS is a fancier form of tree traversal that typically involves queues. 
+
 ![](../.gitbook/assets/image.png)
 
-1. [Slides](https://docs.google.com/presentation/d/1NXWbDYJz2EMvrHQGq1IYkftwwQ8sdDlE25QGiGWlrpY/edit?usp=sharing)
-2. [Exercises](https://repl.it/@LionellRocket/BFS)
+As a recap of BFS, consider the following `level_order` traversal solution from [D.6.6: Trees](d.6-data-structures/d.6.6-trees.md#solutions), RA tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
+
+```python
+def level_order(tree):
+  ''' Return the list of values level by level (Hint: Consider iteration)'''
+  level_order_values = []
+  # Store upcoming nodes in a queue
+  q = [tree]
+  while len(q) > 0:
+    # Iteratively dequeue first node in queue until queue is empty
+    currnode = q.pop(0)
+    # Perform operation on current node
+    level_order_values.append(currnode.value)
+    # Enqueue left child if any
+    if currnode.left:
+      q.append(currnode.left)
+    # Enqueue right child if any
+    if currnode.right:
+      q.append(currnode.right)
+  return level_order_values
+```
+
+#### Exercises
+
+For each exercise, please answer why this is more efficiently solved with BFS than DFS. Consider using Python's built-in `deque` data structure [here](https://docs.python.org/3/library/collections.html#collections.deque) for a more efficient queue implementation than `list`.
+
+1. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
+2. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
+3. [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+4. [https://leetcode.com/problems/employee-importance/](https://leetcode.com/problems/employee-importance/)
+5. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) \(Medium\)
+6. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) \(Medium\)
 
 ### Recursive Backtracking
 
