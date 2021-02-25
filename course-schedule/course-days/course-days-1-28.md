@@ -299,6 +299,7 @@ Node.js
 #### Pre-Class
 
 * [2.15: Git Branches](../../2-backend-basics/2.15-git-branches.md)
+* [2.17: Git Pull](../../2-backend-basics/2.17-git-pull.md)
 * [2.16: ES6 Array Iterators](../../2-backend-basics/2.16-es6-array-iterators.md)
 
 #### In-Class
