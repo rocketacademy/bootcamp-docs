@@ -98,21 +98,24 @@ We will be learning more ways to decompose our Express apps into logical files a
 
 Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
 
-### Technical Blog Post
+## Video Demo
 
-To conclude this project, we will create a small technical blog post to share 1 concept we learned. The goals of this post are:
+Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it. The video should not go into any technical details that would be incomprehensible to someone non-technical.
 
-1. Help other developers by sharing knowledge
-2. Practise our written technical communication skills
-3. Impress potential recruiters and employers
-4. Help build the author's personal brand
-5. Help RA look good
+For example, when talking about an express app, when demoing the app, don't talk about how when the button gets clicked that it creates an HTTP POST request, rather, speak about the process of the user selecting an item they want to buy and ordering it.
 
-Your instructor will help you choose an idea during the Post-Mortem meeting. The idea will typically be a concept you struggled with and overcame during the project that might be helpful for other developers to learn. [Here](https://medium.com/quark-works/tips-on-how-to-write-your-first-successful-technical-blog-4cb65e5b4ce4) is a primer on how to write a technical blog post. If you do not have a preferred blog platform, please use [Medium](https://medium.com/) to create your post. Medium is a common platform for blog posts in general, including technical blog posts, and will help your post gain visibility due to Medium's strong SEO. [Here](https://help.medium.com/hc/en-us/articles/215194537-Using-the-story-editor#:~:text=To%20begin%20a%20code%20block,do%20not%20support%20syntax%20highlighting.) is how to insert code snippets in Medium.
+#### Phrases to avoid
 
-Please do not spend too long on this blog post. &lt;1 day should be sufficient, and the post does not need to be perfect. It is meant as a guide to solve the specific problem you faced, created for other developers that might face similar issues. We can share this and future blog posts on LinkedIn, our resumes, and on RA's website for visibility. If you would like, feel free to mention RA and link to our website [https://rocketacademy.co](https://rocketacademy.co) in your blog.
+When speaking it is a common impulse to downplay what the app does. This includes statement like: "This is just a simple app". "I didn't complete this". "I didn't have time to....", "This doesn't work well/is not designed well, but...."
 
-## Additional Notes
+If you catch yourself saying any of these phrases in the video, stop and re-record it. Remember that this video is to demonstrate what the app does do, not to talk about what it doesn't do.
+
+#### How to Record the video
+
+Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
+
+* Upload it to YouTube. Embed the video in your project README.md file.
+* Put the video file in your project repo and commit the file.
 
 ### Separating Logic and UI Concerns
 
