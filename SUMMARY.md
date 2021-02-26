@@ -302,6 +302,8 @@
 * [9.3: Django](9-advanced-topics/9.3-django.md)
 * [9.4: React Native](9-advanced-topics/9.4-react-native.md)
 * [9.5: ML - Naive Bayes Classifier](9-advanced-topics/9.5-ml-naive-bayes-classifier.md)
+* [9.6: GraphQL / React-Apollo](9-advanced-topics/9.6-graphql-react-apollo.md)
+* [9.7: Web Sockets](9-advanced-topics/9.7-web-sockets.md)
 
 ## 🧮 Data Structures and Algorithms
 
