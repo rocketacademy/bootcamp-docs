@@ -298,6 +298,7 @@
 
 * [9.0: Module 9 Overview](9-advanced-topics/9.0-module-9-overview.md)
 * [9.1: VSCode Node Debugger](9-advanced-topics/9.1-node-debugger.md)
+* [9.2: Testing](9-advanced-topics/9.2-testing.md)
 
 ## 🧮 Data Structures and Algorithms
 

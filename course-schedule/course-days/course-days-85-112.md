@@ -203,6 +203,8 @@ None
 
 ## Module 9: Advanced Topics
 
+Week 1
+
 ### CD98
 
 #### Pre-Class
@@ -244,6 +246,8 @@ None
 #### In-Class
 
 #### Post-Class
+
+week 2
 
 ### CD103
 
