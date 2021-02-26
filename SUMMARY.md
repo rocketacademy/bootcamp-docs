@@ -301,6 +301,7 @@
 * [9.2: Testing](9-advanced-topics/9.2-testing.md)
 * [9.3: Django](9-advanced-topics/9.3-django.md)
 * [9.4: React Native](9-advanced-topics/9.4-react-native.md)
+* [9.5: ML - Naive Bayes Classifier](9-advanced-topics/9.5-ml-naive-bayes-classifier.md)
 
 ## 🧮 Data Structures and Algorithms
 
