@@ -58,6 +58,10 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 * [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
 * [Data.gov.sg APIs](https://data.gov.sg/)
 
+### Repo
+
+Create your own repo from scratch. Do not clone from any other repo. \(You can use any starter code that you want, though\).
+
 ## Project Timeline
 
 ### Summary
