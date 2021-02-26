@@ -4,6 +4,14 @@ Naming, casing, and commenting are critical to software engineering because they
 
 ## Naming
 
+### General
+
+In general, variable names should be as specific as possible to prevent miscommunication. For example, for a game with 2 JS Objects, 1 an HTML element representing a playing card and 1 a JS Object containing playing card's name, suit, and rank, we might name the former `cardElement` and the latter `cardMetadata`. Avoid naming either variable `card` to prevent miscommunication.
+
+Avoid using shorthand in variable names that might be common in [SMS language](https://en.wikipedia.org/wiki/SMS_language), because such naming may not be universal and can cause confusion and bugs. Strive for precision and concision, prioritising the former whenever necessary.
+
+For example, in Singapore it may be common to use the letter "n" as an abbreviation for "and" and the letter "w" as an abbreviation for "with". Avoid these in variable names because they may not be universal.
+
 ### Functions
 
 Function names should start with a verb. This is to distinguish functions from data that might take a similar name. For example, the function `getRandomNum` may return a random number that gets stored in a variable `randomNum`.
@@ -39,14 +47,6 @@ The following are common naming conventions for routes, helping to communicate t
 | /&lt;RESOURCE&gt;/:id/edit | GET | Render a form to edit. |
 | /&lt;RESOURCE&gt;/:id/edit | PUT | Accept a request to edit. |
 | /&lt;RESOURCE&gt;/:id/delete | DELETE | Accept a request to delete. |
-
-### In General
-
-In general, variable names should be as specific as possible to prevent miscommunication. For example, for a game with 2 JS Objects, 1 an HTML element representing a playing card and 1 a JS Object containing playing card's name, suit, and rank, we might name the former `cardElement` and the latter `cardMetadata`. Avoid naming either variable `card` to prevent miscommunication.
-
-Avoid using shorthand in variable names that might be common in [SMS language](https://en.wikipedia.org/wiki/SMS_language), because such naming may not be universal and can cause confusion and bugs. Strive for precision and concision, prioritising the former whenever necessary.
-
-For example, in Singapore it may be common to use the letter "n" as an abbreviation for "and" and the letter "w" as an abbreviation for "with". Avoid these in variable names because they may not be universal.
 
 ## Casing
 
