@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 7 | 22-26 Feb | JS Promises, Auth Middleware, JS Dates | [P2](../projects/project-2-server-side-app.md) | [CD30](course-days/course-days-29-56.md#cd30) | [CD31](course-days/course-days-29-56.md#cd31) | [CD32](course-days/course-days-29-56.md#cd32) | [CD33](course-days/course-days-29-56.md#cd33) | [CD34](course-days/course-days-29-56.md#cd34) |
+| 8 | 1-5 Mar | - | [P2](../projects/project-2-server-side-app.md) | [CD35](course-days/course-days-29-56.md#cd35) | [CD36](course-days/course-days-29-56.md#cd36) | [CD37](course-days/course-days-29-56.md#cd37) | [CD38](course-days/course-days-29-56.md#cd38) | [CD39](course-days/course-days-29-56.md#cd39) |
 
 ## Overall Schedule
 
