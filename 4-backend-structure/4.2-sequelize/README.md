@@ -22,3 +22,4 @@ SELECT * FROM <TABLE_NAME> WHERE id=<ID>;
 ```
 
 ORM is the answer to the question: "_What if we could write a program that writes these SQL queries for us?_" When we finish implementing Sequelize ORM in our Express app, it will form the Model part of our Model-View-Controller architecture.
+

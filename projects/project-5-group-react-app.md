@@ -14,12 +14,12 @@ Remember that you need to add CORS to this repo.
 
 The app must fulfill the following requirements.
 
-- Use React
-- Use AJAX to get and set data from the server
-- At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
-- At least 2 SQL tables
-- At least 1 one-to-many and 1 many-to-many SQL relationship
-- Use CSS
+* Use React
+* Use AJAX to get and set data from the server
+* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+* At least 2 SQL tables
+* At least 1 one-to-many and 1 many-to-many SQL relationship
+* Use CSS
 
 The app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. Any 3rd-party APIs available on the internet can be used, e.g. NPM libraries.
 
@@ -29,16 +29,16 @@ Any seed data your app would need to run needs to be included in the repo. The f
 
 ### Summary
 
-| Day of Week | Course Day | Deliverable                                                                                                                                                                                                                          |
-| :---------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mon         | CD82       | Ideation Phase 1. Introduce Project 4, post project ideas in Slack for feedback                                                                                                                                                      |
-| Fri         | CD86       | Deadline to post project ideas in Slack                                                                                                                                                                                              |
-| Mon         | CD87       | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes                                                                                                                                                    |
-| Tue         | CD88       | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack.                                                                                                           |
-| Mon         | CD92       | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze on Thursday. 30-minute mid-point check-in with instructor.                         |
-| Wed         | CD94       | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
-| Mon         | CD97       | Project presentations. 60-minute post-mortem with instructor.                                                                                                                                                                        |
-| Wed         | CD99       | Project Video Due                                                                                                                                                                                                                    |
+| Day of Week | Course Day | Deliverable |
+| :--- | :--- | :--- |
+| Mon | CD82 | Ideation Phase 1. Introduce Project 4, post project ideas in Slack for feedback |
+| Fri | CD86 | Deadline to post project ideas in Slack |
+| Mon | CD87 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
+| Tue | CD88 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack. |
+| Mon | CD92 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
+| Wed | CD94 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
+| Mon | CD97 | Project presentations. 60-minute post-mortem with instructor. |
+| Wed | CD99 | Project Video Due |
 
 ### Ideation Phase 1
 
@@ -62,5 +62,6 @@ For example, when talking about a react shopping app, when demoing the app, don'
 
 Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
 
-- Upload it to YouTube. Embed the video in your project README.md file.
-- Put the video file in your project repo and commit the file.
+* Upload it to YouTube. Embed the video in your project README.md file.
+* Put the video file in your project repo and commit the file.
+

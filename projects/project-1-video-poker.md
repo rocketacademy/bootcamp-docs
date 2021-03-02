@@ -30,11 +30,11 @@ Begin by coding the entire basic working game where the `calcHandScore` function
 
 Specifically this functionality is where:
 
-- The user has the global total number of points they currently have.
-- The user clicks a button to start the game.
-- The game deals the cards.
-- The users selects which cards they want to keep.
-- The game gives the user their final score and adds or subtracts points.
+* The user has the global total number of points they currently have.
+* The user clicks a button to start the game.
+* The game deals the cards.
+* The users selects which cards they want to keep.
+* The game gives the user their final score and adds or subtracts points.
 
 Lay the game controls out for a phone \(portrait orientation\). Set the `max-width` of the container so that it does not look bad on a wider device.
 
@@ -64,12 +64,12 @@ const pointsForHand = calcHandScore(playerHand);
 
 This is your chance to create a project that has polish and that you can show off. A complete and demonstrable project has a few attributes:
 
-- clean, well documented code. You have probably refactored it at least once.
-- clean design \(just make sure that the colors are muted and things are centered and have padding\)
-- sounds
-- animations \(you can look up CSS animations, you can also append GIFs into the screen to get motion\)
-- looks good on a laptop/desktop \(responsive CSS\)
-- runs without any errors / is resetable - when using the game it has no unexpected behaviors or weird quirks
+* clean, well documented code. You have probably refactored it at least once.
+* clean design \(just make sure that the colors are muted and things are centered and have padding\)
+* sounds
+* animations \(you can look up CSS animations, you can also append GIFs into the screen to get motion\)
+* looks good on a laptop/desktop \(responsive CSS\)
+* runs without any errors / is resetable - when using the game it has no unexpected behaviors or weird quirks
 
 ## More Comfortable
 
@@ -82,3 +82,4 @@ Show the user the probability of getting each winning hand if they choose to swi
 ### 7 Card Stud
 
 Implement 7 card stud rules for poker instead of 5 card draw.
+

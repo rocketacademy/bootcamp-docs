@@ -40,6 +40,7 @@ npm start
 
 Webpack will compile the files and start watching the app for changes. Anything that changes will be hot-reloaded.
 
-Go to the app: http://localhost:3000
+Go to the app: [http://localhost:3000](http://localhost:3000)
 
 See more about Create React App at [the official website.](https://create-react-app.dev/)
+

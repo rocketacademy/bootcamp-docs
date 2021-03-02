@@ -16,12 +16,12 @@ Don't fork this repo, but you'll need to copy this base starter code into your o
 
 Your app must fulfill the following requirements.
 
-- Use React
-- Use AJAX to get and set data from the server
-- At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
-- At least 2 SQL tables
-- At least 1 one-to-many and 1 many-to-many SQL relationship
-- Use CSS
+* Use React
+* Use AJAX to get and set data from the server
+* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+* At least 2 SQL tables
+* At least 1 one-to-many and 1 many-to-many SQL relationship
+* Use CSS
 
 Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
 
@@ -37,16 +37,16 @@ Since the focus of this project is on React, try not to create a database that i
 
 ### Summary
 
-| Day of Week | Course Day | Deliverable                                                                                                                                                                                                                          |
-| :---------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mon         | W14D1      | Ideation Phase 1. Introduce Project 4, post project ideas in Slack for feedback                                                                                                                                                      |
-| Fri         | W14D5      | Deadline to post project ideas in Slack                                                                                                                                                                                              |
-| Mon         | W15D1      | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes                                                                                                                                                    |
-| Tue         | W15D2      | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack.                                                                                                           |
-| Mon         | W16D1      | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze on Thursday. 30-minute mid-point check-in with instructor.                         |
-| Thu         | W16D4      | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
-| Mon         | W17D1      | Project presentations. 60-minute post-mortem with instructor.                                                                                                                                                                        |
-| Wed         | W17D3      | Project Video Due                                                                                                                                                                                                                    |
+| Day of Week | Course Day | Deliverable |
+| :--- | :--- | :--- |
+| Mon | W14D1 | Ideation Phase 1. Introduce Project 4, post project ideas in Slack for feedback |
+| Fri | W14D5 | Deadline to post project ideas in Slack |
+| Mon | W15D1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
+| Tue | W15D2 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack. |
+| Mon | W16D1 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
+| Thu | W16D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
+| Mon | W17D1 | Project presentations. 60-minute post-mortem with instructor. |
+| Wed | W17D3 | Project Video Due |
 
 ### Ideation Phase 1
 
@@ -78,5 +78,6 @@ For example, when talking about a react shopping app, when demoing the app, don'
 
 Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
 
-- Upload it to YouTube. Embed the video in your project README.md file.
-- Put the video file in your project repo and commit the file.
+* Upload it to YouTube. Embed the video in your project README.md file.
+* Put the video file in your project repo and commit the file.
+

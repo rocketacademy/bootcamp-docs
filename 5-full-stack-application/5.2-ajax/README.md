@@ -64,3 +64,4 @@ After we receive the server response, manipulate the DOM to show all items in th
 ### Trigger AJAX Call On Click
 
 Add a button to our view and refactor our `script.js` such that the above AJAX request and DOM manipulation happens when we click the button.
+

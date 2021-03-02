@@ -16,7 +16,6 @@ div {
   text-align: center;
 }
 ```
-
 {% endhint %}
 
 ### HTML/CSS Exercise: Technical Documentation Page
@@ -41,3 +40,4 @@ Some past Coding Bootcamp students have found the Udemy instructor Jonas' HTML c
 
 1. [https://websitesetup.org/html5-cheat-sheet/](https://websitesetup.org/html5-cheat-sheet/)
 2. [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
+

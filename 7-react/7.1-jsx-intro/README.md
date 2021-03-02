@@ -89,7 +89,6 @@ We set up Babel in our Webpack config to automatically transform JSX to React. N
 ```javascript
 presets: ['@babel/preset-env', '@babel/preset-react'],
 ```
-
 {% endhint %}
 
 ### **DOM JavaScript**
@@ -257,3 +256,4 @@ Read more about JSX on the official docs: [https://reactjs.org/docs/introducing-
 ## Exercise
 
 Repeat the above code.
+

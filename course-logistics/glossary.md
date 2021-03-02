@@ -22,7 +22,7 @@ A terminal is an interface that we can use to operate our computers through a te
 
 ## Boilerplate
 
-Code that is repeated in multiple places will little alteration. [https://en.wikipedia.org/wiki/Boilerplate_code](https://en.wikipedia.org/wiki/Boilerplate_code)
+Code that is repeated in multiple places will little alteration. [https://en.wikipedia.org/wiki/Boilerplate\_code](https://en.wikipedia.org/wiki/Boilerplate_code)
 
 ## Application Programming Interface \(API\)
 
@@ -37,3 +37,4 @@ Schema can refer to a few things, but in general it refers to a "blueprint" or "
 3. PostgreSQL Schema
 
 See this [Stack Overflow answer](https://stackoverflow.com/a/298765) for definitions of \#1 and \#2, and [Postgres documentation](https://www.postgresql.org/docs/13/ddl-schemas.html) for \#3. We will rarely be using definition \#3 in Coding Bootcamp.
+

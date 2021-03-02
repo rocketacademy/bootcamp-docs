@@ -10,14 +10,14 @@ You will implement a card game or turn based card-type game. The user or users w
 
 Requirements:
 
-- User login \(full stack or server side\)
-- Users cannot cheat by looking in the dev console
-- Single or many players
-- Interactivity using browser-side JS
-- The game _play_ cannot be over more than one page
-- Use CSS
-- Use Express.js
-- Some game state must be permanently saved on the database
+* User login \(full stack or server side\)
+* Users cannot cheat by looking in the dev console
+* Single or many players
+* Interactivity using browser-side JS
+* The game _play_ cannot be over more than one page
+* Use CSS
+* Use Express.js
+* Some game state must be permanently saved on the database
 
 The game you implement does not have to have a score or winners. It must be completely playable for the stated rules. i.e., if a rule of the game is stated, the game must implement it.
 
@@ -47,15 +47,15 @@ Avoid any ideas the depend on timing between players or if another player must b
 
 ### Summary
 
-| Course Day | Deliverable                                                                                                                                                                              |
-| :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| W11D2      | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback                                                                                                          |
-| W11D3      | Deadline to post project ideas in Slack                                                                                                                                                  |
-| W11D3      | Ideation Phase 2. Create planning docs: DB ERD, and wireframes                                                                                                                           |
-| W11D3      | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor.                                                                 |
-| W12D2      | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze. 30-minute mid-point check-in with instructor. |
-| W12D4      | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 15-minute review with instructor.                  |
-| W13D1      | Project presentations. 60-minute post-mortem with instructor.                                                                                                                            |
+| Course Day | Deliverable |
+| :--- | :--- |
+| W11D2 | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback |
+| W11D3 | Deadline to post project ideas in Slack |
+| W11D3 | Ideation Phase 2. Create planning docs: DB ERD, and wireframes |
+| W11D3 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
+| W12D2 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze. 30-minute mid-point check-in with instructor. |
+| W12D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 15-minute review with instructor. |
+| W13D1 | Project presentations. 60-minute post-mortem with instructor. |
 
 ### Ideation Phase 1
 
@@ -80,3 +80,4 @@ Plan your app around having the app and all it's features running without errors
 ### Post-Mortem Meeting
 
 Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
+

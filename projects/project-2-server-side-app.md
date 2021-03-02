@@ -10,14 +10,14 @@ As much as possible, create milestones so you know whether you are on track, and
 
 Your app must have the following requirements.
 
-- Render HTML
-- Use CSS
-- Serve webpages with Express.js and EJS
-- At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
-- At least 3 SQL tables
-- At least 1 one-to-many and 1 many-to-many SQL relationship
-- Username and password login
-- Session authentication for login-only pages
+* Render HTML
+* Use CSS
+* Serve webpages with Express.js and EJS
+* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+* At least 3 SQL tables
+* At least 1 one-to-many and 1 many-to-many SQL relationship
+* Username and password login
+* Session authentication for login-only pages
 
 Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
 
@@ -29,10 +29,10 @@ You are responsible for any seed data your app would need to run. The final vers
 
 In [Module 3](../3-backend-application/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
-- Google stores websites and users retrieve those websites
-- Uber stores drivers and their availability and users retrieve available drivers nearby
-- Telegram stores messages between users and users retrieve and create those messages
-- EBay stores auction data and users retrieve products for auction
+* Google stores websites and users retrieve those websites
+* Uber stores drivers and their availability and users retrieve available drivers nearby
+* Telegram stores messages between users and users retrieve and create those messages
+* EBay stores auction data and users retrieve products for auction
 
 While we may not yet have the power to index websites like Google, we know enough to build prototypes of similar applications. The role of a web application is not just to make GET and POST requests, but to store and retrieve data related to its core functionality, e.g. search, ride sharing, messaging, auctions.
 
@@ -42,10 +42,10 @@ Your app idea is more compelling if its purpose is for something specific and re
 
 Given the relative restrictions of a server-side app that renders HTML pages, there are certain ideas that will be more easily accomplished when we include more modern technologies. In later Coding Bootcamp modules we will learn how to incorporate 3rd-party JS libraries into our frontends to accomplish some of the following. No worries if you don't have these for now.
 
-- Date or date-time input fields for scheduling or calendars.
-- User location using maps.
-- Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
-- Anything where the user might have to drag or draw something.
+* Date or date-time input fields for scheduling or calendars.
+* User location using maps.
+* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
+* Anything where the user might have to drag or draw something.
 
 ### File Uploading
 
@@ -55,8 +55,8 @@ If your app idea involves file uploading, [3.5.11: File Uploads](../3-backend-ap
 
 The following are some ideas for 3rd-party APIs that we can use in our apps.
 
-- [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
-- [Data.gov.sg APIs](https://data.gov.sg/)
+* [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
+* [Data.gov.sg APIs](https://data.gov.sg/)
 
 ### Repo
 
@@ -66,17 +66,17 @@ Create your own repo from scratch. Do not clone from any other repo. \(You can u
 
 ### Summary
 
-| Day of Week | Course Day | Deliverable                                                                                                                                                                                                                          |
-| :---------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mon         | W6D1       | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback                                                                                                                                                      |
-| Fri         | W6D5       | Deadline to post project ideas in Slack                                                                                                                                                                                              |
-| Mon         | W7D1       | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes                                                                                                                                                    |
-| Tue         | W7D2       | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor.                                                                                                             |
-| Mon         | W8D1       | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze on Thursday. 30-minute mid-point check-in with instructor.                                    |
-| Thu         | W8D4       | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
-| Mon         | W9D1       | Project presentations. 60-minute post-mortem with instructor.                                                                                                                                                                        |
-| Tue         | W9D2       | Start Project-2-based technical blog post.                                                                                                                                                                                           |
-| Mon         | W10D1      | Blog post due.                                                                                                                                                                                                                       |
+| Day of Week | Course Day | Deliverable |
+| :--- | :--- | :--- |
+| Mon | W6D1 | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback |
+| Fri | W6D5 | Deadline to post project ideas in Slack |
+| Mon | W7D1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
+| Tue | W7D2 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
+| Mon | W8D1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
+| Thu | W8D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
+| Mon | W9D1 | Project presentations. 60-minute post-mortem with instructor. |
+| Tue | W9D2 | Start Project-2-based technical blog post. |
+| Mon | W10D1 | Blog post due. |
 
 ### Ideation Phase 1
 
@@ -118,9 +118,10 @@ If you catch yourself saying any of these phrases in the video, stop and re-reco
 
 Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
 
-- Upload it to YouTube. Embed the video in your project README.md file.
-- Put the video file in your project repo and commit the file.
+* Upload it to YouTube. Embed the video in your project README.md file.
+* Put the video file in your project repo and commit the file.
 
 ### Separating Logic and UI Concerns
 
 In general, our Express middleware should handle all business logic, for example determining whether a user is authenticated, or querying the DB, making calculations for any data that should be rendered. Our EJS templates should be focused on the UI, i.e. displaying the data passed to it.
+

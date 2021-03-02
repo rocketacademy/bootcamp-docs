@@ -58,3 +58,4 @@ Adding an item to the cart from the `itemDetail`: [https://github.com/rocketacad
 Adding the `item` into the `cart` array: [https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx\#L13-L15](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L13-L15)
 
 The setting of the `cart` array sets off the rendering of the `Cart` component and items in the cart.
+

@@ -10,9 +10,9 @@ SQL the language simply describes how a set of conceptual data should be stored 
 
 So far, we've seen some different formats of data storage:
 
-- Data stored in a plain file, separated by line endings \(\n\)
-- Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
-- Binary data, such as images.
+* Data stored in a plain file, separated by line endings \(\n\)
+* Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
+* Binary data, such as images.
 
 The literal data format stored on the hard drive is determined by the implementation of the SQL system, but the conceptual format of the data is simply a set of tables, where each row is an "entry".
 
@@ -71,3 +71,4 @@ For example, a "search" for "osman" could refer to data across multiple tables s
 See the following resources for further reading on SQL usage and database design that may not be covered in Coding Bootcamp.
 
 1. [https://cs145-fa20.github.io/](https://cs145-fa20.github.io/)
+

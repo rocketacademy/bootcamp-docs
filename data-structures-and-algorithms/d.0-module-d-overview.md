@@ -36,3 +36,4 @@ During the 2nd half of Coding Bootcamp we will learn the concepts behind and dri
 ## Resources
 
 {% file src="../.gitbook/assets/cracking-the-coding-interview-6th-edition-189-programming-questions-and-solutions.pdf" caption="Cracking the Coding Interview" %}
+
