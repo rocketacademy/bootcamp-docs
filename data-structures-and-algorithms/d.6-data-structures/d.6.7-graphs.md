@@ -14,4 +14,6 @@ Graphs are a more generalised version of trees that can have "edges" that point 
 
 1. Complete the 1 easy graph problem on Leetcode [here](https://leetcode.com/problemset/all/?topicSlugs=graph&difficulty=Easy).
 2. Attempt medium graph problems on Leetcode in descending order of acceptance percentage [here](https://leetcode.com/problemset/all/?topicSlugs=graph&difficulty=Medium).
+   1. Rocket Academy solution code for All Paths from Source to Target: [https://leetcode.com/submissions/detail/457037693/](https://leetcode.com/submissions/detail/457037693/)
+   2. Rocket Academy solution video for All Paths from Source to Target: [https://www.youtube.com/watch?v=dUhleIGC-D4](https://www.youtube.com/watch?v=dUhleIGC-D4)
 
