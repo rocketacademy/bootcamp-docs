@@ -134,8 +134,9 @@ def numTilePossibilities(self, tiles: str):
 The following exercises are all Medium-level exercises on Leetcode. The Easy Leetcode backtracking problems weren't relevant.
 
 1. [https://leetcode.com/problems/generate-parentheses/](https://leetcode.com/problems/generate-parentheses/)
-   1. Rocket Academy solution code: [https://leetcode.com/submissions/detail/462372077/](https://leetcode.com/submissions/detail/462372077/)
-   2. Rocket Academy solution video: [https://youtu.be/MTqylosJ1ow?t=2022](https://youtu.be/MTqylosJ1ow?t=2022) until 57:25
+   1. Hint: Consider [this slide](https://docs.google.com/presentation/d/1rpY5NnOvN7MKVLSI5NoU7LYySGVNRTC9Yptl9mtaXRY/edit#slide=id.g81c439b50b_0_93) on how we can prune invalid subtrees.
+   2. Rocket Academy solution code: [https://leetcode.com/submissions/detail/462372077/](https://leetcode.com/submissions/detail/462372077/)
+   3. Rocket Academy solution video: [https://youtu.be/MTqylosJ1ow?t=2022](https://youtu.be/MTqylosJ1ow?t=2022) until 57:25
 2. [https://leetcode.com/problems/permutations/](https://leetcode.com/problems/permutations/)
 3. [https://leetcode.com/problems/letter-case-permutation/](https://leetcode.com/problems/letter-case-permutation/)
 4. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
