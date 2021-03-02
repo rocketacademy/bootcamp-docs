@@ -4,7 +4,7 @@
 
 ### Base, Comfortable, and More Comfortable
 
-To accommodate different learning speeds and prior experience, exercises and projects in SWE1 may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
+To accommodate different learning speeds and prior experience, exercises and projects in Coding Bootcamp may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
 
 #### Base
 
@@ -16,7 +16,7 @@ The Comfortable section is for students that are able to complete Base and wish 
 
 #### More Comfortable
 
-The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete SWE1 successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
+The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete Coding Bootcamp successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
 
 ### Exercise / Project Strategies
 
@@ -32,11 +32,11 @@ Whenever possible, separate UI logic from business logic. This is to separate co
 
 Project management tools can be helpful to manage longer-term projects involving multiple people. Even for individual projects they can be useful tools to organise one's thoughts and prioritise development.
 
-[Trello](https://trello.com/) is a popular, simple project management tool that we recommend for SWE1, and [here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work)'s a breakdown of how to get started with it.
+[Trello](https://trello.com/) is a popular, simple project management tool that we recommend for Coding Bootcamp, and [here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work)'s a breakdown of how to get started with it.
 
 ### Recommended Order of Work
 
-On any given day in SWE1, students will have Post-Class Exercises for the current day, Pre-Class Exercises  for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
+On any given day in Coding Bootcamp, students will have Post-Class Exercises for the current day, Pre-Class Exercises for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
 
 1. Base section of Post-Class Exercises / Project
 2. Pre-Class Exercises
@@ -44,7 +44,7 @@ On any given day in SWE1, students will have Post-Class Exercises for the curren
 
 ### Project Scrums
 
-Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). We will simulate this during SWE1 project weeks. Every morning we will take turns to share the following with each other, to make sure we are on-track with our projects and don't get stuck on blockers.
+Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). We will simulate this during Coding Bootcamp project weeks. Every morning we will take turns to share the following with each other, to make sure we are on-track with our projects and don't get stuck on blockers.
 
 1. What I did yesterday
 2. What I plan to do today
@@ -61,10 +61,10 @@ After each project we will spend time in class for presentations. Each student w
 
 ### How to Save Generic Exercise Code to a New GitHub Repo
 
-Sometimes we might want to save pre-class or in-class exercise work to a repo in our own GitHubs, but we completed the exercises on a copy of the [base-node-swe1 repo](https://github.com/rocketacademy/base-node-swe1) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
+Sometimes we might want to save pre-class or in-class exercise work to a repo in our own GitHubs, but we completed the exercises on a copy of the [base-node-bootcamp repo](https://github.com/rocketacademy/base-node-bootcamp) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
 
 1. Create a new, empty repo in GitHub
-2. In your local copy of `base-node-swe1` that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL>` looks something like `https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and de-llink it from `base-node-swe1`.
+2. In your local copy of `base-node-bootcamp` that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL>` looks something like `https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and de-llink it from `base-node-bootcamp`.
 3. Run `git remote -v` to verify that our local repo is linked to the new repo in GitHub
 4. Commit any desired local changes and run `git push`. This will push the current state of the repo to the `origin` remote, which should be the new repo we created.
 
@@ -92,7 +92,7 @@ On days where we have longer post-class exercises or projects due, we will revie
 
 ### Step 2: In Pairs
 
-1. Pair program on 1 person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.** 
+1. Pair program on 1 person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**
 2. Once done with 1 person's code, send the code to your pair \(it's their project\) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code. If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
 3. Once both have working versions, implement a new feature in 1 of the repos together.
 
@@ -111,4 +111,3 @@ After each project an instructor will review your code with you 1-1. Please prep
 1. What in the approach and process during this project went well?
 2. What in the approach and process during this project did not go well?
 3. What would you change in your process and approach in the next project? Why?
-

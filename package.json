@@ -1,21 +1,21 @@
 {
-  "name": "swe1-docs",
+  "name": "bootcamp-docs",
   "version": "1.0.0",
-  "description": "SWE1 Course Documentation",
+  "description": "Coding Bootcamp Course Documentation",
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocketacademy/swe1-docs.git"
+    "url": "git+https://github.com/rocketacademy/bootcamp-docs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rocketacademy/swe1-docs/issues"
+    "url": "https://github.com/rocketacademy/bootcamp-docs/issues"
   },
-  "homepage": "https://github.com/rocketacademy/swe1-docs#readme",
+  "homepage": "https://github.com/rocketacademy/bootcamp-docs#readme",
   "devDependencies": {
     "eslint": "^7.11.0",
     "eslint-config-airbnb-base": "^14.2.0",

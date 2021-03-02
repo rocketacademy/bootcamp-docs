@@ -1,6 +1,6 @@
 # Required Hardware and Software
 
-If you haven't already, make sure you've completed [Required Hardware and Software](https://swe101.rocketacademy.co/course-logistics/required-hardware-and-software) setup from SWE101.
+If you haven't already, make sure you've completed [Required Hardware and Software](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software) setup from Coding Basics.
 
 Please install the latest version of Windows or MacOS that your computer supports. This is so that students have the same and latest operating system features, as much as possible.
 
@@ -116,7 +116,7 @@ Add [this extension](https://marketplace.visualstudio.com/items?itemName=techer.
 
 ## VSCode Settings \(Mac and Windows\)
 
-We will be using React in SWE1. Please add the following setting to VSCode to support React. To find these settings, follow [instructions from SWE101](https://swe101.rocketacademy.co/course-logistics/required-hardware-and-software#vscode).
+We will be using React in Coding Bootcamp. Please add the following setting to VSCode to support React. To find these settings, follow [instructions from Coding Basics](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software#vscode).
 
 ```bash
 "[javascriptreact]": {
@@ -126,16 +126,15 @@ We will be using React in SWE1. Please add the following setting to VSCode to su
 
 ## Folder Organisation \(Mac and Windows\)
 
-In SWE1 we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
+In Coding Bootcamp we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
 
 {% hint style="warning" %}
 All files and folders are in kebab-case \(lowercase and hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them.
 {% endhint %}
 
-1. Host all SWE1 code in a folder called `swe1`. 
-2. Within the `swe1` folder, for each week \(there are 24 total\) in SWE1, create a new folder for that week. This means you will have 24 week-specific folders, such as `week1`, `week2`, ..., `week24`.
+1. Host all Coding Bootcamp code in a folder called `bootcamp`.
+2. Within the `bootcamp` folder, for each week \(there are 24 total\) in Coding Bootcamp, create a new folder for that week. This means you will have 24 week-specific folders, such as `week1`, `week2`, ..., `week24`.
 3. Within each `weekX` folder, create 1 folder for each day of the week, i.e. `day1`, `day2`, ..., `day5`.
 4. Within each `dayX` folder, create `pre-class`, `in-class`, and `post-class` folders for the respective exercises.
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
-6. Store projects within a `projects` directory directly within the `swe1` folder for easy accessibility.
-
+6. Store projects within a `projects` directory directly within the `bootcamp` folder for easy accessibility.

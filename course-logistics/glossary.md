@@ -22,11 +22,11 @@ A terminal is an interface that we can use to operate our computers through a te
 
 ## Boilerplate
 
-Code that is repeated in multiple places will little alteration. [https://en.wikipedia.org/wiki/Boilerplate\_code](https://en.wikipedia.org/wiki/Boilerplate_code)
+Code that is repeated in multiple places will little alteration. [https://en.wikipedia.org/wiki/Boilerplate_code](https://en.wikipedia.org/wiki/Boilerplate_code)
 
 ## Application Programming Interface \(API\)
 
-An API is an interface through which programmers can have computers perform pre-programmed logic. For example, data.gov.sg exposes an [API](https://data.gov.sg/dataset/realtime-weather-readings) for developers to obtain real-time weather information in their applications through the API. 
+An API is an interface through which programmers can have computers perform pre-programmed logic. For example, data.gov.sg exposes an [API](https://data.gov.sg/dataset/realtime-weather-readings) for developers to obtain real-time weather information in their applications through the API.
 
 ## Schema
 
@@ -36,5 +36,4 @@ Schema can refer to a few things, but in general it refers to a "blueprint" or "
 2. Relation or Table Schema
 3. PostgreSQL Schema
 
-See this [Stack Overflow answer](https://stackoverflow.com/a/298765) for definitions of \#1 and \#2, and [Postgres documentation](https://www.postgresql.org/docs/13/ddl-schemas.html) for \#3. We will rarely be using definition \#3 in SWE1.
-
+See this [Stack Overflow answer](https://stackoverflow.com/a/298765) for definitions of \#1 and \#2, and [Postgres documentation](https://www.postgresql.org/docs/13/ddl-schemas.html) for \#3. We will rarely be using definition \#3 in Coding Bootcamp.

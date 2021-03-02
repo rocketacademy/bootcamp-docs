@@ -77,7 +77,7 @@ app.get('/wow-bananas', whenIncomingRequest);
 
 Normal web application URL paths are meant to match what would be a normal sounding file server path; That is to say, even though we won't have any HTML files in our express app, the naming convention of the URL paths will still be named similarly, as if we were still dealing with files.
 
-Each `app.<METHOD_NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "route". Routes are considered 1 form of Express "middleware", where middleware are functions with access to the request and response objects, that are executed in the order they are bound to the `app` object, until any middleware sends a response back to the client. 
+Each `app.<METHOD_NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "route". Routes are considered 1 form of Express "middleware", where middleware are functions with access to the request and response objects, that are executed in the order they are bound to the `app` object, until any middleware sends a response back to the client.
 
 Read more about Express middleware [here](https://expressjs.com/en/guide/using-middleware.html) and on Express in general [here](https://expressjs.com/en/4x/api.html#express).
 
@@ -85,7 +85,7 @@ Read more about Express middleware [here](https://expressjs.com/en/guide/using-m
 
 Create an Express.js application as above.
 
-Start with the [base node repo](https://github.com/rocketacademy/base-node-swe1) and install the Express.js library.
+Start with the [base node repo](https://github.com/rocketacademy/base-node-bootcamp) and install the Express.js library.
 
 ### Dice Roll
 
@@ -100,4 +100,3 @@ Make this request with the browser and with `curl`. They should be the same.
 ## Further Reading
 
 Past students have found [this video](https://www.youtube.com/watch?v=JlgKybraoy4) helpful in introducing HTTP methods with Express routes and introducing Express middleware in general.
-

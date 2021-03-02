@@ -1,9 +1,7 @@
 # 9.2: Testing
 
-
-
 ```javascript
-git clone https://github.com/rocketacademy/base-node-swe1.git mocha
+git clone https://github.com/rocketacademy/base-node-bootcamp.git mocha
 ```
 
 ```javascript
@@ -28,14 +26,14 @@ index.js
 import calculator from './calculator.js';
 import { add } from './calculator.js';
 
-console.log(add(2,3));
+console.log(add(2, 3));
 ```
 
 calculator.js
 
 ```javascript
-export default function add(a,b){
-    return a + b;
+export default function add(a, b) {
+  return a + b;
 }
 ```
 
@@ -46,14 +44,12 @@ import { expect } from 'chai';
 
 import { add } from '../calculator.js';
 
-
-describe("Calculator", function() {
-  describe("Basic Operations", function() {
-    it("Adds two numbers", function() {
-      const result = add(2,2);
+describe('Calculator', function () {
+  describe('Basic Operations', function () {
+    it('Adds two numbers', function () {
+      const result = add(2, 2);
       expect(result).to.equal(4);
     });
   });
 });
 ```
-

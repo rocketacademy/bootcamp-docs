@@ -21,7 +21,7 @@
 
 ### Setup Server and Items Route
 
-1. Clone the [`ajax-swe1` repo](https://github.com/rocketacademy/ajax-swe1)
+1. Clone the [`ajax-bootcamp` repo](https://github.com/rocketacademy/ajax-bootcamp)
 2. Install NPM packages
 3. Run migrations and seeds with Sequelize. There is a migration and seed file in the repo.
 4. Start server locally
@@ -43,7 +43,8 @@
 
    ```javascript
    // Make a request for all the items
-   axios.get('/items')
+   axios
+     .get('/items')
      .then(function (response) {
        // handle success
        console.log(response);
@@ -63,4 +64,3 @@ After we receive the server response, manipulate the DOM to show all items in th
 ### Trigger AJAX Call On Click
 
 Add a button to our view and refactor our `script.js` such that the above AJAX request and DOM manipulation happens when we click the button.
-

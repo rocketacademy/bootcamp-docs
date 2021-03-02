@@ -2,7 +2,7 @@
 
 [Create React App](https://create-react-app.dev/) is the officially supported demo / pre-setup React app architecture.
 
-We are seeing this last because it comes with all the React infrastructure built-in. However, when using CRA in the real world it necessitates a different back-end architecture. We'll also be deploying an [express MVC server repo](https://github.com/rocketacademy/base-mvc-swe1) alongside our Create React App repo. These will be connected through AJAX requests made from the React app to the Express.js server.
+We are seeing this last because it comes with all the React infrastructure built-in. However, when using CRA in the real world it necessitates a different back-end architecture. We'll also be deploying an [express MVC server repo](https://github.com/rocketacademy/base-mvc-bootcamp) alongside our Create React App repo. These will be connected through AJAX requests made from the React app to the Express.js server.
 
 Note that in this architecture the CRA server and the express server must be different domains or sub-domains or, if they were on the same domain, another piece of architecture would be built that determines how to route requests to one or the other. In this example we'll use 2 completely different domains.
 
@@ -29,7 +29,7 @@ Create React App creates a folder and all the boilerplate files. It also runs `n
 
 ![](../../.gitbook/assets/screen-shot-2021-02-08-at-1.21.23-am.png)
 
-Some small changes have been made to the React app, like `App.jsx` is renamed to `App.js`.  Some testing files are added by default that we will not be using during the course. Otherwise, the structure of the files is the same.
+Some small changes have been made to the React app, like `App.jsx` is renamed to `App.js`. Some testing files are added by default that we will not be using during the course. Otherwise, the structure of the files is the same.
 
 `cd` inside the directory and start the Webpack dev server.
 
@@ -43,4 +43,3 @@ Webpack will compile the files and start watching the app for changes. Anything 
 Go to the app: http://localhost:3000
 
 See more about Create React App at [the official website.](https://create-react-app.dev/)
-
