@@ -115,91 +115,91 @@ None
 
 #### Pre-Class
 
-* [D.10: Common Patterns \(Depth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#depth-first-search)
+* [D.10: Common Patterns \(Depth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#depth-first-search)
 
 #### In-Class
 
-* [D.10: Common Patterns \(Depth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#depth-first-search)
+* [D.10: Common Patterns \(Depth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#depth-first-search)
 
 #### Post-Class
 
 * [Project 5](../../projects/project-5-group-react-app.md)
-* [D.10: Common Patterns \(Depth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#depth-first-search)
+* [D.10: Common Patterns \(Depth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#depth-first-search)
 
 ### CD93
 
 #### Pre-Class
 
-* [D.10: Common Patterns \(Breadth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#breadth-first-search)
+* [D.10: Common Patterns \(Breadth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#breadth-first-search)
 
 #### In-Class
 
-* [D.10: Common Patterns \(Breadth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#breadth-first-search)
+* [D.10: Common Patterns \(Breadth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#breadth-first-search)
 
 #### Post-Class
 
 * [Project 5](../../projects/project-5-group-react-app.md)
-* [D.10: Common Patterns \(Breadth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#breadth-first-search)
+* [D.10: Common Patterns \(Breadth-First Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#breadth-first-search)
 
 ### CD94
 
 #### Pre-Class
 
-* [D.10: Common Patterns \(Recursive Backtracking\)](../../data-structures-and-algorithms/d.10-common-patterns.md#recursive-backtracking)
+* [D.10: Common Patterns \(Recursive Backtracking\)](../../data-structures-and-algorithms/d.10-common-patterns/#recursive-backtracking)
 
 #### In-Class
 
-* [D.10: Common Patterns \(Recursive Backtracking\)](../../data-structures-and-algorithms/d.10-common-patterns.md#recursive-backtracking)
+* [D.10: Common Patterns \(Recursive Backtracking\)](../../data-structures-and-algorithms/d.10-common-patterns/#recursive-backtracking)
 
 #### Post-Class
 
 * [Project 5](../../projects/project-5-group-react-app.md)
-* [D.10: Common Patterns \(Recursive Backtracking\)](../../data-structures-and-algorithms/d.10-common-patterns.md#recursive-backtracking)
+* [D.10: Common Patterns \(Recursive Backtracking\)](../../data-structures-and-algorithms/d.10-common-patterns/#recursive-backtracking)
 
 ### CD95
 
 #### Pre-Class
 
-* [D.10: Common Patterns \(Binary Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#binary-search)
+* [D.10: Common Patterns \(Binary Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#binary-search)
 
 #### In-Class
 
-* [D.10: Common Patterns \(Binary Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#binary-search)
+* [D.10: Common Patterns \(Binary Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#binary-search)
 
 #### Post-Class
 
 * [Project 5](../../projects/project-5-group-react-app.md)
-* [D.10: Common Patterns \(Binary Search\)](../../data-structures-and-algorithms/d.10-common-patterns.md#binary-search)
+* [D.10: Common Patterns \(Binary Search\)](../../data-structures-and-algorithms/d.10-common-patterns/#binary-search)
 
 ### CD96
 
 #### Pre-Class
 
-* [D.10: Common Patterns \(Sliding Windows\)](../../data-structures-and-algorithms/d.10-common-patterns.md#sliding-window)
+* [D.10: Common Patterns \(Sliding Windows\)](../../data-structures-and-algorithms/d.10-common-patterns/#sliding-window)
 
 #### In-Class
 
-* [D.10: Common Patterns \(Sliding Windows\)](../../data-structures-and-algorithms/d.10-common-patterns.md#sliding-window)
+* [D.10: Common Patterns \(Sliding Windows\)](../../data-structures-and-algorithms/d.10-common-patterns/#sliding-window)
 
 #### Post-Class
 
 * [Project 5](../../projects/project-5-group-react-app.md)
-* [D.10: Common Patterns \(Sliding Windows\)](../../data-structures-and-algorithms/d.10-common-patterns.md#sliding-window)
+* [D.10: Common Patterns \(Sliding Windows\)](../../data-structures-and-algorithms/d.10-common-patterns/#sliding-window)
 
 ### CD97
 
 #### Pre-Class
 
-* [D.10: Common Patterns \(Bit Manipulation\)](../../data-structures-and-algorithms/d.10-common-patterns.md#bit-manipulation)
+* [D.10: Common Patterns \(Bit Manipulation\)](../../data-structures-and-algorithms/d.10-common-patterns/#bit-manipulation)
 
 #### In-Class
 
-* [D.10: Common Patterns \(Bit Manipulation\)](../../data-structures-and-algorithms/d.10-common-patterns.md#bit-manipulation)
+* [D.10: Common Patterns \(Bit Manipulation\)](../../data-structures-and-algorithms/d.10-common-patterns/#bit-manipulation)
 
 #### Post-Class
 
 * [Project 5](../../projects/project-5-group-react-app.md)
-* [D.10: Common Patterns \(Bit Manipulation\)](../../data-structures-and-algorithms/d.10-common-patterns.md#bit-manipulation)
+* [D.10: Common Patterns \(Bit Manipulation\)](../../data-structures-and-algorithms/d.10-common-patterns/#bit-manipulation)
 
 ## Module 9: Advanced Topics
 
