@@ -339,3 +339,11 @@
   * [D.ICE.1: Recursion](data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 * [D.POCE: Post-Class Exercises](data-structures-and-algorithms/d.poce-post-class-exercises.md)
 
+## 💼 Career Prep
+
+* [CP.1: Portfolio](career-prep/cp.1-portfolio.md)
+* [CP.2: Resume](career-prep/cp.2-resume.md)
+* [CP.3: Cover Letter](career-prep/cp.3-cover-letter.md)
+* [CP.4: Job List](career-prep/cp.4-job-list.md)
+* [CP.5: Interview Mindset](career-prep/cp.5-interview-mindset.md)
+
