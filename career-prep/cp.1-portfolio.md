@@ -8,7 +8,7 @@ Your portfolio is your summary of all the coding work you've done. The goal of t
 
 To start, you can compile your projects you wish to share into a nicely-formatted page on [Notion](https://www.notion.so/personal). Feel free to format the page however you wish. Notion is free to use, and allows us to publish the pages we create as read-only websites.
 
-If you have time, feel free to create and host your own website in lieu of Notion, e.g. https://johntan.com. This will be more work, but you will have more control over the styling of your page. You can choose to use a website builder such as Squarespace or Webflow for this, or build your own website from scratch. If you choose to host your own website, please ensure it is mobile-responsive.
+If you have time, feel free to create and host your own website in lieu of Notion, e.g. https://johntan.com. This will be more work, but you will have more control over the styling of your page. You can choose to use a website builder such as Squarespace or Webflow for this, or build your own website from scratch \(e.g. Jekyll and GitHub Pages\). If you choose to host your own website, please ensure it is mobile-responsive.
 
 ## What Context to Include
 
