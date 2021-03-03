@@ -1,6 +1,6 @@
 # D.10.5: Sliding Windows
 
-## Introduction
+### Introduction
 
 Sliding window algorithms generally store a start and end index of a "window" in an array, and update that start and end index as we iterate through the array. See [this](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7) explanation for an intro to sliding window algorithms. Use incognito mode to read the full article.
 
