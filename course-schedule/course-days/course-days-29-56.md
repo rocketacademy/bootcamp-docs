@@ -149,6 +149,7 @@ None
 #### In-Class
 
 * [Scrum](../../course-logistics/course-methodology.md#project-scrums)
+* [3.ICE.16: CSS Practice 4](../../3-backend-application/3.ice-in-class-exercises/3.ice.16-css-practice-4.md)
 
 #### Post-Class
 

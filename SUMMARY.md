@@ -177,6 +177,7 @@
   * [3.ICE.14: CSS Practice 2](3-backend-application/3.ice-in-class-exercises/3.ice.14-css-practice-2.md)
   * [3.ICE.15: CSS Practice 3](3-backend-application/3.ice-in-class-exercises/3.ice.15-css-practice-3.md)
   * [3.ICE.16: CSS Practice 4](3-backend-application/3.ice-in-class-exercises/3.ice.16-css-practice-4.md)
+  * [3.ICE.17: CSS Practice 5](3-backend-application/3.ice-in-class-exercises/3.ice.17-css-practice-5.md)
 * [3.POCE: Post-Class Exercises](3-backend-application/3.poce-post-class-exercises/README.md)
   * [3.POCE.1: Express Noodle App](3-backend-application/3.poce-post-class-exercises/3.poce.1-express-noodle-app.md)
   * [3.POCE.2: Express, EJS Noodle App](3-backend-application/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
