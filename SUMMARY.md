@@ -342,7 +342,7 @@
 ## 💼 Career Prep
 
 * [CP.0: Career Prep Overview](career-prep/cp.0-career-prep-overview.md)
-* [CP.1: Job Search Strategy](career-prep/cp.1-job-search-strategy.md)
+* [CP.1: Job Application Strategy](career-prep/cp.1-job-application-strategy.md)
 * [CP.2: Portfolio](career-prep/cp.2-portfolio.md)
 * [CP.3: Resume](career-prep/cp.3-resume.md)
 * [CP.4: Cover Letter](career-prep/cp.4-cover-letter.md)
