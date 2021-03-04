@@ -2,13 +2,15 @@
 
 ## Introduction
 
-Sliding window algorithms generally store a start and end index of a "window" in an array, and update that start and end index as we iterate through the array. See [this](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7) explanation for an intro to sliding window algorithms. Use incognito mode to read the full article.
+Sliding window algorithms typically allow us to iterate through an array in linear time, sweeping over and analysing "windows" or subarrays of varying sizes by storing a start and end index of the current "window". We update the start and end indexes as we iterate through the array. See [this](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7) explanation for an intro to sliding window algorithms. Use incognito mode to read the full article.
 
 ## Exercises
 
 The following exercises are Medium-level Leetcode exercises. There were no free Easy exercises.
 
 1. [https://leetcode.com/problems/max-consecutive-ones-iii/](https://leetcode.com/problems/max-consecutive-ones-iii/)
+   1. Rocket Academy solution code: [https://leetcode.com/submissions/detail/463296666/](https://leetcode.com/submissions/detail/463296666/)
+   2. Rocket Academy solution video: 
 2. [https://leetcode.com/problems/grumpy-bookstore-owner/](https://leetcode.com/problems/grumpy-bookstore-owner/)
 3. [https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 4. [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
