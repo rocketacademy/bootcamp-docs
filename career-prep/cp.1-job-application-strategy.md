@@ -11,8 +11,8 @@ Please keep in mind the below points throughout the job application process.
 1. **You will get rejections.** This is normal. Take them as a learning experience and address any mistakes you made at future interviews. Sometimes we may not make any mistakes and still get rejected.
 2. **You only need 1 company to say yes.** There are always more companies to apply to. Everyone is hiring software engineers.
 3. **There is no need to accept the first offers you get if you're not satisfied.** You can afford to wait. Everyone is hiring software engineers.
-4. **The job application process can take an indefinite amount of time.** Mentally prepare yourself for this to take months, and prepare your finances accordingly. Rest assured that as long as you keep improving every day, your chances at securing a job will only increase.
-5. **Rocket Academy chose you for a reason.** We chose you because we believe you have what it takes to succeed as a software engineer. You just need to work hard, go out there and be yourself.
+4. **The job application process can take an indefinite amount of time.** Mentally prepare yourself for this to take months, and prepare your finances accordingly. If you keep improving every day, your chances at getting an offer will only increase.
+5. **Rocket Academy chose you for a reason.** We chose you because we believe you have what it takes to succeed. You just need to work hard, hustle for interviews and be yourself.
 
 ## Creating Your Strategy
 
@@ -45,7 +45,7 @@ Here are some of the best ways to find jobs you might enjoy.
       4. [Indeed](https://sg.indeed.com/)
       5. [Glints](https://glints.com/sg)
       6. [NodeFlair](https://www.nodeflair.com/jobs)
-   3. Feel free to connect with recruiters on LinkedIn that work for the companies you are interested in. This is what RA does behind the scenes. When connecting with them, **always leave a note with a personal message.** This greatly increases the chances they will respond to you.
+   3. Feel free to connect with recruiters or engineers on LinkedIn that work for the companies you are interested in. This is what RA does behind the scenes. When connecting with them, **always leave a note with a personal message.** This greatly increases the chances they will respond to you.
 
 ![When you click Connect on someone&apos;s LinkedIn profile, always choose to &quot;Add a note&quot;.](../.gitbook/assets/jie-ping-20210304-17.47.35.png)
 
@@ -55,7 +55,7 @@ Here are some of the best ways to find jobs you might enjoy.
 
 Here are some ways to filter jobs on job portals.
 
-1. Look for roles tagged as "entry-level", but don't hesitate to apply for jobs that are more senior if the role interests you. It doesn't hurt to apply- worst case they ignore you.
+1. Look for roles tagged as "entry-level", but don't hesitate to apply for jobs that are more senior if the role interests you. It doesn't hurt to apply - worst case they ignore you.
 2. There is no need to search for "junior" in the job title. Most reputable companies do not have a "Junior Engineer" role, only Software Engineer and subsequently Senior Software Engineer. Companies looking for "junior software engineers" typically don't have strong tech teams and are looking for cheaper labour.
 3. Don't worry too much about job requirements. Often job requirements are written by recruiters that include many "nice to haves", but in reality the team would accept someone that fulfils the "need to haves" and not all of the "nice to haves". When in doubt, apply. 
 
