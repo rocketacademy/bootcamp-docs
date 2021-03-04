@@ -6,7 +6,7 @@ Heap is a data structure that is useful for keeping track of the minimum or maxi
 
 ## Helpful Resources
 
-1. Read pages 115-116 in the [Cracking the Coding Interview PDF](../d.0-module-d-overview.md#resources).
+1. Read pages 115-116 in the [Cracking the Coding Interview PDF](../d.0-ds-and-a-overview.md#resources).
 2. Watch Heap Intro Part 1 \(heap structure, how to add element to heap\) video [here](https://www.youtube.com/watch?v=c1TpLRyQJ4w).
    1. Watch Heap Intro Part 2 \(how to remove element from heap\) video [here](https://www.youtube.com/watch?v=ijfPvX2qYOQ&t=0s).
    2. Watch Heap Intro Part 3 \(how to represent heap as array\) video [here](https://www.youtube.com/watch?v=fJORlbOGm9Y&t=0s).

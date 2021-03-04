@@ -1,4 +1,4 @@
-# CP.2: Resume
+# CP.3: Resume
 
 ## Introduction
 

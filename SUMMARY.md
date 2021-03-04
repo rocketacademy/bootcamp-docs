@@ -309,7 +309,7 @@
 
 ## 🧮 Data Structures and Algorithms
 
-* [D.0: Module D Overview](data-structures-and-algorithms/d.0-module-d-overview.md)
+* [D.0: DS&A Overview](data-structures-and-algorithms/d.0-ds-and-a-overview.md)
 * [D.1: Intro to SWE Interviews](data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
 * [D.2: Intro to Python](data-structures-and-algorithms/d.2-intro-to-python.md)
 * [D.3: Complexity Analysis, Big-O Notation](data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
@@ -341,9 +341,11 @@
 
 ## 💼 Career Prep
 
-* [CP.1: Portfolio](career-prep/cp.1-portfolio.md)
-* [CP.2: Resume](career-prep/cp.2-resume.md)
-* [CP.3: Cover Letter](career-prep/cp.3-cover-letter.md)
-* [CP.4: Job List](career-prep/cp.4-job-list.md)
-* [CP.5: Interview Mindset](career-prep/cp.5-interview-mindset.md)
+* [CP.0: Career Prep Overview](career-prep/cp.0-career-prep-overview.md)
+* [CP.1: Job Search Strategy](career-prep/cp.1-job-search-strategy.md)
+* [CP.2: Portfolio](career-prep/cp.2-portfolio.md)
+* [CP.3: Resume](career-prep/cp.3-resume.md)
+* [CP.4: Cover Letter](career-prep/cp.4-cover-letter.md)
+* [CP.5: Job List](career-prep/cp.5-job-list.md)
+* [CP.6: Interview Mindset](career-prep/cp.6-interview-mindset.md)
 

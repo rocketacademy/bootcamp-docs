@@ -5,7 +5,7 @@
 Bit manipulation is commonly taught in core computer science courses to help students understand how numbers are represented and manipulated by computers. Some companies use bit manipulation in their interview processes.
 
 1. Please read about the 6 main bitwise operators `&`, `|`, `~`, `^`, `<<`, and `>>` [here](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301). These operators can be used in Python to perform bitwise operations.
-2. Please read pages 124-128 on Bit Manipulation in [CTCI](../d.0-module-d-overview.md#resources).
+2. Please read pages 124-128 on Bit Manipulation in [CTCI](../d.0-ds-and-a-overview.md#resources).
 
 ## Exercises
 
