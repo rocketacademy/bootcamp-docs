@@ -10,6 +10,8 @@ Bit manipulation is commonly taught in core computer science courses to help stu
 ## Exercises
 
 1. [https://leetcode.com/problems/decode-xored-array/](https://leetcode.com/problems/decode-xored-array/)
+   1. Rocket Academy solution code: [https://leetcode.com/submissions/detail/463702574/](https://leetcode.com/submissions/detail/463702574/)
+   2. Rocket Academy solution video: TBD
 2. [https://leetcode.com/problems/xor-operation-in-an-array/](https://leetcode.com/problems/xor-operation-in-an-array/)
 3. [https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 4. [https://leetcode.com/problems/hamming-distance/](https://leetcode.com/problems/hamming-distance/)
