@@ -10,7 +10,7 @@ The following exercises are Medium-level Leetcode exercises. There were no free 
 
 1. [https://leetcode.com/problems/max-consecutive-ones-iii/](https://leetcode.com/problems/max-consecutive-ones-iii/)
    1. Rocket Academy solution code: [https://leetcode.com/submissions/detail/463296666/](https://leetcode.com/submissions/detail/463296666/)
-   2. Rocket Academy solution video: 
+   2. Rocket Academy solution video: [https://youtu.be/Kynk1Tny3yQ?t=3939](https://youtu.be/Kynk1Tny3yQ?t=3939)
 2. [https://leetcode.com/problems/grumpy-bookstore-owner/](https://leetcode.com/problems/grumpy-bookstore-owner/)
 3. [https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 4. [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
