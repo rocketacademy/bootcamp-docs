@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 8 | 1-5 Mar | - | [P2](../projects/project-2-server-side-app.md) | [CD35](course-days/course-days-29-56.md#cd35) | [CD36](course-days/course-days-29-56.md#cd36) | [CD37](course-days/course-days-29-56.md#cd37) | [CD38](course-days/course-days-29-56.md#cd38) | [CD39](course-days/course-days-29-56.md#cd39) |
+| 9 | 8-12 Mar | Sequelize ORM, MVC | - | [CD40](course-days/course-days-29-56.md#cd40) | [CD41](course-days/course-days-29-56.md#cd41) | [CD42](course-days/course-days-29-56.md#cd42) | [CD43](course-days/course-days-29-56.md#cd43) | [CD44](course-days/course-days-29-56.md#cd44) |
 
 ## Overall Schedule
 

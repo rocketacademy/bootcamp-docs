@@ -8,7 +8,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 20 | 1-5 Mar | Common Algorithm Patterns | [P5](../projects/project-5-group-react-app.md) | [CD93](course-days/course-days-85-112.md#cd93) | [CD94](course-days/course-days-85-112.md#cd94) | [CD95](course-days/course-days-85-112.md#cd95) | [CD96](course-days/course-days-85-112.md#cd96) | [CD97](course-days/course-days-85-112.md#cd97) |
+| 21 | 8-12 Mar | Testing, Sockets | P6 | [CD98](course-days/course-days-85-112.md#cd98) | [CD99](course-days/course-days-85-112.md#cd99) | [CD100](course-days/course-days-85-112.md#cd100) | [CD101](course-days/course-days-85-112.md#cd101) | [CD102](course-days/course-days-85-112.md#cd102) |
 
 ## Overall Schedule
 
