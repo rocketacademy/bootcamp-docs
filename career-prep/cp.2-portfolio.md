@@ -28,3 +28,9 @@ If you have time, feel free to create and host your own website in lieu of Notio
    5. What was most challenging about this project and how did you overcome it
       1. No more than 1 paragraph
 
+## Sample Portfolio Sites
+
+1. [https://samkohlq.github.io/](https://samkohlq.github.io/)
+2. [https://perrylzx.github.io/](https://perrylzx.github.io/)
+3. [https://lohengliang.github.io/](https://lohengliang.github.io/)
+
