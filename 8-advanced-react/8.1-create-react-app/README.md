@@ -44,7 +44,3 @@ Go to the app: [http://localhost:3000](http://localhost:3000)
 
 See more about Create React App at [the official website.](https://create-react-app.dev/)
 
-## Deployment
-
-[https://create-react-app.dev/docs/deployment/\#heroku](https://create-react-app.dev/docs/deployment/#heroku)
-
