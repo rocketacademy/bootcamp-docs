@@ -209,6 +209,10 @@ None
 
 #### Pre-Class
 
+* [CP.1: Job Application Strategy](../../career-prep/cp.1-job-application-strategy.md)
+* [CP.2: Portfolio](../../career-prep/cp.2-portfolio.md)
+* [CP.3: Resume](../../career-prep/cp.3-resume.md)
+
 #### In-Class
 
 * [Project 5 Presentations](../../course-logistics/course-methodology.md#project-presentations)
@@ -219,6 +223,11 @@ None
 
 ### CD99
 
+#### Due
+
+* Portfolio content 1st draft
+* Resume 1st draft
+
 #### Pre-Class
 
 #### In-Class
@@ -226,6 +235,11 @@ None
 #### Post-Class
 
 ### CD100
+
+#### Due
+
+* Portfolio content 2nd draft
+* Resume 2nd draft
 
 #### Pre-Class
 
@@ -243,6 +257,10 @@ None
 
 ### CD102
 
+#### Due
+
+* Jobs list 1st draft
+
 #### Pre-Class
 
 #### In-Class
@@ -250,6 +268,12 @@ None
 #### Post-Class
 
 ### CD103
+
+#### Due
+
+* Live portfolio page
+* Resume final draft
+* Jobs list final draft
 
 #### Pre-Class
 
