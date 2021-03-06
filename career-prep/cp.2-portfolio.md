@@ -6,27 +6,50 @@ Your portfolio is your summary of all the coding work you've done. The goal of t
 
 ## How to Create Portfolio
 
-To start, you can compile your projects you wish to share into a nicely-formatted page on [Notion](https://www.notion.so/personal). Feel free to format the page however you wish. Notion is free to use, and allows us to publish the pages we create as read-only websites.
+### Plan your portfolio
 
-If you have time, feel free to create and host your own website in lieu of Notion, e.g. https://johntan.com. This will be more work, but you will have more control over the styling of your page. You can choose to use a website builder such as Squarespace or Webflow for this, or build your own website from scratch \(e.g. Jekyll and GitHub Pages\). If you choose to host your own website, please ensure it is mobile-responsive.
+To start, you can compile your projects you wish to share into a page on [Notion](https://www.notion.so/personal). Follow the guide below for each project.
 
-## What Context to Include
+#### About
 
 1. Brief self-introduction
    1. Who are you?
    2. Why did you choose to be a software engineer?
       1. Note: You are already a software engineer, not an "aspiring" software engineer
    3.  What are you looking for in your next job?
-2. Provide context around each project
-   1. Project website
+
+#### Projects
+
+Each template contains a separate HTML page for each project you want to list.
+
+1. Provide context around each project:
+   1. Screenshots / GIFs of use
+      1. spend some time to compile and properly size the screenshots of the projects
+   2. Demo Video
+      1. embed the demo video from YouTube
+   3. Project website
       1. Please ensure it is working, and install HTTPS if possible!
       2. Please eliminate bugs as much as possible
-   2. Project GitHub link
+   4. Project GitHub link
       1. Please remove commented-out code, clarify variable names, add comments where helpful, and create helper functions where certain logic may be too long, complex, or repetitive.
-   3. What technologies did you use
-   4. What did you learn from this project?
-   5. What was most challenging about this project and how did you overcome it
+   5. What technologies did you use
+   6. \(Optional\) What did you learn from this project?
+   7. \(Optional\) What was most challenging about this project and how did you overcome it
       1. No more than 1 paragraph
+
+#### Build the website
+
+Choose a portfolio template from the compiled Rocket Academy pages here: [https://rocketacademy.github.io/portfolio-examples-bootcamp/index.html](https://rocketacademy.github.io/portfolio-examples-bootcamp/index.html)
+
+These pages are already setup, but feel free to make small changes to them, i.e., color changes or to add sections. All the templates use Bootstrap.
+
+Don't spend days to redo the template CSS into something fancier. The point of the portfolio website is to allow people who want to find out more about you to be able to gather information about your background and projects as quickly as possible.
+
+Copy the code into a repo that you create and deploy using GitHub pages. You do not need to put any extra time into making the portfolio website powered by, for example, React or Express.js.
+
+Access the code for the templates here: [https://github.com/rocketacademy/portfolio-examples-bootcamp](https://github.com/rocketacademy/portfolio-examples-bootcamp)
+
+## 
 
 ## Sample Portfolio Sites
 
