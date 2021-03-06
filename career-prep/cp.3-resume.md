@@ -37,7 +37,31 @@ The "Miscellaneous" or "Interests" section typically goes at the bottom of one's
 
 ## How to Write Effective Bullets
 
-Effective resumes communicate in bullets, not 
+Effective resumes communicate in bullet points, not prose. The goal is to help a recruiter grasp the points on your resume as efficiently as possible, to cumulatively communicate the 3 points above.
 
-## Sample Resume
+Examples:
+
+* Built a full-stack group-buy web app that enables transactions upon purchase quantity threshold.
+* Architected data flows across front and back-end through React state, HTTP requests, and Postgres.
+* Increased app reliability by writing tests for all API endpoints, run automatically on code merges.
+
+Guidance:
+
+1. **Start with a verb** in past tense that communicates an accomplishment, for example "built", "secured", "developed", "increased", "integrated". Avoid verbs that communicate action but not results, for example "learned", "read documentation", "watched videos", "tried", "practised". Focus on the wow, then the how.
+2. Use the verb to **communicate the impact of our action**. For RA projects we may not have impressive user numbers or percentage improvement, but we can still communicate impact. For example, "developed X app that helps Y people do Z", or "built X feature by doing A, B, and C". Try to be specific where possible, and when in doubt, ask your self "so what?" about your bullet.
+3. Last but not least, **communicate how you achieved the impact**. This is ideally concise and precise, such that the recruiter has enough details to know you're serious, but isn't caught in a rabbit hole trying to understand what you are saying. For example, "integrated real-time chat by setting up Firebase DB and syncing listing IDs with Postgres" can be simple and understandable, whereas "integrated real-time chat using Firebase Realtime Database where chat group IDs are listing IDs that are also primary keys in Postgres" may be overly technical and verbose.
+
+## Sample Resumes
+
+### Kai's Resume
+
+![](../.gitbook/assets/jie-ping-20210306-18.28.12%20%283%29.png)
+
+### Past Students' Resumes
+
+![](../.gitbook/assets/jie-ping-20210306-18.29.59.png)
+
+![](../.gitbook/assets/jie-ping-20210306-18.30.13.png)
+
+![](../.gitbook/assets/jie-ping-20210306-18.29.49%20%281%29.png)
 
