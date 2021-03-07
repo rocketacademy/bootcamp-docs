@@ -216,7 +216,7 @@ None
 #### Post-Class
 
 * [4.POCE.1: Heroku Deploy](../../4-backend-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
-* [Project 2 Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due CD44\)
+* [Project Demo Video ](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due CD44\)
 
 ### CD43
 
