@@ -234,13 +234,13 @@ None
 #### Post-Class
 
 * [4.POCE.2: Sequelize CLI](../../4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
-* [Project 2 Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due CD44\)
+* [Project Demo Video ](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due CD44\)
 
 ### CD44
 
 #### Due
 
-* [Project 2 Blog Post](../../projects/project-2-server-side-app.md#technical-blog-post)
+* [Project Demo Video ](../../projects/project-2-server-side-app.md#technical-blog-post)
 
 #### Pre-Class
 
@@ -304,7 +304,7 @@ None
 
 #### Pre-Class
 
-* [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../../4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table-attributes.md)
+* [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../../4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table.md)
 * [5.2.1: AJAX POST](../../5-full-stack-application/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 #### In-Class
