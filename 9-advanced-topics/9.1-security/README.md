@@ -26,3 +26,9 @@ In the following examples we'll see some ways in which the user input was not tr
 
 In general we'll also see that in order to exploit any security vulnerability the attacker must have comprehensive knowledge of how a web application system works, from HTTP to JavaScript, etc. That also means that in order to assure the security of an application, that person must also have a deep understanding of all levels of the application.
 
+### Sample App
+
+For all the examples we'll be using this deployed express app: [https://blooming-cliffs-44482.herokuapp.com/](https://blooming-cliffs-44482.herokuapp.com/)
+
+The code for this app is here: [https://github.com/rocketacademy/express-security-bootcamp](https://github.com/rocketacademy/express-security-bootcamp)
+
