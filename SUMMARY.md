@@ -302,6 +302,7 @@
 * [9.1: Security](9-advanced-topics/9.1-security/README.md)
   * [9.1.1: XSS](9-advanced-topics/9.1-security/9.1.1-xss.md)
   * [9.1.2: CSRF](9-advanced-topics/9.1-security/9.1.2-csrf.md)
+  * [9.1.3: SQL Injection](9-advanced-topics/9.1-security/9.1.3-sql-injection.md)
 * [9.2: Testing](9-advanced-topics/9.2-testing/README.md)
   * [9.2.1: Unit Testing](9-advanced-topics/9.2-testing/9.2.1-unit-testing.md)
 * [9.3: Django](9-advanced-topics/9.3-django.md)
