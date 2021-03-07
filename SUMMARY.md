@@ -299,7 +299,9 @@
 ## 9️⃣ Advanced Topics
 
 * [9.0: Module 9 Overview](9-advanced-topics/9.0-module-9-overview.md)
-* [9.1: VSCode Node Debugger](9-advanced-topics/9.1-node-debugger.md)
+* [9.1: Security](9-advanced-topics/9.1-security/README.md)
+  * [9.1.1: XSS](9-advanced-topics/9.1-security/9.1.1-xss.md)
+  * [9.1.2: CSRF](9-advanced-topics/9.1-security/9.1.2-csrf.md)
 * [9.2: Testing](9-advanced-topics/9.2-testing/README.md)
   * [9.2.1: Unit Testing](9-advanced-topics/9.2-testing/9.2.1-unit-testing.md)
 * [9.3: Django](9-advanced-topics/9.3-django.md)
@@ -308,7 +310,7 @@
 * [9.6: GraphQL / React-Apollo](9-advanced-topics/9.6-graphql-react-apollo.md)
 * [9.7: Web Sockets](9-advanced-topics/9.7-web-sockets.md)
 * [9.8: CSS Animations](9-advanced-topics/9.8-css-animations.md)
-* [9.9: Security](9-advanced-topics/9.9-security.md)
+* [9.1: VSCode Node Debugger](9-advanced-topics/9.1-node-debugger.md)
 
 ## 🧮 Data Structures and Algorithms
 
