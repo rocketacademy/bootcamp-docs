@@ -317,6 +317,8 @@
 * [9.7: Web Sockets](9-advanced-topics/9.7-web-sockets.md)
 * [9.8: CSS Animations](9-advanced-topics/9.8-css-animations.md)
 * [9.9: VSCode Node Debugger](9-advanced-topics/9.9-node-debugger.md)
+* [9.POCE: Post-Class Exercises](9-advanced-topics/9.poce-post-class-exercises/README.md)
+  * [9.POCE.1: Django App](9-advanced-topics/9.poce-post-class-exercises/9.poce.1-django-app.md)
 
 ## 🧮 Data Structures and Algorithms
 

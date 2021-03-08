@@ -221,7 +221,7 @@ None
 
 * Project 5 Post-Mortems
 
-### CD99
+### CD99 
 
 #### Due
 
@@ -240,8 +240,11 @@ None
 
 * Portfolio content 2nd draft
 * Resume 2nd draft
+* Project 5 Video
 
 #### Pre-Class
+
+* [9.1 Security](../../9-advanced-topics/9.1-security/)
 
 #### In-Class
 
@@ -250,6 +253,8 @@ None
 ### CD101
 
 #### Pre-Class
+
+* 9.2: Testing
 
 #### In-Class
 
@@ -262,6 +267,8 @@ None
 * Jobs list 1st draft
 
 #### Pre-Class
+
+* 9.2: Testing: TDD
 
 #### In-Class
 
@@ -277,9 +284,13 @@ None
 
 #### Pre-Class
 
+* 9.3: Django
+
 #### In-Class
 
 #### Post-Class
+
+* 9.POCE.1: Django App
 
 ### CD104
 
@@ -289,6 +300,8 @@ None
 
 #### Post-Class
 
+* 9.POCE.1: Django App
+
 ### CD105
 
 #### Pre-Class
@@ -297,13 +310,19 @@ None
 
 #### Post-Class
 
+* 9.POCE.1: Django App
+
 ### CD106
 
 #### Pre-Class
 
+* 9.4: React Native
+
 #### In-Class
 
 #### Post-Class
+
+* 9.POCE.2: React Native
 
 ### CD107
 
@@ -313,13 +332,19 @@ None
 
 #### Post-Class
 
+* 9.POCE.2: React Native
+
 ### CD108
 
 #### Pre-Class
 
+* 9.5: ML - Naive Bayes
+
 #### In-Class
 
 #### Post-Class
+
+* 9.POCE.3: Spam Filter
 
 ### CD109
 
