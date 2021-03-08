@@ -276,6 +276,8 @@ None
 
 #### Pre-Class
 
+* [4.2.4: Sequelize Many-to-Many](../../4-backend-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
+
 #### In-Class
 
 * [4.POCE.3: Project 2 MVC Refactor](../../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
@@ -291,6 +293,7 @@ None
 #### Pre-Class
 
 * [5.1: Browser DOM JS](../../5-full-stack-application/5.1-dom-manipulation.md)
+* [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../../4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table.md)
 
 #### In-Class
 
@@ -305,6 +308,7 @@ None
 #### Pre-Class
 
 * [5.2: AJAX](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/5-full-stack-application/5.2-ajax)
+* [4.2.6 Sequelize Validations](../../4-backend-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
 
 #### In-Class
 
@@ -318,7 +322,8 @@ None
 
 #### Pre-Class
 
-* [4.2.4: Sequelize Many-to-Many](../../4-backend-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
+* [4.2.7: Sequelize Eager Loading](../../4-backend-structure/4.2-sequelize/4.2.7-sequelize-eager-loading.md)
+* [5.2.1: AJAX POST](../../5-full-stack-application/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 #### In-Class
 
@@ -332,8 +337,7 @@ None
 
 #### Pre-Class
 
-* [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../../4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table.md)
-* [5.2.1: AJAX POST](../../5-full-stack-application/5.2-ajax/5.2.1-ajax-post-requests.md)
+* [4.2.8: Sequelize Self-Referencing Columns](../../4-backend-structure/4.2-sequelize/4.2.8-sequelize-self-referencing-table-columns.md)
 
 #### In-Class
 
@@ -364,7 +368,6 @@ None
 
 #### Pre-Class
 
-* [4.2.6: Sequelize Validations](../../4-backend-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
 * [6.1.1: Webpack with Local Modules](../../6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
 * [6.1.2: Webpack with NPM Modules](../../6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
 
