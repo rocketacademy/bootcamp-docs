@@ -205,6 +205,7 @@
   * [4.2.5: Sequelize Many-to-Many with "Through Table"](4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table.md)
   * [4.2.6: Sequelize Validations](4-backend-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
   * [4.2.7: Sequelize Eager Loading](4-backend-structure/4.2-sequelize/4.2.7-sequelize-eager-loading.md)
+  * [4.2.8: Sequelize Self-Referencing Table Columns](4-backend-structure/4.2-sequelize/4.2.8-sequelize-self-referencing-table-columns.md)
   * [4.2.8: Sequelize Setup Cheatsheet](4-backend-structure/4.2-sequelize/4.2.8-sequelize-setup-cheatsheet.md)
 * [4.3: MVC](4-backend-structure/4.3-mvc.md)
 * [4.ICE: In-Class Exercises](4-backend-structure/4.ice-in-class-exercises/README.md)
@@ -214,6 +215,7 @@
   * [4.POCE.1: Heroku Deploy](4-backend-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
   * [4.POCE.2: Sequelize CLI - Travel Itinerary](4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
   * [4.POCE.3: Project 2 MVC Refactor](4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
+  * [4.POCE.4: Drummers for Hire](4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
 
 ## 5️⃣ Full-Stack Application
 

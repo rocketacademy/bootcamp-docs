@@ -254,6 +254,7 @@ None
 
 #### Post-Class
 
+* 4.POCE.4: Drummers
 * [4.POCE.3: Project 2 MVC Refactor](../../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
 ## Module 5: Full-Stack Application
