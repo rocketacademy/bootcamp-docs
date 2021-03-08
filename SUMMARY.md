@@ -6,8 +6,8 @@
 
 * [Course Days](course-schedule/course-days/README.md)
   * [Course Days 1-28](course-schedule/course-days/course-days-1-28.md)
-  * [Course Days 29-56](course-schedule/course-days/course-days-29-56.md)
-  * [Course Days 57-84](course-schedule/course-days/course-days-57-84.md)
+  * [Course Days 29-60](course-schedule/course-days/course-days-29-56.md)
+  * [Course Days 61-84](course-schedule/course-days/course-days-57-84.md)
   * [Course Days 85-112](course-schedule/course-days/course-days-85-112.md)
 * [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
 * [Batch 2 Schedule](course-schedule/batch-2-schedule.md)
@@ -243,6 +243,7 @@
   * [6.1.3: Webpack with Babel](6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
   * [6.1.4: Webpack with SASS](6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
   * [6.1.5: Webpack with Express](6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
+  * [6.1.6: Express MVC Webpack & Heroku](6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
 * [6.ICE: In-Class Exercises](6-frontend-infrastructure/6.ice-in-class-exercises/README.md)
   * [6.ICE.1: NPM Webpack](6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
 

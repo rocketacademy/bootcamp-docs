@@ -1,4 +1,4 @@
-# Course Days 29-56
+# Course Days 29-60
 
 ## Module 3: Backend Application \(Continued\)
 
@@ -224,6 +224,23 @@ None
 
 * [4.1: Advanced Promise Handling](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/4-backend-structure/4.1-advanced-promise-handling)
 * [4.1.1: Try Catch](../../4-backend-structure/4.1-advanced-promise-handling/4.1.1-try-catch.md)
+
+#### In-Class
+
+* [4.ICE.2: DB Schema Design - Airbnb](../../4-backend-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
+
+#### Post-Class
+
+* [Project Demo Video ](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due CD44\)
+
+### CD44
+
+#### Due
+
+* [Project Demo Video ](../../projects/project-2-server-side-app.md#technical-blog-post)
+
+#### Pre-Class
+
 * [4.1.2: Promise.catch, Promise.all](../../4-backend-structure/4.1-advanced-promise-handling/4.1.2-promise.catch-promise.all.md)
 * [4.2.2: Sequelize One-to-Many](../../4-backend-structure/4.2-sequelize/4.2.2-sequelize-one-to-many-relationships.md)
 
@@ -234,9 +251,8 @@ None
 #### Post-Class
 
 * [4.POCE.2: Sequelize CLI](../../4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
-* [Project Demo Video ](../../projects/project-2-server-side-app.md#technical-blog-post) \(Due CD44\)
 
-### CD44
+### CD45
 
 #### Due
 
@@ -250,16 +266,27 @@ None
 
 #### In-Class
 
-* [4.ICE.2: DB Schema Design - Airbnb](../../4-backend-structure/4.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
+* [4.POCE.4: Drummers](../../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
 
 #### Post-Class
 
-* 4.POCE.4: Drummers
+* [4.POCE.4: Drummers](../../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
+
+### CD46
+
+#### Pre-Class
+
+#### In-Class
+
 * [4.POCE.3: Project 2 MVC Refactor](../../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
+
+#### Post-Class
+
+* [4.POCE.4: Drummers](../../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
 
 ## Module 5: Full-Stack Application
 
-### CD45
+### CD47
 
 #### Pre-Class
 
@@ -271,9 +298,9 @@ None
 
 #### Post-Class
 
-* [4.POCE.3: Project 2 MVC Refactor](../../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md) \(Due CD46\)
+* [4.POCE.3: Project 2 MVC Refactor](../../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-### CD46
+### CD48
 
 #### Pre-Class
 
@@ -287,7 +314,7 @@ None
 
 * [4.POCE.3: Project 2 MVC Refactor](../../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-### CD47
+### CD49
 
 #### Pre-Class
 
@@ -301,7 +328,7 @@ None
 
 * [5.POCE.1: Bug Reports AJAX](../../5-full-stack-application/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
 
-### CD48
+### CD50
 
 #### Pre-Class
 
@@ -318,7 +345,7 @@ None
 
 ## Module 6: Frontend Infrastructure
 
-### CD49
+### CD52
 
 #### Pre-Class
 
@@ -333,7 +360,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### CD50
+### CD53
 
 #### Pre-Class
 
@@ -349,7 +376,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### CD51
+### CD54
 
 #### Pre-Class
 
@@ -364,7 +391,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### CD52
+### CD55
 
 #### Pre-Class
 
@@ -377,49 +404,6 @@ None
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-game.md#ideation-phase-2)
-
-### CD53
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
-
-### CD54
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
-
-### CD55
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
-* [Project 3 Midpoint Checkin](../../projects/project-3-full-stack-game.md#project-timeline)
 
 ### CD56
 
@@ -434,4 +418,132 @@ None
 #### Post-Class
 
 * [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD57
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD58
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD59
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD60
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+* [Project 3 Midpoint Checkin](../../projects/project-3-full-stack-game.md#project-timeline)
+
+### CD61
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD62
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+* [Project 3 Feature Freeze](../../projects/project-3-full-stack-game.md#project-timeline)
+
+### CD63
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD64
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD65
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+* [Project 3 Presentations](../../course-logistics/course-methodology.md#project-presentations)
+
+#### Post-Class
+
+* [Project 3 Post-Mortems](../../projects/project-3-full-stack-game.md#post-mortem-meeting)
 
