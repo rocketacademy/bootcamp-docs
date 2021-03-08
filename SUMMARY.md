@@ -206,7 +206,7 @@
   * [4.2.6: Sequelize Validations](4-backend-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
   * [4.2.7: Sequelize Eager Loading](4-backend-structure/4.2-sequelize/4.2.7-sequelize-eager-loading.md)
   * [4.2.8: Sequelize Self-Referencing Table Columns](4-backend-structure/4.2-sequelize/4.2.8-sequelize-self-referencing-table-columns.md)
-  * [4.2.8: Sequelize Setup Cheatsheet](4-backend-structure/4.2-sequelize/4.2.8-sequelize-setup-cheatsheet.md)
+  * [4.2.9: Sequelize Setup Cheatsheet](4-backend-structure/4.2-sequelize/4.2.9-sequelize-setup-cheatsheet.md)
 * [4.3: MVC](4-backend-structure/4.3-mvc.md)
 * [4.ICE: In-Class Exercises](4-backend-structure/4.ice-in-class-exercises/README.md)
   * [4.ICE.1: Project 2 Redux](4-backend-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
