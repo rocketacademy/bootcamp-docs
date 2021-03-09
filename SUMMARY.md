@@ -5,10 +5,12 @@
 ## 📅 Course Schedule
 
 * [Course Days](course-schedule/course-days/README.md)
-  * [Course Days 1-28](course-schedule/course-days/course-days-1-28.md)
-  * [Course Days 29-60](course-schedule/course-days/course-days-29-60.md)
-  * [Course Days 61-84](course-schedule/course-days/course-days-61-84.md)
-  * [Course Days 85-112](course-schedule/course-days/course-days-85-112.md)
+  * [Course Weeks 1-4](course-schedule/course-days/course-weeks-1-4.md)
+  * [Course Weeks 5-8](course-schedule/course-days/course-weeks-5-8.md)
+  * [Course Weeks 9-12](course-schedule/course-days/course-weeks-9-12.md)
+  * [Course Weeks 13-16](course-schedule/course-days/course-weeks-13-16.md)
+  * [Course Weeks 17-20](course-schedule/course-days/course-weeks-17-20.md)
+  * [Course Weeks 21-23](course-schedule/course-days/course-weeks-21-23.md)
 * [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
 * [Batch 2 Schedule](course-schedule/batch-2-schedule.md)
 

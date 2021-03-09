@@ -1,8 +1,81 @@
-# Course Days 61-84
+# Course Weeks 13-16
 
-## Module 7: React
+## Course Week 13
 
 ### CD61
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD62
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+* [Project 3 Feature Freeze](../../projects/project-3-full-stack-game.md#project-timeline)
+
+### CD63
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD64
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
+
+### CD65
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+* [Project 3 Presentations](../../course-logistics/course-methodology.md#project-presentations)
+
+#### Post-Class
+
+* [Project 3 Post-Mortems](../../projects/project-3-full-stack-game.md#post-mortem-meeting)
+
+## Course Week 14
+
+### CD66
 
 #### Pre-Class
 
@@ -18,7 +91,7 @@
 
 * [7.POCE.1: JSX Bug Reports](../../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
 
-### CD62
+### CD67
 
 #### Pre-Class
 
@@ -35,7 +108,7 @@
 
 * [7.ICE.2: React Pokedex](../../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 
-### CD63
+### CD68
 
 #### Pre-Class
 
@@ -51,7 +124,7 @@
 
 * [7.POCE.2: React Tic Tac Toe](../../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
 
-### CD64
+### CD69
 
 #### Pre-Class
 
@@ -68,7 +141,7 @@
 
 * [7.POCE.3: Read Later](../../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 
-### CD65
+### CD70
 
 #### Pre-Class
 
@@ -84,7 +157,9 @@
 * [7.POCE.3: Read Later](../../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-### CD66
+## Course Week 15
+
+### CD71
 
 #### Pre-Class
 
@@ -100,7 +175,7 @@
 * [7.POCE.4: Hot Pot](../../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-### CD67
+### CD72
 
 #### Pre-Class
 
@@ -115,7 +190,7 @@
 * [7.POCE.4: Hot Pot](../../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-### CD68
+### CD73
 
 #### Pre-Class
 
@@ -131,7 +206,7 @@
 * [7.POCE.4: Hot Pot](../../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.ICE.1: Recursion](../../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-### CD69
+### CD74
 
 #### Pre-Class
 
@@ -147,7 +222,7 @@
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
 * [D.6.1: Arrays](../../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
-### CD70
+### CD75
 
 #### Pre-Class
 
@@ -163,7 +238,9 @@
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
 * [D.6.1: Arrays](../../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
-### CD71
+## Course Week 16
+
+### CD76
 
 #### Pre-Class
 
@@ -180,7 +257,7 @@
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
 * [D.6.2: Hash Tables](../../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
-### CD72
+### CD77
 
 #### Pre-Class
 
@@ -196,7 +273,7 @@ None
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
 * [D.6.2: Hash Tables](../../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
-### CD73
+### CD78
 
 #### Pre-Class
 
@@ -212,7 +289,7 @@ None
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
 * [D.6.2: Hash Tables](../../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
-### CD74
+### CD79
 
 #### Pre-Class
 
@@ -226,7 +303,7 @@ None
 
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
 
-### CD75
+### CD80
 
 #### Pre-Class
 
@@ -242,154 +319,4 @@ None
 
 * [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
 * [D.6.3: Stacks](../../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
-
-### CD76
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [D.6.3: Stacks](../../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
-
-#### Post-Class
-
-* [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
-* [D.6.3: Stacks](../../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
-
-### CD77
-
-#### Pre-Class
-
-* [D.6.4: Queues](../../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-#### In-Class
-
-* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [D.6.4: Queues](../../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-#### Post-Class
-
-* [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
-* [D.6.4: Queues](../../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-### CD78
-
-#### Pre-Class
-
-No pre-class material for today.
-
-#### In-Class
-
-* [Project 4 Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [D.6.4: Queues](../../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-#### Post-Class
-
-* [Project 4: Full-Stack React App](../../projects/project-4-full-stack-react-app.md)
-* [D.6.4: Queues](../../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-### CD79
-
-#### Pre-Class
-
-* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
-
-#### In-Class
-
-* [Project 4 Presentation](../../course-logistics/course-methodology.md#project-presentations)
-
-#### Post-Class
-
-* [Project 4 Video Demo](../../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
-
-## Module 8: Advanced React
-
-### CD80
-
-#### Pre-Class
-
-* [8.1: Create React App](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/8-advanced-react/8.1-create-react-app)
-* [8.1.1: Create React App Full Stack](../../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
-
-#### In-Class
-
-* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
-
-#### Post-Class
-
-* [D.6.5: Linked Lists](../../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
-
-### CD81
-
-#### Due
-
-* [Project 4 Video Demo](../../projects/project-4-full-stack-react-app.md#video-demo)
-
-#### Pre-Class
-
-* [8.2: Higher Order Components](../../8-advanced-react/8.3-higher-order-components.md)
-* [8.3.1: useContext](../../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
-* [8.3.2: useReducer](../../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
-* [8.3.3: useContext + useReducer](../../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
-
-#### In-Class
-
-* [8.ICE.1: useContext](../../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
-
-#### **Post-Class**
-
-* [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-
-### CD82
-
-#### Pre-Class
-
-* [8.3.4: React E-Commerce App with Store](../../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
-
-#### **In-Class**
-
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
-
-#### **Post-Class**
-
-* [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
-
-### CD83
-
-#### Pre-Class
-
-* [8.4: React Router](https://github.com/rocketacademy/bootcamp-docs/tree/3fd8abcb5c9a6dd371abd3702eb056a04bbf7e47/8-advanced-react/8.4-react-router)
-* [8.4.1: React Router Shopping](../../8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
-* [8.4.2: React Router Deep Linking](../../8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
-
-#### In-Class
-
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
-
-#### Post-Class
-
-* [8.POCE.1: Car Rental](../../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.6.6: Trees](../../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
-
-### CD84
-
-#### Pre-Class
-
-* [8.5: Advanced useEffect ](../../8-advanced-react/8.5-advanced-useeffect.md)
-* [D.6.7: Graphs](../../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
-
-#### In-Class
-
-* [D.6.7: Graphs](../../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
-
-#### Post-Class
-
-* [8.POCE.2: Climbing Trip](../../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.6.7: Graphs](../../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 

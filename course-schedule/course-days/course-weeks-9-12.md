@@ -1,190 +1,6 @@
-# Course Days 29-60
+# Course Weeks 9-12
 
-## Module 3: Backend Application \(Continued\)
-
-### CD29
-
-#### Pre-Class
-
-* [3.4.5: Non-FK Relationship Data in Join Table](../../3-backend-application/3.4-sql-language/3.4.5-non-fk-relationship-data-in-join-table.md)
-* [3.5.6: Forms for Many-to-Many Relationships](../../3-backend-application/3.5-sql-applications/3.5.6-forms-for-many-to-many-relationships.md)
-* [3.6.4: Session Hashing](../../3-backend-application/3.6-authentication/3.6.4-session-hashing.md)
-
-#### In-Class
-
-* [3.ICE.9: Multiple Foreign Keys](../../3-backend-application/3.ice-in-class-exercises/3.ice.9-multi-foreign-key.md)
-
-#### Post-Class
-
-* [3.POCE.8: Bird Watching Behaviour](../../3-backend-application/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
-
-### CD30
-
-#### Pre-Class
-
-* [3.4.6: SQL Schema Design](../../3-backend-application/3.4-sql-language/3.4.6-sql-schema-design.md)
-
-#### In-Class
-
-* [3.ICE.10: DB Schema Design - Carousell](../../3-backend-application/3.ice-in-class-exercises/3.ice.10-db-schema-design-carousell.md)
-
-#### Post-Class
-
-* [3.POCE.9: Bird Watching Comments](../../3-backend-application/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
-* [3.POCE.10: Deployment](../../3-backend-application/3.poce-post-class-exercises/3.poce.10-deployment.md)
-* [Project 2 Planning: Ideation Deadline](../../projects/project-2-server-side-app.md#ideation-phase-1)
-
-### CD31
-
-#### Pre-Class
-
-* [3.7: JavaScript Promises](../../3-backend-application/3.7-javascript-promises.md)
-* [3.5.9: pg Promises](../../3-backend-application/3.5-sql-applications/3.5.9-pg-promises.md)
-
-#### In-Class
-
-* [3.ICE.11: Bird Watching Redux](../../3-backend-application/3.ice-in-class-exercises/3.ice.11-bird-watching-redux.md)
-
-#### Post-Class
-
-* [Project 2 Planning: User Flows, Wireframes, DB ERDs](../../projects/project-2-server-side-app.md#ideation-phase-2)
-
-### CD32
-
-#### Pre-Class
-
-* [3.5.7: Database Setup Files](../../3-backend-application/3.5-sql-applications/3.5.7-database-setup-files.md)
-* [3.6.5: Custom Middleware for Authentication](../../3-backend-application/3.6-authentication/3.6.5-custom-middleware-for-authentication.md)
-
-#### In-Class
-
-* [Project 2 Planning: Peer Discussion](../../projects/project-2-server-side-app.md#ideation-phase-2)
-
-#### Post-Class
-
-* [Project 2 Planning: Instructor 1-1s](../../projects/project-2-server-side-app.md#ideation-phase-2)
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD33
-
-#### Pre-Class
-
-* [3.5.8: SQL + JS Dates](../../3-backend-application/3.5-sql-applications/3.5.8-sql-+-js-dates.md)
-
-#### In-Class
-
-* [3.ICE.12: DB Schema Design - Uber](../../3-backend-application/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-
-#### Post-Class
-
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD34
-
-#### Pre-Class
-
-* [3.5.11: File Uploads](../../3-backend-application/3.5-sql-applications/3.5.11-file-uploads.md)
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-
-#### Post-Class
-
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD35
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.13: Instagram DB](../../3-backend-application/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
-
-#### Post-Class
-
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD36
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [3.ICE.14: CSS Practice 2](../../3-backend-application/3.ice-in-class-exercises/3.ice.14-css-practice-2.md)
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-
-#### Post-Class
-
-* [Project 2 Mid-Point Instructor Meeting \(30 minutes\)](../../projects/project-2-server-side-app.md#project-timeline)
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD37
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.15: CSS Practice 3](../../3-backend-application/3.ice-in-class-exercises/3.ice.15-css-practice-3.md)
-
-#### Post-Class
-
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD38
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.16: CSS Practice 4](../../3-backend-application/3.ice-in-class-exercises/3.ice.16-css-practice-4.md)
-
-#### Post-Class
-
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD39
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.17: CSS Practice 5](../../3-backend-application/3.ice-in-class-exercises/3.ice.17-css-practice-5.md)
-
-#### Post-Class
-
-* [Project 2 Feature Freeze \(no new features, focus on polish\)](../../projects/project-2-server-side-app.md#project-timeline)
-* [Project 2 Pre-Presentation Meeting \(15 minutes\)](../../projects/project-2-server-side-app.md#project-timeline)
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
-
-### CD40
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-
-#### Post-Class
-
-* [Project 2 Implementation](../../projects/project-2-server-side-app.md#recommended-order-of-implementation)
+## Course Week 9
 
 ### CD41
 
@@ -199,8 +15,6 @@ None
 #### Post-Class
 
 * [Project 2 Post-Mortems](../../projects/project-2-server-side-app.md#project-timeline)
-
-## Module 4: Backend Structure
 
 ### CD42
 
@@ -272,6 +86,8 @@ None
 
 * [4.POCE.4: Drummers](../../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
 
+## Course Week 10
+
 ### CD46
 
 #### Pre-Class
@@ -285,8 +101,6 @@ None
 #### Post-Class
 
 * [4.POCE.4: Drummers](../../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
-
-## Module 5: Full-Stack Application
 
 ### CD47
 
@@ -347,7 +161,9 @@ None
 
 * [5.POCE.2: Bug Reports AJAX Users](../../5-full-stack-application/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
 
-## Module 6: Frontend Infrastructure
+## Course Week 11
+
+### CD51
 
 ### CD52
 
@@ -407,6 +223,10 @@ None
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../../projects/project-3-full-stack-game.md#ideation-phase-2)
+
+## Course Week 12
+
+
 
 ### CD56
 
@@ -478,75 +298,4 @@ None
 
 * [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
 * [Project 3 Midpoint Checkin](../../projects/project-3-full-stack-game.md#project-timeline)
-
-### CD61
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
-
-### CD62
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
-* [Project 3 Feature Freeze](../../projects/project-3-full-stack-game.md#project-timeline)
-
-### CD63
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
-
-### CD64
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../../projects/project-3-full-stack-game.md)
-
-### CD65
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Project 3 Presentations](../../course-logistics/course-methodology.md#project-presentations)
-
-#### Post-Class
-
-* [Project 3 Post-Mortems](../../projects/project-3-full-stack-game.md#post-mortem-meeting)
 

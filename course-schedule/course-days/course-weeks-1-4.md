@@ -1,6 +1,6 @@
-# Course Days 1-28
+# Course Weeks 1-4
 
-## Module 1: Frontend Basics
+## Course Week 1
 
 ### CD1
 
@@ -89,6 +89,8 @@
 
 * [1.POCE.5: Tic Tac Toe](../../1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
 
+## Course Week 2
+
 ### CD6
 
 #### Pre-Class
@@ -164,6 +166,8 @@ No pre-class material today.
 * [Project 1: Video Poker](../../projects/project-1-video-poker.md)
 * [Deploy to Github Pages](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
 
+## Course Week 3
+
 ### CD11
 
 #### Pre-Class
@@ -177,8 +181,6 @@ No pre-class material today.
 #### Post-Class
 
 * [Instructor-Led Code Review](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#instructor-code-review)
-
-## Module 2: Backend Basics
 
 ### CD12
 
@@ -260,6 +262,8 @@ Node.js
 * [1.POCE.9: Bootstrap](../../1-frontend-basics/1.poce-post-class-exercises/1.poce.9-bootstrap-columns.md)
 * [2.POCE.4: File Server](../../2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 
+## Course Week 4
+
 ### CD16
 
 #### Pre-Class
@@ -311,8 +315,6 @@ Node.js
 
 * [2.POCE.6: Todo List - JSON](../../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
-## Module 3: Backend Application
-
 ### CD19
 
 #### Pre-Class
@@ -345,129 +347,5 @@ Node.js
 
 * [3.POCE.2: Express, EJS Noodle App](../../3-backend-application/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
 
-### CD21
 
-#### Pre-Class
-
-* [3.1.2: Forms](../../3-backend-application/3.1-express-js/3.1.2-html-forms.md)
-* [3.1.3: POST Requests](../../3-backend-application/3.1-express-js/3.1.3-post-requests.md)
-* [3.3.2: EJS Conditionals](../../3-backend-application/3.3-ejs/3.3.2-ejs-conditionals.md)
-
-#### In-Class
-
-* [3.ICE.3: Bigfoot POST](../../3-backend-application/3.ice-in-class-exercises/3.ice.3-bigfoot-post.md)
-
-#### Post-Class
-
-* [3.POCE.3: Express - UFOs](../../3-backend-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
-
-### CD22
-
-#### Pre-Class
-
-* [3.1.4: PUT, DELETE Requests](../../3-backend-application/3.1-express-js/3.1.4-put-delete-requests.md)
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-
-#### Post-Class
-
-* [3.POCE.3: Express - UFOs](../../3-backend-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
-
-### CD23
-
-#### Pre-Class
-
-* [3.3.3: Advanced EJS](../../3-backend-application/3.3-ejs/3.3.3-advanced-ejs.md)
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.4: CSS Practice 1](../../3-backend-application/3.ice-in-class-exercises/3.ice.4-css-practice-1.md)
-
-#### **Post-Class**
-
-* [3.POCE.3: Express - UFOs](../../3-backend-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
-
-### CD24
-
-#### Pre-Class
-
-* [3.4: SQL Language](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/3-backend-application/3.4-sql-language)
-* [3.4.1: Basic SQL Commands](../../3-backend-application/3.4-sql-language/3.4.1-basic-sql-commands.md)
-* [3.6.1: Cookies](../../3-backend-application/3.6-authentication/3.6.1-cookies.md)
-
-#### In-Class
-
-* [Scrum](../../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.5: Cookies](../../3-backend-application/3.ice-in-class-exercises/3.ice.5-cookies.md)
-
-#### Post-Class
-
-* [3.POCE.3: Express - UFOs](../../3-backend-application/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
-
-### CD25
-
-#### Pre-Class
-
-* [3.5: SQL Applications](https://github.com/rocketacademy/bootcamp-docs/tree/3fd8abcb5c9a6dd371abd3702eb056a04bbf7e47/3-backend-application/3.5-sql-applications)
-* [3.5.1: PostgreSQL, psql](../../3-backend-application/3.5-sql-applications/3.5.1-postgresql-psql.md)
-* [3.5.2: PostgreSQL Node App](../../3-backend-application/3.5-sql-applications/3.5.2-postgresql-node-app.md)
-
-#### In-Class
-
-* [Project Presentation: 3.POCE.3](../../course-logistics/course-methodology.md#project-presentations)
-
-#### Post-Class
-
-* [3.POCE.4: Meal Tracker](../../3-backend-application/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper.md)
-
-### CD26
-
-#### Pre-Class
-
-* [3.4.2: SQL Relationships \(One to Many\)](../../3-backend-application/3.4-sql-language/3.4.2-sql-relationships-one-to-many.md)
-* [3.5.3: Nested SQL Queries](../../3-backend-application/3.5-sql-applications/3.5.3-nested-sql-queries.md)
-* [3.5.4: PostgreSQL Express App](../../3-backend-application/3.5-sql-applications/3.5.4-postgresql-express-app.md)
-
-#### In-Class
-
-* [3.ICE.6: One to Many](../../3-backend-application/3.ice-in-class-exercises/3.ice.6-one-to-many.md)
-
-#### Post-Class
-
-* [3.POCE.5: Bird Watching](../../3-backend-application/3.poce-post-class-exercises/3.poce.5-bird-watching.md)
-* [Project 2 Planning: Ideation](../../projects/project-2-server-side-app.md#ideation-phase-1)
-
-### CD27
-
-#### Pre-Class
-
-* [3.4.4: Inner Join](../../3-backend-application/3.4-sql-language/3.4.4-inner-join.md)
-* [3.6.2: User Auth](../../3-backend-application/3.6-authentication/3.6.2-user-auth.md)
-
-#### In-Class
-
-* [3.ICE.7: Inner Joins](../../3-backend-application/3.ice-in-class-exercises/3.ice.7-inner-join.md)
-
-#### Post-Class
-
-* [3.POCE.6: Bird Watching Users](../../3-backend-application/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
-
-### CD28
-
-#### Pre-Class
-
-* [3.4.3: SQL Relationships \(Many to Many\)](../../3-backend-application/3.4-sql-language/3.4.3-sql-relationships-many-to-many.md)
-* [3.6.3: Password Hashing](../../3-backend-application/3.6-authentication/3.6.3-password-hashing.md)
-* [3.5.5: Forms for One-to-Many Relationships](../../3-backend-application/3.5-sql-applications/3.5.5-forms-for-one-to-many-relationships.md)
-
-#### In-Class
-
-* [3.ICE.8: Many-to-Many](../../3-backend-application/3.ice-in-class-exercises/3.ice.8-many-to-many.md)
-
-#### Post-Class
-
-* [3.POCE.7: Bird Watching Species](../../3-backend-application/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
 
