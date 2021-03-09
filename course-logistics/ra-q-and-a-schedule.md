@@ -16,8 +16,10 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
-| Wed | 3 Mar 2021 | 3-345pm | [Geoff Cheah](https://www.linkedin.com/in/geoffreycheah/) | Senior Software Engineer at BCG Digital Ventures |
-| Wed | 24 Feb 2021 | 3-345pm | [Frank Chen](https://www.linkedin.com/in/frankchn/) | Senior Software Engineer at Google Tensorflow, Founding Engineer at Coursera |
+| Wed | 17 Mar 2021 | 3-4pm | [Yong Jie Wong](https://www.linkedin.com/in/wongyongjie/) | Co-Founder and Technical Lead at Glints |
+| Tue | 9 Mar 2021 | 6-7pm | [Michael Cheng](https://www.linkedin.com/in/miccheng/) | Lead Engineer at GovTech Singapore, Founder at Engineers.SG |
+| Wed | 3 Mar 2021 | 3-345pm | [Geoff Cheah](https://www.linkedin.com/in/geoffreycheah/) \([video](https://youtu.be/b1rONDnGLw0)\) | Senior Software Engineer at BCG Digital Ventures |
+| Wed | 24 Feb 2021 | 3-345pm | [Frank Chen](https://www.linkedin.com/in/frankchn/) \([video](https://youtu.be/1qv4bifHSK8)\) | Senior Software Engineer at Google Tensorflow, Founding Engineer at Coursera |
 | Wed | 17 Feb 2021 | 3-345pm | [Edwin Feng](https://www.linkedin.com/in/edwin-feng-56742a27/) \([video](https://youtu.be/diCmAEJCdOc)\) | CTO at Talenox |
 | Wed | 10 Feb 2021 | 3-345pm | [Yong Cheng Toh](https://www.linkedin.com/in/yong-cheng-sebastian-toh-1361642b/) \([video](https://youtu.be/FVIQcT2sNjg)\) | Senior Staff Software Engineer at Xendit |
 | Wed | 3 Feb 2021 | 3-345pm | [Akira Wong](https://www.linkedin.com/in/awongh/) \([video](https://youtu.be/9S_Znw73BTg)\) | Head of Education at Rocket Academy |
