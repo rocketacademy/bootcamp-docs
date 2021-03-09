@@ -6,44 +6,44 @@
 
 #### Pre-Class
 
-* [D.10.5: Sliding Windows](../../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 #### In-Class
 
-* [D.10.5: Sliding Windows](../../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 #### Post-Class
 
-* [Project 5](../../projects/project-5-group-react-app.md)
+* [Project 5](../projects/project-5-group-react-app.md)
 * Project 5 Feature Freeze
-* [D.10.5: Sliding Windows](../../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 ### Course Day 21.2
 
 #### Pre-Class
 
-* [D.10.6: Bit Manipulation](../../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 #### In-Class
 
-* [D.10.6: Bit Manipulation](../../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 #### Post-Class
 
-* [Project 5](../../projects/project-5-group-react-app.md)
-* [D.10.6: Bit Manipulation](../../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* [Project 5](../projects/project-5-group-react-app.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 ### Course Day 21.3
 
 #### Pre-Class
 
-* [CP.1: Job Application Strategy](../../career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Portfolio](../../career-prep/cp.2-portfolio.md)
-* [CP.3: Resume](../../career-prep/cp.3-resume.md)
+* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
+* [CP.2: Portfolio](../career-prep/cp.2-portfolio.md)
+* [CP.3: Resume](../career-prep/cp.3-resume.md)
 
 #### In-Class
 
-* [Project 5 Presentations](../../course-logistics/course-methodology.md#project-presentations)
+* [Project 5 Presentations](../course-logistics/course-methodology.md#project-presentations)
 
 #### Post-Class
 

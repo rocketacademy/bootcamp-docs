@@ -14,7 +14,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 19-23 Oct | HTML, CSS, DOM, ES6 | - | [CD1.1](course-days/course-weeks-1-4.md#course-day-1-1) | [CD2]() | [CD3]() | [CD4]() | [CD5]() |
+| 1 | 19-23 Oct | HTML, CSS, DOM, ES6 | - | [CD1.1](course-weeks-1-4.md#course-day-1-1) | [CD2]() | [CD3]() | [CD4]() | [CD5]() |
 | 2 | 26-30 Oct | Advanced CSS | [P1](../projects/project-1-video-poker.md) | [CD6]() | [CD7]() | [CD8]() | [CD9]() | [CD10]() |
 | 3 | 2-6 Nov | Node.js, HTTP, File Servers | - | [CD11]() | [CD12]() | [CD13]() | [CD14]() | [CD15]() |
 | 4 | 9-13 Nov | AWS, JSON, Express.js, EJS | - | [CD16]() | [CD17]() | [CD18]() | [CD19]() | [CD20]() |

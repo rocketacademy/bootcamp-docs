@@ -4,15 +4,14 @@
 
 ## 📅 Course Schedule
 
-* [Course Days](course-schedule/course-days/README.md)
-  * [Course Weeks 1-4](course-schedule/course-days/course-weeks-1-4.md)
-  * [Course Weeks 5-8](course-schedule/course-days/course-weeks-5-8.md)
-  * [Course Weeks 9-12](course-schedule/course-days/course-weeks-9-12.md)
-  * [Course Weeks 13-16](course-schedule/course-days/course-weeks-13-16.md)
-  * [Course Weeks 17-20](course-schedule/course-days/course-weeks-17-20.md)
-  * [Course Weeks 21-23](course-schedule/course-days/course-weeks-21-23.md)
 * [Batch 1 Schedule](course-schedule/batch-1-schedule.md)
 * [Batch 2 Schedule](course-schedule/batch-2-schedule.md)
+* [Course Weeks 1-4](course-schedule/course-weeks-1-4.md)
+* [Course Weeks 5-8](course-schedule/course-weeks-5-8.md)
+* [Course Weeks 9-12](course-schedule/course-weeks-9-12.md)
+* [Course Weeks 13-16](course-schedule/course-weeks-13-16.md)
+* [Course Weeks 17-20](course-schedule/course-weeks-17-20.md)
+* [Course Weeks 21-23](course-schedule/course-weeks-21-23.md)
 
 ## 🛠 Course Logistics
 
