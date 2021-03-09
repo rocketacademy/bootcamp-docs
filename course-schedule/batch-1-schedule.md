@@ -8,7 +8,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 21 | 8-12 Mar | Testing, Sockets | P6 | [CD20.3](course-weeks-17-20.md#course-day-20-3) | [CD20.4](course-weeks-17-20.md#course-day-20-4) | [CD20.5](course-weeks-17-20.md#course-day-20-5) | [CD21.1](course-weeks-21-23.md#course-day-21-1) | [CD21.2](course-weeks-21-23.md#course-day-21-2) |
+| 21 | 8-12 Mar | Testing, Sockets | P6 | [CD21.3](course-weeks-21-23.md#course-day-21-3) | [CD21.4](course-weeks-21-23.md#course-day-21-4) | [CD21.5](course-weeks-21-23.md#course-day-21-5) | [CD22.1](course-weeks-21-23.md#course-day-22-1) | [CD22.2](course-weeks-21-23.md#course-day-22-2) |
 
 ## Overall Schedule
 
@@ -34,8 +34,8 @@ description: 18 Oct - 2 Apr
 | 18 | 15-19 Feb | React Router, Styled Components, Graphs, Heaps | - | [CD17.3](course-weeks-17-20.md#course-day-17-3) | [CD17.4](course-weeks-17-20.md#course-day-17-4) | [CD17.5](course-weeks-17-20.md#course-day-17-5) | [CD18.1](course-weeks-17-20.md#course-day-18-1) | [CD18.2](course-weeks-17-20.md#course-day-18-2) |
 | 19 | 22-26 Feb | Dynamic Programming | [P5](../projects/project-5-group-react-app.md) | [CD18.3](course-weeks-17-20.md#course-day-18-3) | [CD18.4](course-weeks-17-20.md#course-day-18-4) | [CD18.5](course-weeks-17-20.md#course-day-18-5) | [CD19.1](course-weeks-17-20.md#course-day-19-1) | [CD19.2](course-weeks-17-20.md#course-day-19-2) |
 | 20 | 1-5 Mar | Common Algorithm Patterns | [P5](../projects/project-5-group-react-app.md) | [CD19.3](course-weeks-17-20.md#course-day-19-3) | [CD19.4](course-weeks-17-20.md#course-day-19-4) | [CD19.5](course-weeks-17-20.md#course-day-19-5) | [CD20.1](course-weeks-17-20.md#course-day-20-1) | [CD20.2](course-weeks-17-20.md#course-day-20-2) |
-| 21 | 8-12 Mar | Testing, Sockets | P6 | [CD20.3](course-weeks-17-20.md#course-day-20-3) | [CD20.4](course-weeks-17-20.md#course-day-20-4) | [CD20.5](course-weeks-17-20.md#course-day-20-5) | [CD21.1](course-weeks-21-23.md#course-day-21-1) | [CD21.2](course-weeks-21-23.md#course-day-21-2) |
-| 22 | 15-19 Mar | Cron Jobs, Server-Side APIs | P6 | [CD21.3](course-weeks-21-23.md#course-day-21-3) | [CD21.4](course-weeks-21-23.md#course-day-21-4) | [CD21.5](course-weeks-21-23.md#course-day-21-5) | [CD22.1](course-weeks-21-23.md#course-day-22-1) | [CD22.2](course-weeks-21-23.md#course-day-22-2) |
-| 23 | 22-26 Mar | React Native | P6 | [CD22.3](course-weeks-21-23.md#course-day-22-3) | [CD22.4](course-weeks-21-23.md#course-day-22-4) | [CD22.5](course-weeks-21-23.md#course-day-22-5) | [CD23.1](course-weeks-21-23.md#course-day-23-1) | [CD23.2](course-weeks-21-23.md#course-day-23-2) |
-| 24 | 29 Mar - 2 Apr | Naive Bayes Data Processing | P6 | [CD23.3](course-weeks-21-23.md#course-day-23-3) | [CD23.4](course-weeks-21-23.md#course-day-23-4) | [CD23.5](course-weeks-21-23.md#course-day-23-5) | Bonus | **PH** |
+| 21 | 8-12 Mar | Testing, Sockets | P6 | [CD21.3](course-weeks-21-23.md#course-day-21-3) | [CD21.4](course-weeks-21-23.md#course-day-21-4) | [CD21.5](course-weeks-21-23.md#course-day-21-5) | [CD22.1](course-weeks-21-23.md#course-day-22-1) | [CD22.2](course-weeks-21-23.md#course-day-22-2) |
+| 22 | 15-19 Mar | Cron Jobs, Server-Side APIs | P6 | [CD22.3](course-weeks-21-23.md#course-day-22-3) | [CD22.4](course-weeks-21-23.md#course-day-22-4) | [CD22.5](course-weeks-21-23.md#course-day-22-5) | [CD23.1](course-weeks-21-23.md#course-day-23-1) | [CD23.2](course-weeks-21-23.md#course-day-23-2) |
+| 23 | 22-26 Mar | React Native | P6 | [CD23.3](course-weeks-21-23.md#course-day-23-3) | [CD23.4](course-weeks-21-23.md#course-day-23-4) | [CD23.5](course-weeks-21-23.md#course-day-23-5) | Bonus | Bonus |
+| 24 | 29 Mar - 2 Apr | Naive Bayes Data Processing | P6 | Bonus | Bonus | Bonus | Bonus | **PH** |
 
