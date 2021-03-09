@@ -8,34 +8,18 @@
 
 #### Pre-Class
 
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 #### In-Class
 
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* Project 5 Feature Freeze
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 ### Course Day 21.2
-
-#### Pre-Class
-
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
-
-#### In-Class
-
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
-
-#### Post-Class
-
-* [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
-
-### Course Day 21.3
 
 #### Pre-Class
 
@@ -51,7 +35,7 @@
 
 * Project 5 Post-Mortems
 
-### Course Day 21.4
+### Course Day 21.3
 
 #### Due
 
@@ -66,7 +50,7 @@
 
 ## Module 9: Advanced Topics
 
-### Course Day 21.5
+### Course Day 21.4
 
 #### Due
 
@@ -82,9 +66,7 @@
 
 #### Post-Class
 
-## Course Week 22
-
-### Course Day 22.1
+### Course Day 21.5
 
 #### Pre-Class
 
@@ -94,7 +76,9 @@
 
 #### Post-Class
 
-### Course Day 22.2
+## Course Week 22
+
+### Course Day 22.1
 
 #### Due
 
@@ -108,7 +92,7 @@
 
 #### Post-Class
 
-### Course Day 22.3
+### Course Day 22.2
 
 #### Due
 
@@ -119,6 +103,16 @@
 #### Pre-Class
 
 * 9.3: Django
+
+#### In-Class
+
+#### Post-Class
+
+* 9.POCE.1: Django App
+
+### Course Day 22.3
+
+#### Pre-Class
 
 #### In-Class
 
@@ -140,19 +134,19 @@
 
 #### Pre-Class
 
+* 9.4: React Native
+
 #### In-Class
 
 #### Post-Class
 
-* 9.POCE.1: Django App
+* 9.POCE.2: React Native
 
 ## Course Week 23
 
 ### Course Day 23.1
 
 #### Pre-Class
-
-* 9.4: React Native
 
 #### In-Class
 
@@ -164,16 +158,6 @@
 
 #### Pre-Class
 
-#### In-Class
-
-#### Post-Class
-
-* 9.POCE.2: React Native
-
-### Course Day 23.3
-
-#### Pre-Class
-
 * 9.5: ML - Naive Bayes
 
 #### In-Class
@@ -181,6 +165,14 @@
 #### Post-Class
 
 * 9.POCE.3: Spam Filter
+
+### Course Day 23.3
+
+#### Pre-Class
+
+#### In-Class
+
+#### Post-Class
 
 ### Course Day 23.4
 

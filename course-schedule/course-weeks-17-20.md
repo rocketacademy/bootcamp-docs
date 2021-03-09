@@ -8,35 +8,19 @@
 
 #### Pre-Class
 
-None
+* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 ### Course Day 17.2
-
-#### Pre-Class
-
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-#### In-Class
-
-* [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-#### Post-Class
-
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
-### Course Day 17.3
 
 #### Pre-Class
 
@@ -52,7 +36,7 @@ No pre-class material for today.
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
 * [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
-### Course Day 17.4
+### Course Day 17.3
 
 #### Pre-Class
 
@@ -69,7 +53,7 @@ No pre-class material for today.
 
 ## Module 8: Advanced React
 
-### Course Day 17.5
+### Course Day 17.4
 
 #### Pre-Class
 
@@ -84,9 +68,7 @@ No pre-class material for today.
 
 * [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
-## Course Week 18
-
-### Course Day 18.1
+### Course Day 17.5
 
 #### Due
 
@@ -107,7 +89,9 @@ No pre-class material for today.
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 
-### Course Day 18.2
+## Course Week 18
+
+### Course Day 18.1
 
 #### Pre-Class
 
@@ -123,7 +107,7 @@ No pre-class material for today.
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
-### Course Day 18.3
+### Course Day 18.2
 
 #### Pre-Class
 
@@ -140,7 +124,7 @@ No pre-class material for today.
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
-### Course Day 18.4
+### Course Day 18.3
 
 #### Pre-Class
 
@@ -156,7 +140,7 @@ No pre-class material for today.
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
-### Course Day 18.5
+### Course Day 18.4
 
 #### Pre-Class
 
@@ -172,9 +156,7 @@ No pre-class material for today.
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
-## Course Week 19
-
-### Course Day 19.1
+### Course Day 18.5
 
 #### Pre-Class
 
@@ -190,7 +172,9 @@ No pre-class material for today.
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
-### Course Day 19.2
+## Course Week 19
+
+### Course Day 19.1
 
 #### Pre-Class
 
@@ -205,7 +189,7 @@ No pre-class material for today.
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
-### Course Day 19.3
+### Course Day 19.2
 
 #### Pre-Class
 
@@ -221,7 +205,7 @@ No pre-class material for today.
 * [Project 5 Ideation \(user stories, wireframes, ERD\)](../projects/project-5-group-react-app.md#ideation-phase-2)
 * [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
 
-### Course Day 19.4
+### Course Day 19.3
 
 #### Pre-Class
 
@@ -235,6 +219,21 @@ None
 
 * [Project 5](../projects/project-5-group-react-app.md)
 * Project 5 Ideation Instructor Review \(Slack\)
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
+### Course Day 19.4
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
+#### Post-Class
+
+* [Project 5](../projects/project-5-group-react-app.md)
 * [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
 
 ### Course Day 19.5
@@ -258,33 +257,18 @@ None
 
 #### Pre-Class
 
-None
+* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
 
 #### In-Class
 
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
 
 ### Course Day 20.2
-
-#### Pre-Class
-
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
-
-#### In-Class
-
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
-
-#### Post-Class
-
-* [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
-
-### Course Day 20.3
 
 #### Pre-Class
 
@@ -300,7 +284,7 @@ None
 * Project 5 Midpoint Meeting
 * [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
 
-### Course Day 20.4
+### Course Day 20.3
 
 #### Pre-Class
 
@@ -314,19 +298,35 @@ None
 
 * [Project 5](../projects/project-5-group-react-app.md)
 * [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
+
+### Course Day 20.4
+
+#### Pre-Class
+
+* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+
+#### In-Class
+
+* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+
+#### Post-Class
+
+* [Project 5](../projects/project-5-group-react-app.md)
+* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
 
 ### Course Day 20.5
 
 #### Pre-Class
 
-* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 #### In-Class
 
-* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+* Project 5 Feature Freeze
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 

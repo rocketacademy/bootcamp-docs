@@ -17,6 +17,7 @@ None
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [Project 3 Feature Freeze](../projects/project-3-full-stack-game.md#project-timeline)
 
 ### Course Day 13.2
 
@@ -31,7 +32,6 @@ None
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [Project 3 Feature Freeze](../projects/project-3-full-stack-game.md#project-timeline)
 
 ### Course Day 13.3
 
@@ -55,31 +55,13 @@ None
 
 #### In-Class
 
-None
-
-#### Post-Class
-
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-
-### Course Day 13.5
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
 * [Project 3 Presentations](../course-logistics/course-methodology.md#project-presentations)
 
 #### Post-Class
 
 * [Project 3 Post-Mortems](../projects/project-3-full-stack-game.md#post-mortem-meeting)
 
-## Module 7: React
-
-## Course Week 14
-
-### Course Day 14.1
+### Course Day 13.5
 
 #### Pre-Class
 
@@ -95,7 +77,11 @@ None
 
 * [7.POCE.1: JSX Bug Reports](../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
 
-### Course Day 14.2
+## Module 7: React
+
+## Course Week 14
+
+### Course Day 14.1
 
 #### Pre-Class
 
@@ -112,7 +98,7 @@ None
 
 * [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 
-### Course Day 14.3
+### Course Day 14.2
 
 #### Pre-Class
 
@@ -128,7 +114,7 @@ None
 
 * [7.POCE.2: React Tic Tac Toe](../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
 
-### Course Day 14.4
+### Course Day 14.3
 
 #### Pre-Class
 
@@ -145,7 +131,7 @@ None
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 
-### Course Day 14.5
+### Course Day 14.4
 
 #### Pre-Class
 
@@ -161,9 +147,7 @@ None
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-## Course Week 15
-
-### Course Day 15.1
+### Course Day 14.5
 
 #### Pre-Class
 
@@ -179,7 +163,9 @@ None
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-### Course Day 15.2
+## Course Week 15
+
+### Course Day 15.1
 
 #### Pre-Class
 
@@ -194,7 +180,7 @@ None
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-### Course Day 15.3
+### Course Day 15.2
 
 #### Pre-Class
 
@@ -210,7 +196,7 @@ None
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
-### Course Day 15.4
+### Course Day 15.3
 
 #### Pre-Class
 
@@ -226,7 +212,7 @@ None
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
 * [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
-### Course Day 15.5
+### Course Day 15.4
 
 #### Pre-Class
 
@@ -242,9 +228,7 @@ None
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
 * [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
-## Course Week 16
-
-### Course Day 16.1
+### Course Day 15.5
 
 #### Pre-Class
 
@@ -254,6 +238,24 @@ None
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
+* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
+
+#### Post-Class
+
+* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
+
+## Course Week 16
+
+### Course Day 16.1
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+* [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### Post-Class
@@ -286,33 +288,33 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 ### Course Day 16.4
 
 #### Pre-Class
 
-None
+* [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 ### Course Day 16.5
 
 #### Pre-Class
 
-* [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+None
 
 #### In-Class
 

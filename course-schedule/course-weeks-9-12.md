@@ -167,13 +167,11 @@ None
 
 * [5.POCE.2: Bug Reports AJAX Users](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
 
+## Module 6: Frontend Infrastructure
+
 ## Course Week 11
 
 ### Course Day 11.1
-
-## Module 6: Frontend Infrastructure
-
-### Course Day 11.2
 
 #### Pre-Class
 
@@ -188,7 +186,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### Course Day 11.3
+### Course Day 11.2
 
 #### Pre-Class
 
@@ -203,7 +201,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### Course Day 11.4
+### Course Day 11.3
 
 #### Pre-Class
 
@@ -218,7 +216,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### Course Day 11.5
+### Course Day 11.4
 
 #### Pre-Class
 
@@ -231,6 +229,20 @@ None
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
+
+### Course Day 11.5
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 
 ## Course Week 12
 
@@ -289,6 +301,7 @@ None
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
 
 ### Course Day 12.5
 
@@ -303,5 +316,4 @@ None
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
 
