@@ -55,13 +55,13 @@ Guidance:
 
 ### Kai's Resume
 
-![](../.gitbook/assets/jie-ping-20210306-18.28.12%20%283%29.png)
+![](../.gitbook/assets/jie-ping-20210306-18.28.12%20%284%29%20%283%29.png)
 
 ### Past Students' Resumes
 
 ![](../.gitbook/assets/jie-ping-20210306-18.29.59.png)
 
-![](../.gitbook/assets/jie-ping-20210306-18.30.13.png)
+![](../.gitbook/assets/jie-ping-20210306-18.30.13%20%281%29.png)
 
 ![](../.gitbook/assets/jie-ping-20210306-18.29.49%20%281%29.png)
 
