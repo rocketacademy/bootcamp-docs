@@ -1,5 +1,7 @@
 # Course Weeks 13-16
 
+## Module 6: Frontend Infrastructure \(Cont'd\)
+
 ## Course Week 13
 
 ### Course Day 13.1
@@ -72,6 +74,8 @@ None
 #### Post-Class
 
 * [Project 3 Post-Mortems](../projects/project-3-full-stack-game.md#post-mortem-meeting)
+
+## Module 7: React
 
 ## Course Week 14
 

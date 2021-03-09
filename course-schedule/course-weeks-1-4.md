@@ -1,5 +1,7 @@
 # Course Weeks 1-4
 
+## Module 1: Frontend Basics
+
 ## Course Week 1
 
 ### Course Day 1.1
@@ -182,6 +184,8 @@ No pre-class material today.
 
 * [Instructor-Led Code Review](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#instructor-code-review)
 
+## Module 2: Backend Basics
+
 ### Course Day 3.2
 
 #### Pre-Class
@@ -315,35 +319,37 @@ Node.js
 
 * [2.POCE.6: Todo List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
+## Module 3: Backend Applications
+
 ### Course Day 4.4
 
 #### Pre-Class
 
-* [3.0: Overview](../3-backend-application/3.0-module-3-overview.md)
+* [3.0: Overview](../3-backend-applications/3.0-module-3-overview.md)
 * [3.1: Intro to Express.js](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/3-backend-application/3.1-express-js)
-* [3.1.1: Express.js + JSON](../3-backend-application/3.1-express-js/3.1.1-express.js-+-json.md)
+* [3.1.1: Express.js + JSON](../3-backend-applications/3.1-express-js/3.1.1-express.js-+-json.md)
 
 #### In-Class
 
-* [3.ICE.1: Bigfoot](../3-backend-application/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
+* [3.ICE.1: Bigfoot](../3-backend-applications/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
 
 #### Post-Class
 
-* [3.POCE.1: Express Noodle App](../3-backend-application/3.poce-post-class-exercises/3.poce.1-express-noodle-app.md)
+* [3.POCE.1: Express Noodle App](../3-backend-applications/3.poce-post-class-exercises/3.poce.1-express-noodle-app.md)
 
 ### Course Day 4.5
 
 #### Pre-Class
 
-* [3.2: ES6 Spread / Destructure](../3-backend-application/3.2-es6-spread-destructure.md)
+* [3.2: ES6 Spread / Destructure](../3-backend-applications/3.2-es6-spread-destructure.md)
 * [3.3: Intro to EJS](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/3-backend-application/3.3-ejs)
-* [3.3.1: EJS Loops](../3-backend-application/3.3-ejs/3.3.1-ejs-loops.md)
+* [3.3.1: EJS Loops](../3-backend-applications/3.3-ejs/3.3.1-ejs-loops.md)
 
 #### In-Class
 
-* [3.ICE.2: Bigfoot EJS](../3-backend-application/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
+* [3.ICE.2: Bigfoot EJS](../3-backend-applications/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
 
 #### Post-Class
 
-* [3.POCE.2: Express, EJS Noodle App](../3-backend-application/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
+* [3.POCE.2: Express, EJS Noodle App](../3-backend-applications/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
 

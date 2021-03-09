@@ -1,5 +1,7 @@
 # Course Weeks 9-12
 
+## Module 3: Backend Applications \(Cont'd\)
+
 ## Course Week 9
 
 ### Course Day 9.1
@@ -15,6 +17,8 @@ None
 #### Post-Class
 
 * [Project 2 Post-Mortems](../projects/project-2-server-side-app.md#project-timeline)
+
+## Module 4: Backend Structure
 
 ### Course Day 9.2
 
@@ -102,16 +106,18 @@ None
 
 * [4.POCE.4: Drummers](../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
 
+## Module 5: Full-Stack Applications
+
 ### Course Day 10.2
 
 #### Pre-Class
 
-* [5.1: Browser DOM JS](../5-full-stack-application/5.1-dom-manipulation.md)
+* [5.1: Browser DOM JS](../5-full-stack-applications/5.1-dom-manipulation.md)
 * [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table.md)
 
 #### In-Class
 
-* [5.ICE.1: Modal](../5-full-stack-application/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
+* [5.ICE.1: Modal](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
 
 #### Post-Class
 
@@ -126,7 +132,7 @@ None
 
 #### In-Class
 
-* [5.ICE.2: AJAX](../5-full-stack-application/5.ice-in-class-exercises/5.ice.2-ajax.md)
+* [5.ICE.2: AJAX](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.2-ajax.md)
 
 #### Post-Class
 
@@ -137,15 +143,15 @@ None
 #### Pre-Class
 
 * [4.2.7: Sequelize Eager Loading](../4-backend-structure/4.2-sequelize/4.2.7-sequelize-eager-loading.md)
-* [5.2.1: AJAX POST](../5-full-stack-application/5.2-ajax/5.2.1-ajax-post-requests.md)
+* [5.2.1: AJAX POST](../5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 #### In-Class
 
-* [5.ICE.3: Bug Reports AJAX](../5-full-stack-application/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
+* [5.ICE.3: Bug Reports AJAX](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
 
 #### Post-Class
 
-* [5.POCE.1: Bug Reports AJAX](../5-full-stack-application/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
+* [5.POCE.1: Bug Reports AJAX](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
 
 ### Course Day 10.5
 
@@ -155,22 +161,24 @@ None
 
 #### In-Class
 
-* [5.ICE.4: Cross Domain AJAX](../5-full-stack-application/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
+* [5.ICE.4: Cross Domain AJAX](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
 
 #### Post-Class
 
-* [5.POCE.2: Bug Reports AJAX Users](../5-full-stack-application/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
+* [5.POCE.2: Bug Reports AJAX Users](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
 
 ## Course Week 11
 
 ### Course Day 11.1
+
+## Module 6: Frontend Infrastructure
 
 ### Course Day 11.2
 
 #### Pre-Class
 
 * [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/6-frontend-infrastructure/6.1-webpack)
-* [5.2.2: AJAX Cards](../5-full-stack-application/5.2-ajax/5.2.2-ajax-cards.md)
+* [5.2.2: AJAX Cards](../5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
 
 #### In-Class
 
@@ -178,7 +186,7 @@ None
 
 #### Post-Class
 
-* [5.POCE.3: AJAX Cards](../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ### Course Day 11.3
 
@@ -193,7 +201,7 @@ None
 
 #### Post-Class
 
-* [5.POCE.3: AJAX Cards](../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ### Course Day 11.4
 
@@ -208,7 +216,7 @@ None
 
 #### Post-Class
 
-* [5.POCE.3: AJAX Cards](../5-full-stack-application/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
 ### Course Day 11.5
 

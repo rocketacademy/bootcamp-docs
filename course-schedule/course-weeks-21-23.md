@@ -1,5 +1,7 @@
 # Course Weeks 21-23
 
+## Module 8: Advanced React \(Cont'd\)
+
 ## Course Week 21
 
 ### Course Day 21.1
@@ -61,6 +63,8 @@
 #### In-Class
 
 #### Post-Class
+
+## Module 9: Advanced Topics
 
 ### Course Day 21.5
 
