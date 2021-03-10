@@ -8,7 +8,9 @@
 
 #### Pre-Class
 
-* 9.2: Testing
+* [9.1.1: XSS](../9-advanced-topics/9.1-security/9.1.1-xss.md)
+* [9.1.2: CSRF](../9-advanced-topics/9.1-security/9.1.2-csrf.md)
+* [9.1.3: SQL Injection](../9-advanced-topics/9.1-security/9.1.3-sql-injection.md)
 
 #### In-Class
 
@@ -18,23 +20,20 @@
 
 #### Due
 
-* Jobs list 1st draft
+* Resume final draft
+* Live portfolio page
+* Initial jobs list
 
 #### Pre-Class
 
-* 9.2: Testing: TDD
+* [9.2: Testing](../9-advanced-topics/9.2-testing/)
+* [9.2.1: Unit Testing](../9-advanced-topics/9.2-testing/9.2.1-unit-testing.md)
 
 #### In-Class
 
 #### Post-Class
 
 ### Course Day 21.3
-
-#### Due
-
-* Live portfolio page
-* Resume final draft
-* Jobs list final draft
 
 #### Pre-Class
 
