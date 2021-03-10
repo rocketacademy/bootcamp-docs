@@ -8,7 +8,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 21 | 8-12 Mar | Testing, Sockets | P6 | [CD21.3](course-weeks-21-23.md#course-day-21-3) | [CD21.4](course-weeks-21-23.md#course-day-21-4) | [CD21.5](course-weeks-21-23.md#course-day-21-5) | [CD22.1](course-weeks-21-23.md#course-day-22-1) | [CD22.2](course-weeks-21-23.md#course-day-22-2) |
+| 21 | 8-12 Mar | Testing, Sockets | P6 | [CD20.3](course-weeks-17-20.md#course-day-20-3) | [CD20.4](course-weeks-17-20.md#course-day-20-4) | [CD20.5](course-weeks-17-20.md#course-day-20-5) | [CD21.1](course-weeks-21-23.md#course-day-21-1) | [CD21.2](course-weeks-21-23.md#course-day-21-2) |
 
 ## Overall Schedule
 
