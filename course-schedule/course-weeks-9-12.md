@@ -1,26 +1,10 @@
 # Course Weeks 9-12
 
-## Module 3: Backend Applications \(Cont'd\)
+## Module 4: Backend Structure
 
 ## Course Week 9
 
 ### Course Day 9.1
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Project 2 Presentations](../course-logistics/course-methodology.md#project-presentations)
-
-#### Post-Class
-
-* [Project 2 Post-Mortems](../projects/project-2-server-side-app.md#project-timeline)
-
-## Module 4: Backend Structure
-
-### Course Day 9.2
 
 #### Pre-Class
 
@@ -36,7 +20,7 @@ None
 * [4.POCE.1: Heroku Deploy](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
 * [Project Demo Video ](../projects/project-2-server-side-app.md#technical-blog-post) \(Due Course Day 9.4\)
 
-### Course Day 9.3
+### Course Day 9.2
 
 #### Pre-Class
 
@@ -51,7 +35,7 @@ None
 
 * [Project Demo Video ](../projects/project-2-server-side-app.md#technical-blog-post) \(Due Course Day 9.4\)
 
-### Course Day 9.4
+### Course Day 9.3
 
 #### Due
 
@@ -70,7 +54,7 @@ None
 
 * [4.POCE.2: Sequelize CLI](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
 
-### Course Day 9.5
+### Course Day 9.4
 
 #### Due
 
@@ -90,9 +74,7 @@ None
 
 * [4.POCE.4: Drummers](../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
 
-## Course Week 10
-
-### Course Day 10.1
+### Course Day 9.5
 
 #### Pre-Class
 
@@ -108,7 +90,9 @@ None
 
 ## Module 5: Full-Stack Applications
 
-### Course Day 10.2
+## Course Week 10
+
+### Course Day 10.1
 
 #### Pre-Class
 
@@ -123,7 +107,7 @@ None
 
 * [4.POCE.3: Project 2 MVC Refactor](../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-### Course Day 10.3
+### Course Day 10.2
 
 #### Pre-Class
 
@@ -138,7 +122,7 @@ None
 
 * [4.POCE.3: Project 2 MVC Refactor](../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-### Course Day 10.4
+### Course Day 10.3
 
 #### Pre-Class
 
@@ -153,7 +137,7 @@ None
 
 * [5.POCE.1: Bug Reports AJAX](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
 
-### Course Day 10.5
+### Course Day 10.4
 
 #### Pre-Class
 
@@ -169,9 +153,7 @@ None
 
 ## Module 6: Frontend Infrastructure
 
-## Course Week 11
-
-### Course Day 11.1
+### Course Day 10.5
 
 #### Pre-Class
 
@@ -186,7 +168,9 @@ None
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### Course Day 11.2
+## Course Week 11
+
+### Course Day 11.1
 
 #### Pre-Class
 
@@ -201,7 +185,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### Course Day 11.3
+### Course Day 11.2
 
 #### Pre-Class
 
@@ -216,7 +200,7 @@ None
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-### Course Day 11.4
+### Course Day 11.3
 
 #### Pre-Class
 
@@ -229,6 +213,20 @@ None
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
+
+### Course Day 11.4
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 
 ### Course Day 11.5
 
@@ -273,6 +271,7 @@ None
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
 
 ### Course Day 12.3
 
@@ -301,7 +300,6 @@ None
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
 
 ### Course Day 12.5
 

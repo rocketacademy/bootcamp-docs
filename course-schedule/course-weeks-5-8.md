@@ -314,9 +314,9 @@ None
 
 #### In-Class
 
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 2 Presentations](../course-logistics/course-methodology.md#project-presentations)
 
 #### Post-Class
 
-* [Project 2 Implementation](../projects/project-2-server-side-app.md#recommended-order-of-implementation)
+* [Project 2 Post-Mortems](../projects/project-2-server-side-app.md#project-timeline)
 

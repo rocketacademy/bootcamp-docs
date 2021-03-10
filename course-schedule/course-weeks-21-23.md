@@ -1,72 +1,10 @@
 # Course Weeks 21-23
 
-## Module 8: Advanced React \(Cont'd\)
+## Module 9: Advanced Topics \(Cont'd\)
 
 ## Course Week 21
 
 ### Course Day 21.1
-
-#### Pre-Class
-
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
-
-#### In-Class
-
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
-
-#### Post-Class
-
-* [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
-
-### Course Day 21.2
-
-#### Pre-Class
-
-* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Portfolio](../career-prep/cp.2-portfolio.md)
-* [CP.3: Resume](../career-prep/cp.3-resume.md)
-
-#### In-Class
-
-* [Project 5 Presentations](../course-logistics/course-methodology.md#project-presentations)
-
-#### Post-Class
-
-* Project 5 Post-Mortems
-
-### Course Day 21.3
-
-#### Due
-
-* Portfolio content 1st draft
-* Resume 1st draft
-
-#### Pre-Class
-
-#### In-Class
-
-#### Post-Class
-
-## Module 9: Advanced Topics
-
-### Course Day 21.4
-
-#### Due
-
-* Portfolio content 2nd draft
-* Resume 2nd draft
-* Project 5 Video
-
-#### Pre-Class
-
-* [9.1 Security](https://github.com/rocketacademy/bootcamp-docs/tree/f357a152ccbae2bb3e0d4bd14c4385b46e4fd5df/9-advanced-topics/9.1-security)
-
-#### In-Class
-
-#### Post-Class
-
-### Course Day 21.5
 
 #### Pre-Class
 
@@ -76,9 +14,7 @@
 
 #### Post-Class
 
-## Course Week 22
-
-### Course Day 22.1
+### Course Day 21.2
 
 #### Due
 
@@ -92,7 +28,7 @@
 
 #### Post-Class
 
-### Course Day 22.2
+### Course Day 21.3
 
 #### Due
 
@@ -110,7 +46,7 @@
 
 * 9.POCE.1: Django App
 
-### Course Day 22.3
+### Course Day 21.4
 
 #### Pre-Class
 
@@ -120,7 +56,7 @@
 
 * 9.POCE.1: Django App
 
-### Course Day 22.4
+### Course Day 21.5
 
 #### Pre-Class
 
@@ -130,7 +66,9 @@
 
 * 9.POCE.1: Django App
 
-### Course Day 22.5
+## Course Week 22
+
+### Course Day 22.1
 
 #### Pre-Class
 
@@ -142,9 +80,7 @@
 
 * 9.POCE.2: React Native
 
-## Course Week 23
-
-### Course Day 23.1
+### Course Day 22.2
 
 #### Pre-Class
 
@@ -154,7 +90,7 @@
 
 * 9.POCE.2: React Native
 
-### Course Day 23.2
+### Course Day 22.3
 
 #### Pre-Class
 
@@ -165,6 +101,40 @@
 #### Post-Class
 
 * 9.POCE.3: Spam Filter
+
+### Course Day 22.4
+
+#### Pre-Class
+
+#### In-Class
+
+#### Post-Class
+
+### Course Day 22.5
+
+#### Pre-Class
+
+#### In-Class
+
+#### Post-Class
+
+## Course Week 23
+
+### Course Day 23.1
+
+#### Pre-Class
+
+#### In-Class
+
+#### Post-Class
+
+### Course Day 23.2
+
+#### Pre-Class
+
+#### In-Class
+
+#### Post-Class
 
 ### Course Day 23.3
 
