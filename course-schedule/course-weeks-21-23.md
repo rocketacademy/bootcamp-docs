@@ -43,8 +43,6 @@
 
 #### Post-Class
 
-* 9.POCE.1: Django App
-
 ### Course Day 21.4
 
 #### Pre-Class
@@ -53,8 +51,6 @@
 
 #### Post-Class
 
-* 9.POCE.1: Django App
-
 ### Course Day 21.5
 
 #### Pre-Class
@@ -62,8 +58,6 @@
 #### In-Class
 
 #### Post-Class
-
-* 9.POCE.1: Django App
 
 ## Course Week 22
 
@@ -77,8 +71,6 @@
 
 #### Post-Class
 
-* 9.POCE.2: React Native
-
 ### Course Day 22.2
 
 #### Pre-Class
@@ -86,8 +78,6 @@
 #### In-Class
 
 #### Post-Class
-
-* 9.POCE.2: React Native
 
 ### Course Day 22.3
 
@@ -98,8 +88,6 @@
 #### In-Class
 
 #### Post-Class
-
-* 9.POCE.3: Spam Filter
 
 ### Course Day 22.4
 
