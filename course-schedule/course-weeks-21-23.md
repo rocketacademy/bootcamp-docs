@@ -31,13 +31,15 @@
 
 #### In-Class
 
+* 9.3: Django
+
 #### Post-Class
 
 ### Course Day 21.3
 
 #### Pre-Class
 
-* 9.3: Django
+* [9.2.2: TDD](../9-advanced-topics/9.2-testing/9.2.2-tdd.md)
 
 #### In-Class
 
@@ -46,6 +48,8 @@
 ### Course Day 21.4
 
 #### Pre-Class
+
+* 9.3: Django
 
 #### In-Class
 
