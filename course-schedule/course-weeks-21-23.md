@@ -31,7 +31,7 @@
 
 #### In-Class
 
-* 9.3: Django
+* [Unit Testing](../9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
 
 #### Post-Class
 
@@ -42,6 +42,8 @@
 * [9.2.2: TDD](../9-advanced-topics/9.2-testing/9.2.2-tdd.md)
 
 #### In-Class
+
+* TDD
 
 #### Post-Class
 
