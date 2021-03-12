@@ -286,8 +286,8 @@ None
 #### Pre-Class
 
 * [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Portfolio](../career-prep/cp.2-portfolio.md)
-* [CP.3: Resume](../career-prep/cp.3-resume.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 #### In-Class
 

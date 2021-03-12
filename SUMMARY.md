@@ -362,9 +362,8 @@
 
 * [CP.0: Career Prep Overview](career-prep/cp.0-career-prep-overview.md)
 * [CP.1: Job Application Strategy](career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Portfolio](career-prep/cp.2-portfolio.md)
-* [CP.3: Resume](career-prep/cp.3-resume.md)
-* [CP.4: Cover Letter](career-prep/cp.4-cover-letter.md)
-* [CP.5: Job List](career-prep/cp.5-job-list.md)
-* [CP.6: Interview Mindset](career-prep/cp.6-interview-mindset.md)
+* [CP.2: Resume](career-prep/cp.2-resume.md)
+* [CP.3: Portfolio](career-prep/cp.3-portfolio.md)
+* [CP.4: Job List](career-prep/cp.4-job-list.md)
+* [CP.5: Interview Mindset](career-prep/cp.5-interview-mindset.md)
 
