@@ -10,6 +10,8 @@ You can choose to work alone or in teams of two.
 
 ## Requirements
 
+Your app must include unit testing for all non-CRUD logic that happens on the backend. The unit tests should run in continuous integration whenever anyone pushes to the GitHub repo.
+
 The app must work without errors.
 
 Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
