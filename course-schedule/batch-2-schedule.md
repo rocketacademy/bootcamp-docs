@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9 | 8-12 Mar | Sequelize ORM, MVC | - | [CD8.5](course-weeks-5-8.md#course-day-8-5) | [CD9.1](course-weeks-9-12.md#course-day-9-1) | [CD9.2](course-weeks-9-12.md#course-day-9-2) | [CD9.3](course-weeks-9-12.md#course-day-9-3) | [CD9.4](course-weeks-9-12.md#course-day-9-4) |
+| 9 | 8-12 Mar | Sequelize ORM, MVC | - | [CD8.4](course-weeks-5-8.md#course-day-8-4) | [CD8.5](course-weeks-5-8.md#course-day-8-5) | [CD9.1](course-weeks-9-12.md#course-day-9-1) | [CD9.2](course-weeks-9-12.md#course-day-9-2) | [CD9.3](course-weeks-9-12.md#course-day-9-3) |
 
 ## Overall Schedule
 
@@ -22,7 +22,7 @@ description: 11 Jan - 25 Jun
 | 6 | 15-19 Feb | SQL Associations, SQL Schema Design, User Authentication | - | [CD5.5](course-weeks-5-8.md#course-day-5-5) | [CD6.1](course-weeks-5-8.md#course-day-6-1) | [CD6.2](course-weeks-5-8.md#course-day-6-2) | [CD6.3](course-weeks-5-8.md#course-day-6-3) | [CD6.4](course-weeks-5-8.md#course-day-6-4) |
 | 7 | 22-26 Feb | JS Promises, Auth Middleware, JS Dates | [P2](../projects/project-2-server-side-app.md) | [CD6.5](course-weeks-5-8.md#course-day-6-5) | [CD7.1](course-weeks-5-8.md#course-day-7-1) | [CD7.2](course-weeks-5-8.md#course-day-7-2) | [CD7.3](course-weeks-5-8.md#course-day-7-3) | [CD7.4](course-weeks-5-8.md#course-day-7-4) |
 | 8 | 1-5 Mar | - | [P2](../projects/project-2-server-side-app.md) | [CD7.5](course-weeks-5-8.md#course-day-7-5) | [CD8.1](course-weeks-5-8.md#course-day-8-1) | [CD8.2](course-weeks-5-8.md#course-day-8-2) | [CD8.3](course-weeks-5-8.md#course-day-8-3) | [CD8.4](course-weeks-5-8.md#course-day-8-4) |
-| 9 | 8-12 Mar | Sequelize ORM, MVC | - | - | [CD8.5](course-weeks-5-8.md#course-day-8-5) | [CD9.1](course-weeks-9-12.md#course-day-9-1) | [CD9.2](course-weeks-9-12.md#course-day-9-2) | [CD9.3](course-weeks-9-12.md#course-day-9-3) |
+| 9 | 8-12 Mar | Sequelize ORM, MVC | - | [CD8.4](course-weeks-5-8.md#course-day-8-4) | [CD8.5](course-weeks-5-8.md#course-day-8-5) | [CD9.1](course-weeks-9-12.md#course-day-9-1) | [CD9.2](course-weeks-9-12.md#course-day-9-2) | [CD9.3](course-weeks-9-12.md#course-day-9-3) |
 | 10 | 15-19 Mar | Sequelize Associations, AJAX, Webpack | - | [CD9.4](course-weeks-9-12.md#course-day-9-4) | [CD9.5](course-weeks-9-12.md#course-day-9-5) | [CD10.1](course-weeks-9-12.md#course-day-10-1) | [CD10.2](course-weeks-9-12.md#course-day-10-2) | [CD10.3](course-weeks-9-12.md#course-day-10-3) |
 | 11 | 22-26 Mar | Advanced Webpack | [P3](../projects/project-3-full-stack-game.md) | [CD10.4](course-weeks-9-12.md#course-day-10-4) | [CD10.5](course-weeks-9-12.md#course-day-10-5) | [CD11.1](course-weeks-9-12.md#course-day-11-1) | [CD11.2](course-weeks-9-12.md#course-day-11-2) | [CD11.3](course-weeks-9-12.md#course-day-11-3) |
 | 12 | 29 Mar - 2 Apr | - | [P3](../projects/project-3-full-stack-game.md) | [CD11.4](course-weeks-9-12.md#course-day-11-4) | [CD11.5](course-weeks-9-12.md#course-day-11-5) | [CD12.1](course-weeks-9-12.md#course-day-12-1) | [CD12.2](course-weeks-9-12.md#course-day-12-2) | **PH** |
