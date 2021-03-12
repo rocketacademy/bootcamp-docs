@@ -30,7 +30,7 @@ Let's get a simple test running with a bare-bones Mocha and Chai setup.
 
   Clone the base repo and install the libraries.
 
-```javascript
+```bash
 git clone https://github.com/rocketacademy/base-node-bootcamp.git mocha
 ```
 
