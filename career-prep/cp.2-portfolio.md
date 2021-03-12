@@ -49,8 +49,6 @@ Copy the code into a repo that you create and deploy using GitHub pages. You do 
 
 Access the code for the templates here: [https://github.com/rocketacademy/portfolio-examples-bootcamp](https://github.com/rocketacademy/portfolio-examples-bootcamp)
 
-## 
-
 ## Sample Portfolio Sites
 
 1. [https://samkohlq.github.io/](https://samkohlq.github.io/)
