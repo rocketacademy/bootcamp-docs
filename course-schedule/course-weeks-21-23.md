@@ -31,7 +31,7 @@
 
 #### In-Class
 
-* [Unit Testing](../9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
+* [9.ICE.1: Unit Testing](../9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
 
 #### Post-Class
 
