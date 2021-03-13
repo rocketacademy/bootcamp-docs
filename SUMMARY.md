@@ -323,6 +323,7 @@
 * [9.9: VSCode Node Debugger](9-advanced-topics/9.9-node-debugger.md)
 * [9.ICE: In-Class Exercises](9-advanced-topics/9.ice-in-class-exercises/README.md)
   * [9.ICE.1: Unit Testing](9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
+  * [9.ICE.2: TDD](9-advanced-topics/9.ice-in-class-exercises/9.ice.2-tdd.md)
 * [9.POCE: Post-Class Exercises](9-advanced-topics/9.poce-post-class-exercises/README.md)
   * [9.POCE.1: Django App](9-advanced-topics/9.poce-post-class-exercises/9.poce.1-django-app.md)
 
