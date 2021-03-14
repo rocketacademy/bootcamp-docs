@@ -1,18 +1,36 @@
 # 9.3: Django
 
+Django is an MVC framework written in Python. It was first released in 2005.
+
 ## Environment Setup
 
-[https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3](https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3)
+The standard development workflow for writing applications in Python includes infrastructure for managing "environments". These include a specific version of the Python language and a specific set of library dependencies for that project.
+
+{% hint style="info" %}
+Python Versions: Python version 3 introduced breaking changes in the language. We are using the version 3. Some computers rely on Python \(like all MacOS computers\) but are running the older version 2 by default.
+
+We want to be able to install a new version of Python onto the computer but without disturbing the older version, which is used by other various parts of the computer.
+{% endhint %}
 
 ```text
 brew install python
 ```
 
+#### pip
+
+pip is the package management library for Python. It works very similarly to NPM.
+
+#### virtualenv
+
+virtualenv is the library we'll use to manage the Python language version and dependencies. `virtualenvwrapper` is another set of scripts that helps manage everything virtualenv has to do.
+
 ```text
 pip3 install virtualenvwrapper
 ```
 
-[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development\_environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
+After we install virtualenv we have to set some configurations on the terminal.
+
+virtual env terminal configs
 
 ```text
 export WORKON_HOME=$HOME/.virtualenvs
@@ -22,32 +40,64 @@ export PROJECT_HOME=$HOME/code/django-projects
 source /usr/local/bin/virtualenvwrapper.sh
 ```
 
+virtual env terminal config template
+
+```text
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_PYTHON=<PYTHON_PATH>
+export VIRTUALENVWRAPPER_VIRTUALENV_ARGS=' -p <PYTHON_PATH> '
+export PROJECT_HOME=<DJANGO_PROJECTS_PATH>
+source /usr/local/bin/virtualenvwrapper.sh
+```
+
+To keep these configs permanently, paste them into one of the shell configuration files, such as `.profile`, `.zshrc`, `.bash_profile`, etc.
+
+Once the terminal has been configured we can create the environment for Django.
+
 ```text
 mkvirtualenv my_django_app
 ```
+
+You can see the environment has been set at this variable:
 
 ```text
 echo $VIRTUAL_ENV
 ```
 
+### Further Reading
+
+[https://pypi.org/](https://pypi.org/)
+
+[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development\_environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
+
+[https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3](https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3)
+
 [https://virtualenvwrapper.readthedocs.io/en/latest/command\_ref.html](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
 
 ## Create a Django Project
+
+Now we can begin to fill in our Django environment by install ing our dependencies.
 
 ```text
 pip3 install django
 ```
 
-[https://docs.djangoproject.com/en/3.1/intro/install/](https://docs.djangoproject.com/en/3.1/intro/install/)
+Now we can create a "project". This would be the top level of our repository, the set of code we'll begin working on.
 
-```text
+```
 django-admin startproject my_ra_django_project
 ```
 
+```
+django-admin startproject <PROJECT_NAME>
+```
+
+It will create a directory structure like this:
+
 ```text
-mysite/
+<REPO_ROOT>/
     manage.py
-    mysite/
+    my_ra_django_project/
         __init__.py
         settings.py
         urls.py
@@ -55,24 +105,44 @@ mysite/
         wsgi.py
 ```
 
+Django is set up out of the box to run after the startproject script is run \(even though it doesn't do much\).
+
 ```text
 cd my_ra_django_app
 ```
+
+Run the server by running the `manage.py` file.
 
 ```text
 python manage.py runserver
 ```
 
-http://localhost:8000
+Visit: [http://localhost:8000](http://localhost:8000)
+
+### Further Reading
+
+[https://docs.djangoproject.com/en/3.1/intro/install/](https://docs.djangoproject.com/en/3.1/intro/install/)
 
 ## Create a Django App
+
+Django projects contain one or many "apps" inside. In order for our project to do anything we have to add at least one app. The app we will create is a sibling directory of our project. 
 
 ```text
 python manage.py startapp my_ra_django_app
 ```
 
+The directory structure for the entire repo should look like this:
+
 ```text
-polls/
+<REPO_ROOT>/
+    manage.py
+    my_ra_django_project/
+        __init__.py
+        settings.py
+        urls.py
+        asgi.py
+        wsgi.py
+my_ra_django_app/
     __init__.py
     admin.py
     apps.py
@@ -83,6 +153,10 @@ polls/
     views.py
 ```
 
+**Views**
+
+In Django, what we might call controllers are called views.
+
 **my\_ra\_django\_app/views.py**
 
 ```text
@@ -90,20 +164,15 @@ from django.http import HttpResponse
 
 
 def index(request):
+    # send back a text response
     return HttpResponse("Hello, world. You're at the polls index.")
 ```
 
-**my\_ra\_django\_app/urls.py**
+**URLs**
 
-```text
-from django.urls import path
+urls.py is similar to routes.js in the Express.js MVC framework we created. It contains the route matching strings and the view functions that will get called when a request matches that URL.
 
-from . import views
-
-urlpatterns = [
-    path('', views.index, name='index'),
-]
-```
+There are actually 2 urls.py files, and we need to alter both in order for a request to get to our app. Django looks at the project level urls.py first.
 
 **my\_ra\_django\_project/urls.py**
 
@@ -117,15 +186,28 @@ urlpatterns = [
 ]
 ```
 
-**my\_ra\_django\_project/settings.py**
+**my\_ra\_django\_app/urls.py**
 
-Activate the App:
+```text
+from django.urls import path
+
+# import the view function from the views file
+from . import views
+
+urlpatterns = [
+    path('', views.index, name='index'),
+]
+```
+
+Before we can test the app code, the app itself has to be added to the Django project configuration.
+
+**my\_ra\_django\_project/settings.py**
 
 ```text
 # ...
 
 INSTALLED_APPS = [
-    'my_ra_django_app',
+    'my_ra_django_app', # add the name of the app to the configs
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -138,6 +220,22 @@ INSTALLED_APPS = [
 ```
 
 ## Postgres
+
+Django does not come with Postgres by default. It needs to be added.
+
+We must install the Postgres / Python adapter library first:
+
+```text
+pip3 install psycopg2
+```
+
+Then create the database in Postgres:
+
+```text
+createdb ra_django_db
+```
+
+Then set the configurations:
 
 **my\_ra\_django\_project/settings.py**
 
@@ -164,27 +262,29 @@ DATABASES = {
 # ...
 ```
 
-```text
-pip3 install psycopg2
-```
+Now we can use Django to alter the database.
 
-```text
-createdb ra_django_db
-```
+Django knows by default how to create a migration, it does not need specific instructions.
 
 ```text
 python manage.py makemigrations
 ```
 
+Run the migration:
+
 ```text
 python manage.py migrate
 ```
+
+Django comes with user functionality builtin. It's best to create a singe default user to begin with.
 
 ```text
 python manage.py createsuperuser
 ```
 
 ## Models
+
+Django models work very similarly to Sequelize models. They are class instances that allow us to retrieve data from the database without writing SQL statements.
 
 **my\_ra\_django\_app/models.py**
 
@@ -204,9 +304,13 @@ class Owner(models.Model):
     name = models.TextField()
 ```
 
+We can run `makemigrations` to automatically generate the table creation statements, based only on the model code we wrote above.
+
 ```text
 python manage.py makemigrations my_ra_django_app
 ```
+
+Run the migration:
 
 ```text
 python manage.py migrate my_ra_django_app
@@ -214,12 +318,14 @@ python manage.py migrate my_ra_django_app
 
 ## Seed Data
 
+Seed data works similarly to Sequelize seed data. There are a few choices for formatting the file.
+
 #### seed.json
 
 ```text
 [
   {
-    "model": "y_ra_django_app.cat",
+    "model": "my_ra_django_app.cat",
     "pk": 1,
     "fields": {
       "name": "John",
@@ -227,7 +333,7 @@ python manage.py migrate my_ra_django_app
     }
   },
   {
-    "model": "y_ra_django_app.cat",
+    "model": "my_ra_django_app.cat",
     "pk": 2,
     "fields": {
       "name": "Paul",
@@ -241,31 +347,63 @@ python manage.py migrate my_ra_django_app
 manage.py loaddata seed.json
 ```
 
+### Further Reading:
+
+[https://docs.djangoproject.com/en/3.1/howto/initial-data/](https://docs.djangoproject.com/en/3.1/howto/initial-data/)
+
 ## Using Models
+
+Now we can use the models in the Django code.
+
+We'll make a new route to test the model:
+
+**my\_ra\_django\_app/urls.py**
+
+```text
+from django.urls import path
+
+from . import views
+
+urlpatterns = [
+    path("owners/<int:primary_key>/", views.owners, name="index"),
+    path('', views.index, name='index'),
+]
+```
+
+Now we can use the model in 
 
 ```text
 from django.shortcuts import render
 
-from hellocoin.models import Cat, Owner
+from my_ra_django_app.models import Cat, Owner
 
-def index(request, pk):
+from django.http import HttpResponse
 
-    owner_obj = Owner.objects.get(pk=pk)
 
+def index(request):
+    # send back a text response
+    return HttpResponse("Hello, world. You're at the polls index.")
+
+def owners(request, primary_key):
+
+    # get an owner based on the request params
+    owner_obj = Owner.objects.get(pk=primary_key)
+
+    # get the cats owned by this person
     cat_objs = Cat.objects.filter(owner_id=owner_obj.id)
 
+    # construct a dict we'll use in the template
     context = {
-
         "cats": cat_objs,
-
         "owners": owner_obj,
-
     }
 
-    return render(request, "index.html", context)
+    return render(request, "owners.html", context)
 ```
 
 ## HTML Views
+
+In Django, the files that produce HTML are called templates. First we need to create a directory for them:
 
 ```text
 mkdir my_ra_django_app/templates
@@ -273,35 +411,26 @@ mkdir my_ra_django_app/templates
 
 #### ra\_django\_app/template/base.html
 
+We can create a partial template for things like the HTML `body` and `head`.
+
 ```text
 <!doctype html>
-
 <html>
-
     <head>
-
         <meta charset="utf-8">
-
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-
-        <title>Contacts</title>
-
+        <title>RA Wow Django!</title>
         <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
-
     </head>
-
     <body>
-
 {% block page_content %}{% endblock %}
-
     </body>
-
 </html>
 ```
 
-#### ra\_django\_app/template/index.html
+#### ra\_django\_app/template/owners.html
+
+Now we can output the data we passed into the render method above:
 
 ```text
 {% extends "base.html" %}
@@ -332,4 +461,23 @@ mkdir my_ra_django_app/templates
 
 {% endblock %}
 ```
+
+## Exercise
+
+Follow the instructions above to create the Django app.
+
+### Comfortable
+
+Add other routes to this app:
+
+| Route | Method | Description |
+| :--- | :--- | :--- |
+| /cats/:id | GET | get a single cat |
+| / | GET | get all the cats |
+| /cats | POST | create a cat |
+| /owners | POST | create an owner |
+
+#### Further Reading on Forms:
+
+[https://docs.djangoproject.com/en/3.1/intro/tutorial04/](https://docs.djangoproject.com/en/3.1/intro/tutorial04/)
 
