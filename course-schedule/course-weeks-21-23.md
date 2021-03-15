@@ -51,7 +51,7 @@
 
 #### Pre-Class
 
-* 9.3: Django
+* [9.3: Django](../9-advanced-topics/9.3-django/)
 
 #### In-Class
 
