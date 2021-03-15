@@ -12,7 +12,7 @@ Python Versions: Python version 3 introduced breaking changes in the language. W
 We want to be able to install a new version of Python onto the computer but without disturbing the older version, which is used by other various parts of the computer.
 {% endhint %}
 
-```text
+```bash
 brew install python
 ```
 
@@ -24,7 +24,7 @@ pip is the package management library for Python. It works very similarly to NPM
 
 virtualenv is the library we'll use to manage the Python language version and dependencies. `virtualenvwrapper` is another set of scripts that helps manage everything virtualenv has to do.
 
-```text
+```bash
 pip3 install virtualenvwrapper
 ```
 
@@ -32,7 +32,7 @@ After we install virtualenv we have to set some configurations on the terminal.
 
 virtual env terminal configs
 
-```text
+```bash
 export WORKON_HOME=$HOME/.virtualenvs
 export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
 export VIRTUALENVWRAPPER_VIRTUALENV_ARGS=' -p /usr/local/bin/python3 '
@@ -42,7 +42,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 virtual env terminal config template
 
-```text
+```bash
 export WORKON_HOME=$HOME/.virtualenvs
 export VIRTUALENVWRAPPER_PYTHON=<PYTHON_PATH>
 export VIRTUALENVWRAPPER_VIRTUALENV_ARGS=' -p <PYTHON_PATH> '
@@ -54,13 +54,13 @@ To keep these configs permanently, paste them into one of the shell configuratio
 
 Once the terminal has been configured we can create the environment for Django.
 
-```text
+```bash
 mkvirtualenv my_django_app
 ```
 
 You can see the environment has been set at this variable:
 
-```text
+```bash
 echo $VIRTUAL_ENV
 ```
 
@@ -78,23 +78,23 @@ echo $VIRTUAL_ENV
 
 Now we can begin to fill in our Django environment by install ing our dependencies.
 
-```text
+```bash
 pip3 install django
 ```
 
 Now we can create a "project". This would be the top level of our repository, the set of code we'll begin working on.
 
-```
+```bash
 django-admin startproject my_ra_django_project
 ```
 
-```
+```bash
 django-admin startproject <PROJECT_NAME>
 ```
 
 It will create a directory structure like this:
 
-```text
+```bash
 <REPO_ROOT>/
     manage.py
     my_ra_django_project/
@@ -107,13 +107,13 @@ It will create a directory structure like this:
 
 Django is set up out of the box to run after the startproject script is run \(even though it doesn't do much\).
 
-```text
+```bash
 cd my_ra_django_app
 ```
 
 Run the server by running the `manage.py` file.
 
-```text
+```bash
 python manage.py runserver
 ```
 
@@ -127,13 +127,13 @@ Visit: [http://localhost:8000](http://localhost:8000)
 
 Django projects contain one or many "apps" inside. In order for our project to do anything we have to add at least one app. The app we will create is a sibling directory of our project. 
 
-```text
+```bash
 python manage.py startapp my_ra_django_app
 ```
 
 The directory structure for the entire repo should look like this:
 
-```text
+```bash
 <REPO_ROOT>/
     manage.py
     my_ra_django_project/
@@ -159,7 +159,7 @@ In Django, what we might call controllers are called views.
 
 **my\_ra\_django\_app/views.py**
 
-```text
+```python
 from django.http import HttpResponse
 
 
@@ -176,7 +176,7 @@ There are actually 2 urls.py files, and we need to alter both in order for a req
 
 **my\_ra\_django\_project/urls.py**
 
-```text
+```python
 from django.contrib import admin
 from django.urls import include, path
 
@@ -188,7 +188,7 @@ urlpatterns = [
 
 **my\_ra\_django\_app/urls.py**
 
-```text
+```python
 from django.urls import path
 
 # import the view function from the views file
@@ -203,7 +203,7 @@ Before we can test the app code, the app itself has to be added to the Django pr
 
 **my\_ra\_django\_project/settings.py**
 
-```text
+```python
 # ...
 
 INSTALLED_APPS = [
@@ -225,13 +225,13 @@ Django does not come with Postgres by default. It needs to be added.
 
 We must install the Postgres / Python adapter library first:
 
-```text
+```bash
 pip3 install psycopg2
 ```
 
 Then create the database in Postgres:
 
-```text
+```bash
 createdb ra_django_db
 ```
 
@@ -239,7 +239,7 @@ Then set the configurations:
 
 **my\_ra\_django\_project/settings.py**
 
-```text
+```python
 # ...
 
 DATABASES = {
@@ -266,7 +266,7 @@ Now we can use Django to alter the database.
 
 Django knows by default how to create a migration, it does not need specific instructions.
 
-```text
+```python
 python manage.py makemigrations
 ```
 
@@ -288,7 +288,7 @@ Django models work very similarly to Sequelize models. They are class instances 
 
 **my\_ra\_django\_app/models.py**
 
-```text
+```python
 from django.db import models
 
 class Cat (models.Model):
@@ -322,7 +322,7 @@ Seed data works similarly to Sequelize seed data. There are a few choices for fo
 
 #### seed.json
 
-```text
+```javascript
 [
   {
     "model": "my_ra_django_app.cat",
@@ -359,7 +359,7 @@ We'll make a new route to test the model:
 
 **my\_ra\_django\_app/urls.py**
 
-```text
+```python
 from django.urls import path
 
 from . import views
@@ -372,7 +372,7 @@ urlpatterns = [
 
 Now we can use the model in 
 
-```text
+```python
 from django.shortcuts import render
 
 from my_ra_django_app.models import Cat, Owner
@@ -413,7 +413,7 @@ mkdir my_ra_django_app/templates
 
 We can create a partial template for things like the HTML `body` and `head`.
 
-```text
+```markup
 <!doctype html>
 <html>
     <head>
@@ -432,7 +432,7 @@ We can create a partial template for things like the HTML `body` and `head`.
 
 Now we can output the data we passed into the render method above:
 
-```text
+```markup
 {% extends "base.html" %}
 
 {% block page_content %}
