@@ -61,6 +61,8 @@
 
 #### Pre-Class
 
+* [9.2.3: CI](../9-advanced-topics/9.2-testing/9.2.3-ci.md)
+
 #### In-Class
 
 #### Post-Class
