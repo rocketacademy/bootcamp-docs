@@ -165,7 +165,7 @@ from django.http import HttpResponse
 
 def index(request):
     # send back a text response
-    return HttpResponse("Hello, world. You're at the polls index.")
+    return HttpResponse("Hello, world. You're at the index.")
 ```
 
 **URLs**
@@ -182,7 +182,7 @@ from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('polls.urls')),
+    path('', include('my_ra_django_app.urls')),
 ]
 ```
 
@@ -344,7 +344,7 @@ Seed data works similarly to Sequelize seed data. There are a few choices for fo
 ```
 
 ```text
-manage.py loaddata seed.json
+python manage.py loaddata my_ra_django_app/seed.json
 ```
 
 ### Further Reading:
@@ -382,7 +382,7 @@ from django.http import HttpResponse
 
 def index(request):
     # send back a text response
-    return HttpResponse("Hello, world. You're at the polls index.")
+    return HttpResponse("Hello, world. You're at the index.")
 
 def owners(request, primary_key):
 
