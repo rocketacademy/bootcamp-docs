@@ -67,7 +67,6 @@ Because we are doing unit testing, we are creating a library module to use as in
 #### index.js
 
 ```javascript
-import calculator from './calculator.js';
 import { add } from './calculator.js';
 
 console.log(add(2, 3));
