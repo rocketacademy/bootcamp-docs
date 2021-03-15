@@ -73,7 +73,7 @@
 
 #### Pre-Class
 
-* 9.4: React Native
+* Django User Login
 
 #### In-Class
 
@@ -82,6 +82,8 @@
 ### Course Day 22.2
 
 #### Pre-Class
+
+* 9.4: React Native
 
 #### In-Class
 
