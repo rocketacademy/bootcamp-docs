@@ -313,6 +313,7 @@
 * [9.2: Testing](9-advanced-topics/9.2-testing/README.md)
   * [9.2.1: Unit Testing](9-advanced-topics/9.2-testing/9.2.1-unit-testing.md)
   * [9.2.2: TDD](9-advanced-topics/9.2-testing/9.2.2-tdd.md)
+  * [9.2.3: CI](9-advanced-topics/9.2-testing/9.2.3-ci.md)
 * [9.3: Django](9-advanced-topics/9.3-django/README.md)
   * [9.3.1: Django User Login](9-advanced-topics/9.3-django/9.3.1-django-user-login.md)
 * [9.4: React Native](9-advanced-topics/9.4-react-native.md)
