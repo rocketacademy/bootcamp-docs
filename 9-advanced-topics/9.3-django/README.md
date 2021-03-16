@@ -142,15 +142,15 @@ The directory structure for the entire repo should look like this:
         urls.py
         asgi.py
         wsgi.py
-my_ra_django_app/
-    __init__.py
-    admin.py
-    apps.py
-    migrations/
+    my_ra_django_app/
         __init__.py
-    models.py
-    tests.py
-    views.py
+        admin.py
+        apps.py
+        migrations/
+            __init__.py
+        models.py
+        tests.py
+        views.py
 ```
 
 **Views**
@@ -161,7 +161,6 @@ In Django, what we might call controllers are called views.
 
 ```python
 from django.http import HttpResponse
-
 
 def index(request):
     # send back a text response
