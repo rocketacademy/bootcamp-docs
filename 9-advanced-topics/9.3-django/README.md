@@ -64,7 +64,7 @@ export PROJECT_HOME=<DJANGO_PROJECTS_PATH>
 source /usr/local/bin/virtualenvwrapper.sh
 ```
 
-To keep these configs permanently, paste them into one of the shell configuration files, such as `.profile`, `.zshrc`, `.bash_profile`, etc.
+To keep these configs permanently, paste them into your shell configuration file, i.e.`.zshrc` on Mac or `.bashrc` if you are using Bash on Windows/Ubuntu.
 
 Once the terminal has been configured we can create the environment for Django.
 
