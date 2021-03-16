@@ -16,6 +16,20 @@ We want to be able to install a new version of Python onto the computer but with
 brew install python
 ```
 
+#### Windows
+
+Install Python
+
+```markup
+sudo apt install python
+```
+
+We have to make sure this extra Postgres Library is installed.
+
+```markup
+sudo apt-get install libpq-dev
+```
+
 #### pip
 
 pip is the package management library for Python. It works very similarly to NPM.
@@ -227,6 +241,8 @@ We must install the Postgres / Python adapter library first:
 ```bash
 pip3 install psycopg2
 ```
+
+#### 
 
 Then create the database in Postgres:
 
