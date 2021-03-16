@@ -55,7 +55,7 @@ To keep these configs permanently, paste them into one of the shell configuratio
 Once the terminal has been configured we can create the environment for Django.
 
 ```bash
-mkvirtualenv my_django_app
+mkvirtualenv my_ra_django_app
 ```
 
 You can see the environment has been set at this variable:
@@ -364,12 +364,14 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path("owners/<int:primary_key>/", views.owners, name="index"),
+    path("owners/<int:primary_key>/", views.owners, name="owners"),
     path('', views.index, name='index'),
 ]
 ```
 
-Now we can use the model in 
+Now we can use the model in the views file:
+
+**my\_ra\_django\_app/views.py**
 
 ```python
 from django.shortcuts import render
