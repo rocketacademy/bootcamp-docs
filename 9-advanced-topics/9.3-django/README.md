@@ -108,7 +108,7 @@ It will create a directory structure like this:
 Django is set up out of the box to run after the startproject script is run \(even though it doesn't do much\).
 
 ```bash
-cd my_ra_django_app
+cd my_ra_django_project
 ```
 
 Run the server by running the `manage.py` file.
