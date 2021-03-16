@@ -155,7 +155,7 @@ The directory structure for the entire repo should look like this:
 
 **Views**
 
-In Django, what we might call controllers are called views.
+In Django, what we might call controllers in Express are called views.
 
 **my\_ra\_django\_app/views.py**
 
