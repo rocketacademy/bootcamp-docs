@@ -44,7 +44,7 @@ pip3 install virtualenvwrapper
 
 After we install virtualenv we have to set some configurations on the terminal.
 
-#### virtualenv terminal configs
+#### virtualenv terminal example configs
 
 ```bash
 export WORKON_HOME=$HOME/.virtualenvs
@@ -67,6 +67,10 @@ source /usr/local/bin/virtualenvwrapper.sh
 ```
 
 To keep these configs permanently, paste them into your shell configuration file, i.e.`.zshrc` on Mac or `.bashrc` if you are using Bash on Windows/Ubuntu.
+
+Don't forget to run the `source` command on the config file after you've saved it- e.g. `source .zshrc`
+
+### Create a Virtual Environment
 
 Once the terminal has been configured we can create the environment for Django.
 
@@ -92,7 +96,7 @@ echo $VIRTUAL_ENV
 
 ## Create a Django Project
 
-Now we can begin to fill in our Django environment by install ing our dependencies.
+Now we can begin to fill in our Django environment by installing our dependencies.
 
 ```bash
 pip3 install django
@@ -243,8 +247,6 @@ We must install the Postgres / Python adapter library first:
 ```bash
 pip3 install psycopg2
 ```
-
-#### 
 
 Then create the database in Postgres:
 
