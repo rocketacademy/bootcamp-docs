@@ -44,7 +44,7 @@ pip3 install virtualenvwrapper
 
 After we install virtualenv we have to set some configurations on the terminal.
 
-virtual env terminal configs
+#### virtualenv terminal configs
 
 ```bash
 export WORKON_HOME=$HOME/.virtualenvs
@@ -54,7 +54,9 @@ export PROJECT_HOME=$HOME/code/django-projects
 source /usr/local/bin/virtualenvwrapper.sh
 ```
 
-virtual env terminal config template
+#### virtualenv terminal config template
+
+Replace your own values in the template.
 
 ```bash
 export WORKON_HOME=$HOME/.virtualenvs
