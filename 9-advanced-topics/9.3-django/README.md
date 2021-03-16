@@ -315,6 +315,10 @@ Run the migration:
 python manage.py migrate my_ra_django_app
 ```
 
+### Further Reading
+
+[https://docs.djangoproject.com/en/3.1/topics/db/models/](https://docs.djangoproject.com/en/3.1/topics/db/models/)
+
 ## Seed Data
 
 Seed data works similarly to Sequelize seed data. There are a few choices for formatting the file.
@@ -401,6 +405,10 @@ def owners(request, primary_key):
 
     return render(request, "owners.html", context)
 ```
+
+### Further Reading
+
+[https://docs.djangoproject.com/en/3.1/topics/db/queries/](https://docs.djangoproject.com/en/3.1/topics/db/queries/)
 
 ## HTML Views
 
