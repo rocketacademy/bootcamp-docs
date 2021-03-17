@@ -73,7 +73,7 @@
 
 #### Pre-Class
 
-* Django User Login
+* [9.3.1: Django User Login](../9-advanced-topics/9.3-django/9.3.1-django-user-login.md)
 
 #### In-Class
 
