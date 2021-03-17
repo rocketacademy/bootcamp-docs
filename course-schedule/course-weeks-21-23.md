@@ -83,8 +83,7 @@
 
 #### Pre-Class
 
-* 9.4: React Native
-
+* 
 #### In-Class
 
 #### Post-Class
@@ -93,7 +92,7 @@
 
 #### Pre-Class
 
-* 9.5: ML - Naive Bayes
+* 9.4: React Native
 
 #### In-Class
 
@@ -102,6 +101,8 @@
 ### Course Day 22.4
 
 #### Pre-Class
+
+* 9.5: ML - Naive Bayes
 
 #### In-Class
 
