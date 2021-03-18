@@ -1,4 +1,4 @@
-# 9.5: ML - Naive Bayes Theorem
+# 9.5: ML - Bayes Theorem
 
 Bayes Theorem is a theorem about statistical inference.
 

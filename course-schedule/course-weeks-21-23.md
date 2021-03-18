@@ -93,7 +93,7 @@ None
 
 #### Pre-Class
 
-* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-naive-bayes-theorem/)
+* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-bayes-theorem/)
 
 #### In-Class
 
