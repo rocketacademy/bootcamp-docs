@@ -83,7 +83,8 @@
 
 #### Pre-Class
 
-* 
+None
+
 #### In-Class
 
 #### Post-Class
