@@ -283,7 +283,30 @@ DATABASES = {
 
 Now we can use Django to alter the database.
 
-Django knows by default how to create a migration, it does not need specific instructions.
+### Default Tables
+
+When you created the project, Django initialized several standard tables. When they are finally created in psql they look like this:
+
+```markup
+ Schema |            Name            | Type  | Owner 
+--------+----------------------------+-------+-------
+ public | auth_group                 | table | akira
+ public | auth_group_permissions     | table | akira
+ public | auth_permission            | table | akira
+ public | auth_user                  | table | akira
+ public | auth_user_groups           | table | akira
+ public | auth_user_user_permissions | table | akira
+ public | django_admin_log           | table | akira
+ public | django_content_type        | table | akira
+ public | django_migrations          | table | akira
+ public | django_session             | table | akira
+```
+
+It includes things like the migration tracking table \(like Sequelize does\) and also the user table and user auth table. We'll see that in the next section.
+
+### Migrations
+
+Django knows by default how to create a migration, it does not need specific instructions. We need to create one based on the default settings.
 
 ```python
 python manage.py makemigrations
