@@ -93,7 +93,7 @@ None
 
 #### Pre-Class
 
-* 9.4: React Native
+* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-naive-bayes-theorem/)
 
 #### In-Class
 
@@ -103,7 +103,7 @@ None
 
 #### Pre-Class
 
-* 9.5: ML - Naive Bayes
+* 9.5.1: ML - Naive Bayes Classifier
 
 #### In-Class
 
@@ -112,6 +112,8 @@ None
 ### Course Day 22.5
 
 #### Pre-Class
+
+* 9.4: React Native
 
 #### In-Class
 
