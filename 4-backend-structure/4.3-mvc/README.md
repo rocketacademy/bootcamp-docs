@@ -32,7 +32,7 @@ Other than models, views, and controllers, we will also have a route file or fil
 
 We'll create an example grocery app with a single model.
 
-![](../.gitbook/assets/mvc.jpg)
+![](../../.gitbook/assets/mvc.jpg)
 
 1. A request comes into the controller.
 2. The controller calls the model in the callback.
@@ -41,7 +41,7 @@ We'll create an example grocery app with a single model.
 
 ## Setup Packages and Folders, Configure DB
 
-Set up Sequelize with a new Node application and configure the DB in the same way we did in [Module 4.2.1: Intro to Sequelize](4.2-sequelize/4.2.1-intro-to-sequelize.md#setup-packages-and-folders). Update `config.js` to use a new DB name, `grocerymvc_development` instead of `grocery_development` to distinguish the DB from modules 4.2.1's. Stop after creating the DB and follow the steps below to create an app with MVC architecture.
+Set up Sequelize with a new Node application and configure the DB in the same way we did in [Module 4.2.1: Intro to Sequelize](../4.2-sequelize/4.2.1-intro-to-sequelize.md#setup-packages-and-folders). Update `config.js` to use a new DB name, `grocerymvc_development` instead of `grocery_development` to distinguish the DB from modules 4.2.1's. Stop after creating the DB and follow the steps below to create an app with MVC architecture.
 
 ## Migrations: Create Items Table
 
@@ -308,7 +308,7 @@ export default function initItemsController(db) {
 
 ### Controller Template
 
-This example assumes you need to display a list of data. For convenience and consistency we can give standard names to the CRUD methods of our controllers. For example, an `index` method might retrieve all instances of a model. See the [names table below](4.3-mvc.md#names) for a complete listing.
+This example assumes you need to display a list of data. For convenience and consistency we can give standard names to the CRUD methods of our controllers. For example, an `index` method might retrieve all instances of a model. See the [names table below](./#names) for a complete listing.
 
 #### controllers/&lt;NAME\_LOWER\_CAMEL\_CASE\_PLURAL&gt;.mjs
 
