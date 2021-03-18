@@ -2,7 +2,7 @@
 
 Bayes Theorem is a theorem about statistical inference.
 
-We'll be implementing the formula to train a computer to tell if a message is a spam email or not.
+We'll be implementing the formula to train a computer to predict some information.
 
 First we'll talk about how Bayes Theorem works and what it is trying to tell us.
 
