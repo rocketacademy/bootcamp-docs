@@ -320,6 +320,7 @@
 * [9.4: React Native](9-advanced-topics/9.4-react-native.md)
 * [9.5: ML - Bayes Theorem](9-advanced-topics/9.5-ml-bayes-theorem/README.md)
   * [9.5.1: ML- Naive Bayes Classifier - JavaScript](9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
+  * [9.5.2: ML - Naive Bayes Classifier - Python](9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
 * [9.6: GraphQL / React-Apollo](9-advanced-topics/9.6-graphql-react-apollo.md)
 * [9.7: Web Sockets](9-advanced-topics/9.7-web-sockets.md)
 * [9.8: CSS Animations](9-advanced-topics/9.8-css-animations.md)
