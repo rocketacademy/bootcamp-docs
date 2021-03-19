@@ -143,6 +143,8 @@
 #### Pre-Class
 
 * [4.2.8: Sequelize Self-Referencing Columns](../4-backend-structure/4.2-sequelize/4.2.8-sequelize-self-referencing-table-columns.md)
+* [D.1: Intro to SWE Interviews](../data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
+* [D.2: Intro to Python \(Exercises 1-8\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
 
 #### In-Class
 
@@ -160,6 +162,7 @@
 
 * [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/6-frontend-infrastructure/6.1-webpack)
 * [5.2.2: AJAX Cards](../5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
+* [D.2: Intro to Python \(Exercises 9-11\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
 
 #### In-Class
 
@@ -177,6 +180,8 @@
 
 * [6.1.1: Webpack with Local Modules](../6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
 * [6.1.2: Webpack with NPM Modules](../6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
+* [D.3: Complexity Analysis, Big-O Notation](../data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
+* [D.4: Interview Strategies](../data-structures-and-algorithms/d.4-interview-strategies.md)
 
 #### In-Class
 
@@ -192,14 +197,16 @@
 
 * [6.1.3: Webpack with Babel](../6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
 * [6.1.4: Webpack with SASS](../6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md)
 
 #### In-Class
 
-None
+* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 #### Post-Class
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ### Course Day 11.3
 
@@ -209,11 +216,12 @@ None
 
 #### In-Class
 
-None
+* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
+* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ### Course Day 11.4
 
@@ -223,25 +231,27 @@ None
 
 #### In-Class
 
-None
+* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ### Course Day 11.5
 
 #### Pre-Class
 
-None
+* [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
 #### In-Class
 
-None
+* [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
 ## Course Week 12
 
@@ -249,30 +259,32 @@ None
 
 #### Pre-Class
 
-None
+* [D.7: Sorting Algorithms](../data-structures-and-algorithms/d.7-sorting-algorithms.md)
 
 #### In-Class
 
-None
+* [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
 ### Course Day 12.2
 
 #### Pre-Class
 
-None
+* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### In-Class
 
-None
+* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 * [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
+* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 ### Course Day 12.3
 
@@ -282,25 +294,27 @@ None
 
 #### In-Class
 
-None
+* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 ### Course Day 12.4
 
 #### Pre-Class
 
-None
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 #### In-Class
 
-None
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 ### Course Day 12.5
 
@@ -310,9 +324,10 @@ None
 
 #### In-Class
 
-None
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
