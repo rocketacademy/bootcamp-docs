@@ -42,9 +42,9 @@ Coding Bootcamp consists of modules, each of which covers a significant topic wi
 
 Students are expected to be working on Coding Bootcamp minimally from 10am-6pm M-F. Each batch will meet for live classes for 2 hours per day. Unless otherwise specified, Odd batch numbers \(e.g. Batch 1, 3\) meet in the morning from 10am-12pm, and even batch numbers \(e.g. Batch 2, 4\) meet in the afternoon from 1-3pm. All times are in Singapore Time \(GMT+8\).
 
-The Coding Bootcamp schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1 to 112. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
+The Coding Bootcamp schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1.1 to 23.5. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
 
-The [Course Days]() page lists deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. Each day's deliverables are due by the **start** of that day's class. We will complete exercises based on each day's deliverables in pairs during class.
+The Course Weeks pages lists deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. Each day's deliverables are due by the **start** of that day's class. We will complete exercises based on each day's deliverables in pairs during class.
 
 ## Daily Meeting Agenda
 
