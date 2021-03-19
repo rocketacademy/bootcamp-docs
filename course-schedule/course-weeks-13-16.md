@@ -8,16 +8,17 @@
 
 #### Pre-Class
 
-None
+* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 #### In-Class
 
-None
+* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 #### Post-Class
 
 * [Project 3 Feature Freeze](../projects/project-3-full-stack-game.md#project-timeline)
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 ### Course Day 13.2
 
@@ -32,6 +33,7 @@ None
 #### Post-Class
 
 * [Project 3 Post-Mortems](../projects/project-3-full-stack-game.md#post-mortem-meeting)
+* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 ### Course Day 13.3
 
@@ -40,6 +42,8 @@ None
 * [7.1: JSX Intro](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/7-react/7.1-jsx-intro)
 * [7.1.1: Conditional Rendering](../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
 * [7.1.2: Rendering In a Loop](../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
+* [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
+* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 #### In-Class
 
@@ -48,6 +52,7 @@ None
 #### Post-Class
 
 * [7.POCE.1: JSX Bug Reports](../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
+* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ## Module 7: React
 
@@ -65,6 +70,7 @@ None
 #### Post-Class
 
 * [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
+* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
 ### Course Day 13.5
 
@@ -72,6 +78,7 @@ None
 
 * [7.3: React Express](../7-react/7.3-express.js-+-webpack-+-react.md)
 * [7.4: React useState](../7-react/7.4-state.md)
+* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 #### In-Class
 
@@ -80,6 +87,7 @@ None
 #### Post-Class
 
 * [7.POCE.2: React Tic Tac Toe](../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
+* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ## Course Week 14
 
@@ -97,6 +105,7 @@ None
 #### Post-Class
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### Course Day 14.2
 
@@ -111,20 +120,24 @@ None
 #### Post-Class
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
 
 ### Course Day 14.3
 
 #### Pre-Class
 
 * [7.7.1: Components & AJAX](../7-react/7.7-component-hierarchy/7.7.1-component-ajax.md)
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 #### In-Class
 
 * Review [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 ### Course Day 14.4
 
@@ -134,10 +147,12 @@ None
 
 #### **In-Class**
 
-* 
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 ### Course Day 14.5
 
@@ -145,42 +160,51 @@ None
 
 * [7.8: Error Boundaries](../7-react/7.8-error-boundaries.md)
 * [7.9: React Dev Tools](../7-react/7.9-react-dev-tools.md)
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 #### **In-Class**
 
-* 
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* 
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+
 ## Course Week 15
 
 ### Course Day 15.1
 
 #### Pre-Class
 
-* 
+None
+
 #### In-Class
 
 * [Review 7.POCE.4: Hot Pot Bill Splitter](../course-logistics/course-methodology.md#peer-code-review)
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### Course Day 15.2
 
 #### Pre-Class
 
-* 
+None
+
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* 
+* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+
 ### Course Day 15.3
 
 #### Pre-Class
@@ -198,16 +222,18 @@ None
 
 #### Pre-Class
 
-None
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* 
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
 ### Course Day 15.5
 
 #### Pre-Class
@@ -217,28 +243,16 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* 
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
 ## Course Week 16
 
 ### Course Day 16.1
-
-#### Pre-Class
-
-* [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
-* 
-#### In-Class
-
-* [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 
-#### Post-Class
-
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* 
-### Course Day 16.2
 
 #### Pre-Class
 
@@ -247,29 +261,50 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* 
+* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+
+### Course Day 16.2
+
+#### Pre-Class
+
+* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+
+#### In-Class
+
+* [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+
+#### Post-Class
+
+* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+
 ### Course Day 16.3
 
 #### Pre-Class
 
-* 
+* [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
+
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 
+* [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
+
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* 
+* [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
+
 ### Course Day 16.4
 
 #### Pre-Class
 
-No pre-class material for today.
+* [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
 
 #### In-Class
 
