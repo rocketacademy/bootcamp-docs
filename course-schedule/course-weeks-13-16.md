@@ -309,16 +309,19 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 
+* [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
+
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* 
+* [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
+
 ### Course Day 16.5
 
 #### Pre-Class
 
-* 
+* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+
 #### In-Class
 
 * [Project 4 Presentation](../course-logistics/course-methodology.md#project-presentations)
@@ -326,4 +329,5 @@ None
 #### Post-Class
 
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
+* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
 
