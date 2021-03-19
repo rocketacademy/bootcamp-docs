@@ -10,14 +10,15 @@
 
 * [8.1: Create React App](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/8-advanced-react/8.1-create-react-app)
 * [8.1.1: Create React App Full Stack](../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 #### In-Class
 
-* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 #### Post-Class
 
-* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 ### Course Day 17.2
 
@@ -31,32 +32,44 @@
 * [8.3.1: useContext](../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
 * [8.3.2: useReducer](../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
 * [8.3.3: useContext + useReducer](../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 #### In-Class
 
 * [8.ICE.1: useContext](../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 #### **Post-Class**
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 
 ### Course Day 17.3
 
 #### Pre-Class
 
 * [8.3.4: React E-Commerce App with Store](../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
-* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 #### **In-Class**
 
-* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+None
 
 #### **Post-Class**
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* DS&A Open Practice
 
 ### Course Day 17.4
+
+#### Due
+
+* Resume 1st draft
+* Portfolio 1st draft
 
 #### Pre-Class
 
@@ -66,32 +79,45 @@
 
 #### In-Class
 
-* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+* DS&A Open Practice
 
 #### Post-Class
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* DS&A Open Practice
 
 ### Course Day 17.5
+
+#### Due
+
+* Portfolio 2nd draft
+* Resume 2nd draft
 
 #### Pre-Class
 
 * [8.5: Advanced useEffect ](../8-advanced-react/8.5-advanced-useeffect.md)
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 #### In-Class
 
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+None
 
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* DS&A Open Practice
 
 ## Course Week 18
 
 ### Course Day 18.1
+
+#### Due
+
+* Portfolio 3rd draft
+* Resume 3rd draft
 
 #### Pre-Class
 
@@ -100,28 +126,34 @@
 
 #### In-Class
 
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+None
 
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* DS&A Open Practice
 
 ### Course Day 18.2
+
+#### Due
+
+* Portfolio final draft
+* Resume final draft
 
 #### Pre-Class
 
 * [8.8: React NPM Packages ](../8-advanced-react/8.8-react-npm-packages.md)
-* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 #### In-Class
 
-* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+* DS&A Open Practice
 
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+* DS&A Open Practice
 
 ### Course Day 18.3
 
@@ -131,28 +163,27 @@
 
 #### In-Class
 
-* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+None
 
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+* DS&A Open Practice
 
 ### Course Day 18.4
 
 #### Pre-Class
 
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+None
 
 #### In-Class
 
 * [8.POCE.2: Climbing Trip Redux](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
 
 #### Post-Class
 
 * [Project 5 Ideation \(user stories, wireframes, ERD\)](../projects/project-5-group-react-app.md#ideation-phase-2)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* DS&A Open Practice
 
 ### Course Day 18.5
 
@@ -162,13 +193,13 @@ None
 
 #### In-Class
 
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+None
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
 * Project 5 Ideation Instructor Review \(Slack\)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* DS&A Open Practice
 
 ## Course Week 19
 
@@ -180,73 +211,73 @@ None
 
 #### In-Class
 
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+None
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* DS&A Open Practice
 
 ### Course Day 19.2
 
 #### Pre-Class
 
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+None
 
 #### In-Class
 
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+* DS&A Open Practice
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+* DS&A Open Practice
 
 ### Course Day 19.3
 
 #### Pre-Class
 
-* [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
+None
 
 #### In-Class
 
-* [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
+None
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
 * Project 5 Midpoint Meeting
-* [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
+* DS&A Open Practice
 
 ### Course Day 19.4
 
 #### Pre-Class
 
-* [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
+None
 
 #### In-Class
 
-* [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
+* DS&A Open Practice
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
+* DS&A Open Practice
 
 ### Course Day 19.5
 
 #### Pre-Class
 
-* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+None
 
 #### In-Class
 
-* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+None
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.4: Binary Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
+* DS&A Open Practice
 
 ## Course Week 20
 
@@ -254,40 +285,38 @@ None
 
 #### Pre-Class
 
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+None
 
 #### In-Class
 
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+None
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
 * Project 5 Feature Freeze
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* DS&A Open Practice
 
 ### Course Day 20.2
 
 #### Pre-Class
 
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+None
 
 #### In-Class
 
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* DS&A Open Practice
 
 #### Post-Class
 
 * [Project 5](../projects/project-5-group-react-app.md)
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* DS&A Open Practice
 
 ### Course Day 20.3
 
 #### Pre-Class
 
-* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+None
 
 #### In-Class
 
@@ -296,19 +325,21 @@ None
 #### Post-Class
 
 * Project 5 Post-Mortems
+* DS&A Open Practice
 
 ### Course Day 20.4
 
-#### Due
-
-* Portfolio content 1st draft
-* Resume 1st draft
-
 #### Pre-Class
+
+None
 
 #### In-Class
 
+* DS&A Open Practice
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ## Module 9: Advanced Topics
 
@@ -316,15 +347,19 @@ None
 
 #### Due
 
-* Portfolio content 2nd draft
-* Resume 2nd draft
 * Project 5 Video
 
 #### Pre-Class
 
 * [9.1 Security](https://github.com/rocketacademy/bootcamp-docs/tree/f357a152ccbae2bb3e0d4bd14c4385b46e4fd5df/9-advanced-topics/9.1-security)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [CP.5: Interview Mindset](../career-prep/cp.5-interview-mindset.md)
 
 #### In-Class
 
+None
+
 #### Post-Class
+
+* DS&A Open Practice
 

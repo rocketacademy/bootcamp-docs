@@ -6,6 +6,10 @@
 
 ### Course Day 21.1
 
+#### Due
+
+* Initial Job List
+
 #### Pre-Class
 
 * [9.1.1: XSS](../9-advanced-topics/9.1-security/9.1.1-xss.md)
@@ -14,15 +18,13 @@
 
 #### In-Class
 
+None
+
 #### Post-Class
 
+* DS&A Open Practice
+
 ### Course Day 21.2
-
-#### Due
-
-* Resume final draft
-* Live portfolio page
-* Initial jobs list
 
 #### Pre-Class
 
@@ -34,6 +36,8 @@
 * [9.ICE.1: Unit Testing](../9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
 
 #### Post-Class
+
+* DS&A Open Practice
 
 ### Course Day 21.3
 
@@ -47,17 +51,9 @@
 
 #### Post-Class
 
+* DS&A Open Practice
+
 ### Course Day 21.4
-
-#### Pre-Class
-
-* [9.3: Django](../9-advanced-topics/9.3-django/)
-
-#### In-Class
-
-#### Post-Class
-
-### Course Day 21.5
 
 #### Pre-Class
 
@@ -65,7 +61,25 @@
 
 #### In-Class
 
+* DS&A Open Practice
+
 #### Post-Class
+
+* DS&A Open Practice
+
+### Course Day 21.5
+
+#### Pre-Class
+
+* [9.3: Django](../9-advanced-topics/9.3-django/)
+
+#### In-Class
+
+None
+
+#### Post-Class
+
+* DS&A Open Practice
 
 ## Course Week 22
 
@@ -77,7 +91,11 @@
 
 #### In-Class
 
+None
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ### Course Day 22.2
 
@@ -87,7 +105,11 @@ None
 
 #### In-Class
 
+* DS&A Open Practice
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ### Course Day 22.3
 
@@ -97,7 +119,11 @@ None
 
 #### In-Class
 
+None
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ### Course Day 22.4
 
@@ -107,7 +133,11 @@ None
 
 #### In-Class
 
+* DS&A Open Practice
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ### Course Day 22.5
 
@@ -117,7 +147,11 @@ None
 
 #### In-Class
 
+None
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ## Course Week 23
 
@@ -129,13 +163,19 @@ None
 
 #### Post-Class
 
+* DS&A Open Practice
+
 ### Course Day 23.2
 
 #### Pre-Class
 
 #### In-Class
 
+* DS&A Open Practice
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ### Course Day 23.3
 
@@ -145,13 +185,19 @@ None
 
 #### Post-Class
 
+* DS&A Open Practice
+
 ### Course Day 23.4
 
 #### Pre-Class
 
 #### In-Class
 
+* DS&A Open Practice
+
 #### Post-Class
+
+* DS&A Open Practice
 
 ### Course Day 23.5
 
@@ -160,4 +206,6 @@ None
 #### In-Class
 
 #### Post-Class
+
+* DS&A Open Practice
 

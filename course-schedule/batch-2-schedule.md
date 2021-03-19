@@ -336,7 +336,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">19</td>
       <td style="text-align:left">17-21 May</td>
-      <td style="text-align:left">DS&amp;A Open Practise</td>
+      <td style="text-align:left">DS&amp;A Open Practice</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-2">CD18.2</a>
@@ -353,7 +353,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">20</td>
       <td style="text-align:left">24-28 May</td>
-      <td style="text-align:left">DS&amp;A Open Practise</td>
+      <td style="text-align:left">DS&amp;A Open Practice</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-2">CD19.2</a>
