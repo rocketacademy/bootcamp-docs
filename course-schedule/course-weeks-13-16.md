@@ -260,13 +260,11 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
+* 
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
+* 
 ### Course Day 16.4
 
 #### Pre-Class
@@ -276,19 +274,16 @@ No pre-class material for today.
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
+* 
 #### Post-Class
 
 * [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
-
+* 
 ### Course Day 16.5
 
 #### Pre-Class
 
-* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
-
+* 
 #### In-Class
 
 * [Project 4 Presentation](../course-logistics/course-methodology.md#project-presentations)
@@ -296,5 +291,4 @@ No pre-class material for today.
 #### Post-Class
 
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
 
