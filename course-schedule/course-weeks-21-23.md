@@ -18,7 +18,7 @@
 
 #### In-Class
 
-None
+* DS&A Open Practice
 
 #### Post-Class
 
@@ -75,7 +75,7 @@ None
 
 #### In-Class
 
-None
+* DS&A Open Practice
 
 #### Post-Class
 
@@ -91,7 +91,7 @@ None
 
 #### In-Class
 
-None
+* DS&A Open Practice
 
 #### Post-Class
 
@@ -119,7 +119,7 @@ None
 
 #### In-Class
 
-None
+* DS&A Open Practice
 
 #### Post-Class
 
@@ -147,7 +147,7 @@ None
 
 #### In-Class
 
-None
+* DS&A Open Practice
 
 #### Post-Class
 
@@ -160,6 +160,8 @@ None
 #### Pre-Class
 
 #### In-Class
+
+* DS&A Open Practice
 
 #### Post-Class
 
@@ -183,6 +185,8 @@ None
 
 #### In-Class
 
+* DS&A Open Practice
+
 #### Post-Class
 
 * DS&A Open Practice
@@ -204,6 +208,8 @@ None
 #### Pre-Class
 
 #### In-Class
+
+* DS&A Open Practice
 
 #### Post-Class
 

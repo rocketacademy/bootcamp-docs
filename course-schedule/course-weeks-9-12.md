@@ -216,6 +216,7 @@
 
 #### In-Class
 
+* AJAX Cards Redux
 * [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 #### Post-Class
