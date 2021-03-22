@@ -1,14 +1,4 @@
----
-description: 11 Jan - 25 Jun
----
-
-# Batch 2 Schedule
-
-## Current Week
-
-| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 11 | 22-26 Mar | Advanced Webpack | [P3](../projects/project-3-full-stack-game.md) | [CD10.4](course-weeks-9-12.md#course-day-10-4) | [CD10.5](course-weeks-9-12.md#course-day-10-5) | [CD11.1](course-weeks-9-12.md#course-day-11-1) | [CD11.2](course-weeks-9-12.md#course-day-11-2) | [CD11.3](course-weeks-9-12.md#course-day-11-3) |
+# Batch 3 Schedule
 
 ## Overall Schedule
 
@@ -29,7 +19,7 @@ description: 11 Jan - 25 Jun
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">11-15 Jan</td>
+      <td style="text-align:left">12-16 Apr</td>
       <td style="text-align:left">HTML, CSS, DOM, ES6</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-1-1">CD1.1</a>
@@ -45,7 +35,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">18-22 Jan</td>
+      <td style="text-align:left">19-23 Apr</td>
       <td style="text-align:left">Advanced CSS</td>
       <td style="text-align:left"><a href="../projects/project-1-video-poker.md">P1</a>
       </td>
@@ -62,7 +52,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">25-29 Jan</td>
+      <td style="text-align:left">26-30 Apr</td>
       <td style="text-align:left">Node.js, HTTP, File Servers</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-1">CD3.1</a>
@@ -78,7 +68,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">4</td>
-      <td style="text-align:left">1-5 Feb</td>
+      <td style="text-align:left">3-7 May</td>
       <td style="text-align:left">AWS, JSON, Express.js, EJS</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-1">CD4.1</a>
@@ -94,7 +84,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">8-12 Feb</td>
+      <td style="text-align:left">10-14 May</td>
       <td style="text-align:left">Express.js, EJS, SQL, Cookies</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-1">CD5.1</a>
@@ -110,7 +100,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left">15-19 Feb</td>
+      <td style="text-align:left">17-21 May</td>
       <td style="text-align:left">SQL Associations, SQL Schema Design, User Authentication</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-5">CD5.5</a>
@@ -126,7 +116,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left">22-26 Feb</td>
+      <td style="text-align:left">24-28 May</td>
       <td style="text-align:left">JS Promises, Auth Middleware, JS Dates</td>
       <td style="text-align:left"><a href="../projects/project-2-server-side-app.md">P2</a>
       </td>
@@ -143,7 +133,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">8</td>
-      <td style="text-align:left">1-5 Mar</td>
+      <td style="text-align:left">31 May - 4 Jun</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="../projects/project-2-server-side-app.md">P2</a>
       </td>
@@ -160,7 +150,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">9</td>
-      <td style="text-align:left">8-12 Mar</td>
+      <td style="text-align:left">7-11 Jun</td>
       <td style="text-align:left">Sequelize ORM, MVC</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-4">CD8.4</a>
@@ -176,7 +166,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left">15-19 Mar</td>
+      <td style="text-align:left">14-18 Jun</td>
       <td style="text-align:left">Sequelize Associations, AJAX, Webpack</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-4">CD9.4</a>
@@ -192,7 +182,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">11</td>
-      <td style="text-align:left">22-26 Mar</td>
+      <td style="text-align:left">21-25 Jun</td>
       <td style="text-align:left">Advanced Webpack, Intro to Python, Complexity Analysis, Recursion</td>
       <td
       style="text-align:left"><a href="../projects/project-3-full-stack-game.md">P3</a>
@@ -210,7 +200,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">12</td>
-      <td style="text-align:left">29 Mar - 2 Apr</td>
+      <td style="text-align:left">28 Jun - 2 Jul</td>
       <td style="text-align:left">Arrays, Sorting Algorithms, Hash Tables</td>
       <td style="text-align:left"><a href="../projects/project-3-full-stack-game.md">P3</a>
       </td>
@@ -227,7 +217,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">13</td>
-      <td style="text-align:left">5-9 Apr</td>
+      <td style="text-align:left">5-9 Ju.</td>
       <td style="text-align:left">React: JSX, Components, Props
         <br />OOP, Stacks, Queues</td>
       <td style="text-align:left">-</td>
@@ -244,7 +234,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">14</td>
-      <td style="text-align:left">12-16 Apr</td>
+      <td style="text-align:left">12-16 Jul</td>
       <td style="text-align:left">
         <p>React, AJAX</p>
         <p>Linked Lists, Trees</p>
@@ -263,7 +253,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">15</td>
-      <td style="text-align:left">19-23 Apr</td>
+      <td style="text-align:left">19-23 Jul</td>
       <td style="text-align:left">Graphs, Heaps</td>
       <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
       </td>
@@ -280,7 +270,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">16</td>
-      <td style="text-align:left">26-30 Apr</td>
+      <td style="text-align:left">26-30 Jul</td>
       <td style="text-align:left">Dynamic Programming</td>
       <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
       </td>
@@ -297,7 +287,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">17</td>
-      <td style="text-align:left">3-7 May</td>
+      <td style="text-align:left">2-6 Aug</td>
       <td style="text-align:left">
         <p>Create React App, Higher-Order Components, Global React State</p>
         <p>Common Algorithm Patterns</p>
@@ -316,7 +306,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">18</td>
-      <td style="text-align:left">10-14 May</td>
+      <td style="text-align:left">9-13 Aug</td>
       <td style="text-align:left">
         <p>React Router, Styled Components</p>
         <p>Career Prep: Resume, Portfolio, Job List</p>
@@ -335,7 +325,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">19</td>
-      <td style="text-align:left">17-21 May</td>
+      <td style="text-align:left">16-20 Aug</td>
       <td style="text-align:left">DS&amp;A Open Practice</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
       </td>
@@ -352,7 +342,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">20</td>
-      <td style="text-align:left">24-28 May</td>
+      <td style="text-align:left">23-27 Aug</td>
       <td style="text-align:left">DS&amp;A Open Practice</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
       </td>
@@ -369,7 +359,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">21</td>
-      <td style="text-align:left">31 May - 4 Jun</td>
+      <td style="text-align:left">30 Aug - 3 Sep</td>
       <td style="text-align:left">Security, Testing</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
@@ -385,7 +375,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">22</td>
-      <td style="text-align:left">7-11 Jun</td>
+      <td style="text-align:left">6-10 Sep</td>
       <td style="text-align:left">TDD, CI/CD, Django</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
       </td>
@@ -402,7 +392,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">23</td>
-      <td style="text-align:left">14-18 Jun</td>
+      <td style="text-align:left">13-17 Sep</td>
       <td style="text-align:left">Machine Learning</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
       </td>
@@ -419,7 +409,7 @@ description: 11 Jan - 25 Jun
     </tr>
     <tr>
       <td style="text-align:left">24</td>
-      <td style="text-align:left">21-25 Jun</td>
+      <td style="text-align:left">20-24 Sep</td>
       <td style="text-align:left">React Native</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
       </td>
