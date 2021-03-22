@@ -10,6 +10,8 @@ First we'll talk about how Bayes Theorem works and what it is trying to tell us.
 
 {% embed url="https://www.youtube.com/watch?v=HZGCoVF3YvM" %}
 
+Watch up to part 6, 22:36 in the following video re. Bayes Theroem
+
 {% embed url="https://www.youtube.com/watch?v=l3dZ6ZNFjo0" %}
 
 ## Further Videos
