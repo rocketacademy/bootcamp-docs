@@ -14,7 +14,6 @@
       <th style="text-align:left">Wed</th>
       <th style="text-align:left">Thu</th>
       <th style="text-align:left">Fri</th>
-      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -33,7 +32,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-1-5">CD1.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
@@ -51,7 +49,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-2-5">CD2.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
@@ -68,7 +65,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-5">CD3.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
@@ -85,7 +81,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-5">CD4.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
@@ -102,7 +97,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-4">CD5.4</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
@@ -119,7 +113,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-6-4">CD6.4</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
@@ -137,7 +130,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-7-3">CD7.3</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
@@ -155,7 +147,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-3">CD8.3</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">9</td>
@@ -172,7 +163,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-2">CD9.2</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">10</td>
@@ -189,7 +179,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-10-2">CD10.2</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
@@ -208,7 +197,6 @@
         </td>
         <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-11-2">CD11.2</a>
         </td>
-        <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">12</td>
@@ -226,7 +214,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-2">CD12.2</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
@@ -244,7 +231,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-2">CD13.2</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">14</td>
@@ -264,7 +250,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-2">CD14.2</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">15</td>
@@ -282,7 +267,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-1">CD15.1</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">16</td>
@@ -300,7 +284,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-1">CD16.1</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">17</td>
@@ -320,7 +303,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-1">CD17.1</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">18</td>
@@ -340,7 +322,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-5">CD17.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">19</td>
@@ -358,7 +339,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-5">CD18.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">20</td>
@@ -376,7 +356,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-5">CD19.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">21</td>
@@ -393,7 +372,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-5">CD20.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">22</td>
@@ -411,7 +389,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-5">CD21.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">23</td>
@@ -429,7 +406,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-5">CD22.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">24</td>
@@ -447,7 +423,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-5">CD23.5</a>
       </td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
