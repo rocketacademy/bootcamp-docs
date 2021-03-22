@@ -52,6 +52,7 @@
 * [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 #### **In-Class**
 
@@ -62,6 +63,7 @@
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * DS&A Open Practice
 
 ### Course Day 17.4
@@ -86,6 +88,7 @@
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * DS&A Open Practice
 
 ### Course Day 17.5
@@ -108,6 +111,7 @@
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * DS&A Open Practice
 
 ## Course Week 18
@@ -133,6 +137,7 @@
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * DS&A Open Practice
 
 ### Course Day 18.2
