@@ -371,5 +371,4 @@
 * [CP.2: Resume](career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](career-prep/cp.4-job-list.md)
-* [CP.5: Interview Mindset](career-prep/cp.5-interview-mindset.md)
 

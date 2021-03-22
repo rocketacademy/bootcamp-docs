@@ -353,7 +353,7 @@ None
 
 * [9.1 Security](https://github.com/rocketacademy/bootcamp-docs/tree/f357a152ccbae2bb3e0d4bd14c4385b46e4fd5df/9-advanced-topics/9.1-security)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
-* [CP.5: Interview Mindset](../career-prep/cp.5-interview-mindset.md)
+* [CP.5: Interview Mindset]()
 
 #### In-Class
 
