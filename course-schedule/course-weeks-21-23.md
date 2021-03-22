@@ -129,7 +129,8 @@ None
 
 #### Pre-Class
 
-* 9.5.1: ML - Naive Bayes Classifier
+* [9.5.1: ML - Naive Bayes Classifier JS](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
+* [9.5.2: ML - Naive Bayes Classifier Python](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
 
 #### In-Class
 
@@ -143,7 +144,7 @@ None
 
 #### Pre-Class
 
-* 9.4: React Native
+* [9.4: React Native](../9-advanced-topics/9.4-react-native.md)
 
 #### In-Class
 
