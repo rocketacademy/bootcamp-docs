@@ -16,7 +16,9 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
-| Wed | 17 Mar 2021 | 3-4pm | [Yong Jie Wong](https://www.linkedin.com/in/wongyongjie/) | Co-Founder and Technical Lead at Glints |
+| Wed | 31 Mar 2021 | 3-4pm | [Aizat Faiz](https://www.linkedin.com/in/aizatto/) \(video\) | Engineering Manager at Xfers |
+| Wed | 24 Mar 2021 | 3-4pm | [Allen Ling](https://www.linkedin.com/in/allen-ling-57110590/) \(video\) | Principal Engineer: Cloud and DevOps at Versent |
+| Wed | 17 Mar 2021 | 3-4pm | [Yong Jie Wong](https://www.linkedin.com/in/wongyongjie/) \([video](https://youtu.be/Mq8cZtXf7ls)\) | Co-Founder and Technical Lead at Glints |
 | Tue | 9 Mar 2021 | 6-7pm | [Michael Cheng](https://www.linkedin.com/in/miccheng/) \([video](https://youtu.be/qd-mCIEmIX8)\) | Lead Engineer at GovTech Singapore, Founder at Engineers.SG |
 | Wed | 3 Mar 2021 | 3-345pm | [Geoff Cheah](https://www.linkedin.com/in/geoffreycheah/) \([video](https://youtu.be/b1rONDnGLw0)\) | Senior Software Engineer at BCG Digital Ventures |
 | Wed | 24 Feb 2021 | 3-345pm | [Frank Chen](https://www.linkedin.com/in/frankchn/) \([video](https://youtu.be/1qv4bifHSK8)\) | Senior Software Engineer at Google Tensorflow, Founding Engineer at Coursera |
