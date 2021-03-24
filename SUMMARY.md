@@ -362,7 +362,6 @@
 * [D.11: Open Practice](data-structures-and-algorithms/d.11-open-practice.md)
 * [D.ICE: In-Class Exercises](data-structures-and-algorithms/d.ice-in-class-exercises/README.md)
   * [D.ICE.1: Recursion](data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
-* [D.POCE: Post-Class Exercises](data-structures-and-algorithms/d.poce-post-class-exercises.md)
 
 ## 💼 Career Prep
 
