@@ -18,11 +18,11 @@
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-19)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-19)
 
 ### Course Day 21.2
 
