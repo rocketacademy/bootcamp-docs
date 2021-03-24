@@ -360,8 +360,6 @@
   * [D.10.5: Sliding Windows](data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
   * [D.10.6: Bit Manipulation](data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
 * [D.11: Open Practice](data-structures-and-algorithms/d.11-open-practice.md)
-* [D.ICE: In-Class Exercises](data-structures-and-algorithms/d.ice-in-class-exercises/README.md)
-  * [D.ICE.1: Recursion](data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
 
 ## 💼 Career Prep
 

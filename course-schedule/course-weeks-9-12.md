@@ -201,12 +201,12 @@
 
 #### In-Class
 
-* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md)
 
 #### Post-Class
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
-* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md)
 
 ### Course Day 11.3
 
@@ -217,12 +217,12 @@
 #### In-Class
 
 * AJAX Cards Redux
-* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md)
 
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
-* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md)
 
 ### Course Day 11.4
 
@@ -232,12 +232,12 @@ None
 
 #### In-Class
 
-* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.ICE.1: Recursion](../data-structures-and-algorithms/d.ice-in-class-exercises/d.ice.1-recursion.md)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md)
 
 ### Course Day 11.5
 
