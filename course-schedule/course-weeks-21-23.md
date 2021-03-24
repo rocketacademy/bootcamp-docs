@@ -37,7 +37,7 @@
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-20)
 
 ### Course Day 21.3
 
@@ -51,7 +51,7 @@
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-21)
 
 ### Course Day 21.4
 
@@ -61,11 +61,11 @@
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-22)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-22)
 
 ### Course Day 21.5
 
@@ -75,11 +75,11 @@
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-23)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-23)
 
 ## Course Week 22
 
@@ -91,11 +91,11 @@
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-24)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-24)
 
 ### Course Day 22.2
 
@@ -105,11 +105,11 @@ None
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-25)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-25)
 
 ### Course Day 22.3
 
@@ -119,11 +119,11 @@ None
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-26)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-26)
 
 ### Course Day 22.4
 
@@ -134,11 +134,11 @@ None
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-27)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-27)
 
 ### Course Day 22.5
 
@@ -148,11 +148,11 @@ None
 
 #### In-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-28)
 
 #### Post-Class
 
-* DS&A Open Practice
+* [DS&A Open Practice](../data-structures-and-algorithms/d.11-open-practice.md#day-28)
 
 ## Course Week 23
 
