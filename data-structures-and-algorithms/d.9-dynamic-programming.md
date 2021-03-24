@@ -41,7 +41,7 @@ Attempt the following Easy DP problems on Leetcode.
 
 1. [https://leetcode.com/problems/divisor-game/](https://leetcode.com/problems/divisor-game/)
    1. Note: This can be solved with math and not DP, but please implement the DP version for practice.
-   2. Rocket Academy solution code: [https://leetcode.com/submissions/detail/459088070/](https://leetcode.com/submissions/detail/459088070/)
+   2. Rocket Academy solution code: [https://pastebin.com/mywskXkk](https://pastebin.com/mywskXkk)
    3. Rocket Academy solution video: [https://youtu.be/SUGb21Ec5kE?t=2113](https://youtu.be/SUGb21Ec5kE?t=2113) \(35:13 until about 1:48:30\)
 2. [https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)
 3. [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)
