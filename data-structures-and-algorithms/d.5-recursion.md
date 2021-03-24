@@ -26,6 +26,8 @@ Please review the following resources to better understand recursion.
 
 ## Exercises
 
+We will be working through these exercises over multiple days. Please complete Exercise \#1 as pre-class, and 10 of the exercises in \#2 per day for in-class and post-class work.
+
 1. Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified. After you attempt the problem, view other Python submissions in the [Discuss tab](https://leetcode.com/problems/n-th-tribonacci-number/discuss/?currentPage=1&orderBy=hot&query=).
    1. [https://leetcode.com/problems/n-th-tribonacci-number/](https://leetcode.com/problems/n-th-tribonacci-number/)
 2. Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
