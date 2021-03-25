@@ -16,21 +16,20 @@ Please read and understand the stack class implementation in [this](https://repl
 
 ## Exercises
 
-### Rocket Academy
+Feel free to use the Python List to perform Stack operations. Once you've attempted each problem, please review solutions in the Discuss tab on that problem's page.
 
-#### Exercises
+### Pre-Class
 
-1. [https://repl.it/@kaiyuanneo/stacks1\#main.py](https://repl.it/@kaiyuanneo/stacks1#main.py)
-2. [https://repl.it/@kaiyuanneo/stacks2\#main.py](https://repl.it/@kaiyuanneo/stacks2#main.py)
+1. [https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+2. [https://leetcode.com/problems/crawler-log-folder/](https://leetcode.com/problems/crawler-log-folder/)
 
-#### Solutions
+### Part 1
 
-1. [https://repl.it/@kaiyuanneo/stacks1soln\#main.py](https://repl.it/@kaiyuanneo/stacks1soln#main.py)
-2. [https://repl.it/@kaiyuanneo/stacks2soln\#main.py](https://repl.it/@kaiyuanneo/stacks2soln#main.py)
+1. [https://leetcode.com/problems/make-the-string-great/](https://leetcode.com/problems/make-the-string-great/)
+2. [https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)
 
-### Leetcode
+### Part 2
 
-[Here](https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=stack) are 12 Easy-level stack-specific problems on Leetcode. Please complete as many as you can. Once you've attempted each problem, please review solutions in the Discuss tab on that problem's page.
-
-Note that the stack problems on Leetcode do not provide a custom stack data structure. Please use Python Lists in lieu of stacks.
+1. [https://leetcode.com/problems/min-stack/](https://leetcode.com/problems/min-stack/)
+2. [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)
 
