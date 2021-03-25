@@ -220,12 +220,12 @@
 #### In-Class
 
 * AJAX Cards Redux
-* D.5: Recursion - Part 2
+* [D.5: Recursion - Part 2](../data-structures-and-algorithms/d.5-recursion.md#part-2)
 
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) - Part 2
+* [D.5: Recursion - Part 2](../data-structures-and-algorithms/d.5-recursion.md#part-2)
 
 ### Course Day 11.4
 
@@ -235,12 +235,12 @@ None
 
 #### In-Class
 
-* D.5: Recursion Part 3
+* [D.5: Recursion Part 3](../data-structures-and-algorithms/d.5-recursion.md#part-3)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* D.5: Recursion Part 3
+* [D.5: Recursion Part 3](../data-structures-and-algorithms/d.5-recursion.md#part-3)
 
 ### Course Day 11.5
 
