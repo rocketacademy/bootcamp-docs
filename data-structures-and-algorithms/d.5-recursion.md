@@ -26,41 +26,56 @@ Please review the following resources to better understand recursion.
 
 ## Exercises
 
-We will be working through these exercises over multiple days. Please complete Exercise \#1 as pre-class, and 10 of the exercises in \#2 per day for in-class and post-class work.
+We will be working through these exercises over multiple days.
 
-1. Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified. After you attempt the problem, view other Python submissions in the [Discuss tab](https://leetcode.com/problems/n-th-tribonacci-number/discuss/?currentPage=1&orderBy=hot&query=).
-   1. [https://leetcode.com/problems/n-th-tribonacci-number/](https://leetcode.com/problems/n-th-tribonacci-number/)
-2. Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
-   1. Factorial
-   2. Bunny Ears
-   3. Fibonacci
-   4. Bunny Ears 2
-   5. Triangle
-   6. Sum Digits
-   7. Count 7
-   8. Count 8
-   9. Power N
-   10. Count X
-   11. Count Hi
-   12. Change XY
-   13. Change Pi
-   14. No X
-   15. Array 6
-   16. Array 11
-   17. Array 220
-   18. All Star
-   19. Pair Star
-   20. End X
-   21. Count Pairs
-   22. Count ABC
-   23. Count 11
-   24. String Clean
-   25. Count Hi 2
-   26. Paren Bit
-   27. Nest Paren
-   28. Str Count
-   29. Str Copies
-   30. Str Dist
+### Part 1
+
+Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified. After you attempt the problem, view other Python submissions in the [Discuss tab](https://leetcode.com/problems/n-th-tribonacci-number/discuss/?currentPage=1&orderBy=hot&query=).
+
+[https://leetcode.com/problems/n-th-tribonacci-number/](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+## Repl.it
+
+Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
+
+### Part 1
+
+1. Factorial
+2. Bunny Ears
+3. Fibonacci
+4. Bunny Ears 2
+5. Triangle
+6. Sum Digits
+7. Count 7
+8. Count 8
+9. Power N
+10. Count X
+11. Count Hi
+
+### Part 3
+
+1. Change XY
+2. Change Pi
+3. No X
+4. Array 6
+5. Array 11
+6. Array 220
+7. All Star
+8. Pair Star
+9. End X
+10. Count Pairs
+
+### Part 4
+
+1. Count ABC
+2. Count 11
+3. String Clean
+4. Count Hi 2
+5. Paren Bit
+6. Nest Paren
+7. Str Count
+8. Str Copies
+9. Str Dist
 
 ## Reference Solutions
 
