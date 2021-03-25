@@ -1,5 +1,7 @@
 # D.5: Recursion
 
+![](../.gitbook/assets/tabletop_roleplaying.png)
+
 ## Introduction
 
 Recursion is one of the most powerful techniques in programming, albeit rarely used in business applications because business applications typically do not require it. Recursion is the concept of a function calling itself to achieve its result. A classic example is the Fibonacci sequence, where `Fib(n) = Fib(n-1) + Fib(n-2)`. The `Fib` function would repeatedly call itself until it reaches a so-called **"base case"**, after which the latest function calls would then `return` to the previous function calls.
