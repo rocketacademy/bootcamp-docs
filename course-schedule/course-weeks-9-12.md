@@ -197,16 +197,19 @@
 
 * [6.1.3: Webpack with Babel](../6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
 * [6.1.4: Webpack with SASS](../6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) \(Exercise 1\)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) - Required Reading
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) - Tribonacci
 
 #### In-Class
 
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) \(Exercises 2.1-10\)
+* [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.5-recursion.md#part-1)
 
 #### Post-Class
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) \(Exercises 2.1-10\)
+* [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.5-recursion.md#part-1)
+
+
 
 ### Course Day 11.3
 
@@ -217,12 +220,12 @@
 #### In-Class
 
 * AJAX Cards Redux
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) \(Exercises 2.11-20\)
+* D.5: Recursion - Part 2
 
 #### Post-Class
 
 * [Project 3: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) \(Exercises 2.11-20\)
+* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) - Part 2
 
 ### Course Day 11.4
 
@@ -232,12 +235,12 @@ None
 
 #### In-Class
 
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) \(Exercises 2.21-30\)
+* D.5: Recursion Part 3
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5: Recursion](../data-structures-and-algorithms/d.5-recursion.md) \(Exercises 2.21-30\)
+* D.5: Recursion Part 3
 
 ### Course Day 11.5
 

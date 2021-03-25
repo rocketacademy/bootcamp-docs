@@ -28,7 +28,7 @@ Please review the following resources to better understand recursion.
 
 We will be working through these exercises over multiple days.
 
-### Part 1
+### Tribonacci
 
 Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified. After you attempt the problem, view other Python submissions in the [Discuss tab](https://leetcode.com/problems/n-th-tribonacci-number/discuss/?currentPage=1&orderBy=hot&query=).
 
@@ -52,7 +52,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 10. Count X
 11. Count Hi
 
-### Part 3
+### Part 2
 
 1. Change XY
 2. Change Pi
@@ -65,7 +65,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 9. End X
 10. Count Pairs
 
-### Part 4
+### Part 3
 
 1. Count ABC
 2. Count 11
