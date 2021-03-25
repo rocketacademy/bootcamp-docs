@@ -4,10 +4,6 @@
 
 Video Poker is the Poker card game, but for one player. You will play hands of poker and try to score points by getting the best hand possible.
 
-{% hint style="danger" %}
-**Rocket Academy does not endorse gambling.** We chose Video Poker as a project because of its complex rules that help facilitate coding instruction.
-{% endhint %}
-
 ## Setup
 
 Begin by forking the [Video Poker Repo](https://github.com/rocketacademy/video-poker-bootcamp).
@@ -82,4 +78,8 @@ Show the user the probability of getting each winning hand if they choose to swi
 ### 7 Card Stud
 
 Implement 7 card stud rules for poker instead of 5 card draw.
+
+{% hint style="danger" %}
+**Rocket Academy does not endorse gambling.** We chose Video Poker as a project because of its complex rules that help facilitate coding instruction.
+{% endhint %}
 

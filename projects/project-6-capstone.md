@@ -2,31 +2,20 @@
 
 ## Introduction
 
-This is the capstone project. The objective of this project is to allow you to pursue an interest or field and choose your own tech stack based on its applicability or merits, while under the guidance of the instructors.
-
-At the end of this project you should be able to justify the technology choices you've made and understand some of the tradeoffs between the available options.
-
-You can choose to work alone or in teams of two.
+This is the capstone project. The objective of this project is to allow you to pursue a specific interest or field and choose your own tech stack based on its applicability or merits, while under the guidance of RA instructors. At the end of this project you should be able to justify the technology choices you've made and understand some of the tradeoffs between the available options. You can choose to work alone or in teams of two.
 
 ## Requirements
 
-Your app must include unit testing for all non-CRUD logic that happens on the backend. The unit tests should run in continuous integration whenever anyone pushes to the GitHub repo.
-
-The app must work without errors.
-
-Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
-
-You are responsible for any seed data your app would need to run without errors. If the app is a web app, the final version must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
+1. Your app must include unit testing for all non-CRUD logic that happens on the backend. The unit tests should run in continuous integration whenever anyone pushes to the GitHub repo.
+2. The app must work without errors.
+3. Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
+4. You are responsible for any seed data your app would need to run without errors. If the app is a web app, the final version must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
 
 ## Ideas
 
 Be creative when thinking about what you want to accomplish in this project.
 
-Do you want to build the perfect Express.js app that has no bugs and beautiful code and amazing CSS?
-
-Do you want to write a mobile app that solves some problem that you're passionate about?
-
-Do you want to create a React Component NPM package that you think people would want to use?
+Do you want to build the perfect Express.js app that has no bugs and beautiful code and amazing CSS? Do you want to write a mobile app that solves some problem that you're passionate about? Do you want to create a React Component NPM package that you think people would want to use?
 
 Take some time to consider what kind of learning outcome and what kind of project you want to produce in the time that you have left at Rocket Academy.
 
