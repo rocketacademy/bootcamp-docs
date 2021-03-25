@@ -2,9 +2,7 @@
 
 ## Introduction
 
-Workflow when coding a project collaboratively is very different from coding a project by yourself.
-
-The following section will describe a set of tools and workflows that will make it as smooth as possible to create an entire project together.
+The workflow when coding in a group is different from coding alone. This module describes tools and workflows to enable smooth coding in a group.
 
 ## Principles
 
