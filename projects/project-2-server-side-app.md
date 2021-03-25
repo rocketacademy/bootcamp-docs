@@ -66,17 +66,17 @@ Create your own repo from scratch. Do not clone from any other repo. \(You can u
 
 ### Summary
 
-| Day of Week | Course Day | Deliverable |
-| :--- | :--- | :--- |
-| Mon | W6D1 | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback |
-| Fri | W6D5 | Deadline to post project ideas in Slack |
-| Mon | W7D1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
-| Tue | W7D2 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
-| Mon | W8D1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
-| Thu | W8D4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
-| Mon | W9D1 | Project presentations. 60-minute post-mortem with instructor. |
-| Tue | W9D2 | Start Project-2-based technical blog post. |
-| Mon | W10D1 | Blog post due. |
+| Course Day | Deliverable |
+| :--- | :--- |
+| CD6.1 | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback |
+| CD6.5 | Deadline to post project ideas in Slack |
+| CD7.1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
+| CD7.2 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
+| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
+| CD8.4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
+| CD8.5 | Project presentations. 60-minute post-mortem with instructor. |
+| CD9.1 | Project redux exercise |
+| CD9.3 | Project demo video due. |
 
 ### Ideation Phase 1
 
@@ -114,7 +114,7 @@ When speaking it is a common impulse to downplay what the app does. This include
 
 If you catch yourself saying any of these phrases in the video, stop and re-record it. Remember that this video is to demonstrate what the app does do, not to talk about what it doesn't do.
 
-#### How to Record the video
+#### How to record the video
 
 Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
 

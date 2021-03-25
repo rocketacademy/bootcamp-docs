@@ -18,7 +18,7 @@
 #### Post-Class
 
 * [4.POCE.1: Heroku Deploy](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
-* [Project Demo Video ](../projects/project-2-server-side-app.md#technical-blog-post) \(Due Course Day 9.4\)
+* [Project 2 Demo Video](../projects/project-2-server-side-app.md#video-demo)
 
 ### Course Day 9.2
 
@@ -33,13 +33,13 @@
 
 #### Post-Class
 
-* [Project Demo Video ](../projects/project-2-server-side-app.md#technical-blog-post) \(Due Course Day 9.4\)
+* [Project 2 Demo Video](../projects/project-2-server-side-app.md#video-demo)
 
 ### Course Day 9.3
 
 #### Due
 
-* [Project Demo Video ](../projects/project-2-server-side-app.md#technical-blog-post)
+* [Project 2 Demo Video](../projects/project-2-server-side-app.md#technical-blog-post)
 
 #### Pre-Class
 
@@ -55,10 +55,6 @@
 * [4.POCE.2: Sequelize CLI](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
 
 ### Course Day 9.4
-
-#### Due
-
-* [Project Demo Video ](../projects/project-2-server-side-app.md#technical-blog-post)
 
 #### Pre-Class
 
