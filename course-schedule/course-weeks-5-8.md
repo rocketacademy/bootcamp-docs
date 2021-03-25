@@ -99,7 +99,7 @@
 #### Post-Class
 
 * [3.POCE.5: Bird Watching](../3-backend-applications/3.poce-post-class-exercises/3.poce.5-bird-watching.md)
-* [Project 2 Planning: Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ### Course Day 6.2
 
@@ -114,6 +114,7 @@
 
 #### Post-Class
 
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.6: Bird Watching Users](../3-backend-applications/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
 
 ### Course Day 6.3
@@ -130,6 +131,7 @@
 
 #### Post-Class
 
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.7: Bird Watching Species](../3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
 
 ### Course Day 6.4
@@ -146,9 +148,14 @@
 
 #### Post-Class
 
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.8: Bird Watching Behaviour](../3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
 
 ### Course Day 6.5
+
+#### Due
+
+* Project 2 deadline to post ideas in Slack
 
 #### Pre-Class
 
@@ -160,9 +167,9 @@
 
 #### Post-Class
 
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.9: Bird Watching Comments](../3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
 * [3.POCE.10: Deployment](../3-backend-applications/3.poce-post-class-exercises/3.poce.10-deployment.md)
-* [Project 2 Planning: Ideation Deadline](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ## Course Week 7
 
@@ -179,7 +186,7 @@
 
 #### Post-Class
 
-* [Project 2 Planning: User Flows, Wireframes, DB ERDs](../projects/project-2-server-side-app.md#ideation-phase-2)
+* [Project 2 Ideation Phase 2 ](../projects/project-2-server-side-app.md#ideation-phase-2)
 
 ### Course Day 7.2
 
@@ -190,11 +197,12 @@
 
 #### In-Class
 
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 2 Planning: Peer Discussion](../projects/project-2-server-side-app.md#ideation-phase-2)
 
 #### Post-Class
 
-* [Project 2 Planning: Instructor 1-1s](../projects/project-2-server-side-app.md#ideation-phase-2)
+* [Project 2 Instructor 1-1s](../projects/project-2-server-side-app.md#ideation-phase-2)
 * [Project 2 Implementation](../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ### Course Day 7.3
@@ -205,8 +213,8 @@
 
 #### In-Class
 
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [3.ICE.12: DB Schema Design - Uber](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
 
 #### Post-Class
 
@@ -220,7 +228,7 @@
 
 #### In-Class
 
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 
 #### Post-Class
 
@@ -234,7 +242,7 @@ None
 
 #### In-Class
 
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [3.ICE.13: Instagram DB](../3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
 
 #### Post-Class
@@ -251,8 +259,8 @@ None
 
 #### In-Class
 
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [3.ICE.14: CSS Practice 2](../3-backend-applications/3.ice-in-class-exercises/3.ice.14-css-practice-2.md)
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
 
 #### Post-Class
 
@@ -267,7 +275,7 @@ None
 
 #### In-Class
 
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [3.ICE.15: CSS Practice 3](../3-backend-applications/3.ice-in-class-exercises/3.ice.15-css-practice-3.md)
 
 #### Post-Class
@@ -282,7 +290,7 @@ None
 
 #### In-Class
 
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [3.ICE.16: CSS Practice 4](../3-backend-applications/3.ice-in-class-exercises/3.ice.16-css-practice-4.md)
 
 #### Post-Class
@@ -297,7 +305,7 @@ None
 
 #### In-Class
 
-* [Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [3.ICE.17: CSS Practice 5](../3-backend-applications/3.ice-in-class-exercises/3.ice.17-css-practice-5.md)
 
 #### Post-Class
