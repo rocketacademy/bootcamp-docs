@@ -266,6 +266,10 @@ None
 
 ### Course Day 16.1
 
+#### Due 
+
+* Project 4 MVP \(deployed\)
+
 #### Pre-Class
 
 None
@@ -297,6 +301,10 @@ None
 * [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
 
 ### Course Day 16.3
+
+#### Due
+
+* Project 4 Feature Freeze
 
 #### Pre-Class
 

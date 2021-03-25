@@ -18,6 +18,7 @@
 
 #### Post-Class
 
+* [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
 * [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
 
 ### Course Day 17.2
