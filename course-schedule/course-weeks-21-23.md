@@ -206,6 +206,10 @@ None
 
 ### Course Day 23.3
 
+#### Due
+
+* Batch 1: Project 6 MVP Deadline
+
 #### Pre-Class
 
 None
@@ -220,6 +224,10 @@ None
 * [DS&A Open Practice: Day 31](../data-structures-and-algorithms/d.11-open-practice.md#day-31)
 
 ### Course Day 23.4
+
+#### Due
+
+* Batch 1: Project 6 Feature Freeze
 
 #### Pre-Class
 
@@ -242,7 +250,7 @@ None
 
 #### In-Class
 
-* Project 6 Final Presentations
+* Project 6 Presentations
 * [DS&A Open Practice: Day 33](../data-structures-and-algorithms/d.11-open-practice.md#day-33)
 
 #### Post-Class
