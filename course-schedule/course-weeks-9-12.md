@@ -316,17 +316,17 @@ None
 
 #### Pre-Class
 
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+* [D.6.3: Stacks - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md#pre-class)
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+* [D.6.3: Stacks - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md#part-1)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+* [D.6.3: Stacks - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md#part-1)
 
 ### Course Day 12.5
 
@@ -341,10 +341,10 @@ None
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+* [D.6.3: Stacks - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md#part-2)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
+* [D.6.3: Stacks - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md#part-2)
 
