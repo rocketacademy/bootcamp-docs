@@ -105,7 +105,7 @@
 
 #### Post-Class
 
-* [Project 1: Video Poker](../projects/project-1-video-poker.md)
+* [Project 1 Implementation](../projects/project-1-video-poker.md)
 
 ### Course Day 2.2
 
@@ -120,7 +120,7 @@ No pre-class material today.
 
 #### **Post-Class**
 
-* [Project 1: Video Poker](../projects/project-1-video-poker.md)
+* [Project 1 Implementation](../projects/project-1-video-poker.md)
 
 ### Course Day 2.3
 
@@ -135,7 +135,7 @@ No pre-class material today.
 
 #### Post-Class
 
-* [Project 1: Video Poker](../projects/project-1-video-poker.md)
+* [Project 1 Implementation](../projects/project-1-video-poker.md)
 
 ### Course Day 2.4
 
@@ -150,7 +150,7 @@ No pre-class material today.
 
 #### Post-Class
 
-* [Project 1: Video Poker](../projects/project-1-video-poker.md)
+* [Project 1 Implementation](../projects/project-1-video-poker.md)
 
 ### Course Day 2.5
 
@@ -165,8 +165,8 @@ No pre-class material today.
 
 #### Post-Class
 
-* [Project 1: Video Poker](../projects/project-1-video-poker.md)
-* [Deploy to Github Pages](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
+* [Project 1 Implementation](../projects/project-1-video-poker.md)
+* Project 1: Deploy to Github Pages
 
 ## Course Week 3
 
