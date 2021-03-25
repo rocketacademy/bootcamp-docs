@@ -283,18 +283,18 @@ None
 
 #### Pre-Class
 
-* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
+* [D.6.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#pre-class)
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
+* [D.6.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-1)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 * [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
-* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
+* [D.6.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-1)
 
 ### Course Day 12.3
 
@@ -305,12 +305,12 @@ None
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
+* [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-2)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
+* [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-2)
 
 ### Course Day 12.4
 
