@@ -52,7 +52,7 @@ Demo your app in a 2-3 minute video. First and foremost this video should explai
 
 For example, when talking about a react shopping app, when demoing the app, don't talk about how when the button gets clicked that the item moves to the shopping cart column, rather, speak about the process of the user selecting an item they want to buy and ordering it.
 
-#### How to Record the video
+#### How to Record the Video
 
 Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
 
