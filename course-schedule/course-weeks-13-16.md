@@ -163,7 +163,7 @@ None
 
 #### Due
 
-* Project 4 Ideas posted to Slack
+* Project 4 deadline to post ideas to Slack
 
 #### Pre-Class
 
@@ -211,7 +211,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### Course Day 15.3
@@ -227,7 +227,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### Course Day 15.4
@@ -243,7 +243,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
 
 ### Course Day 15.5
@@ -259,7 +259,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
 
 ## Course Week 16
@@ -277,7 +277,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
 
 ### Course Day 16.2
@@ -293,7 +293,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
 
 ### Course Day 16.3
@@ -309,7 +309,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.10.2: Breadth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
 
 ### Course Day 16.4
@@ -325,7 +325,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
 * [D.10.3: Recursive Backtracking](../data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
 
 ### Course Day 16.5
