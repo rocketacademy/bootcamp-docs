@@ -29,7 +29,8 @@ The following is a list of curated Leetcode problems that we can do on a daily b
 ### Day 4
 
 1. [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)
-   1. Hint: Can we pre-process the data such that we can loop over the array once and fill in the `answer` array?
+   1. Hint: Solving this in O\(n\) without division is a bit of a trick. Feel free to solve it with division and move on.
+   2. If you're keen on solving it without division: Can we pre-process the data and create intermediate data structures in O\(n\) time such that we can then fill in the `answer` array with a single loop?
 2. [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ### Day 5
