@@ -22,6 +22,7 @@
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 19](../data-structures-and-algorithms/d.11-open-practice.md#day-19)
 
 ### Course Day 21.2
@@ -37,6 +38,7 @@
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 20](../data-structures-and-algorithms/d.11-open-practice.md#day-20)
 
 ### Course Day 21.3
@@ -51,6 +53,7 @@
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 21](../data-structures-and-algorithms/d.11-open-practice.md#day-21)
 
 ### Course Day 21.4
@@ -65,6 +68,7 @@
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 22](../data-structures-and-algorithms/d.11-open-practice.md#day-22)
 
 ### Course Day 21.5
@@ -79,11 +83,16 @@
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 23](../data-structures-and-algorithms/d.11-open-practice.md#day-23)
 
 ## Course Week 22
 
 ### Course Day 22.1
+
+#### Due
+
+* Project 6 MVP \(deployed\)
 
 #### Pre-Class
 
@@ -95,6 +104,7 @@
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 24](../data-structures-and-algorithms/d.11-open-practice.md#day-24)
 
 ### Course Day 22.2
@@ -109,6 +119,7 @@ None
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 25](../data-structures-and-algorithms/d.11-open-practice.md#day-25)
 
 ### Course Day 22.3
@@ -123,6 +134,7 @@ None
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 26](../data-structures-and-algorithms/d.11-open-practice.md#day-26)
 
 ### Course Day 22.4
@@ -138,6 +150,7 @@ None
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 27](../data-structures-and-algorithms/d.11-open-practice.md#day-27)
 
 ### Course Day 22.5
@@ -152,13 +165,20 @@ None
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 28](../data-structures-and-algorithms/d.11-open-practice.md#day-28)
 
 ## Course Week 23
 
 ### Course Day 23.1
 
+#### Due
+
+* Project 6 Feature Freeze
+
 #### Pre-Class
+
+None
 
 #### In-Class
 
@@ -166,50 +186,63 @@ None
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 29](../data-structures-and-algorithms/d.11-open-practice.md#day-29)
 
 ### Course Day 23.2
 
 #### Pre-Class
 
+None
+
 #### In-Class
 
 * [DS&A Open Practice: Day 30](../data-structures-and-algorithms/d.11-open-practice.md#day-30)
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 30](../data-structures-and-algorithms/d.11-open-practice.md#day-30)
 
 ### Course Day 23.3
 
 #### Pre-Class
 
+None
+
 #### In-Class
 
 * [DS&A Open Practice: Day 31](../data-structures-and-algorithms/d.11-open-practice.md#day-31)
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 31](../data-structures-and-algorithms/d.11-open-practice.md#day-31)
 
 ### Course Day 23.4
 
 #### Pre-Class
 
+None
+
 #### In-Class
 
 * [DS&A Open Practice: Day 32](../data-structures-and-algorithms/d.11-open-practice.md#day-32)
 
 #### Post-Class
 
+* [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice: Day 32](../data-structures-and-algorithms/d.11-open-practice.md#day-32)
 
 ### Course Day 23.5
 
 #### Pre-Class
 
+None
+
 #### In-Class
 
+* Project 6 Final Presentations
 * [DS&A Open Practice: Day 33](../data-structures-and-algorithms/d.11-open-practice.md#day-33)
 
 #### Post-Class

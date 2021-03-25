@@ -330,6 +330,8 @@ None
 #### Post-Class
 
 * Project 5 Post-Mortems
+* Project 5 Video
+* Project 6 Ideation
 * [DS&A Open Practice: Day 16](../data-structures-and-algorithms/d.11-open-practice.md#day-16)
 
 ### Course Day 20.4
@@ -344,6 +346,8 @@ None
 
 #### Post-Class
 
+* Project 5 Video
+* Project 6 Ideation
 * [DS&A Open Practice: Day 17](../data-structures-and-algorithms/d.11-open-practice.md#day-17)
 
 ## Module 9: Advanced Topics
@@ -365,5 +369,6 @@ None
 
 #### Post-Class
 
+* Project 6 Implementation
 * [DS&A Open Practice: Day 18](../data-structures-and-algorithms/d.11-open-practice.md#day-18)
 
