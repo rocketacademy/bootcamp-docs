@@ -106,6 +106,7 @@ None
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+* [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.2
 
@@ -121,6 +122,7 @@ None
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [D.6.6: Trees](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md)
+* [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.3
 
@@ -138,6 +140,7 @@ None
 
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.4
 
@@ -153,8 +156,13 @@ None
 
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.5
+
+#### Due
+
+* Project 4 Ideas posted to Slack
 
 #### Pre-Class
 
@@ -170,6 +178,7 @@ None
 
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
+* [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ## Course Week 15
 
@@ -186,7 +195,7 @@ None
 
 #### Post-Class
 
-* [Project 4: Full-Stack React App](../projects/project-4-full-stack-react-app.md)
+* [Project 4 Ideation Phase 2](../projects/project-4-full-stack-react-app.md#ideation-phase-2) 
 * [D.6.8: Heaps](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md)
 
 ### Course Day 15.2
@@ -209,7 +218,8 @@ None
 
 #### Pre-Class
 
-* 
+None
+
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
