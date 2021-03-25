@@ -2,8 +2,6 @@
 
 ![](../../.gitbook/assets/having-no-collisions.jpeg)
 
-
-
 ## Introduction
 
 Hash tables are the generalised computer-science concept behind JavaScript Objects. Most programming languages have their own implementation of hash tables, e.g. Dictionaries in Python, HashMaps in Java.
