@@ -253,6 +253,10 @@ None
 
 ### Course Day 8.1
 
+#### Due
+
+* Project 2 MVP \(deployed\)
+
 #### Pre-Class
 
 None
@@ -284,6 +288,10 @@ None
 
 ### Course Day 8.3
 
+#### Due
+
+* Project 2 Feature Freeze
+
 #### Pre-Class
 
 None
@@ -310,8 +318,6 @@ None
 
 #### Post-Class
 
-* [Project 2 Feature Freeze \(no new features, focus on polish\)](../projects/project-2-server-side-app.md#project-timeline)
-* [Project 2 Pre-Presentation Meeting \(15 minutes\)](../projects/project-2-server-side-app.md#project-timeline)
 * [Project 2 Implementation](../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ### Course Day 8.5
