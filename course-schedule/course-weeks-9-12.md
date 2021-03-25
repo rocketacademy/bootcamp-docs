@@ -186,6 +186,7 @@
 #### Post-Class
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ### Course Day 11.2
 
@@ -203,6 +204,7 @@
 #### Post-Class
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 * [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.5-recursion.md#part-1)
 
 
@@ -220,7 +222,7 @@
 
 #### Post-Class
 
-* [Project 3: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
+* [Project 3 Ideation: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
 * [D.5: Recursion - Part 2](../data-structures-and-algorithms/d.5-recursion.md#part-2)
 
 ### Course Day 11.4
