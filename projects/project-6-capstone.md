@@ -21,7 +21,17 @@ Take some time to consider what kind of learning outcome and what kind of projec
 
 ## Project Timeline
 
-TBD
+### Summary
+
+| Course Day | Deliverable |
+| :--- | :--- |
+| CD20.3 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
+| CD20.4 | Deadline to post project ideas in Slack |
+| CD20.5 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
+| CD21.1 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack. |
+| CD22.1 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. 30-minute check-in with instructor. |
+| CD23.3 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback. |
+| CD23.5 | Project presentations. 60-minute post-mortem with instructor. |
 
 ### Ideation Phase 1
 

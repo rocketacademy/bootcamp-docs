@@ -65,6 +65,7 @@
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 1](../data-structures-and-algorithms/d.11-open-practice.md#day-1)
 
 ### Course Day 17.4
@@ -90,6 +91,7 @@
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 2](../data-structures-and-algorithms/d.11-open-practice.md#day-2)
 
 ### Course Day 17.5
@@ -113,6 +115,7 @@
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 3](../data-structures-and-algorithms/d.11-open-practice.md#day-3)
 
 ## Course Week 18
@@ -139,6 +142,7 @@
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 4](../data-structures-and-algorithms/d.11-open-practice.md#day-4)
 
 ### Course Day 18.2
@@ -159,13 +163,18 @@
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 5](../data-structures-and-algorithms/d.11-open-practice.md#day-5)
 
 ### Course Day 18.3
 
+#### Due
+
+* Project 5 deadline to post ideas and teams in Slack
+
 #### Pre-Class
 
-* [Project 5](../projects/project-5-group-react-app.md): Deadline to post teams and project ideas \(user stories\) in Slack
+None
 
 #### In-Class
 
@@ -174,6 +183,7 @@
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 6](../data-structures-and-algorithms/d.11-open-practice.md#day-6)
 
 ### Course Day 18.4
@@ -188,7 +198,7 @@ None
 
 #### Post-Class
 
-* [Project 5 Ideation \(user stories, wireframes, ERD\)](../projects/project-5-group-react-app.md#ideation-phase-2)
+* [Project 5 Ideation Phase 2](../projects/project-5-group-react-app.md#ideation-phase-2)
 * [DS&A Open Practice: Day 7](../data-structures-and-algorithms/d.11-open-practice.md#day-7)
 
 ### Course Day 18.5
@@ -203,8 +213,7 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
-* Project 5 Ideation Instructor Review \(Slack\)
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice: Day 8](../data-structures-and-algorithms/d.11-open-practice.md#day-8)
 
 ## Course Week 19
@@ -221,7 +230,7 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice: Day 9](../data-structures-and-algorithms/d.11-open-practice.md#day-9)
 
 ### Course Day 19.2
@@ -236,10 +245,14 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice: Day 10](../data-structures-and-algorithms/d.11-open-practice.md#day-10)
 
 ### Course Day 19.3
+
+#### Due
+
+* Project 5 MVP \(deployed\)
 
 #### Pre-Class
 
@@ -251,7 +264,7 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * Project 5 Midpoint Meeting
 * [DS&A Open Practice: Day 11](../data-structures-and-algorithms/d.11-open-practice.md#day-11)
 
@@ -267,7 +280,7 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice: Day 12](../data-structures-and-algorithms/d.11-open-practice.md#day-12)
 
 ### Course Day 19.5
@@ -282,12 +295,16 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice: Day 13](../data-structures-and-algorithms/d.11-open-practice.md#day-13)
 
 ## Course Week 20
 
 ### Course Day 20.1
+
+#### Due
+
+* Project 5 Feature Freeze
 
 #### Pre-Class
 
@@ -299,8 +316,7 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
-* Project 5 Feature Freeze
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice: Day 14](../data-structures-and-algorithms/d.11-open-practice.md#day-14)
 
 ### Course Day 20.2
@@ -315,7 +331,7 @@ None
 
 #### Post-Class
 
-* [Project 5](../projects/project-5-group-react-app.md)
+* [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice: Day 15](../data-structures-and-algorithms/d.11-open-practice.md#day-15)
 
 ### Course Day 20.3
@@ -330,9 +346,9 @@ None
 
 #### Post-Class
 
-* Project 5 Post-Mortems
-* Project 5 Video
-* Project 6 Ideation
+* [Project 5 Post-Mortems](../projects/project-5-group-react-app.md#post-mortem-meeting)
+* [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
+* [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 * [DS&A Open Practice: Day 16](../data-structures-and-algorithms/d.11-open-practice.md#day-16)
 
 ### Course Day 20.4
@@ -347,8 +363,8 @@ None
 
 #### Post-Class
 
-* Project 5 Video
-* Project 6 Ideation
+* [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
+* [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 * [DS&A Open Practice: Day 17](../data-structures-and-algorithms/d.11-open-practice.md#day-17)
 
 ## Module 9: Advanced Topics
@@ -357,7 +373,7 @@ None
 
 #### Due
 
-* Project 5 Video
+* [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
 
 #### Pre-Class
 
@@ -370,6 +386,6 @@ None
 
 #### Post-Class
 
-* Project 6 Implementation
+* [Project 6 Ideation Phase 2](../projects/project-6-capstone.md#ideation-phase-2)
 * [DS&A Open Practice: Day 18](../data-structures-and-algorithms/d.11-open-practice.md#day-18)
 

@@ -29,16 +29,16 @@ Any seed data your app would need to run needs to be included in the repo. The f
 
 ### Summary
 
-| Day of Week | Course Day | Deliverable |
-| :--- | :--- | :--- |
-| Mon | CD82 | Ideation Phase 1. Introduce Project 4, post project ideas in Slack for feedback |
-| Fri | CD86 | Deadline to post project ideas in Slack |
-| Mon | CD87 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
-| Tue | CD88 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack. |
-| Mon | CD92 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
-| Wed | CD94 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
-| Mon | CD97 | Project presentations. 60-minute post-mortem with instructor. |
-| Wed | CD99 | Project Video Due |
+| Course Day | Deliverable |
+| :--- | :--- |
+| CD17.3 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
+| CD18.3 | Deadline to post project ideas in Slack |
+| CD18.4 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
+| CD18.5 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack. |
+| CD19.3 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app before feature freeze. 30-minute mid-point check-in with instructor. |
+| CD20.1 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback. |
+| CD20.3 | Project presentations. 60-minute post-mortem with instructor. |
+| CD20.5 | Project video due |
 
 ### Ideation Phase 1
 

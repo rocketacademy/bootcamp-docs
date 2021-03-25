@@ -39,14 +39,14 @@ Since the focus of this project is on React, try not to create a database that i
 
 | Course Day | Deliverable |
 | :--- | :--- |
-| CD14.1 | Ideation Phase 1. Introduce Project 4, post project ideas in Slack for feedback |
+| CD14.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
 | CD14.5 | Deadline to post project ideas in Slack |
 | CD15.1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
 | CD15.2 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack. |
-| CD16.1 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
+| CD16.1 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze. 30-minute mid-point check-in with instructor. |
 | CD16.3 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback. |
 | CD16.5 | Project presentations. 60-minute post-mortem with instructor. |
-| CD17.2 | Project Video Due |
+| CD17.2 | Project video due |
 
 ### Ideation Phase 1
 

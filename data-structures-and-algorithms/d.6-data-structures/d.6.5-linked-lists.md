@@ -17,7 +17,7 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked li
 ## Helpful Resources
 
 1. [Here](https://www.youtube.com/watch?v=R9PTBwOzceo) is a short and intuitive introduction to linked lists.
-2. Read pages 104-106 in the [Cracking the Coding Interview PDF](../d.0-ds-and-a-overview.md#resources).
+2. Read pages 104-106 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
 
 ## Use Cases
 

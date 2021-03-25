@@ -7,7 +7,7 @@ Trees are a common data structure used to represent hierarchical data, often see
 ## Helpful Resources
 
 1. [This](https://www.youtube.com/watch?v=qH6yxkw0u78) video is a clear and concise intro to basic concepts regarding trees.
-2. Read pages 112-115 in the [Cracking the Coding Interview PDF](../d.0-ds-and-a-overview.md#resources).
+2. Read pages 112-115 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
 
 ## Exercises
 

@@ -68,15 +68,15 @@ Create your own repo from scratch. Do not clone from any other repo. \(You can u
 
 | Course Day | Deliverable |
 | :--- | :--- |
-| CD6.1 | Ideation Phase 1. Introduce Project 2, post project ideas in Slack for feedback |
+| CD6.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
 | CD6.5 | Deadline to post project ideas in Slack |
 | CD7.1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
 | CD7.2 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
-| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze on Thursday. 30-minute mid-point check-in with instructor. |
-| CD8.4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback by Thursday. |
+| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze. 30-minute mid-point check-in with instructor. |
+| CD8.3 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback. |
 | CD8.5 | Project presentations. 60-minute post-mortem with instructor. |
 | CD9.1 | Project redux exercise |
-| CD9.3 | Project demo video due. |
+| CD9.3 | Project video due |
 
 ### Ideation Phase 1
 

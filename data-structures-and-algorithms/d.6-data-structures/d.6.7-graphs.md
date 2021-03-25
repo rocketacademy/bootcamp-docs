@@ -8,7 +8,7 @@ Graphs are a more generalised version of trees that can have "edges" that point 
 
 1. See [this video](https://www.youtube.com/watch?v=gXgEDyodOJU) for an intuitive introduction to graphs in computer science.
 2. See [this video](https://www.youtube.com/watch?v=iv5DcAi411I) for examples of practical applications of graphs.
-3. Read pages 117-121 in the [Cracking the Coding Interview PDF](../d.0-ds-and-a-overview.md#resources).
+3. Read pages 117-121 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
 
 ## Exercises
 

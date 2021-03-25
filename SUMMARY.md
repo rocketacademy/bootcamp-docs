@@ -334,7 +334,7 @@
 
 ## 🧮 Data Structures and Algorithms
 
-* [D.0: DS&A Overview](data-structures-and-algorithms/d.0-ds-and-a-overview.md)
+* [D.0: DSA Overview](data-structures-and-algorithms/d.0-dsa-overview.md)
 * [D.1: Intro to SWE Interviews](data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
 * [D.2: Intro to Python](data-structures-and-algorithms/d.2-intro-to-python.md)
 * [D.3: Complexity Analysis, Big-O Notation](data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)

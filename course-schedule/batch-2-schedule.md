@@ -317,10 +317,8 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">18</td>
       <td style="text-align:left">10-14 May</td>
-      <td style="text-align:left">
-        <p>React Router, Styled Components</p>
-        <p>Career Prep: Resume, Portfolio, Job List</p>
-      </td>
+      <td style="text-align:left">React Router, Styled Components, DSA Open Practice (DSAOP), Career Prep:
+        Resume, Portfolio, Job List</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-3">CD17.3</a>
       </td>
@@ -336,7 +334,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">19</td>
       <td style="text-align:left">17-21 May</td>
-      <td style="text-align:left">DS&amp;A Open Practice</td>
+      <td style="text-align:left">DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-2">CD18.2</a>
@@ -353,7 +351,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">20</td>
       <td style="text-align:left">24-28 May</td>
-      <td style="text-align:left">DS&amp;A Open Practice</td>
+      <td style="text-align:left">DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-2">CD19.2</a>
@@ -370,7 +368,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">21</td>
       <td style="text-align:left">31 May - 4 Jun</td>
-      <td style="text-align:left">Security, Testing</td>
+      <td style="text-align:left">Security, Testing, DSAOP</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
       </td>
@@ -386,7 +384,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">22</td>
       <td style="text-align:left">7-11 Jun</td>
-      <td style="text-align:left">TDD, CI/CD, Django</td>
+      <td style="text-align:left">TDD, CI/CD, Django, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-1">CD21.1</a>
@@ -403,7 +401,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">23</td>
       <td style="text-align:left">14-18 Jun</td>
-      <td style="text-align:left">Machine Learning</td>
+      <td style="text-align:left">Machine Learning, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-1">CD22.1</a>
@@ -420,7 +418,7 @@ description: 11 Jan - 25 Jun
     <tr>
       <td style="text-align:left">24</td>
       <td style="text-align:left">21-25 Jun</td>
-      <td style="text-align:left">React Native</td>
+      <td style="text-align:left">React Native, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-1">CD23.1</a>
