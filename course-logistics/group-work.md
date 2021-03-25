@@ -1,5 +1,7 @@
 # Group Work
 
+## Introduction
+
 Workflow when coding a project collaboratively is very different from coding a project by yourself.
 
 The following section will describe a set of tools and workflows that will make it as smooth as possible to create an entire project together.
