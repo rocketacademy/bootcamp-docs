@@ -8,17 +8,17 @@
 
 #### Pre-Class
 
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
+* [D.6.4: Queues - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md#pre-class)
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
+* [D.6.4: Queues - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md#part-1)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
+* [D.6.4: Queues - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md#part-1)
 
 ### Course Day 13.2
 
@@ -33,7 +33,7 @@ None
 #### Post-Class
 
 * [Project 3 Post-Mortems](../projects/project-3-full-stack-game.md#post-mortem-meeting)
-* [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
+* [D.6.4: Queues - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md#part-2)
 
 ### Course Day 13.3
 
