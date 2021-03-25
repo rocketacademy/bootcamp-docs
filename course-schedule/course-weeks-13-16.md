@@ -12,6 +12,7 @@
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 
 #### Post-Class

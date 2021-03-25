@@ -222,7 +222,7 @@
 
 #### Post-Class
 
-* [Project 3 Ideation: User Stories, Wireframes, ERD](../projects/project-3-full-stack-game.md#ideation-phase-2)
+* [Project 3 Ideation Phase 2](../projects/project-3-full-stack-game.md#ideation-phase-2)
 * [D.5: Recursion - Part 2](../data-structures-and-algorithms/d.5-recursion.md#part-2)
 
 ### Course Day 11.4
@@ -233,6 +233,7 @@ None
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.5: Recursion Part 3](../data-structures-and-algorithms/d.5-recursion.md#part-3)
 
 #### Post-Class
@@ -248,6 +249,7 @@ None
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
 #### Post-Class
@@ -265,6 +267,7 @@ None
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.1: Arrays](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md)
 
 #### Post-Class
@@ -280,6 +283,7 @@ None
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### Post-Class
@@ -296,6 +300,7 @@ None
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### Post-Class
@@ -311,6 +316,7 @@ None
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 #### Post-Class
@@ -326,6 +332,7 @@ None
 
 #### In-Class
 
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 #### Post-Class
