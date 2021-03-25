@@ -54,7 +54,7 @@ Avoid any ideas the depend on timing between players or if another player must b
 | CD11.3 | Ideation Phase 2. Create planning docs: DB ERD, and wireframes |
 | CD11.4 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
 | CD12.2 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze. 30-minute mid-point check-in with instructor. |
-| CD13.1 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 15-minute review with instructor. |
+| CD12.5 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 15-minute review with instructor. |
 | CD13.2 | Project presentations. 60-minute post-mortem with instructor. |
 
 ### Ideation Phase 1

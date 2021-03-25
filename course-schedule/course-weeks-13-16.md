@@ -17,7 +17,6 @@
 
 #### Post-Class
 
-* [Project 3 Feature Freeze](../projects/project-3-full-stack-game.md#project-timeline)
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 * [D.6.4: Queues](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md)
 

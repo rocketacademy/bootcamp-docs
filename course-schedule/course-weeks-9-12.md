@@ -277,6 +277,10 @@ None
 
 ### Course Day 12.2
 
+#### Due
+
+* Project 3 MVP \(deployed\)
+
 #### Pre-Class
 
 * [D.6.2: Hash Tables](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
@@ -325,6 +329,10 @@ None
 * [D.6.3: Stacks](../data-structures-and-algorithms/d.6-data-structures/d.6.3-stacks.md)
 
 ### Course Day 12.5
+
+#### Due
+
+* Project 3 Feature Freeze
 
 #### Pre-Class
 
