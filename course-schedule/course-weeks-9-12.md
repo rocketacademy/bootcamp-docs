@@ -234,12 +234,12 @@ None
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5: Recursion Part 3](../data-structures-and-algorithms/d.5-recursion.md#part-3)
+* [D.5: Recursion - Part 3](../data-structures-and-algorithms/d.5-recursion.md#part-3)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5: Recursion Part 3](../data-structures-and-algorithms/d.5-recursion.md#part-3)
+* [D.5: Recursion - Part 3](../data-structures-and-algorithms/d.5-recursion.md#part-3)
 
 ### Course Day 11.5
 
