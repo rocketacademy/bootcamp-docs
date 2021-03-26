@@ -21,34 +21,26 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 ## Exercises
 
-### Rocket Academy
-
-#### Problems
+### Pre-Class
 
 1. [https://repl.it/@kaiyuanneo/dp1-basics\#main.py](https://repl.it/@kaiyuanneo/dp1-basics#main.py)
-2. [https://repl.it/@kaiyuanneo/dp2-intermediate\#main.py](https://repl.it/@kaiyuanneo/dp2-intermediate#main.py)
-3. [https://repl.it/@kaiyuanneo/dp3-advanced\#main.py](https://repl.it/@kaiyuanneo/dp3-advanced#main.py)
-   1. Advanced covers topics such as tabulation and optimal space usage. Please review and understand the examples in this page, but the exercises are optional.
+   1. [https://repl.it/@kaiyuanneo/dp1-basics-soln\#main.py](https://repl.it/@kaiyuanneo/dp1-basics-soln#main.py)
 
-#### Solutions
-
-1. [https://repl.it/@kaiyuanneo/dp1-basics-soln\#main.py](https://repl.it/@kaiyuanneo/dp1-basics-soln#main.py)
-2. [https://repl.it/@kaiyuanneo/dp2-intermediate-soln\#main.py](https://repl.it/@kaiyuanneo/dp2-intermediate-soln#main.py)
-
-### Leetcode
-
-Attempt the following Easy DP problems on Leetcode.
+### Part 1
 
 1. [https://leetcode.com/problems/divisor-game/](https://leetcode.com/problems/divisor-game/)
    1. Note: This can be solved with math and not DP, but please implement the DP version for practice.
    2. Rocket Academy solution code: [https://pastebin.com/mywskXkk](https://pastebin.com/mywskXkk)
    3. Rocket Academy solution video: [https://youtu.be/SUGb21Ec5kE?t=2113](https://youtu.be/SUGb21Ec5kE?t=2113) \(35:13 until about 1:48:30\)
 2. [https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)
-3. [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)
-4. [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
 
-The following problems are tagged as Easy DP problems in Leetcode but can be solved more efficiently without DP. Try them out.
+### Part 2
 
-1. [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-2. [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)
+1. [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
+2. [https://leetcode.com/problems/house-robber/](https://leetcode.com/problems/house-robber/)
+
+### Part 3
+
+1. [https://leetcode.com/problems/partition-array-for-maximum-sum/](https://leetcode.com/problems/partition-array-for-maximum-sum/)
+2. [https://leetcode.com/problems/minimum-cost-for-tickets/](https://leetcode.com/problems/minimum-cost-for-tickets/)
 
