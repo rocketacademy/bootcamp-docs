@@ -1,8 +1,8 @@
 # D.6.4: Queues
 
-![](../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
-
 ## Introduction
+
+![](../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
 
 Queues are similar to stacks except instead of removing elements from the end of a list, we can only remove elements from the front of a list. Instead of push and pop operations, queues have "enqueue" and "dequeue" operations respectively. Enqueue adds an element to the back of a queue, and dequeue removes an element from the front of a queue.
 
