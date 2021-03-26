@@ -353,7 +353,6 @@
 * [D.8: Object-Oriented Programming](data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
 * [D.9: Dynamic Programming](data-structures-and-algorithms/d.9-dynamic-programming.md)
 * [D.10: Common Patterns](data-structures-and-algorithms/d.10-common-patterns/README.md)
-  * [D.10.2: Breadth-First Search](data-structures-and-algorithms/d.10-common-patterns/d.10.2-breadth-first-search.md)
   * [D.10.3: Recursive Backtracking](data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
   * [D.10.4: Binary Search](data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
   * [D.10.5: Sliding Windows](data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
