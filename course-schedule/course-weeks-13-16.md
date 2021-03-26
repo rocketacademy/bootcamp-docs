@@ -167,16 +167,16 @@ None
 
 * [7.8: Error Boundaries](../7-react/7.8-error-boundaries.md)
 * [7.9: React Dev Tools](../7-react/7.9-react-dev-tools.md)
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [D.6.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md#pre-class)
 
 #### **In-Class**
 
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [D.6.7: Graphs - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-1)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [D.6.7: Graphs - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-1)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ## Course Week 15
@@ -190,12 +190,12 @@ None
 #### In-Class
 
 * [Review 7.POCE.4: Hot Pot Bill Splitter](../course-logistics/course-methodology.md#peer-code-review)
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [D.6.7: Graphs - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-2)
 
 #### Post-Class
 
 * [Project 4 Ideation Phase 2](../projects/project-4-full-stack-react-app.md#ideation-phase-2)
-* [D.6.7: Graphs](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
+* [D.6.7: Graphs - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-2)
 
 ### Course Day 15.2
 
