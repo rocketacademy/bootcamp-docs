@@ -334,7 +334,7 @@ None
 
 #### Pre-Class
 
-* [D.11.2: Binary Search](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md)
+* [D.11.1: Recursive Backtracking](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md)
 
 #### In-Class
 
@@ -344,5 +344,5 @@ None
 
 * [Project 4 Post-Mortem Meetings](../projects/project-4-full-stack-react-app.md#post-mortem-meeting)
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.11.2: Binary Search](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md)
+* [D.11.1: Recursive Backtracking](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md)
 
