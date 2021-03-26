@@ -10,16 +10,16 @@
 
 * [8.1: Create React App](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/8-advanced-react/8.1-create-react-app)
 * [8.1.1: Create React App Full Stack](../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
-* [D.11.2: Binary Search](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md)
+* [D.11.2: Binary Search - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#pre-class)
 
 #### In-Class
 
-* [D.11.2: Binary Search](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md)
+* [D.11.2: Binary Search - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#part-1)
 
 #### Post-Class
 
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.11.2: Binary Search](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md)
+* [D.11.2: Binary Search - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#part-1)
 
 ### Course Day 17.2
 
@@ -33,17 +33,17 @@
 * [8.3.1: useContext](../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
 * [8.3.2: useReducer](../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
 * [8.3.3: useContext + useReducer](../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
-* [D.11.3: Sliding Windows](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
+* [D.11.3: Sliding Windows - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#pre-class)
 
 #### In-Class
 
 * [8.ICE.1: useContext](../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
-* [D.11.3: Sliding Windows](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
+* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
 
 #### **Post-Class**
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.11.3: Sliding Windows](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
+* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
 
 ### Course Day 17.3
 
