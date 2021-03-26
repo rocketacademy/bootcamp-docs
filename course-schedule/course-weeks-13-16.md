@@ -318,23 +318,23 @@ None
 
 #### Pre-Class
 
-* [D.10: Bit Manipulation](../data-structures-and-algorithms/d.10-bit-manipulation.md)
+* [D.10: Bit Manipulation - Pre-Class](../data-structures-and-algorithms/d.10-bit-manipulation.md#pre-class)
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.10: Bit Manipulation](../data-structures-and-algorithms/d.10-bit-manipulation.md)
+* [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.10-bit-manipulation.md#part-1)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.10: Bit Manipulation](../data-structures-and-algorithms/d.10-bit-manipulation.md)
+* [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.10-bit-manipulation.md#part-1)
 
 ### Course Day 16.5
 
 #### Pre-Class
 
-* [D.11.1: Recursive Backtracking](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md)
+* [D.11.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#pre-class)
 
 #### In-Class
 
@@ -344,5 +344,5 @@ None
 
 * [Project 4 Post-Mortem Meetings](../projects/project-4-full-stack-react-app.md#post-mortem-meeting)
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.11.1: Recursive Backtracking](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md)
+* [D.11.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#part-1)
 
