@@ -270,17 +270,17 @@ None
 
 #### Pre-Class
 
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.9: Dynamic Programming - Pre-Class](../data-structures-and-algorithms/d.9-dynamic-programming.md#pre-class)
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.9: Dynamic Programming - Part 1](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-1)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.9: Dynamic Programming - Part 1](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-1)
 
 ### Course Day 16.2
 
@@ -289,12 +289,12 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-2)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-2)
 
 ### Course Day 16.3
 
@@ -307,12 +307,12 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-3)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.9: Dynamic Programming](../data-structures-and-algorithms/d.9-dynamic-programming.md)
+* [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-3)
 
 ### Course Day 16.4
 
