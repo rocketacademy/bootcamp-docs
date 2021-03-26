@@ -37,15 +37,19 @@ def find_x_in_tree(node, x):
 
 BFS is a fancier form of tree traversal that typically involves queues. As a recap of BFS, consider the following `level_order` traversal solution from RA's tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
 
+Consider using Python's built-in `deque` data structure [here](https://docs.python.org/3/library/collections.html#collections.deque) for a more efficient queue implementation than `list`. `deque` is implemented with a doubly-linked list, thus dequeue is a O\(1\) operation. Specifically, see the [`popleft` method](https://docs.python.org/3/library/collections.html#collections.deque.popleft).
+
 ```python
+from collections import deque
+
 def level_order(tree):
   ''' Return the list of values level by level (Hint: Consider iteration)'''
   level_order_values = []
   # Store upcoming nodes in a queue
-  q = [tree]
+  q = deque([tree])
   while len(q) > 0:
     # Iteratively dequeue first node in queue until queue is empty
-    currnode = q.pop(0)
+    currnode = q.popleft()
     # Perform operation on current node
     level_order_values.append(currnode.value)
     # Enqueue left child if any

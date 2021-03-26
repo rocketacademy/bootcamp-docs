@@ -287,17 +287,17 @@ None
 
 #### Pre-Class
 
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+* [D.10.1: Depth-First Search]()
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+* [D.10.1: Depth-First Search]()
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.10.1: Depth-First Search](../data-structures-and-algorithms/d.10-common-patterns/d.10.1-depth-first-search.md)
+* [D.10.1: Depth-First Search]()
 
 ### Course Day 16.3
 
