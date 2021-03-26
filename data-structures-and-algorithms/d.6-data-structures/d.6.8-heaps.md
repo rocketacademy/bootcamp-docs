@@ -24,9 +24,33 @@ In summary, we should remember 3 primary operations of heaps, and how heap sort 
    1. In code, heap creation is done with `heapify` method of `heapq`. 
 4. Heap sort runs in `O(nlogn)` time, but in practice is slower than Merge Sort
 
+## Tips
+
+1. Python's `heapq` data structure is a min heap by default. To use `heapq` as a max heap with numerical values, multiply every number you insert by -1 on push and pop.
+2. We may wish to sort elements by certain numerical values in a heap, but store associated payloads along with those numerical values. In these situations we can insert tuples \(e.g. `(x, y)`\) into our heap, where `x` is the value to sort by and `y` is the associated payload. For example, in the K Closest Points to Origin problem below, we could store `(dist_to_origin, coordinates)` elements in our heap.
+
 ## Exercises
 
-1. Complete the 2 Easy-level heap problems on Leetcode [here](https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=heap).  You may find the [Python `heapq` library ](https://docs.python.org/3/library/heapq.html)helpful. 
-   1. Hint for Kth-Largest problem: What's the most efficient way to get the k-th largest element in a heap of size k? Would we use a min-heap or max-heap?
-2. Attempt the top Medium-level heap problems on Leetcode in decreasing order of acceptance percentage [here](https://leetcode.com/problemset/all/?difficulty=Medium&topicSlugs=heap). Use Python `heapq` where necessary.
+Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.html) to utilise heaps in code.
+
+### Pre-Class
+
+1. [https://leetcode.com/problems/last-stone-weight/](https://leetcode.com/problems/last-stone-weight/)
+
+### Part 1
+
+1. [https://leetcode.com/problems/kth-largest-element-in-a-stream/](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+   1. Hint: What's the most efficient way to get the k-th largest element in a heap of size k? Would we use a min-heap or max-heap?
+2. [https://leetcode.com/problems/k-closest-points-to-origin/](https://leetcode.com/problems/k-closest-points-to-origin/)
+3. [https://leetcode.com/problems/sort-characters-by-frequency/](https://leetcode.com/problems/sort-characters-by-frequency/)
+
+### Part 2
+
+1. [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)
+2. [https://leetcode.com/problems/kth-largest-element-in-an-array/](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+### Part 3
+
+1. [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+2. [https://leetcode.com/problems/top-k-frequent-words/](https://leetcode.com/problems/top-k-frequent-words/)
 
