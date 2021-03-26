@@ -12,8 +12,19 @@ Graphs are a more generalised version of trees that can have "edges" that point 
 
 ## Exercises
 
-1. Complete the 1 easy graph problem on Leetcode [here](https://leetcode.com/problemset/all/?topicSlugs=graph&difficulty=Easy).
-2. Attempt medium graph problems on Leetcode in descending order of acceptance percentage [here](https://leetcode.com/problemset/all/?topicSlugs=graph&difficulty=Medium).
-   1. Rocket Academy solution code for All Paths from Source to Target: [https://leetcode.com/submissions/detail/457037693/](https://leetcode.com/submissions/detail/457037693/)
-   2. Rocket Academy solution video for All Paths from Source to Target: [https://www.youtube.com/watch?v=dUhleIGC-D4](https://www.youtube.com/watch?v=dUhleIGC-D4)
+### Pre-Class
+
+1. [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)
+
+### Part 1
+
+1. [https://leetcode.com/problems/all-paths-from-source-to-target/](https://leetcode.com/problems/all-paths-from-source-to-target/)
+   1. RA solution code: [https://pastebin.com/AtwkRjBf](https://pastebin.com/AtwkRjBf)
+   2. RA solution video: [https://www.youtube.com/watch?v=dUhleIGC-D4](https://www.youtube.com/watch?v=dUhleIGC-D4)
+2. [https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+
+### Part 2
+
+1. [https://leetcode.com/problems/keys-and-rooms/](https://leetcode.com/problems/keys-and-rooms/)
+2. [https://leetcode.com/problems/redundant-connection/](https://leetcode.com/problems/redundant-connection/)
 
