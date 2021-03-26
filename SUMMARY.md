@@ -352,12 +352,12 @@
 * [D.7: Sorting Algorithms](data-structures-and-algorithms/d.7-sorting-algorithms.md)
 * [D.8: Object-Oriented Programming](data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
 * [D.9: Dynamic Programming](data-structures-and-algorithms/d.9-dynamic-programming.md)
-* [D.10: Common Patterns](data-structures-and-algorithms/d.10-common-patterns/README.md)
-  * [D.10.3: Recursive Backtracking](data-structures-and-algorithms/d.10-common-patterns/d.10.3-recursive-backtracking.md)
-  * [D.10.4: Binary Search](data-structures-and-algorithms/d.10-common-patterns/d.10.4-binary-search.md)
-  * [D.10.5: Sliding Windows](data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
-  * [D.10.6: Bit Manipulation](data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
-* [D.11: Open Practice](data-structures-and-algorithms/d.11-open-practice.md)
+* [D.10: Bit Manipulation](data-structures-and-algorithms/d.10-bit-manipulation.md)
+* [D.11: Notable Patterns](data-structures-and-algorithms/d.11-notable-patterns/README.md)
+  * [D.11.1: Recursive Backtracking](data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md)
+  * [D.11.2: Binary Search](data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md)
+  * [D.11.3: Sliding Windows](data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
+* [D.12: Open Practice](data-structures-and-algorithms/d.12-open-practice.md)
 
 ## 💼 Career Prep
 

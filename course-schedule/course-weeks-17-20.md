@@ -10,16 +10,16 @@
 
 * [8.1: Create React App](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/8-advanced-react/8.1-create-react-app)
 * [8.1.1: Create React App Full Stack](../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
 
 #### In-Class
 
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
 
 #### Post-Class
 
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.10-common-patterns/d.10.5-sliding-windows.md)
+* [D.10.5: Sliding Windows](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
 
 ### Course Day 17.2
 
@@ -33,17 +33,17 @@
 * [8.3.1: useContext](../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
 * [8.3.2: useReducer](../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
 * [8.3.3: useContext + useReducer](../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-bit-manipulation.md)
 
 #### In-Class
 
 * [8.ICE.1: useContext](../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-bit-manipulation.md)
 
 #### **Post-Class**
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-common-patterns/d.10.6-bit-manipulation.md)
+* [D.10.6: Bit Manipulation](../data-structures-and-algorithms/d.10-bit-manipulation.md)
 
 ### Course Day 17.3
 
@@ -57,7 +57,7 @@
 
 #### **In-Class**
 
-* [DS&A Open Practice: Day 1](../data-structures-and-algorithms/d.11-open-practice.md#day-1)
+* [DS&A Open Practice: Day 1](../data-structures-and-algorithms/d.12-open-practice.md#day-1)
 
 #### **Post-Class**
 
@@ -66,7 +66,7 @@
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
-* [DS&A Open Practice: Day 1](../data-structures-and-algorithms/d.11-open-practice.md#day-1)
+* [DS&A Open Practice: Day 1](../data-structures-and-algorithms/d.12-open-practice.md#day-1)
 
 ### Course Day 17.4
 
@@ -83,7 +83,7 @@
 
 #### In-Class
 
-* [DS&A Open Practice: Day 2](../data-structures-and-algorithms/d.11-open-practice.md#day-2)
+* [DS&A Open Practice: Day 2](../data-structures-and-algorithms/d.12-open-practice.md#day-2)
 
 #### Post-Class
 
@@ -92,7 +92,7 @@
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
-* [DS&A Open Practice: Day 2](../data-structures-and-algorithms/d.11-open-practice.md#day-2)
+* [DS&A Open Practice: Day 2](../data-structures-and-algorithms/d.12-open-practice.md#day-2)
 
 ### Course Day 17.5
 
@@ -107,7 +107,7 @@
 
 #### In-Class
 
-* [DS&A Open Practice: Day 3](../data-structures-and-algorithms/d.11-open-practice.md#day-3)
+* [DS&A Open Practice: Day 3](../data-structures-and-algorithms/d.12-open-practice.md#day-3)
 
 #### Post-Class
 
@@ -116,7 +116,7 @@
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
-* [DS&A Open Practice: Day 3](../data-structures-and-algorithms/d.11-open-practice.md#day-3)
+* [DS&A Open Practice: Day 3](../data-structures-and-algorithms/d.12-open-practice.md#day-3)
 
 ## Course Week 18
 
@@ -134,7 +134,7 @@
 
 #### In-Class
 
-* [DS&A Open Practice: Day 4](../data-structures-and-algorithms/d.11-open-practice.md#day-4)
+* [DS&A Open Practice: Day 4](../data-structures-and-algorithms/d.12-open-practice.md#day-4)
 
 #### Post-Class
 
@@ -143,7 +143,7 @@
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
-* [DS&A Open Practice: Day 4](../data-structures-and-algorithms/d.11-open-practice.md#day-4)
+* [DS&A Open Practice: Day 4](../data-structures-and-algorithms/d.12-open-practice.md#day-4)
 
 ### Course Day 18.2
 
@@ -158,13 +158,13 @@
 
 #### In-Class
 
-* [DS&A Open Practice: Day 5](../data-structures-and-algorithms/d.11-open-practice.md#day-5)
+* [DS&A Open Practice: Day 5](../data-structures-and-algorithms/d.12-open-practice.md#day-5)
 
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
-* [DS&A Open Practice: Day 5](../data-structures-and-algorithms/d.11-open-practice.md#day-5)
+* [DS&A Open Practice: Day 5](../data-structures-and-algorithms/d.12-open-practice.md#day-5)
 
 ### Course Day 18.3
 
@@ -178,13 +178,13 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 6](../data-structures-and-algorithms/d.11-open-practice.md#day-6)
+* [DS&A Open Practice: Day 6](../data-structures-and-algorithms/d.12-open-practice.md#day-6)
 
 #### Post-Class
 
 * [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
-* [DS&A Open Practice: Day 6](../data-structures-and-algorithms/d.11-open-practice.md#day-6)
+* [DS&A Open Practice: Day 6](../data-structures-and-algorithms/d.12-open-practice.md#day-6)
 
 ### Course Day 18.4
 
@@ -199,7 +199,7 @@ None
 #### Post-Class
 
 * [Project 5 Ideation Phase 2](../projects/project-5-group-react-app.md#ideation-phase-2)
-* [DS&A Open Practice: Day 7](../data-structures-and-algorithms/d.11-open-practice.md#day-7)
+* [DS&A Open Practice: Day 7](../data-structures-and-algorithms/d.12-open-practice.md#day-7)
 
 ### Course Day 18.5
 
@@ -209,12 +209,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 8](../data-structures-and-algorithms/d.11-open-practice.md#day-8)
+* [DS&A Open Practice: Day 8](../data-structures-and-algorithms/d.12-open-practice.md#day-8)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice: Day 8](../data-structures-and-algorithms/d.11-open-practice.md#day-8)
+* [DS&A Open Practice: Day 8](../data-structures-and-algorithms/d.12-open-practice.md#day-8)
 
 ## Course Week 19
 
@@ -226,12 +226,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 9](../data-structures-and-algorithms/d.11-open-practice.md#day-9)
+* [DS&A Open Practice: Day 9](../data-structures-and-algorithms/d.12-open-practice.md#day-9)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice: Day 9](../data-structures-and-algorithms/d.11-open-practice.md#day-9)
+* [DS&A Open Practice: Day 9](../data-structures-and-algorithms/d.12-open-practice.md#day-9)
 
 ### Course Day 19.2
 
@@ -241,12 +241,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 10](../data-structures-and-algorithms/d.11-open-practice.md#day-10)
+* [DS&A Open Practice: Day 10](../data-structures-and-algorithms/d.12-open-practice.md#day-10)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice: Day 10](../data-structures-and-algorithms/d.11-open-practice.md#day-10)
+* [DS&A Open Practice: Day 10](../data-structures-and-algorithms/d.12-open-practice.md#day-10)
 
 ### Course Day 19.3
 
@@ -260,13 +260,13 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 11](../data-structures-and-algorithms/d.11-open-practice.md#day-11)
+* [DS&A Open Practice: Day 11](../data-structures-and-algorithms/d.12-open-practice.md#day-11)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * Project 5 Midpoint Meeting
-* [DS&A Open Practice: Day 11](../data-structures-and-algorithms/d.11-open-practice.md#day-11)
+* [DS&A Open Practice: Day 11](../data-structures-and-algorithms/d.12-open-practice.md#day-11)
 
 ### Course Day 19.4
 
@@ -276,12 +276,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 12](../data-structures-and-algorithms/d.11-open-practice.md#day-12)
+* [DS&A Open Practice: Day 12](../data-structures-and-algorithms/d.12-open-practice.md#day-12)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice: Day 12](../data-structures-and-algorithms/d.11-open-practice.md#day-12)
+* [DS&A Open Practice: Day 12](../data-structures-and-algorithms/d.12-open-practice.md#day-12)
 
 ### Course Day 19.5
 
@@ -291,12 +291,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 13](../data-structures-and-algorithms/d.11-open-practice.md#day-13)
+* [DS&A Open Practice: Day 13](../data-structures-and-algorithms/d.12-open-practice.md#day-13)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice: Day 13](../data-structures-and-algorithms/d.11-open-practice.md#day-13)
+* [DS&A Open Practice: Day 13](../data-structures-and-algorithms/d.12-open-practice.md#day-13)
 
 ## Course Week 20
 
@@ -312,12 +312,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 14](../data-structures-and-algorithms/d.11-open-practice.md#day-14)
+* [DS&A Open Practice: Day 14](../data-structures-and-algorithms/d.12-open-practice.md#day-14)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice: Day 14](../data-structures-and-algorithms/d.11-open-practice.md#day-14)
+* [DS&A Open Practice: Day 14](../data-structures-and-algorithms/d.12-open-practice.md#day-14)
 
 ### Course Day 20.2
 
@@ -327,12 +327,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 15](../data-structures-and-algorithms/d.11-open-practice.md#day-15)
+* [DS&A Open Practice: Day 15](../data-structures-and-algorithms/d.12-open-practice.md#day-15)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice: Day 15](../data-structures-and-algorithms/d.11-open-practice.md#day-15)
+* [DS&A Open Practice: Day 15](../data-structures-and-algorithms/d.12-open-practice.md#day-15)
 
 ### Course Day 20.3
 
@@ -349,7 +349,7 @@ None
 * [Project 5 Post-Mortems](../projects/project-5-group-react-app.md#post-mortem-meeting)
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
-* [DS&A Open Practice: Day 16](../data-structures-and-algorithms/d.11-open-practice.md#day-16)
+* [DS&A Open Practice: Day 16](../data-structures-and-algorithms/d.12-open-practice.md#day-16)
 
 ### Course Day 20.4
 
@@ -359,13 +359,13 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 17](../data-structures-and-algorithms/d.11-open-practice.md#day-17)
+* [DS&A Open Practice: Day 17](../data-structures-and-algorithms/d.12-open-practice.md#day-17)
 
 #### Post-Class
 
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
-* [DS&A Open Practice: Day 17](../data-structures-and-algorithms/d.11-open-practice.md#day-17)
+* [DS&A Open Practice: Day 17](../data-structures-and-algorithms/d.12-open-practice.md#day-17)
 
 ## Module 9: Advanced Topics
 
@@ -382,10 +382,10 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice: Day 18](../data-structures-and-algorithms/d.11-open-practice.md#day-18)
+* [DS&A Open Practice: Day 18](../data-structures-and-algorithms/d.12-open-practice.md#day-18)
 
 #### Post-Class
 
 * [Project 6 Ideation Phase 2](../projects/project-6-capstone.md#ideation-phase-2)
-* [DS&A Open Practice: Day 18](../data-structures-and-algorithms/d.11-open-practice.md#day-18)
+* [DS&A Open Practice: Day 18](../data-structures-and-algorithms/d.12-open-practice.md#day-18)
 

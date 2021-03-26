@@ -1,4 +1,4 @@
-# D.10: Common Patterns
+# D.11: Notable Patterns
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# D.10.5: Sliding Windows
+# D.11.3: Sliding Windows
 
 ## Introduction
 
