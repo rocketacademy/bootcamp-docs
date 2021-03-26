@@ -1,8 +1,8 @@
 # D.6.5: Linked Lists
 
-![](../../.gitbook/assets/llmeme2.jpeg)
-
 ## Introduction
+
+![](../../.gitbook/assets/llmeme2.jpeg)
 
 Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked lists may not be stored in contiguous blocks of memory in RAM. Consecutive elements in a linked list may be stored in different places in RAM, but linked by a pointer from each element in the linked list to the next and/or previous element. This means 2 things for us.
 
@@ -27,21 +27,27 @@ Linked lists \(LLs\) are typically used when we want faster insertion or deletio
 
 ## Exercises
 
-### Rocket Academy
-
-#### Problems
+### Pre-Class
 
 1. [https://repl.it/@kaiyuanneo/singly-linked-list](https://repl.it/@kaiyuanneo/singly-linked-list)
+   1. [https://repl.it/@kaiyuanneo/singly-linked-list-soln](https://repl.it/@kaiyuanneo/singly-linked-list-soln)
 2. [https://repl.it/@kaiyuanneo/doubly-linked-list](https://repl.it/@kaiyuanneo/doubly-linked-list)
+   1. [https://repl.it/@kaiyuanneo/doubly-linked-list-soln](https://repl.it/@kaiyuanneo/doubly-linked-list-soln)
 3. [https://repl.it/@kaiyuanneo/circular-doubly-linked-list](https://repl.it/@kaiyuanneo/circular-doubly-linked-list)
+   1. [https://repl.it/@kaiyuanneo/circular-doubly-linked-list-soln](https://repl.it/@kaiyuanneo/circular-doubly-linked-list-soln)
 
-#### Solutions
+### Part 1
 
-1. [https://repl.it/@kaiyuanneo/singly-linked-list-soln](https://repl.it/@kaiyuanneo/singly-linked-list-soln)
-2. [https://repl.it/@kaiyuanneo/doubly-linked-list-soln](https://repl.it/@kaiyuanneo/doubly-linked-list-soln)
-3. [https://repl.it/@kaiyuanneo/circular-doubly-linked-list-soln](https://repl.it/@kaiyuanneo/circular-doubly-linked-list-soln)
+1. [https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+2. [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
+3. [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
+4. [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
+5. [https://leetcode.com/problems/remove-duplicates-from-sorted-list/](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
-### Leetcode
+### Part 2
 
-[Here](https://leetcode.com/problemset/all/?topicSlugs=linked-list&difficulty=Easy) are 10 Easy-level Leetcode problems with linked lists.
+1. [https://leetcode.com/problems/intersection-of-two-linked-lists/](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+2. [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
+3. [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)
+4. [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)
 
