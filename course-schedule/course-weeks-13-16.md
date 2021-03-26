@@ -43,7 +43,7 @@ None
 * [7.1.1: Conditional Rendering](../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
 * [7.1.2: Rendering In a Loop](../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
 * [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
-* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
+* [D.6.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#pre-class) 
 
 #### In-Class
 
@@ -52,7 +52,7 @@ None
 #### Post-Class
 
 * [7.POCE.1: JSX Bug Reports](../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
-* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
+* [D.6.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-1)
 
 ## Module 7: React
 
@@ -70,7 +70,7 @@ None
 #### Post-Class
 
 * [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
-* [D.6.5: Linked Lists](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md)
+* [D.6.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-2)
 
 ### Course Day 13.5
 
