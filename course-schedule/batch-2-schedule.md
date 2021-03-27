@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 11 | 22-26 Mar | Advanced Webpack | [P3](../projects/project-3-full-stack-game.md) | [CD10.4](course-weeks-9-12.md#course-day-10-4) | [CD10.5](course-weeks-9-12.md#course-day-10-5) | [CD11.1](course-weeks-9-12.md#course-day-11-1) | [CD11.2](course-weeks-9-12.md#course-day-11-2) | [CD11.3](course-weeks-9-12.md#course-day-11-3) |
+| 12 | 29 Mar - 2 Apr | Arrays, Sorting Algorithms, Hash Tables | [P3](../projects/project-3-full-stack-game.md) | [CD11.4](course-weeks-9-12.md#course-day-11-4) | [CD11.5](course-weeks-9-12.md#course-day-11-5) | [CD12.1](course-weeks-9-12.md#course-day-12-1) | [CD12.2](course-weeks-9-12.md#course-day-12-2) | **PH** |
 
 ## Overall Schedule
 
