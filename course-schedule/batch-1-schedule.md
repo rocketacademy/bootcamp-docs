@@ -8,7 +8,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 24 | 29 Mar - 2 Apr | React Native | [P6](../projects/project-6-capstone.md) | [CD23.3](course-weeks-21-23.md#course-day-23-3) | [CD23.4](course-weeks-21-23.md#course-day-23-4) | [CD23.5](course-weeks-21-23.md#course-day-23-5) | Bonus | **PH** |
+| 24 | 29 Mar - 2 Apr | React Native | [P6](../projects/project-6-capstone.md) | [CD23.3](course-weeks-21-23.md#course-day-23-3) | [CD23.4](course-weeks-21-23.md#course-day-23-4) | [CD23.5](course-weeks-21-23.md#course-day-23-5) | P6 Presentations | **PH** |
 
 ## Overall Schedule
 
