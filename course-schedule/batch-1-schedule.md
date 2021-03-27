@@ -8,7 +8,7 @@ description: 18 Oct - 2 Apr
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 23 | 22-26 Mar | Naive Bayes Data Processing | [P6](../projects/project-6-capstone.md) | [CD22.3](course-weeks-21-23.md#course-day-22-3) | [CD22.4](course-weeks-21-23.md#course-day-22-4) | [CD22.5](course-weeks-21-23.md#course-day-22-5) | [CD23.1](course-weeks-21-23.md#course-day-23-1) | [CD23.2](course-weeks-21-23.md#course-day-23-2) |
+| 24 | 29 Mar - 2 Apr | React Native | [P6](../projects/project-6-capstone.md) | [CD23.3](course-weeks-21-23.md#course-day-23-3) | [CD23.4](course-weeks-21-23.md#course-day-23-4) | [CD23.5](course-weeks-21-23.md#course-day-23-5) | Bonus | **PH** |
 
 ## Overall Schedule
 
