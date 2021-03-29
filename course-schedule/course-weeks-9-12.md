@@ -207,8 +207,6 @@
 * [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 * [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.5-recursion.md#part-1)
 
-
-
 ### Course Day 11.3
 
 #### Pre-Class
