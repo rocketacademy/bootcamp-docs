@@ -21,9 +21,9 @@
 * [Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
-* [Coding Tool and Language Tips](course-logistics/coding-tool-and-language-tips.md)
+* [Tools, Syntax, and Glossary](course-logistics/tools-syntax-and-glossary.md)
 * [Group Work](course-logistics/group-work.md)
-* [Glossary](course-logistics/glossary.md)
+* [LinkedIn Certificates](course-logistics/linkedin-certificates.md)
 
 ## 🏞 Projects
 
