@@ -275,10 +275,6 @@ None
 
 ### Course Day 12.2
 
-#### Due
-
-* Project 3 MVP \(deployed\)
-
 #### Pre-Class
 
 * [D.6.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#pre-class)
@@ -290,11 +286,13 @@ None
 
 #### Post-Class
 
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
 * [D.6.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-1)
 
 ### Course Day 12.3
+
+#### Due
+
+* Project 3 MVP \(deployed\)
 
 #### Pre-Class
 
@@ -307,8 +305,9 @@ None
 
 #### Post-Class
 
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 * [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-2)
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
 
 ### Course Day 12.4
 
