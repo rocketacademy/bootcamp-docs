@@ -10,7 +10,7 @@ Coding Bootcamp students can add Rocket Academy to the Education sections of the
 
 ![](../.gitbook/assets/jie-ping-20210401-12.42.04.png)
 
-## 3. Fill in the course name, organisation, issue date, and your unique certificate link
+## 3. Fill in RA's Coding Bootcamp course details
 
 1. School
    1. Rocket Academy
