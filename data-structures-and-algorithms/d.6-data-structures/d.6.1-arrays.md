@@ -32,19 +32,12 @@ Once you've attempted each problem, find solutions in either the Solution or Dis
 
 ### Part 3
 
-[https://leetcode.com/problems/string-matching-in-an-array/](https://leetcode.com/problems/string-matching-in-an-array/)
-
-[https://leetcode.com/problems/squares-of-a-sorted-array/](https://leetcode.com/problems/squares-of-a-sorted-array/)
-
- [https://leetcode.com/problems/relative-sort-array/](https://leetcode.com/problems/relative-sort-array/)
-
- [https://leetcode.com/problems/intersection-of-two-arrays/](https://leetcode.com/problems/intersection-of-two-arrays/)
-
- [https://leetcode.com/problems/intersection-of-two-arrays-ii/](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-
- [https://leetcode.com/problems/sort-array-by-parity/](https://leetcode.com/problems/sort-array-by-parity/)
-
- [https://leetcode.com/problems/sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
-
- [https://leetcode.com/problems/valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)
+1. [https://leetcode.com/problems/string-matching-in-an-array/](https://leetcode.com/problems/string-matching-in-an-array/)
+2. [https://leetcode.com/problems/squares-of-a-sorted-array/](https://leetcode.com/problems/squares-of-a-sorted-array/)
+3. [https://leetcode.com/problems/relative-sort-array/](https://leetcode.com/problems/relative-sort-array/)
+4. [https://leetcode.com/problems/intersection-of-two-arrays/](https://leetcode.com/problems/intersection-of-two-arrays/)
+5. [https://leetcode.com/problems/intersection-of-two-arrays-ii/](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+6. [https://leetcode.com/problems/sort-array-by-parity/](https://leetcode.com/problems/sort-array-by-parity/)
+7. [https://leetcode.com/problems/sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
+8. [https://leetcode.com/problems/valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)
 
