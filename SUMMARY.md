@@ -23,7 +23,7 @@
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
 * [Tools, Syntax, and Glossary](course-logistics/tools-syntax-and-glossary.md)
 * [Group Work](course-logistics/group-work.md)
-* [LinkedIn Certificates](course-logistics/linkedin-certificates.md)
+* [LinkedIn Education Badge](course-logistics/linkedin-certificates.md)
 
 ## 🏞 Projects
 

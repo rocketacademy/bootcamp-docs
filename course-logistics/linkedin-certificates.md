@@ -1,4 +1,4 @@
-# LinkedIn Certificates
+# LinkedIn Education Badge
 
 Coding Bootcamp students can add Rocket Academy to the Education sections of their LinkedIn profiles. Here are instructions.
 
