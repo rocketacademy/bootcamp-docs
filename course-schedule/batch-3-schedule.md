@@ -1,5 +1,11 @@
 # Batch 3 Schedule
 
+## Current Week
+
+| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 12-16 Apr | HTML, CSS, DOM, ES6 | - | [CD1.1](course-weeks-1-4.md#course-day-1-1) | [CD1.2](course-weeks-1-4.md#course-day-1-2) | [CD1.3](course-weeks-1-4.md#course-day-1-3) | [CD1.4](course-weeks-1-4.md#course-day-1-4) | [CD1.5](course-weeks-1-4.md#course-day-1-5) |
+
 ## Overall Schedule
 
 <table>

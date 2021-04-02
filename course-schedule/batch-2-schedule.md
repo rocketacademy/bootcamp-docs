@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 12 | 29 Mar - 2 Apr | Arrays, Sorting Algorithms, Hash Tables | [P3](../projects/project-3-full-stack-game.md) | [CD11.4](course-weeks-9-12.md#course-day-11-4) | [CD11.5](course-weeks-9-12.md#course-day-11-5) | [CD12.1](course-weeks-9-12.md#course-day-12-1) | [CD12.2](course-weeks-9-12.md#course-day-12-2) | **PH** |
+| 13 | 5-9 Apr | React: JSX, Components, Props OOP, Stacks, Queues | - | [CD12.3](course-weeks-9-12.md#course-day-12-3) | [CD12.4](course-weeks-9-12.md#course-day-12-4) | [CD12.5](course-weeks-9-12.md#course-day-12-5) | [CD13.1](course-weeks-13-16.md#course-day-13-1) | [CD13.2](course-weeks-13-16.md#course-day-13-2) |
 
 ## Overall Schedule
 
