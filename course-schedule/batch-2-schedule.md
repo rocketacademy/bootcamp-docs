@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 13 | 5-9 Apr | React: JSX, Components, Props OOP, Stacks, Queues | - | [CD12.3](course-weeks-9-12.md#course-day-12-3) | [CD12.4](course-weeks-9-12.md#course-day-12-4) | [CD12.5](course-weeks-9-12.md#course-day-12-5) | [CD13.1](course-weeks-13-16.md#course-day-13-1) | [CD13.2](course-weeks-13-16.md#course-day-13-2) |
+| 13 | 5-9 Apr | React: JSX, Components, Props OOP, Stacks, Queues | [P3](../projects/project-3-full-stack-game.md) | [CD12.3](course-weeks-9-12.md#course-day-12-3) | [CD12.4](course-weeks-9-12.md#course-day-12-4) | [CD12.5](course-weeks-9-12.md#course-day-12-5) | [CD13.1](course-weeks-13-16.md#course-day-13-1) | [CD13.2](course-weeks-13-16.md#course-day-13-2) |
 
 ## Overall Schedule
 
@@ -64,7 +64,8 @@ description: 11 Jan - 25 Jun
       <td style="text-align:left">3</td>
       <td style="text-align:left">25-29 Jan</td>
       <td style="text-align:left">Node.js, HTTP, File Servers</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-1-video-poker.md">P1</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-1">CD3.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-2">CD3.2</a>
@@ -162,7 +163,8 @@ description: 11 Jan - 25 Jun
       <td style="text-align:left">9</td>
       <td style="text-align:left">8-12 Mar</td>
       <td style="text-align:left">Sequelize ORM, MVC</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-2-server-side-app.md">P2</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-4">CD8.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-5">CD8.5</a>
@@ -230,7 +232,8 @@ description: 11 Jan - 25 Jun
       <td style="text-align:left">5-9 Apr</td>
       <td style="text-align:left">React: JSX, Components, Props
         <br />OOP, Stacks, Queues</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-3-full-stack-game.md">P3</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-3">CD12.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-4">CD12.4</a>
@@ -302,7 +305,8 @@ description: 11 Jan - 25 Jun
         <p>Create React App, Higher-Order Components, Global React State</p>
         <p>Common Algorithm Patterns</p>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-3">CD16.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-4">CD16.4</a>
@@ -369,7 +373,8 @@ description: 11 Jan - 25 Jun
       <td style="text-align:left">21</td>
       <td style="text-align:left">31 May - 4 Jun</td>
       <td style="text-align:left">Security, Testing, DSAOP</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-2">CD20.2</a>
