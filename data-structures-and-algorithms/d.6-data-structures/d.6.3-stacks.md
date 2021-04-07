@@ -32,4 +32,5 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 
 1. [https://leetcode.com/problems/min-stack/](https://leetcode.com/problems/min-stack/)
 2. [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)
+   1. Rocket Academy solution code: [https://pastebin.com/qGbG1BAN](https://pastebin.com/qGbG1BAN)
 
