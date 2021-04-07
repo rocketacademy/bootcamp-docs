@@ -14,6 +14,12 @@ A stack is a data structure that supports adding and removing only from the end/
 
 Please read and understand the stack class implementation in [this](https://repl.it/@kaiyuanneo/stack-class-definitions#main.py) Repl.
 
+## Examples of Stack Use Cases
+
+1. Program execution "[call stack](https://en.wikipedia.org/wiki/Call_stack)", or "stack" of functions that are currently being executed.
+2. Undo and redo features in most text editors.
+3. `git stash` functionality in Git to temporarily save changes without committing.
+
 ## Exercises
 
 Feel free to use the Python List to perform Stack operations. Once you've attempted each problem, please review solutions in the Discuss tab on that problem's page.
@@ -33,4 +39,12 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 1. [https://leetcode.com/problems/min-stack/](https://leetcode.com/problems/min-stack/)
 2. [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)
    1. Rocket Academy solution code: [https://pastebin.com/qGbG1BAN](https://pastebin.com/qGbG1BAN)
+
+### More Comfortable
+
+1. [https://leetcode.com/problems/design-a-stack-with-increment-operation/](https://leetcode.com/problems/design-a-stack-with-increment-operation/)
+2. [https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+3. [https://leetcode.com/problems/score-of-parentheses/](https://leetcode.com/problems/score-of-parentheses/)
+4. [https://leetcode.com/problems/daily-temperatures/](https://leetcode.com/problems/daily-temperatures/)
+5. [https://leetcode.com/problems/validate-stack-sequences/](https://leetcode.com/problems/validate-stack-sequences/)
 
