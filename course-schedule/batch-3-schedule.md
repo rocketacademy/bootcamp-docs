@@ -60,7 +60,8 @@
       <td style="text-align:left">3</td>
       <td style="text-align:left">26-30 Apr</td>
       <td style="text-align:left">Node.js, HTTP, File Servers</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-1-video-poker.md">P1</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-1">CD3.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-2">CD3.2</a>
@@ -158,7 +159,8 @@
       <td style="text-align:left">9</td>
       <td style="text-align:left">7-11 Jun</td>
       <td style="text-align:left">Sequelize ORM, MVC</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-2-server-side-app.md">P2</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-4">CD8.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-4">CD8.4</a>
@@ -226,7 +228,8 @@
       <td style="text-align:left">5-9 Jul</td>
       <td style="text-align:left">React: JSX, Components, Props
         <br />OOP, Stacks, Queues</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-3-full-stack-game.md">P3</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-3">CD12.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-4">CD12.4</a>
@@ -298,7 +301,8 @@
         <p>Create React App, Higher-Order Components, Global React State</p>
         <p>Common Algorithm Patterns</p>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-2">CD16.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-3">CD16.3</a>
@@ -365,7 +369,8 @@
       <td style="text-align:left">21</td>
       <td style="text-align:left">30 Aug - 3 Sep</td>
       <td style="text-align:left">Security, Testing, DSAOP</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-2">CD20.2</a>
