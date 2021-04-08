@@ -33,7 +33,6 @@ None
 #### Post-Class
 
 * [Project 3 Post-Mortems](../projects/project-3-full-stack-game.md#post-mortem-meeting)
-* [D.6.4: Queues - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md#part-2)
 
 ### Course Day 13.3
 

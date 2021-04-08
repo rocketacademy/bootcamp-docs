@@ -27,10 +27,6 @@ Please use Python's `deque` data structure to represent queues.
 
 ### Part 1
 
-1. [https://leetcode.com/problems/find-the-most-competitive-subsequence/](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
-   1. Hint: Consider using both queue and stack methods
-
-### Part 2
-
 1. [https://leetcode.com/problems/task-scheduler/](https://leetcode.com/problems/task-scheduler/)
+   1. Hint: This may be solved more efficiently without queues, but see how we can implement it with queues first.
 
