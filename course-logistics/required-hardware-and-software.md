@@ -119,6 +119,9 @@ Add [this extension](https://marketplace.visualstudio.com/items?itemName=techer.
 We will be using React in Coding Bootcamp. Please add the following setting to VSCode to support React. To find these settings, follow [instructions from Coding Basics](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software#vscode).
 
 ```bash
+"[javascript]": {
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+},
 "[javascriptreact]": {
   "editor.defaultFormatter": "dbaeumer.vscode-eslint"
 },
