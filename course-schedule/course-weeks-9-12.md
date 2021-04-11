@@ -8,7 +8,7 @@
 
 #### Pre-Class
 
-* [4.2: ORM, Sequelize](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/4-backend-structure/4.2-sequelize)
+* [4.2: ORM, Sequelize](../4-backend-structure/4.2-sequelize/)
 * [4.2.1: Intro to Sequelize](../4-backend-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
 
 #### In-Class
@@ -24,7 +24,7 @@
 
 #### Pre-Class
 
-* [4.1: Advanced Promise Handling](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/4-backend-structure/4.1-advanced-promise-handling)
+* [4.1: Advanced Promise Handling](../4-backend-structure/4.1-advanced-promise-handling/)
 * [4.1.1: Try Catch](../4-backend-structure/4.1-advanced-promise-handling/4.1.1-try-catch.md)
 
 #### In-Class
@@ -108,7 +108,7 @@
 
 #### Pre-Class
 
-* [5.2: AJAX](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/5-full-stack-application/5.2-ajax)
+* [5.2: AJAX](../5-full-stack-applications/5.2-ajax/)
 * [4.2.6 Sequelize Validations](../4-backend-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
 
 #### In-Class
@@ -156,7 +156,7 @@
 
 #### Pre-Class
 
-* [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/6-frontend-infrastructure/6.1-webpack)
+* [6.1: Webpack](../6-frontend-infrastructure/6.1-webpack/)
 * [5.2.2: AJAX Cards](../5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
 * [D.2: Intro to Python \(Exercises 9-11\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
 
