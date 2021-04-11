@@ -29,7 +29,7 @@
 
 #### Pre-Class
 
-* [9.2: Testing](https://github.com/rocketacademy/bootcamp-docs/tree/b9701fd015756ceae81c4fadc6c642999ccc77b2/9-advanced-topics/9.2-testing)
+* [9.2: Testing](../9-advanced-topics/9.2-testing/)
 * [9.2.1: Unit Testing](../9-advanced-topics/9.2-testing/9.2.1-unit-testing.md)
 
 #### In-Class
@@ -75,7 +75,7 @@
 
 #### Pre-Class
 
-* [9.3: Django](https://github.com/rocketacademy/bootcamp-docs/tree/b9701fd015756ceae81c4fadc6c642999ccc77b2/9-advanced-topics/9.3-django)
+* [9.3: Django](../9-advanced-topics/9.3-django/)
 
 #### In-Class
 
@@ -126,7 +126,7 @@ None
 
 #### Pre-Class
 
-* [9.5: ML - Naive Bayes Theorem](https://github.com/rocketacademy/bootcamp-docs/tree/b9701fd015756ceae81c4fadc6c642999ccc77b2/9-advanced-topics/9.5-ml-bayes-theorem)
+* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-bayes-theorem/)
 
 #### In-Class
 
