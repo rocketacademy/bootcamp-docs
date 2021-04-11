@@ -53,7 +53,7 @@
 
 #### Pre-Class
 
-* [3.4: SQL Language](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/3-backend-application/3.4-sql-language)
+* [3.4: SQL Language](../3-backend-applications/3.4-sql-language/)
 * [3.4.1: Basic SQL Commands](../3-backend-applications/3.4-sql-language/3.4.1-basic-sql-commands.md)
 * [3.6.1: Cookies](../3-backend-applications/3.6-authentication/3.6.1-cookies.md)
 
@@ -70,7 +70,7 @@
 
 #### Pre-Class
 
-* [3.5: SQL Applications](https://github.com/rocketacademy/bootcamp-docs/tree/3fd8abcb5c9a6dd371abd3702eb056a04bbf7e47/3-backend-application/3.5-sql-applications)
+* [3.5: SQL Applications](../3-backend-applications/3.5-sql-applications/)
 * [3.5.1: PostgreSQL, psql](../3-backend-applications/3.5-sql-applications/3.5.1-postgresql-psql.md)
 * [3.5.2: PostgreSQL Node App](../3-backend-applications/3.5-sql-applications/3.5.2-postgresql-node-app.md)
 
