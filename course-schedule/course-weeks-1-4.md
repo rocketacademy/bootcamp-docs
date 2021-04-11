@@ -146,7 +146,7 @@ No pre-class material today.
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.1: HTML & CSS \(Technical Documentation\)](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/1-frontend-basics/1.1-html-and-css#html-css-exercise-technical-documentation-page)
+* 1.1: HTML & CSS \(Technical Documentation\)
 
 #### Post-Class
 

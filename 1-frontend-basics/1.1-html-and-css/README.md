@@ -2,7 +2,7 @@
 
 ## Exercises
 
-### HTML/CSS Exercise: Tribute Page
+### Tribute Page
 
 No need to do user story \#8 because it will be covered later.
 
@@ -18,19 +18,19 @@ div {
 ```
 {% endhint %}
 
-### HTML/CSS Exercise: Technical Documentation Page
+### Technical Documentation Page
 
 [https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 
-### HTML/CSS Exercise: Product Landing Page
+### Product Landing Page
 
 [https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
-### HTML/CSS Exercise: Survey Form
+### Survey Form
 
 [https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
-### HTML/CSS Exercise: Personal Page
+### Personal Page
 
 [https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
