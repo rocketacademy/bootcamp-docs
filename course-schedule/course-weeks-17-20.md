@@ -8,7 +8,7 @@
 
 #### Pre-Class
 
-* [8.1: Create React App](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/8-advanced-react/8.1-create-react-app)
+* [8.1: Create React App](../8-advanced-react/8.1-create-react-app/)
 * [8.1.1: Create React App Full Stack](../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
 * [D.11.2: Binary Search - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#pre-class)
 
@@ -77,7 +77,7 @@
 
 #### Pre-Class
 
-* [8.4: React Router](https://github.com/rocketacademy/bootcamp-docs/tree/3fd8abcb5c9a6dd371abd3702eb056a04bbf7e47/8-advanced-react/8.4-react-router)
+* [8.4: React Router](../8-advanced-react/8.4-react-router/)
 * [8.4.1: React Router Shopping](../8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
 * [8.4.2: React Router Deep Linking](../8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
 
@@ -377,7 +377,7 @@ None
 
 #### Pre-Class
 
-* [9.1 Security](https://github.com/rocketacademy/bootcamp-docs/tree/f357a152ccbae2bb3e0d4bd14c4385b46e4fd5df/9-advanced-topics/9.1-security)
+* [9.1 Security](../9-advanced-topics/9.1-security/)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 #### In-Class
