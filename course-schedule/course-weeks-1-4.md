@@ -45,7 +45,7 @@
 #### Pre-Class
 
 * [1.1.2: Basic CSS Part 2](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2)
-* [1.1.2: CSS Exercise: Tribute Page](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#html-css-exercise-1-tribute-page)
+* [1.1.2: CSS Exercise: Tribute Page](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#tribute-page)
 * [1.7: setTimeout](../1-frontend-basics/1.7-settimeout.md)
 * [1.8: High Card setTimeout](../1-frontend-basics/1.8-high-card-settimeout.md)
 * [1.9: Match Game](../1-frontend-basics/1.9-match-game.md)
@@ -146,7 +146,7 @@ No pre-class material today.
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 1.1: HTML & CSS \(Technical Documentation\)
+* [1.1: HTML & CSS \(Technical Documentation\)](../1-frontend-basics/1.1-html-and-css/#technical-documentation-page)
 
 #### Post-Class
 
@@ -161,7 +161,7 @@ No pre-class material today.
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.1: HTML & CSS \(Product Page\)](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/1-frontend-basics/1.1-html-and-css#html-css-exercise-product-landing-page)
+* [1.1: HTML & CSS \(Product Landing Page\)](../1-frontend-basics/1.1-html-and-css/#product-landing-page)
 
 #### Post-Class
 
@@ -274,7 +274,7 @@ Node.js
 
 * [2.11: AWS](../2-backend-basics/2.11-aws-deployment.md)
 * [2.12: Domain Names](../2-backend-basics/2.12-domain-names.md)
-* [2.13: JSON](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/2-backend-basics/2.13-json)
+* [2.13: JSON](../2-backend-basics/2.13-json/)
 * [2.13.1: JSON Module - Read, Write](../2-backend-basics/2.13-json/2.13.1-json-module-read-write.md)
 
 #### In-Class
@@ -326,7 +326,7 @@ Node.js
 #### Pre-Class
 
 * [3.0: Overview](../3-backend-applications/3.0-module-3-overview.md)
-* [3.1: Intro to Express.js](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/3-backend-application/3.1-express-js)
+* [3.1: Express.js](../3-backend-applications/3.1-express-js/)
 * [3.1.1: Express.js + JSON](../3-backend-applications/3.1-express-js/3.1.1-express.js-+-json.md)
 
 #### In-Class
@@ -342,7 +342,7 @@ Node.js
 #### Pre-Class
 
 * [3.2: ES6 Spread / Destructure](../3-backend-applications/3.2-es6-spread-destructure.md)
-* [3.3: Intro to EJS](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/3-backend-application/3.3-ejs)
+* [3.3: EJS](../3-backend-applications/3.3-ejs/)
 * [3.3.1: EJS Loops](../3-backend-applications/3.3-ejs/3.3.1-ejs-loops.md)
 
 #### In-Class
