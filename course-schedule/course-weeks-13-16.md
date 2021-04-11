@@ -38,7 +38,7 @@ None
 
 #### Pre-Class
 
-* [7.1: JSX Intro](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/7-react/7.1-jsx-intro)
+* [7.1: JSX Intro](../7-react/7.1-jsx-intro/)
 * [7.1.1: Conditional Rendering](../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
 * [7.1.2: Rendering In a Loop](../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
 * [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
@@ -46,7 +46,7 @@ None
 
 #### In-Class
 
-* [7.ICE.1: JSX Products Items ](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/7-react/7.ice-in-class-exercises)
+* [7.ICE.1: JSX Products Items](../7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
 
 #### Post-Class
 
@@ -59,7 +59,7 @@ None
 
 #### Pre-Class
 
-* [7.2: Components](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/7-react/7.2-components)
+* [7.2: Components](../7-react/7.2-components/)
 * [7.2.1: Props](../7-react/7.2-components/7.2.1-props.md)
 
 #### In-Class
@@ -111,7 +111,7 @@ None
 
 #### Pre-Class
 
-* [7.7: Component Hierarchy](https://github.com/rocketacademy/bootcamp-docs/tree/3cb3dec4b56fe185c7372b2c3f3595e559d41038/7-react/7.7-component-hierarchy)
+* [7.7: Component Hierarchy](../7-react/7.7-component-hierarchy/)
 
 #### In-Class
 
