@@ -1,12 +1,14 @@
 # 7.2: Components
 
+## Introduction
+
 React components are parts of the UI that are specified in JSX. They can be composed together to form an entire app.
 
 The word _component_ refers to the React code syntax, but it also refers to the concept of a UI design element that repeats itself across different parts of an app. Most modern web applications, for reasons of ease-of-use and design reusability, have parts that are repeated in more than one place in a page and for multiple pages.
 
 React allows us to specify a component and its view logic, e.g., the HTML _and_ the interactive behaviours, inside a single piece of code. Specifically in the React system this will be a module in a file.
 
-We can use these files/components to compose together an entire app by conditionally rendering a set of components in one case, rendering components in a loop, etc., all based on a data structure being held in the React app- most likely this will be an array of objects retrieved from the database.
+We can use these files/components to compose together an entire app by conditionally rendering a set of components in one case, rendering components in a loop, etc., all based on a data structure held in the React app, commonly an array of objects retrieved from the database.
 
 ## Create a Component
 
