@@ -34,7 +34,7 @@
 #### In-Class
 
 * [Review 1.POCE.1: Noodle Recipe Website](../course-logistics/course-methodology.md#peer-code-review)
-* [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
+* [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md) \(Continued\)
 
 #### Post-Class
 
