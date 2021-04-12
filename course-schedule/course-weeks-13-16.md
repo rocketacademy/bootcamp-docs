@@ -61,6 +61,8 @@ None
 
 * [7.2: Components](../7-react/7.2-components/)
 * [7.2.1: Props](../7-react/7.2-components/7.2.1-props.md)
+* [7.2.2: Rendering Components](../7-react/7.2-components/7.2.2-rendering-components.md)
+* [7.2.3: Class Components](../7-react/7.2-components/7.2.3-class-components.md)
 
 #### In-Class
 
