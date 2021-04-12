@@ -263,6 +263,7 @@
 * [7.2: Components](7-react/7.2-components/README.md)
   * [7.2.1: Props](7-react/7.2-components/7.2.1-props.md)
   * [7.2.2: Rendering Components](7-react/7.2-components/7.2.2-rendering-components.md)
+  * [7.2.3: Class Components](7-react/7.2-components/7.2.3-class-components.md)
 * [7.3: Express.js + Webpack + React](7-react/7.3-express.js-+-webpack-+-react.md)
 * [7.4: State](7-react/7.4-state.md)
 * [7.5: Controlled Forms](7-react/7.5-controlled-forms.md)

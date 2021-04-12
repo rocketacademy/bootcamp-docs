@@ -24,7 +24,6 @@ function BigAnnouncement() {
       <p>Lorem Ipsum!!</p>
     </div>
   );
-
   console.log('myEl:', myEl);
   return myEl;
 }
