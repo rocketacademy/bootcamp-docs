@@ -65,3 +65,7 @@ Guidance:
 
 ![](../.gitbook/assets/jie-ping-20210306-18.29.49%20%281%29.png)
 
+## Exercise
+
+Create your first draft resume in your job Notion. \(This won't be shared, it is only a draft\).
+

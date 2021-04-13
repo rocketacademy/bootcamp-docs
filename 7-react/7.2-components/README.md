@@ -10,6 +10,10 @@ React allows us to specify a component and its view logic, e.g., the HTML _and_ 
 
 We can use these files/components to compose together an entire app by conditionally rendering a set of components in one case, rendering components in a loop, etc., all based on a data structure held in the React app, commonly an array of objects retrieved from the database.
 
+UI Components
+
+
+
 ## Create a Component
 
 At its simplest, a component is a function that returns JSX. In React this is referred to as a _functional component_. The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
