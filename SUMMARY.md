@@ -49,6 +49,7 @@
   * [CSS Layout](1-frontend-basics/1.1-html-and-css/css-layout/README.md)
     * [No Layout](1-frontend-basics/1.1-html-and-css/css-layout/no-layout.md)
     * [Display](1-frontend-basics/1.1-html-and-css/css-layout/display.md)
+    * [Display: Inline and Block](1-frontend-basics/1.1-html-and-css/css-layout/display-inline-and-block.md)
 * [1.2: ES6 Basics](1-frontend-basics/1.2-es6-basics.md)
 * [1.3: New JS Syntax](1-frontend-basics/1.3-new-js-syntax.md)
 * [1.4: DOM Review](1-frontend-basics/1.4-dom-review/README.md)
