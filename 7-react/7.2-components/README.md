@@ -2,19 +2,13 @@
 
 ## Introduction
 
-React components are parts of the UI that are specified in JSX. They can be composed together to form an entire app.
+React components are UI elements written in JSX. They can be combined to form more complex components, even entire apps. React allows us to specify both looks and logic of our frontends in component code, making React a convenient way to build interactive UIs. Typically each component has its own file.
 
-The word _component_ refers to the React code syntax, but it also refers to the concept of a UI design element that repeats itself across different parts of an app. Most modern web applications, for reasons of ease-of-use and design reusability, have parts that are repeated in more than one place in a page and for multiple pages.
+The word "component" refers to React syntax, but also refers to the concept of a UI element repeated across an app. Most applications have repeated visual elements across multiple pages. We can think of components like "helper functions" for UIs.
 
-React allows us to specify a component and its view logic, e.g., the HTML _and_ the interactive behaviours, inside a single piece of code. Specifically in the React system this will be a module in a file.
+We can compose apps using components using JS logic: conditionally rendering components, rendering components in a loop, etc. Typically the logic for rendering components will depend on data retrieved from the database and temporarily stored in our React app.
 
-We can use these files/components to compose together an entire app by conditionally rendering a set of components in one case, rendering components in a loop, etc., all based on a data structure held in the React app, commonly an array of objects retrieved from the database.
-
-UI Components
-
-
-
-## Create a Component
+## Creating Components
 
 At its simplest, a component is a function that returns JSX. In React this is referred to as a _functional component_. The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
 
@@ -35,7 +29,7 @@ function BigAnnouncement() {
 
 In the above example all we did is move the previous example's JSX into a function. Note that in React these component functions are declared using the function declaration and named with a capitalized word. React won't work if the function name isn't capitalized.
 
-## Using a Component
+## Using Components
 
 In the complete example we reference the name of our component _**as if it was an HTML element**_.
 
