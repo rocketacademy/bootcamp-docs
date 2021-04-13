@@ -10,14 +10,14 @@ We can compose apps using components using JS logic: conditionally rendering com
 
 ## Creating Components
 
-At its simplest, a component is a function that returns JSX. In React this is referred to as a _functional component_. The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
+At its simplest, a component is a function that returns JSX. In React this is referred to as a "functional component". The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
 
 ```jsx
 function BigAnnouncement() {
   const myEl = (
     <div>
       <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+        Hey <span className="warning">Wow!</span>
       </h1>
       <p>Lorem Ipsum!!</p>
     </div>
@@ -27,7 +27,7 @@ function BigAnnouncement() {
 }
 ```
 
-In the above example all we did is move the previous example's JSX into a function. Note that in React these component functions are declared using the function declaration and named with a capitalized word. React won't work if the function name isn't capitalized.
+In the above example we moved JSX from Module [7.1: JSX Intro](../7.1-jsx-intro/) into a function. Note that in React these component functions are declared using the function declaration and named with a capitalized word. React won't work if the function name isn't capitalized.
 
 ## Using Components
 
@@ -41,7 +41,7 @@ function BigAnnouncement() {
   const myEl = (
     <div>
       <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+        Hey <span className="warning">Wow!</span>
       </h1>
       <p>Lorem Ipsum!!</p>
     </div>
@@ -73,7 +73,7 @@ function BigAnnouncement() {
   const myEl = (
     <div>
       <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+        Hey <span className="warning">Wow!</span>
       </h1>
       <p>Lorem Ipsum!!</p>
     </div>
