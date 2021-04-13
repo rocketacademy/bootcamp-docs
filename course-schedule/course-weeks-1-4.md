@@ -27,7 +27,7 @@
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS Part 1](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
+* [1.1.2: Basic CSS \(Exercises Part 1\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
 * [1.5: High Card DOM](../1-frontend-basics/1.5-high-card-dom.md)
 * [1.6: Reading Documentation](../1-frontend-basics/1.6-reading-documentation.md)
 
@@ -44,8 +44,7 @@
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS Part 2](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2)
-* [1.1.2: CSS Exercise: Tribute Page](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#tribute-page)
+* [1.1.2: Basic CSS \(Exercises Part 2, Tribute Page\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2-exercises-23-36-skip-last-8-exercises)
 * [1.7: setTimeout](../1-frontend-basics/1.7-settimeout.md)
 * [1.8: High Card setTimeout](../1-frontend-basics/1.8-high-card-settimeout.md)
 * [1.9: Match Game](../1-frontend-basics/1.9-match-game.md)
