@@ -27,11 +27,11 @@ function BigAnnouncement() {
 }
 ```
 
-In the above example we moved JSX from Module [7.1: JSX Intro](../7.1-jsx-intro/) into a function. Note that in React these component functions are declared using the function declaration and named with a capitalized word. React won't work if the function name isn't capitalized.
+In the above example we moved JSX from [Module 7.1: JSX Intro](../7.1-jsx-intro/#jsx-with-multiple-elements) into a function. Note that component functions are declared using the `function` keyword and named with UpperCamelCase by convention. React won't work if the function name isn't in UpperCamelCase.
 
 ## Using Components
 
-In the complete example we reference the name of our component _**as if it was an HTML element**_.
+In the complete example we reference the name of our component **as if it were an HTML element**.
 
 ```jsx
 import React from 'react';
@@ -46,24 +46,21 @@ function BigAnnouncement() {
       <p>Lorem Ipsum!!</p>
     </div>
   );
-
   console.log('myEl:', myEl);
   return myEl;
 }
 
-// create an element that React will render stuff into
+// Create root element to render other elements into
 const rootElement = document.createElement('div');
-
-// put that element onto the page
+// Append root element to document body
 document.body.appendChild(rootElement);
-
-// have react render the JSX element into the root element.
+// Render new JSX element into root element
 render(<BigAnnouncement />, rootElement);
 ```
 
 ## Repeating Components
 
-In the sense that BigAnnouncement is an element itself, it can be mentioned more than once. We'll create a surrounding JSX and put BigAnnouncement inside.
+In the sense that `BigAnnouncement` is an element itself, it can be mentioned more than once. We'll create a surrounding JSX and put `BigAnnouncement` inside.
 
 ```jsx
 import React from 'react';
@@ -78,17 +75,16 @@ function BigAnnouncement() {
       <p>Lorem Ipsum!!</p>
     </div>
   );
-
   console.log('myEl:', myEl);
   return myEl;
 }
 
-// create an element that React will render stuff into
+// Create root element to render other elements into
 const rootElement = document.createElement('div');
-
-// put that element onto the page
+// Append root element to document body
 document.body.appendChild(rootElement);
 
+// Create a container to store multiple BigAnnouncements
 const myContainer = (
   <div>
     <BigAnnouncement />
@@ -98,7 +94,7 @@ const myContainer = (
   </div>
 );
 
-// have react render the JSX element into the root element.
+// Render new JSX element into root element
 render(myContainer, rootElement);
 ```
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The DOM is the set of variables that represents the elements in the screen of that browser window. It is the interface through which our JavaScript logic can change what's on screen and how the user's actions can affect our code \(specifically by executing functions\).
+The DOM \(Document Object Model\) is a set of nodes that represent the elements in an HTML document. Browsers generate the DOM automatically when they load HTML. The DOM is the interface through which our JS logic can update what's on screen and determine how user actions manipulate our UI.
 
 ![](../../.gitbook/assets/img_0018.png)
 
@@ -119,7 +119,6 @@ button.addEventListener('click', myButtonClicked);
 
 ## Exercises
 
-Start with this repo: [https://github.com/rocketacademy/basics-next-steps-dom](https://github.com/rocketacademy/basics-next-steps-dom)
-
-Implement the above code.
+1. Start with this repo: [https://github.com/rocketacademy/basics-next-steps-dom](https://github.com/rocketacademy/basics-next-steps-dom)
+2. Implement the above code
 
