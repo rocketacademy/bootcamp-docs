@@ -1,5 +1,9 @@
 # Display: Inline and Block
 
+`display` is the first css style property we'll talk about that actually affects the layout of elements on the page. To begin with we'll talk about the basic layout display values: `inline`, `block` and `inline-block`.
+
+See a full list of all possible display values here: [https://developer.mozilla.org/en-US/docs/Web/CSS/display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
 ## Block vs Inline
 
 `display` is set by default for every element, either to `inline` or `block`.
@@ -85,6 +89,14 @@ h2{
 ![](../../../.gitbook/assets/block-inline-margin.png)
 
 Notice that a margin is applied on the block element. However, even though a large margin is set on the inline element, it is not applied.
+
+## Layout with Block and Inline
+
+When we create our CSS layouts we'll be using container elements. These will form the underlying structure of our page layout. The first of these elements will be block elements. We will mostly use `div` elements as a plain, generic CSS layout container element.
+
+
+
+
 
 ## CSS Block Margin Gotcha: Margin Collapse
 

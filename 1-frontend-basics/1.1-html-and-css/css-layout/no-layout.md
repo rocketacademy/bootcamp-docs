@@ -1,6 +1,6 @@
 # No Layout
 
-If we want to put a basic vertical document on the page we can just put elements in the order we want.
+If we want to put a basic vertical document on the page we can just put elements in the order we want, no layout design necessary. 
 
 ![](../../../.gitbook/assets/layout-ex-1.png)
 
