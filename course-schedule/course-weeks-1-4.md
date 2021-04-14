@@ -80,7 +80,10 @@
 
 * [1.12: Tic Tac Toe](../1-frontend-basics/1.12-tic-tac-toe.md)
 * [1.13: Multi File Refactor](../1-frontend-basics/1.13-multi-file-refactor.md)
-* [1.1.3: CSS Layout Part 1](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout.md#part-1)
+* [1.1.3.1: CSS No Layout](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.1-no-layout.md)
+* [1.1.3.2: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.2-display-inline-and-block.md)
+* [1.1.3.3: CSS Box Model](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.3-box-model.md)
+* [1.1.3.4: CSS Layout Width](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.4-layout-fixed-width-and-max-width.md)
 
 #### In-Class
 
@@ -96,7 +99,8 @@
 
 #### Pre-Class
 
-* [1.1.3: CSS Page Layout 2](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout.md#part-2)
+* [1.1.3.5: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.5-display-inline-block.md)
+* [1.1.3.6: CSS Layout Col / Card](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.6-layout-columns-and-cards.md)
 
 #### In-Class
 
@@ -110,7 +114,8 @@
 
 #### Pre-Class
 
-No pre-class material today.
+* [CSS 1.1.3.7: Position](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.7-position.md)
+* [CSS 1.1.3.8: Float](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.8-float.md)
 
 #### In-Class
 

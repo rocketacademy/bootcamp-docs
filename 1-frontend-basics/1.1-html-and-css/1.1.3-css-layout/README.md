@@ -1,4 +1,4 @@
-# CSS Layout
+# 1.1.3: CSS Layout
 
 CSS Layout refers to creating a web page that is designed with sections that are visually differentiated.
 
@@ -19,14 +19,4 @@ Even if you don't see the clearly defined set of boxes on a given website, CSS /
 ![](../../../.gitbook/assets/zillow-desk.png)
 
 ![](../../../.gitbook/assets/adobe.com.png)
-
-## CSS Layout Gotchas
-
-### White Spacing Between Element
-
-[https://patrickbrosset.medium.com/when-does-white-space-matter-in-html-b90e8a7cdd33](https://patrickbrosset.medium.com/when-does-white-space-matter-in-html-b90e8a7cdd33)  
-  
-
-
-## 
 
