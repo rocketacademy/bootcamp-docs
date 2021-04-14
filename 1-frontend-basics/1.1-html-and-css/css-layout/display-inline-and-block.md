@@ -17,6 +17,7 @@ Here are some example default display values:
 | section | block |
 | a | inline |
 | span | inline |
+| input | inline |
 
 #### Block
 
@@ -47,7 +48,7 @@ Block elements will line break before and after. This also affects inline elemen
 
 #### Inline Line Breaks
 
-Inline elements will line break inside the element.
+Inline elements will line break _**inside**_ the element.
 
 ![](../../../.gitbook/assets/inline-break.png)
 
@@ -89,14 +90,6 @@ h2{
 ![](../../../.gitbook/assets/block-inline-margin.png)
 
 Notice that a margin is applied on the block element. However, even though a large margin is set on the inline element, it is not applied.
-
-## Layout with Block and Inline
-
-When we create our CSS layouts we'll be using container elements. These will form the underlying structure of our page layout. The first of these elements will be block elements. We will mostly use `div` elements as a plain, generic CSS layout container element.
-
-
-
-
 
 ## CSS Block Margin Gotcha: Margin Collapse
 
