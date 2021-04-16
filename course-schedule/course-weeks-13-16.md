@@ -114,6 +114,7 @@ None
 #### Pre-Class
 
 * [7.7: Component Hierarchy](../7-react/7.7-component-hierarchy/)
+* [7.9: React Dev Tools](../7-react/7.9-react-dev-tools.md)
 * [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
 
 #### In-Class
@@ -168,7 +169,6 @@ None
 #### Pre-Class
 
 * [7.8: Error Boundaries](../7-react/7.8-error-boundaries.md)
-* [7.9: React Dev Tools](../7-react/7.9-react-dev-tools.md)
 
 #### **In-Class**
 
