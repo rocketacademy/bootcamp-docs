@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 12-16 Apr | HTML, CSS, DOM, ES6 | - | [CD1.1](course-weeks-1-4.md#course-day-1-1) | [CD1.2](course-weeks-1-4.md#course-day-1-2) | [CD1.3](course-weeks-1-4.md#course-day-1-3) | [CD1.4](course-weeks-1-4.md#course-day-1-4) | [CD1.5](course-weeks-1-4.md#course-day-1-5) |
+| 2 | 19-23 Apr | Advanced CSS | [P1](../projects/project-1-video-poker.md) | [CD2.1](course-weeks-1-4.md#course-day-2-1) | [CD2.2](course-weeks-1-4.md#course-day-2-2) | [CD2.3](course-weeks-1-4.md#course-day-2-3) | [CD2.4](course-weeks-1-4.md#course-day-2-4) | [CD2.5](course-weeks-1-4.md#course-day-2-5) |
 
 ## Overall Schedule
 
