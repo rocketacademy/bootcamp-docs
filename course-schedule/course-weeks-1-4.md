@@ -131,6 +131,7 @@
 #### Pre-Class
 
 * [2.0: Module 2 Setup](../2-backend-basics/2.0-module-2-overview.md)
+* [1.1.4: CSS Flexbox Froggy](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
 
 #### In-Class
 
@@ -145,7 +146,7 @@
 
 #### Pre-Class
 
-* [1.1.4: CSS Flexbox Froggy](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
+* [1.1.4: Flexbox Layout](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md#see-how-to-use-flexbox-to-create-css-layouts)
 
 #### In-Class
 
@@ -160,7 +161,8 @@
 
 #### Pre-Class
 
-* [1.1.4: Flexbox Layout](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md#see-how-to-use-flexbox-to-create-css-layouts)
+* [1.1.5: CSS Responsive Design](../1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
+* [1.1.6: Web Design Basics](../1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
 
 #### In-Class
 
@@ -193,13 +195,6 @@
 ### Course Day 3.2
 
 #### Pre-Class
-
-CSS
-
-* [1.1.5: CSS Responsive Design](../1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
-* [1.1.6: Web Design Basics](../1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
-
-Node.js
 
 * [2.1: My First Node.js Program](../2-backend-basics/2.1-my-first-node-program.md)
 * [2.2: Command Line Programs](../2-backend-basics/2.2-command-line-programs.md)
