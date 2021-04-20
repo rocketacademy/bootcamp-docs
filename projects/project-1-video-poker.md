@@ -14,7 +14,7 @@ Begin by forking the [Video Poker Repo](https://github.com/rocketacademy/video-p
 2. When they click the "deal" button a hand of five cards will be dealt. They user can ask for different cards if they want.
 3. The game gives points based on the hand the user got. Look up the [rankings of Poker hands here.](https://en.wikipedia.org/wiki/List_of_poker_hands)
 
-You can use this implementation of [Video Poker here as a reference](https://www.freeslots.com/poker.htm). You can also reference this [Wikipedia page about video poker.](https://en.wikipedia.org/wiki/Video_poker)
+Reference this [Wikipedia page about video poker.](https://en.wikipedia.org/wiki/Video_poker)
 
 ## Basic
 
@@ -66,6 +66,13 @@ This is your chance to create a project that has polish and that you can show of
 * animations \(you can look up CSS animations, you can also append GIFs into the screen to get motion\)
 * looks good on a laptop/desktop \(responsive CSS\)
 * runs without any errors / is resetable - when using the game it has no unexpected behaviors or weird quirks
+
+Use some pre-created art and assets to make your game look nice. Here are some resources:
+
+* [https://conceptartempire.com/free-game-art-sites/](https://conceptartempire.com/free-game-art-sites/)
+* [https://itch.io/game-assets/free](https://itch.io/game-assets/free)
+* [https://opengameart.org/](https://opengameart.org/)
+* [https://www.gameart2d.com/freebies.html](https://www.gameart2d.com/freebies.html)
 
 ## More Comfortable
 
