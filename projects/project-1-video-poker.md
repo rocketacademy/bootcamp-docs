@@ -54,6 +54,10 @@ const playerHand = [
 const pointsForHand = calcHandScore(playerHand);
 ```
 
+### Cards Tally
+
+A concise technique for counting the types of cards in a hand uses an object to keep track of which types are in the array. See [1.14: Cards Tally](../1-frontend-basics/1.14-cards-tally.md).
+
 ## Comfortable
 
 ### Polish
