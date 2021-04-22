@@ -46,5 +46,13 @@ Wireframes are drawings of what a UI will look like.
 
 {% embed url="https://youtu.be/KdfO\_e0yK-g" %}
 
+## Further Reading
 
+{% embed url="https://www.youtube.com/watch?v=vTbnnF0dnvY" %}
+
+{% embed url="https://www.youtube.com/watch?v=\_kPuHPKpCP0" %}
+
+{% embed url="https://www.youtube.com/watch?v=grs7WXHfQAE" %}
+
+ 
 
