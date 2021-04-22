@@ -186,17 +186,15 @@ None
 
 #### Pre-Class
 
-* [D.6.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md#pre-class)
+* None
 
 #### In-Class
 
 * [Review 7.POCE.4: Hot Pot Bill Splitter](../course-logistics/course-methodology.md#peer-code-review)
-* [D.6.7: Graphs - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-1)
 
 #### Post-Class
 
 * [Project 4 Ideation Phase 2](../projects/project-4-full-stack-react-app.md#ideation-phase-2)
-* [D.6.7: Graphs - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-1)
 
 ### Course Day 15.2
 
@@ -205,6 +203,23 @@ Due: [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 #### Pre-Class
 
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [D.6.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md#pre-class)
+
+#### In-Class
+
+* [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.6.7: Graphs - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-1)
+
+#### Post-Class
+
+* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
+* [D.6.7: Graphs - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-1)
+
+### Course Day 15.3
+
+#### Pre-Class
+
+* [D.6.7: Graphs - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-2)
 
 #### In-Class
 
@@ -214,9 +229,10 @@ Due: [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.6.7: Graphs - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md#part-2)
 
-### Course Day 15.3
+
+
+### Course Day 15.4
 
 #### Pre-Class
 
@@ -227,21 +243,7 @@ Due: [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.6.8: Heaps - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md#part-1)
 
-#### Post-Class
 
-* [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.6.8: Heaps - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.4-queues.md#part-1)
-
-### Course Day 15.4
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.8: Heaps - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md#part-2)
 
 #### Post-Class
 
@@ -257,7 +259,7 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.8: Heaps - Part 3](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md#part-3)
+* [D.6.8: Heaps - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.8-heaps.md#part-2)
 
 #### Post-Class
 
