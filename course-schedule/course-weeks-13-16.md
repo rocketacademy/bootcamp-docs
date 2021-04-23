@@ -203,7 +203,7 @@ Due: [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 #### Pre-Class
 
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
-* [D.6.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.1-arrays.md#pre-class)
+* [D.6.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.7-graphs.md)
 
 #### In-Class
 
