@@ -21,6 +21,8 @@ There are 2 concepts to remember with recursion.
 
 Please review the following resources to better understand recursion.
 
+{% embed url="https://www.youtube.com/watch?v=lMBVwYrmFZQ" %}
+
 1. FreeCodeCamp's Intro to Recursion
    1. [https://www.freecodecamp.org/news/quick-intro-to-recursion/](https://www.freecodecamp.org/news/quick-intro-to-recursion/)
 2. Stanford's Intro to Recursion
