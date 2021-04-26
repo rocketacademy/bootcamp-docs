@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 15 | 19-23 Apr | Graphs, Heaps | [P4](../projects/project-4-full-stack-react-app.md) | [CD14.3](course-weeks-13-16.md#course-day-14-3) | [CD14.4](course-weeks-13-16.md#course-day-14-4) | [CD14.5](course-weeks-13-16.md#course-day-14-5) | [CD15.1](course-weeks-13-16.md#course-day-15-1) | [CD15.2](course-weeks-13-16.md#course-day-15-2) |
+| 16 | 26-30 Apr | Dynamic Programming | [P4](../projects/project-4-full-stack-react-app.md) | [CD15.3](course-weeks-13-16.md#course-day-15-3) | [CD15.4](course-weeks-13-16.md#course-day-15-4) | [CD15.5](course-weeks-13-16.md#course-day-15-5) | [CD16.1](course-weeks-13-16.md#course-day-16-1) | [CD16.2](course-weeks-13-16.md#course-day-16-2) |
 
 ## Overall Schedule
 
