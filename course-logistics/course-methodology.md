@@ -1,8 +1,8 @@
 # Course Methodology
 
-## Exercises and Projects
+## General
 
-### Base, Comfortable, and More Comfortable
+### Difficulty Levels
 
 To accommodate different learning speeds and prior experience, exercises and projects in Coding Bootcamp may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
 
@@ -34,7 +34,7 @@ Project management tools can be helpful to manage longer-term projects involving
 
 [Trello](https://trello.com/) is a popular, simple project management tool that we recommend for Coding Bootcamp, and [here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work)'s a breakdown of how to get started with it.
 
-### Recommended Order of Work
+### Recommended Daily Order of Work
 
 On any given day in Coding Bootcamp, students will have Post-Class Exercises for the current day, Pre-Class Exercises for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
 
@@ -42,24 +42,7 @@ On any given day in Coding Bootcamp, students will have Post-Class Exercises for
 2. Pre-Class Exercises
 3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
 
-### Project Scrums
-
-Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). We will simulate this during Coding Bootcamp project weeks. Every morning we will take turns to share the following with each other, to make sure we are on-track with our projects and don't get stuck on blockers.
-
-1. What I did yesterday
-2. What I plan to do today
-3. Anything I am blocked on
-
-### Project Presentations
-
-After each project we will spend time in class for presentations. Each student will have a chance to present, and presentations should cover the following:
-
-1. Demonstration of how the application works
-2. Discussion of the strategy the student took when developing this application
-3. Discussion of some of the biggest challenges the student faced when working on the project
-4. Discussion of what the student would like to do next if he/she had more time on the project
-
-### How to Save Generic Exercise Code to a New GitHub Repo
+### How to Save Exercise Code to a New GitHub Repo
 
 Sometimes we might want to save pre-class or in-class exercise work to a repo in our own GitHubs, but we completed the exercises on a copy of the [base-node-bootcamp repo](https://github.com/rocketacademy/base-node-bootcamp) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
 
@@ -68,11 +51,28 @@ Sometimes we might want to save pre-class or in-class exercise work to a repo in
 3. Run `git remote -v` to verify that our local repo is linked to the new repo in GitHub
 4. Commit any desired local changes and run `git push`. This will push the current state of the repo to the `origin` remote, which should be the new repo we created.
 
+## Project Scrums
+
+Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). We will simulate this during Coding Bootcamp project weeks. Every morning we will take turns to share the following with each other, to make sure we are on-track with our projects and don't get stuck on blockers.
+
+1. What I did yesterday
+2. What I plan to do today
+3. Anything I am blocked on
+
+## Project Presentations
+
+Students present projects in class on the last day of each project. Presentations should cover the following.
+
+1. App demo
+2. App development strategy
+3. Biggest challenges faced
+4. What they might do differently next time
+
 ## Peer Code Review
 
 On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
 
-### Step 1: Individual
+### Individual
 
 1. Clone partner's code
    1. You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
@@ -87,28 +87,31 @@ On days where we have longer post-class exercises or projects due, we will revie
    4. Does it implement a feature that you haven't started yet? How does the code work?
 4. Play with partner's code
    1. It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
-5. Discuss
-   1. Once both partners are done with \#1-4, discuss what you saw.
 
-### Step 2: In Pairs
+### In Pairs
 
-1. Pair program on 1 person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**
-2. Once done with 1 person's code, send the code to your pair \(it's their project\) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code. If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
-3. Once both have working versions, implement a new feature in 1 of the repos together.
+1. Discuss findings from individual code review
+2. Pair program on 1 person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**
+3. Once done with 1 person's code, send the code to your pair \(it's their project\) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code. If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
+4. Once both have working versions, implement a new feature in 1 of the repos together.
 
-## Instructor Code Review
+## Project Post-Mortem Meeting
 
-After each project an instructor will review your code with you 1-1. Please prepare answers to the following questions before the 1-1.
+After each project an instructor will review your code with you 1-1. Please prepare answers to the following questions before the 1-1, and be prepared to discuss your code that relates to each answer.
 
 ### Technical Review
 
-1. What part of the project went well, technically? Give at least one link to your repo as an example.
-2. What part the project was a struggle, technically? Give at least one link to your repo as an example.
-3. What technical adjustments would you make for the next project? Why?
+"Technical" refers to software logic and syntax.
+
+1. What went well?
+2. What were the biggest challenges you faced?
+3. What would you do differently next time?
 
 ### Process Review
 
-1. What in the approach and process during this project went well?
-2. What in the approach and process during this project did not go well?
-3. What would you change in your process and approach in the next project? Why?
+"Process" refers to app development steps and strategy.
+
+1. What went well?
+2. What could have been better?
+3. What would you do differently next time?
 
