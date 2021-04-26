@@ -188,7 +188,7 @@
 
 #### Post-Class
 
-* [Instructor-Led Code Review](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#instructor-code-review)
+* Project 1 Post-Mortem
 
 ## Module 2: Backend Basics
 

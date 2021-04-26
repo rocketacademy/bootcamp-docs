@@ -94,3 +94,28 @@ Implement 7 card stud rules for poker instead of 5 card draw.
 **Rocket Academy does not endorse gambling.** We chose Video Poker as a project because of its complex rules that help facilitate coding instruction.
 {% endhint %}
 
+## Past Student Projects
+
+### Batch 3
+
+1. [https://eddiejpot.github.io/video-poker-bootcamp/](https://eddiejpot.github.io/video-poker-bootcamp/)
+2. [https://emily-zhangg.github.io/video-poker-bootcamp/](https://emily-zhangg.github.io/video-poker-bootcamp/)
+3. [https://samanthadotdesign.github.io/video-poker/](https://samanthadotdesign.github.io/video-poker/)
+4. [https://jokatty.github.io/video-poker-bootcamp/](https://jokatty.github.io/video-poker-bootcamp/)
+5. [https://zaf07.github.io/video-poker-bootcamp/](https://zaf07.github.io/video-poker-bootcamp/)
+
+### Batch 2
+
+1. [https://iannyip.github.io/video-poker-swe1/](https://iannyip.github.io/video-poker-swe1/)
+2. [https://jerome-chua.github.io/video-poker-swe1/](https://jerome-chua.github.io/video-poker-swe1/)
+3. [https://michelle-mok.github.io/video-poker-swe1/](https://michelle-mok.github.io/video-poker-swe1/)
+4. [https://zephaniahong.github.io/video-poker-swe1/](https://zephaniahong.github.io/video-poker-swe1/)
+
+### Batch 1
+
+1. [https://jcleow.github.io/video-poker-swe1/](https://jcleow.github.io/video-poker-swe1/)
+2. [https://jeremylim91.github.io/video-poker-swe1/](https://jeremylim91.github.io/video-poker-swe1/)
+3. [https://kenrickles.github.io/video-poker-swe1/](https://kenrickles.github.io/video-poker-swe1/)
+4. [https://lightweightcoder.github.io/video-poker-swe1/](https://lightweightcoder.github.io/video-poker-swe1/)
+5. [https://veena-s.github.io/video-poker-swe1/](https://veena-s.github.io/video-poker-swe1/)
+
