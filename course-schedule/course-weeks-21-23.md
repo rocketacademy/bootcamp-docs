@@ -252,5 +252,6 @@ None
 
 #### Post-Class
 
+* [Project 6 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [DS&A Open Practice: Day 33](../data-structures-and-algorithms/d.12-open-practice.md#day-33)
 

@@ -184,11 +184,11 @@
 
 #### In-Class
 
-* [Project 1 Presentation](../projects/project-1-video-poker.md)
+* [Project 1 Presentations](../projects/project-1-video-poker.md)
 
 #### Post-Class
 
-* [Project 1 Post-Mortem](../course-logistics/course-methodology.md#instructor-code-review)
+* [Project 1 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 
 ## Module 2: Backend Basics
 

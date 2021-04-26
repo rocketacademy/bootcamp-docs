@@ -337,7 +337,7 @@ None
 
 #### Post-Class
 
-* [Project 5 Post-Mortems](../projects/project-5-group-react-app.md#post-mortem-meeting)
+* [Project 5 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 * [DS&A Open Practice: Day 16](../data-structures-and-algorithms/d.12-open-practice.md#day-16)
