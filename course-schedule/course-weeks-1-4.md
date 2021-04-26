@@ -188,7 +188,7 @@
 
 #### Post-Class
 
-* Project 1 Post-Mortem
+* [Project 1 Post-Mortem](../course-logistics/course-methodology.md#instructor-code-review)
 
 ## Module 2: Backend Basics
 
