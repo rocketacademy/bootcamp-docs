@@ -376,9 +376,9 @@
 * [CP.2: Resume](career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](career-prep/cp.4-job-list.md)
-* [Untitled](career-prep/untitled.md)
+* [CP.5: Negotiation](career-prep/cp.5-negotiation.md)
 
 ## 💁🏽‍♀️User Experience
 
-* [UX.1:Overview](user-experience/ux.1-overview.md)
+* [UX.1: Overview](user-experience/ux.1-overview.md)
 
