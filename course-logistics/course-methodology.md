@@ -103,8 +103,8 @@ After each project an instructor will review your code with you 1-1. Please prep
 
 "Technical" refers to software logic and syntax.
 
-1. What went well?
-2. What were the biggest challenges you faced?
+1. What went well? Please share a link to the specific code.
+2. What were the biggest challenges you faced? Please share a link to the specific code.
 3. What would you do differently next time?
 
 ### Process Review
