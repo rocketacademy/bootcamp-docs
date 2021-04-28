@@ -222,7 +222,7 @@
 #### Post-Class
 
 * [1.POCE.7: Flexbox Calendar](../1-frontend-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
-* [2.POCE.2: CSS Color Reading](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
+* [2.POCE.2: CSS Color Reading](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-colour-reading.md)
 
 ### Course Day 3.4
 

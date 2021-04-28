@@ -122,7 +122,7 @@
   * [2.ICE.7: Git Branches](2-backend-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
 * [2.POCE: Post-Class Exercises](2-backend-basics/2.poce-post-class-exercises/README.md)
   * [2.POCE.1: CSS Command Line](2-backend-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
-  * [2.POCE.2: CSS Color Reading](2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
+  * [2.POCE.2: CSS Colour Reading](2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-colour-reading.md)
   * [2.POCE.3: CSS Processor](2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
   * [2.POCE.4: File Server](2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
   * [2.POCE.5: Noodle Website](2-backend-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
