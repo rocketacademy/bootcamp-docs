@@ -85,7 +85,7 @@ Read more about Express middleware [here](https://expressjs.com/en/guide/using-m
 
 Create an Express.js application as above.
 
-Start with the [base node repo](https://github.com/rocketacademy/base-node-bootcamp) and install the Express.js library.
+Start with the [base Node repo](https://github.com/rocketacademy/base-node-bootcamp) and install the Express.js library.
 
 ### Dice Roll
 
@@ -100,4 +100,3 @@ Make this request with the browser and with `curl`. They should be the same.
 ## Further Reading
 
 Past students have found [this video](https://www.youtube.com/watch?v=JlgKybraoy4) helpful in introducing HTTP methods with Express routes and introducing Express middleware in general.
-
