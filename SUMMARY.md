@@ -83,7 +83,7 @@
   * [1.POCE.3: Match Game](1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
   * [1.POCE.4: Timer](1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
   * [1.POCE.5: Tic Tac Toe](1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
-  * [1.POCE.6: Technical Documentation Page - Flexbox / Responsive](1-frontend-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
+  * [1.POCE.6: Flexbox Docs Page](1-frontend-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
   * [1.POCE.7: Flexbox Calendar](1-frontend-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
   * [1.POCE.8: Personal Page - Flexbox](1-frontend-basics/1.poce-post-class-exercises/1.poce.8-personal-page-flexbox.md)
   * [1.POCE.9: Bootstrap Columns](1-frontend-basics/1.poce-post-class-exercises/1.poce.9-bootstrap-columns.md)
