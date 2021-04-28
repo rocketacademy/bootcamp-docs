@@ -230,7 +230,7 @@
 
 * [2.5: Disk Writing](../2-backend-basics/2.5-disk-writing.md)
 * [2.6: Disk Altering](../2-backend-basics/2.6-disk-altering.md)
-* [2.7: What is the Internet](../2-backend-basics/2.7-what-is-the-internet.md)
+* [2.7: What is the Internet](../2-backend-basics/2.7-internet-101.md)
 * [2.8: Chrome Networking](../2-backend-basics/2.8-chrome-networking.md)
 
 #### In-Class
