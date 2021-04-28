@@ -14,12 +14,12 @@ const app = express();
 
 const PORT = 3000;
 
-const whenIncomingRequest = (request, response) => {
+const handleIncomingRequest = (request, response) => {
   console.log('request came in');
   response.send('yay');
 };
 
-app.get('/', whenIncomingRequest);
+app.get('/', handleIncomingRequest);
 
 app.listen(PORT);
 ```
@@ -31,12 +31,12 @@ import { createServer } from 'http';
 
 const PORT = 3004;
 
-const whenIncomingRequest = (request, response) => {
+const handleIncomingRequest = (request, response) => {
   console.log('request came in');
   response.end('yay', 'utf-8');
 };
 
-const server = createServer(whenIncomingRequest);
+const server = createServer(handleIncomingRequest);
 
 server.listen(PORT);
 ```
@@ -52,7 +52,7 @@ An Express.js app is meant to take in many different types of requests. The libr
 Express server application functionality is meant to be split up in two hierarchical ways.
 
 ```javascript
-app.get('/', whenIncomingRequest);
+app.get('/', handleIncomingRequest);
 ```
 
 ### HTTP Methods
@@ -72,7 +72,7 @@ http://localhost:3004/wow-bananas
 Will cause this callback to be called:
 
 ```javascript
-app.get('/wow-bananas', whenIncomingRequest);
+app.get('/wow-bananas', handleIncomingRequest);
 ```
 
 Normal web application URL paths are meant to match what would be a normal sounding file server path; That is to say, even though we won't have any HTML files in our express app, the naming convention of the URL paths will still be named similarly, as if we were still dealing with files.
@@ -100,4 +100,3 @@ Make this request with the browser and with `curl`. They should be the same.
 ## Further Reading
 
 Past students have found [this video](https://www.youtube.com/watch?v=JlgKybraoy4) helpful in introducing HTTP methods with Express routes and introducing Express middleware in general.
-
