@@ -67,3 +67,11 @@ Here are some ways to filter jobs on job portals.
 4. If you receive an offer from a company you're less interested in and they're pressuring you to accept their offer before you can interview at companies you're more interested in, consider turning them down. Every company is hiring software engineers, and there are always more software engineering jobs. We do not need to accept a job we do not like.
 5. Try hard for each job, but don't worry too much about submitting the perfect job application or take-home assignment for any given job. The job application process is a numbers game. We can get rejected for many reasons, and the best way to maximise our chances is to apply to more jobs.
 
+## Exercise
+
+Create a Notion for your preliminary job searching  documents.
+
+Answer the strategy questions above.
+
+Browse the job searching portal links above. Record any jobs that you may be interested in in the Notion. No need to make any contacts yet.
+

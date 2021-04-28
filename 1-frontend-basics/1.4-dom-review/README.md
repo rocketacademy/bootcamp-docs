@@ -2,66 +2,45 @@
 
 ## Introduction
 
-The DOM is the set of variables that represents the elements in the screen of that browser window. It is the interface through which our JavaScript logic can change what's on screen and how the user's actions can affect our code \(specifically by executing functions\).
+The DOM \(Document Object Model\) is a set of nodes that represent the elements in an HTML document. Browsers generate the DOM automatically when they load HTML. The DOM is the interface through which our JS logic can update what's on screen and determine how user actions manipulate our UI.
 
 ![](../../.gitbook/assets/img_0018.png)
 
 {% embed url="https://youtu.be/AP8YcJ9MR64" caption="" %}
 
-## Inputs and Outputs
+## DOM Inputs and Outputs
 
-The browser is an application that deals with HTML code. This HTML code gives basic instructions about what kind of thing to display on the page.
+HTML differs from JS in that HTML has no logic, no control flow, and no dynamic data. The DOM allows us to use JS to manipulate HTML dynamically, where users provide input and JS modifies our HTML \(through the DOM\) to display relevant output. The following are potential DOM inputs and outputs.
 
-HTML differs from JavaScript in that HTML has no logic, no control flow and doesn't hold data. It simply describes the way a set of content should be displayed.
-
-In the end the task of JavaScript is to use this environment of HTML displaying functionality to give the users tools \([affordance ](https://uxplanet.org/ux-design-glossary-how-to-use-affordances-in-user-interfaces-393c8e9686e4)in UX language\) to give input to the program, and components to display the output of the program.
-
-We have purposely described inputs and outputs very narrowly, but the next step in understanding what a real front-end application does and is capable of, is to begin to describe all of the different kinds of inputs that can be given to the program, and all the different outputs that can be generated.
-
-#### DOM Input - User Action to JS Function Execution
-
-**Our JavaScript is capable of taking as input:**
+#### Potential Inputs
 
 * Any user mouse movement within the browser screen.
 * Any element on the page they've clicked on.
 * Any radio button, drop down or checkbox they've interacted with.
-* And more....
 
-#### DOM Output - JS to Element to Browser
-
-**Our JavaScript is capable of giving output as:**
+#### Potential Outputs
 
 * Any HTML element, with any CSS style applied to it.
 
-The power of JavaScript is that our program can take in and control anything the user does in a browser page.
+JS and the DOM allow us to receive any user interaction on a page and update that page's HTML accordingly. 
 
-## DOM - Document Object Model
+## How to Use the DOM
 
-DOM is the name of the set of JavaScript variables that represent everything within the browser.
+In practice, the DOM is the set of JS variables that represent all browser functionality. `console.log` is an example of 1 such variable `console`, which allows us to output values in the browser console. Similarly, we will use other DOM variables to accept user inputs and provide outputs in the form of HTML elements.
 
-We've already seen one: `console.log`. Otherwise you could write a program that, for example, calculates prime numbers, or the places in Pi and it doesn't have to otherwise interact with the browser itself, or even give any output!
+Other than `console`, the major variables that represent the DOM are `window` and `document`. We can think of these variables as an API \(Application Programming Interface\) for the browser, where we can only perform logic that the browser allows us to via the `window` and `document` interfaces.
 
-When we want our JavaScript to take in any inputs or give any outputs we have to use some part of the DOM functionality.
+## Exercises
 
-Besides `console.log` \(specifically `console`\), the other major variables that represent the DOM are `window` and `document`.
+### Window and Document Variables
 
-DOM is also referred to as an API - an Application Programming Interface - the interface or representation of everything that happens in the browser screen.
+1. Open the browser console and type `window` and `document`, 1 on each line, to see their values.
+2. Click the triangles next to the output to see inside the variables. What is there?
 
-In this case interface refers to the fact that JavaScript does not literally know about everything that happens in the browser screen, \(e.g., when you bring up the Mac or Windows right click menus\), just the subset of things that Chrome allows us to interface with.
+### Handle User Interactions as Input "Events"
 
-### Exercises
-
-Open the console and type in the variable names window and document to see the values in the console.
-
-Click the triangles to see inside them.
-
-What is there?
-
-### Get Any Input
-
-Look up how to "listen" for any event: [https://www.w3schools.com/jsref/met\_document\_addeventlistener.asp](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
-
-You will also see this syntax:
+1. Look up how to "listen" for any HTML event: [https://www.w3schools.com/jsref/met\_document\_addeventlistener.asp](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
+2. You may also see this syntax which sets a callback function without storing that function in a separate variable. Such callback functions are called "**anonymous functions**"
 
 ```javascript
 button.addEventListener('click', function () {
@@ -69,19 +48,22 @@ button.addEventListener('click', function () {
 });
 ```
 
-This syntax sets the function without making a separate variable out of it.
+### Create Any HTML Output Using JS
 
-### Make Any Output
+1. Create an HTML element with JS: [https://www.w3schools.com/jsref/met\_document\_createelement.asp](https://www.w3schools.com/jsref/met_document_createelement.asp)
+2. Add the element to the page with `appendChild`: [https://www.w3schools.com/jsref/met\_node\_appendchild.asp](https://www.w3schools.com/jsref/met_node_appendchild.asp)
 
-Create an element: [https://www.w3schools.com/jsref/met\_document\_createelement.asp](https://www.w3schools.com/jsref/met_document_createelement.asp)
+### Implement Basic DOM Manipulation with Starter Code
 
-Add it to the page with `appendChild`: [https://www.w3schools.com/jsref/met\_node\_appendchild.asp](https://www.w3schools.com/jsref/met_node_appendchild.asp)
+Implement basic DOM manipulation with the code provided below.
 
-## Starter Code
+1. Read comments in below code to understand what's happening
+2. Clone this repo: [https://github.com/rocketacademy/basics-next-steps-dom](https://github.com/rocketacademy/basics-next-steps-dom)
+3. Implement the below code in your copy of the repo
 
-The DOM manipulation code in the starter code is inside the `index.html`.
+#### index.html
 
-Read through the comments to see what's actually happening.
+The following elements are manipulated by our JS using the DOM interface
 
 ```markup
 <p>
@@ -89,6 +71,8 @@ Read through the comments to see what's actually happening.
 </p>
 <button id="starter-button">submit me</button>
 ```
+
+#### script.js
 
 ```javascript
 // make a variable out of the input and button
@@ -116,10 +100,4 @@ var myButtonClicked = function () {
 // say which function to call *when* the user clicks the button
 button.addEventListener('click', myButtonClicked);
 ```
-
-## Exercises
-
-Start with this repo: [https://github.com/rocketacademy/basics-next-steps-dom](https://github.com/rocketacademy/basics-next-steps-dom)
-
-Implement the above code.
 

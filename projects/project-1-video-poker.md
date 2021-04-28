@@ -14,7 +14,7 @@ Begin by forking the [Video Poker Repo](https://github.com/rocketacademy/video-p
 2. When they click the "deal" button a hand of five cards will be dealt. They user can ask for different cards if they want.
 3. The game gives points based on the hand the user got. Look up the [rankings of Poker hands here.](https://en.wikipedia.org/wiki/List_of_poker_hands)
 
-You can use this implementation of [Video Poker here as a reference](https://www.freeslots.com/poker.htm). You can also reference this [Wikipedia page about video poker.](https://en.wikipedia.org/wiki/Video_poker)
+Reference this [Wikipedia page about video poker.](https://en.wikipedia.org/wiki/Video_poker)
 
 ## Basic
 
@@ -54,6 +54,10 @@ const playerHand = [
 const pointsForHand = calcHandScore(playerHand);
 ```
 
+### Cards Tally
+
+A concise technique for counting the types of cards in a hand uses an object to keep track of which types are in the array. See [1.14: Cards Tally](../1-frontend-basics/1.14-cards-tally.md).
+
 ## Comfortable
 
 ### Polish
@@ -66,6 +70,13 @@ This is your chance to create a project that has polish and that you can show of
 * animations \(you can look up CSS animations, you can also append GIFs into the screen to get motion\)
 * looks good on a laptop/desktop \(responsive CSS\)
 * runs without any errors / is resetable - when using the game it has no unexpected behaviors or weird quirks
+
+Use some pre-created art and assets to make your game look nice. Here are some resources:
+
+* [https://conceptartempire.com/free-game-art-sites/](https://conceptartempire.com/free-game-art-sites/)
+* [https://itch.io/game-assets/free](https://itch.io/game-assets/free)
+* [https://opengameart.org/](https://opengameart.org/)
+* [https://www.gameart2d.com/freebies.html](https://www.gameart2d.com/freebies.html)
 
 ## More Comfortable
 
@@ -82,4 +93,29 @@ Implement 7 card stud rules for poker instead of 5 card draw.
 {% hint style="danger" %}
 **Rocket Academy does not endorse gambling.** We chose Video Poker as a project because of its complex rules that help facilitate coding instruction.
 {% endhint %}
+
+## Past Student Projects
+
+### Batch 3
+
+1. [https://eddiejpot.github.io/video-poker-bootcamp/](https://eddiejpot.github.io/video-poker-bootcamp/)
+2. [https://emily-zhangg.github.io/video-poker-bootcamp/](https://emily-zhangg.github.io/video-poker-bootcamp/)
+3. [https://samanthadotdesign.github.io/video-poker/](https://samanthadotdesign.github.io/video-poker/)
+4. [https://jokatty.github.io/video-poker-bootcamp/](https://jokatty.github.io/video-poker-bootcamp/)
+5. [https://zaf07.github.io/video-poker-bootcamp/](https://zaf07.github.io/video-poker-bootcamp/)
+
+### Batch 2
+
+1. [https://iannyip.github.io/video-poker-swe1/](https://iannyip.github.io/video-poker-swe1/)
+2. [https://jerome-chua.github.io/video-poker-swe1/](https://jerome-chua.github.io/video-poker-swe1/)
+3. [https://michelle-mok.github.io/video-poker-swe1/](https://michelle-mok.github.io/video-poker-swe1/)
+4. [https://zephaniahong.github.io/video-poker-swe1/](https://zephaniahong.github.io/video-poker-swe1/)
+
+### Batch 1
+
+1. [https://jcleow.github.io/video-poker-swe1/](https://jcleow.github.io/video-poker-swe1/)
+2. [https://jeremylim91.github.io/video-poker-swe1/](https://jeremylim91.github.io/video-poker-swe1/)
+3. [https://kenrickles.github.io/video-poker-swe1/](https://kenrickles.github.io/video-poker-swe1/)
+4. [https://lightweightcoder.github.io/video-poker-swe1/](https://lightweightcoder.github.io/video-poker-swe1/)
+5. [https://veena-s.github.io/video-poker-swe1/](https://veena-s.github.io/video-poker-swe1/)
 

@@ -1,38 +1,37 @@
 # 7.2: Components
 
-React components are parts of the UI that are specified in JSX. They can be composed together to form an entire app.
+## Introduction
 
-The word _component_ refers to the React code syntax, but it also refers to the concept of a UI design element that repeats itself across different parts of an app. Most modern web applications, for reasons of ease-of-use and design reusability, have parts that are repeated in more than one place in a page and for multiple pages.
+React components are UI elements written in JSX. They can be combined to form more complex components, even entire apps. React allows us to specify both looks and logic of our frontends in component code, making React a convenient way to build interactive UIs. Typically each component has its own file.
 
-React allows us to specify a component and its view logic, e.g., the HTML _and_ the interactive behaviours, inside a single piece of code. Specifically in the React system this will be a module in a file.
+The word "component" refers to React syntax, but also refers to the concept of a UI element repeated across an app. Most applications have repeated visual elements across multiple pages. We can think of components like "helper functions" for UIs.
 
-We can use these files/components to compose together an entire app by conditionally rendering a set of components in one case, rendering components in a loop, etc., all based on a data structure being held in the React app- most likely this will be an array of objects retrieved from the database.
+We can compose apps using components using JS logic: conditionally rendering components, rendering components in a loop, etc. Typically the logic for rendering components will depend on data retrieved from the database and temporarily stored in our React app.
 
-## Create a Component
+## Creating Components
 
-At its simplest, a component is a function that returns JSX. In React this is referred to as a _functional component_. The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
+At its simplest, a component is a function that returns JSX. In React this is referred to as a "functional component". The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
 
 ```jsx
 function BigAnnouncement() {
   const myEl = (
     <div>
       <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+        Hey <span className="warning">Wow!</span>
       </h1>
       <p>Lorem Ipsum!!</p>
     </div>
   );
-
   console.log('myEl:', myEl);
   return myEl;
 }
 ```
 
-In the above example all we did is move the previous example's JSX into a function. Note that in React these component functions are declared using the function declaration and named with a capitalized word. React won't work if the function name isn't capitalized.
+In the above example we moved JSX from [Module 7.1: JSX Intro](../7.1-jsx-intro/#jsx-with-multiple-elements) into a function. Note that component functions are declared using the `function` keyword and named with UpperCamelCase by convention. React won't work if the function name isn't in UpperCamelCase.
 
-## Using a Component
+## Using Components
 
-In the complete example we reference the name of our component _**as if it was an HTML element**_.
+In the complete example we reference the name of our component **as if it were an HTML element**.
 
 ```jsx
 import React from 'react';
@@ -42,29 +41,26 @@ function BigAnnouncement() {
   const myEl = (
     <div>
       <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+        Hey <span className="warning">Wow!</span>
       </h1>
       <p>Lorem Ipsum!!</p>
     </div>
   );
-
   console.log('myEl:', myEl);
   return myEl;
 }
 
-// create an element that React will render stuff into
+// Create root element to render other elements into
 const rootElement = document.createElement('div');
-
-// put that element onto the page
+// Append root element to document body
 document.body.appendChild(rootElement);
-
-// have react render the JSX element into the root element.
+// Render new JSX element into root element
 render(<BigAnnouncement />, rootElement);
 ```
 
 ## Repeating Components
 
-In the sense that BigAnnouncement is an element itself, it can be mentioned more than once. We'll create a surrounding JSX and put BigAnnouncement inside.
+In the sense that `BigAnnouncement` is an element itself, it can be mentioned more than once. We'll create a surrounding JSX and put `BigAnnouncement` inside.
 
 ```jsx
 import React from 'react';
@@ -74,22 +70,21 @@ function BigAnnouncement() {
   const myEl = (
     <div>
       <h1 className="hero-text">
-        Heyyyy <span className="warning">Wow!</span>
+        Hey <span className="warning">Wow!</span>
       </h1>
       <p>Lorem Ipsum!!</p>
     </div>
   );
-
   console.log('myEl:', myEl);
   return myEl;
 }
 
-// create an element that React will render stuff into
+// Create root element to render other elements into
 const rootElement = document.createElement('div');
-
-// put that element onto the page
+// Append root element to document body
 document.body.appendChild(rootElement);
 
+// Create a container to store multiple BigAnnouncements
 const myContainer = (
   <div>
     <BigAnnouncement />
@@ -99,7 +94,7 @@ const myContainer = (
   </div>
 );
 
-// have react render the JSX element into the root element.
+// Render new JSX element into root element
 render(myContainer, rootElement);
 ```
 

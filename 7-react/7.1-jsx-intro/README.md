@@ -242,7 +242,7 @@ const myUrl = 'http://google.com';
 const myEl = (
   <div>
     <h1 className="hero-text">
-      Heyyyy <span className="warning">Wow!</span>
+      Hey <span className="warning">Wow!</span>
     </h1>
     <a href={myUrl}>Random Value: {Math.random() * 100}</a>
   </div>

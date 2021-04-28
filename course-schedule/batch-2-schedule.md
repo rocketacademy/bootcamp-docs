@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 13 | 5-9 Apr | React: JSX, Components, Props OOP, Stacks, Queues | [P3](../projects/project-3-full-stack-game.md) | [CD12.3](course-weeks-9-12.md#course-day-12-3) | [CD12.4](course-weeks-9-12.md#course-day-12-4) | [CD12.5](course-weeks-9-12.md#course-day-12-5) | [CD13.1](course-weeks-13-16.md#course-day-13-1) | [CD13.2](course-weeks-13-16.md#course-day-13-2) |
+| 16 | 26-30 Apr | Dynamic Programming | [P4](../projects/project-4-full-stack-react-app.md) | [CD15.3](course-weeks-13-16.md#course-day-15-3) | [CD15.4](course-weeks-13-16.md#course-day-15-4) | [CD15.5](course-weeks-13-16.md#course-day-15-5) | [CD16.1](course-weeks-13-16.md#course-day-16-1) | [CD16.2](course-weeks-13-16.md#course-day-16-2) |
 
 ## Overall Schedule
 

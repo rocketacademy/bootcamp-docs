@@ -27,14 +27,14 @@
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS Part 1](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
+* [1.1.2: Basic CSS \(Exercises Part 1\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
 * [1.5: High Card DOM](../1-frontend-basics/1.5-high-card-dom.md)
 * [1.6: Reading Documentation](../1-frontend-basics/1.6-reading-documentation.md)
 
 #### In-Class
 
 * [Review 1.POCE.1: Noodle Recipe Website](../course-logistics/course-methodology.md#peer-code-review)
-* [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
+* [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md) \(Continued\)
 
 #### Post-Class
 
@@ -44,8 +44,7 @@
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS Part 2](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2)
-* [1.1.2: CSS Exercise: Tribute Page](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#tribute-page)
+* [1.1.2: Basic CSS \(Exercises Part 2, Tribute Page\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2-exercises-23-36-skip-last-8-exercises)
 * [1.7: setTimeout](../1-frontend-basics/1.7-settimeout.md)
 * [1.8: High Card setTimeout](../1-frontend-basics/1.8-high-card-settimeout.md)
 * [1.9: Match Game](../1-frontend-basics/1.9-match-game.md)
@@ -81,7 +80,10 @@
 
 * [1.12: Tic Tac Toe](../1-frontend-basics/1.12-tic-tac-toe.md)
 * [1.13: Multi File Refactor](../1-frontend-basics/1.13-multi-file-refactor.md)
-* [1.1.3: CSS Layout Part 1](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout.md#part-1)
+* [1.1.3.1: CSS No Layout](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.1-no-layout.md)
+* [1.1.3.2: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.2-display-inline-and-block.md)
+* [1.1.3.3: CSS Box Model](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.3-box-model.md)
+* [1.1.3.4: CSS Layout Width](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.4-layout-fixed-width-and-max-width.md)
 
 #### In-Class
 
@@ -97,7 +99,8 @@
 
 #### Pre-Class
 
-* [1.1.3: CSS Page Layout 2](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout.md#part-2)
+* [1.1.3.5: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.5-display-inline-block.md)
+* [1.1.3.6: CSS Layout Col / Card](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.6-layout-columns-and-cards.md)
 
 #### In-Class
 
@@ -111,7 +114,8 @@
 
 #### Pre-Class
 
-No pre-class material today.
+* [CSS 1.1.3.7: Position](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.7-position.md)
+* [CSS 1.1.3.8: Float](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.8-float.md)
 
 #### In-Class
 
@@ -127,6 +131,7 @@ No pre-class material today.
 #### Pre-Class
 
 * [2.0: Module 2 Setup](../2-backend-basics/2.0-module-2-overview.md)
+* [1.1.4: CSS Flexbox Froggy](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
 
 #### In-Class
 
@@ -141,7 +146,7 @@ No pre-class material today.
 
 #### Pre-Class
 
-* [1.1.4: CSS Flexbox Froggy](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
+* [1.1.4: Flexbox Layout](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md#see-how-to-use-flexbox-to-create-css-layouts)
 
 #### In-Class
 
@@ -156,7 +161,8 @@ No pre-class material today.
 
 #### Pre-Class
 
-* [1.1.4: Flexbox Layout](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md#see-how-to-use-flexbox-to-create-css-layouts)
+* [1.1.5: CSS Responsive Design](../1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
+* [1.1.6: Web Design Basics](../1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
 
 #### In-Class
 
@@ -178,24 +184,17 @@ No pre-class material today.
 
 #### In-Class
 
-* [Project 1 Presentation](../projects/project-1-video-poker.md)
+* [Project 1 Presentations](../projects/project-1-video-poker.md)
 
 #### Post-Class
 
-* [Instructor-Led Code Review](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#instructor-code-review)
+* [Project 1 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 
 ## Module 2: Backend Basics
 
 ### Course Day 3.2
 
 #### Pre-Class
-
-CSS
-
-* [1.1.5: CSS Responsive Design](../1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
-* [1.1.6: Web Design Basics](../1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
-
-Node.js
 
 * [2.1: My First Node.js Program](../2-backend-basics/2.1-my-first-node-program.md)
 * [2.2: Command Line Programs](../2-backend-basics/2.2-command-line-programs.md)
@@ -223,7 +222,7 @@ Node.js
 #### Post-Class
 
 * [1.POCE.7: Flexbox Calendar](../1-frontend-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
-* [2.POCE.2: CSS Color Reading](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-color-reading.md)
+* [2.POCE.2: CSS Color Reading](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-colour-reading.md)
 
 ### Course Day 3.4
 

@@ -332,5 +332,5 @@ None
 
 #### Post-Class
 
-* [Project 2 Post-Mortems](../projects/project-2-server-side-app.md#project-timeline)
+* [Project 2 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 

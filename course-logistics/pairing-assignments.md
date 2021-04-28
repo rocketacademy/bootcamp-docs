@@ -4,19 +4,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 # Pairing Assignments
 
-## Batch 1 \(Oct 2020 - Apr 2021\)
-
-| Day | Pair 1 | Pair 2 | Pair 3 |
-| :--- | :--- | :--- | :--- |
-| Mon | Alvin, Jeremy | Jit Corn, Kenrick | Veena |
-| Tue | Alvin, Jit Corn | Jeremy, Veena | Kenrick |
-| Wed | Alvin, Kenrick | Jit Corn, Veena | Jeremy |
-| Thu | Alvin, Veena | Jeremy, Kenrick | Jit Corn |
-| Fri | Jeremy, Jit Corn | Kenrick, Veena | Alvin |
-
 ## Batch 2 \(Jan-Jun 2021\)
-
-Formation ID is determined by `(((weekNum - 1) * 5 + dayOfWeekNum) % 3) + 1`. `weekNum` is the week number of the course, i.e. 1-24. `dayOfWeekNum` is the day number corresponding to the day of week, i.e. 1-5.
 
 | Formation ID | Pair 1 | Pair 2 |
 | :--- | :--- | :--- |
@@ -24,7 +12,19 @@ Formation ID is determined by `(((weekNum - 1) * 5 + dayOfWeekNum) % 3) + 1`. `w
 | 1 | Ian, Jerome | Michelle, Zeph |
 | 2 | Ian, Zeph | Michelle, Jerome |
 
-#### Formation Calculation Code
+## Batch 3 \(Apr-Sep 2021\)
+
+| Day | Pair 1 | Pair 2 | Pair 3 |
+| :--- | :--- | :--- | :--- |
+| Mon | Jo Porter | Sam Yiqing | Affe |
+| Tue | Jo Sam | Porter Affe | Yiqing |
+| Wed | Jo Yiqing | Sam Affe | Porter |
+| Thu | Jo Affe | Porter Yiqing | Sam |
+| Fri | Porter Sam | Yiqing Affe | Jo |
+
+## Formation Calculation Code
+
+Formation ID is determined by `(((weekNum - 1) * 5 + dayOfWeekNum) % 3) + 1`. `weekNum` is the week number of the course, i.e. 1-24. `dayOfWeekNum` is the day number corresponding to the day of week, i.e. 1-5.
 
 ```javascript
 /* Based on: https://gist.github.com/dblock/1081513

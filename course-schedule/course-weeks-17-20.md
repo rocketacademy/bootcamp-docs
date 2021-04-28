@@ -50,9 +50,6 @@
 #### Pre-Class
 
 * [8.3.4: React E-Commerce App with Store](../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
-* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 #### **In-Class**
@@ -62,9 +59,6 @@
 #### **Post-Class**
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 1](../data-structures-and-algorithms/d.12-open-practice.md#day-1)
 
@@ -72,8 +66,8 @@
 
 #### Due
 
-* Resume 1st draft
-* Portfolio 1st draft
+* Resume 2nd draft
+* Portfolio 2nd draft
 
 #### Pre-Class
 
@@ -88,9 +82,6 @@
 #### Post-Class
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 2](../data-structures-and-algorithms/d.12-open-practice.md#day-2)
 
@@ -98,8 +89,8 @@
 
 #### Due
 
-* Portfolio 2nd draft
-* Resume 2nd draft
+* Portfolio 3rd draft
+* Resume 3rd draft
 
 #### Pre-Class
 
@@ -124,8 +115,8 @@
 
 #### Due
 
-* Portfolio 3rd draft
-* Resume 3rd draft
+* Portfolio 4th draft
+* Resume 4th draft
 
 #### Pre-Class
 
@@ -346,7 +337,7 @@ None
 
 #### Post-Class
 
-* [Project 5 Post-Mortems](../projects/project-5-group-react-app.md#post-mortem-meeting)
+* [Project 5 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 * [DS&A Open Practice: Day 16](../data-structures-and-algorithms/d.12-open-practice.md#day-16)
