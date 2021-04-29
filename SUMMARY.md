@@ -100,7 +100,7 @@
 * [2.6: Disk Altering](2-backend-basics/2.6-disk-altering.md)
 * [2.7: Internet 101](2-backend-basics/2.7-internet-101.md)
 * [2.8: Chrome Networking](2-backend-basics/2.8-chrome-networking.md)
-* [2.9: HTTP](2-backend-basics/2.9-http.md)
+* [2.9: HTTP Requests and Responses](2-backend-basics/2.9-http.md)
 * [2.10: HTTP File Server](2-backend-basics/2.10-http-file-server.md)
 * [2.11: AWS Deployment](2-backend-basics/2.11-aws-deployment.md)
 * [2.12: Domain Names](2-backend-basics/2.12-domain-names.md)
