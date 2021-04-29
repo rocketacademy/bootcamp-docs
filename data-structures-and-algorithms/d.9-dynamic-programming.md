@@ -27,19 +27,19 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 ### Part 1
 
-1. [https://leetcode.com/problems/divisor-game/](https://leetcode.com/problems/divisor-game/)
-   1. Note: This can be solved with math and not DP, but please implement the DP version for practice.
-   2. Rocket Academy solution code: [https://pastebin.com/mywskXkk](https://pastebin.com/mywskXkk)
-   3. Rocket Academy solution video: [https://youtu.be/SUGb21Ec5kE?t=2113](https://youtu.be/SUGb21Ec5kE?t=2113) \(35:13 until about 1:48:30\)
-2. [https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)
+1. [https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)
+2. [https://leetcode.com/problems/house-robber/](https://leetcode.com/problems/house-robber/)
 
 ### Part 2
 
 1. [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
-2. [https://leetcode.com/problems/house-robber/](https://leetcode.com/problems/house-robber/)
+2. [https://leetcode.com/problems/partition-array-for-maximum-sum/](https://leetcode.com/problems/partition-array-for-maximum-sum/)
 
 ### Part 3
 
-1. [https://leetcode.com/problems/partition-array-for-maximum-sum/](https://leetcode.com/problems/partition-array-for-maximum-sum/)
-2. [https://leetcode.com/problems/minimum-cost-for-tickets/](https://leetcode.com/problems/minimum-cost-for-tickets/)
+1. [https://leetcode.com/problems/minimum-cost-for-tickets/](https://leetcode.com/problems/minimum-cost-for-tickets/)
+2. [https://leetcode.com/problems/divisor-game/](https://leetcode.com/problems/divisor-game/)
+   1. Note: This can be solved with math and not DP, but please implement the DP version for practice.
+   2. Rocket Academy solution code: [https://pastebin.com/mywskXkk](https://pastebin.com/mywskXkk)
+   3. Rocket Academy solution video: [https://youtu.be/SUGb21Ec5kE?t=2113](https://youtu.be/SUGb21Ec5kE?t=2113) \(35:13 until about 1:48:30\)
 
