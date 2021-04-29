@@ -257,7 +257,7 @@ Node.js
 
 #### **In-Class**
 
-* [2.ICE.4: Internet](../2-backend-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
+* [2.ICE.4: Internet](../2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests.md)
 * [Peer Code Review: 2.POCE.3: CSS Processor](../course-logistics/course-methodology.md#peer-code-review)
 
 #### Post-Class

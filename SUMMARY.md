@@ -116,7 +116,7 @@
   * [2.ICE.1: Conversions](2-backend-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
   * [2.ICE.2: Modules, Disk Reading](2-backend-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading.md)
   * [2.ICE.3: Disk Altering](2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering.md)
-  * [2.ICE.4: Internet](2-backend-basics/2.ice-in-class-exercises/2.ice.4-internet.md)
+  * [2.ICE.4: Servers and Requests](2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests.md)
   * [2.ICE.5: JSON Cards](2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
   * [2.ICE.6: npm / jsonFileStorage](2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
   * [2.ICE.7: Git Branches](2-backend-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
