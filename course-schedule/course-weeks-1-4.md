@@ -254,6 +254,7 @@ Node.js
 
 * [2.9: HTTP Requests and Responses](../2-backend-basics/2.9-http.md)
 * [2.10: HTTP File Server](../2-backend-basics/2.10-http-file-server.md)
+* [Install `ngrok`](../2-backend-basics/2.0-module-2-overview.md#ngrok). We will use it in 2.ICE.4.
 
 #### **In-Class**
 
