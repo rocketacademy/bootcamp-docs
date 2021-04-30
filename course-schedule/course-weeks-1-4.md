@@ -257,7 +257,7 @@ Node.js
 
 #### **In-Class**
 
-* [Peer Code Review: 2.POCE.3: CSS Processor](../course-logistics/course-methodology.md#peer-code-review)
+* Review [2.POCE.3: CSS Processor](../course-logistics/course-methodology.md#peer-code-review)
 * [2.ICE.4: Servers and Requests](../2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests.md)
 
 #### Post-Class
