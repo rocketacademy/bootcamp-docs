@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 3 | 26-30 Apr | Node.js, HTTP, File Servers | [P1](../projects/project-1-video-poker.md) | [CD3.1](course-weeks-1-4.md#course-day-3-1) | [CD3.2](course-weeks-1-4.md#course-day-3-2) | [CD3.3](course-weeks-1-4.md#course-day-3-3) | [CD3.4](course-weeks-1-4.md#course-day-3-4) | [CD3.5](course-weeks-1-4.md#course-day-3-5) |
+| 4 | 3-7 May | Cloud Deployment, JSON, Express.js, EJS | - | [CD4.1](course-weeks-1-4.md#course-day-4-1) | [CD4.2](course-weeks-1-4.md#course-day-4-2) | [CD4.3](course-weeks-1-4.md#course-day-4-3) | [CD4.4](course-weeks-1-4.md#course-day-4-4) | [CD4.5](course-weeks-1-4.md#course-day-4-5) |
 
 ## Overall Schedule
 
@@ -76,7 +76,7 @@
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">3-7 May</td>
-      <td style="text-align:left">AWS, JSON, Express.js, EJS</td>
+      <td style="text-align:left">Cloud Deployment, JSON, Express.js, EJS</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-1">CD4.1</a>
       </td>
