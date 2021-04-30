@@ -105,7 +105,7 @@
 * [2.11: Deploy Server to Cloud](2-backend-basics/2.11-deploy-server-to-cloud.md)
 * [2.12: Domain Names](2-backend-basics/2.12-domain-names.md)
 * [2.13: JSON](2-backend-basics/2.13-json/README.md)
-  * [2.13.1: JSON Module - Read, Write](2-backend-basics/2.13-json/2.13.1-json-module-read-write.md)
+  * [2.13.1: JSON File Storage Module - Add, Read, Write](2-backend-basics/2.13-json/2.13.1-json-module-read-write.md)
   * [2.13.2: JSON Module - Callbacks](2-backend-basics/2.13-json/2.13.2-json-module-callbacks.md)
   * [2.13.3: JSON Module - Summary](2-backend-basics/2.13-json/2.13.3-json-module-summary.md)
 * [2.14: npm](2-backend-basics/2.14-npm.md)
