@@ -102,7 +102,7 @@
 * [2.8: Chrome Networking](2-backend-basics/2.8-chrome-networking.md)
 * [2.9: HTTP Requests and Responses](2-backend-basics/2.9-http.md)
 * [2.10: HTTP File Server](2-backend-basics/2.10-http-file-server.md)
-* [2.11: AWS Deployment](2-backend-basics/2.11-aws-deployment.md)
+* [2.11: Deploy Server to Cloud](2-backend-basics/2.11-deploy-server-to-cloud.md)
 * [2.12: Domain Names](2-backend-basics/2.12-domain-names.md)
 * [2.13: JSON](2-backend-basics/2.13-json/README.md)
   * [2.13.1: JSON Module - Read, Write](2-backend-basics/2.13-json/2.13.1-json-module-read-write.md)
