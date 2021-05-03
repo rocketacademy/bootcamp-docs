@@ -206,7 +206,7 @@
 #### Post-Class
 
 * [1.POCE.6: CSS Flexbox](../1-frontend-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
-* [2.POCE.1: CSS Command Line](../2-backend-basics/2.poce-post-class-exercises/2.poce.1-css-command-line.md)
+* [2.POCE.1: Command Line Colour Converter](../2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter.md)
 
 ### Course Day 3.3
 
@@ -222,7 +222,7 @@
 #### Post-Class
 
 * [1.POCE.7: Flexbox Calendar](../1-frontend-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
-* [2.POCE.2: CSS Color Reading](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-colour-reading.md)
+* [2.POCE.2: CSS Reader](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
 
 ### Course Day 3.4
 
