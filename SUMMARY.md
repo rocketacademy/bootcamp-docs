@@ -37,9 +37,9 @@
 ## 0️⃣: Language and Tooling
 
 * [0.0: Module 0 Overview](0-language-and-tooling/0.0-module-0-overview.md)
-* [1.2: ES6 Basics](0-language-and-tooling/1.2-es6-basics.md)
-* [1.3: New JS Syntax](0-language-and-tooling/1.3-new-js-syntax.md)
-* [1.6: Reading Documentation](0-language-and-tooling/1.6-reading-documentation.md)
+* [0.1: ES6 Basics](0-language-and-tooling/0.1-es6-basics.md)
+* [0.2: New JS Syntax](0-language-and-tooling/0.2-new-js-syntax.md)
+* [0.3: Reading Documentation](0-language-and-tooling/0.3-reading-documentation.md)
 * [1.14: JS Object as Tally](0-language-and-tooling/1.14-js-object-as-tally.md)
 * [2.15: Git Branches](0-language-and-tooling/2.15-git-branches.md)
 * [2.16: ES6 Array Iterators](0-language-and-tooling/2.16-es6-array-iterators.md)
