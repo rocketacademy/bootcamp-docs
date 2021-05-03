@@ -45,7 +45,7 @@
 * [0.6: Git Pull](0-language-and-tooling/0.6-git-pull.md)
 * [0.7: Git Branches](0-language-and-tooling/0.7-git-branches.md)
 * [0.8: ES6 Destructuring, Spread Operators](0-language-and-tooling/0.8-es6-destructuring-spread-operators.md)
-* [3.7: JavaScript Promises](0-language-and-tooling/3.7-javascript-promises.md)
+* [0.9: JS Promises](0-language-and-tooling/0.9-js-promises.md)
 * [4.1: Advanced Promise Handling](0-language-and-tooling/4.1-advanced-promise-handling/README.md)
   * [4.1.1: Try Catch](0-language-and-tooling/4.1-advanced-promise-handling/4.1.1-try-catch.md)
   * [4.1.2: Promise.catch, Promise.all](0-language-and-tooling/4.1-advanced-promise-handling/4.1.2-promise.catch-promise.all.md)
