@@ -52,7 +52,7 @@
   * [0.6.2: Promise.catch, Promise.all](0-language-and-tooling/0.6-js-promises/0.6.2-promise.catch-promise.all.md)
   * [0.6.3: Async/Await](0-language-and-tooling/0.6-js-promises/0.6.3-async-await.md)
 * [0.ICE: In-Class Exercises](0-language-and-tooling/0.ice-in-class-exercises/README.md)
-  * [2.ICE.7: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/2.ice.7-git-branches.md)
+  * [0.ICE.1: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
 ## 1️⃣ Frontend Basics
 

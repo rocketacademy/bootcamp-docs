@@ -317,7 +317,7 @@ Node.js
 #### In-Class
 
 * [Review 2.POCE.6: Todo List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
-* [2.ICE.7: Git Branches](../0-language-and-tooling/0.ice-in-class-exercises/2.ice.7-git-branches.md)
+* [0.ICE.1: Git Branches](../0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
 #### **Post-Class**
 
