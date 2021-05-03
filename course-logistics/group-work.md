@@ -62,7 +62,7 @@ For done tasks.
 
 ## Git Workflow
 
-One member of the team will create a GitHub repo and invite the other collaborators. See [2.15 Git Branches](../0-language-and-tooling/0.7-git-branches.md) and [2.ICE.7.](../0-language-and-tooling/0.ice-in-class-exercises/2.ice.7-git-branches.md)
+One member of the team will create a GitHub repo and invite the other collaborators. See [2.15 Git Branches](../0-language-and-tooling/0.5-advanced-git/0.7-git-branches.md) and [2.ICE.7.](../0-language-and-tooling/0.ice-in-class-exercises/2.ice.7-git-branches.md)
 
 For each task in the Kanban board a new branch will be created from `main`, and named after the task to be completed. When a task is done create a pull request and merge the code into `main`.
 
