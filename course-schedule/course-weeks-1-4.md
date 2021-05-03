@@ -279,11 +279,11 @@ Node.js
 
 #### In-Class
 
-* [2.ICE.5 JSON Cards](../2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
+* [2.ICE.5: JSON Cards](../2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
 
 #### Post-Class
 
-* [2.POCE.5 Noodle Website / Video Poker](../2-backend-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
+* [2.POCE.5: Noodle Website / Video Poker](../2-backend-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
 
 ### Course Day 4.2
 
