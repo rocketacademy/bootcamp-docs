@@ -308,14 +308,14 @@ Node.js
 
 #### Pre-Class
 
-* [2.15: Git Branches](../0-language-and-tooling/2.15-git-branches.md)
-* [2.17: Git Pull](../0-language-and-tooling/2.17-git-pull.md)
-* [2.16: ES6 Array Iterators](../0-language-and-tooling/2.16-es6-array-iterators.md)
+* [0.5: ES6 Array Iterators](../0-language-and-tooling/0.5-es6-array-iterators.md)
+* [0.6: Git Pull](../0-language-and-tooling/0.6-git-pull.md)
+* [0.7: Git Branches](../0-language-and-tooling/0.7-git-branches.md)
 
 #### In-Class
 
-* [2.ICE.7: Git Branches](../2-backend-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
 * [Review 2.POCE.6: Todo List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
+* [2.ICE.7: Git Branches](../2-backend-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
 
 #### **Post-Class**
 
