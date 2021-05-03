@@ -1,4 +1,4 @@
-# 4.1: Advanced Promise Handling
+# 0.10: Advanced Promise Handling
 
 ## Introduction
 
