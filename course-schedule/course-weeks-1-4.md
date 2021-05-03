@@ -294,11 +294,11 @@ Node.js
 
 * [2.13.2: JSON File Storage Module - Passing Callbacks](../2-backend-basics/2.13-json/2.13.2-json-file-storage-module-passing-callbacks.md)
 * [2.13.3: JSON File Storage Module - Summary](../2-backend-basics/2.13-json/2.13.3-json-file-storage-module-summary.md)
-* [2.14: npm](../2-backend-basics/2.14-npm.md)
+* [2.14: NPM](../2-backend-basics/2.14-npm.md)
 
 #### In-Class
 
-* [2.ICE.6: npm](../2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
+* [2.ICE.6: NPM](../2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
 
 #### Post-Class
 

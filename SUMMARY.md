@@ -136,7 +136,7 @@
   * [2.ICE.3: Disk Altering](2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering.md)
   * [2.ICE.4: Servers and Requests](2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests.md)
   * [2.ICE.5: Reading and Writing to JSON](2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
-  * [2.ICE.6: npm / jsonFileStorage](2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
+  * [2.ICE.6: NPM, JSON File Storage](2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
 * [2.POCE: Post-Class Exercises](2-backend-basics/2.poce-post-class-exercises/README.md)
   * [2.POCE.1: Command Line Colour Converter](2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter.md)
   * [2.POCE.2: CSS Reader](2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
