@@ -60,25 +60,28 @@ const pointsForHand = calcHandScore(playerHand);
 
 ### Polish
 
-This is your chance to create a project that has polish and that you can show off. A complete and demonstrable project has a few attributes:
+"Polish" your app so that it is presentable to the public. This can involve the following attributes.
 
-1. clean, well documented code. You have probably refactored it at least once.
-2. clean design \(just make sure that the colors are muted and things are centered and have padding\)
-3. sounds
-4. animations \(you can look up CSS animations, you can also append GIFs into the screen to get motion\)
-5. looks good on a laptop/desktop \(responsive CSS\)
-6. runs without any errors / is resetable - when using the game it has no unexpected behaviors or weird quirks
-
-Use some pre-created art and assets to make your game look nice. Here are some resources:
-
-1. [https://conceptartempire.com/free-game-art-sites/](https://conceptartempire.com/free-game-art-sites/)
-2. [https://itch.io/game-assets/free](https://itch.io/game-assets/free)
-3. [https://opengameart.org/](https://opengameart.org/)
-4. [https://www.gameart2d.com/freebies.html](https://www.gameart2d.com/freebies.html)
+1. Does the app run without errors or unexpected behaviours?
+2. Are variable names concise and precise?
+3. Do we have [JSDoc comments](https://jsdoc.app/about-getting-started.html#adding-documentation-comments-to-your-code) above functions and inline comments above code that could be confusing to others?
+4. Is each function sufficiently small and modular?
+5. Is the visual design clean?
+   1. Muted colours
+   2. Elements have padding
+6. Is the page responsive? Does it look good on both mobile and desktop?
+7. Do we want to incorporate sounds?
+8. Do we want to incorporate animations?
+   1. We can google for CSS animations and append GIFs to get motion
+9. Do we want to incorporate 3rd-party art? The following are useful resources.
+   1. [https://conceptartempire.com/free-game-art-sites/](https://conceptartempire.com/free-game-art-sites/)
+   2. [https://itch.io/game-assets/free](https://itch.io/game-assets/free)
+   3. [https://opengameart.org/](https://opengameart.org/)
+   4. [https://www.gameart2d.com/freebies.html](https://www.gameart2d.com/freebies.html)
 
 ## More Comfortable
 
-Note: The goal of this project is to practise frontend, thus please make sure your app is at a good level of polish before attempting the following More Comfortable features.
+The goal of this project is to practise frontend. Please reach a good level of polish before attempting the following More Comfortable features.
 
 ### Probabilities
 
@@ -86,11 +89,7 @@ Show the user the probability of getting each winning hand if they choose to swi
 
 ### 7 Card Stud
 
-Implement 7 card stud rules for poker instead of 5 card draw.
-
-{% hint style="danger" %}
-**Rocket Academy does not endorse gambling.** We chose Video Poker as a project because of its complex rules that help facilitate coding instruction.
-{% endhint %}
+Implement 7 Card Stud rules for Poker instead of 5 Card Draw.
 
 ## Past Student Projects
 
@@ -116,4 +115,10 @@ Implement 7 card stud rules for poker instead of 5 card draw.
 3. [https://kenrickles.github.io/video-poker-swe1/](https://kenrickles.github.io/video-poker-swe1/)
 4. [https://lightweightcoder.github.io/video-poker-swe1/](https://lightweightcoder.github.io/video-poker-swe1/)
 5. [https://veena-s.github.io/video-poker-swe1/](https://veena-s.github.io/video-poker-swe1/)
+
+## Disclaimer
+
+{% hint style="danger" %}
+**Rocket Academy does not endorse gambling.** We chose Video Poker as a project because of its complex rules that help facilitate coding instruction.
+{% endhint %}
 
