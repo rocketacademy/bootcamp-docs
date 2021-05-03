@@ -283,7 +283,7 @@ Node.js
 
 #### Post-Class
 
-* [2.POCE.5: Noodle Website / Video Poker](../2-backend-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
+* [2.POCE.5: Noodle Website / Video Poker](../2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
 
 ### Course Day 4.2
 

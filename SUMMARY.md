@@ -125,7 +125,7 @@
   * [2.POCE.2: CSS Reader](2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
   * [2.POCE.3: CSS Processor](2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
   * [2.POCE.4: File Server](2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
-  * [2.POCE.5: Noodle Website](2-backend-basics/2.poce-post-class-exercises/2.poce.5-noodle-website.md)
+  * [2.POCE.5: Responsive Noodle Site](2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
   * [2.POCE.6: Todo List - JSON](2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ## 3️⃣ Backend Applications
