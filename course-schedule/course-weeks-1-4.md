@@ -315,7 +315,7 @@ Node.js
 #### In-Class
 
 * [Review 2.POCE.6: Todo List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
-* [2.ICE.7: Git Branches](../2-backend-basics/2.ice-in-class-exercises/2.ice.7-git-branches.md)
+* [2.ICE.7: Git Branches](../0-language-and-tooling/0.ice-in-class-exercises/2.ice.7-git-branches.md)
 
 #### **Post-Class**
 
@@ -343,7 +343,7 @@ Node.js
 
 #### Pre-Class
 
-* [3.2: ES6 Spread / Destructure](../0-language-and-tooling/3.2-es6-spread-destructure.md)
+* [0.8: ES6 Destructuring, Spread Operators](../0-language-and-tooling/0.8-es6-destructuring-spread-operators.md)
 * [3.3: EJS](../3-backend-applications/3.3-ejs/)
 * [3.3.1: EJS Loops](../3-backend-applications/3.3-ejs/3.3.1-ejs-loops.md)
 
