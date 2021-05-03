@@ -298,7 +298,7 @@ Node.js
 
 #### In-Class
 
-* [2.ICE.6: NPM](../2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm.md)
+* [2.ICE.6: NPM, JSON File Storage](../2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm-json-file-storage.md)
 
 #### Post-Class
 
