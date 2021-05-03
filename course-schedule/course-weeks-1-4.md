@@ -10,8 +10,8 @@
 
 * [1.1.0: Wireframes](../1-frontend-basics/1.1-html-and-css/1.1.0-wireframes.md)
 * [1.1.1: HTML Basics](../1-frontend-basics/1.1-html-and-css/1.1.1-basic-html.md)
-* [1.2: ES6](../1-frontend-basics/1.2-es6-basics.md)
-* [1.3: New JS Syntax](../1-frontend-basics/1.3-new-js-syntax.md)
+* [1.2: ES6](../0-language-and-tooling/1.2-es6-basics.md)
+* [1.3: New JS Syntax](../0-language-and-tooling/1.3-new-js-syntax.md)
 * [1.4.1: DOM Review - Creating Elements](../1-frontend-basics/1.4-dom-review/1.4.1-creating-elements.md)
 * [1.4.2: DOM Review - Events](../1-frontend-basics/1.4-dom-review/1.4.2-events.md)
 
@@ -29,7 +29,7 @@
 
 * [1.1.2: Basic CSS \(Exercises Part 1\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
 * [1.5: High Card DOM](../1-frontend-basics/1.5-high-card-dom.md)
-* [1.6: Reading Documentation](../1-frontend-basics/1.6-reading-documentation.md)
+* [1.6: Reading Documentation](../0-language-and-tooling/1.6-reading-documentation.md)
 
 #### In-Class
 
@@ -307,9 +307,9 @@ Node.js
 
 #### Pre-Class
 
-* [2.15: Git Branches](../2-backend-basics/2.15-git-branches.md)
-* [2.17: Git Pull](../2-backend-basics/2.17-git-pull.md)
-* [2.16: ES6 Array Iterators](../2-backend-basics/2.16-es6-array-iterators.md)
+* [2.15: Git Branches](../0-language-and-tooling/2.15-git-branches.md)
+* [2.17: Git Pull](../0-language-and-tooling/2.17-git-pull.md)
+* [2.16: ES6 Array Iterators](../0-language-and-tooling/2.16-es6-array-iterators.md)
 
 #### In-Class
 
@@ -342,7 +342,7 @@ Node.js
 
 #### Pre-Class
 
-* [3.2: ES6 Spread / Destructure](../3-backend-applications/3.2-es6-spread-destructure.md)
+* [3.2: ES6 Spread / Destructure](../0-language-and-tooling/3.2-es6-spread-destructure.md)
 * [3.3: EJS](../3-backend-applications/3.3-ejs/)
 * [3.3.1: EJS Loops](../3-backend-applications/3.3-ejs/3.3.1-ejs-loops.md)
 

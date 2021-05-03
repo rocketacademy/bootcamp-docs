@@ -24,8 +24,8 @@
 
 #### Pre-Class
 
-* [4.1: Advanced Promise Handling](../4-backend-structure/4.1-advanced-promise-handling/)
-* [4.1.1: Try Catch](../4-backend-structure/4.1-advanced-promise-handling/4.1.1-try-catch.md)
+* [4.1: Advanced Promise Handling](../0-language-and-tooling/4.1-advanced-promise-handling/)
+* [4.1.1: Try Catch](../0-language-and-tooling/4.1-advanced-promise-handling/4.1.1-try-catch.md)
 
 #### In-Class
 
@@ -43,7 +43,7 @@
 
 #### Pre-Class
 
-* [4.1.2: Promise.catch, Promise.all](../4-backend-structure/4.1-advanced-promise-handling/4.1.2-promise.catch-promise.all.md)
+* [4.1.2: Promise.catch, Promise.all](../0-language-and-tooling/4.1-advanced-promise-handling/4.1.2-promise.catch-promise.all.md)
 * [4.2.2: Sequelize One-to-Many](../4-backend-structure/4.2-sequelize/4.2.2-sequelize-one-to-many-relationships.md)
 
 #### In-Class
@@ -58,7 +58,7 @@
 
 #### Pre-Class
 
-* [4.1.3: Async/Await](../4-backend-structure/4.1-advanced-promise-handling/4.1.3-async-await.md)
+* [4.1.3: Async/Await](../0-language-and-tooling/4.1-advanced-promise-handling/4.1.3-async-await.md)
 * [4.2.3: Async/Await with Sequelize](../4-backend-structure/4.2-sequelize/4.2.3-async-await-with-sequelize.md)
 * [4.3: MVC](../4-backend-structure/4.3-mvc/)
 * [4.3.1: REST](../4-backend-structure/4.3-mvc/4.3.1-restful-routes.md)
