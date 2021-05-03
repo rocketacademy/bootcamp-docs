@@ -16,11 +16,11 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 | Day | Pair 1 | Pair 2 | Pair 3 |
 | :--- | :--- | :--- | :--- |
-| Mon | Jo Porter | Sam Yiqing | Affe |
-| Tue | Jo Sam | Porter Affe | Yiqing |
-| Wed | Jo Yiqing | Sam Affe | Porter |
-| Thu | Jo Affe | Porter Yiqing | Sam |
-| Fri | Porter Sam | Yiqing Affe | Jo |
+| Mon | Jo Porter | Sam Yiqing | Effy |
+| Tue | Jo Sam | Porter Effy | Yiqing |
+| Wed | Jo Yiqing | Sam Effy | Porter |
+| Thu | Jo Effy | Porter Yiqing | Sam |
+| Fri | Porter Sam | Yiqing Effy | Jo |
 
 ## Formation Calculation Code
 
