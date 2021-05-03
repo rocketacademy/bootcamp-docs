@@ -14,26 +14,35 @@ Fork and clone the [Video Poker Repo](https://github.com/rocketacademy/video-pok
 
 ## Base
 
-1. Create a helper function called `calcHandScore`. This function will take an array of card objects and return the number of points that the user scored for the cards in their hand.
-2. This `calcHandScore` function will allow you to build the gameplay and abstract away the hand scoring logic. It will also make testing the hand scoring logic easier.
-3. Begin by coding the entire basic working game where the `calcHandScore` function returns the same number of points regardless of the cards that are passed to it.
-4. Specifically this functionality is where:
-   1. The user has the global total number of points they currently have.
-   2. The user clicks a button to start the game.
-   3. The game deals the cards.
-   4. The users selects which cards they want to keep.
-   5. The game gives the user their final score and adds or subtracts points.
-5. Lay the game controls out for a phone \(portrait orientation\). Set the `max-width` of the container so that it does not look bad on a wider device.
+### Primary Game Logic
+
+1. Create an empty helper function called `calcHandScore` that returns a fixed number of points for now, e.g. 1.
+   1. Use [JSDoc function commenting](https://jsdoc.app/about-getting-started.html#adding-documentation-comments-to-your-code) with the following attributes.
+      1. Description of function
+      2. Description of each parameter
+      3. Description of return value
+   2. `calcHandScore` will take an array of card objects and return the number of points that the user scored for the cards in their hand.
+   3. Abstracting `calcHandScore` allows us to construct the primary game logic without worrying about hand-scoring logic.
+      1. It will also make testing hand-scoring logic easier because we can test scoring of individual hands without running the whole game.
+2. Code the primary game logic using `calcHandScore` wherever we wish to calculate the score of a given hand. This logic should include the following.
+   1. The user has a global number of points.
+   2. The user clicks a button to deal cards.
+   3. The user selects which cards they want to keep.
+   4. The game replaces the unselected cards, calculates the hand score, and updates total points.
+3. Lay out game controls for mobile \(portrait orientation\), and set the `max-width` CSS property of the container so the layout is still friendly on a wider screen.
 
 ### `calcHandScore`
 
-1. After you have a working, playable version of the game, add logic to `calcHandScore`.
-   1. Begin by adding the logic for detecting each hand one at a time. 
-   2. Test that logic and then move onto detecting the next kind of hand.
-2. Hard-code the arrays of card objects you will need to test your logic. Don't forget to test the negative cases. \(You win, but can you still lose?\)
+1. After we have a playable version of the game, add logic to `calcHandScore`.
+   1. Add logic for detecting each hand \(e.g. full-house, flush, 2 pair\) 1 at a time. 
+   2. Test the logic for each hand before moving onto the next hand.
+2. Hard-code the arrays of card objects we will need to test our logic.
+   1. Put these test hands in a separate file, e.g. `testHands.js`.
+3. Don't forget to test the negative cases, e.g. do we still win/lose the right number of points if we don't get the hand we are currently testing?
+
+The following code snippet is an example of how we might use `calcHandScore`.
 
 ```javascript
-// example hand
 const playerHand = [
   { rank: 2, suit: 'hearts', name: '2' },
   { rank: 2, suit: 'diamonds', name: '2' },
@@ -42,7 +51,7 @@ const playerHand = [
   { rank: 9, suit: 'hearts', name: '9' },
 ];
 
-// in this example the function will return points for a pair
+// calcHandScore returns the number of points a given hand earns.
 const pointsForHand = calcHandScore(playerHand);
 ```
 
