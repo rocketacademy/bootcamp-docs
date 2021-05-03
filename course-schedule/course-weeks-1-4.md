@@ -279,7 +279,7 @@ Node.js
 
 #### In-Class
 
-* [2.ICE.5: JSON Cards](../2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
+* [2.ICE.5: Reading and Writing to JSON ](../2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
 
 #### Post-Class
 
