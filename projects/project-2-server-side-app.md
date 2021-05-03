@@ -49,7 +49,7 @@ Given the relative restrictions of a server-side app that renders HTML pages, th
 
 ### File Uploading
 
-If your app idea involves file uploading, [3.5.11: File Uploads](../3-backend-applications/3.5-sql-applications/3.5.11-file-uploads.md) is a primer on how to accomplish this using the technologies we have learned so far.
+If your app idea involves file uploading, [3.5.11: File Uploads](../3-backend-applications/3.4-sql-applications/3.4.11-file-uploads.md) is a primer on how to accomplish this using the technologies we have learned so far.
 
 ### 3rd-Party APIs
 

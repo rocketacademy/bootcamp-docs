@@ -10,7 +10,7 @@
 
 * [3.1.2: Forms](../3-backend-applications/3.1-express-js/3.1.2-html-forms.md)
 * [3.1.3: POST Requests](../3-backend-applications/3.1-express-js/3.1.3-post-requests.md)
-* [3.3.2: EJS Conditionals](../3-backend-applications/3.3-ejs/3.3.2-ejs-conditionals.md)
+* [3.2.2: EJS Conditionals](../3-backend-applications/3.2-ejs/3.2.2-ejs-conditionals.md)
 
 #### In-Class
 
@@ -38,7 +38,7 @@
 
 #### Pre-Class
 
-* [3.3.3: Advanced EJS](../3-backend-applications/3.3-ejs/3.3.3-advanced-ejs.md)
+* [3.2.3: Advanced EJS](../3-backend-applications/3.2-ejs/3.2.3-advanced-ejs.md)
 
 #### In-Class
 
@@ -53,14 +53,14 @@
 
 #### Pre-Class
 
-* [3.4: SQL Language](../3-backend-applications/3.4-sql-language/)
-* [3.4.1: Basic SQL Commands](../3-backend-applications/3.4-sql-language/3.4.1-basic-sql-commands.md)
-* [3.6.1: Cookies](../3-backend-applications/3.6-authentication/3.6.1-cookies.md)
+* [3.3: SQL Language](../3-backend-applications/3.3-sql-language/)
+* [3.3.1: Basic SQL Commands](../3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands.md)
+* [3.5.1: Cookies](../3-backend-applications/3.5-authentication/3.5.1-cookies.md)
 
 #### In-Class
 
 * [Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.5: Cookies](../3-backend-applications/3.ice-in-class-exercises/3.ice.5-cookies.md)
+* [3.ICE.4: Cookies](../3-backend-applications/3.ice-in-class-exercises/3.ice.4-cookies.md)
 
 #### Post-Class
 
@@ -70,9 +70,9 @@
 
 #### Pre-Class
 
-* [3.5: SQL Applications](../3-backend-applications/3.5-sql-applications/)
-* [3.5.1: PostgreSQL, psql](../3-backend-applications/3.5-sql-applications/3.5.1-postgresql-psql.md)
-* [3.5.2: PostgreSQL Node App](../3-backend-applications/3.5-sql-applications/3.5.2-postgresql-node-app.md)
+* [3.4: SQL Applications](../3-backend-applications/3.4-sql-applications/)
+* [3.4.1: PostgreSQL, psql](../3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md)
+* [3.4.2: PostgreSQL Node App](../3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app.md)
 
 #### In-Class
 
@@ -88,13 +88,13 @@
 
 #### Pre-Class
 
-* [3.4.2: SQL Relationships \(One to Many\)](../3-backend-applications/3.4-sql-language/3.4.2-sql-relationships-one-to-many.md)
-* [3.5.3: Nested SQL Queries](../3-backend-applications/3.5-sql-applications/3.5.3-nested-sql-queries.md)
-* [3.5.4: PostgreSQL Express App](../3-backend-applications/3.5-sql-applications/3.5.4-postgresql-express-app.md)
+* [3.3.2: SQL Relationships \(One to Many\)](../3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many.md)
+* [3.4.3: Nested SQL Queries](../3-backend-applications/3.4-sql-applications/3.4.3-nested-sql-queries.md)
+* [3.4.4: PostgreSQL Express App](../3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app.md)
 
 #### In-Class
 
-* [3.ICE.6: One to Many](../3-backend-applications/3.ice-in-class-exercises/3.ice.6-one-to-many.md)
+* [3.ICE.5: One to Many](../3-backend-applications/3.ice-in-class-exercises/3.ice.5-one-to-many.md)
 
 #### Post-Class
 
@@ -105,12 +105,12 @@
 
 #### Pre-Class
 
-* [3.4.4: Inner Join](../3-backend-applications/3.4-sql-language/3.4.4-inner-join.md)
-* [3.6.2: User Auth](../3-backend-applications/3.6-authentication/3.6.2-user-auth.md)
+* [3.3.4: Inner Join](../3-backend-applications/3.3-sql-language/3.3.4-inner-join.md)
+* [3.5.2: User Auth](../3-backend-applications/3.5-authentication/3.5.2-user-auth.md)
 
 #### In-Class
 
-* [3.ICE.7: Inner Joins](../3-backend-applications/3.ice-in-class-exercises/3.ice.7-inner-join.md)
+* [3.ICE.6: Inner Joins](../3-backend-applications/3.ice-in-class-exercises/3.ice.6-inner-join.md)
 
 #### Post-Class
 
@@ -121,13 +121,13 @@
 
 #### Pre-Class
 
-* [3.4.3: SQL Relationships \(Many to Many\)](../3-backend-applications/3.4-sql-language/3.4.3-sql-relationships-many-to-many.md)
-* [3.6.3: Password Hashing](../3-backend-applications/3.6-authentication/3.6.3-password-hashing.md)
-* [3.5.5: Forms for One-to-Many Relationships](../3-backend-applications/3.5-sql-applications/3.5.5-forms-for-one-to-many-relationships.md)
+* [3.3.3: SQL Relationships \(Many to Many\)](../3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
+* [3.5.3: Password Hashing](../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md)
+* [3.4.5: Forms for One-to-Many Relationships](../3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships.md)
 
 #### In-Class
 
-* [3.ICE.8: Many-to-Many](../3-backend-applications/3.ice-in-class-exercises/3.ice.8-many-to-many.md)
+* [3.ICE.7: Many-to-Many](../3-backend-applications/3.ice-in-class-exercises/3.ice.7-many-to-many.md)
 
 #### Post-Class
 
@@ -138,13 +138,13 @@
 
 #### Pre-Class
 
-* [3.4.5: Non-FK Relationship Data in Join Table](../3-backend-applications/3.4-sql-language/3.4.5-non-fk-relationship-data-in-join-table.md)
-* [3.5.6: Forms for Many-to-Many Relationships](../3-backend-applications/3.5-sql-applications/3.5.6-forms-for-many-to-many-relationships.md)
-* [3.6.4: Session Hashing](../3-backend-applications/3.6-authentication/3.6.4-session-hashing.md)
+* [3.3.5: Non-FK Relationship Data in Join Table](../3-backend-applications/3.3-sql-language/3.3.5-non-fk-relationship-data-in-join-table.md)
+* [3.4.6: Forms for Many-to-Many Relationships](../3-backend-applications/3.4-sql-applications/3.4.6-forms-for-many-to-many-relationships.md)
+* [3.5.4: Session Hashing](../3-backend-applications/3.5-authentication/3.5.4-session-hashing.md)
 
 #### In-Class
 
-* [3.ICE.9: Multiple Foreign Keys](../3-backend-applications/3.ice-in-class-exercises/3.ice.9-multi-foreign-key.md)
+* [3.ICE.8: Multiple Foreign Keys](../3-backend-applications/3.ice-in-class-exercises/3.ice.8-multi-foreign-key.md)
 
 #### Post-Class
 
@@ -159,11 +159,11 @@
 
 #### Pre-Class
 
-* [3.4.6: SQL Schema Design](../3-backend-applications/3.4-sql-language/3.4.6-sql-schema-design.md)
+* [3.3.6: SQL Schema Design](../3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design.md)
 
 #### In-Class
 
-* [3.ICE.10: DB Schema Design - Carousell](../3-backend-applications/3.ice-in-class-exercises/3.ice.10-db-schema-design-carousell.md)
+* [3.ICE.9: DB Schema Design - Carousell](../3-backend-applications/3.ice-in-class-exercises/3.ice.9-db-schema-design-carousell.md)
 
 #### Post-Class
 
@@ -178,11 +178,11 @@
 #### Pre-Class
 
 * [0.6: JS Promises](../0-language-and-tooling/0.6-js-promises/)
-* [3.5.9: pg Promises](../3-backend-applications/3.5-sql-applications/3.5.9-pg-promises.md)
+* [3.4.9: pg Promises](../3-backend-applications/3.4-sql-applications/3.4.9-pg-promises.md)
 
 #### In-Class
 
-* [3.ICE.11: Bird Watching Redux](../3-backend-applications/3.ice-in-class-exercises/3.ice.11-bird-watching-redux.md)
+* [3.ICE.10: Bird Watching Redux](../3-backend-applications/3.ice-in-class-exercises/3.ice.10-bird-watching-redux.md)
 
 #### Post-Class
 
@@ -192,8 +192,8 @@
 
 #### Pre-Class
 
-* [3.5.7: Database Setup Files](../3-backend-applications/3.5-sql-applications/3.5.7-database-setup-files.md)
-* [3.6.5: Custom Middleware for Authentication](../3-backend-applications/3.6-authentication/3.6.5-custom-middleware-for-authentication.md)
+* [3.4.7: Database Setup Files](../3-backend-applications/3.4-sql-applications/3.4.7-database-setup-files.md)
+* [3.5.5: Custom Middleware for Authentication](../3-backend-applications/3.5-authentication/3.5.5-custom-middleware-for-authentication.md)
 
 #### In-Class
 
@@ -209,12 +209,12 @@
 
 #### Pre-Class
 
-* [3.5.8: SQL + JS Dates](../3-backend-applications/3.5-sql-applications/3.5.8-sql-+-js-dates.md)
+* [3.4.8: Dates in SQL and JS](../3-backend-applications/3.4-sql-applications/3.4.8-sql-+-js-dates.md)
 
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.12: DB Schema Design - Uber](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-uber.md)
+* [3.ICE.11: DB Schema Design - Uber](../3-backend-applications/3.ice-in-class-exercises/3.ice.11-db-schema-design-uber.md)
 
 #### Post-Class
 
@@ -224,7 +224,7 @@
 
 #### Pre-Class
 
-* [3.5.11: File Uploads](../3-backend-applications/3.5-sql-applications/3.5.11-file-uploads.md)
+* [3.4.11: File Uploads](../3-backend-applications/3.4-sql-applications/3.4.11-file-uploads.md)
 
 #### In-Class
 
@@ -243,7 +243,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.13: Instagram DB](../3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-instagram.md)
+* [3.ICE.12: Instagram DB](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
 
 #### Post-Class
 

@@ -28,7 +28,7 @@
 
 #### In-Class
 
-* [4.ICE.2: DB Schema Design - Airbnb](../3-backend-applications/3.ice-in-class-exercises/4.ice.2-db-schema-design-airbnb.md)
+* [3.ICE.13: DB Schema Design - Airbnb](../3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-airbnb.md)
 
 #### Post-Class
 

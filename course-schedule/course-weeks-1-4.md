@@ -242,7 +242,7 @@
 
 #### Post-Class
 
-* [1.POCE.8: Personal Page](../1-frontend-basics/1.poce-post-class-exercises/1.poce.8-personal-page-flexbox.md)
+* [1.POCE.8: Flexbox Personal Page](../1-frontend-basics/1.poce-post-class-exercises/1.poce.8-flexbox-personal-page.md)
 * [2.POCE.3: CSS Processor](../2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 
 ### Course Day 3.5
@@ -346,8 +346,8 @@ Node.js
 #### Pre-Class
 
 * [0.2.3: ES6 Destructuring, Spread Operators](../0-language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators.md)
-* [3.3: EJS](../3-backend-applications/3.3-ejs/)
-* [3.3.1: EJS Loops](../3-backend-applications/3.3-ejs/3.3.1-ejs-loops.md)
+* [3.2: EJS](../3-backend-applications/3.2-ejs/)
+* [3.2.1: EJS Loops](../3-backend-applications/3.2-ejs/3.2.1-ejs-loops.md)
 
 #### In-Class
 
