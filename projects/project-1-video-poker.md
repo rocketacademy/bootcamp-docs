@@ -36,11 +36,12 @@ Fork and clone the [Video Poker Repo](https://github.com/rocketacademy/video-pok
 1. After we have a playable version of the game, add logic to `calcHandScore`.
    1. Add logic for detecting each hand \(e.g. full-house, flush, 2 pair\) 1 at a time. 
    2. Test the logic for each hand before moving onto the next hand.
+   3. Consider using a JS Object to track frequencies of specific ranks or suits. This might make it easier to detect hands such as flushes, full houses, and X-of-a-kind. See [1.14: JS Object as Tally](../1-frontend-basics/1.14-js-object-as-tally.md) for an example.
 2. Hard-code the arrays of card objects we will need to test our logic.
    1. Put these test hands in a separate file, e.g. `testHands.js`.
 3. Don't forget to test the negative cases, e.g. do we still win/lose the right number of points if we don't get the hand we are currently testing?
 
-The following code snippet is an example of how we might use `calcHandScore`.
+#### Example Usage of `calcHandScore`
 
 ```javascript
 const playerHand = [
@@ -54,10 +55,6 @@ const playerHand = [
 // calcHandScore returns the number of points a given hand earns.
 const pointsForHand = calcHandScore(playerHand);
 ```
-
-### Cards Tally
-
-A concise technique for counting the types of cards in a hand uses an object to keep track of which types are in the array. See [1.14: Cards Tally](../1-frontend-basics/1.14-cards-tally.md).
 
 ## Comfortable
 

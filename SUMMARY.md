@@ -69,7 +69,7 @@
 * [1.11: Timer](1-frontend-basics/1.11-timer.md)
 * [1.12: Tic Tac Toe](1-frontend-basics/1.12-tic-tac-toe.md)
 * [1.13: Multi-File Refactor](1-frontend-basics/1.13-multi-file-refactor.md)
-* [1.14: Cards Tally](1-frontend-basics/1.14-cards-tally.md)
+* [1.14: JS Object as Tally](1-frontend-basics/1.14-js-object-as-tally.md)
 * [1.ICE: In-Class Exercises](1-frontend-basics/1.ice-in-class-exercises/README.md)
   * [1.ICE.1: Drawing DOM](1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
   * [1.ICE.2: Timeout / High Card Redux](1-frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
