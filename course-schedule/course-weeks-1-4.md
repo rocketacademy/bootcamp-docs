@@ -12,8 +12,8 @@
 * [1.1.1: HTML Basics](../1-frontend-basics/1.1-html-and-css/1.1.1-basic-html.md)
 * [1.2: ES6](../0-language-and-tooling/1.2-es6-basics.md)
 * [1.3: New JS Syntax](../0-language-and-tooling/1.3-new-js-syntax.md)
-* [1.4.1: DOM Review - Creating Elements](../1-frontend-basics/1.4-dom-review/1.4.1-creating-elements.md)
-* [1.4.2: DOM Review - Events](../1-frontend-basics/1.4-dom-review/1.4.2-events.md)
+* [1.4.1: DOM Review - Creating Elements](../1-frontend-basics/1.2-dom-review/1.2.1-creating-elements.md)
+* [1.4.2: DOM Review - Events](../1-frontend-basics/1.2-dom-review/1.2.2-events.md)
 
 #### In-Class
 
@@ -28,7 +28,7 @@
 #### Pre-Class
 
 * [1.1.2: Basic CSS \(Exercises Part 1\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
-* [1.5: High Card DOM](../1-frontend-basics/1.5-high-card-dom.md)
+* [1.5: High Card DOM](../1-frontend-basics/1.3-high-card-dom.md)
 * [1.6: Reading Documentation](../0-language-and-tooling/1.6-reading-documentation.md)
 
 #### In-Class
@@ -45,9 +45,9 @@
 #### Pre-Class
 
 * [1.1.2: Basic CSS \(Exercises Part 2, Tribute Page\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2-exercises-23-36-skip-last-8-exercises)
-* [1.7: setTimeout](../1-frontend-basics/1.7-settimeout.md)
-* [1.8: High Card setTimeout](../1-frontend-basics/1.8-high-card-settimeout.md)
-* [1.9: Match Game](../1-frontend-basics/1.9-match-game.md)
+* [1.7: setTimeout](../1-frontend-basics/1.4-settimeout.md)
+* [1.8: High Card setTimeout](../1-frontend-basics/1.5-high-card-settimeout.md)
+* [1.9: Match Game](../1-frontend-basics/1.6-match-game.md)
 
 #### In-Class
 
@@ -62,8 +62,8 @@
 
 #### Pre-Class
 
-* [1.10: setInterval](../1-frontend-basics/1.10-setinterval.md)
-* [1.11: Timer](../1-frontend-basics/1.11-timer.md)
+* [1.10: setInterval](../1-frontend-basics/1.7-setinterval.md)
+* [1.11: Timer](../1-frontend-basics/1.8-timer.md)
 
 #### In-Class
 
@@ -78,8 +78,8 @@
 
 #### Pre-Class
 
-* [1.12: Tic Tac Toe](../1-frontend-basics/1.12-tic-tac-toe.md)
-* [1.13: Multi File Refactor](../1-frontend-basics/1.13-multi-file-refactor.md)
+* [1.12: Tic Tac Toe](../1-frontend-basics/1.9-tic-tac-toe.md)
+* [1.13: Multi File Refactor](../1-frontend-basics/1.10-multi-file-refactor.md)
 * [1.1.3.1: CSS No Layout](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.1-no-layout.md)
 * [1.1.3.2: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.2-display-inline-and-block.md)
 * [1.1.3.3: CSS Box Model](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.3-box-model.md)

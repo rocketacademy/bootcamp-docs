@@ -1,4 +1,4 @@
-# 1.4: DOM Review
+# 1.2: DOM Review
 
 ## Introduction
 
