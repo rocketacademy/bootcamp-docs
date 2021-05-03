@@ -177,7 +177,7 @@
 
 #### Pre-Class
 
-* [0.9: JS Promises](../0-language-and-tooling/0.6-js-promises/)
+* [0.6: JS Promises](../0-language-and-tooling/0.6-js-promises/)
 * [3.5.9: pg Promises](../3-backend-applications/3.5-sql-applications/3.5.9-pg-promises.md)
 
 #### In-Class
