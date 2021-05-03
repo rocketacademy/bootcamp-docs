@@ -33,7 +33,7 @@
 
 #### In-Class
 
-* [Review 1.POCE.1: Noodle Recipe Website](../course-logistics/course-methodology.md#peer-code-review)
+* Review 1 student's 1.POCE.1: Noodle Recipe Website
 * [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md) \(Continued\)
 
 #### Post-Class
@@ -51,7 +51,7 @@
 
 #### In-Class
 
-* [Review 1.POCE.2: High Card](../course-logistics/course-methodology.md#peer-code-review)
+* Review 1 student's 1.POCE.2: High Card
 * [1.ICE.2: Timeout / High Card Redux](../1-frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
 
 #### Post-Class
@@ -67,7 +67,7 @@
 
 #### In-Class
 
-* [Review 1.POCE.3: Match Game](../course-logistics/course-methodology.md#peer-code-review)
+* Review 1 student's 1.POCE.3: Match Game
 * [1.ICE.3: setInterval](../1-frontend-basics/1.ice-in-class-exercises/1.ice.3-setinterval.md)
 
 #### Post-Class
@@ -87,7 +87,7 @@
 
 #### In-Class
 
-* [Review 1.POCE.4: Timer](../course-logistics/course-methodology.md#peer-code-review)
+* Review 1 student's 1.POCE.4: Timer
 
 #### Post-Class
 
@@ -104,7 +104,7 @@
 
 #### In-Class
 
-* [Review 1.POCE.5: Tic Tac Toe](../course-logistics/course-methodology.md#peer-code-review)
+* Review 1 student's 1.POCE.5: Tic Tac Toe
 
 #### Post-Class
 
@@ -172,7 +172,8 @@
 #### Post-Class
 
 * [Project 1 Implementation](../projects/project-1-video-poker.md)
-* Project 1: Deploy to Github Pages
+* Project 1: Deploy to GitHub Pages
+  * See [instructions from Coding Basics](https://basics.rocketacademy.co/12-next-steps/12.3-deployment), or google how to deploy to GitHub Pages.
 
 ## Course Week 3
 
@@ -283,7 +284,7 @@ Node.js
 
 #### Post-Class
 
-* [2.POCE.5: Noodle Website / Video Poker](../2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
+* [2.POCE.5: Responsive Noodle Site](../2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
 
 ### Course Day 4.2
 
