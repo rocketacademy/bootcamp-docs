@@ -302,8 +302,8 @@ Node.js
 
 #### Post-Class
 
-* [2.POCE.6: Todo List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 * [1.POCE.10: Bootstrap Adobe](../1-frontend-basics/1.poce-post-class-exercises/1.poce.10-bootstrap-adobe.md)
+* [2.POCE.6: To-Do List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ### Course Day 4.3
 
@@ -316,12 +316,11 @@ Node.js
 
 #### In-Class
 
-* [Review 2.POCE.6: Todo List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 * [0.ICE.1: Git Branches](../0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
 #### **Post-Class**
 
-* [2.POCE.6: Todo List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
+* [2.POCE.6: To-Do List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ## Module 3: Backend Applications
 
