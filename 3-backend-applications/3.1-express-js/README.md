@@ -1,18 +1,21 @@
 # 3.1: Express.js
 
-![](../../.gitbook/assets/express.jpg)
+## Introduction
 
-Express.js is an npm package that provides some common patterns for dealing with HTTP requests.
+Express.js is an NPM package and web server framework for responding to HTTP requests.
 
-Compare this basic code example to our original 'yay' server.
+![This is the architecture of the apps we are about to build in Module 3.](../../.gitbook/assets/express.jpg)
 
-#### Express.js
+## Express vs. Node HTTP
+
+The following are examples of the same server functionality written with Express and the Node HTTP Library.
+
+#### Express
 
 ```javascript
 import express from 'express';
-const app = express();
 
-const PORT = 3000;
+const app = express();
 
 const handleIncomingRequest = (request, response) => {
   console.log('request came in');
@@ -21,15 +24,13 @@ const handleIncomingRequest = (request, response) => {
 
 app.get('/', handleIncomingRequest);
 
-app.listen(PORT);
+app.listen(3004);
 ```
 
-#### createServer
+#### Node HTTP
 
 ```javascript
 import { createServer } from 'http';
-
-const PORT = 3004;
 
 const handleIncomingRequest = (request, response) => {
   console.log('request came in');
@@ -38,18 +39,18 @@ const handleIncomingRequest = (request, response) => {
 
 const server = createServer(handleIncomingRequest);
 
-server.listen(PORT);
+server.listen(3004);
 ```
 
-In Express.js the differences are line 8 where the response is being sent back, and more importantly, on line 11.
+The main difference between the 2 code examples is the presence of the `app.get` line in Express. While the Express code is slightly longer in this simple example, Express functionality like `app.get` allows our server code to be much better decomposed and organised than Node HTTP does. We will elaborate on this in the following section.
 
-## app.get
+## Express Routes
 
-Line 11 of the Express code example is where we set the callback listener. It works differently from the other request listeners we've created.
+Unlike the Node HTTP library where we set the request handler callback for ALL requests when we create the server with `createServer`, Express sets the request listener only for a specific path `/` with `app.get`. This simple but significant change allows Express to provide different request handler callbacks for each type of request it gets, greatly improving the decomposition of our server. It provides a framework for Express to support larger applications with more types of requests.
 
-An Express.js app is meant to take in many different types of requests. The library has built-in functionality to segment the different types of request this type of application normally has.
+Express methods like `app.get` are called "**routing methods**", and they help Express send each request to the relevant request handlers. There are 2 ways in which routing methods filter requests: HTTP Methods and URL Paths.
 
-Express server application functionality is meant to be split up in two hierarchical ways.
+#### Sample Express Routing Method
 
 ```javascript
 app.get('/', handleIncomingRequest);
@@ -57,47 +58,50 @@ app.get('/', handleIncomingRequest);
 
 ### HTTP Methods
 
-Each request callback is set with a function named after an HTTP method: `get`, `post`, `put`, `delete`, etc.
+Express routing methods are named after HTTP methods. To designate a request handler for a GET method we would use `app.get`. To set a request handler for a POST method we would use `app.post`. The same applies for PUT and DELETE.
 
-### HTTP Path
+### URL Path
 
-The first argument to any of the above http method functions is a URL path matcher.
+The first parameter to Express routing methods is a URL path matcher, also called a "route". This means Express forwards requests whose HTTP method matches the routing method and whose URL path matches the path parameter to the corresponding request handler.
 
-So, this URL:
+For example, a GET request to the following URL...
 
 ```bash
 http://localhost:3004/wow-bananas
 ```
 
-Will cause this callback to be called:
+...would match the following routing method, sending the request to the `handleIncomingRequest` callback.
 
 ```javascript
 app.get('/wow-bananas', handleIncomingRequest);
 ```
 
-Normal web application URL paths are meant to match what would be a normal sounding file server path; That is to say, even though we won't have any HTML files in our express app, the naming convention of the URL paths will still be named similarly, as if we were still dealing with files.
+Because Express paths no longer correspond to files, we could give our paths random names like `wow-bananas`. However, best practice is to name application paths more precisely, to help app users better anticipate what we will show them.
 
-Each `app.<METHOD_NAME>` `app.get`, `app.post`, etc. function call and listener callback is called a "route". Routes are considered 1 form of Express "middleware", where middleware are functions with access to the request and response objects, that are executed in the order they are bound to the `app` object, until any middleware sends a response back to the client.
+Routing methods of the format `app.<METHOD>` are 1 form of Express "middleware", where middleware are functions with access to Express request and response objects, that are executed in the order they are bound to the `app` object, until any middleware sends a response back to the client.
 
-Read more about Express middleware [here](https://expressjs.com/en/guide/using-middleware.html) and on Express in general [here](https://expressjs.com/en/4x/api.html#express).
+**Middleware is a crucial topic in Express, because all Express logic happens through middleware. We recommend students read more about Express middleware** [**here**](https://expressjs.com/en/guide/using-middleware.html)**.**
 
-## Exercise
+## Exercises
 
-Create an Express.js application as above.
+### Setup
 
-Start with the [base Node repo](https://github.com/rocketacademy/base-node-bootcamp) and install the Express.js library.
+1. Clone the [base Node repo](https://github.com/rocketacademy/base-node-bootcamp)
+2. Install the `express` library
+3. Reproduce the Express server above
 
 ### Dice Roll
 
-Create an express app that rolls a dice when the user makes a request to the route `/dice-roll`. Format the output so it's easy for the user to read.
+1. Create an Express app that rolls a dice when the user sends a request to the `/dice-roll` route.
+2. Send a response back to the client with the dice roll value.
+3. Format the response output so it's easy to read.
 
 ### Two Dice Rolls
 
-Add another route to the app `/two-dice-roll` that rolls two dice and outputs it to the user.
-
-Make this request with the browser and with `curl`. They should be the same.
+1. Add another "route" to the app `/two-dice-rolls` that rolls two dice and outputs their values to the client.
+2. Request `/two-dice-rolls` with Chrome and with `curl`. Verify we get the same responses.
 
 ## Further Reading
 
-Past students have found [this video](https://www.youtube.com/watch?v=JlgKybraoy4) helpful in introducing HTTP methods with Express routes and introducing Express middleware in general.
+Past students have found [this video](https://www.youtube.com/watch?v=JlgKybraoy4) helpful in introducing Express routing middleware and Express middleware in general.
 
