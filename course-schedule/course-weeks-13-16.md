@@ -312,6 +312,8 @@ None
 
 #### Pre-Class
 
+None
+
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
