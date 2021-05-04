@@ -48,7 +48,7 @@ The main difference between the 2 code examples is the presence of the `app.get`
 
 Unlike the Node HTTP library where we set the request handler callback for ALL requests when we create the server with `createServer`, Express sets the request listener only for a specific path `/` with `app.get`. This simple but significant change allows Express to provide different request handler callbacks for each type of request it gets, greatly improving the decomposition of our server. It provides a framework for Express to support larger applications with more types of requests.
 
-Express methods like `app.get` are called "**routing methods**", and they help Express send each request to the relevant request handlers. There are 2 ways in which routing methods filter requests: HTTP Methods and URL Paths.
+Express methods like `app.get` are called "**routing methods**", and they help Express send each request to the relevant request handlers. We often refer to routing methods as "**routes**" for short. There are 2 ways in which routing methods filter requests: HTTP Methods and URL Paths.
 
 #### Sample Express Routing Method
 
