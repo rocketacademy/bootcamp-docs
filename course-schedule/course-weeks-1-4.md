@@ -310,7 +310,6 @@ Node.js
 #### Pre-Class
 
 * [0.2.2: ES6 Array Iterators](../0-language-and-tooling/0.2-es6/0.2.2-es6-array-iterators.md)
-* [0.5: Advanced Git](../0-language-and-tooling/0.5-advanced-git/)
 * [0.5.1: Git Pull](../0-language-and-tooling/0.5-advanced-git/0.5.1-git-pull.md)
 * [0.5.2: Git Branches](../0-language-and-tooling/0.5-advanced-git/0.5.2-git-branches.md)
 
