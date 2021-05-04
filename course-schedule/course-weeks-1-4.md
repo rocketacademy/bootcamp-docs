@@ -329,7 +329,7 @@ Node.js
 
 * [3.0: Overview](../3-backend-applications/3.0-module-3-overview.md)
 * [3.1: Express.js](../3-backend-applications/3.1-express-js/)
-* [3.1.1: Express.js + JSON](../3-backend-applications/3.1-express-js/3.1.1-express.js-+-json.md)
+* [3.1.1: Express with JSON DB](../3-backend-applications/3.1-express-js/3.1.1-express.js-+-json.md)
 
 #### In-Class
 
