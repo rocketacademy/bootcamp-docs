@@ -8,8 +8,6 @@ description: Singapore's Best Coding Bootcamp
 
 Coding Bootcamp is Rocket Academy's flagship career conversion course. It builds on material from [Coding Basics](https://basics.rocketacademy.co). By the end of Coding Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203_890e2dab19_b-811x900.jpg).
 
-Coding Bootcamp is in [beta](https://medium.com/swlh/what-does-beta-really-mean-a8accc5e2354#:~:text=Alpha%3A%20The%20software%20is%20ready,scoped%20bug%20fixes%20are%20allowed.): it is ready for use, but the curriculum is incomplete. We will remove beta status once Coding Bootcamp has been fully developed and taught. Thank you for understanding!
-
 ## Modules
 
 Coding Bootcamp consists of modules, each of which covers a significant topic within full-stack software engineering. Course content and schedule are subject to minor changes depending on industry trends and student progress.
