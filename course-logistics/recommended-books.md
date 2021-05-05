@@ -1,4 +1,4 @@
-# 3rd-Party Resources
+# Recommended Books
 
 Past students have found the following resources helpful.
 

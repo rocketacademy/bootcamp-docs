@@ -24,7 +24,7 @@
 * [Tools, Syntax, and Glossary](course-logistics/tools-syntax-and-glossary.md)
 * [Group Work](course-logistics/group-work.md)
 * [LinkedIn Education Badge](course-logistics/linkedin-education-badge.md)
-* [3rd-Party Resources](course-logistics/3rd-party-resources.md)
+* [Recommended Books](course-logistics/recommended-books.md)
 
 ## 🏞 Projects
 
