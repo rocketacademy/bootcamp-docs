@@ -47,6 +47,7 @@
 * [0.5: Advanced Git](0-language-and-tooling/0.5-advanced-git/README.md)
   * [0.5.1: Git Pull](0-language-and-tooling/0.5-advanced-git/0.5.1-git-pull.md)
   * [0.5.2: Git Branches](0-language-and-tooling/0.5-advanced-git/0.5.2-git-branches.md)
+* [0.6: Nodemon](0-language-and-tooling/0.6-nodemon.md)
 * [0.6: JS Promises](0-language-and-tooling/0.6-js-promises/README.md)
   * [0.6.1: Try Catch](0-language-and-tooling/0.6-js-promises/0.6.1-try-catch.md)
   * [0.6.2: Promise.catch, Promise.all](0-language-and-tooling/0.6-js-promises/0.6.2-promise.catch-promise.all.md)
