@@ -6,9 +6,24 @@ Express.js is an NPM package and web server framework for responding to HTTP req
 
 ![This is the architecture of the apps we are about to build in Module 3.](../../.gitbook/assets/express.jpg)
 
-## Express vs. Node HTTP
+## Node HTTP vs. Express
 
-The following are examples of the same server functionality written with Express and the Node HTTP Library.
+The following are examples of the same server functionality written with the Node HTTP library and Express. What are the differences?
+
+#### Node HTTP
+
+```javascript
+import { createServer } from 'http';
+
+const handleIncomingRequest = (request, response) => {
+  console.log('request came in');
+  response.end('yay', 'utf-8');
+};
+
+const server = createServer(handleIncomingRequest);
+
+server.listen(3004);
+```
 
 #### Express
 
@@ -25,21 +40,6 @@ const handleIncomingRequest = (request, response) => {
 app.get('/', handleIncomingRequest);
 
 app.listen(3004);
-```
-
-#### Node HTTP
-
-```javascript
-import { createServer } from 'http';
-
-const handleIncomingRequest = (request, response) => {
-  console.log('request came in');
-  response.end('yay', 'utf-8');
-};
-
-const server = createServer(handleIncomingRequest);
-
-server.listen(3004);
 ```
 
 The main difference between the 2 code examples is the presence of the `app.get` line in Express. While the Express code is slightly longer in this simple example, Express functionality like `app.get` allows our server code to be much better decomposed and organised than Node HTTP does. We will elaborate on this in the following section.
