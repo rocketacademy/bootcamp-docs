@@ -1,30 +1,25 @@
 # Required Hardware and Software
 
-If you haven't already, make sure you've completed [Required Hardware and Software](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software) setup from Coding Basics.
+## Introduction
 
-Please install the latest version of Windows or MacOS that your computer supports. This is so that students have the same and latest operating system features, as much as possible.
+1. If you haven't already, ensure you have [Required Hardware and Software](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software) from Coding Basics.
+2. Please install the latest version of Windows or MacOS that your computer supports. This is so that students have the same and latest operating system features as much as possible.
 
 ## Windows
 
 ### Windows Subsystem for Linux \(WSL\)
 
-WSL allows us to run the Linux operating system on Windows machines. This is desirable because all web programming is done on Unix-based operating systems, of which MacOS is also a descendant.
-
-Most SWEs using Windows machines at tech companies do their work in WSL to maximise compatibility between their work and that of Linux machines.
-
-Before installing WSL, make sure you have completely updated Windows.
+1. WSL allows us to run the Linux operating system on Windows machines. This is desirable because all web programming is done on Unix-based operating systems, of which MacOS is also a descendant.
+2. Most SWEs using Windows machines at tech companies do their work in WSL to maximise compatibility between their work and that of Linux machines.
+3. Before installing WSL, make sure you have updated your Windows version.
 
 #### WSL
 
-WSL is the virtual machine environment that allows us to run other operating systems inside Windows.
-
-Install WSL here: [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+WSL is the virtual machine environment that allows us to run other operating systems inside Windows. Install WSL [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
 #### Ubuntu
 
-Ubuntu is the Linux distro we'll be using.
-
-Install the latest version of Ubuntu: [https://www.microsoft.com/en-sg/p/ubuntu-2004-lts/9n6svws3rx71](https://www.microsoft.com/en-sg/p/ubuntu-2004-lts/9n6svws3rx71)
+We will use the Ubuntu Linux "distro" or distribution. Install the latest version of Ubuntu [here](https://www.microsoft.com/en-sg/p/ubuntu-2004-lts/9n6svws3rx71).
 
 ### WSL and VSCode
 
@@ -41,7 +36,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-#### build-essential
+#### Build Essential
 
 Ubuntu needs some standard libraries in order to properly install common packages.
 
@@ -62,35 +57,30 @@ sudo apt-get install ca-certificates
 VSCode will integrate into Ubuntu automatically. The VSCode terminal will show the Ubuntu terminal.
 
 {% hint style="danger" %}
-If you were using the GitBash terminal before, after following these instructions you **must only use the Ubuntu terminal** from now on.
+If you were using the Git Bash terminal before, after following these instructions you **must only use the Ubuntu terminal** from now on.
 {% endhint %}
 
-Install the [Remote Development extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) for VSCode.
-
-Once you install the extension, you will see a Remote Development extension icon at the bottom left corner of the VS Code editor.
+1. Install the [Remote Development extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) for VSCode.
+2. Once you install the extension, you will see a Remote Development extension icon at the bottom left corner of the VS Code editor.
 
 ![](../.gitbook/assets/wsl-ss1.png)
 
-Click on the icon, you will get a pop up with a list of options. Click on the first option "**Remote-WSL: New Window**" for the default distro or select the "**Remote-WSL: New Window using Distro**" for a specific distro.
+1. Click on the icon, you will get a pop up with a list of options. Click on the first option "**Remote-WSL: New Window**" for the default distro or select the "**Remote-WSL: New Window using Distro**" for a specific distro.
 
 ![](../.gitbook/assets/wsl-ss2.png)
 
-You will see a notification "Starting VS Code in WSL...".
+1. You will see a notification "Starting VS Code in WSL...". This means VS Code is setting up a server inside WSL for the first time. Once installed, the VS Code of your Windows machine/desktop will communicate with VS Code server on the Linux side.
 
 [![Starting VS code in WSL for the first time](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)
 
-This means VS Code is setting up a server inside WSL for the first time. Once installed, the VS Code of your Windows machine/desktop will communicate with VS Code server on the Linux side.
-
 #### Install Node.js
 
-Open an Ubuntu terminal and follow [install instructions](https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions), copied below:
+Open an Ubuntu terminal and follow [install instructions](https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions), copied below. Read more about these install instructions [here](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc).
 
 ```text
 curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
-
-See more here: [https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc)
 
 ## Mac
 
@@ -113,19 +103,6 @@ Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
 ### VS Code - Open in Browser
 
 Add [this extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make opening the `index.html` file easier.
-
-## VSCode Settings \(Mac and Windows\)
-
-We will be using React in Coding Bootcamp. Please add the following setting to VSCode to support React. To find these settings, follow [instructions from Coding Basics](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software#vscode).
-
-```bash
-"[javascript]": {
-  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-},
-"[javascriptreact]": {
-  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-},
-```
 
 ## Folder Organisation \(Mac and Windows\)
 
