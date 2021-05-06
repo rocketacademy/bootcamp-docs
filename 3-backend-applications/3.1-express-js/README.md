@@ -103,5 +103,8 @@ Routing methods of the format `app.<METHOD>` are 1 form of Express "middleware",
 
 ## Further Reading
 
-Past students have found [this video](https://www.youtube.com/watch?v=JlgKybraoy4) helpful in introducing Express routing middleware and Express middleware in general.
+Past students have found the following videos helpful in introducing Express routing middleware and Express middleware in general.
+
+1. [https://www.youtube.com/watch?v=JlgKybraoy4](https://www.youtube.com/watch?v=JlgKybraoy4)
+2. [https://www.youtube.com/watch?v=lY6icfhap2o](https://www.youtube.com/watch?v=lY6icfhap2o)
 
