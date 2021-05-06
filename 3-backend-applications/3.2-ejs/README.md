@@ -1,88 +1,89 @@
 # 3.2: EJS
 
-## What is EJS?
+## Introduction
 
 ![EJS is a template engine that operates on the backend to simplify HTML page generation.](../../.gitbook/assets/ejs.jpg)
 
-EJS stands for Embedded JavaScript. It is the npm library that works together with Express.js so that our responses can be full HTML documents.
-
-It uses EJS HTML template files so that the main part of the HTML document does not have to be rewritten for every kind of response.
-
-Express.js' `render` function runs the EJS part of the system and produces an HTML string that is sent back to the browser.
-
-We are beginning to split our app up into separate files by putting the response HTML templates in their own directory.
+1. EJS \(Embedded JavaScript\) is an NPM library that we can integrate with Express to inject JS variables into HTML templates.
+2. We can re-use the EJS HTML templates \(aka EJS templates\) to inject different data into the same HTML page structures.
+3. EJS integrates with Express' `response.render` function to produce an HTML string with the given template and data to return to the client.
+4. We will split our app into separate files by putting EJS templates in their own folder.
 
 ## Views
 
-EJS takes data passed to it from the `render` function and uses that to produce the HTML that gets sent back. These files will all live in a directory called `views`. The term "view" comes from the [Model-View-Controller or MVC framework](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) that defines views as the looks of the application, i.e. what the user is able to "view".
+1. The term "**view**" comes from the [Model-View-Controller or MVC framework](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) that defines views as the looks of an application, i.e. what the user is able to "view".
+2. In our Express apps, we will create a `views` folder and store our EJS templates in it.
+3. When we run `response.render` to render an HTML response to the client, `render` will tell EJS which EJS template to use and pass relevant data to inject into that template.
 
 ![EJS combines EJS HTML templates and dynamic data to generate HTML pages for responses](../../.gitbook/assets/ejs2.jpg)
 
-{% hint style="info" %}
-EJS HTML templates in the backend are not to be confused with DOM manipulation that happens in the frontend. Both happen independently. While DOM manipulation can be used to generate HTML content dynamically once a page has loaded, EJS is used to generate static HTML pages dynamically from the backend, such that different URL paths can yield different HTML pages, each of which can be generated from the same EJS template. 
+{% hint style="warning" %}
+### EJS and DOM Manipulation are Independent Concepts
 
-An example of EJS and DOM working together in the same application can be our Noodle App. EJS templates can be used to dynamically generate recipe pages for URL paths `recipe/0` and `recipe/1`. Once loaded in the client, those recipe pages can then be manipulated by DOM JS code, where clicking on elements on the pages further updates the UI.
+1. Both EJS and DOM manipulation help generate HTML content dynamically, but they are independent concepts. EJS operates in the backend and DOM manipulation operates in the frontend. 
+2. DOM manipulation can be used to generate HTML content dynamically once a page has loaded. EJS generates static HTML pages dynamically from the backend, such that different URL paths can yield different HTML pages, each of which can be generated from the same EJS template. 
+3. RA's Noodle App is an example of EJS and DOM working together in the same application. EJS templates dynamically generate recipe pages for URL paths `recipe/0` and `recipe/1`. Once loaded in the client, those recipe pages can then be manipulated by DOM JS code, where clicking on elements on the pages further updates the UI.
 {% endhint %}
 
 ## Using EJS
 
 ### Configuration
 
-Install the EJS library.
+1. Install the EJS library.
 
-```bash
-npm install ejs
-```
+   ```bash
+   npm install ejs
+   ```
 
-Install the EJS syntax highlighter for VSCode. This is to enable JS syntax highlighting and formatting within EJS files.
-
-[https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
+2. Install the [EJS syntax highlighter for VSCode](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support). This enables JS syntax highlighting and formatting within EJS files.
 
 ### File Structure
 
+Our server apps will have the following file structure.
+
 ```text
-└── banana-app
+└── my-app
     ├── index.js
     └── views
        └── index.ejs
 ```
 
-### index.js
+#### index.js
 
-Set the view engine to generate HTML responses in `index.js`. This line goes below where you define `app`, but above any routes.
+1. In `index.js`, set EJS as the [Express template engine](https://expressjs.com/en/guide/using-template-engines.html) to generate HTML responses. Insert the following line below where we initialise `app` and above any routes.
 
-```javascript
-app.set('view engine', 'ejs');
-```
+   ```javascript
+   app.set('view engine', 'ejs');
+   ```
 
-Within a route, when ready to return an HTML page as a response, call `response.render`. `response.render` takes two arguments.
+2. Within a request handler callback, when ready to respond with HTML, call `response.render` with the following 2 params.
+   1. A string containing the path/name of the EJS template \(without file extension\) in the `views` folder.
+   2. An object containing data to inject in the EJS template.
+3. Our code might look like the following.
 
-1. The path/name of a file \(without extension\) in the `views` directory.
-2. Data that will be used to render the HTML. This is an object.
+   ```javascript
+   import express from 'express';
 
-```javascript
-import express from 'express';
+   const app = express();
 
-const app = express();
+   // Set view engine
+   app.set('view engine', 'ejs');
 
-app.set('view engine', 'ejs');
+   app.get('/banana', (request, response) => {
+     // Obtain data to inject into EJS template
+     const data = {
+       user: {
+         name: 'kai',
+       },
+     };
+     // Return HTML to client, merging "index" template with supplied data.
+     response.render('index', data);
+   });
+   ```
 
-app.get('/banana', (request, response) => {
-  const data = {
-    user: {
-      name: 'kai',
-    },
-  };
+#### index.ejs
 
-  response.render('index', data);
-});
-```
-
-### index.ejs
-
-EJS files look similar to HTML files, except with "templating syntax" to inject JavaScript variables into the HTML. In this example, the properties of the `data` object in `index.js` are exposed in `index.ejs`.
-
-These templating concepts and syntax are similar across most web application frameworks, including Ruby on Rails, Python Django, and Java Spring.
+`index.ejs` is a sample EJS template for this example. EJS templates look like HTML files, except with "templating syntax" to inject JS variables into the HTML. In this example, we inject the properties of the `data` object in `index.js` to `index.ejs`. Templating concepts and syntax are similar across most web application frameworks, including Ruby on Rails, Python Django, and Java Spring.
 
 ```markup
 <html>
@@ -92,26 +93,21 @@ These templating concepts and syntax are similar across most web application fra
 </html>
 ```
 
-{% hint style="info" %}
-**Naming Conventions**
+### **EJS Naming Convention**
 
-EJS files are named after the routes that render them.  
-  
-A route like this:
+By convention, we name EJS templates after the routes that render them. For example, a route like the following should render an EJS file called `recipe.ejs`. There are few exceptions to this convention.
 
 ```javascript
-app.get('/recipe/0', ...
-
+app.get('/recipe/0', /* ... */)
 ```
 
-should render an EJS file called `recipe.ejs`. There are very few exceptions to this convention.
-{% endhint %}
-
-## Add .prettierignore File for Prettier to Ignore EJS
+### \(Optional\) Add .prettierignore File for Prettier to Ignore EJS
 
 VSCode interprets EJS files as HTML, and sometimes we do not want Prettier to format EJS as HTML. We will add a `.prettierignore` file at the root of the folder open in VSCode to ignore files with a `.ejs` file extension. 
 
 Please add a `.prettierignore` file at the root of the folder open in VSCode with the following contents. For example, if my `rocket` folder is open in VSCode with many subfolders such as `ice`, `prce`, `poce`, `projects`, I will add `.prettierignore` to the `rocket` folder and not any of its subfolders. More info on Prettier Ignore [here](https://prettier.io/docs/en/ignore.html).
+
+Occasionally we may wish to comment out the `*.ejs` line in `.prettierignore` for Prettier to format the HTML in our EJS templates.
 
 ```text
 # Ignore all EJS files
@@ -120,9 +116,7 @@ Please add a `.prettierignore` file at the root of the folder open in VSCode wit
 
 ## Exercise
 
-Run the above code.
-
-Write an `h1` element and fill it with another key in the `data` object.
-
-Create a request param: `/fruits/:name`. In the route callback get a hold of the value and output that request value in the HTML by adding it to the data object, then referencing it in the HTML.
+1. Create a server with the above code and return HTML with EJS templating.
+2. Add an `h1` element to `index.ejs` and fill it with another attribute in the `data` object.
+3. Create a new route with a path param like `/fruits/:name`. Inject the path param value in the response HTML by adding the param to the `data` object, then referencing it in the EJS template.
 
