@@ -227,6 +227,7 @@
   * [4.2.7: Sequelize Eager Loading](4-backend-structure/4.2-sequelize/4.2.7-sequelize-eager-loading.md)
   * [4.2.8: Sequelize Self-Referencing Table Columns](4-backend-structure/4.2-sequelize/4.2.8-sequelize-self-referencing-table-columns.md)
   * [4.2.9: Sequelize Setup Cheatsheet](4-backend-structure/4.2-sequelize/4.2.9-sequelize-setup-cheatsheet.md)
+  * [4.3.0: Sequelize - Heroku](4-backend-structure/4.2-sequelize/4.3.0-sequelize-heroku.md)
 * [4.3: MVC](4-backend-structure/4.3-mvc/README.md)
   * [4.3.1: RESTful Routes](4-backend-structure/4.3-mvc/4.3.1-restful-routes.md)
 * [4.ICE: In-Class Exercises](4-backend-structure/4.ice-in-class-exercises/README.md)
