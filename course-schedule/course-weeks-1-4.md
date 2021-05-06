@@ -344,6 +344,7 @@ Node.js
 #### Pre-Class
 
 * [0.2.3: ES6 Destructuring, Spread Operators](../0-language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators.md)
+* [0.6: Nodemon](../0-language-and-tooling/0.6-nodemon.md)
 * [3.2: EJS](../3-backend-applications/3.2-ejs/)
 * [3.2.1: EJS Loops](../3-backend-applications/3.2-ejs/3.2.1-ejs-loops.md)
 
