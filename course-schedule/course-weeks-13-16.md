@@ -344,8 +344,7 @@ None
 
 #### Pre-Class
 
-* [D.11.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#pre-class)
-
+* 
 #### In-Class
 
 * [Project 4 Presentations](../course-logistics/course-methodology.md#project-presentations)
@@ -354,5 +353,6 @@ None
 
 * [Project 4 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.11.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#part-1)
+
+
 

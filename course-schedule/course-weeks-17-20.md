@@ -4,23 +4,38 @@
 
 ## Course Week 17
 
+#### Pre-Class
+
+* [D.11.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#pre-class)
+
+#### In-Class
+
+* [Project 4 Presentations](../course-logistics/course-methodology.md#project-presentations)
+
+#### Post-Class
+
+* [Project 4 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
+* [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
+* 
 ### Course Day 17.1
 
 #### Pre-Class
 
 * [8.1: Create React App](../8-advanced-react/8.1-create-react-app/)
 * [8.1.1: Create React App Full Stack](../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
+* [D.11.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#pre-class)
 * [D.11.2: Binary Search - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#pre-class)
 
 #### In-Class
 
-* [D.11.2: Binary Search - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#part-1)
+* [D.11.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#part-1)
+
+  * 
 
 #### Post-Class
 
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.11.2: Binary Search - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#part-1)
-
+* 
 ### Course Day 17.2
 
 #### Due
@@ -38,23 +53,24 @@
 #### In-Class
 
 * [8.ICE.1: useContext](../8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
-* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
+* [D.11.3: Sliding Windows - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#pre-class)
 
 #### **Post-Class**
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
+* [D.11.3: Sliding Windows - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#pre-class)
 
 ### Course Day 17.3
 
 #### Pre-Class
 
 * [8.3.4: React E-Commerce App with Store](../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
+* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 #### **In-Class**
 
-* [DS&A Open Practice: Day 1](../data-structures-and-algorithms/d.12-open-practice.md#day-1)
+* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
 
 #### **Post-Class**
 
