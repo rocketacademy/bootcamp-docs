@@ -44,6 +44,8 @@ Our server apps will have the following file structure.
 ```text
 └── my-app
     ├── index.js
+    └── public
+       └── styles.css
     └── views
        └── index.ejs
 ```
@@ -69,11 +71,11 @@ Our server apps will have the following file structure.
    // Set view engine
    app.set('view engine', 'ejs');
 
-   app.get('/banana', (request, response) => {
+   app.get('/fruit', (request, response) => {
      // Obtain data to inject into EJS template
      const data = {
-       user: {
-         name: 'kai',
+       fruit: {
+         name: 'banana',
        },
      };
      // Return HTML to client, merging "index" template with supplied data.
@@ -81,24 +83,24 @@ Our server apps will have the following file structure.
    });
    ```
 
-#### index.ejs
+#### fruit.ejs
 
-`index.ejs` is a sample EJS template for this example. EJS templates look like HTML files, except with "templating syntax" to inject JS variables into the HTML. In this example, we inject the properties of the `data` object in `index.js` to `index.ejs`. Templating concepts and syntax are similar across most web application frameworks, including Ruby on Rails, Python Django, and Java Spring.
+`fruit.ejs` is a sample EJS template for this example. EJS templates look like HTML files, except with "templating syntax" to inject JS variables into the HTML. In this example, we inject the properties of the `data` object in `index.js` to `fruit.ejs`. Templating concepts and syntax are similar across most web application frameworks, including Ruby on Rails, Python Django, and Java Spring.
 
 ```markup
 <html>
   <body>
-    <h2><%= user.name %></h2>
+    <h2><%= fruit.name %></h2>
   </body>
 </html>
 ```
 
 ### **EJS Naming Convention**
 
-By convention, we name EJS templates after the routes that render them. For example, a route like the following should render an EJS file called `recipe.ejs`. There are few exceptions to this convention.
+By convention, we name EJS templates after the routes that render them. For example, a route like the following should render an EJS file called `fruit.ejs`. There are few exceptions to this convention.
 
 ```javascript
-app.get('/recipe/0', /* ... */)
+app.get('/fruit/apple', /* ... */)
 ```
 
 ### \(Optional\) Add .prettierignore File for Prettier to Ignore EJS
