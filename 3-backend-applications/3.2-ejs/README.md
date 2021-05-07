@@ -36,6 +36,13 @@
    ```
 
 2. Install the [EJS syntax highlighter for VSCode](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support). This enables JS syntax highlighting and formatting within EJS files.
+3. Configure Prettier to format EJS as HTML by adding the following setting to the [VSCode JSON Settings](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software#vscode-formatters).
+
+   ```text
+   "emmet.includeLanguages": {
+     "ejs": "html"
+   },
+   ```
 
 ### File Structure
 
