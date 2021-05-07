@@ -87,14 +87,6 @@ Our server apps will have the following file structure.
 
 `fruit.ejs` is a sample EJS template for this example. EJS templates look like HTML files, except with "templating syntax" to inject JS variables into the HTML. In this example, we inject the properties of the `data` object in `index.js` to `fruit.ejs`. Templating concepts and syntax are similar across most web application frameworks, including Ruby on Rails, Python Django, and Java Spring.
 
-{% hint style="warning" %}
-#### Browser Retrieves Static Files AFTER HTML Loads
-
-1. When our HTML references static files like CSS, image, or JS files, EJS does NOT read or load those files into the initial response. 
-2. EJS compiles HTML with the EJS template and provided data, and Express sends that HTML back to the client.
-3. After the client reads the response HTML, it requests for the additional static files that the HTML may reference.
-{% endhint %}
-
 ```markup
 <html>
   <head>
@@ -106,6 +98,14 @@ Our server apps will have the following file structure.
   </body>
 </html>
 ```
+
+{% hint style="warning" %}
+#### Browser Retrieves Static Files AFTER HTML Loads
+
+1. When our HTML references static files like CSS, image, or JS files, EJS does NOT read or load those files into the initial response. 
+2. EJS compiles HTML with the EJS template and provided data, and Express sends that HTML back to the client.
+3. After the client reads the response HTML, it requests for the additional static files that the HTML may reference.
+{% endhint %}
 
 ### **EJS Naming Convention**
 
