@@ -49,6 +49,12 @@ Copy the code into a repo that you create and deploy using GitHub pages. You do 
 
 Access the code for the templates here: [https://github.com/rocketacademy/portfolio-examples-bootcamp](https://github.com/rocketacademy/portfolio-examples-bootcamp)
 
+#### User Site
+
+Create a "user site" GitHub pages repo: `To publish a user site, you must create a repository owned by your user account that's named <username>.github.io.`
+
+See the GitHub pages docs here: [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages\#types-of-github-pages-sites](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)
+
 ## Sample Portfolio Sites
 
 1. [https://samkohlq.github.io/](https://samkohlq.github.io/)
