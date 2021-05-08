@@ -10,3 +10,5 @@ Past students have found the following resources helpful.
 
 {% file src="../.gitbook/assets/kyle-simpson-you-dont-know-js\_-up-and-going-oreilly-media-2015-.pdf" caption="JS Deep Dive" %}
 
+{% file src="../.gitbook/assets/swe-at-google.pdf" caption="Software Engineering at Google" %}
+
