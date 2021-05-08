@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 4 | 3-7 May | Cloud Deployment, JSON, Express.js, EJS | - | [CD4.1](course-weeks-1-4.md#course-day-4-1) | [CD4.2](course-weeks-1-4.md#course-day-4-2) | [CD4.3](course-weeks-1-4.md#course-day-4-3) | [CD4.4](course-weeks-1-4.md#course-day-4-4) | [CD4.5](course-weeks-1-4.md#course-day-4-5) |
+| 5 | 10-14 May | Express.js, EJS, SQL, Cookies | - | [CD5.1](course-weeks-5-8.md#course-day-5-1) | [CD5.2](course-weeks-5-8.md#course-day-5-2) | [CD5.3](course-weeks-5-8.md#course-day-5-3) | **PH** | [CD5.4](course-weeks-5-8.md#course-day-5-4) |
 
 ## Overall Schedule
 

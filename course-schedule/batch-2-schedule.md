@@ -6,43 +6,9 @@ description: 11 Jan - 25 Jun
 
 ## Current Week
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Week</th>
-      <th style="text-align:left">Dates</th>
-      <th style="text-align:left">Topics</th>
-      <th style="text-align:left">Project</th>
-      <th style="text-align:left">Mon</th>
-      <th style="text-align:left">Tue</th>
-      <th style="text-align:left">Wed</th>
-      <th style="text-align:left">Thu</th>
-      <th style="text-align:left">Fri</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">17</td>
-      <td style="text-align:left">3-7 May</td>
-      <td style="text-align:left">
-        <p>Create React App, Higher-Order Components, Global React State</p>
-        <p>Common Algorithm Patterns</p>
-      </td>
-      <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-3">CD16.3</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-4">CD16.4</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-5">CD16.5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-1">CD17.1</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-2">CD17.2</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 18 | 10-14 May | React Router, Styled Components, DSA Open Practice \(DSAOP\), Career Prep: Resume, Portfolio, Job List | - | [CD17.3](course-weeks-17-20.md#course-day-17-3) | [CD17.4](course-weeks-17-20.md#course-day-17-4) | [CD17.5](course-weeks-17-20.md#course-day-17-5) | **PH** | [CD18.1](course-weeks-17-20.md#course-day-18-1) |
 
 ## Overall Schedule
 
