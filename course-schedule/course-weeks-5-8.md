@@ -39,7 +39,7 @@
 
 #### Pre-Class
 
-* [3.2.3: Advanced EJS](../3-backend-applications/3.2-ejs/3.2.3-advanced-ejs.md)
+* [3.2.3: EJS Partials](../3-backend-applications/3.2-ejs/3.2.3-advanced-ejs.md)
 
 #### In-Class
 
