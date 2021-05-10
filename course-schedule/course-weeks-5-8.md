@@ -19,7 +19,7 @@
 
 #### Post-Class
 
-* [3.POCE.3: Express - UFOs](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ### Course Day 5.2
 
@@ -33,7 +33,7 @@
 
 #### Post-Class
 
-* [3.POCE.3: Express - UFOs](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ### Course Day 5.3
 
@@ -48,7 +48,7 @@
 
 #### **Post-Class**
 
-* [3.POCE.3: Express - UFOs](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ### Course Day 5.4
 
@@ -65,7 +65,7 @@
 
 #### Post-Class
 
-* [3.POCE.3: Express - UFOs](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 ### Course Day 5.5
 
