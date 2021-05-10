@@ -1,4 +1,4 @@
-# 0.7: JS Promises
+# 0.8: JS Promises
 
 ## Introduction
 

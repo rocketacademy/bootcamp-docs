@@ -24,7 +24,7 @@
 
 #### Pre-Class
 
-* [0.7.1: Try Catch](../0-language-and-tooling/0.7-js-promises/0.7.1-try-catch.md)
+* [0.8.1: Try Catch](../0-language-and-tooling/0.8-js-promises/0.8.1-try-catch.md)
 
 #### In-Class
 
@@ -42,7 +42,7 @@
 
 #### Pre-Class
 
-* [0.7.2: Promise.catch, Promise.all](../0-language-and-tooling/0.7-js-promises/0.7.2-promise.catch-promise.all.md)
+* [0.8.2: Promise.catch, Promise.all](../0-language-and-tooling/0.8-js-promises/0.8.2-promise.catch-promise.all.md)
 * [4.2.2: Sequelize One-to-Many](../4-backend-structure/4.2-sequelize/4.2.2-sequelize-one-to-many-relationships.md)
 
 #### In-Class
@@ -57,7 +57,7 @@
 
 #### Pre-Class
 
-* [0.7.3: Async/Await](../0-language-and-tooling/0.7-js-promises/0.7.3-async-await.md)
+* [0.8.3: Async/Await](../0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
 * [4.2.3: Async/Await with Sequelize](../4-backend-structure/4.2-sequelize/4.2.3-async-await-with-sequelize.md)
 * [4.3: MVC](../4-backend-structure/4.3-mvc/)
 * [4.3.1: REST](../4-backend-structure/4.3-mvc/4.3.1-restful-routes.md)
