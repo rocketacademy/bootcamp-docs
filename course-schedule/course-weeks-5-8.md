@@ -11,6 +11,7 @@
 * [3.1.2: HTML Forms](../3-backend-applications/3.1-express-js/3.1.2-html-forms.md)
 * [3.1.3: Handling POST Requests](../3-backend-applications/3.1-express-js/3.1.3-handling-post-requests.md)
 * [3.2.2: EJS Conditionals](../3-backend-applications/3.2-ejs/3.2.2-ejs-conditionals.md)
+* [Install Postman](../3-backend-applications/3.ice-in-class-exercises/3.ice.3-bigfoot-post.md#postman)
 
 #### In-Class
 
