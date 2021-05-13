@@ -20,8 +20,8 @@ The following are all upcoming and past RA Q&A sessions.
 | Wed | 12 May 2021 | 6-7pm | [Erik Khanh Nguyen](https://www.linkedin.com/in/erikng/) \(video\) | Senior Software Engineer at Endowus |
 | Wed | 5 May 2021 | 3-4pm | [Sunny Singh](https://www.linkedin.com/in/sstrgh/) \(video\) | Technical Consultant at Mission Plus |
 | Wed | 28 Apr 2021 | 3-4pm | [Kai Yuan Neo](https://www.linkedin.com/in/kaiyuanneo/) \(video\) | Founder and CEO at Rocket Academy |
-| Wed | 31 Mar 2021 | 3-4pm | [Aizat Faiz](https://www.linkedin.com/in/aizatto/) \(video\) | Engineering Manager at Xfers |
-| Wed | 24 Mar 2021 | 3-4pm | [Allen Ling](https://www.linkedin.com/in/allen-ling-57110590/) \(video\) | Principal Engineer: Cloud and DevOps at Versent |
+| Wed | 31 Mar 2021 | 3-4pm | [Aizat Faiz](https://www.linkedin.com/in/aizatto/) \([video](https://youtu.be/Mdho34airS0)\) | Engineering Manager at Xfers |
+| Wed | 24 Mar 2021 | 3-4pm | [Allen Ling](https://www.linkedin.com/in/allen-ling-57110590/) \([video](https://youtu.be/8xhFRpgnm6k)\) | Principal Engineer: Cloud and DevOps at Versent |
 | Wed | 17 Mar 2021 | 3-4pm | [Yong Jie Wong](https://www.linkedin.com/in/wongyongjie/) \([video](https://youtu.be/Mq8cZtXf7ls)\) | Co-Founder and Technical Lead at Glints |
 | Tue | 9 Mar 2021 | 6-7pm | [Michael Cheng](https://www.linkedin.com/in/miccheng/) \([video](https://youtu.be/qd-mCIEmIX8)\) | Lead Engineer at GovTech Singapore, Founder at Engineers.SG |
 | Wed | 3 Mar 2021 | 3-345pm | [Geoff Cheah](https://www.linkedin.com/in/geoffreycheah/) \([video](https://youtu.be/b1rONDnGLw0)\) | Senior Software Engineer at BCG Digital Ventures |
