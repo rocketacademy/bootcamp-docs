@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 18 | 10-14 May | React Router, Styled Components, DSA Open Practice \(DSAOP\), Career Prep: Resume, Portfolio, Job List | - | [CD17.3](course-weeks-17-20.md#course-day-17-3) | [CD17.4](course-weeks-17-20.md#course-day-17-4) | [CD17.5](course-weeks-17-20.md#course-day-17-5) | **PH** | [CD18.1](course-weeks-17-20.md#course-day-18-1) |
+| 19 | 17-21 May | DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD18.2](course-weeks-17-20.md#course-day-18-2) | [CD18.3](course-weeks-17-20.md#course-day-18-3) | [CD18.4](course-weeks-17-20.md#course-day-18-4) | [CD18.5](course-weeks-17-20.md#course-day-18-5) | [CD19.1](course-weeks-17-20.md#course-day-19-1) |
 
 ## Overall Schedule
 
