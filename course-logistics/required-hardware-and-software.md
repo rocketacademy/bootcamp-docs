@@ -104,7 +104,7 @@ Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
 
 Add [this extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make opening the `index.html` file easier.
 
-## Folder Organisation \(Mac and Windows\)
+## Folder Organisation 
 
 In Coding Bootcamp we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
 
@@ -112,10 +112,26 @@ In Coding Bootcamp we will be cloning starter code many times for new projects. 
 All files and folders are in kebab-case \(lowercase and hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them.
 {% endhint %}
 
+### Folder Organisation - Mac
+
 1. Host all Coding Bootcamp code in a folder called `bootcamp`.
 2. Within the `bootcamp` folder, for each week \(there are 24 total\) in Coding Bootcamp, create a new folder for that week. This means you will have 24 week-specific folders, such as `week1`, `week2`, ..., `week24`.
 3. Within each `weekX` folder, create 1 folder for each day of the week, i.e. `day1`, `day2`, ..., `day5`.
 4. Within each `dayX` folder, create `pre-class`, `in-class`, and `post-class` folders for the respective exercises.
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
 6. Store projects within a `projects` directory directly within the `bootcamp` folder for easy accessibility.
+
+### Folder Organisation - Windows
+
+Because the Back-end portions of the course change the way we run our code, we will be changing the location of our code from that point forward as well.
+
+1. For Weeks 1 & 2 and Project 1, host code in a folder called `bootcamp`.
+2. Within the `bootcamp` folder, for each week 1 & 2 in Coding Bootcamp, create a new folder for that week. This means you will have 2 week-specific folders, such as `week1`, `week2`
+3. Within each `weekX` folder, create 1 folder for each day of the week, i.e. `day1`, `day2`, ..., `day5`.
+4. Within each `dayX` folder, create `pre-class`, `in-class`, and `post-class` folders for the respective exercises.
+5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
+6. Store projects within a `projects` directory directly within the `bootcamp` folder for easy accessibility.
+7. For Weeks 3 \(Module 2\) onwards we will store files inside the WSL part of the computer. Create a directory called `bootcamp` in the home \(`~`\) folder of the Ubuntu system.
+8. Name the weeks and days similarly to the above.
+9. Do not save any of the files from Week 3 \(Module 2\) onwards in the Windows side of the computer.
 
