@@ -55,6 +55,12 @@ Create a "user site" GitHub pages repo: `To publish a user site, you must create
 
 See the GitHub pages docs here: [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages\#types-of-github-pages-sites](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)
 
+**.nojekyll**
+
+Github may require a config file called `.nojekyll` in order for the portfolio to be deployed correctly. THis file should be in the root of the repo. It should be empty.
+
+See more here: [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages\#static-site-generators](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#static-site-generators)
+
 ## Sample Portfolio Sites
 
 1. [https://samkohlq.github.io/](https://samkohlq.github.io/)

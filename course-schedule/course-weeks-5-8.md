@@ -44,7 +44,7 @@
 #### In-Class
 
 * [Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.7: CSS Practice 1](../1-frontend-basics/1.ice-in-class-exercises/1.ice.7-css-practice-1.md)
+* [1.ICE.7: CSS Practice 1 - MyTunes](../1-frontend-basics/1.ice-in-class-exercises/1.ice.7-css-practice-1-mytunes.md)
 
 #### **Post-Class**
 
@@ -265,7 +265,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.8: CSS Practice 2](../1-frontend-basics/1.ice-in-class-exercises/1.ice.8-css-practice-2.md)
+* [1.ICE.8: CSS Practice 2 - Restaurant](../1-frontend-basics/1.ice-in-class-exercises/1.ice.8-css-practice-2-restaurant.md)
 
 #### Post-Class
 
@@ -281,7 +281,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.9: CSS Practice 3](../1-frontend-basics/1.ice-in-class-exercises/1.ice.9-css-practice-3.md)
+* [1.ICE.9: CSS Practice 3 - NTU](../1-frontend-basics/1.ice-in-class-exercises/1.ice.9-css-practice-3-ntu.md)
 
 #### Post-Class
 
@@ -300,7 +300,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.10: CSS Practice 4](../1-frontend-basics/1.ice-in-class-exercises/1.ice.10-css-practice-4.md)
+* [1.ICE.10: CSS Practice 4 - Zillow](../1-frontend-basics/1.ice-in-class-exercises/1.ice.10-css-practice-4-zillow.md)
 
 #### Post-Class
 
@@ -315,7 +315,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.11: CSS Practice 5](../1-frontend-basics/1.ice-in-class-exercises/1.ice.11-css-practice-5.md)
+* [1.ICE.11: CSS Practice 5 - Chase Bank](../1-frontend-basics/1.ice-in-class-exercises/1.ice.11-css-practice-5-chase-bank.md)
 
 #### Post-Class
 
