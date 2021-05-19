@@ -24,7 +24,7 @@ The video is a summary of the popular business strategy book [The Lean Startup b
 
 ## 1. What does it mean to design something?
 
-What kind of approach can we take to build a digital product? The name \(buzz-word\) for the umbrella process \(that includes the lean startup methodology described above\) is design thinking. Design thinking is a way to approach creating things that are useful for users.
+What kind of approach can we take to build a digital product? The term \(buzz-word\) for the umbrella process \(that includes the lean startup methodology described above\) is **design thinking.** Design thinking is a way to approach creating things that are useful for users.
 
 
 
