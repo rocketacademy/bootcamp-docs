@@ -390,4 +390,6 @@
 ## 💁🏽‍♀️User Experience
 
 * [UX.1: Overview](user-experience/ux.1-overview.md)
+* [UX.2: How to Practice UX](user-experience/ux.2-how-to-practice-ux.md)
+* [UX.3: Design](user-experience/ux.3-design.md)
 
