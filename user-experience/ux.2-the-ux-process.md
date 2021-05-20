@@ -4,12 +4,11 @@ User experience design applies design thinking to the creation of digital produc
 
 {% embed url="https://youtu.be/K44tP606seE" %}
 
-Steps in the UX design process:
+## Steps in the UX Design Process
 
 1. User Research
    1. User Personas
-   2. Competitive Analysis
-   3. User Journey Maps
+   2. User Journey Maps
       1. Customer Journey Maps
       2. Service Blueprints
       3. Experience Maps
@@ -26,7 +25,46 @@ Steps in the UX design process:
       3. Unmoderated
       4. a/b Testing
    4. UI Design
-3. Development
+3. Build / Development
 4. Launch
 5. Iteration
+
+## UX Research
+
+{% embed url="https://youtu.be/7\_sFVYfatXY" %}
+
+1. Discover
+   1. Uncover user needs
+   2. Validate assumptions
+   3. Research Methods:
+      1. Field Studies
+      2. Diary Studies
+      3. User Interviews
+      4. Stakeholder Interviews
+      5. Constraint Gathering
+2. Explore
+   1. Understand Problem Space
+      1. Research Methods
+         1. Competitive Analysis
+         2. Persona Building
+         3. Journey Mapping
+         4. Design Reviews
+         5. Task Analysis
+         6. Card Sorting
+3. \(Build\)
+4. Test
+   1. Validate that the app works for users
+   2. Research Methods
+      1. Qualitative Testing
+      2. Benchmark Testing
+      3. Accessibility Evaluation
+5. Listen
+   1. Research Methods
+      1. Surveys
+      2. Analytics Reviews
+      3. Search Log Analysis
+      4. Usability Bug Reviews
+      5. FAQ Reviews
+
+
 
