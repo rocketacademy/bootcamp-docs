@@ -115,16 +115,16 @@
 
 #### Post-Class
 
-* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.6: Bird Watching Users](../3-backend-applications/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ### Course Day 6.3
 
 #### Pre-Class
 
 * [3.3.3: SQL Relationships \(Many to Many\)](../3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
-* [3.5.3: Password Hashing](../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md)
 * [3.4.5: Forms for One-to-Many Relationships](../3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships.md)
+* [3.5.3: Password Hashing](../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md)
 
 #### In-Class
 
@@ -132,8 +132,8 @@
 
 #### Post-Class
 
-* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.7: Bird Watching Species](../3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ### Course Day 6.4
 
@@ -149,8 +149,8 @@
 
 #### Post-Class
 
-* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.8: Bird Watching Behaviour](../3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ### Course Day 6.5
 
@@ -168,9 +168,9 @@
 
 #### Post-Class
 
-* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 * [3.POCE.9: Bird Watching Comments](../3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
 * [3.POCE.10: Deployment](../3-backend-applications/3.poce-post-class-exercises/3.poce.10-deployment.md)
+* [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ## Course Week 7
 
@@ -187,7 +187,7 @@
 
 #### Post-Class
 
-* [Project 2 Ideation Phase 2 ](../projects/project-2-server-side-app.md#ideation-phase-2)
+* [Project 2 Ideation Phase 2](../projects/project-2-server-side-app.md#ideation-phase-2)
 
 ### Course Day 7.2
 
