@@ -37,11 +37,9 @@ User stories define the intended user and business goals when interacting with a
 
 #### Things to keep in mind:
 
-Don't surprise the user.
+Don't surprise the user. Ask what the user expects to see in a certain areas of the page.
 
 Define areas of the page using usability conventions: spacing, layout, information hierarchy. 
-
-Ask what the user expects to see in a certain areas of the page.
 
 ## UI Design / Information Architecture / Information Hierarchy
 
