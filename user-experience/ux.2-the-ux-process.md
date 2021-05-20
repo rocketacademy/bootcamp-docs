@@ -1,4 +1,4 @@
-# UX.2: How to Practice UX
+# UX.2: The UX Process
 
 User experience design applies design thinking to the creation of digital products.
 
