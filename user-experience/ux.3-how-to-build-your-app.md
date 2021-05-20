@@ -1,4 +1,4 @@
-# UX.3: Design
+# UX.3: How to Build Your App
 
 ### User Flows
 

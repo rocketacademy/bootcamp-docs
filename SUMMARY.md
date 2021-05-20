@@ -391,5 +391,5 @@
 
 * [UX.1: Overview](user-experience/ux.1-overview.md)
 * [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
-* [UX.3: Design](user-experience/ux.3-design.md)
+* [UX.3: How to Build Your App](user-experience/ux.3-how-to-build-your-app.md)
 
