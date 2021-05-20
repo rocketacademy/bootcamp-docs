@@ -118,6 +118,14 @@ Define the MVP given the task / feature prioritization and at this stage also ta
 
 ## Further Reading 
 
+#### User Stories
+
+{% embed url="https://youtu.be/tKSUokG3Y0w" %}
+
+{% embed url="https://youtu.be/Fw98L-kcRpc" %}
+
+
+
 #### Design Patterns
 
 {% embed url="https://www.youtube.com/watch?v=vTbnnF0dnvY" %}
