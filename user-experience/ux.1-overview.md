@@ -2,7 +2,7 @@
 
 ## UX and Projects
 
-When we work on the RA projects the main goal will always be the technical implementation of a software application given some goals and a set of technologies. However, for writing any software it is very important to be able to keep in mind the high-level goals of the software. In the case of web and internet technologies these are usually focused around human users. To that end it's important to learn some why a product may or may not include some functionality and to be able to think about those reasons from first principles.
+When we work on the RA projects the main goal will always be the technical implementation of a software application given some goals and a set of technologies. However, for writing any software it is very important to be able to keep the high-level goals in mind. In the case of web and internet technologies these are usually focused around human users. To that end it's important to learn some why a product may or may not include some functionality and to be able to think about those reasons from first principles.
 
 ### Web Software is for Users
 
