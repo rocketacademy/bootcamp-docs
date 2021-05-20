@@ -1,8 +1,8 @@
 # UX.2: The UX Process
 
-User experience design applies design thinking to the creation of digital products.
-
 {% embed url="https://youtu.be/K44tP606seE" %}
+
+In industry the UX designer's job in a larger organization is to help define what should go into a product and why those features should exists. In a very large organization a UX designer can help gather data that helps other roles like product managers or business analysts decide which direction a product should go in by getting rid of features, building new ones or improving current user flows.
 
 ## Steps in the UX Design Process
 
