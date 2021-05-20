@@ -1,5 +1,24 @@
 # UX.3: How to Design Your App
 
+## Context
+
+Let's define some common UX workflows around creating a product and product designs. After, we'll encapsulate these steps into a concrete project workflow. 
+
+### User Story Mapping
+
+{% embed url="https://youtu.be/6ojIZ81PfJc" %}
+
+Steps:
+
+1. Define a vision
+2. Build the backbone
+3. Identify and group activities
+4. Break activites into tasks
+5. Look for gaps
+6. Prioritize
+7. Define iterations or releases
+8. Keep the map updated
+
 ### User Flows
 
 User flows describes the series of high-level steps the user has to take to accomplish an action.
@@ -12,6 +31,8 @@ User flows describes the series of high-level steps the user has to take to acco
 
 #### User flow types:
 
+{% embed url="https://youtu.be/TIV1y11xz7k" %}
+
 1. Task flows
    1. Written list of things the user needs to do.
    2. Competitive Analysis. What do other apps do?
@@ -19,8 +40,6 @@ User flows describes the series of high-level steps the user has to take to acco
    1. Sketch the screens that represent the tasks. Include all  UI elements like inputs or buttons the user needs to accomplish the goal.
 3. Screen Flows
    1. Fill in more details in the wireframe. Think about the information hierarchy / information architecture of the elements on the screen. 
-
-{% embed url="https://youtu.be/TIV1y11xz7k" %}
 
 ### Wireframes
 
@@ -50,6 +69,52 @@ Information architecture is the process of designing a page or screen that gives
 {% embed url="https://www.youtube.com/watch?v=mMQSXTKGLZc" %}
 
 {% embed url="https://www.youtube.com/watch?v=CM4DBl9oZSM" %}
+
+## How to Plan and Create Your Project
+
+### **1.Begin with what you want the project to be**
+
+In bootcamp the main focus of the projects are the technology aspects. The goal of the bootcamp UX material is to incorporate UX design work as much as is possible into every project. This means that \(even though a real-world workflow would not work this way\) we can work backwards from the technology to justify product decisions, using UX design.
+
+In this context once we've decided what the project should be and what technologies are going to be included, we can look backwards and define the product vision. The vision should answer these questions:
+
+What problem is the app trying to solve?
+
+Who is the user of the product?
+
+What does the product do to solve this problem?
+
+### 2. Figure out what to Build
+
+#### a. User activities
+
+Next, define specifically what the project should do. Make a list of activities the user can do within the app that work chronologically toward the main goal of the user.
+
+#### b. User tasks
+
+Each user activity should be composed of at least one task. Each task will also have it's own sub-goal that the user has in mind.
+
+#### c. Feature Prioritization
+
+What is the heart of the app? Which activities and tasks are the ones that will allow the user to accomplish the core goal? i.e., if the goal is to buy shoes, filtering the products is not part of the core goal.
+
+### 3. Design
+
+#### a. Group and sort activities and tasks.
+
+Group the user tasks to create a user story for each set of tasks. Tasks can be grouped together into one story if it makes sense.
+
+#### b. Create user flows from one part of the app to the other.
+
+Begin to think about pages / screens. How is the user going to accomplish these tasks and activities.
+
+#### c. Draw wireframes.
+
+Create wireframes that encompass the tasks and activities. Each wireframe should include the UI elements the user will need to accomplish the task/goal. Use information hierarchy to define where to place elements in relation to each other. Use convention to decide what part of a page a section should go. \(i.e., shopping cart goes in the nav bar at the top.
+
+#### d. MVP Prioritization
+
+Define the MVP given the task / feature prioritization and at this stage also take into account any technical considerations in building the MVP. If possible leave out things like user login until after the main product features are done.
 
 ## Further Reading 
 
