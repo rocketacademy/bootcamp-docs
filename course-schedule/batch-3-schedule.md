@@ -167,13 +167,13 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-4">CD8.4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-4">CD8.4</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-8-5">CD8.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-1">CD9.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-2">CD9.2</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-3">CD9.3</a>
       </td>
     </tr>
     <tr>
@@ -181,8 +181,6 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left">14-18 Jun</td>
       <td style="text-align:left">Sequelize Associations, AJAX, Webpack</td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-3">CD9.3</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-4">CD9.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-9-5">CD9.5</a>
@@ -190,6 +188,8 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-10-1">CD10.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-10-2">CD10.2</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-10-3">CD10.3</a>
       </td>
     </tr>
     <tr>
@@ -199,8 +199,6 @@ description: 12 Apr - 24 Sep
       <td
       style="text-align:left"><a href="../projects/project-3-full-stack-game.md">P3</a>
         </td>
-        <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-10-3">CD10.3</a>
-        </td>
         <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-10-4">CD10.4</a>
         </td>
         <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-10-5">CD10.5</a>
@@ -209,14 +207,14 @@ description: 12 Apr - 24 Sep
         </td>
         <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-11-2">CD11.2</a>
         </td>
+        <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-11-3">CD11.3</a>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">12</td>
       <td style="text-align:left">28 Jun - 2 Jul</td>
       <td style="text-align:left">Arrays, Sorting Algorithms, Hash Tables</td>
       <td style="text-align:left"><a href="../projects/project-3-full-stack-game.md">P3</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-11-3">CD11.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-11-4">CD11.4</a>
       </td>
@@ -226,6 +224,8 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-2">CD12.2</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-3">CD12.3</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
@@ -234,8 +234,6 @@ description: 12 Apr - 24 Sep
         <br />OOP, Stacks, Queues</td>
       <td style="text-align:left"><a href="../projects/project-3-full-stack-game.md">P3</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-3">CD12.3</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-4">CD12.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-9-12.md#course-day-12-5">CD12.5</a>
@@ -243,6 +241,8 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-1">CD13.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-2">CD13.2</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-3">CD13.3</a>
       </td>
     </tr>
     <tr>
@@ -253,8 +253,6 @@ description: 12 Apr - 24 Sep
         <p>Linked Lists, Trees</p>
       </td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-3">CD13.3</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-4">CD13.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-5">CD13.5</a>
@@ -263,6 +261,8 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-2">CD14.2</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-3">CD14.3</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">15</td>
@@ -270,15 +270,15 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left">Graphs, Heaps</td>
       <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-3">CD14.3</a>
+      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-4">CD14.4</a>
       </td>
       <td style="text-align:left"><b>PH</b>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-4">CD14.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-5">CD14.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-1">CD15.1</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-2">CD15.2</a>
       </td>
     </tr>
     <tr>
@@ -287,8 +287,6 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left">Dynamic Programming</td>
       <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-2">CD15.2</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-3">CD15.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-4">CD15.4</a>
@@ -296,6 +294,8 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-5">CD15.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-1">CD16.1</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-2">CD16.2</a>
       </td>
     </tr>
     <tr>
@@ -307,8 +307,6 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-2">CD16.2</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-3">CD16.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-4">CD16.4</a>
@@ -316,6 +314,8 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-5">CD16.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-1">CD17.1</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-2">CD17.2</a>
       </td>
     </tr>
     <tr>
@@ -326,13 +326,13 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left">-</td>
       <td style="text-align:left"><b>PH</b>
       </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-2">CD17.2</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-3">CD17.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-4">CD17.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-5">CD17.5</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-1">CD18.1</a>
       </td>
     </tr>
     <tr>
@@ -340,8 +340,6 @@ description: 12 Apr - 24 Sep
       <td style="text-align:left">16-20 Aug</td>
       <td style="text-align:left">DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-1">CD18.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-2">CD18.2</a>
       </td>
@@ -351,14 +349,14 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-5">CD18.5</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-1">CD19.1</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">20</td>
       <td style="text-align:left">23-27 Aug</td>
       <td style="text-align:left">DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-1">CD19.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-2">CD19.2</a>
       </td>
@@ -368,14 +366,14 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-5">CD19.5</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">21</td>
       <td style="text-align:left">30 Aug - 3 Sep</td>
       <td style="text-align:left">Security, Testing, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-2">CD20.2</a>
       </td>
@@ -385,14 +383,14 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-5">CD20.5</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-1">CD21.1</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">22</td>
       <td style="text-align:left">6-10 Sep</td>
       <td style="text-align:left">TDD, CI/CD, Django, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-1">CD21.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-2">CD21.2</a>
       </td>
@@ -402,14 +400,14 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-5">CD21.5</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-1">CD22.1</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">23</td>
       <td style="text-align:left">13-17 Sep</td>
       <td style="text-align:left">Machine Learning, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-1">CD22.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-2">CD22.2</a>
       </td>
@@ -419,14 +417,14 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-5">CD22.5</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-1">CD23.1</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">24</td>
       <td style="text-align:left">20-24 Sep</td>
       <td style="text-align:left">React Native, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-1">CD23.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-2">CD23.2</a>
       </td>
@@ -436,6 +434,7 @@ description: 12 Apr - 24 Sep
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-5">CD23.5</a>
       </td>
+      <td style="text-align:left">Bonus</td>
     </tr>
   </tbody>
 </table>
