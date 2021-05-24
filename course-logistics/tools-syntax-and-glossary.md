@@ -11,6 +11,10 @@
 
 Past students have found this [video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) helpful in better understanding Git and GitHub.
 
+### Linux Commands
+
+Past students have found [this video](https://www.youtube.com/watch?v=RzAkjX_9B7E) helpful in understanding Linux commands.
+
 ## CSS
 
 ### CSS Properties
