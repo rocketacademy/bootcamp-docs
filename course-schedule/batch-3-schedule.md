@@ -1,3 +1,7 @@
+---
+description: 12 Apr - 24 Sep
+---
+
 # Batch 3 Schedule
 
 ## Current Week
