@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 19 | 17-21 May | DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD18.2](course-weeks-17-20.md#course-day-18-2) | [CD18.3](course-weeks-17-20.md#course-day-18-3) | [CD18.4](course-weeks-17-20.md#course-day-18-4) | [CD18.5](course-weeks-17-20.md#course-day-18-5) | [CD19.1](course-weeks-17-20.md#course-day-19-1) |
+| 20 | 24-28 May | DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD19.2](course-weeks-17-20.md#course-day-19-2) | [CD19.3](course-weeks-17-20.md#course-day-19-3) | **PH** | [CD19.4](course-weeks-17-20.md#course-day-19-4) | [CD19.5](course-weeks-17-20.md#course-day-19-5) |
 
 ## Overall Schedule
 

@@ -1,10 +1,14 @@
+---
+description: 12 Apr - 24 Sep
+---
+
 # Batch 3 Schedule
 
 ## Current Week
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 6 | 17-21 May | SQL Associations, SQL Schema Design, User Authentication | - | [CD5.5](course-weeks-5-8.md#course-day-5-5) | [CD6.1](course-weeks-5-8.md#course-day-6-1) | [CD6.2](course-weeks-5-8.md#course-day-6-2) | [CD6.3](course-weeks-5-8.md#course-day-6-3) | [CD6.4](course-weeks-5-8.md#course-day-6-4) |
+| 7 | 24-28 May | JS Promises, Auth Middleware, JS Dates | [P2](../projects/project-2-server-side-app.md) | [CD6.5](course-weeks-5-8.md#course-day-6-5) | [CD7.1](course-weeks-5-8.md#course-day-7-1) | **PH** | [CD7.2](course-weeks-5-8.md#course-day-7-2) | [CD7.3](course-weeks-5-8.md#course-day-7-3) |
 
 ## Overall Schedule
 
