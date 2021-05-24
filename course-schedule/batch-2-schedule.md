@@ -358,15 +358,15 @@ description: 11 Jan - 25 Jun
       <td style="text-align:left">DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-3">CD19.3</a>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-2">CD19.2</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-4">CD19.4</a>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-3">CD19.3</a>
       </td>
       <td style="text-align:left"><b>PH</b>
       </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-5">CD19.5</a>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-4">CD19.4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-5">CD19.5</a>
       </td>
     </tr>
     <tr>
@@ -374,6 +374,8 @@ description: 11 Jan - 25 Jun
       <td style="text-align:left">31 May - 4 Jun</td>
       <td style="text-align:left">Security, Testing, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-2">CD20.2</a>
       </td>
@@ -383,14 +385,14 @@ description: 11 Jan - 25 Jun
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-5">CD20.5</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-1">CD21.1</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">22</td>
       <td style="text-align:left">7-11 Jun</td>
       <td style="text-align:left">TDD, CI/CD, Django, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-1">CD21.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-2">CD21.2</a>
       </td>
@@ -400,14 +402,14 @@ description: 11 Jan - 25 Jun
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-5">CD21.5</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-1">CD22.1</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">23</td>
       <td style="text-align:left">14-18 Jun</td>
       <td style="text-align:left">Machine Learning, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-1">CD22.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-2">CD22.2</a>
       </td>
@@ -417,14 +419,14 @@ description: 11 Jan - 25 Jun
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-5">CD22.5</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-1">CD23.1</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">24</td>
       <td style="text-align:left">21-25 Jun</td>
       <td style="text-align:left">React Native, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-1">CD23.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-2">CD23.2</a>
       </td>
@@ -434,7 +436,6 @@ description: 11 Jan - 25 Jun
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-5">CD23.5</a>
       </td>
-      <td style="text-align:left">Bonus</td>
     </tr>
   </tbody>
 </table>
