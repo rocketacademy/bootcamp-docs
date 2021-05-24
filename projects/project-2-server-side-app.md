@@ -84,7 +84,13 @@ Brainstorm app ideas. What problem does the app solve, for whom? How does the ap
 
 ### Ideation Phase 2
 
-Plan the app implementation. Create planning docs: a [user-flow diagram](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/), database ERD, and wireframes. Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+Plan the app implementation with the following planning docs.
+
+1. [User-flow diagram](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+2. Wireframes of minimal UIs that enable our user flows
+3. Database ERD to support our user flows and wireframes.
+
+Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
 
 ### Recommended Order of Implementation
 
