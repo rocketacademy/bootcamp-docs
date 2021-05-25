@@ -87,6 +87,7 @@ On days where we have longer post-class exercises or projects due, we will revie
    4. Does it implement a feature that you haven't started yet? How does the code work?
 4. Play with partner's code
    1. It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
+5. Open your partner's GitHub Pull Request and complete a code review on their code to help them improve.
 
 ### In Pairs
 
