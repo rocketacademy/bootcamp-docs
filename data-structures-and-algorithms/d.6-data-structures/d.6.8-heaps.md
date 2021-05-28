@@ -33,6 +33,16 @@ In summary, we should remember 3 primary operations of heaps, and how heap sort 
    2. Conversely, if the problem asks for "min K elements" we can use a max heap of size K.
 4. Heaps are not always necessary. Given a static input list, it may be faster to sort the input list and access the Kth element instead of using a heap. Heaps are most useful when we may not have the full input up front.
 
+## Sorting Algorithms
+
+In [D.7](../d.7-sorting-algorithms.md) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
+
+### Heap Sort
+
+1. `O(nlogn)` time, `O(1)` space sorting algorithm
+2. On average slower and less commonly used than Merge Sort and Quick Sort
+3. [https://www.geeksforgeeks.org/heap-sort/](https://www.geeksforgeeks.org/heap-sort/)
+
 ## Exercises
 
 Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.html) to utilise heaps in code.

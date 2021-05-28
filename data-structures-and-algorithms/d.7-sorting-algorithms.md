@@ -41,6 +41,10 @@ There is no need to memorise the below sorting algorithms' implementation. Just 
 
 ## `O(nlogn)` Time, Constant Space Sorting Algorithms
 
+{% hint style="warning" %}
+We haven't covered the heap data structure yet. We'll look at this again when we cover heaps, but this is one example of a sorting algorithm that runs in `O(nlogn)` time.
+{% endhint %}
+
 ### Heap Sort
 
 1. `O(nlogn)` time, `O(1)` space sorting algorithm
