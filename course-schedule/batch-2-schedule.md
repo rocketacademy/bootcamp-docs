@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 20 | 24-28 May | DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD19.2](course-weeks-17-20.md#course-day-19-2) | [CD19.3](course-weeks-17-20.md#course-day-19-3) | **PH** | [CD19.4](course-weeks-17-20.md#course-day-19-4) | [CD19.5](course-weeks-17-20.md#course-day-19-5) |
+| 21 | 31 May - 4 Jun | Security, Testing, DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD20.1](course-weeks-17-20.md#course-day-20-1) | [CD20.2](course-weeks-17-20.md#course-day-20-2) | [CD20.3](course-weeks-17-20.md#course-day-20-3) | [CD20.4](course-weeks-17-20.md#course-day-20-4) | [CD20.5](course-weeks-17-20.md#course-day-20-5) |
 
 ## Overall Schedule
 

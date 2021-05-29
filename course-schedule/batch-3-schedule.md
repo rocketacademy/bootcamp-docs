@@ -8,7 +8,7 @@ description: 12 Apr - 24 Sep
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 7 | 24-28 May | JS Promises, Auth Middleware, JS Dates | [P2](../projects/project-2-server-side-app.md) | [CD6.5](course-weeks-5-8.md#course-day-6-5) | [CD7.1](course-weeks-5-8.md#course-day-7-1) | **PH** | [CD7.2](course-weeks-5-8.md#course-day-7-2) | [CD7.3](course-weeks-5-8.md#course-day-7-3) |
+| 22 | 6-10 Sep | TDD, CI/CD, Django, DSAOP | [P6](../projects/project-6-capstone.md) | [CD21.2](course-weeks-21-23.md#course-day-21-2) | [CD21.3](course-weeks-21-23.md#course-day-21-3) | [CD21.4](course-weeks-21-23.md#course-day-21-4) | [CD21.5](course-weeks-21-23.md#course-day-21-5) | [CD22.1](course-weeks-21-23.md#course-day-22-1) |
 
 ## Overall Schedule
 
