@@ -8,7 +8,7 @@ description: 12 Apr - 24 Sep
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 22 | 6-10 Sep | TDD, CI/CD, Django, DSAOP | [P6](../projects/project-6-capstone.md) | [CD21.2](course-weeks-21-23.md#course-day-21-2) | [CD21.3](course-weeks-21-23.md#course-day-21-3) | [CD21.4](course-weeks-21-23.md#course-day-21-4) | [CD21.5](course-weeks-21-23.md#course-day-21-5) | [CD22.1](course-weeks-21-23.md#course-day-22-1) |
+| 8 | 31 May - 4 Jun | - | [P2](../projects/project-2-server-side-app.md) | [CD7.4](course-weeks-5-8.md#course-day-7-4) | [CD7.5](course-weeks-5-8.md#course-day-7-5) | [CD8.1](course-weeks-5-8.md#course-day-8-1) | [CD8.2](course-weeks-5-8.md#course-day-8-2) | [CD8.3](course-weeks-5-8.md#course-day-8-3) |
 
 ## Overall Schedule
 
