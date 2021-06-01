@@ -179,7 +179,8 @@
 #### Pre-Class
 
 * [0.8: JS Promises](../0-language-and-tooling/0.8-js-promises/)
-* [3.4.9: pg Promises](../3-backend-applications/3.4-sql-applications/3.4.9-pg-promises.md)
+* [3.4.7: pg Promises](../3-backend-applications/3.4-sql-applications/3.4.7-pg-promises.md)
+* [3.4.8: SQL Clients](../3-backend-applications/3.4-sql-applications/3.4.8-sql-clients.md)
 
 #### In-Class
 
@@ -193,7 +194,7 @@
 
 #### Pre-Class
 
-* [3.4.7: Database Setup Files](../3-backend-applications/3.4-sql-applications/3.4.7-database-setup-files.md)
+* [3.4.9: Database Setup Files](../3-backend-applications/3.4-sql-applications/3.4.9-database-setup-files.md)
 * [3.5.5: Custom Middleware for Authentication](../3-backend-applications/3.5-authentication/3.5.5-custom-middleware-for-authentication.md)
 
 #### In-Class
@@ -210,7 +211,7 @@
 
 #### Pre-Class
 
-* [3.4.8: Dates in SQL and JS](../3-backend-applications/3.4-sql-applications/3.4.8-sql-+-js-dates.md)
+* [3.4.10: Dates in SQL and JS](../3-backend-applications/3.4-sql-applications/3.4.10-dates-in-sql-and-js.md)
 
 #### In-Class
 
@@ -244,7 +245,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.12: Instagram DB](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
+* [3.ICE.12: DB Schema Design - Instagram](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
 
 #### Post-Class
 
