@@ -177,7 +177,7 @@
   * [3.4.7: Database Setup Files](3-backend-applications/3.4-sql-applications/3.4.7-database-setup-files.md)
   * [3.4.8: Dates in SQL and JS](3-backend-applications/3.4-sql-applications/3.4.8-sql-+-js-dates.md)
   * [3.4.9: pg Promises](3-backend-applications/3.4-sql-applications/3.4.9-pg-promises.md)
-  * [3.4.10: PGAdmin](3-backend-applications/3.4-sql-applications/3.4.10-pgadmin.md)
+  * [3.4.10: SQL Clients](3-backend-applications/3.4-sql-applications/3.4.10-pgadmin.md)
   * [3.4.11: File Uploads](3-backend-applications/3.4-sql-applications/3.4.11-file-uploads.md)
 * [3.5: Authentication](3-backend-applications/3.5-authentication/README.md)
   * [3.5.1: Cookies](3-backend-applications/3.5-authentication/3.5.1-cookies.md)
