@@ -324,7 +324,7 @@
   * [8.ICE.1: useContext](8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 * [8.POCE: Post-Class Exercises](8-advanced-react/8.poce-post-class-exercises/README.md)
   * [8.POCE.1: Car Rental](8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-  * [8.POCE.2: Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+  * [8.POCE.2: \(Group Project\) Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 
 ## 9️⃣ Advanced Topics
 
