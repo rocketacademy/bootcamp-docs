@@ -231,6 +231,7 @@
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [3.ICE.12: DB Schema Design - Instagram](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
 
 #### Post-Class
 
@@ -245,7 +246,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.12: DB Schema Design - Instagram](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
+* [1.ICE.8: CSS Practice 2 - Restaurant](../1-frontend-basics/1.ice-in-class-exercises/1.ice.8-css-practice-2-restaurant.md)
 
 #### Post-Class
 
@@ -266,7 +267,11 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.8: CSS Practice 2 - Restaurant](../1-frontend-basics/1.ice-in-class-exercises/1.ice.8-css-practice-2-restaurant.md)
+* Project 2 Pair Programming and Mid-Point Peer Review
+  * ~45 minutes on each partner's project
+  * Share any challenges you've faced on your project
+  * Partners can critique each others' work and clarify gaps in knowledge
+  * By the end, students should have a clear idea on what improvements to make by project deadline.
 
 #### Post-Class
 
