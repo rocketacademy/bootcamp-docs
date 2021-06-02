@@ -112,7 +112,7 @@
 
 #### Post-Class
 
-* [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
@@ -139,7 +139,7 @@
 
 #### Post-Class
 
-* [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [CP.2: Resume](../career-prep/cp.2-resume.md)
 * [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [CP.4: Job List](../career-prep/cp.4-job-list.md)
@@ -163,7 +163,7 @@
 
 #### Post-Class
 
-* [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 5](../data-structures-and-algorithms/d.12-open-practice.md#day-5)
 
@@ -183,7 +183,7 @@ None
 
 #### Post-Class
 
-* [8.POCE.2: Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 * [DS&A Open Practice: Day 6](../data-structures-and-algorithms/d.12-open-practice.md#day-6)
 
