@@ -28,7 +28,7 @@ In general we'll also see that in order to exploit any security vulnerability th
 
 ### Sample App
 
-For all the examples we'll be using this deployed express app: [https://blooming-cliffs-44482.herokuapp.com/](https://blooming-cliffs-44482.herokuapp.com/)
+For all the examples we'll be using this deployed express app: [https://express-security-bootcamp.herokuapp.com/](https://express-security-bootcamp.herokuapp.com/)
 
 The code for this app is here: [https://github.com/rocketacademy/express-security-bootcamp](https://github.com/rocketacademy/express-security-bootcamp)
 
