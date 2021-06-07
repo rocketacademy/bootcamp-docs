@@ -169,7 +169,7 @@
 #### Post-Class
 
 * [3.POCE.9: Bird Watching Comments](../3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
-* [3.POCE.10: Deployment](../3-backend-applications/3.poce-post-class-exercises/3.poce.10-deployment.md)
+* [3.POCE.10: EC2 Deployment with Postgres](../3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ## Course Week 7

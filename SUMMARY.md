@@ -213,7 +213,8 @@
   * [3.POCE.7: Bird Watching Species](3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
   * [3.POCE.8: Bird Watching Behaviour](3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
   * [3.POCE.9: Bird Watching Comments](3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
-  * [3.POCE.10: Deployment](3-backend-applications/3.poce-post-class-exercises/3.poce.10-deployment.md)
+  * [3.POCE.10: EC2 Deployment with Postgres](3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md)
+  * [3.POCE.11: Heroku Deployment](3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment.md)
 
 ## 4️⃣ Backend Structure
 
@@ -233,7 +234,6 @@
   * [4.2.1: RESTful Routes](4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 * [4.ICE: In-Class Exercises](4-backend-structure/4.ice-in-class-exercises.md)
 * [4.POCE: Post-Class Exercises](4-backend-structure/4.poce-post-class-exercises/README.md)
-  * [4.POCE.1: Heroku Deploy](4-backend-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
   * [4.POCE.2: Sequelize CLI - Travel Itinerary](4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
   * [4.POCE.3: Project 2 MVC Refactor](4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
   * [4.POCE.4: Drummers for Hire](4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)

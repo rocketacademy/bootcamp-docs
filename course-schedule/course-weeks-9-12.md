@@ -8,7 +8,11 @@
 
 #### Pre-Class
 
-* * [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
+* [3.6: Heroku](../3-backend-applications/3.6-heroku/)
+* [3.6.1: Heroku Deploy](../3-backend-applications/3.6-heroku/3.6.1-heroku-deploy.md)
+* [3.6.2: Heroku Postgres](../3-backend-applications/3.6-heroku/3.6.2-heroku-postgres.md)
+* [3.6.3: Heroku S3](../3-backend-applications/3.6-heroku/3.6.3-heroku-s3.md)
+* [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
 * [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
 
 #### In-Class
@@ -17,7 +21,7 @@
 
 #### Post-Class
 
-* [4.POCE.1: Heroku Deploy](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-heroku-deploy.md)
+* [3.POCE.11: Heroku Deployment](../3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment.md)
 * [Project 2 Demo Video](../projects/project-2-server-side-app.md#video-demo)
 
 ### Course Day 9.2
