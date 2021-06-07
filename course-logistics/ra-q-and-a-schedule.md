@@ -16,6 +16,10 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 23 Jun 2021 | 3-4pm | [Aurelia Lim](https://www.linkedin.com/in/aurelia-l-824078140/) \(video\) | Software Engineer at Accredify |
+| Wed | 16 Jun 2021 | 3-4pm | [Gibson Tang](https://www.linkedin.com/in/gibsontang/) \(video\) | Engineering Lead at Lenskart |
+| Wed | 9 Jun 2021 | 3-4pm | [Foong Leung](https://www.linkedin.com/in/foong-leung-76171758/) \(video\) | Software Engineer at Binery |
+| Wed | 2 Jun 2021 | 5-6pm | [Toon Pang Ong](https://www.linkedin.com/in/ongtoonpang/) \(video\) | Senior Consultant at Ufinity |
 | Wed | 19 May 2021 | 3-4pm | [Joel Kek](https://www.linkedin.com/in/joelkek/) \(video\) | Software Engineer at GovTech Singapore |
 | Wed | 12 May 2021 | 6-7pm | [Erik Khanh Nguyen](https://www.linkedin.com/in/erikng/) \(video\) | Senior Software Engineer at Endowus |
 | Wed | 5 May 2021 | 3-4pm | [Sunny Singh](https://www.linkedin.com/in/sstrgh/) \(video\) | Technical Consultant at Mission Plus |
