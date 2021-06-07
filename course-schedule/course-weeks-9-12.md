@@ -16,7 +16,6 @@
 #### In-Class
 
 * [Project 2 Redux \(Peer Code Review\)](../course-logistics/course-methodology.md#peer-code-review)
-* [3.ICE.13: DB Schema Design - Airbnb](../3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-airbnb.md)
 
 #### Post-Class
 
@@ -33,7 +32,7 @@
 
 #### In-Class
 
-* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
+* [3.ICE.13: DB Schema Design - Airbnb](../3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-airbnb.md)
 
 #### Post-Class
 
@@ -52,6 +51,19 @@
 * [0.8.2: Promise.catch, Promise.all](../0-language-and-tooling/0.8-js-promises/0.8.2-promise.catch-promise.all.md)
 * [0.8.3: Async/Await](../0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
 * [4.1.3: Async/Await with Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
+
+#### In-Class
+
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md) \(Pair Programming\)
+
+#### Post-Class
+
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
+
+### Course Day 9.4
+
+#### Pre-Class
+
 * [4.2: MVC](../4-backend-structure/4.2-mvc/)
 * [4.2.1: RESTful Routes](../4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 
@@ -63,7 +75,7 @@
 
 * [4.POCE.2: Drummers for Hire](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
 
-### Course Day 9.4
+### Course Day 9.5
 
 #### Pre-Class
 
@@ -73,19 +85,6 @@
 
 * [4.POCE.3: Project 2 MVC Refactor](../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-#### Post-Class
-
-* [4.POCE.2: Drummers for Hire](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
-* [4.POCE.3: Project 2 MVC Refactor](../4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
-
-### Course Day 9.5
-
-#### Pre-Class
-
-* 
-#### In-Class
-
-* 
 #### Post-Class
 
 * [4.POCE.2: Drummers for Hire](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
