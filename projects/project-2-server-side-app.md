@@ -68,7 +68,7 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 | CD6.5 | Deadline to post project ideas in Slack |
 | CD7.1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
 | CD7.2 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructor to provide planning doc review over Slack, and discuss 1-1 with students if necessary. |
-| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze.  |
+| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Conduct Mid-Point Peer Review in class. Please deploy your app to AWS before feature freeze.  |
 | CD8.4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. Instructor to complete code review for feedback. |
 | CD8.5 | Project presentations. 30-minute post-mortem with instructor. |
 | CD9.1 | Project redux exercise |
@@ -95,6 +95,13 @@ Implement the core user story first. What are users coming to your app to do? Ma
 1. CRUD functionality
 2. Login functionality
 3. Any stretch functionality, e.g. AI APIs or file uploading
+
+### Mid-Point Peer Review \(In-Class\)
+
+1. ~45 minutes on each partner's project \(~30 minutes if in a group of 3\)
+2. Share any challenges you've faced on your project
+3. Partners can critique each others' work and clarify gaps in knowledge
+4. By the end, students should have a clear idea on what improvements to make by project deadline.
 
 ### Refactoring
 

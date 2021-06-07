@@ -267,11 +267,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* Project 2 Pair Programming and Mid-Point Peer Review
-  * ~45 minutes on each partner's project
-  * Share any challenges you've faced on your project
-  * Partners can critique each others' work and clarify gaps in knowledge
-  * By the end, students should have a clear idea on what improvements to make by project deadline.
+* [Project 2 Mid-Point Peer Review](../projects/project-2-server-side-app.md#mid-point-peer-review-in-class)
 
 #### Post-Class
 
