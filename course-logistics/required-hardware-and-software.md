@@ -5,6 +5,11 @@
 1. If you haven't already, ensure you have [Required Hardware and Software](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software) from Coding Basics.
 2. Please install the latest version of Windows or MacOS that your computer supports. This is so that students have the same and latest operating system features as much as possible.
 
+## VSCode Extensions
+
+1. Install VSCode's [Open in Browser extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make it easier to open HTML files in our browser from VSCode.
+2. Install VSCode's [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to enable our HTML files to auto-reload in the browser when we make changes to the files.
+
 ## Windows
 
 ### Windows Subsystem for Linux \(WSL\)
@@ -99,10 +104,6 @@ Homebrew is a package manager for MacOS that allows developers to have a single 
 Homebrew typically manages OS-specific packages and not application-specific packages. Application-specific packages are typically managed by application-level package managers such as `npm` or `pip`. Application-specific packages are packages that are typically bundled and deployed together with an application, regardless of where those applications are running.
 
 Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
-
-### VS Code - Open in Browser
-
-Add [this extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make opening the `index.html` file easier.
 
 ## Folder Organisation 
 
