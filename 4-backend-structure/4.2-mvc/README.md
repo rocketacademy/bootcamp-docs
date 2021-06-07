@@ -1,4 +1,4 @@
-# 4.3: MVC
+# 4.2: MVC
 
 ## Introduction
 
@@ -41,7 +41,7 @@ We'll create an example grocery app with a single model.
 
 ## Setup Packages and Folders, Configure DB
 
-Set up Sequelize with a new Node application and configure the DB in the same way we did in [Module 4.2.1: Intro to Sequelize](../4.2-sequelize/4.2.1-intro-to-sequelize.md#setup-packages-and-folders). Update `config.js` to use a new DB name, `grocerymvc_development` instead of `grocery_development` to distinguish the DB from modules 4.2.1's. Stop after creating the DB and follow the steps below to create an app with MVC architecture.
+Set up Sequelize with a new Node application and configure the DB in the same way we did in [Module 4.2.1: Intro to Sequelize](../4.1-orm-sequelize/4.1.1-intro-to-sequelize.md#setup-packages-and-folders). Update `config.js` to use a new DB name, `grocerymvc_development` instead of `grocery_development` to distinguish the DB from modules 4.2.1's. Stop after creating the DB and follow the steps below to create an app with MVC architecture.
 
 ## Migrations: Create Items Table
 

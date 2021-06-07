@@ -8,12 +8,12 @@
 
 #### Pre-Class
 
-* [4.2: ORM, Sequelize](../4-backend-structure/4.2-sequelize/)
-* [4.2.1: Intro to Sequelize](../4-backend-structure/4.2-sequelize/4.2.1-intro-to-sequelize.md)
+* * [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
+* [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
 
 #### In-Class
 
-* [4.ICE.1: Project 2 Redux](../4-backend-structure/4.ice-in-class-exercises/4.ice.1-project-2-redux.md)
+* [Project 2 Redux \(Peer Code Review\)](../course-logistics/course-methodology.md#peer-code-review)
 
 #### Post-Class
 
@@ -43,7 +43,7 @@
 #### Pre-Class
 
 * [0.8.2: Promise.catch, Promise.all](../0-language-and-tooling/0.8-js-promises/0.8.2-promise.catch-promise.all.md)
-* [4.2.2: Sequelize One-to-Many](../4-backend-structure/4.2-sequelize/4.2.2-sequelize-one-to-many-relationships.md)
+* [4.1.2: Sequelize One-to-Many](../4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships.md)
 
 #### In-Class
 
@@ -58,9 +58,9 @@
 #### Pre-Class
 
 * [0.8.3: Async/Await](../0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
-* [4.2.3: Async/Await with Sequelize](../4-backend-structure/4.2-sequelize/4.2.3-async-await-with-sequelize.md)
-* [4.3: MVC](../4-backend-structure/4.3-mvc/)
-* [4.3.1: REST](../4-backend-structure/4.3-mvc/4.3.1-restful-routes.md)
+* [4.1.3: Async/Await with Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
+* [4.2: MVC](../4-backend-structure/4.2-mvc/)
+* [4.2.1: RESTful Routes](../4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 
 #### In-Class
 
@@ -74,7 +74,7 @@
 
 #### Pre-Class
 
-* [4.2.4: Sequelize Many-to-Many](../4-backend-structure/4.2-sequelize/4.2.4-sequelize-many-to-many.md)
+* [4.1.4: Sequelize Many-to-Many](../4-backend-structure/4.1-orm-sequelize/4.1.4-sequelize-many-to-many.md)
 
 #### In-Class
 
@@ -93,7 +93,7 @@
 #### Pre-Class
 
 * [5.1: Browser DOM JS](../5-full-stack-applications/5.1-dom-manipulation.md)
-* [4.2.5: Sequelize Many-to-Many with "Through Table" Attributes](../4-backend-structure/4.2-sequelize/4.2.5-sequelize-many-to-many-with-through-table.md)
+* [4.1.5: Sequelize Many-to-Many with "Through Table" Attributes](../4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-through-table.md)
 
 #### In-Class
 
@@ -108,7 +108,7 @@
 #### Pre-Class
 
 * [5.2: AJAX](../5-full-stack-applications/5.2-ajax/)
-* [4.2.6 Sequelize Validations](../4-backend-structure/4.2-sequelize/4.2.6-sequelize-validations.md)
+* [4.1.6 Sequelize Validations](../4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
 
 #### In-Class
 
@@ -122,7 +122,7 @@
 
 #### Pre-Class
 
-* [4.2.7: Sequelize Eager Loading](../4-backend-structure/4.2-sequelize/4.2.7-sequelize-eager-loading.md)
+* [4.1.7: Sequelize Eager Loading](../4-backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading.md)
 * [5.2.1: AJAX POST](../5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 #### In-Class
@@ -137,7 +137,7 @@
 
 #### Pre-Class
 
-* [4.2.8: Sequelize Self-Referencing Columns](../4-backend-structure/4.2-sequelize/4.2.8-sequelize-self-referencing-table-columns.md)
+* [4.1.8: Sequelize Self-Referencing Columns](../4-backend-structure/4.1-orm-sequelize/4.1.8-sequelize-self-referencing-table-columns.md)
 * [D.1: Intro to SWE Interviews](../data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
 * [D.2: Intro to Python \(Exercises 1-8\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
 
