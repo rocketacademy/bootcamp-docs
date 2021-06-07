@@ -295,10 +295,6 @@ None
 
 ### Course Day 8.3
 
-#### Due
-
-* Project 2 Feature Freeze
-
 #### Pre-Class
 
 None
@@ -313,6 +309,10 @@ None
 * [Project 2 Implementation](../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 ### Course Day 8.4
+
+#### Due
+
+* Project 2 Feature Freeze
 
 #### Pre-Class
 

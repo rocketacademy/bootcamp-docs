@@ -10,16 +10,16 @@ As much as possible, create milestones so you know whether you are on track, and
 
 Your app must have the following requirements.
 
-* Render HTML
-* Use CSS
-* Serve webpages with Express.js and EJS
-* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
-* At least 3 SQL tables
-* At least 1 one-to-many and 1 many-to-many SQL relationship
-* Username and password login
-* Session authentication for login-only pages
+1. Render HTML
+2. Use CSS
+3. Serve webpages with Express.js and EJS
+4. At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+5. At least 3 SQL tables
+6. At least 1 one-to-many and 1 many-to-many SQL relationship
+7. Username and password login
+8. Session authentication for login-only pages
 
-Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. You are free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
+To start, create a new repo without cloning any other repo. Feel free to copy any starter code you would like. Your app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. Feel free to use any 3rd-party APIs available on the internet, e.g. NPM libraries.
 
 You are responsible for any seed data your app would need to run. The final version of your app must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
 
@@ -58,10 +58,6 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 * [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
 * [Data.gov.sg APIs](https://data.gov.sg/)
 
-### Repo
-
-Create your own repo from scratch. Do not clone from any other repo. \(You can use any starter code that you want, though\).
-
 ## Project Timeline
 
 ### Summary
@@ -71,10 +67,10 @@ Create your own repo from scratch. Do not clone from any other repo. \(You can u
 | CD6.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
 | CD6.5 | Deadline to post project ideas in Slack |
 | CD7.1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
-| CD7.2 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
-| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze. 30-minute mid-point check-in with instructor. |
-| CD8.3 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback. |
-| CD8.5 | Project presentations. 60-minute post-mortem with instructor. |
+| CD7.2 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructor to provide planning doc review over Slack, and discuss 1-1 with students if necessary. |
+| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to AWS before feature freeze.  |
+| CD8.4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. Instructor to complete code review for feedback. |
+| CD8.5 | Project presentations. 30-minute post-mortem with instructor. |
 | CD9.1 | Project redux exercise |
 | CD9.3 | Project video due |
 
@@ -108,7 +104,7 @@ We will be learning more ways to decompose our Express apps into logical files a
 
 Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
 
-## Video Demo
+### Video Demo
 
 Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it. The video should not go into any technical details that would be incomprehensible to someone non-technical.
 
@@ -126,6 +122,8 @@ Use zoom to record the video locally on your computer. It will record you and yo
 
 * Upload it to YouTube. Embed the video in your project README.md file.
 * Put the video file in your project repo and commit the file.
+
+## General Tips
 
 ### Separating Logic and UI Concerns
 
