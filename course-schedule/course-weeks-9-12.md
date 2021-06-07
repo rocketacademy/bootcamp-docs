@@ -12,8 +12,6 @@
 * [3.6.1: Heroku Deploy](../3-backend-applications/3.6-heroku/3.6.1-heroku-deploy.md)
 * [3.6.2: Heroku Postgres](../3-backend-applications/3.6-heroku/3.6.2-heroku-postgres.md)
 * [3.6.3: Heroku S3](../3-backend-applications/3.6-heroku/3.6.3-heroku-s3.md)
-* [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
-* [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
 
 #### In-Class
 
@@ -29,6 +27,8 @@
 #### Pre-Class
 
 * [0.8.1: Try Catch](../0-language-and-tooling/0.8-js-promises/0.8.1-try-catch.md)
+* [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
+* [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
 
 #### In-Class
 
