@@ -12,8 +12,6 @@
 * [3.6.1: Heroku Deploy](../3-backend-applications/3.6-heroku/3.6.1-heroku-deploy.md)
 * [3.6.2: Heroku Postgres](../3-backend-applications/3.6-heroku/3.6.2-heroku-postgres.md)
 * [3.6.3: Heroku S3](../3-backend-applications/3.6-heroku/3.6.3-heroku-s3.md)
-* [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
-* [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
 
 #### In-Class
 
@@ -28,7 +26,9 @@
 
 #### Pre-Class
 
-* [0.8.1: Try Catch](../0-language-and-tooling/0.8-js-promises/0.8.1-try-catch.md)
+* [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
+* [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
+* [4.1.2: Sequelize One-to-Many](../4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships.md)
 
 #### In-Class
 
@@ -36,6 +36,7 @@
 
 #### Post-Class
 
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
 * [Project 2 Demo Video](../projects/project-2-server-side-app.md#video-demo)
 
 ### Course Day 9.3
@@ -46,33 +47,33 @@
 
 #### Pre-Class
 
+* [0.8.1: Try Catch](../0-language-and-tooling/0.8-js-promises/0.8.1-try-catch.md)
 * [0.8.2: Promise.catch, Promise.all](../0-language-and-tooling/0.8-js-promises/0.8.2-promise.catch-promise.all.md)
-* [4.1.2: Sequelize One-to-Many](../4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships.md)
+* [0.8.3: Async/Await](../0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
+* [4.1.3: Async/Await with Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
 
 #### In-Class
 
-* [4.POCE.2: Sequelize CLI](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md) \(Pair Programming\)
 
 #### Post-Class
 
-* [4.POCE.2: Sequelize CLI](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
 
 ### Course Day 9.4
 
 #### Pre-Class
 
-* [0.8.3: Async/Await](../0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
-* [4.1.3: Async/Await with Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
 * [4.2: MVC](../4-backend-structure/4.2-mvc/)
 * [4.2.1: RESTful Routes](../4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 
 #### In-Class
 
-* [4.POCE.4: Drummers](../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
+* [4.POCE.2: Drummers for Hire](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
 
 #### Post-Class
 
-* [4.POCE.4: Drummers](../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
+* [4.POCE.2: Drummers for Hire](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
 
 ### Course Day 9.5
 
@@ -86,7 +87,7 @@
 
 #### Post-Class
 
-* [4.POCE.4: Drummers](../4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
+* [4.POCE.2: Drummers for Hire](../4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
 
 ## Module 5: Full-Stack Applications
 
@@ -165,7 +166,7 @@
 
 #### In-Class
 
-* [Bug Reports \(5.POCE.1, 5.POCE.2\) Redux](../course-logistics/course-methodology.md#peer-code-review)
+* [Bug Reports \(5.POCE.1, 5.POCE.2\) Redux](../course-logistics/course-methodology.md#peer-code-review) \(Peer Code Review\)
 
 #### Post-Class
 

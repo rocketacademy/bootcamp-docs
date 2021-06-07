@@ -234,9 +234,9 @@
   * [4.2.1: RESTful Routes](4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 * [4.ICE: In-Class Exercises](4-backend-structure/4.ice-in-class-exercises.md)
 * [4.POCE: Post-Class Exercises](4-backend-structure/4.poce-post-class-exercises/README.md)
-  * [4.POCE.2: Sequelize CLI - Travel Itinerary](4-backend-structure/4.poce-post-class-exercises/4.poce.2-sequelize-cli.md)
+  * [4.POCE.1: Sequelize CLI App - Travel Itinerary](4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
+  * [4.POCE.2: Drummers for Hire](4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
   * [4.POCE.3: Project 2 MVC Refactor](4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
-  * [4.POCE.4: Drummers for Hire](4-backend-structure/4.poce-post-class-exercises/4.poce.4-drummers-for-hire.md)
 
 ## 5️⃣ Full-Stack Applications
 
