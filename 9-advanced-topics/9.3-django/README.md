@@ -94,6 +94,8 @@ You can see the environment has been set at this variable:
 echo $VIRTUAL_ENV
 ```
 
+Note that this system is setup for managing multiple Python environments, but we'll only need one for this demo. In other situations you would give a more specific name to your virtual env.
+
 ### Further Reading
 
 [https://pypi.org/](https://pypi.org/)
@@ -115,7 +117,7 @@ pip3 install django
 Now we can create a "project". This would be the top level of our repository, the set of code we'll begin working on.
 
 ```bash
-django-admin startproject my_ra_django_cats
+django-admin startproject my_ra_django_project
 ```
 
 ```bash
@@ -201,7 +203,7 @@ def index(request):
 
 urls.py is similar to routes.js in the Express.js MVC framework we created. It contains the route matching strings and the view functions that will get called when a request matches that URL.
 
-There are actually 2 urls.py files, and we need to alter both in order for a request to get to our app. Django looks at the project level urls.py first.
+There are actually 2 urls.py files, and we need to alter both in order for a request to get to our app. Django looks at the project level `urls.py` first.
 
 **my\_ra\_django\_project/urls.py**
 
@@ -214,6 +216,8 @@ urlpatterns = [
     path('', include('my_ra_django_app.urls')),
 ]
 ```
+
+Create a urls file in the app as well:
 
 **my\_ra\_django\_app/urls.py**
 
@@ -292,6 +296,10 @@ DATABASES = {
 ```
 
 Now we can use Django to alter the database.
+
+{% hint style="danger" %}
+**11/6/2021**: On new M1 Apple products there may be some issues compiling the `psycopg2` library on ARM. See this thread: [https://github.com/psycopg/psycopg2/issues/1216](https://github.com/psycopg/psycopg2/issues/1216)
+{% endhint %}
 
 ### Default Tables
 
@@ -394,9 +402,6 @@ Seed data works similarly to Sequelize seed data. There are a few choices for fo
       "name": "Alexander"
     }
   },
-
-
-
   {
     "model": "my_ra_django_app.cat",
     "pk": 1,
