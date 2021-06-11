@@ -42,6 +42,12 @@ virtualenv is the library we'll use to manage the Python language version and de
 pip3 install virtualenvwrapper
 ```
 
+#### Windows
+
+```bash
+sudo pip3 install virtualenvwrapper
+```
+
 After we install virtualenv we have to set some configurations on the terminal.
 
 #### virtualenv terminal example configs
@@ -50,13 +56,17 @@ After we install virtualenv we have to set some configurations on the terminal.
 export WORKON_HOME=$HOME/.virtualenvs
 export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
 export VIRTUALENVWRAPPER_VIRTUALENV_ARGS=' -p /usr/local/bin/python3 '
-export PROJECT_HOME=$HOME/code/django-projects
+export PROJECT_HOME=$HOME/code/django
 source /usr/local/bin/virtualenvwrapper.sh
 ```
 
 #### virtualenv terminal config template
 
 Replace your own values in the template.
+
+Create a folder for all the Django work you'll do. \(`<DJANGO_PROJECTS_PATH>`\)
+
+To find your Python path: `which python`
 
 ```bash
 export WORKON_HOME=$HOME/.virtualenvs
@@ -75,7 +85,7 @@ Don't forget to run the `source` command on the config file after you've saved i
 Once the terminal has been configured we can create the environment for Django.
 
 ```bash
-mkvirtualenv my_ra_django_app
+mkvirtualenv my_ra_django_env
 ```
 
 You can see the environment has been set at this variable:
@@ -105,7 +115,7 @@ pip3 install django
 Now we can create a "project". This would be the top level of our repository, the set of code we'll begin working on.
 
 ```bash
-django-admin startproject my_ra_django_project
+django-admin startproject my_ra_django_cats
 ```
 
 ```bash
@@ -480,7 +490,7 @@ In Django, the files that produce HTML are called templates. First we need to cr
 mkdir my_ra_django_app/templates
 ```
 
-#### ra\_django\_app/template/base.html
+#### my\_ra\_django\_app/template/base.html
 
 We can create a partial template for things like the HTML `body` and `head`.
 
@@ -499,7 +509,7 @@ We can create a partial template for things like the HTML `body` and `head`.
 </html>
 ```
 
-#### ra\_django\_app/template/owners.html
+#### my\_ra\_django\_app/template/owners.html
 
 Now we can output the data we passed into the render method above:
 
