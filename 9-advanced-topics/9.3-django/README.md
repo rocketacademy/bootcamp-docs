@@ -371,6 +371,20 @@ Seed data works similarly to Sequelize seed data. There are a few choices for fo
 ```javascript
 [
   {
+    "model": "my_ra_django_app.owner",
+    "pk": 1,
+    "fields": {
+      "name": "Kai"
+    }
+  },
+  {
+    "model": "my_ra_django_app.owner",
+    "pk": 2,
+    "fields": {
+      "name": "Alexander"
+    }
+  },
+  {
     "model": "my_ra_django_app.cat",
     "pk": 1,
     "fields": {
