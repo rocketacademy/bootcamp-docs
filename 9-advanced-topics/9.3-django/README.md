@@ -384,12 +384,16 @@ Seed data works similarly to Sequelize seed data. There are a few choices for fo
       "name": "Alexander"
     }
   },
+
+
+
   {
     "model": "my_ra_django_app.cat",
     "pk": 1,
     "fields": {
       "name": "John",
-      "weight": 123
+      "weight": 123,
+      "owner_id":1
     }
   },
   {
@@ -397,7 +401,8 @@ Seed data works similarly to Sequelize seed data. There are a few choices for fo
     "pk": 2,
     "fields": {
       "name": "Paul",
-      "weight": 999
+      "weight": 999,
+      "owner_id":1
     }
   }
 ]
