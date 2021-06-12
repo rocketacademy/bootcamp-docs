@@ -8,7 +8,7 @@ description: 12 Apr - 24 Sep
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9 | 7-11 Jun | Sequelize ORM, MVC | [P2](../projects/project-2-server-side-app.md) | [CD8.4](course-weeks-5-8.md#course-day-8-4) | [CD8.5](course-weeks-5-8.md#course-day-8-5) | [CD9.1](course-weeks-9-12.md#course-day-9-1) | [CD9.2](course-weeks-9-12.md#course-day-9-2) | [CD9.3](course-weeks-9-12.md#course-day-9-3) |
+| 10 | 14-18 Jun | Sequelize Associations, AJAX, Webpack | - | [CD9.4](course-weeks-9-12.md#course-day-9-4) | [CD9.5](course-weeks-9-12.md#course-day-9-5) | [CD10.1](course-weeks-9-12.md#course-day-10-1) | [CD10.2](course-weeks-9-12.md#course-day-10-2) | [CD10.3](course-weeks-9-12.md#course-day-10-3) |
 
 ## Overall Schedule
 

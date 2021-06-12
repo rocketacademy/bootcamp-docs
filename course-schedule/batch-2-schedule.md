@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 22 | 7-11 Jun | TDD, CI/CD, Django, DSAOP | [P6](../projects/project-6-capstone.md) | [CD21.1](course-weeks-21-23.md#course-day-21-1) | [CD21.2](course-weeks-21-23.md#course-day-21-2) | [CD21.3](course-weeks-21-23.md#course-day-21-3) | [CD21.4](course-weeks-21-23.md#course-day-21-4) | [CD21.5](course-weeks-21-23.md#course-day-21-5) |
+| 23 | 14-18 Jun | Machine Learning, DSAOP | [P6](../projects/project-6-capstone.md) | [CD22.1](course-weeks-21-23.md#course-day-22-1) | [CD22.2](course-weeks-21-23.md#course-day-22-2) | [CD22.3](course-weeks-21-23.md#course-day-22-3) | [CD22.4](course-weeks-21-23.md#course-day-22-4) | [CD22.5](course-weeks-21-23.md#course-day-22-5) |
 
 ## Overall Schedule
 
