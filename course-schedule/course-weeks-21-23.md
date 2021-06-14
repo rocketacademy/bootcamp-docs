@@ -126,8 +126,7 @@ None
 
 #### Pre-Class
 
-* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-bayes-theorem/)
-
+* 
 #### In-Class
 
 * [DS&A Open Practice: Day 26](../data-structures-and-algorithms/d.12-open-practice.md#day-26)
@@ -141,8 +140,7 @@ None
 
 #### Pre-Class
 
-* [9.5.1: ML - Naive Bayes Classifier JS](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
-* [9.5.2: ML - Naive Bayes Classifier Python](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
+* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-bayes-theorem/)
 
 #### In-Class
 
@@ -157,7 +155,8 @@ None
 
 #### Pre-Class
 
-* [9.4: React Native](../9-advanced-topics/9.4-react-native.md)
+* [9.5.1: ML - Naive Bayes Classifier JS](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
+* [9.5.2: ML - Naive Bayes Classifier Python](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
 
 #### In-Class
 
@@ -174,7 +173,7 @@ None
 
 #### Pre-Class
 
-None
+* [9.4: React Native](../9-advanced-topics/9.4-react-native.md)
 
 #### In-Class
 
