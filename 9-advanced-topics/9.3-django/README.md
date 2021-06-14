@@ -96,6 +96,16 @@ echo $VIRTUAL_ENV
 
 Note that this system is setup for managing multiple Python environments, but we'll only need one for this demo. In other situations you would give a more specific name to your virtual env.
 
+### Workon
+
+When a new terminal is opened `workon` may need to be run so the virtual env can be initialized.
+
+```markup
+workon my_ra_django_env
+```
+
+See more here: [https://virtualenvwrapper.readthedocs.io/en/latest/command\_ref.html\#workon](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#workon)
+
 ### Further Reading
 
 [https://pypi.org/](https://pypi.org/)
@@ -105,6 +115,8 @@ Note that this system is setup for managing multiple Python environments, but we
 [https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3](https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3)
 
 [https://virtualenvwrapper.readthedocs.io/en/latest/command\_ref.html](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
+
+[https://www.freecodecamp.org/news/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04/](https://www.freecodecamp.org/news/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04/)
 
 ## Create a Django Project
 
