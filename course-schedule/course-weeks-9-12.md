@@ -47,8 +47,7 @@
 
 #### Pre-Class
 
-* [0.8.1: Try Catch](../0-language-and-tooling/0.8-js-promises/0.8.1-try-catch.md)
-* [0.8.2: Promise.catch, Promise.all](../0-language-and-tooling/0.8-js-promises/0.8.2-promise.catch-promise.all.md)
+* [0.8.2: Try Catch](../0-language-and-tooling/0.8-js-promises/0.8.2-try-catch.md)
 * [0.8.3: Async/Await](../0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
 * [4.1.3: Async/Await with Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
 
