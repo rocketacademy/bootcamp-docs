@@ -6,7 +6,13 @@ We'll be implementing the formula to train a computer to predict some informatio
 
 First we'll talk about how Bayes Theorem works and what it is trying to tell us.
 
-## Videos
+## Read
+
+[https://www.mathsisfun.com/data/bayes-theorem.html](https://www.mathsisfun.com/data/bayes-theorem.html)
+
+[https://machinelearningmastery.com/bayes-theorem-for-machine-learning/](https://machinelearningmastery.com/bayes-theorem-for-machine-learning/)
+
+## Watch
 
 {% embed url="https://www.youtube.com/watch?v=HZGCoVF3YvM" %}
 
