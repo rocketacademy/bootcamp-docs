@@ -16,6 +16,8 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 7 Jul 2021 | 3-4pm | [Alwyn Tan](https://www.linkedin.com/in/alwynt/) \(video\) | Software Engineer at Open Government Products |
+| Wed | 30 Jun 2021 | 3-4pm | [Yifei Men](https://www.linkedin.com/in/yifeimen/) \(video\) | Software Engineer at Google |
 | Wed | 23 Jun 2021 | 3-4pm | [Aurelia Lim](https://www.linkedin.com/in/aurelia-l-824078140/) \(video\) | Software Engineer at Accredify |
 | Wed | 16 Jun 2021 | 3-4pm | [Gibson Tang](https://www.linkedin.com/in/gibsontang/) \(video\) | Engineering Lead at Lenskart |
 | Wed | 9 Jun 2021 | 3-4pm | [Foong Leung](https://www.linkedin.com/in/foong-leung-76171758/) \(video\) | Software Engineer at Binery |
