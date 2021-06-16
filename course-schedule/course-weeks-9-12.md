@@ -97,12 +97,12 @@
 
 #### Pre-Class
 
+* [4.1.5: Sequelize Many-to-Many with Non-FK Attributes in "Through Table"](../4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table.md)
 * [5.1: Browser DOM JS](../5-full-stack-applications/5.1-dom-manipulation.md)
-* [4.1.5: Sequelize Many-to-Many with "Through Table" Attributes](../4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-through-table.md)
 
 #### In-Class
 
-* [5.ICE.1: Modal](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
+* [5.ICE.1: Full-Stack Modal](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
 
 #### Post-Class
 
@@ -112,8 +112,8 @@
 
 #### Pre-Class
 
-* [5.2: AJAX](../5-full-stack-applications/5.2-ajax/)
 * [4.1.6 Sequelize Validations](../4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
+* [5.2: AJAX](../5-full-stack-applications/5.2-ajax/)
 
 #### In-Class
 
@@ -132,7 +132,7 @@
 
 #### In-Class
 
-* [5.ICE.3: Bug Reports AJAX](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.3-full-stack-ajax.md)
+* [5.ICE.3: Bug Reports AJAX](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.3-bug-reports-ajax.md)
 
 #### Post-Class
 
@@ -148,7 +148,7 @@
 
 #### In-Class
 
-* [5.ICE.4: Cross Domain AJAX](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
+* [5.ICE.4: Cross-Domain AJAX](../5-full-stack-applications/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
 
 #### Post-Class
 
