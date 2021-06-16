@@ -97,7 +97,7 @@
 #### Pre-Class
 
 * [4.1.5: Sequelize Many-to-Many with Non-FK Attributes in "Through Table"](../4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table.md)
-* [5.1: Browser DOM JS](../5-full-stack-applications/5.1-dom-manipulation.md)
+* [5.1: DOM Manipulation with Express App](../5-full-stack-applications/5.1-dom-manipulation-with-express-app.md)
 
 #### In-Class
 

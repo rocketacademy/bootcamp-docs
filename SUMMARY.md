@@ -241,7 +241,7 @@
 ## 5️⃣ Full-Stack Applications
 
 * [5.0: Module 5 Overview](5-full-stack-applications/5.0-module-5-overview.md)
-* [5.1: DOM Manipulation](5-full-stack-applications/5.1-dom-manipulation.md)
+* [5.1: DOM Manipulation with Express App](5-full-stack-applications/5.1-dom-manipulation-with-express-app.md)
 * [5.2: AJAX](5-full-stack-applications/5.2-ajax/README.md)
   * [5.2.1: AJAX POST Requests](5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
   * [5.2.2: AJAX Cards](5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
