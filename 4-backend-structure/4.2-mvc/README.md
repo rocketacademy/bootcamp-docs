@@ -53,7 +53,7 @@ npx sequelize migration:generate --name create-items-table
 
 Delete the entire contents of the file and write the table creation code:
 
-#### &lt;GENERATED\_DATE&gt;-create-items-table.js
+#### &lt;GENERATED_DATE&gt;-create-items-table.js
 
 ```javascript
 module.exports = {
@@ -167,7 +167,7 @@ export default db;
 npx sequelize seed:generate --name seed-data
 ```
 
-### &lt;GENERATED\_DATE&gt;-seed-data.js
+### &lt;GENERATED_DATE&gt;-seed-data.js
 
 ```javascript
 module.exports = {
@@ -260,7 +260,7 @@ Create a routes file only for HTTP method and URL path matching. As our apps get
 
 Since this is the file in which we invoke controller methods, we will link our controllers to our models in this file. The `db` instance, containing the connection pool, will be passed around so that every controller has access to the database.
 
-Note the `index` key of `ItemsController`. We will define this in the controller file below.
+Note the `index` key of `itemsController`. We will define this in the controller file below.
 
 ### routes.mjs
 
@@ -272,9 +272,9 @@ import initItemsController from './controllers/items.mjs';
 
 export default function bindRoutes(app) {
   // pass in the db for all items callbacks
-  const ItemsController = initItemsController(db);
+  const itemsController = initItemsController(db);
 
-  app.get('/items', ItemsController.index);
+  app.get('/items', itemsController.index);
 }
 ```
 
@@ -310,7 +310,7 @@ export default function initItemsController(db) {
 
 This example assumes you need to display a list of data. For convenience and consistency we can give standard names to the CRUD methods of our controllers. For example, an `index` method might retrieve all instances of a model. See the [names table below](./#names) for a complete listing.
 
-#### controllers/&lt;NAME\_LOWER\_CAMEL\_CASE\_PLURAL&gt;.mjs
+#### controllers/&lt;NAME_LOWER_CAMEL_CASE_PLURAL&gt;.mjs
 
 ```javascript
 export default function init<NAME_LOWER_CAMEL_CASE_PLURAL>Controller(db){
@@ -364,17 +364,16 @@ Then access the route we defined on our server in the browser via `localhost:300
 
 Please use the following naming conventions for CRUD MVC components in Coding Bootcamp applications.
 
-| URL Path | Method | Purpose | Controller Method Name | View File Name | Sequelize Model Method Name |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| /items/new | GET | Render a form that will create a new item. | newForm | newForm | N/A |
-| /items | POST | Accept a POST request to create a new item. | create | N/A | create |
-| /items/:id | GET | Render a single item. | show | show | findOne |
-| /items | GET | Render a list of items. | index | index | findAll |
-| /items/:id/edit | GET | Render a form to edit a item. | editForm | editForm | N/A |
-| /items/:id | PUT | Accept a request to edit a single item | update | update | update |
-| /items/:id | DELETE | Accept a request to delete an item. | delete | delete | destroy |
+| URL Path        | Method | Purpose                                     | Controller Method Name | View File Name | Sequelize Model Method Name |
+| :-------------- | :----- | :------------------------------------------ | :--------------------- | :------------- | :-------------------------- |
+| /items/new      | GET    | Render a form that will create a new item.  | newForm                | newForm        | N/A                         |
+| /items          | POST   | Accept a POST request to create a new item. | create                 | N/A            | create                      |
+| /items/:id      | GET    | Render a single item.                       | show                   | show           | findOne                     |
+| /items          | GET    | Render a list of items.                     | index                  | index          | findAll                     |
+| /items/:id/edit | GET    | Render a form to edit a item.               | editForm               | editForm       | N/A                         |
+| /items/:id      | PUT    | Accept a request to edit a single item      | update                 | update         | update                      |
+| /items/:id      | DELETE | Accept a request to delete an item.         | delete                 | delete         | destroy                     |
 
 ## Exercise
 
 Replicate the above code and verify results.
-
