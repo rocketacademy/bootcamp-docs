@@ -8,11 +8,9 @@
 
 [Sequelize](https://sequelize.org/) is the most popular ORM for JavaScript and PostgreSQL. We will use Sequelize to replace raw SQL in our applications.
 
-## Motivation
-
 ## ORMs Replace Common SQL Queries
 
-You may have noticed that SQL queries for each set of CRUD routes follow a similar pattern. Most CRUD queries follow this same pattern, and can be relatively easily substituted with ORM.
+You may have noticed that SQL queries for each set of CRUD routes follow a similar pattern. Most CRUD queries follow this same pattern, and can be relatively easily substituted with ORM syntax.
 
 ```sql
 // Create Query
