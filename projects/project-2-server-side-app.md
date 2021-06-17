@@ -117,7 +117,7 @@ We will be learning more ways to decompose our Express apps into logical files a
 
 ### Post-Mortem Meeting
 
-Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
+Please answer [these questions](../course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor.
 
 ### Video Demo
 

@@ -23,9 +23,11 @@
 
 1. Clone the [`ajax-bootcamp` repo](https://github.com/rocketacademy/ajax-bootcamp)
 2. Install NPM packages
-3. Run migrations and seeds with Sequelize. There is a migration and seed file in the repo.
-4. Start server locally
-5. Visit `http://localhost:3004/items` in the browser to verify the server is set up and the browser can receive items in the response.
+3. Update config/config.js with our Unix username
+4. Create a Postgres DB with `createdb` with the DB name in config/config.js
+5. Run migrations and seeds with Sequelize. There is a migration and seed file in the repo.
+6. Start server locally
+7. Visit `http://localhost:3004/items` in the browser to verify the server is set up and the browser can receive items in the response.
 
 ### Create New Page With AJAX Request
 

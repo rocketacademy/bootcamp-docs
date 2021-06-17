@@ -140,7 +140,7 @@ None
 
 #### **Post-Class**
 
-* [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.6.6: Trees - Part 4](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-4)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
@@ -156,7 +156,7 @@ None
 
 #### **Post-Class**
 
-* [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.6.6: Trees - Part 5](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-5)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
@@ -176,7 +176,7 @@ None
 
 #### **Post-Class**
 
-* [7.POCE.4: Hot Pot](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.6.6: Trees - Part 6](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-6)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 

@@ -50,8 +50,8 @@
 * [0.6: Nodemon](0-language-and-tooling/0.6-nodemon.md)
 * [0.7: Thunder Client](0-language-and-tooling/0.7-postman.md)
 * [0.8: JS Promises](0-language-and-tooling/0.8-js-promises/README.md)
-  * [0.8.1: Try Catch](0-language-and-tooling/0.8-js-promises/0.8.1-try-catch.md)
-  * [0.8.2: Promise.catch, Promise.all](0-language-and-tooling/0.8-js-promises/0.8.2-promise.catch-promise.all.md)
+  * [0.8.1: Promise.prototype.catch, Promise.all](0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all.md)
+  * [0.8.2: Try Catch](0-language-and-tooling/0.8-js-promises/0.8.2-try-catch.md)
   * [0.8.3: Async/Await](0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
 * [0.ICE: In-Class Exercises](0-language-and-tooling/0.ice-in-class-exercises/README.md)
   * [0.ICE.1: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
@@ -225,7 +225,7 @@
   * [4.1.3: Async/Await With Sequelize](4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
   * [4.1.4: Sequelize Many-to-Many](4-backend-structure/4.1-orm-sequelize/4.1.4-sequelize-many-to-many.md)
   * [4.1.5: Sequelize Many-to-Many with Non-FK Attributes in "Through Table"](4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table.md)
-  * [4.1.6: Sequelize Validations](4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
+  * [4.1.6: Sequelize Constraints and Validations](4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
   * [4.1.7: Sequelize Eager Loading](4-backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading.md)
   * [4.1.8: Sequelize Self-Referencing Table Columns](4-backend-structure/4.1-orm-sequelize/4.1.8-sequelize-self-referencing-table-columns.md)
   * [4.1.9: Sequelize Setup Cheatsheet](4-backend-structure/4.1-orm-sequelize/4.1.9-sequelize-setup-cheatsheet.md)
@@ -241,7 +241,7 @@
 ## 5️⃣ Full-Stack Applications
 
 * [5.0: Module 5 Overview](5-full-stack-applications/5.0-module-5-overview.md)
-* [5.1: DOM Manipulation](5-full-stack-applications/5.1-dom-manipulation.md)
+* [5.1: DOM Manipulation with Express App](5-full-stack-applications/5.1-dom-manipulation-with-express-app.md)
 * [5.2: AJAX](5-full-stack-applications/5.2-ajax/README.md)
   * [5.2.1: AJAX POST Requests](5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
   * [5.2.2: AJAX Cards](5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)

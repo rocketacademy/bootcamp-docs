@@ -179,6 +179,7 @@
 #### Pre-Class
 
 * [0.8: JS Promises](../0-language-and-tooling/0.8-js-promises/)
+* [0.8.1: Promise.prototype.catch, Promise.all](../0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all.md)
 * [3.4.7: pg Promises](../3-backend-applications/3.4-sql-applications/3.4.7-pg-promises.md)
 * [3.4.8: SQL Clients](../3-backend-applications/3.4-sql-applications/3.4.8-sql-clients.md)
 
