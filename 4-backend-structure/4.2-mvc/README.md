@@ -53,7 +53,7 @@ npx sequelize migration:generate --name create-items-table
 
 Delete the entire contents of the file and write the table creation code:
 
-#### &lt;GENERATED_DATE&gt;-create-items-table.js
+#### &lt;GENERATED\_DATE&gt;-create-items-table.js
 
 ```javascript
 module.exports = {
@@ -167,7 +167,7 @@ export default db;
 npx sequelize seed:generate --name seed-data
 ```
 
-### &lt;GENERATED_DATE&gt;-seed-data.js
+### &lt;GENERATED\_DATE&gt;-seed-data.js
 
 ```javascript
 module.exports = {
@@ -310,10 +310,10 @@ export default function initItemsController(db) {
 
 This example assumes you need to display a list of data. For convenience and consistency we can give standard names to the CRUD methods of our controllers. For example, an `index` method might retrieve all instances of a model. See the [names table below](./#names) for a complete listing.
 
-#### controllers/&lt;NAME_LOWER_CAMEL_CASE_PLURAL&gt;.mjs
+#### controllers/&lt;NAME\_LOWER\_CAMEL\_CASE\_PLURAL&gt;.mjs
 
 ```javascript
-export default function init<NAME_LOWER_CAMEL_CASE_PLURAL>Controller(db){
+export default function init<NAME_LOWER_CAMEL_CASE_PLURAL>Controller(db) {
 
   // route to render a list of all the <NAME>
   const index = (request, response) => {
@@ -364,16 +364,17 @@ Then access the route we defined on our server in the browser via `localhost:300
 
 Please use the following naming conventions for CRUD MVC components in Coding Bootcamp applications.
 
-| URL Path        | Method | Purpose                                     | Controller Method Name | View File Name | Sequelize Model Method Name |
-| :-------------- | :----- | :------------------------------------------ | :--------------------- | :------------- | :-------------------------- |
-| /items/new      | GET    | Render a form that will create a new item.  | newForm                | newForm        | N/A                         |
-| /items          | POST   | Accept a POST request to create a new item. | create                 | N/A            | create                      |
-| /items/:id      | GET    | Render a single item.                       | show                   | show           | findOne                     |
-| /items          | GET    | Render a list of items.                     | index                  | index          | findAll                     |
-| /items/:id/edit | GET    | Render a form to edit a item.               | editForm               | editForm       | N/A                         |
-| /items/:id      | PUT    | Accept a request to edit a single item      | update                 | update         | update                      |
-| /items/:id      | DELETE | Accept a request to delete an item.         | delete                 | delete         | destroy                     |
+| URL Path | Method | Purpose | Controller Method Name | View File Name | Sequelize Model Method Name |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| /items/new | GET | Render a form that will create a new item. | newForm | newForm | N/A |
+| /items | POST | Accept a POST request to create a new item. | create | N/A | create |
+| /items/:id | GET | Render a single item. | show | show | findOne |
+| /items | GET | Render a list of items. | index | index | findAll |
+| /items/:id/edit | GET | Render a form to edit a item. | editForm | editForm | N/A |
+| /items/:id | PUT | Accept a request to edit a single item | update | update | update |
+| /items/:id | DELETE | Accept a request to delete an item. | delete | delete | destroy |
 
 ## Exercise
 
 Replicate the above code and verify results.
+
