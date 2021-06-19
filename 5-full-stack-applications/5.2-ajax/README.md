@@ -47,11 +47,11 @@
    // Make a request for all the items
    axios
      .get('/items')
-     .then(function (response) {
+     .then((response) => {
        // handle success
        console.log(response);
      })
-     .catch(function (error) {
+     .catch((error) => {
        // handle error
        console.log(error);
      });
