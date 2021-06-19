@@ -57,7 +57,7 @@
      });
    ```
 
-See [more about Axios here.](https://github.com/axios/axios/blob/master/README.md#example)
+7. Read [more about Axios here.](https://github.com/axios/axios/blob/master/README.md#example)
 
 ### Manipulate DOM with Server Response
 
