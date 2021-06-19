@@ -8,7 +8,7 @@ description: 11 Jan - 25 Jun
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 23 | 14-18 Jun | Machine Learning, DSAOP | [P6](../projects/project-6-capstone.md) | [CD22.1](course-weeks-21-23.md#course-day-22-1) | [CD22.2](course-weeks-21-23.md#course-day-22-2) | [CD22.3](course-weeks-21-23.md#course-day-22-3) | [CD22.4](course-weeks-21-23.md#course-day-22-4) | [CD22.5](course-weeks-21-23.md#course-day-22-5) |
+| 24 | 21-25 Jun | React Native, DSAOP | [P6](../projects/project-6-capstone.md) | [CD23.1](course-weeks-21-23.md#course-day-23-1) | [CD23.2](course-weeks-21-23.md#course-day-23-2) | [CD23.3](course-weeks-21-23.md#course-day-23-3) | [CD23.4](course-weeks-21-23.md#course-day-23-4) | [CD23.5](course-weeks-21-23.md#course-day-23-5) |
 
 ## Overall Schedule
 
