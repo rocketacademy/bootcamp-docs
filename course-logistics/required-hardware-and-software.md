@@ -113,6 +113,10 @@ In Coding Bootcamp we will be cloning starter code many times for new projects. 
 All files and folders are in kebab-case \(lowercase and hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them.
 {% endhint %}
 
+{% hint style="danger" %}
+Please do not store your code in a local folder synced to Google Drive. This will cause issues during Bootcamp, such as package installations to run slowly. Apple iCloud has been ok so far.
+{% endhint %}
+
 ### Folder Organisation - Mac
 
 1. Host all Coding Bootcamp code in a folder called `bootcamp`.
