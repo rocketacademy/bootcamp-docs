@@ -127,7 +127,7 @@
 #### Pre-Class
 
 * [4.1.7: Sequelize Eager Loading](../4-backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading.md)
-* [5.2.1: AJAX POST](../5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
+* [5.2.1: AJAX POST Requests](../5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 #### In-Class
 
