@@ -7,6 +7,18 @@ Bit manipulation is commonly taught in core computer science courses to help stu
 1. Please read about the 6 main bitwise operators `&`, `|`, `~`, `^`, `<<`, and `>>` [here](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301). These operators can be used in Python to perform bitwise operations.
 2. Please read pages 124-128 on Bit Manipulation in [CTCI](d.0-dsa-overview.md#resources).
 
+### Hamming Codes
+
+A Hamming code is an error correction algorithm that uses bit manipulation to check if a set of data has errors \(specifically binary data\) in O\(logn\) space and time.
+
+These videos give a good intuition of the usefulness of bit manipulation as it relates to binary data.
+
+{% embed url="https://www.youtube.com/watch?v=X8jsijhllIA" %}
+
+{% embed url="https://www.youtube.com/watch?v=b3NxrZOu\_CE" %}
+
+Hamming codes have a Hamming distance of 3- The algorithm can detect up to three errors per block.
+
 ## Exercises
 
 ### Pre-Class
