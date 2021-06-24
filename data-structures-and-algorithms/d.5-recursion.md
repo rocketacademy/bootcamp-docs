@@ -1,10 +1,8 @@
 # D.5: Recursion
 
-![](../.gitbook/assets/tabletop_roleplaying.png)
-
 ## Introduction
 
-Recursion is one of the most powerful techniques in programming, albeit rarely used in business applications because business applications typically do not require it. Recursion is the concept of a function calling itself to achieve its result. A classic example is the Fibonacci sequence, where `Fib(n) = Fib(n-1) + Fib(n-2)`. The `Fib` function would repeatedly call itself until it reaches a so-called **"base case"**, after which the latest function calls would then `return` to the previous function calls.
+Recursion is one of the most powerful techniques in programming, albeit rarely used in business applications because business applications typically do not require it. Recursion is the concept of a function calling itself to achieve its result. A classic example is the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number), where `Fib(n) = Fib(n-1) + Fib(n-2)`. The `Fib` function would repeatedly call itself until it reaches a so-called **"base case"**, after which the latest function calls would then `return` to the previous function calls.
 
 Recursion is an alternative to iteration \(i.e. loops\), and every problem that can be solved recursively should also be solvable iteratively. However, some problems are far easier to solve recursively or iteratively than vice versa, so recursion is an indispensable tool in the DS&A tool kit. 
 
@@ -30,19 +28,13 @@ Please review the following resources to better understand recursion.
 
 ## Exercises
 
-We will be working through these exercises over multiple days.
+We will be working through these exercises over multiple days. Please see your batch schedule for which exercises to do on which days.
 
-### Tribonacci
-
-Complete the Tribonacci Leetcode problem in Python. Note we should always use Python 3 unless otherwise specified. After you attempt the problem, view other Python submissions in the [Discuss tab](https://leetcode.com/problems/n-th-tribonacci-number/discuss/?currentPage=1&orderBy=hot&query=).
-
-[https://leetcode.com/problems/n-th-tribonacci-number/](https://leetcode.com/problems/n-th-tribonacci-number/)
-
-## Repl.it
+### Repl.it
 
 Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
 
-### Part 1
+#### Part 1
 
 1. Factorial
 2. Bunny Ears
@@ -56,7 +48,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 10. Count X
 11. Count Hi
 
-### Part 2
+#### Part 2
 
 1. Change XY
 2. Change Pi
@@ -69,7 +61,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 9. End X
 10. Count Pairs
 
-### Part 3
+#### Part 3
 
 1. Count ABC
 2. Count 11
@@ -81,7 +73,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 8. Str Copies
 9. Str Dist
 
-## Reference Solutions
+### Reference Solutions
 
 See sample answers to each problem in the @Learnpython Recursion Repl [here](https://repl.it/@Learnpython/Recursion). Please avoid reviewing each problem's answer until after attempting that problem. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
 

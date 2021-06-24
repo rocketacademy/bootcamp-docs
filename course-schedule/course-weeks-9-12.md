@@ -198,7 +198,6 @@
 * [6.1.3: Webpack with Babel](../6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
 * [6.1.4: Webpack with SASS](../6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
 * [D.5: Recursion - Required Reading](../data-structures-and-algorithms/d.5-recursion.md#required-reading)
-* [D.5: Recursion - Tribonacci](../data-structures-and-algorithms/d.5-recursion.md#tribonacci)
 
 #### In-Class
 
