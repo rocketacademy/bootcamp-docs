@@ -2,7 +2,7 @@
 description: 12 Apr - 24 Sep
 ---
 
-# Batch 3 Schedule
+# FTBC3 Schedule
 
 ## Current Week
 

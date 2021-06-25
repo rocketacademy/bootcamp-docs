@@ -4,8 +4,9 @@
 
 ## 📅 Course Schedule
 
-* [Batch 2 Schedule](course-schedule/batch-2-schedule.md)
-* [Batch 3 Schedule](course-schedule/batch-3-schedule.md)
+* [FTBC2 Schedule](course-schedule/ftbc2-schedule.md)
+* [FTBC3 Schedule](course-schedule/ftbc3-schedule.md)
+* [FTBC4 Schedule](course-schedule/ftbc4-schedule.md)
 * [Course Weeks 1-4](course-schedule/course-weeks-1-4.md)
 * [Course Weeks 5-8](course-schedule/course-weeks-5-8.md)
 * [Course Weeks 9-12](course-schedule/course-weeks-9-12.md)
