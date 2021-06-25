@@ -8,7 +8,7 @@ description: 12 Apr - 24 Sep
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 11 | 21-25 Jun | Advanced Webpack, Intro to Python, Complexity Analysis, Recursion | [P3](../projects/project-3-full-stack-game.md) | [CD10.4](course-weeks-9-12.md#course-day-10-4) | [CD10.5](course-weeks-9-12.md#course-day-10-5) | [CD11.1](course-weeks-9-12.md#course-day-11-1) | [CD11.2](course-weeks-9-12.md#course-day-11-2) | [CD11.3](course-weeks-9-12.md#course-day-11-3) |
+| 12 | 28 Jun - 2 Jul | Arrays, Sorting Algorithms, Hash Tables | [P3](../projects/project-3-full-stack-game.md) | [CD11.4](course-weeks-9-12.md#course-day-11-4) | [CD11.5](course-weeks-9-12.md#course-day-11-5) | [CD12.1](course-weeks-9-12.md#course-day-12-1) | [CD12.2](course-weeks-9-12.md#course-day-12-2) | [CD12.3](course-weeks-9-12.md#course-day-12-3) |
 
 ## Overall Schedule
 
