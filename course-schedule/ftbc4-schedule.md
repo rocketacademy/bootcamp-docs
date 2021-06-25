@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 12 | 28 Jun - 2 Jul | Arrays, Sorting Algorithms, Hash Tables | [P3](../projects/project-3-full-stack-game.md) | [CD11.4](course-weeks-9-12.md#course-day-11-4) | [CD11.5](course-weeks-9-12.md#course-day-11-5) | [CD12.1](course-weeks-9-12.md#course-day-12-1) | [CD12.2](course-weeks-9-12.md#course-day-12-2) | [CD12.3](course-weeks-9-12.md#course-day-12-3) |
+| 1 | 12-16 Jul | HTML, CSS, DOM, ES6 | - | [CD1.1](course-weeks-1-4.md#course-day-1-1) | [CD1.2](course-weeks-1-4.md#course-day-1-2) | [CD1.3](course-weeks-1-4.md#course-day-1-3) | [CD1.4](course-weeks-1-4.md#course-day-1-4) | [CD1.5](course-weeks-1-4.md#course-day-1-5) |
 
 ## Overall Schedule
 
@@ -47,13 +47,13 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-2-1">CD2.1</a>
       </td>
+      <td style="text-align:left"><b>PH</b>
+      </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-2-2">CD2.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-2-3">CD2.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-2-4">CD2.4</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-2-5">CD2.5</a>
       </td>
     </tr>
     <tr>
@@ -61,6 +61,8 @@
       <td style="text-align:left">26-30 Jul</td>
       <td style="text-align:left">Node.js, HTTP, File Servers</td>
       <td style="text-align:left"><a href="../projects/project-1-video-poker.md">P1</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-2-5">CD2.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-1">CD3.1</a>
       </td>
@@ -70,14 +72,14 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-4">CD3.4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-5">CD3.5</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">2-6 Aug</td>
       <td style="text-align:left">Cloud Deployment, JSON, Express.js, EJS</td>
       <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-3-5">CD3.5</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-1">CD4.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-2">CD4.2</a>
@@ -86,23 +88,21 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-4">CD4.4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-5">CD4.5</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
       <td style="text-align:left">9-13 Aug</td>
       <td style="text-align:left">Express.js, EJS, SQL, Cookies</td>
       <td style="text-align:left">-</td>
+      <td style="text-align:left"><b>PH</b>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-1-4.md#course-day-4-5">CD4.5</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-1">CD5.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-2">CD5.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-3">CD5.3</a>
-      </td>
-      <td style="text-align:left"><b>PH</b>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-4">CD5.4</a>
       </td>
     </tr>
     <tr>
@@ -110,6 +110,8 @@
       <td style="text-align:left">16-20 Aug</td>
       <td style="text-align:left">SQL Associations, SQL Schema Design, User Authentication</td>
       <td style="text-align:left">-</td>
+      <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-4">CD5.4</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-5-5">CD5.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-6-1">CD6.1</a>
@@ -118,8 +120,6 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-6-3">CD6.3</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-6-4">CD6.4</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
@@ -127,11 +127,11 @@
       <td style="text-align:left">JS Promises, Auth Middleware, JS Dates</td>
       <td style="text-align:left"><a href="../projects/project-2-server-side-app.md">P2</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-6-4">CD6.4</a>
+      </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-6-5">CD6.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-7-1">CD7.1</a>
-      </td>
-      <td style="text-align:left"><b>PH</b>
       </td>
       <td style="text-align:left"><a href="course-weeks-5-8.md#course-day-7-2">CD7.2</a>
       </td>
@@ -268,13 +268,13 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-4">CD14.4</a>
       </td>
-      <td style="text-align:left"><b>PH</b>
-      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-5">CD14.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-1">CD15.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-2">CD15.2</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-3">CD15.3</a>
       </td>
     </tr>
     <tr>
@@ -283,8 +283,6 @@
       <td style="text-align:left">Dynamic Programming</td>
       <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-3">CD15.3</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-4">CD15.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-15-5">CD15.5</a>
@@ -292,6 +290,8 @@
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-1">CD16.1</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-2">CD16.2</a>
+      </td>
+      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-3">CD16.3</a>
       </td>
     </tr>
     <tr>
@@ -303,13 +303,13 @@
       </td>
       <td style="text-align:left"><a href="../projects/project-4-full-stack-react-app.md">P4</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-3">CD16.3</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-4">CD16.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-16-5">CD16.5</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-1">CD17.1</a>
+      </td>
+      <td style="text-align:left"><b>PH</b>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-2">CD17.2</a>
       </td>
@@ -320,8 +320,6 @@
       <td style="text-align:left">React Router, Styled Components, DSA Open Practice (DSAOP), Career Prep:
         Resume, Portfolio, Job List</td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left"><b>PH</b>
-      </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-3">CD17.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-17-4">CD17.4</a>
@@ -330,14 +328,14 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-1">CD18.1</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-2">CD18.2</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">19</td>
       <td style="text-align:left">15-19 Nov</td>
       <td style="text-align:left">DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-2">CD18.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-18-3">CD18.3</a>
       </td>
@@ -347,14 +345,14 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-1">CD19.1</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-2">CD19.2</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">20</td>
       <td style="text-align:left">22-26 Nov</td>
       <td style="text-align:left">DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-2">CD19.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-19-3">CD19.3</a>
       </td>
@@ -364,14 +362,14 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-1">CD20.1</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-2">CD20.2</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">21</td>
       <td style="text-align:left">29 Nov - 3 Dec</td>
       <td style="text-align:left">Security, Testing, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-5-group-react-app.md">P5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-2">CD20.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-17-20.md#course-day-20-3">CD20.3</a>
       </td>
@@ -381,14 +379,14 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-1">CD21.1</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-2">CD21.2</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">22</td>
       <td style="text-align:left">6-10 Dec</td>
       <td style="text-align:left">TDD, CI/CD, Django, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-2">CD21.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-21-3">CD21.3</a>
       </td>
@@ -398,14 +396,14 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-1">CD22.1</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-2">CD22.2</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">23</td>
       <td style="text-align:left">13-17 Dec</td>
       <td style="text-align:left">Machine Learning, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-2">CD22.2</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-22-3">CD22.3</a>
       </td>
@@ -415,6 +413,8 @@
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-1">CD23.1</a>
       </td>
+      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-2">CD23.2</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">24</td>
@@ -422,14 +422,13 @@
       <td style="text-align:left">React Native, DSAOP</td>
       <td style="text-align:left"><a href="../projects/project-6-capstone.md">P6</a>
       </td>
-      <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-2">CD23.2</a>
-      </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-3">CD23.3</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-4">CD23.4</a>
       </td>
       <td style="text-align:left"><a href="course-weeks-21-23.md#course-day-23-5">CD23.5</a>
       </td>
+      <td style="text-align:left">Bonus</td>
       <td style="text-align:left">Bonus</td>
     </tr>
   </tbody>
