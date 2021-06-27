@@ -16,6 +16,8 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 28 Jul 2021 | 3-4pm | [Aaron Lee](https://www.linkedin.com/in/aaronstevensonlee/) \(video\) | Software Engineer at Open Government Products, Soon-To-Be VP Engineering at Startup |
+| Wed | 14 Jul 2021 | 3-4pm | [Veri Ferdiansyah](https://www.linkedin.com/in/vferdiansyah/) \(video\) | Head of Core Platform at LinkAja |
 | Wed | 7 Jul 2021 | 3-4pm | [Alwyn Tan](https://www.linkedin.com/in/alwynt/) \(video\) | Software Engineer at Open Government Products |
 | Wed | 30 Jun 2021 | 3-4pm | [Yifei Men](https://www.linkedin.com/in/yifeimen/) \(video\) | Software Engineer at Google |
 | Wed | 23 Jun 2021 | 3-4pm | [Aurelia Lim](https://www.linkedin.com/in/aurelia-l-824078140/) \(video\) | Software Engineer at Accredify |
