@@ -4,14 +4,6 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 # Pairing Assignments
 
-## Batch 2 \(Jan-Jun 2021\)
-
-| Formation ID | Pair 1 | Pair 2 |
-| :--- | :--- | :--- |
-| 0 | Ian, Michelle | Jerome, Zeph |
-| 1 | Ian, Jerome | Michelle, Zeph |
-| 2 | Ian, Zeph | Michelle, Jerome |
-
 ## Batch 3 \(Apr-Sep 2021\)
 
 | Day | Pair 1 | Pair 2 | Pair 3 |
