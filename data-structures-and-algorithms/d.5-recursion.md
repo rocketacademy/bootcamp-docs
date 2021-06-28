@@ -35,8 +35,9 @@ We will be working through these exercises over multiple days. Please see your b
 Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers.
 
 1. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases.
-2. To limit the problems that Repl executes, see instructions in the Repl to edit the `problems` array in the `main` function.
-3. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
+2. To limit the problems that Repl executes at any given time, see instructions in the Repl document to edit the `problems` array in the `main` function.
+3. If you find yourself stuck and unable to proceed, feel free to see sample answers for each problem in the [@Learnpython Recursion Repl](https://repl.it/@Learnpython/Recursion). Please attempt each problem before review each problem's answer. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
+4. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
 
 #### Part 1
 
@@ -76,10 +77,6 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 7. Str Count
 8. Str Copies
 9. Str Dist
-
-### Reference Solutions
-
-See sample answers to each problem in the [@Learnpython Recursion Repl](https://repl.it/@Learnpython/Recursion). Please review each problem's answer after attempting that problem. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
 
 ## Optional Reading
 
