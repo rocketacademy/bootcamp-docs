@@ -32,7 +32,11 @@ We will be working through these exercises over multiple days. Please see your b
 
 ### Repl.it
 
-Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
+Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers.
+
+1. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases.
+2. To limit the problems that Repl executes, see instructions in the Repl to edit the `problems` array in the `main` function.
+3. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
 
 #### Part 1
 
@@ -75,7 +79,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 
 ### Reference Solutions
 
-See sample answers to each problem in the @Learnpython Recursion Repl [here](https://repl.it/@Learnpython/Recursion). Please avoid reviewing each problem's answer until after attempting that problem. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
+See sample answers to each problem in the [@Learnpython Recursion Repl](https://repl.it/@Learnpython/Recursion). Please review each problem's answer after attempting that problem. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
 
 ## Optional Reading
 
