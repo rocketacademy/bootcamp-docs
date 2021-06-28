@@ -4,13 +4,22 @@
 
 When solving DS&A problems, there are a few common strategies we can use to perform better.
 
-1. Think out loud
-2. Pseudocode first
-3. Can we do better?
-4. End with a working solution
-5. Think of test cases
-6. Trace code with simple examples
-7. Read and understand solutions
+1. Clarify the Problem
+2. Think Out Loud
+3. Pseudocode First
+4. Can We Do Better?
+5. End With a Working Solution
+6. Think of Test Cases
+7. Trace Code with Simple Examples
+8. Read and Understand Solutions
+
+## Clarify the Problem
+
+Always clarify the interview problem before attempting a solution. This shows initiative, communication skills, and an outcome-driven mindset which will impress employers. Clarifying the problem can include the following.
+
+1. What are sample inputs and outputs?
+2. Are there constraints on how we can solve the problem? E.g. Recursion vs iteration or specific data structures?
+3. Any other ambiguities regarding what the problem is asking.
 
 ## Think Out Loud
 
@@ -38,7 +47,7 @@ Try to have working code at the end of the interview, regardless of algorithm ef
 
 We should always think about how our algorithms can fail and proactively develop test cases to test those situations in interviews. More often than not, DS&A interview problems provide incomplete test cases, sometimes none at all. This is because developing realistic test cases is a strong signal on someone's capability. Strong candidates are able to solve a problem, determine how their solution could fail, then fix their solution independently. Stronger candidates determine how their solution could fail upfront \(e.g. during pseudocode\), and address those cases the first time they write code.
 
-## Trace Code With Simple Examples
+## Trace Code with Simple Examples
 
 More often than not we will develop a flawed solution on our first try. The code may run but it fails our test cases. Instead of guessing where bugs may be, we must test methodically.
 
