@@ -28,18 +28,21 @@ Please review the following resources to better understand recursion.
 
 ## Exercises
 
+### Instructions
+
 We will be working through these exercises over multiple days. Please see your batch schedule for which exercises to do on which days.
 
-### Repl.it
-
-Complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers.
+We will complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers.
 
 1. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases.
 2. To limit the problems that Repl executes at any given time, see instructions in the Repl document to edit the `problems` array in the `main` function.
-3. If you find yourself stuck and unable to proceed, feel free to see sample answers for each problem in the [@Learnpython Recursion Repl](https://repl.it/@Learnpython/Recursion). Please attempt each problem before review each problem's answer. Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
-4. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
+3. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
 
-#### Part 1
+### Reference Solutions
+
+Please attempt to solve each problem on your own before reviewing each problem's answer. If you find yourself stuck and unable to proceed, feel free to learn from sample answers for each problem in the [@Learnpython Recursion Repl](https://repl.it/@Learnpython/Recursion). Note there are multiple ways to solve each problem and the sample answers represent only 1 way.
+
+### Part 1
 
 1. Factorial
 2. Bunny Ears
@@ -53,7 +56,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 10. Count X
 11. Count Hi
 
-#### Part 2
+### Part 2
 
 1. Change XY
 2. Change Pi
@@ -66,7 +69,7 @@ Complete the Learn Python Recursion Repl. Please start with [this empty starter 
 9. End X
 10. Count Pairs
 
-#### Part 3
+### Part 3
 
 1. Count ABC
 2. Count 11
