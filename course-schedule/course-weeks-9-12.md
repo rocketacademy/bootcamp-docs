@@ -229,7 +229,7 @@
 
 #### Pre-Class
 
-None
+* [Group Work](../course-logistics/group-work.md) \(for project management\)
 
 #### In-Class
 
