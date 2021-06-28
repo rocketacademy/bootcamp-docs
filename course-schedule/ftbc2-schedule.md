@@ -4,12 +4,6 @@ description: 11 Jan - 25 Jun
 
 # FTBC2 Schedule
 
-## Current Week
-
-| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 24 | 21-25 Jun | React Native, DSAOP | [P6](../projects/project-6-capstone.md) | [CD23.1](course-weeks-21-23.md#course-day-23-1) | [CD23.2](course-weeks-21-23.md#course-day-23-2) | [CD23.3](course-weeks-21-23.md#course-day-23-3) | [CD23.4](course-weeks-21-23.md#course-day-23-4) | [CD23.5](course-weeks-21-23.md#course-day-23-5) |
-
 ## Overall Schedule
 
 <table>
