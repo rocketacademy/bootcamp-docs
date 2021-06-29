@@ -46,6 +46,7 @@ ESLint requires edits to the VSCode configuration file.
 ```
 
 ### ESLint Suggestion Highlighting \(No Action Needed\)
+
 As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
 
 ![](../.gitbook/assets/eslint-1.png)
@@ -54,7 +55,7 @@ To discern what problems ESLint is raising, we can view the suggestion messages 
 
 ![](../.gitbook/assets/eslint-2.png)
 
-![](../.gitbook/assets/eslint-3.png)
+![](../.gitbook/assets/eslint3.png)
 
 To view messages in the console, use the following steps.
 
@@ -62,19 +63,21 @@ To view messages in the console, use the following steps.
 2. For each suggestion there will be a line in the suggestion pane with a sentence about what ESLint suggests, and the relevant line number in the code file.
 
 ### ESLint rules
+
 ESLint integrates with specific JavaScript syntax and style rules. This gives warnings for syntax, which will result in a Javascript error, and style, which may contribute to a logical error, or simply makes the code harder to read.
 
 ### AirBnB Style Rules
+
 RA implements the AirBnB ESLint style rules, which is an extention of the base ESLint rules.
 
 Read some more details about the rules here:
-https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053
-https://github.com/airbnb/javascript
+
+* [https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053)
+* [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 ## Other VSCode Extensions
 
 1. Install VSCode's [Open in Browser extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make it easier to open HTML files in our browser from VSCode.
-2. Install VSCode's [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to enable our HTML files to auto-reload in the browser when we make changes to the files.
 
 ## Windows
 
@@ -171,7 +174,7 @@ Homebrew typically manages OS-specific packages and not application-specific pac
 
 Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
 
-## Folder Organisation 
+## Folder Organisation
 
 In Coding Bootcamp we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
 
