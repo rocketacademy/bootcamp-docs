@@ -45,7 +45,7 @@ ESLint requires edits to the VSCode configuration file.
 }
 ```
 
-### ESLint Suggestion Highlighting \(No Action Needed\)
+#### ESLint Suggestion Highlighting \(No Action Needed\)
 
 As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
 
@@ -62,11 +62,11 @@ To view messages in the console, use the following steps.
 1. Click the error icon in the bottom left of the VSCode footer. This will show the suggestion pane below our code.
 2. For each suggestion there will be a line in the suggestion pane with a sentence about what ESLint suggests, and the relevant line number in the code file.
 
-### ESLint rules
+#### ESLint rules
 
 ESLint integrates with specific JavaScript syntax and style rules. This gives warnings for syntax, which will result in a Javascript error, and style, which may contribute to a logical error, or simply makes the code harder to read.
 
-### AirBnB Style Rules
+#### AirBnB Style Rules
 
 RA implements the AirBnB ESLint style rules, which is an extention of the base ESLint rules.
 
