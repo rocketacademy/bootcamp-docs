@@ -8,7 +8,7 @@ We will rarely write sorting algorithms as software engineers because most langu
 
 There is no need to memorise the below sorting algorithms' implementation. Just understand how they work such that you could describe their logic well-enough to write pseudocode.
 
-## Polynomial Time, Constant Space Sorting Algorithms
+## `O(n^2)` Time, `O(1)` Space Sorting Algorithms
 
 ### Selection Sort
 
@@ -31,7 +31,7 @@ There is no need to memorise the below sorting algorithms' implementation. Just 
 2. Average case time complexity is `O(nlogn)`, so some prefer it over Merge Sort
 3. [https://www.geeksforgeeks.org/quick-sort/](https://www.geeksforgeeks.org/quick-sort/)
 
-## `O(nlogn)` Time, Linear Space Sorting Algorithms
+## `O(nlogn)` Time, `O(n)` Space Sorting Algorithms
 
 ### Merge Sort
 
@@ -39,7 +39,7 @@ There is no need to memorise the below sorting algorithms' implementation. Just 
 2. Commonly used sorting algorithm
 3. [https://www.geeksforgeeks.org/merge-sort/](https://www.geeksforgeeks.org/merge-sort/) 
 
-## `O(nlogn)` Time, Constant Space Sorting Algorithms
+## `O(nlogn)` Time, `O(1)` Space Sorting Algorithms
 
 {% hint style="warning" %}
 No need to cover this code right now- we haven't seen the heap data structure yet. We'll look at this again when we cover heaps, but this is another example of a sorting algorithm that runs in `O(nlogn)` time.
