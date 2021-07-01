@@ -294,7 +294,7 @@
 
 #### Due
 
-* Project 3 MVP \(deployed\)
+* [Project 3 MVP Deadline \(deployed\)](../projects/project-3-full-stack-game.md#mvp-deadline)
 
 #### Pre-Class
 
