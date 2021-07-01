@@ -25,8 +25,7 @@ Once you've attempted each problem, find solutions in the Discuss tab on that pr
 
 1. [https://replit.com/@kaiyuanneo/hashmaps](https://replit.com/@kaiyuanneo/hashmaps)
    1. Solutions: [https://replit.com/@kaiyuanneo/hashmapssolns](https://replit.com/@kaiyuanneo/hashmapssolns)
-2. [https://leetcode.com/problems/jewels-and-stones/](https://leetcode.com/problems/jewels-and-stones/)
-3. [https://leetcode.com/problems/sum-of-unique-elements/](https://leetcode.com/problems/sum-of-unique-elements/)
+2. [https://leetcode.com/problems/sum-of-unique-elements/](https://leetcode.com/problems/sum-of-unique-elements/)
 
 ### Part 1
 
