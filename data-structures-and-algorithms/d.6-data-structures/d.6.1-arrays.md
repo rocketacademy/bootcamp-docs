@@ -38,7 +38,7 @@ Once you've attempted each problem, find solutions in either the Solution or Dis
 3. [https://leetcode.com/problems/number-of-good-pairs/](https://leetcode.com/problems/number-of-good-pairs/)
 4. [https://leetcode.com/problems/string-matching-in-an-array/](https://leetcode.com/problems/string-matching-in-an-array/)
 
-### Extra Practice
+### More Comfortable
 
 1. [https://leetcode.com/problems/jewels-and-stones/](https://leetcode.com/problems/jewels-and-stones/)
    1. Strings can be iterated over like lists in Python.

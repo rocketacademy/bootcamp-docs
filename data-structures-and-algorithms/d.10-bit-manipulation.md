@@ -35,7 +35,7 @@ Hamming codes have a Hamming distance of 3- The algorithm can detect up to three
 4. [https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
    1. Consider using Python's built-in decimal to binary converter function `bin()`
 
-### Extra
+### More Comfortable
 
 1. [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)
    1. Requires trick to understand what happens when we XOR a number with 0, and when we XOR a number with itself

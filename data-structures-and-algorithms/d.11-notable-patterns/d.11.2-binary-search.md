@@ -47,7 +47,7 @@ def binarySearch(arr, x):
 3. [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 4. [https://leetcode.com/problems/search-insert-position/](https://leetcode.com/problems/search-insert-position/)
 
-### Extra
+### More Comfortable
 
 1. [https://leetcode.com/problems/valid-perfect-square/](https://leetcode.com/problems/valid-perfect-square/)
 2. [https://leetcode.com/problems/first-bad-version/](https://leetcode.com/problems/first-bad-version/)

@@ -21,7 +21,7 @@ Sliding window algorithms typically allow us to iterate through an array in line
 3. [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
 4. [https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 
-### Extra Practice
+### More Comfortable
 
 1. [https://leetcode.com/problems/longest-turbulent-subarray/](https://leetcode.com/problems/longest-turbulent-subarray/)
 2. [https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)
