@@ -30,9 +30,9 @@ Once you've attempted each problem, find solutions in the Discuss tab on that pr
 ### Part 1
 
 1. [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
-2. [https://leetcode.com/problems/unique-number-of-occurrences/](https://leetcode.com/problems/unique-number-of-occurrences/)
-3. [https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)
-4. [https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+2. [https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+3. [https://leetcode.com/problems/unique-number-of-occurrences/](https://leetcode.com/problems/unique-number-of-occurrences/)
+4. [https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)
 
 ### Part 2
 
