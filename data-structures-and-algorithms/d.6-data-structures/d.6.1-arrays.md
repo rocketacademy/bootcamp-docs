@@ -4,8 +4,6 @@
 
 Many of us will be familiar with arrays since we started using them in Coding Basics. This module will focus on Python-specific array syntax and array-specific practice problems.
 
-### 
-
 ## Tips
 
 ### Useful Python List Syntax
