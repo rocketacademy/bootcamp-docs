@@ -25,19 +25,22 @@ Once you've attempted each problem, find solutions in the Discuss tab on that pr
 
 1. [https://replit.com/@kaiyuanneo/hashmaps](https://replit.com/@kaiyuanneo/hashmaps)
    1. Solutions: [https://replit.com/@kaiyuanneo/hashmapssolns](https://replit.com/@kaiyuanneo/hashmapssolns)
-2. [https://leetcode.com/problems/sum-of-unique-elements/](https://leetcode.com/problems/sum-of-unique-elements/)
+2. [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)
 
 ### Part 1
 
-1. [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
-2. [https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
-3. [https://leetcode.com/problems/unique-number-of-occurrences/](https://leetcode.com/problems/unique-number-of-occurrences/)
-4. [https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)
+Please proceed to Part 2 if you are done with Part 1 early.
+
+1. [https://leetcode.com/problems/unique-number-of-occurrences/](https://leetcode.com/problems/unique-number-of-occurrences/)
+2. [https://leetcode.com/problems/sum-of-unique-elements/](https://leetcode.com/problems/sum-of-unique-elements/)
+3. [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+4. [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)
+   1. Please ignore the constraint to implement this in constant space complexity because that involves a more advanced technique we haven't learned yet.
 
 ### Part 2
 
-1. [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)
-2. [https://leetcode.com/problems/uncommon-words-from-two-sentences/](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
-3. [https://leetcode.com/problems/maximum-number-of-balloons/](https://leetcode.com/problems/maximum-number-of-balloons/)
-4. [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)
+1. [https://leetcode.com/problems/uncommon-words-from-two-sentences/](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
+2. [https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+3. [https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)
+4. [https://leetcode.com/problems/maximum-number-of-balloons/](https://leetcode.com/problems/maximum-number-of-balloons/)
 
