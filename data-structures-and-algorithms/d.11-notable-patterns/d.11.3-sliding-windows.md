@@ -11,6 +11,8 @@ Sliding window algorithms typically allow us to iterate through an array in line
 1. [https://leetcode.com/problems/max-consecutive-ones-iii/](https://leetcode.com/problems/max-consecutive-ones-iii/)
    1. Rocket Academy solution code: [https://pastebin.com/WFGdNszB](https://pastebin.com/WFGdNszB)
    2. Rocket Academy solution video: [https://youtu.be/Kynk1Tny3yQ?t=3939](https://youtu.be/Kynk1Tny3yQ?t=3939)
+2. [https://leetcode.com/problems/sum-of-all-odd-length-subarrays/](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
+   1. Rocket Academy solution code: [https://pastebin.com/apxLUSQh](https://pastebin.com/apxLUSQh)
 
 ### Part 1
 
@@ -19,7 +21,7 @@ Sliding window algorithms typically allow us to iterate through an array in line
 3. [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
 4. [https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 
-### Extra
+### Extra Practice
 
 1. [https://leetcode.com/problems/longest-turbulent-subarray/](https://leetcode.com/problems/longest-turbulent-subarray/)
 2. [https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)
