@@ -47,15 +47,14 @@ Avoid any ideas the depend on timing between players or if another player must b
 
 ### Summary
 
-| Course Day | Deliverable |
-| :--- | :--- |
-| CD11.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
-| CD11.2 | Deadline to post project ideas in Slack |
-| CD11.3 | Ideation Phase 2. Create planning docs: DB ERD, and wireframes |
-| CD11.4 | Finalise project idea and share planning docs in GitHub repo over Slack. 30-minute planning docs review with instructor. |
-| CD12.2 | Finish core functionality. Users should be able to perform the primary user story. Please deploy your app to Heroku before feature freeze. 30-minute mid-point check-in with instructor. |
-| CD12.5 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 15-minute review with instructor. Instructor to complete code review for feedback. |
-| CD13.2 | Project presentations. 60-minute post-mortem with instructor. |
+| Course Day | Deliverable | Instructor Feedback |
+| :--- | :--- | :--- |
+| CD11.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |  |
+| CD11.2 | Deadline to post project ideas in Slack |  |
+| CD11.3 | Ideation Phase 2. Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and over Zoom if necessary. |
+| CD12.2 | MVP deadline. Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code in PR on GitHub. |
+| CD12.5 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. |  |
+| CD13.2 | Project presentations. | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub. |
 
 ### Ideation Phase 1
 
@@ -69,7 +68,7 @@ Plan the game implementation. Create planning docs: database ERD, and wireframes
 
 Implement the core game functionality first. What is the core mechanic of the game that makes it playable? Make sure they are able to accomplish that, before adding nice-to-have features.
 
-### Core Functionality
+### MVP Deadline
 
 The core game play should be done. A user should be able to play the game through once without encountering errors.
 

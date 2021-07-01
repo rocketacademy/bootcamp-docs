@@ -279,7 +279,7 @@
 
 #### Pre-Class
 
-* [D.6.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#pre-class)
+* [D.6.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md)
 
 #### In-Class
 
