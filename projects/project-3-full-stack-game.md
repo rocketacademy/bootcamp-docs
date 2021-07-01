@@ -70,7 +70,7 @@ Implement the core game functionality first. What is the core mechanic of the ga
 
 ### MVP Deadline
 
-The core game play should be done. A user should be able to play the game through once without encountering errors.
+A user should be able to play the game through once without encountering errors. App should be deployed to Heroku. Peer code review during class.
 
 ### Feature Freeze
 
@@ -79,8 +79,6 @@ Plan your app around having the app and all it's features running without errors
 ### Post-Mortem Meeting
 
 Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
-
-
 
 ## Video Demo
 

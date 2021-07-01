@@ -303,13 +303,12 @@ None
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-2)
+* [Project 3 Peer Code Review](../projects/project-3-full-stack-game.md#mvp-deadline)
 
 #### Post-Class
 
 * [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.2-hash-tables.md#part-2)
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [Project 3 Midpoint Checkin](../projects/project-3-full-stack-game.md#project-timeline)
 
 ### Course Day 12.4
 
