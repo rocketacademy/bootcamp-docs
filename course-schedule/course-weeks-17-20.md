@@ -21,6 +21,7 @@
 
 * [8.1: Create React App](../8-advanced-react/8.1-create-react-app/)
 * [8.1.1: Create React App Full Stack](../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
+* [8.2: Higher Order Components](../8-advanced-react/8.3-higher-order-components.md)
 * [D.11.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#pre-class)
 
 #### In-Class
@@ -39,7 +40,6 @@
 
 #### Pre-Class
 
-* [8.2: Higher Order Components](../8-advanced-react/8.3-higher-order-components.md)
 * [8.3.1: useContext](../8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
 * [8.3.2: useReducer](../8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
 * [8.3.3: useContext + useReducer](../8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
