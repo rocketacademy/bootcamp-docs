@@ -4,10 +4,18 @@
 
 Many of us will be familiar with arrays since we started using them in Coding Basics. This module will focus on Python-specific array syntax and array-specific practice problems.
 
-## Useful Python Array Syntax
+### 
 
-1. Basic Python array methods: [https://www.w3schools.com/python/python\_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
-2. Python array slice syntax: [https://stackoverflow.com/a/509295](https://stackoverflow.com/a/509295)
+## Tips
+
+### Useful Python List Syntax
+
+1. Basic Python list methods: [https://www.w3schools.com/python/python\_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
+2. Python list slice syntax: [https://stackoverflow.com/a/509295](https://stackoverflow.com/a/509295)
+
+### Use Iteration Instead of Recursion to Loop over Arrays
+
+Although we just learned recursion and many of the Learn Python recursion problems used recursion to iterate over strings or arrays, generally we prefer iteration where possible, because recursion utilises more computer memory.
 
 ## Exercises
 
