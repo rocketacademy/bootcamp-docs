@@ -330,7 +330,7 @@ None
 
 #### Due
 
-* Project 3 Feature Freeze
+* [Project 3 Feature Freeze](../projects/project-3-full-stack-game.md#feature-freeze)
 
 #### Pre-Class
 
