@@ -38,11 +38,11 @@ None
 
 #### Pre-Class
 
+* [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
 * [7.1: JSX Intro](../7-react/7.1-jsx-intro/)
 * [7.1.1: Conditional Rendering](../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
 * [7.1.2: Rendering In a Loop](../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
-* [D.7: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
-* 
+
 #### In-Class
 
 * [7.ICE.1: JSX Products Items](../7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
@@ -57,12 +57,12 @@ None
 
 #### Pre-Class
 
+* [D.6.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#pre-class)
+* [D.6.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-1)
 * [7.2: Components](../7-react/7.2-components/)
 * [7.2.1: Props](../7-react/7.2-components/7.2.1-props.md)
 * [7.2.2: Rendering Components](../7-react/7.2-components/7.2.2-rendering-components.md)
 * [7.2.3: Class Components](../7-react/7.2-components/7.2.3-class-components.md)
-* [D.6.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#pre-class)
-* [D.6.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-1)
 
 #### In-Class
 
@@ -77,9 +77,9 @@ None
 
 #### Pre-Class
 
+* [D.6.6: Trees - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#pre-class)
 * [7.3: React Express](../7-react/7.3-express.js-+-webpack-+-react.md)
 * [7.4: React useState](../7-react/7.4-state.md)
-* [D.6.6: Trees - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#pre-class)
 
 #### In-Class
 
