@@ -5,80 +5,6 @@
 1. If you haven't already, ensure you have [Required Hardware and Software](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software) from Coding Basics.
 2. Please install the latest version of Windows or MacOS that your computer supports. This is so that students have the same and latest operating system features as much as possible.
 
-## VSCode Formatters
-
-Moving on from Basics, we'll upgrade the kind of auto-formatting and linting that VSCode has to offer. We'll be switching from using Prettier formatter to ESLint, which has more configuration options and has more awareness of specific JavaScript syntaxes and style points. This needs to be installed on the local computer as well as integrated with VSCode.
-
-### Prettier
-
-Prettier is a code formatter that will auto-format our code and make it more readable when we save our files. Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
-
-### ESLint
-
-ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it.
-
-1. Install ESLint by running `sudo npm i -g eslint` from the terminal in VSCode. Enter your computer's password if prompted.
-2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
-
-### VSCode Formatting Settings
-
-ESLint requires edits to the VSCode configuration file.
-
-1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
-2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
-3. Replace the contents of the file with the following settings code. Save the file and restart VSCode.
-
-```text
-{
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.minimap.enabled": true,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "eslint.format.enable": true,
-  "eslint.lintTask.enable": true,
-  "eslint.migration.2_x": "off"
-}
-```
-
-#### ESLint Suggestion Highlighting \(No Action Needed\)
-
-As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
-
-![](../.gitbook/assets/eslint-1.png)
-
-To discern what problems ESLint is raising, we can view the suggestion messages in the console.
-
-![](../.gitbook/assets/eslint-2.png)
-
-![](../.gitbook/assets/eslint3.png)
-
-To view messages in the console, use the following steps.
-
-1. Click the error icon in the bottom left of the VSCode footer. This will show the suggestion pane below our code.
-2. For each suggestion there will be a line in the suggestion pane with a sentence about what ESLint suggests, and the relevant line number in the code file.
-
-#### ESLint rules
-
-ESLint integrates with specific JavaScript syntax and style rules. This gives warnings for syntax, which will result in a Javascript error, and style, which may contribute to a logical error, or simply makes the code harder to read.
-
-#### AirBnB Style Rules
-
-RA implements the AirBnB ESLint style rules, which is an extention of the base ESLint rules.
-
-Read some more details about the rules here:
-
-* [https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053)
-* [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
-
-## Other VSCode Extensions
-
-1. Install VSCode's [Open in Browser extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make it easier to open HTML files in our browser from VSCode.
-
 ## Windows
 
 ### Windows Subsystem for Linux \(WSL\)
@@ -173,6 +99,82 @@ Homebrew is a package manager for MacOS that allows developers to have a single 
 Homebrew typically manages OS-specific packages and not application-specific packages. Application-specific packages are typically managed by application-level package managers such as `npm` or `pip`. Application-specific packages are packages that are typically bundled and deployed together with an application, regardless of where those applications are running.
 
 Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
+
+
+
+## VSCode Formatters
+
+Moving on from Basics, we'll upgrade the kind of auto-formatting and linting that VSCode has to offer. We'll be switching from using Prettier formatter to ESLint, which has more configuration options and has more awareness of specific JavaScript syntaxes and style points. This needs to be installed on the local computer as well as integrated with VSCode.
+
+### Prettier
+
+Prettier is a code formatter that will auto-format our code and make it more readable when we save our files. Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
+
+### ESLint
+
+ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it.
+
+1. Install ESLint by running `sudo npm i -g eslint` from the terminal in VSCode. Enter your computer's password if prompted.
+2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+
+### VSCode Formatting Settings
+
+ESLint requires edits to the VSCode configuration file.
+
+1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
+2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
+3. Replace the contents of the file with the following settings code. Save the file and restart VSCode.
+
+```text
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.minimap.enabled": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.migration.2_x": "off"
+}
+```
+
+#### ESLint Suggestion Highlighting \(No Action Needed\)
+
+As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
+
+![](../.gitbook/assets/eslint-1.png)
+
+To discern what problems ESLint is raising, we can view the suggestion messages in the console.
+
+![](../.gitbook/assets/eslint-2.png)
+
+![](../.gitbook/assets/eslint3.png)
+
+To view messages in the console, use the following steps.
+
+1. Click the error icon in the bottom left of the VSCode footer. This will show the suggestion pane below our code.
+2. For each suggestion there will be a line in the suggestion pane with a sentence about what ESLint suggests, and the relevant line number in the code file.
+
+#### ESLint rules
+
+ESLint integrates with specific JavaScript syntax and style rules. This gives warnings for syntax, which will result in a Javascript error, and style, which may contribute to a logical error, or simply makes the code harder to read.
+
+#### AirBnB Style Rules
+
+RA implements the AirBnB ESLint style rules, which is an extention of the base ESLint rules.
+
+Read some more details about the rules here:
+
+* [https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053)
+* [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+
+## Other VSCode Extensions
+
+1. Install VSCode's [Open in Browser extension](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) to make it easier to open HTML files in our browser from VSCode.
 
 ## Folder Organisation
 
