@@ -41,3 +41,16 @@ The following are all upcoming and past RA Q&A sessions.
 | Tue | 19 Jan 2021 | 3-345pm | [Heng Hong Lee](https://www.linkedin.com/in/henghonglee/) \([video](https://youtu.be/mf1NQ_eFGlk)\) | Director of Engineering at Xfers |
 | Tue | 12 Jan 2021 | 6-645pm | [Samantha Koh](https://www.linkedin.com/in/samkohlq/) \([video](https://youtu.be/BTIHu6qjmH0)\) | Software Engineer at GovTech |
 
+## Standard Questions
+
+1. Could you tell us about your software engineer career journey?
+2. What does a day in your life as a software engineer look like?
+3. How do different types of companies compare in terms of technical and cultural environments?
+4. What do you look for when hiring new software engineers?
+5. What is the interview process for entry-level engineers at the companies you've worked at?
+6. How do you and your company evaluate engineers' performance on the job?
+7. How would you suggest aspiring software engineers best prepare themselves for the job?
+8. What are some lessons you've learned as an engineer that you would share with your younger self?
+9. What are the main differences \(if any\) you've observed between university CS graduates and coding bootcamp graduates and how can both groups improve?
+10. How should recent graduates go about their job search for software engineering jobs?
+
