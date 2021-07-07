@@ -41,7 +41,7 @@ The following are all upcoming and past RA Q&A sessions.
 | Tue | 19 Jan 2021 | 3-345pm | [Heng Hong Lee](https://www.linkedin.com/in/henghonglee/) \([video](https://youtu.be/mf1NQ_eFGlk)\) | Director of Engineering at Xfers |
 | Tue | 12 Jan 2021 | 6-645pm | [Samantha Koh](https://www.linkedin.com/in/samkohlq/) \([video](https://youtu.be/BTIHu6qjmH0)\) | Software Engineer at GovTech |
 
-## Standard Questions
+## Sample Questions
 
 1. Could you tell us about your software engineer career journey?
 2. What does a day in your life as a software engineer look like?
