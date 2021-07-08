@@ -18,17 +18,17 @@ The Comfortable section is for students who have completed the Base section to r
 
 The More Comfortable section is for students who have completed the Base and Comfortable sections, and wish to push their boundaries.
 
- Students can complete Coding Bootcamp successfully without ever attempting problems in the More Comfortable section, but students that can complete More Comfortable exercises may be more valuable in the job market.
+ Students can complete Coding Bootcamp successfully without ever attempting problems in the More Comfortable section, but students that complete More Comfortable exercises may be more valuable in the job market.
 
 ### Exercise / Project Strategies
 
 #### Read full project page before starting
 
-Please read through projects requirements thoroughly, and take all of them into consideration before starting work in your project. Different parts of the project might require different code architecture and starting without taking all factors into account might result in a lengthy code refactor.
+Please read through projects requirements thoroughly, and take all of them into consideration before starting work on your project. Different parts of the project might require different code architecture and starting without taking all factors into account might result in a lengthy code refactor.
 
 #### Separate UI code from logic code
 
-Whenever possible, keep UI and logic code separate. This makes it easier to debug your code as you only have to worry about one section at a time. For example, code to manipulate the DOM can be separated from code that determines rules of a game.
+Whenever possible, keep UI and logic code separate. This makes your code easier to debug as you only have to worry about one section at a time. For example, code to manipulate the DOM can be separated from code that determines rules of a game.
 
 #### Use a project management tool
 
