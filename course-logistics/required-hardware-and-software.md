@@ -2,15 +2,15 @@
 
 ## Introduction
 
-1. If you haven't already, ensure you have [Required Hardware and Software](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software) from Coding Basics.
-2. Please install the latest version of Windows or MacOS that your computer supports. This is so that students have the same and latest operating system features as much as possible.
+1. If you haven't already, please make sure that you have the [required hardware and software](https://app.gitbook.com/@rocketacademy/s/basics/course-logistics/required-hardware-and-software). 
+2. Please install the latest version of Windows or MacOS that your computer supports so that we can standardise the operating system version used by students across the board.
 
 ## Windows
 
 ### Windows Subsystem for Linux \(WSL\)
 
-1. WSL allows us to run the Linux operating system on Windows machines. This is desirable because all web programming is done on Unix-based operating systems, of which MacOS is also a descendant.
-2. Most SWEs using Windows machines at tech companies do their work in WSL to maximise compatibility between their work and that of Linux machines.
+1. WSL allows us to run the Linux operating system on Windows machines. This is desirable because all web programming is done on Unix-based operating systems, of which MacOS is a descendant.
+2. Most SWEs using Windows machines at tech companies do their work in WSL to maximise compatibility between their work and work done on Linux machines.
 3. Before installing WSL, make sure you have updated your Windows version.
 
 #### WSL
@@ -25,11 +25,11 @@ We will use the Ubuntu Linux "distro" or distribution. Install the latest versio
 
 #### Sudo
 
-`sudo` is the command that tells the computer to execute an instruction as an admin \(root\) user.
+`sudo` is the command that tells the computer to execute a command as an admin \(root user\).
 
 #### Apt
 
-Apt is the package management system in Ubuntu. On a clean new Ubuntu install we need to make sure it has the latest package records and everything is updated.
+Apt is the package management system in Ubuntu. On a clean new Ubuntu install we run the 2 commands below to make sure that we have the latest package records and that everything is updated.
 
 ```text
 sudo apt update
@@ -38,7 +38,7 @@ sudo apt upgrade
 
 #### Build Essential
 
-Ubuntu needs some standard libraries in order to properly install common packages.
+Running the command below installs the standard libraries that Ubuntu needs in order to properly install common packages.
 
 ```text
 sudo apt install build-essential
@@ -46,7 +46,7 @@ sudo apt install build-essential
 
 #### SSL
 
-WSL Communicates with VSCode using the SSL protocol. We need the SSL verification certificates on Ubuntu for this to work correctly.
+WSL communicates with VSCode using the SSL protocol. We need to run the following command to get the SSL verification certificates on Ubuntu for this to work correctly.
 
 ```text
 sudo apt-get install ca-certificates
@@ -65,7 +65,7 @@ If you were using the Git Bash terminal before, after following these instructio
 
 ![](../.gitbook/assets/wsl-ss1.png)
 
-1. Click on the icon, you will get a pop up with a list of options. Click on the first option "**Remote-WSL: New Window**" for the default distro or select the "**Remote-WSL: New Window using Distro**" for a specific distro.
+1. Click on the icon,  a pop up will appear with a list of options. Click on the first option "**Remote-WSL: New Window**" for the default distro or select the "**Remote-WSL: New Window using Distro**" for a specific distro.
 
 ![](../.gitbook/assets/wsl-ss2.png)
 
@@ -119,7 +119,7 @@ ESLint is a code formatter specifically for JavaScript that helps us detect func
 
 ### VSCode Formatting Settings
 
-ESLint requires edits to the VSCode configuration file.
+ESLint requires that we make some changes to the VSCode configuration file.
 
 1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
 2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
@@ -144,11 +144,11 @@ ESLint requires edits to the VSCode configuration file.
 
 #### ESLint Suggestion Highlighting \(No Action Needed\)
 
-As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
+As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these fixes are optional but others may cause our programs to break.
 
 ![](../.gitbook/assets/eslint-1.png)
 
-To discern what problems ESLint is raising, we can view the suggestion messages in the console.
+To see what errors we have in our code, we can view the suggestion messages in the console.
 
 ![](../.gitbook/assets/eslint-2.png)
 
@@ -161,7 +161,7 @@ To view messages in the console, use the following steps.
 
 #### ESLint rules
 
-ESLint integrates with specific JavaScript syntax and style rules. This gives warnings for syntax, which will result in a Javascript error, and style, which may contribute to a logical error, or simply makes the code harder to read.
+ESLint integrates with specific JavaScript syntax and style rules, giving warnings for syntax errors, which will result in Javascript errors, and style errors, which may contribute to logical errors or simply make the code harder to read.
 
 #### AirBnB Style Rules
 
@@ -181,11 +181,15 @@ Read some more details about the rules here:
 In Coding Bootcamp we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
 
 {% hint style="warning" %}
-All files and folders are in kebab-case \(lowercase and hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them.
+Names of all files and folders should be in kebab-case, i.e, lowercase and hyphenated \(for example,`new-file.txt`\), for ease of use on the command line.
+{% endhint %}
+
+{% hint style="warning" %}
+ It is generally a bad idea to have files or folders with spaces in their names \(e.g, `new file.txt`\).
 {% endhint %}
 
 {% hint style="danger" %}
-Please do not store your code in a local folder synced to Google Drive. This will cause issues during Bootcamp, such as package installations to run slowly. Apple iCloud has been ok so far.
+Please do not store your code in a local folder synced to Google Drive. This will cause issues during Bootcamp, such as package installations running slowly. Apple iCloud has been ok so far.
 {% endhint %}
 
 ### Folder Organisation - Mac
@@ -208,6 +212,6 @@ Because the Back-end portions of the course change the way we run our code, we w
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
 6. Store projects within a `projects` directory directly within the `bootcamp` folder for easy accessibility.
 7. For Weeks 3 \(Module 2\) onwards we will store files inside the WSL part of the computer. Create a directory called `bootcamp` in the home \(`~`\) folder of the Ubuntu system.
-8. Name the weeks and days similarly to the above.
+8. Name the weeks and days as above.
 9. Do not save any of the files from Week 3 \(Module 2\) onwards in the Windows side of the computer.
 

@@ -6,9 +6,9 @@ description: Source of truth for upcoming RA Q&A sessions.
 
 ## Introduction
 
-Rocket Academy Q&A is a weekly live Q&A session where we invite software engineers from industry to share their experiences with Coding Bootcamp students.
+Rocket Academy Q&A is a weekly live Q&A session where we invite software engineers from the industry to share their experience with our students.
 
-Please mark your calendars! RA Q&A is mandatory for all Coding Bootcamp students. Please message Kai if you have any suggestions for speakers or ways we can improve RA Q&A. Zoom link in Slack. Thank you!
+Please mark your calendars! RA Q&A is mandatory for all Coding Bootcamp students. Please message Kai if you have any suggestions for speakers or ways we can improve RA Q&A. The Zoom link for these sessions can be found in Slack. Thank you!
 
 ## Schedule
 
@@ -43,14 +43,14 @@ The following are all upcoming and past RA Q&A sessions.
 
 ## Sample Questions
 
-1. Could you tell us about your software engineer career journey?
-2. What does a day in your life as a software engineer look like?
-3. How do different types of companies compare in terms of technical and cultural environments?
+1. Could you tell us about your journey as a software engineer?
+2. What does a normal workday look like for you?
+3. How do different companies compare in terms of technical and cultural environment?
 4. What do you look for when hiring new software engineers?
 5. What is the interview process for entry-level engineers at the companies you've worked at?
 6. How do you and your company evaluate engineers' performance on the job?
 7. How would you suggest aspiring software engineers best prepare themselves for the job?
-8. What are some lessons you've learned as an engineer that you would share with your younger self?
+8. What are some lessons you've learnt as an engineer that you would share with your younger self?
 9. What are the main differences \(if any\) you've observed between university CS graduates and coding bootcamp graduates and how can both groups improve?
 10. How should recent graduates go about their job search for software engineering jobs?
 

@@ -4,7 +4,7 @@
 
 ### Difficulty Levels
 
-To accommodate different learning speeds and prior experience, exercises and projects in Coding Bootcamp may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
+To accommodate different learning speeds and levels of experience, exercises and projects in Coding Bootcamp may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
 
 #### Base
 
