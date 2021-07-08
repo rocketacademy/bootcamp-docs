@@ -6,11 +6,11 @@ description: Singapore's Best Coding Bootcamp
 
 ## Welcome to Coding Bootcamp!
 
-Coding Bootcamp is Rocket Academy's flagship career conversion course. It builds on material from [Coding Basics](https://basics.rocketacademy.co). By the end of Coding Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203_890e2dab19_b-811x900.jpg).
+Coding Bootcamp is Rocket Academy's flagship career conversion course. It builds on material taught in [Coding Basics](https://basics.rocketacademy.co). On successful completion of Coding Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203_890e2dab19_b-811x900.jpg).
 
-## Modules
+## Syllabus
 
-Coding Bootcamp consists of modules, each of which covers a significant topic within full-stack software engineering. Course content and schedule are subject to minor changes depending on industry trends and student progress.
+Coding bootcamp's syllabus is divided into 10 modules \(listed in the table below\). Each module covers a key topic in software engineering that is highly relevant in today's industry. Our course schedules and content are subject to minor alterations as we strive to fulfil the changing needs of our students and the industry.
 
 | Module | Weeks | Name | Topics | Stack |
 | :--- | :--- | :--- | :--- | :--- |
@@ -38,16 +38,19 @@ Coding Bootcamp consists of modules, each of which covers a significant topic wi
 
 ## Schedule
 
-Students are expected to be working on Coding Bootcamp minimally from 10am-6pm M-F. Each batch will meet for live classes for 2 hours per day. Unless otherwise specified, Odd batch numbers \(e.g. Batch 1, 3\) meet in the morning from 10am-12pm, and even batch numbers \(e.g. Batch 2, 4\) meet in the afternoon from 1-3pm. All times are in Singapore Time \(GMT+8\).
+Students are expected to spend a minimum of 8 hours a day \(ideally from 10am - 6pm\), every weekday, on coursework. This includes the 2 hours set aside for live sessions. Time slots for these live sessions depend on the  your class's batch number. 
 
-The Coding Bootcamp schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1.1 to 23.5. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
+* Odd batch numbers \(e.g, 1, 3 , 5\): 10am -12pm
+* Even batch numbers \(e.g, 2, 4, 6\): 1pm - 3pm
 
-The Course Weeks pages lists deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. Each day's deliverables are due by the **start** of that day's class. We will complete exercises based on each day's deliverables in pairs during class.
+Our schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1.1 to 23.5. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
 
-## Daily Meeting Agenda
+The Course Weeks pages list deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. Each day's deliverables are due by the **start** of the day's class. We work on exercises based on each day's deliverables in pairs during class.
 
-1. Review yesterday's post-class work
-2. Review today's pre-class material
-3. Complete today's in-class exercise
-4. Introduce today's post-class work
+## Class Agenda
+
+1. Review of post-class exercise\(s\) from the day before
+2. Review of the day's pre-class material
+3. Completion of the day's in-class exercise\(s\)
+4. Introduction of the day's post-class exercise\(s\)
 
