@@ -298,7 +298,8 @@
 
 #### Pre-Class
 
-None
+* [4.1.10: Deploy Sequelize App to Heroku](../4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
+* [6.1.6: Deploy Webpack App to Heroku](../6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
 
 #### In-Class
 
