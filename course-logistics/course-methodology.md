@@ -4,50 +4,52 @@
 
 ### Difficulty Levels
 
-To accommodate different learning speeds and levels of experience, exercises and projects in Coding Bootcamp may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
+To accommodate individual learning speeds and levels of experience, exercises and projects in Coding Bootcamp may be divided into sections that demarcate the levels of difficulty. 
 
-#### Base
+#### Base section
 
-Everything in the Base section must be completed to minimally understand relevant concepts. When short on time, we can complete the Base section then move onto the next exercise or project.
+Everything in the Base section must be completed in order to have an adequate grasp of the concepts being taught. It is the bare minimum that needs to be done. 
 
 #### Comfortable
 
-The Comfortable section is for students that are able to complete Base and wish to practise more of the relevant concepts. This will help students solidify their understanding of the concepts and be better prepared for more complex exercises and projects.
+The Comfortable section is for students who have completed the Base section to reinforce what they have learnt before moving on to more complex and challenging exercises. 
 
 #### More Comfortable
 
-The More Comfortable section is for students that wish to push their boundaries and have completed Base and Comfortable sections. Students can complete Coding Bootcamp successfully without ever touching More Comfortable, but students that can complete More Comfortable exercises may be more valuable in the job market.
+The More Comfortable section is for students who have completed the Base and Comfortable sections, and wish to push their boundaries.
+
+ Students can complete Coding Bootcamp successfully without ever attempting problems in the More Comfortable section, but students that can complete More Comfortable exercises may be more valuable in the job market.
 
 ### Exercise / Project Strategies
 
 #### Read full project page before starting
 
-Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+Please read through projects requirements thoroughly, and take all of them into consideration before starting work in your project. Different parts of the project might require different code architecture and starting without taking all factors into account might result in a lengthy code refactor.
 
-#### Separate UI logic from business logic
+#### Separate UI code from logic code
 
-Whenever possible, separate UI logic from business logic. This is to separate concerns and make it easier to debug both UI and business logic by only having to worry about 1 at a time. For example, code to manipulate the DOM can be separated from code that determines rules of a game.
+Whenever possible, keep UI and logic code separate. This makes it easier to debug your code as you only have to worry about one section at a time. For example, code to manipulate the DOM can be separated from code that determines rules of a game.
 
 #### Use a project management tool
 
-Project management tools can be helpful to manage longer-term projects involving multiple people. Even for individual projects they can be useful tools to organise one's thoughts and prioritise development.
+Project management tools are often used in managing longer-term projects involving multiple people. They can also be used in individual projects to help with things like prioritizing certain tasks and organizing workflow, among other things. 
 
-[Trello](https://trello.com/) is a popular, simple project management tool that we recommend for Coding Bootcamp, and [here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work)'s a breakdown of how to get started with it.
+[Trello](https://trello.com/) is a popular, easy-to-use project management tool that we recommend for Coding Bootcamp. [Here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work) is a breakdown of how to get started with it.
 
 ### Recommended Daily Order of Work
 
-On any given day in Coding Bootcamp, students will have Post-Class Exercises for the current day, Pre-Class Exercises for the upcoming day, and potentially a multi-day Project. RA recommends that students prioritise the material in the following order.
+On any given day in Coding Bootcamp, students will have to do post-class exercises for the current day, pre-class exercises for the upcoming day, and will possibly be working on a project on top of the usual daily exercises . RA recommends that students prioritize the material in the following order.
 
-1. Base section of Post-Class Exercises / Project
-2. Pre-Class Exercises
-3. Comfortable and More Comfortable sections of Post-Class Exercises / Project
+1. Base section of post-class exercises / project
+2. Pre-class exercises
+3. Comfortable and More Comfortable sections of post-class exercises / project
 
 ### How to Save Exercise Code to a New GitHub Repo
 
-Sometimes we might want to save pre-class or in-class exercise work to a repo in our own GitHubs, but we completed the exercises on a copy of the [base-node-bootcamp repo](https://github.com/rocketacademy/base-node-bootcamp) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
+Sometimes we might want to save the work done in the pre-class or in-class exercises to a repo in our own GitHub account, but we completed the exercises on a copy of the a bootcamp repo \(for example, `base-node-bootcamp`\) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
 
 1. Create a new, empty repo in GitHub
-2. In your local copy of `base-node-bootcamp` that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL>` looks something like `https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and de-llink it from `base-node-bootcamp`.
+2. In your local copy of the `base-node-bootcamp`  repo that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL> is https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and unlink it from `base-node-bootcamp`.
 3. Run `git remote -v` to verify that our local repo is linked to the new repo in GitHub
 4. Commit any desired local changes and run `git push`. This will push the current state of the repo to the `origin` remote, which should be the new repo we created.
 
@@ -55,7 +57,7 @@ Sometimes we might want to save pre-class or in-class exercise work to a repo in
 
 Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). We will simulate this during Coding Bootcamp project weeks. Every morning we will take turns to share the following with each other, to make sure we are on-track with our projects and don't get stuck on blockers.
 
-1. What I did yesterday
+1. What I did the day before
 2. What I plan to do today
 3. Anything I am blocked on
 
