@@ -230,7 +230,7 @@
   * [4.1.7: Sequelize Eager Loading](4-backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading.md)
   * [4.1.8: Sequelize Self-Referencing Table Columns](4-backend-structure/4.1-orm-sequelize/4.1.8-sequelize-self-referencing-table-columns.md)
   * [4.1.9: Sequelize Setup Cheatsheet](4-backend-structure/4.1-orm-sequelize/4.1.9-sequelize-setup-cheatsheet.md)
-  * [4.1.10: Sequelize - Heroku](4-backend-structure/4.1-orm-sequelize/4.1.10-sequelize-heroku.md)
+  * [4.1.10: Deploy Sequelize App to Heroku](4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
 * [4.2: MVC](4-backend-structure/4.2-mvc/README.md)
   * [4.2.1: RESTful Routes](4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 * [4.ICE: In-Class Exercises](4-backend-structure/4.ice-in-class-exercises.md)
@@ -265,7 +265,7 @@
   * [6.1.3: Webpack with Babel](6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
   * [6.1.4: Webpack with SASS](6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
   * [6.1.5: Webpack with Express](6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
-  * [6.1.6: Express MVC Webpack & Heroku](6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
+  * [6.1.6: Deploy Webpack App to Heroku](6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
 * [6.ICE: In-Class Exercises](6-frontend-infrastructure/6.ice-in-class-exercises/README.md)
   * [6.ICE.1: NPM Webpack](6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
 
