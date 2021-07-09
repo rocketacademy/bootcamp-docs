@@ -138,6 +138,26 @@ npm install -g eslint
 
 Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
+### ESLint NPM Configuration Libraries
+
+In Bootcamp we will change the way the code formatter is setup. We'll be using more advanced plugins and libraries to lint and format our code so that we can get more detailed information on possible errors, and so that the Bootcamp coding style is consistent for everyone.
+
+The following instructions allow us to use some specific code style checker libraries that will be used inside of VSCode and display these warnings and errors.
+
+{% hint style="warning" %}
+Once **any** starter code repo has been cloned, ESLint configuration libraries must be installed _**every time**_.
+
+After `cd`ing into the repo directory, run the following command to install the libraries:
+
+```text
+npm install
+```
+{% endhint %}
+
+#### NPM
+
+We'll be covering NPM and the `npm install` command in depth in [Module 2](../2-backend-basics/2.14-npm.md). For now, it is enough to know that the command downloads and installs libraries into a directory called `node_modules`. You'll see this directory appear in your repo.
+
 ### VSCode Formatting Settings
 
 ESLint requires that we make some changes to the VSCode configuration file.
