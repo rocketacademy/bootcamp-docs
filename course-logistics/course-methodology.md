@@ -57,9 +57,9 @@ To save work from a forked copy of a bootcamp repo to a new repo, follow the ins
 
 Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). This is simulated during Coding Bootcamp project weeks. Every morning students will take turns sharing the following with each other, thereby making sure that everyone is on-track with their projects.
 
-1. What I did the day before
-2. What I plan to do today
-3. Anything I am blocked on
+1. What was done the day before
+2. Plans for the day
+3. Blockers faced
 
 ## Project Presentations
 
@@ -72,13 +72,13 @@ Students present projects in class on the last day of each project. Presentation
 
 ## Peer Code Review
 
-On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
+On days where there are longer post-class exercises or projects due, we will review each others' code in pairs during class. If there is an odd number of students in the class, the student without a partner will join a pair so that everyone gets to review someone else's code.
 
 ### Individual
 
 1. Clone partner's code
    1. You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
-   2. **If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo.
+   2. **If you have forked the repo, but you have not pushed your latest changes to GitHub,** take a moment now to do a `git push`. Let your partner know you're updating the repo.
    3. Run `git clone <repo-url> <new-folder-name>` to clone your partner's code. You will need to rename the target folder when you clone if you already have a folder named after the repo.
 2. Run partner's code
    1. Open the code in the browser and test it. What does it do? If you're not sure what it does look inside the `script.js` or relevant files to see.

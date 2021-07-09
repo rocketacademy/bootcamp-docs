@@ -1,6 +1,6 @@
 # Naming, Casing, and Commenting Conventions
 
-Naming, casing, and commenting are critical to software engineering because they help us communicate what our code does, preventing miscommunication and bugs. The following are a set of naming, casing, and commenting conventions to follow during Coding Bootcamp \(primarily for JavaScript\) \(and hopefully beyond\).
+Naming, casing, and commenting are critical to software engineering because they help us communicate what our code does, preventing miscommunication and bugs. The following are a set of naming, casing, and commenting conventions to follow during Coding Bootcamp \(primarily for JavaScript\), and hopefully beyond.
 
 ## Naming
 
