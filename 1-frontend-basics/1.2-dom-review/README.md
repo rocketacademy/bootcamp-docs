@@ -58,7 +58,7 @@ button.addEventListener('click', function () {
 Implement basic DOM manipulation with the code provided below.
 
 1. Read comments in below code to understand what's happening
-2. Clone this repo: [https://github.com/rocketacademy/basics-next-steps-dom](https://github.com/rocketacademy/basics-next-steps-dom)
+2. Clone this repo: [https://github.com/rocketacademy/dom-starter-bootcamp](https://github.com/rocketacademy/dom-starter-bootcamp) 
 3. Implement the below code in your copy of the repo
 
 #### index.html
