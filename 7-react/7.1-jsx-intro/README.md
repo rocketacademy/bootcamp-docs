@@ -31,7 +31,7 @@ npm install --save-dev react react-dom @babel/preset-react
   use: {
     loader: require.resolve('babel-loader'),
     options: {
-      presets: ['@babel/preset-env','@babel/preset-react'],
+      presets: ['@babel/preset-env', '@babel/preset-react'],
     },
   },
 },
@@ -155,7 +155,7 @@ In JSX and React, HTML elements can't have a `class` attribute because the HTML 
 const myEl = <div className="hero-text">Hey Wow!</div>;
 ```
 
-## JSX with Multiple Elements
+## JSX with Multiple HTML Elements
 
 So far we've used JSX to create a single HTML element and rendered that element onto our page. Our equivalent DOM code would be the same length or shorter. The real benefit of JSX is the ability to specify a set of nested elements in the same way we would write HTML. How many lines would the equivalent DOM code be?
 
@@ -255,5 +255,5 @@ Read more about JSX on the official docs: [https://reactjs.org/docs/introducing-
 
 ## Exercise
 
-Repeat the above code.
+Replicate the above code.
 
