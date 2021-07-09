@@ -114,8 +114,23 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 
 ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it.
 
-1. Install ESLint by running `sudo npm i -g eslint` from the terminal in VSCode. Enter your computer's password if prompted.
-2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+#### Windows
+
+```text
+sudo npm install -g eslint
+```
+
+Install ESLint by running `sudo npm i -g eslint` from the terminal in VSCode. Enter your computer's password if prompted.
+
+#### Mac
+
+```text
+npm install -g eslint
+```
+
+#### VSCode ESLint Extension
+
+Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
 ### VSCode Formatting Settings
 
