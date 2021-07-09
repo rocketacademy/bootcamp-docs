@@ -44,9 +44,9 @@ On any given day in Coding Bootcamp, students will have to do post-class exercis
 2. Pre-class exercises
 3. Comfortable and More Comfortable sections of post-class exercises / project
 
-### How to Save Exercise Code to a New GitHub Repo
+### Saving work from a forked copy of RA's repo to a New GitHub Repo
 
-Sometimes we might want to save the work done in the pre-class or in-class exercises to a repo in our own GitHub account, but we completed the exercises on a copy of the a bootcamp repo \(for example, `base-node-bootcamp`\) that we cannot fork more than once. One of our students Alvin Lim compiled a convenient way to do this.
+To save work from a forked copy of a bootcamp repo to a new repo, follow the instructions below.
 
 1. Create a new, empty repo in GitHub
 2. In your local copy of the `base-node-bootcamp`  repo that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL> is https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and unlink it from `base-node-bootcamp`.
@@ -55,7 +55,7 @@ Sometimes we might want to save the work done in the pre-class or in-class exerc
 
 ## Project Scrums
 
-Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). We will simulate this during Coding Bootcamp project weeks. Every morning we will take turns to share the following with each other, to make sure we are on-track with our projects and don't get stuck on blockers.
+Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). This is simulated during Coding Bootcamp project weeks. Every morning students will take turns sharing the following with each other, thereby making sure that everyone is on-track with their projects.
 
 1. What I did the day before
 2. What I plan to do today
