@@ -100,7 +100,13 @@ Homebrew typically manages OS-specific packages and not application-specific pac
 
 Follow the install instructions at: [https://brew.sh/](https://brew.sh/)
 
+### Node.js
 
+Install Node.js using Homebrew.
+
+```text
+brew install node
+```
 
 ## VSCode Formatters
 
