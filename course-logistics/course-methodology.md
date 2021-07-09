@@ -12,7 +12,7 @@ Everything in the Base section must be completed in order to have an adequate gr
 
 #### Comfortable
 
-The Comfortable section is for students who have completed the Base section to reinforce what they have learnt before moving on to more complex and challenging exercises. 
+The Comfortable section is for students who have completed the Base section and wish to reinforce what they have learnt before moving on to more complex and challenging exercises. 
 
 #### More Comfortable
 
