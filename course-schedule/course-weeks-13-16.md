@@ -34,6 +34,8 @@ None
 
 * [Project 3 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 
+## Module 7: React
+
 ### Course Day 13.3
 
 #### Pre-Class
@@ -50,8 +52,6 @@ None
 #### Post-Class
 
 * [7.POCE.1: JSX Bug Reports](../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
-
-## Module 7: React
 
 ### Course Day 13.4
 
