@@ -33,6 +33,7 @@
 * [1.1.2: Basic CSS \(Exercises Part 1\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
 * [1.3: High Card DOM](../1-frontend-basics/1.3-high-card-dom.md)
 * [0.3: Reading Documentation](../0-language-and-tooling/0.3-reading-documentation.md)
+* [1.4: setTimeout](../1-frontend-basics/1.4-settimeout.md)
 
 #### In-Class
 
@@ -48,9 +49,9 @@
 #### Pre-Class
 
 * [1.1.2: Basic CSS \(Exercises Part 2, Tribute Page\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2-exercises-23-36-skip-last-8-exercises)
-* [1.4: setTimeout](../1-frontend-basics/1.4-settimeout.md)
 * [1.5: High Card setTimeout](../1-frontend-basics/1.5-high-card-settimeout.md)
 * [1.6: Match Game](../1-frontend-basics/1.6-match-game.md)
+* [0.2.4: Reference vs. Value](../0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value.md)
 
 #### In-Class
 
