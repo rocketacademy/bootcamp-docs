@@ -19,6 +19,7 @@
 #### In-Class
 
 * Day 1 Photo!
+* Student Introductions
 * [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
 
 #### Post-Class
