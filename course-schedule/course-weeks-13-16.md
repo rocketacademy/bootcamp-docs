@@ -52,6 +52,7 @@ None
 #### Post-Class
 
 * [7.POCE.1: JSX Bug Reports](../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
+* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.4
 
@@ -72,6 +73,7 @@ None
 
 * [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 * [D.6.5: Linked Lists - Part 2 \(optional - do after trees\)](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-2)
+* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.5
 
@@ -89,6 +91,7 @@ None
 
 * [7.POCE.2: React Tic Tac Toe](../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
 * [D.6.6: Trees - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-1)
+* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ## Course Week 14
 
@@ -107,6 +110,7 @@ None
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [D.6.6: Trees - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-2)
+* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.2
