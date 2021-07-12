@@ -111,6 +111,10 @@ None
 
 ### Course Day 14.2
 
+#### Due
+
+* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
+
 #### Pre-Class
 
 * [7.7: Component Hierarchy](../7-react/7.7-component-hierarchy/)
