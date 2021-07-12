@@ -4,7 +4,6 @@
 
 ## 📅 Course Schedule
 
-* [FTBC2 Schedule](course-schedule/ftbc2-schedule.md)
 * [FTBC3 Schedule](course-schedule/ftbc3-schedule.md)
 * [FTBC4 Schedule](course-schedule/ftbc4-schedule.md)
 * [Course Weeks 1-4](course-schedule/course-weeks-1-4.md)
