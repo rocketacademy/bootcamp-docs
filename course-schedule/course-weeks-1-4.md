@@ -68,6 +68,8 @@
 
 * [1.7: setInterval](../1-frontend-basics/1.7-setinterval.md)
 * [1.8: Timer](../1-frontend-basics/1.8-timer.md)
+* [1.1.3.1: CSS No Layout](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.1-no-layout.md)
+* [1.1.3.2: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.2-display-inline-and-block.md)
 
 #### In-Class
 
@@ -84,8 +86,6 @@
 
 * [1.9: Tic Tac Toe](../1-frontend-basics/1.9-tic-tac-toe.md)
 * [1.10: Multi File Refactor](../1-frontend-basics/1.10-multi-file-refactor.md)
-* [1.1.3.1: CSS No Layout](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.1-no-layout.md)
-* [1.1.3.2: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.2-display-inline-and-block.md)
 * [1.1.3.3: CSS Box Model](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.3-box-model.md)
 * [1.1.3.4: CSS Layout Width](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.4-layout-fixed-width-and-max-width.md)
 
