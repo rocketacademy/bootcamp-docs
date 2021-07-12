@@ -42,6 +42,7 @@
   * [0.2.1: ES6 Basics](0-language-and-tooling/0.2-es6/0.2.1-es6-basics.md)
   * [0.2.2: ES6 Array Iterators](0-language-and-tooling/0.2-es6/0.2.2-es6-array-iterators.md)
   * [0.2.3: ES6 Destructuring, Spread Operators](0-language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators.md)
+  * [0.2.4: Reference vs. Value](0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value.md)
 * [0.3: Reading Documentation](0-language-and-tooling/0.3-reading-documentation.md)
 * [0.4: JS Object as Tally](0-language-and-tooling/0.4-js-object-as-tally.md)
 * [0.5: Advanced Git](0-language-and-tooling/0.5-advanced-git/README.md)
