@@ -2,8 +2,6 @@
 
 ## Introduction
 
-![](../../.gitbook/assets/llmeme2.jpeg)
-
 Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked lists may not be stored in contiguous blocks of memory in RAM. Consecutive elements in a linked list may be stored in different places in RAM, but linked by a pointer from each element in the linked list to the next and/or previous element. This means 2 things for us.
 
 1. Start and mid-list insertion and deletion operations that were `O(n)` time with arrays become `O(1)` time with LLs because all subsequent elements do not need to be shifted in memory. Only pointers of previous and next elements in the list need to be updated.
