@@ -28,7 +28,7 @@ def find_x_in_tree(node, x):
   if node.val == x:
     return True
   # Return True if x is in the left or right subtrees
-  return find_x_in_tree(node.left) or find_x_in_tree(node.right)
+  return find_x_in_tree(node.left, x) or find_x_in_tree(node.right, x)
 ```
 
 ### Breadth-First Search \(BFS\)
