@@ -79,7 +79,7 @@ None
 #### Pre-Class
 
 * [7.3: React Express](../7-react/7.3-express.js-+-webpack-+-react.md)
-* [7.4: React useState](../7-react/7.4-state.md)
+* [7.4: React State](../7-react/7.4-state.md)
 
 #### In-Class
 
