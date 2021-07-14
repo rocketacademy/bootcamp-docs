@@ -112,7 +112,7 @@
 #### Pre-Class
 
 * [4.1.6 Sequelize Validations](../4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
-* [5.2: AJAX](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/5-full-stack-applications/5.2-ajax)
+* [5.2: AJAX](../5-full-stack-applications/5.2-ajax/)
 
 #### In-Class
 
