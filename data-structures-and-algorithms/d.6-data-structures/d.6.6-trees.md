@@ -129,7 +129,8 @@ These properties are especially useful for search algorithms, because given rela
 ### Part 3
 
 1. [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
-   1. [Here's an intuitive explanation of binary numbers.](https://www.mathsisfun.com/binary-number-system.html)
+   1. Here's an [intuitive explanation of binary numbers](https://www.mathsisfun.com/binary-number-system.html).
+   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA_vkpE?t=2372).
 2. [https://leetcode.com/problems/increasing-order-search-tree/](https://leetcode.com/problems/increasing-order-search-tree/)
    1. Hint: Consider in-order traversal to traverse a binary search tree in increasing order.
 3. [https://leetcode.com/problems/n-ary-tree-postorder-traversal/](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)

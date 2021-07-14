@@ -41,6 +41,7 @@ Linked lists \(LLs\) are typically used when we want faster insertion or deletio
 
 1. [https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
    1. [FTBC3 class video solution](https://youtu.be/qewAXA_vkpE?t=2372) \(re-recorded after class\)
+      1. This video also introduces the concept of [binary numbers](https://www.mathsisfun.com/binary-number-system.html).
 2. [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
 3. [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
 4. [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
