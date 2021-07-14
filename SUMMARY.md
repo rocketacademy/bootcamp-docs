@@ -277,7 +277,7 @@
   * [7.1.2: Rendering in a Loop](7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
 * [7.2: React Components](7-react/7.2-react-components/README.md)
   * [7.2.1: Props](7-react/7.2-react-components/7.2.1-props.md)
-  * [7.2.2: Rendering Components](7-react/7.2-react-components/7.2.2-rendering-components.md)
+  * [7.2.2: Generating Components from a List](7-react/7.2-react-components/7.2.2-generating-components-from-a-list.md)
   * [7.2.3: Class Components](7-react/7.2-react-components/7.2.3-class-components.md)
 * [7.3: Using React with Express and Webpack](7-react/7.3-using-react-with-express-and-webpack.md)
 * [7.4: React State](7-react/7.4-react-state.md)
