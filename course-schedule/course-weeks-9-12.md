@@ -214,6 +214,10 @@
 
 ### Course Day 11.3
 
+#### Due
+
+Deadline to post Project 3 ideas in Slack
+
 #### Pre-Class
 
 * [6.1.5: Webpack with Express](../6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
