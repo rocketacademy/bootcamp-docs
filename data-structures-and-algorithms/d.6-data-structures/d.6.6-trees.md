@@ -8,6 +8,7 @@ Trees are a common data structure used to represent hierarchical data, often see
 
 1. [This](https://www.youtube.com/watch?v=qH6yxkw0u78) video is a clear and concise intro to basic concepts regarding trees.
 2. Read pages 112-115 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+3. [FTBC3's class video](https://youtu.be/3Dw3spVIk1w?t=297) when we introduced trees.
 
 ## Tree Traversals
 
@@ -102,6 +103,7 @@ These properties are especially useful for search algorithms, because given rela
 
 1. [https://repl.it/@kaiyuanneo/treeintro\#main.py](https://repl.it/@kaiyuanneo/treeintro#main.py)
    1. [https://repl.it/@kaiyuanneo/treeintrosoln\#main.py](https://repl.it/@kaiyuanneo/treeintrosoln#main.py)
+   2. [FTBC3 class video ](https://youtu.be/3Dw3spVIk1w?t=3001)where we solved the 1st 2 problems together.
 2. [https://repl.it/@kaiyuanneo/treebst\#main.py](https://repl.it/@kaiyuanneo/treebst#main.py)
    1. [https://repl.it/@kaiyuanneo/treebstsoln\#main.py](https://repl.it/@kaiyuanneo/treebstsoln#main.py)
 3. [https://repl.it/@kaiyuanneo/treetraversals\#main.py](https://repl.it/@kaiyuanneo/treetraversals#main.py)
@@ -138,6 +140,7 @@ These properties are especially useful for search algorithms, because given rela
 ### Part 4
 
 1. [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
+   1. [Solution video](https://youtu.be/3Dw3spVIk1w?t=4579) from FTBC3's class
 2. [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
 3. [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
 4. [https://leetcode.com/problems/average-of-levels-in-binary-tree/](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
