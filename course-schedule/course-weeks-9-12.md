@@ -136,6 +136,7 @@
 #### Post-Class
 
 * [5.POCE.1: Bug Reports AJAX](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
+* [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ### Course Day 10.4
 
@@ -152,6 +153,7 @@
 #### Post-Class
 
 * [5.POCE.2: Bug Reports AJAX Users](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
+* [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ## Module 6: Frontend Infrastructure
 
@@ -170,6 +172,7 @@
 #### Post-Class
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ## Course Week 11
 
