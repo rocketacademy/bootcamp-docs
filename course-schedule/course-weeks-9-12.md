@@ -197,17 +197,17 @@
 
 * [6.1.3: Webpack with Babel](../6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
 * [6.1.4: Webpack with SASS](../6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
-* [D.5: Recursion - Required Reading](../data-structures-and-algorithms/d.7-recursion.md#required-reading)
+* [D.6.1: Arrays - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#pre-class)
 
 #### In-Class
 
-* [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
+* [D.6.1: Arrays - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-1)
 
 #### Post-Class
 
 * [5.POCE.3: AJAX Cards](../5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [D.6.1: Arrays - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-1)
 * [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
-* [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
 
 ### Course Day 11.3
 
@@ -218,67 +218,18 @@
 #### In-Class
 
 * AJAX Cards Redux
-* [D.5: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
+* [D.6.1: Arrays - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-2)
 
 #### Post-Class
 
 * [Project 3 Ideation Phase 2](../projects/project-3-full-stack-game.md#ideation-phase-2)
-* [D.5: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
+* [D.6.1: Arrays - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-2)
 
 ### Course Day 11.4
 
 #### Pre-Class
 
 * [Group Work](../course-logistics/group-work.md) \(for project management\)
-
-#### In-Class
-
-* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
-
-#### Post-Class
-
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
-
-### Course Day 11.5
-
-#### Pre-Class
-
-* [D.6.1: Arrays - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#pre-class)
-
-#### In-Class
-
-* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.1: Arrays - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-1)
-
-#### Post-Class
-
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6.1: Arrays - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-1)
-
-## Course Week 12
-
-### Course Day 12.1
-
-#### Pre-Class
-
-* [D.7: Sorting Algorithms](../data-structures-and-algorithms/d.8-sorting-algorithms.md)
-
-#### In-Class
-
-* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6.1: Arrays - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-2)
-
-#### Post-Class
-
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6.1: Arrays - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md#part-2)
-
-### Course Day 12.2
-
-#### Pre-Class
-
 * [D.6.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md)
 
 #### In-Class
@@ -288,30 +239,28 @@
 
 #### Post-Class
 
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 * [D.6.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-1)
 
-### Course Day 12.3
-
-#### Due
-
-* [Project 3 MVP Deadline \(deployed\)](../projects/project-3-full-stack-game.md#mvp-deadline)
+### Course Day 11.5
 
 #### Pre-Class
 
-* [4.1.10: Deploy Sequelize App to Heroku](../4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
-* [6.1.6: Deploy Webpack App to Heroku](../6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
+None
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [Project 3 Peer Code Review](../projects/project-3-full-stack-game.md#mvp-deadline)
+* [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
 
 #### Post-Class
 
-* [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
 
-### Course Day 12.4
+## Course Week 12
+
+### Course Day 12.1
 
 #### Pre-Class
 
@@ -327,6 +276,62 @@
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 * [D.6.3: Stacks - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-1)
 
+### Course Day 12.2
+
+#### Pre-Class
+
+None
+
+#### In-Class
+
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.6.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
+
+#### Post-Class
+
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
+
+### Course Day 12.3
+
+#### Due
+
+* [Project 3 MVP Deadline \(deployed\)](../projects/project-3-full-stack-game.md#mvp-deadline)
+
+#### Pre-Class
+
+* [4.1.10: Deploy Sequelize App to Heroku](../4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
+* [6.1.6: Deploy Webpack App to Heroku](../6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
+* [D.6.4: Queues - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#pre-class)
+
+#### In-Class
+
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 3 Peer Code Review](../projects/project-3-full-stack-game.md#mvp-deadline)
+* [D.6.4: Queues - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
+
+#### Post-Class
+
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.4: Queues - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
+
+### Course Day 12.4
+
+#### Pre-Class
+
+* [D.6: Object-Oriented Programming](../data-structures-and-algorithms/d.6-intro-to-object-oriented-programming.md)
+* [D.6.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#pre-class)
+
+#### In-Class
+
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.6.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
+
+#### Post-Class
+
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
+
 ### Course Day 12.5
 
 #### Due
@@ -341,10 +346,10 @@ None
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 3 Feature Freeze In-Class Review](../projects/project-3-full-stack-game.md#feature-freeze)
-* [D.6.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
+* [D.6.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
+* [D.6.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
 
