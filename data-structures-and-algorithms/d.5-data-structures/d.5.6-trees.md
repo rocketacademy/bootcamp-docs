@@ -18,9 +18,10 @@ The 2 most common methods of tree traversal are Depth-First Search \(DFS\) and B
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-Most vanilla recursion applies DFS. For example, the naive Fibonacci implementation of Fib\(n\) might solve the entire Fib\(n-1\) subtree before recursing on Fib\(n-2\). The following is an example of DFS that returns true if the value `x` is within a tree, false if not.
+Most vanilla recursion applies DFS. For example, the naive Fibonacci implementation of Fib\(n\) might solve the entire Fib\(n-1\) subtree before recursing on Fib\(n-2\). The following is an example of DFS that returns `True` if the value `x` is within a tree, false if not.
 
 ```python
+# The initial call to find_x_in_tree passes the root node
 def find_x_in_tree(node, x):
   # If recursion reaches child of leaf node, x was not found
   if not node:
@@ -28,7 +29,7 @@ def find_x_in_tree(node, x):
   # If current node has value x, x is found
   if node.val == x:
     return True
-  # Return True if x is in the left or right subtrees
+  # Return True if x is in the left or right subtrees of node
   return find_x_in_tree(node.left, x) or find_x_in_tree(node.right, x)
 ```
 
@@ -43,11 +44,11 @@ Consider using Python's built-in `deque` data structure [here](https://docs.pyth
 ```python
 from collections import deque
 
-def level_order(tree):
+def level_order(root_node):
   ''' Return the list of values level by level (Hint: Consider iteration)'''
   level_order_values = []
   # Store upcoming nodes in a queue
-  q = deque([tree])
+  q = deque([root_node])
   while len(q) > 0:
     # Iteratively dequeue first node in queue until queue is empty
     currnode = q.popleft()
