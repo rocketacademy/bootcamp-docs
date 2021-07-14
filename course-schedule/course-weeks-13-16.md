@@ -40,7 +40,7 @@ None
 #### Pre-Class
 
 * [D.7: Recursion - Required Reading](../data-structures-and-algorithms/d.7-recursion.md#required-reading)
-* [7.1: JSX Intro](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/7-react/7.1-jsx-intro)
+* [7.1: JSX Intro](../7-react/7.1-jsx-intro/)
 * [7.1.1: Conditional Rendering](../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
 * [7.1.2: Rendering In a Loop](../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
 
@@ -59,7 +59,7 @@ None
 #### Pre-Class
 
 * [D.8: Sorting Algorithms](../data-structures-and-algorithms/d.8-sorting-algorithms.md)
-* [7.2: React Components](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/7-react/7.2-components)
+* [7.2: React Components](../7-react/7.2-react-components/)
 * [7.2.1: Props](../7-react/7.2-react-components/7.2.1-props.md)
 * [7.2.2: Generating Components from a List](../7-react/7.2-react-components/7.2.2-generating-components-from-a-list.md)
 * [7.2.3: Class Components](../7-react/7.2-react-components/7.2.3-class-components.md)
@@ -120,7 +120,7 @@ None
 
 #### Pre-Class
 
-* [7.7: Component Hierarchy](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/7-react/7.7-component-hierarchy)
+* [7.7: Component Hierarchy](../7-react/7.7-component-hierarchy/)
 * [7.9: React Dev Tools](../7-react/7.9-react-dev-tools.md)
 * [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
 

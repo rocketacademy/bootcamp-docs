@@ -8,7 +8,7 @@ We are now building a "back-end" to the front-end JavaScript that runs in the br
 
 ## Webpack Order of Events
 
-![](../../.gitbook/assets/webpack-good.jpg)
+![Steps 1, 2, 3 are new. Steps 4, 5, 6, 7 are what we were doing previously.](../../.gitbook/assets/webpack-good.jpg)
 
 1. The `webpack` command is run.
 2. Webpack transforms `src/script.js` and/or whichever other files or groups of files are specified in Webpack configuration. "src" stands for "source".

@@ -4,6 +4,11 @@
 
 RA recommends doing DS&A interviews in Python instead of JavaScript because the concise and English-like nature of Python syntax may enable more efficient use of time in a time-pressured interview setting. This is why Python is the most popular language for solving DS&A problems. In addition, Python is the most popular language for data-related work, e.g. data analytics or data science, thus it will be in students' favour to learn Python in addition to JavaScript. 
 
+## Python Quirks
+
+1. Python variables adhere to [function scope](https://www.w3schools.com/python/python_scope.asp), which means all local variables are accessible within the function in which they are declared. This is different from the [block scope](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11#:~:text=A%20block%20scope%20is%20the,only%20within%20the%20corresponding%20block.) that applies to `let` and `const` vars in JavaScript.
+2. Python `==` works like JS `===`, in that both operators compare both value and data type.
+
 ## Exercises
 
 The following are a collection of concise exercises from [learnpython.org](https://learnpython.org) \(powered by [datacamp.com](https://datacamp.com)\) that we believe will be helpful to you to do before starting DS&A practice with RA.

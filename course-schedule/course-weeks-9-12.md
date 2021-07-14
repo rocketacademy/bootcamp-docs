@@ -8,7 +8,7 @@
 
 #### Pre-Class
 
-* [3.6: Heroku](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/3-backend-applications/3.6-heroku)
+* [3.6: Heroku](../3-backend-applications/3.6-heroku/)
 * [3.6.1: Heroku Deploy](../3-backend-applications/3.6-heroku/3.6.1-heroku-deploy.md)
 * [3.6.2: Heroku Postgres](../3-backend-applications/3.6-heroku/3.6.2-heroku-postgres.md)
 * [3.6.3: Heroku S3](../3-backend-applications/3.6-heroku/3.6.3-heroku-s3.md)
@@ -26,7 +26,7 @@
 
 #### Pre-Class
 
-* [4.1: ORM, Sequelize](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/4-backend-structure/4.1-orm-sequelize)
+* [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize/)
 * [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
 * [4.1.2: Sequelize One-to-Many](../4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships.md)
 
@@ -63,7 +63,7 @@
 
 #### Pre-Class
 
-* [4.2: MVC](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/4-backend-structure/4.2-mvc)
+* [4.2: MVC](../4-backend-structure/4.2-mvc/)
 * [4.2.1: RESTful Routes](../4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 
 #### In-Class
@@ -162,7 +162,7 @@
 #### Pre-Class
 
 * [D.2: Intro to Python \(Exercises 9-11\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
-* [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/6-frontend-infrastructure/6.1-webpack)
+* [6.1: Webpack](../6-frontend-infrastructure/6.1-webpack/)
 * [5.2.2: AJAX Cards](../5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
 
 #### In-Class

@@ -69,9 +69,7 @@ Here are some ways to filter jobs on job portals.
 
 ## Exercise
 
-Create a Notion for your preliminary job searching  documents.
-
-Answer the strategy questions above.
-
-Browse the job searching portal links above. Record any jobs that you may be interested in in the Notion. No need to make any contacts yet.
+1. Create a Notion for your preliminary job searching documents.
+2. Answer the strategy questions above.
+3. Browse the job searching portal links above. Record any jobs that you may be interested in in the Notion. No need to make any contacts yet.
 

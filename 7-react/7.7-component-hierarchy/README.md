@@ -1,5 +1,7 @@
 # 7.7: Component Hierarchy
 
+## Introduction
+
 One of the most difficult, confusing aspects of building a React app is deciding what components are responsible for what, and where the data gets stored.
 
 We'll look at some of the principles of React app design through examples.
