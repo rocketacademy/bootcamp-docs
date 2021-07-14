@@ -92,6 +92,10 @@ Binary Search Trees or BSTs are a special kind of tree where each node has the f
 
 These properties are especially useful for search algorithms, because given relatively "balanced" BSTs we will be able to search for elements in BSTs in `O(log(n))` time. [Read more about BSTs here](https://www.geeksforgeeks.org/binary-search-tree-data-structure/).
 
+## General Tips
+
+1. Tree \(and Linked List\) problems will often say that the tree is passed as a parameter to our function. What they mean by this is that the root or head node of the tree or linked list respectively is passed to the function. The tree is represented by the root node, which can be used to access all other nodes in the tree.
+
 ## Exercises
 
 ### Pre-Class
