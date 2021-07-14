@@ -59,10 +59,10 @@ None
 #### Pre-Class
 
 * [D.8: Sorting Algorithms](../data-structures-and-algorithms/d.8-sorting-algorithms.md)
-* [7.2: Components](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/7-react/7.2-components)
-* [7.2.1: Props](../7-react/7.2-components/7.2.1-props.md)
-* [7.2.2: Rendering Components](../7-react/7.2-components/7.2.2-rendering-components.md)
-* [7.2.3: Class Components](../7-react/7.2-components/7.2.3-class-components.md)
+* [7.2: React Components](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/7-react/7.2-components)
+* [7.2.1: Props](../7-react/7.2-react-components/7.2.1-props.md)
+* [7.2.2: Rendering Components](../7-react/7.2-react-components/7.2.2-rendering-components.md)
+* [7.2.3: Class Components](../7-react/7.2-react-components/7.2.3-class-components.md)
 
 #### In-Class
 
@@ -78,8 +78,8 @@ None
 
 #### Pre-Class
 
-* [7.3: React Express](../7-react/7.3-express.js-+-webpack-+-react.md)
-* [7.4: React State](../7-react/7.4-state.md)
+* [7.3: Using React with Express and Webpack](../7-react/7.3-using-react-with-express-and-webpack.md)
+* [7.4: React State](../7-react/7.4-react-state.md)
 
 #### In-Class
 

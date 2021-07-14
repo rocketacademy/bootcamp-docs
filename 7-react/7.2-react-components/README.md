@@ -1,4 +1,4 @@
-# 7.2: Components
+# 7.2: React Components
 
 ## Introduction
 
