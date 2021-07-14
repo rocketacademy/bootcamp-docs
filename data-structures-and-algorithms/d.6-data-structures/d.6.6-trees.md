@@ -61,6 +61,37 @@ def level_order(tree):
   return level_order_values
 ```
 
+### Pre-Order, In-Order and Post-Order Traversal
+
+Certain tree problems are better solved if we can manipulate the order in which we traverse nodes. These 3 traversals are variations on the DFS algorithm shared above, and determine the order in which we traverse the left child, parent, and right child nodes. 
+
+**Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree \(described below\)](d.6.6-trees.md#binary-search-trees).
+
+1. Parent
+2. Left Child
+3. Right Child
+
+**In-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as printing the values in a [binary search tree](d.6.6-trees.md#binary-search-trees) in ascending order.
+
+1. Left Child
+2. Parent
+3. Right Child
+
+**Post-Order Traversal** implies visiting nodes in the following order. This is helpful in situations where we might want to operate on all leaf nodes before their parents, for example when deleting nodes in a tree.
+
+1. Left Child
+2. Right Child
+3. Parent
+
+## Binary Search Trees
+
+Binary Search Trees or BSTs are a special kind of tree where each node has the following properties.
+
+1. All nodes in the left subtree \(subtree that extends from the parent node's left child\) have values smaller than the parent node.
+2. All nodes in the right subtree \(subtree that extends from the parent node's right child\) have values larger than the parent node.
+
+These properties are especially useful for search algorithms, because given relatively "balanced" BSTs we will be able to search for elements in BSTs in `O(log(n))` time. [Read more about BSTs here](https://www.geeksforgeeks.org/binary-search-tree-data-structure/).
+
 ## Exercises
 
 ### Pre-Class
