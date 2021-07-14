@@ -20,6 +20,12 @@ Big-O Notation consists of a big O, parentheses, and a variation on a mathematic
 
 When expressing Big-O notation, we only consider the variable with the largest order of complexity, and remove any summed variables of lower complexity. When evaluating the variable of largest order of complexity, we also remove any coefficients attached to that variable, since those coefficients make minimal difference in the complexity when we consider large numbers where the complexity matters. For example, if I determined that my algorithm ran in complexity of `2n^2 + n` time, I would remove the `n` because it is of lower complexity than `n^2`, and I would remove the 2 in `2n^2` because it is a coefficient. I would then be left with `O(n^2)`.
 
+### Big-O Order of Complexity
+
+From the following chart by [Geeks for Geeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/), we can visualise the differences in complexity for various Big-O values from `O(1)` to `O(n!)`. This shows us that there is indeed a large difference between each level of Big-O complexity.
+
+![](../.gitbook/assets/image%20%284%29.png)
+
 ### `O(1)`
 
 #### Description
