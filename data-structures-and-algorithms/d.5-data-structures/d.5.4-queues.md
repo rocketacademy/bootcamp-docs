@@ -2,36 +2,31 @@
 
 ## Introduction
 
+![](../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
+
 Queues are similar to stacks except instead of removing elements from the end of a list, we can only remove elements from the front of a list. Instead of push and pop operations, queues have "enqueue" and "dequeue" operations respectively. Enqueue adds an element to the back of a queue, and dequeue removes an element from the front of a queue.
 
-## Helpful Videos
+## Helpful Resources
 
 1. [This](https://www.youtube.com/watch?v=9Obx8TTQnaY) video is a concise introduction for the motivation and usage of queues.
 2. [This](https://www.youtube.com/watch?v=Y7wZO2tMjnY) video is a more detailed introduction to queues and how to use them in Python.
+3. Read pages 109-110 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
 
 ## Code Example
 
-Please read and understand the queue class definition in [this](https://repl.it/@kaiyuanneo/queue-class-definition#main.py) Repl.
+Please read and understand the queue class definition in [this](https://repl.it/@kaiyuanneo/queue-class-definition#main.py) Repl. Notice we Python's built-in `deque` data structure because it supports more efficient popping \(dequeuing\) of the left-most element than Python Lists.
 
 ## Exercises
 
-Please complete as many exercises as you can. Try to complete at least 2 problems per day.
+Please use Python's `deque` data structure to represent queues.
 
-### Rocket Academy
-
-#### Problems
-
-Feel free to skip problem 5 and move onto Leetcode if you find it too difficult.
+### Pre-Class
 
 1. [https://repl.it/@kaiyuanneo/queues\#main.py](https://repl.it/@kaiyuanneo/queues#main.py)
+   1. Solutions: [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
 
-#### Solutions
+### Part 1
 
-1. [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
-
-### Leetcode
-
-1. Easy: There is 1 Easy problem on queues in Leetcode [here](https://leetcode.com/problemset/all/?topicSlugs=queue&difficulty=Easy).
-2. Medium: There are 4 Medium problems on queues in Leetcode [here](https://leetcode.com/problemset/all/?topicSlugs=queue&difficulty=Medium).
-   1. Some of these problems will involve data structures you may not have seen before, for example binary trees and linked lists. Feel free to skip these problems for now if you have difficulty understanding the problem.
+1. [https://leetcode.com/problems/task-scheduler/](https://leetcode.com/problems/task-scheduler/)
+   1. Hint: This may be solved more efficiently without queues, but see how we can implement it with queues first.
 
