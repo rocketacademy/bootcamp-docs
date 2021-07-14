@@ -282,7 +282,7 @@
 * [7.3: Express.js + Webpack + React](7-react/7.3-express.js-+-webpack-+-react.md)
 * [7.4: State](7-react/7.4-state.md)
 * [7.5: Controlled Forms](7-react/7.5-controlled-forms.md)
-* [7.6: Passing Data Between Sibling Components](7-react/7.6-prop-functions.md)
+* [7.6: Passing Data Between Sibling Components](7-react/7.6-passing-data-between-sibling-components.md)
 * [7.7: Component Hierarchy](7-react/7.7-component-hierarchy/README.md)
   * [7.7.1: Component AJAX](7-react/7.7-component-hierarchy/7.7.1-component-ajax.md)
   * [7.7.2: useEffect](7-react/7.7-component-hierarchy/7.7.2-useeffect.md)

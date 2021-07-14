@@ -100,7 +100,7 @@ None
 #### Pre-Class
 
 * [7.5: Controlled Forms](../7-react/7.5-controlled-forms.md)
-* [7.6: Prop Functions](../7-react/7.6-prop-functions.md)
+* [7.6: Passing Data Between Sibling Components](../7-react/7.6-passing-data-between-sibling-components.md)
 
 #### In-Class
 
