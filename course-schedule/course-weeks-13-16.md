@@ -13,12 +13,10 @@
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
 
 ### Course Day 13.2
 
@@ -33,7 +31,7 @@ None
 #### Post-Class
 
 * [Project 3 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
-* [D.5: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
+* [D.7: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
 
 ## Module 7: React
 
@@ -52,14 +50,15 @@ None
 #### Post-Class
 
 * [7.POCE.1: JSX Bug Reports](../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
-* [D.5: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
+* [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
 * [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.4
 
 #### Pre-Class
 
-* * [7.2: Components](../7-react/7.2-components/)
+* [D.8: Sorting Algorithms](../data-structures-and-algorithms/d.8-sorting-algorithms.md)
+* [7.2: Components](../7-react/7.2-components/)
 * [7.2.1: Props](../7-react/7.2-components/7.2.1-props.md)
 * [7.2.2: Rendering Components](../7-react/7.2-components/7.2.2-rendering-components.md)
 * [7.2.3: Class Components](../7-react/7.2-components/7.2.3-class-components.md)
@@ -71,7 +70,8 @@ None
 #### Post-Class
 
 * [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
-* * [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
+* [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
+* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.5
 
