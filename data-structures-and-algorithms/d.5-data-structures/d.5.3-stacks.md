@@ -4,13 +4,12 @@
 
 A stack is a data structure that supports adding and removing only from the end/top of the stack. Stacks are often referred to as a FILO \(first in last out\) or LIFO \(last in first out\) data structure. We can think of the stack data structure like a stack of pancakes- we can only add and remove pancakes from the top of the stack, but we cannot add or remove from anywhere else in the stack lest we damage the pancakes. You may notice that arrays already provide the functionality of stacks through list `append` and `pop` methods. Indeed the functionality of stacks is a subset of arrays', but the concepts behind why and how we use stacks may be new to us.
 
-Former RA class session introducing Stacks \(from FTBC3\): [https://youtu.be/y---RCHCdD4?t=559](https://youtu.be/y---RCHCdD4?t=559)
-
 ## Helpful Resources
 
 1. [This](https://www.youtube.com/watch?v=k1PX5LxFfTo) is a concise, high-level overview of the stack data structure concept, methods, and use cases.
 2. [This](https://www.youtube.com/watch?v=F1F2imiOJfk) is a slightly more detailed video covering the same concepts.
 3. Read pages 108-109 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+4. [FTBC3 class video ](https://youtu.be/y---RCHCdD4?t=559)introducing Stacks.
 
 ## Code Example
 
@@ -21,6 +20,7 @@ Please read and understand the stack class implementation in [this](https://repl
 1. Program execution "[call stack](https://en.wikipedia.org/wiki/Call_stack)", or "stack" of functions that are currently being executed.
 2. Undo and redo features in most text editors.
 3. `git stash` functionality in Git to temporarily save changes without committing.
+4. Browser history
 
 ## Exercises
 
