@@ -18,6 +18,8 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked li
 
 1. [Here](https://www.youtube.com/watch?v=R9PTBwOzceo) is a short and intuitive introduction to linked lists.
 2. Read pages 104-106 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+3. [FTBC3's class video](https://youtu.be/qewAXA_vkpE?t=1596) when we introduced linked lists.
+   1. I forgot to record it during class so I re-recorded the key points afterward.
 
 ## Use Cases
 
@@ -29,6 +31,7 @@ Linked lists \(LLs\) are typically used when we want faster insertion or deletio
 
 1. [https://repl.it/@kaiyuanneo/singly-linked-list](https://repl.it/@kaiyuanneo/singly-linked-list)
    1. [https://repl.it/@kaiyuanneo/singly-linked-list-soln](https://repl.it/@kaiyuanneo/singly-linked-list-soln)
+   2. [FTBC3 class video](https://youtu.be/qewAXA_vkpE?t=2004) where we covered the 1st 2 problems \(re-recorded after class\)
 2. [https://repl.it/@kaiyuanneo/doubly-linked-list](https://repl.it/@kaiyuanneo/doubly-linked-list)
    1. [https://repl.it/@kaiyuanneo/doubly-linked-list-soln](https://repl.it/@kaiyuanneo/doubly-linked-list-soln)
 3. [https://repl.it/@kaiyuanneo/circular-doubly-linked-list](https://repl.it/@kaiyuanneo/circular-doubly-linked-list)
@@ -37,6 +40,7 @@ Linked lists \(LLs\) are typically used when we want faster insertion or deletio
 ### Part 1
 
 1. [https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+   1. [FTBC3 class video solution](https://youtu.be/qewAXA_vkpE?t=2372) \(re-recorded after class\)
 2. [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
 3. [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
 4. [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
