@@ -23,7 +23,7 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked li
 
 ## Use Cases
 
-Linked lists \(LLs\) are typically used when we want faster insertion or deletion of the first element in a list, for example to implement queues or hash tables. LLs are also used when we may not have sufficient contiguous storage space, for example in file systems on our hard drives. 
+Linked lists \(LLs\) are typically used when we want faster insertion or deletion of the first element in a list, for example to implement queues or hash tables \(to handle hash collisions\). LLs are also used when we may not have sufficient contiguous storage space, for example in file systems on our hard drives. 
 
 ## Exercises
 
