@@ -144,7 +144,7 @@
 
 * [D.1: Intro to SWE Interviews](../data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
 * [D.2: Intro to Python \(Exercises 1-8\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
-* [4.1.8: Sequelize Self-Referencing Columns](../4-backend-structure/4.1-orm-sequelize/4.1.8-sequelize-self-referencing-table-columns.md)
+* [4.1.8: Multiple FK Columns Referencing Same Table](../4-backend-structure/4.1-orm-sequelize/4.1.8-multiple-foreign-key-columns-referencing-same-table.md)
 
 #### In-Class
 

@@ -228,7 +228,7 @@
   * [4.1.5: Sequelize Many-to-Many with Non-FK Attributes in Through Table](4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table.md)
   * [4.1.6: Sequelize Constraints and Validations](4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
   * [4.1.7: Sequelize Eager Loading](4-backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading.md)
-  * [4.1.8: Sequelize Self-Referencing Table Columns](4-backend-structure/4.1-orm-sequelize/4.1.8-sequelize-self-referencing-table-columns.md)
+  * [4.1.8: Multiple Foreign Key Columns Referencing Same Table](4-backend-structure/4.1-orm-sequelize/4.1.8-multiple-foreign-key-columns-referencing-same-table.md)
   * [4.1.9: Sequelize Setup Cheatsheet](4-backend-structure/4.1-orm-sequelize/4.1.9-sequelize-setup-cheatsheet.md)
   * [4.1.10: Deploy Sequelize App to Heroku](4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
 * [4.2: MVC](4-backend-structure/4.2-mvc/README.md)
