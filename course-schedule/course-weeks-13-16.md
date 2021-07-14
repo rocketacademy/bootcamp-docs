@@ -59,7 +59,6 @@ None
 #### Pre-Class
 
 * [D.6.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#pre-class)
-* [D.6.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-1)
 * [7.2: Components](../7-react/7.2-components/)
 * [7.2.1: Props](../7-react/7.2-components/7.2.1-props.md)
 * [7.2.2: Rendering Components](../7-react/7.2-components/7.2.2-rendering-components.md)
@@ -72,14 +71,13 @@ None
 #### Post-Class
 
 * [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
-* [D.6.5: Linked Lists - Part 2 \(optional - do after trees\)](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-2)
+* [D.6.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-1)
 * [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.5
 
 #### Pre-Class
 
-* [D.6.6: Trees - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#pre-class)
 * [7.3: React Express](../7-react/7.3-express.js-+-webpack-+-react.md)
 * [7.4: React useState](../7-react/7.4-state.md)
 
@@ -90,7 +88,7 @@ None
 #### Post-Class
 
 * [7.POCE.2: React Tic Tac Toe](../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
-* [D.6.6: Trees - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-1)
+* [D.6.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.5-linked-lists.md#part-2)
 * [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ## Course Week 14
@@ -99,6 +97,7 @@ None
 
 #### Pre-Class
 
+* [D.6.6: Trees - Pre-Class](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#pre-class)
 * [7.5: Controlled Forms](../7-react/7.5-controlled-forms.md)
 * [7.6: Passing Data Between Sibling Components](../7-react/7.6-passing-data-between-sibling-components.md)
 
@@ -109,7 +108,7 @@ None
 #### Post-Class
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [D.6.6: Trees - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-2)
+* [D.6.6: Trees - Part 1](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-1)
 * [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
@@ -132,7 +131,7 @@ None
 #### Post-Class
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [D.6.6: Trees - Part 3](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-3)
+* [D.6.6: Trees - Part 2](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-2)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.3
@@ -144,12 +143,12 @@ None
 #### In-Class
 
 * Review [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [D.6.6: Trees - Part 4](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-4)
+* [D.6.6: Trees - Part 3](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-3)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.6.6: Trees - Part 4](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-4)
+* [D.6.6: Trees - Part 3](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-3)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.4
@@ -160,12 +159,12 @@ None
 
 #### **In-Class**
 
-* [D.6.6: Trees - Part 5](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-5)
+* [D.6.6: Trees - Part 4](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-4)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.6.6: Trees - Part 5](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-5)
+* [D.6.6: Trees - Part 4](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-4)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.5
@@ -180,12 +179,12 @@ None
 
 #### **In-Class**
 
-* [D.6.6: Trees - Part 6](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-6)
+* [D.6.6: Trees - Part 5](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-5)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.6.6: Trees - Part 6](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-6)
+* [D.6.6: Trees - Part 5](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-5)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ## Course Week 15
@@ -199,14 +198,14 @@ None
 #### In-Class
 
 * [Review 7.POCE.4: Hot Pot Bill Splitter](../course-logistics/course-methodology.md#peer-code-review)
+* [D.6.6: Trees - Part 6](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-6)
 
 #### Post-Class
 
 * [Project 4 Ideation Phase 2](../projects/project-4-full-stack-react-app.md#ideation-phase-2)
+* [D.6.6: Trees - Part 6](../data-structures-and-algorithms/d.6-data-structures/d.6.6-trees.md#part-6)
 
 ### Course Day 15.2
-
-Due: [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 #### Pre-Class
 
@@ -237,8 +236,6 @@ Due: [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-
-
 
 ### Course Day 15.4
 
