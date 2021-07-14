@@ -8,7 +8,7 @@
 
 #### Pre-Class
 
-- [D.7: Recursion - Required Reading](../data-structures-and-algorithms/d.7-recursion.md#required-reading)
+None
 
 #### In-Class
 
@@ -31,7 +31,7 @@ None
 #### Post-Class
 
 - [Project 3 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
-- [D.7: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
+- [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-3)
 
 ## Module 7: React
 
@@ -39,6 +39,7 @@ None
 
 #### Pre-Class
 
+- [D.7: Recursion - Required Reading](../data-structures-and-algorithms/d.7-recursion.md#required-reading)
 - [7.1: JSX Intro](../7-react/7.1-jsx-intro/)
 - [7.1.1: Conditional Rendering](../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
 - [7.1.2: Rendering In a Loop](../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
@@ -50,7 +51,7 @@ None
 #### Post-Class
 
 - [7.POCE.1: JSX Bug Reports](../7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
-- [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
+- [D.7: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
 - [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.4
@@ -70,7 +71,7 @@ None
 #### Post-Class
 
 - [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
-- [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
+- [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
 - [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.5
@@ -87,7 +88,8 @@ None
 #### Post-Class
 
 - [7.POCE.2: React Tic Tac Toe](../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
-- - [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
+- [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
+- [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ## Course Week 14
 
