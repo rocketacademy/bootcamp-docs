@@ -142,9 +142,9 @@
 
 #### Pre-Class
 
-* [4.1.8: Sequelize Self-Referencing Columns](../4-backend-structure/4.1-orm-sequelize/4.1.8-sequelize-self-referencing-table-columns.md)
 * [D.1: Intro to SWE Interviews](../data-structures-and-algorithms/d.1-intro-to-swe-interviews.md)
 * [D.2: Intro to Python \(Exercises 1-8\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
+* [4.1.8: Sequelize Self-Referencing Columns](../4-backend-structure/4.1-orm-sequelize/4.1.8-sequelize-self-referencing-table-columns.md)
 
 #### In-Class
 
@@ -161,9 +161,9 @@
 
 #### Pre-Class
 
+* [D.2: Intro to Python \(Exercises 9-11\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
 * [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/f1bebd948b7abe01469ce4ac5dd6c78e4f83171b/6-frontend-infrastructure/6.1-webpack)
 * [5.2.2: AJAX Cards](../5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
-* [D.2: Intro to Python \(Exercises 9-11\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
 
 #### In-Class
 
@@ -180,10 +180,10 @@
 
 #### Pre-Class
 
-* [6.1.1: Webpack with Local Modules](../6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
-* [6.1.2: Webpack with NPM Modules](../6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
 * [D.3: Complexity Analysis, Big-O Notation](../data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
 * [D.4: Interview Strategies](../data-structures-and-algorithms/d.4-interview-strategies.md)
+* [6.1.1: Webpack with Local Modules](../6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
+* [6.1.2: Webpack with NPM Modules](../6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
 
 #### In-Class
 
