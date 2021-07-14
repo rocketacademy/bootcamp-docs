@@ -40,17 +40,18 @@ Linked lists \(LLs\) are typically used when we want faster insertion or deletio
 ### Part 1
 
 1. [https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
-   1. [FTBC3 class video solution](https://youtu.be/qewAXA_vkpE?t=2372) \(re-recorded after class\)
-      1. This video also introduces the concept of [binary numbers](https://www.mathsisfun.com/binary-number-system.html).
-2. [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
-3. [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
+   1. Here's an [intuitive introduction to binary numbers](https://www.mathsisfun.com/binary-number-system.html).
+   2. [FTBC3 class video solution](https://youtu.be/qewAXA_vkpE?t=2372) \(re-recorded after class\)
+      1. This video also explains binary numbers.
+2. [https://leetcode.com/problems/remove-duplicates-from-sorted-list/](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+3. [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
 4. [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
-5. [https://leetcode.com/problems/remove-duplicates-from-sorted-list/](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+5. [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
 
 ### Part 2
 
-1. [https://leetcode.com/problems/intersection-of-two-linked-lists/](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+1. [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)
 2. [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
 3. [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)
-4. [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)
+4. [https://leetcode.com/problems/intersection-of-two-linked-lists/](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
