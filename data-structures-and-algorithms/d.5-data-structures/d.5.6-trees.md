@@ -128,6 +128,7 @@ Trees are often used to represent hierarchical data, e.g. HTML elements or React
 1. [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)
 2. [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
 3. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
+   1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
 4. [https://leetcode.com/problems/minimum-absolute-difference-in-bst/](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 5. [https://leetcode.com/problems/two-sum-iv-input-is-a-bst/](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 
@@ -146,7 +147,8 @@ Trees are often used to represent hierarchical data, e.g. HTML elements or React
 ### Part 4
 
 1. [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
-   1. [Solution video](https://youtu.be/3Dw3spVIk1w?t=4579) from FTBC3's class
+   1. RA solution code \(naive solution without pruning\): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
+   2. [Solution video](https://youtu.be/3Dw3spVIk1w?t=4579) from FTBC3's class
 2. [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
 3. [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
 4. [https://leetcode.com/problems/average-of-levels-in-binary-tree/](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
