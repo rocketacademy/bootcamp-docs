@@ -103,6 +103,7 @@
 
 #### Pre-Class
 
+* 1.10
 * [1.1.3.5: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.5-display-inline-block.md)
 * [1.1.3.6: CSS Layout Col / Card](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.6-layout-columns-and-cards.md)
 * [0.4: JS Object as Tally](../0-language-and-tooling/0.4-js-object-as-tally.md)
