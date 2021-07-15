@@ -16,6 +16,7 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 4 Aug 2021 | 3:30-4:30pm | [Jireh Tan](https://www.linkedin.com/in/jirehtan/) \(video\) | Data Science Instructor at General Assembly SG |
 | Wed | 28 Jul 2021 | 3-4pm | [Aaron Lee](https://www.linkedin.com/in/aaronstevensonlee/) \(video\) | Software Engineer at Open Government Products, Soon-To-Be VP Engineering at Startup |
 | Wed | 21 Jul 2021 | 3-4pm | [Clinton Yip](https://www.linkedin.com/in/clintonyipys/) \(video\) | Technical Talent Recruiter at StashAway |
 | Wed | 14 Jul 2021 | 3-4pm | [Veri Ferdiansyah](https://www.linkedin.com/in/vferdiansyah/) \(video\) | Head of Core Platform at LinkAja |
