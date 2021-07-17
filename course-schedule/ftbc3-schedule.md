@@ -6,42 +6,9 @@ description: 12 Apr - 24 Sep
 
 ## Current Week
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Week</th>
-      <th style="text-align:left">Dates</th>
-      <th style="text-align:left">Topics</th>
-      <th style="text-align:left">Project</th>
-      <th style="text-align:left">Mon</th>
-      <th style="text-align:left">Tue</th>
-      <th style="text-align:left">Wed</th>
-      <th style="text-align:left">Thu</th>
-      <th style="text-align:left">Fri</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">14</td>
-      <td style="text-align:left">12-16 Jul</td>
-      <td style="text-align:left">
-        <p>React, AJAX</p>
-        <p>Linked Lists, Trees</p>
-      </td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-4">CD13.4</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-13-5">CD13.5</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-1">CD14.1</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-2">CD14.2</a>
-      </td>
-      <td style="text-align:left"><a href="course-weeks-13-16.md#course-day-14-3">CD14.3</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 15 | 19-23 Jul | Graphs, Heaps | [P4](../projects/project-4-full-stack-react-app.md) | [CD14.4](course-weeks-13-16.md#course-day-14-4) | **PH** | [CD14.5](course-weeks-13-16.md#course-day-14-5) | [CD15.1](course-weeks-13-16.md#course-day-15-1) | [CD15.2](course-weeks-13-16.md#course-day-15-2) |
 
 ## Overall Schedule
 
