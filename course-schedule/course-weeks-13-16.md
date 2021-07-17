@@ -138,7 +138,7 @@ None
 
 #### Pre-Class
 
-* [7.7.1: Components & AJAX](../7-react/7.7-component-hierarchy/7.7.1-component-ajax.md)
+* [7.7.1: Components & AJAX](../7-react/7.7-component-hierarchy/7.7.1-ajax-requests-from-components.md)
 
 #### In-Class
 

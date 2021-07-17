@@ -285,7 +285,7 @@
 * [7.5: Controlled Forms](7-react/7.5-controlled-forms.md)
 * [7.6: Passing Data Between Sibling Components](7-react/7.6-passing-data-between-sibling-components.md)
 * [7.7: Component Hierarchy](7-react/7.7-component-hierarchy/README.md)
-  * [7.7.1: Component AJAX](7-react/7.7-component-hierarchy/7.7.1-component-ajax.md)
+  * [7.7.1: AJAX Requests from Components](7-react/7.7-component-hierarchy/7.7.1-ajax-requests-from-components.md)
   * [7.7.2: useEffect](7-react/7.7-component-hierarchy/7.7.2-useeffect.md)
 * [7.8: Error Boundaries](7-react/7.8-error-boundaries.md)
 * [7.9: React Dev Tools](7-react/7.9-react-dev-tools.md)
