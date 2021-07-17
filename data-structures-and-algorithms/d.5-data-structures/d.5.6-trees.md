@@ -170,6 +170,7 @@ Trees are often used to represent hierarchical data, e.g. HTML elements or React
 1. [https://leetcode.com/problems/subtree-of-another-tree/](https://leetcode.com/problems/subtree-of-another-tree/)
 2. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
    1. RA solution code: [https://pastebin.com/a2buQJxv](https://pastebin.com/a2buQJxv)
+   2. [Solution video](https://youtu.be/AMpseCEX6_A?t=2147) from FTBC3's class
 3. [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
 4. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) \(Medium\)
 5. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) \(Medium\)
