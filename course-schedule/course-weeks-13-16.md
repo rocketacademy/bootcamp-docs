@@ -120,7 +120,8 @@ None
 
 #### Pre-Class
 
-* [7.7: Component Hierarchy](../7-react/7.7-component-hierarchy/)
+* [7.7: Designing Component Hierarchy](../7-react/7.7-designing-component-hierarchy/)
+* [7.7.1: AJAX Requests from Components](../7-react/7.7-designing-component-hierarchy/7.7.1-ajax-requests-from-components.md)
 * [7.9: React Dev Tools](../7-react/7.9-react-dev-tools.md)
 * [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
 
@@ -138,7 +139,7 @@ None
 
 #### Pre-Class
 
-* [7.7.1: Components & AJAX](../7-react/7.7-component-hierarchy/7.7.1-ajax-requests-from-components.md)
+None
 
 #### In-Class
 
@@ -155,7 +156,7 @@ None
 
 #### Pre-Class
 
-* [7.7.2: useEffect](../7-react/7.7-component-hierarchy/7.7.2-useeffect.md)
+* [7.7.2: useEffect](../7-react/7.7-designing-component-hierarchy/7.7.2-useeffect.md)
 
 #### **In-Class**
 

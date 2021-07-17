@@ -1,4 +1,4 @@
-# 7.7: Component Hierarchy
+# 7.7: Designing Component Hierarchy
 
 ## Introduction
 
