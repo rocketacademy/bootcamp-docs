@@ -185,7 +185,6 @@ None
 
 #### Pre-Class
 
-* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
 * [D.5.6: Trees - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#pre-class)
 
 #### In-Class
@@ -202,7 +201,7 @@ None
 
 #### Pre-Class
 
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
+None
 
 #### In-Class
 
@@ -288,7 +287,6 @@ None
 
 #### Pre-Class
 
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 * [D.5.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.7-graphs.md)
 
 #### In-Class

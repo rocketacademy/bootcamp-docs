@@ -18,8 +18,8 @@
 
 #### Post-Class
 
-* [D.5.8: Heaps - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.8-heaps.md#part-3)
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
+* [D.5.8: Heaps - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.8-heaps.md#part-3)
 
 ### Course Day 17.2
 
@@ -48,7 +48,6 @@
 #### Pre-Class
 
 * [8.3.4: React E-Commerce App with Store](../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 * [D.9: Dynamic Programming - Pre-Class](../data-structures-and-algorithms/d.9-dynamic-programming.md#pre-class)
 
 #### **In-Class**
@@ -62,11 +61,6 @@
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Day 17.4
-
-#### Due
-
-* Resume 2nd draft
-* Portfolio 2nd draft
 
 #### Pre-Class
 
@@ -86,14 +80,9 @@
 
 ### Course Day 17.5
 
-#### Due
-
-* Portfolio 3rd draft
-* Resume 3rd draft
-
 #### Pre-Class
 
-* [8.5: Advanced useEffect ](../8-advanced-react/8.5-advanced-useeffect.md)
+* [8.5: Advanced useEffect](../8-advanced-react/8.5-advanced-useeffect.md)
 
 #### In-Class
 
@@ -108,11 +97,6 @@
 ## Course Week 18
 
 ### Course Day 18.1
-
-#### Due
-
-* Portfolio 4th draft
-* Resume 4th draft
 
 #### Pre-Class
 
@@ -131,11 +115,6 @@
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Day 18.2
-
-#### Due
-
-* Portfolio final draft
-* Resume final draft
 
 #### Pre-Class
 
@@ -192,7 +171,8 @@
 
 #### Pre-Class
 
-None
+* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 #### In-Class
 
@@ -202,8 +182,13 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 ## Course Week 19
+
+#### Due
+
+* Resume 1st draft
 
 ### Course Day 19.1
 
@@ -219,8 +204,13 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 ### Course Day 19.2
+
+#### Due
+
+* Resume 2nd draft
 
 #### Pre-Class
 
@@ -234,12 +224,14 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 ### Course Day 19.3
 
 #### Due
 
 * Project 5 MVP \(deployed\)
+* Resume final draft
 
 #### Pre-Class
 
@@ -259,7 +251,7 @@ None
 
 #### Pre-Class
 
-None
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 #### In-Class
 
@@ -269,8 +261,13 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ### Course Day 19.5
+
+#### Due
+
+* Portfolio 1st draft
 
 #### Pre-Class
 
@@ -284,6 +281,7 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ## Course Week 20
 
@@ -292,6 +290,7 @@ None
 #### Due
 
 * Project 5 Feature Freeze
+* Portfolio 2nd draft
 
 #### Pre-Class
 
@@ -306,8 +305,13 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ### Course Day 20.2
+
+#### Due
+
+* Portfolio final draft
 
 #### Pre-Class
 
@@ -343,7 +347,7 @@ None
 
 #### Pre-Class
 
-None
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 #### In-Class
 
@@ -366,7 +370,6 @@ None
 #### Pre-Class
 
 * [9.1 Security](../9-advanced-topics/9.1-security/)
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 #### In-Class
 
