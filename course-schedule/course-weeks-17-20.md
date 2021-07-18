@@ -171,8 +171,7 @@
 
 #### Pre-Class
 
-* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
+None
 
 #### In-Class
 
@@ -182,13 +181,8 @@
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 ## Course Week 19
-
-#### Due
-
-* Resume 1st draft
 
 ### Course Day 19.1
 
@@ -204,13 +198,8 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 ### Course Day 19.2
-
-#### Due
-
-* Resume 2nd draft
 
 #### Pre-Class
 
@@ -224,14 +213,12 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 ### Course Day 19.3
 
 #### Due
 
 * Project 5 MVP \(deployed\)
-* Resume final draft
 
 #### Pre-Class
 
@@ -251,7 +238,7 @@ None
 
 #### Pre-Class
 
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+None
 
 #### In-Class
 
@@ -261,13 +248,8 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ### Course Day 19.5
-
-#### Due
-
-* Portfolio 1st draft
 
 #### Pre-Class
 
@@ -281,7 +263,6 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ## Course Week 20
 
@@ -290,7 +271,6 @@ None
 #### Due
 
 * Project 5 Feature Freeze
-* Portfolio 2nd draft
 
 #### Pre-Class
 
@@ -305,13 +285,8 @@ None
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ### Course Day 20.2
-
-#### Due
-
-* Portfolio final draft
 
 #### Pre-Class
 
@@ -340,14 +315,14 @@ None
 
 * [Project 5 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
-* [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
 ### Course Day 20.4
 
 #### Pre-Class
 
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
+None
 
 #### In-Class
 
@@ -356,8 +331,8 @@ None
 #### Post-Class
 
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
-* [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
 ## Module 9: Advanced Topics
 
@@ -369,7 +344,7 @@ None
 
 #### Pre-Class
 
-* [9.1 Security](../9-advanced-topics/9.1-security/)
+* [9.1 Security](../9-advanced-topics/9.2-security/)
 
 #### In-Class
 

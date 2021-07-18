@@ -1,4 +1,4 @@
-# 9.1: Security
+# 9.2: Security
 
 App security is an important aspect of anything that is on the internet. Depending on the type of application security could be a crucial aspect of the operation of an app.
 

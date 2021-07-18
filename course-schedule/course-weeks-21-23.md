@@ -6,31 +6,10 @@
 
 ### Course Day 21.1
 
-#### Due
-
-* Initial Job List
-
 #### Pre-Class
 
-* [9.1.1: XSS](../9-advanced-topics/9.1-security/9.1.1-xss.md)
-* [9.1.2: CSRF](../9-advanced-topics/9.1-security/9.1.2-csrf.md)
-* [9.1.3: SQL Injection](../9-advanced-topics/9.1-security/9.1.3-sql-injection.md)
-
-#### In-Class
-
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-
-#### Post-Class
-
-* [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-
-### Course Day 21.2
-
-#### Pre-Class
-
-* [9.2: Testing](../9-advanced-topics/9.2-testing/)
-* [9.2.1: Unit Testing](../9-advanced-topics/9.2-testing/9.2.1-unit-testing.md)
+* [9.1: Testing](../9-advanced-topics/9.1-testing/)
+* [9.1.1: Unit Testing](../9-advanced-topics/9.1-testing/9.1.1-unit-testing.md)
 
 #### In-Class
 
@@ -41,11 +20,29 @@
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
 
+### Course Day 21.2
+
+#### Pre-Class
+
+* [9.1.2: TDD](../9-advanced-topics/9.1-testing/9.1.2-tdd.md)
+* [9.1.3: CI](../9-advanced-topics/9.1-testing/9.1.3-ci.md)
+
+#### In-Class
+
+* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+
+#### Post-Class
+
+* [Project 6 Implementation](../projects/project-6-capstone.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+
 ### Course Day 21.3
 
 #### Pre-Class
 
-* [9.2.2: TDD](../9-advanced-topics/9.2-testing/9.2.2-tdd.md)
+* [9.2.1: XSS](../9-advanced-topics/9.2-security/9.2.1-xss.md)
+* [9.2.2: CSRF](../9-advanced-topics/9.2-security/9.2.2-csrf.md)
+* [9.2.3: SQL Injection](../9-advanced-topics/9.2-security/9.2.3-sql-injection.md)
 
 #### In-Class
 
@@ -60,7 +57,7 @@
 
 #### Pre-Class
 
-* [9.2.3: CI](../9-advanced-topics/9.2-testing/9.2.3-ci.md)
+* [9.3: Django](../9-advanced-topics/9.3-django/)
 
 #### In-Class
 
@@ -76,6 +73,7 @@
 #### Pre-Class
 
 * [9.3: Django](../9-advanced-topics/9.3-django/)
+* [9.3.1: Django User Login](../9-advanced-topics/9.3-django/9.3.1-django-user-login.md)
 
 #### In-Class
 
@@ -96,7 +94,7 @@
 
 #### Pre-Class
 
-* [9.3.1: Django User Login](../9-advanced-topics/9.3-django/9.3.1-django-user-login.md)
+* [9.4: React Native](../9-advanced-topics/9.4-react-native.md)
 
 #### In-Class
 
@@ -112,7 +110,9 @@
 
 #### Pre-Class
 
-* [9.4: React Native](../9-advanced-topics/9.4-react-native.md)
+* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-bayes-theorem/)
+* [9.5.1: ML - Naive Bayes Classifier JS](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
+* [9.5.2: ML - Naive Bayes Classifier Python](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
 
 #### In-Class
 
@@ -127,7 +127,8 @@
 
 #### Pre-Class
 
-* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-bayes-theorem/)
+* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 #### In-Class
 
@@ -137,24 +138,9 @@
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
 
 ### Course Day 22.4
-
-#### Pre-Class
-
-* [9.5.1: ML - Naive Bayes Classifier JS](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
-* [9.5.2: ML - Naive Bayes Classifier Python](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
-
-#### In-Class
-
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-
-#### Post-Class
-
-* [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-
-### Course Day 22.5
 
 #### Pre-Class
 
@@ -168,6 +154,27 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.2: Resume](../career-prep/cp.2-resume.md)
+
+### Course Day 22.5
+
+#### Due
+
+* Resume 1st Draft
+
+#### Pre-Class
+
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+
+#### In-Class
+
+* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+
+#### Post-Class
+
+* [Project 6 Implementation](../projects/project-6-capstone.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ## Course Week 23
 
@@ -185,12 +192,17 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
 
 ### Course Day 23.2
 
+#### Due
+
+* Portfolio 1st Draft
+
 #### Pre-Class
 
-None
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 #### In-Class
 
@@ -200,6 +212,7 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 ### Course Day 23.3
 
@@ -220,8 +233,13 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [CP.4: Job List](../career-prep/cp.4-job-list.md)
 
 ### Course Day 23.4
+
+#### Due
+
+* Job List 1st Draft
 
 #### Pre-Class
 
