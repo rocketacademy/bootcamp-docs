@@ -73,6 +73,7 @@
     * [1.1.3.6: Layout: Columns & Cards](1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.6-layout-columns-and-cards.md)
     * [1.1.3.7: Position](1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.7-position.md)
     * [1.1.3.8: Float](1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.8-float.md)
+    * [1.1.3.9: Flexbox Layout](1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.9-flexbox-layout.md)
   * [1.1.4: Flexbox](1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
   * [1.1.5: Responsive Design](1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
   * [1.1.6: Web Design Basics](1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
