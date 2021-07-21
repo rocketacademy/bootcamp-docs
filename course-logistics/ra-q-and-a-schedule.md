@@ -16,6 +16,7 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 11 Aug 2021 | 12-1pm | [Aik Siang Ang](https://www.linkedin.com/in/aiksiang/) \(video\) | Software Engineering Manager at Grab |
 | Wed | 4 Aug 2021 | 3:30-4:30pm | [Jireh Tan](https://www.linkedin.com/in/jirehtan/) \(video\) | Data Science Instructor at General Assembly SG |
 | Wed | 28 Jul 2021 | 3-4pm | [Aaron Lee](https://www.linkedin.com/in/aaronstevensonlee/) \(video\) | Software Engineer at Open Government Products, Soon-To-Be VP Engineering at Startup |
 | Wed | 21 Jul 2021 | 3-4pm | [Clinton Yip](https://www.linkedin.com/in/clintonyipys/) \(video\) | Technical Talent Recruiter at StashAway |
@@ -26,8 +27,8 @@ The following are all upcoming and past RA Q&A sessions.
 | Wed | 16 Jun 2021 | 3-4pm | [Gibson Tang](https://www.linkedin.com/in/gibsontang/) \(video\) | Engineering Lead at Lenskart |
 | Wed | 9 Jun 2021 | 3-4pm | [Foong Leung](https://www.linkedin.com/in/foong-leung-76171758/) \(video\) | Software Engineer at Binery |
 | Wed | 2 Jun 2021 | 5-6pm | [Toon Pang Ong](https://www.linkedin.com/in/ongtoonpang/) \(video\) | Senior Consultant at Ufinity |
-| Wed | 19 May 2021 | 3-4pm | [Joel Kek](https://www.linkedin.com/in/joelkek/) \(video\) | Software Engineer at GovTech Singapore |
-| Wed | 12 May 2021 | 6-7pm | [Erik Khanh Nguyen](https://www.linkedin.com/in/erikng/) \(video\) | Senior Software Engineer at Endowus |
+| Wed | 19 May 2021 | 3-4pm | [Joel Kek](https://www.linkedin.com/in/joelkek/) \([video](https://youtu.be/ZsRKa7dL43s)\) | Software Engineer at GovTech Singapore |
+| Wed | 12 May 2021 | 6-7pm | [Erik Khanh Nguyen](https://www.linkedin.com/in/erikng/) \([video](https://youtu.be/pnzdMhZgGss)\) | Senior Software Engineer at Endowus |
 | Wed | 5 May 2021 | 3-4pm | [Sunny Singh](https://www.linkedin.com/in/sstrgh/) \([video](https://youtu.be/4lG8ZO1rGxk)\) | Technical Consultant at Mission Plus |
 | Wed | 28 Apr 2021 | 3-4pm | [Kai Yuan Neo](https://www.linkedin.com/in/kaiyuanneo/) \([video](https://youtu.be/4KverPB_TV8)\) | Founder and CEO at Rocket Academy |
 | Wed | 31 Mar 2021 | 3-4pm | [Aizat Faiz](https://www.linkedin.com/in/aizatto/) \([video](https://youtu.be/Mdho34airS0)\) | Engineering Manager at Xfers |
