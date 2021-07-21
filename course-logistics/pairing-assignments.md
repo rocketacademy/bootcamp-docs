@@ -171,5 +171,10 @@ for (let i = 0; i < people.length; i++) {
   arranged = [...rest, ...arranged];
   results.push(set)
 }
+
+results.forEach(day => {
+  day.forEach(set=>console.log(set.join(', ')));
+  console.log(' ');
+});
 ```
 
