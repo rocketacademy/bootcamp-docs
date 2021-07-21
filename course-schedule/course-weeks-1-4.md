@@ -142,7 +142,7 @@
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.5: Etsy CSS](../1-frontend-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
+* [1.ICE.12: Wikipedia](../1-frontend-basics/1.ice-in-class-exercises/1.ice.12-css-practice-6-wikipedia.md)
 
 #### Post-Class
 
@@ -157,7 +157,7 @@
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.1: HTML & CSS \(Technical Documentation\)](../1-frontend-basics/1.1-html-and-css/#technical-documentation-page)
+* [1.ICE.5: Etsy CSS](../1-frontend-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
 
 #### Post-Class
 
