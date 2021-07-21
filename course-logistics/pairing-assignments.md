@@ -14,6 +14,100 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 | Thu | Jo Effy | Porter Yiqing | Sam |
 | Fri | Porter Sam | Yiqing Effy | Jo |
 
+## Batch 4
+
+1. Chuan Xin, Jia En
+
+   Hazel, Justin
+
+   Martin, Shen Nan
+
+   Tinaesh, Tong Huat
+
+   Vincent
+
+2. Jia En, Hazel
+
+   Justin, Martin
+
+   Shen Nan, Tinaesh
+
+   Tong Huat, Vincent
+
+   Chuan Xin
+
+3. Hazel, Justin
+
+   Martin, Shen Nan
+
+   Tinaesh, Tong Huat
+
+   Vincent, Chuan Xin
+
+   Jia En
+
+4. Justin, Martin
+
+   Shen Nan, Tinaesh
+
+   Tong Huat, Vincent
+
+   Chuan Xin, Jia En
+
+   Hazel
+
+5. Martin, Shen Nan
+
+   Tinaesh, Tong Huat
+
+   Vincent, Chuan Xin
+
+   Jia En, Hazel
+
+   Justin
+
+   Shen Nan, Tinaesh
+
+   Tong Huat, Vincent
+
+   Chuan Xin, Jia En
+
+   Hazel, Justin
+
+   Martin
+
+6. Tinaesh, Tong Huat
+
+   Vincent, Chuan Xin
+
+   Jia En, Hazel
+
+   Justin, Martin
+
+   Shen Nan
+
+7. Tong Huat, Vincent
+
+   Chuan Xin, Jia En
+
+   Hazel, Justin
+
+   Martin, Shen Nan
+
+   Tinaesh
+
+8. Vincent, Chuan Xin
+
+   Jia En, Hazel
+
+   Justin, Martin
+
+   Shen Nan, Tinaesh
+
+   Tong Huat
+
+   \*\*\*\*
+
 ## Formation Calculation Code
 
 Formation ID is determined by `(((weekNum - 1) * 5 + dayOfWeekNum) % 3) + 1`. `weekNum` is the week number of the course, i.e. 1-24. `dayOfWeekNum` is the day number corresponding to the day of week, i.e. 1-5.
@@ -50,7 +144,7 @@ function getWeekNumber(d) {
     return weekNo;
 }
 
-var formationCount = 3;
+var formationCount = 8;
 
 var daysInAWeek = 5; 
 
@@ -61,5 +155,21 @@ var weekNum = getWeekNumber(new Date());
 var formationNumber = ((weekNum * daysInAWeek + ordinalDayOfWeek) % formationCount);
 
 console.log( formationNumber );
+```
+
+```javascript
+//let people = ["kai"];
+let results = [];
+
+let arranged = [...people]; 
+for (let i = 0; i < people.length; i++) {
+  const set = [];
+  for (let j = 0; j < people.length; j+=2) {
+    set.push([arranged[j],arranged[j+1]]);
+  }
+  const rest = arranged.splice(1);
+  arranged = [...rest, ...arranged];
+  results.push(set)
+}
 ```
 
