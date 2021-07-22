@@ -80,6 +80,8 @@ Please attempt to solve each problem on your own before reviewing each problem's
 7. Str Count
 8. Str Copies
 9. Str Dist
+   1. [RA Solution Code](https://pastebin.com/xVFqzPrj)
+   2. [FTBC3 Solution Video](https://youtu.be/CnKOLqJ2THc?t=3092)
 
 ## Optional Reading
 
