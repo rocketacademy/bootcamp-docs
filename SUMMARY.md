@@ -54,6 +54,7 @@
   * [0.8.1: Promise.prototype.catch, Promise.all](0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all.md)
   * [0.8.2: Try Catch](0-language-and-tooling/0.8-js-promises/0.8.2-try-catch.md)
   * [0.8.3: Async/Await](0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
+* [0.9: VSCode Node Debugger](0-language-and-tooling/0.9-node-debugger.md)
 * [0.ICE: In-Class Exercises](0-language-and-tooling/0.ice-in-class-exercises/README.md)
   * [0.ICE.1: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
@@ -348,7 +349,6 @@
 * [9.6: GraphQL / React-Apollo](9-advanced-topics/9.6-graphql-react-apollo.md)
 * [9.7: Web Sockets](9-advanced-topics/9.7-web-sockets.md)
 * [9.8: CSS Animations](9-advanced-topics/9.8-css-animations.md)
-* [9.9: VSCode Node Debugger](9-advanced-topics/9.9-node-debugger.md)
 * [9.ICE: In-Class Exercises](9-advanced-topics/9.ice-in-class-exercises/README.md)
   * [9.ICE.1: Unit Testing](9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
   * [9.ICE.2: TDD](9-advanced-topics/9.ice-in-class-exercises/9.ice.2-tdd.md)
