@@ -8,7 +8,7 @@ As much as possible, create milestones so you know whether you are on track, and
 
 ### Repo
 
-Don't fork this repo, but you'll need to copy this base starter code into your own project to get started.
+Don't fork this repo, but you'll want to copy this base starter code into your own project to get started.
 
 [https://github.com/rocketacademy/react-express-base-bootcamp](https://github.com/rocketacademy/react-express-base-bootcamp)
 
