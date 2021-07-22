@@ -22,7 +22,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
    Martin, Shen Nan
 
-   Tinaesh, Tong Huat
+   Tinaes, Tong Huat
 
    Vincent
 
@@ -30,7 +30,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
    Justin, Martin
 
-   Shen Nan, Tinaesh
+   Shen Nan, Tinaes
 
    Tong Huat, Vincent
 
@@ -40,7 +40,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
    Martin, Shen Nan
 
-   Tinaesh, Tong Huat
+   Tinaes, Tong Huat
 
    Vincent, Chuan Xin
 
@@ -48,7 +48,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 4. Justin, Martin
 
-   Shen Nan, Tinaesh
+   Shen Nan, Tinaes
 
    Tong Huat, Vincent
 
@@ -58,7 +58,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 5. Martin, Shen Nan
 
-   Tinaesh, Tong Huat
+   Tinaes, Tong Huat
 
    Vincent, Chuan Xin
 
@@ -66,7 +66,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
    Justin
 
-   Shen Nan, Tinaesh
+   Shen Nan, Tinaes
 
    Tong Huat, Vincent
 
@@ -76,7 +76,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
    Martin
 
-6. Tinaesh, Tong Huat
+6. Tinaes, Tong Huat
 
    Vincent, Chuan Xin
 
@@ -94,7 +94,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
    Martin, Shen Nan
 
-   Tinaesh
+   Tinaes
 
 8. Vincent, Chuan Xin
 
@@ -102,7 +102,7 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
    Justin, Martin
 
-   Shen Nan, Tinaesh
+   Shen Nan, Tinaes
 
    Tong Huat
 
