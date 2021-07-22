@@ -12,7 +12,7 @@ Don't fork this repo, but you might find it helpful to copy this base starter co
 
 ## Requirements
 
-Your app must fulfill the following requirements.
+Your app must fulfil the following requirements.
 
 * Use React
 * Use AJAX to get and set data from the server
