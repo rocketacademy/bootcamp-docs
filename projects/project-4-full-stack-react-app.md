@@ -6,11 +6,9 @@ This app is a culmination of everything we've learned about React, plus server-s
 
 As much as possible, create milestones so you know whether you are on track, and to prioritise features when you are short on time. We expect half or more of our time to be spent on polish after finishing our apps' core functionalities. We encourage refactoring or rewriting some or most of the app for clear communication. Treat this as a portfolio project that you would show to prospective employers.
 
-### Repo
+## Setup
 
-Don't fork this repo, but you'll want to copy this base starter code into your own project to get started.
-
-[https://github.com/rocketacademy/react-express-base-bootcamp](https://github.com/rocketacademy/react-express-base-bootcamp)
+Don't fork this repo, but you might find it helpful to copy this base starter code into your own project to get started: [https://github.com/rocketacademy/react-express-base-bootcamp](https://github.com/rocketacademy/react-express-base-bootcamp)
 
 ## Requirements
 
