@@ -137,7 +137,7 @@
 #### Pre-Class
 
 * [2.0: Module 2 Setup](../2-backend-basics/2.0-module-2-overview.md)
-* [1.1.4: CSS Flexbox Froggy](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
+* [1.1.4: CSS Flexbox](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
 
 #### In-Class
 
@@ -152,7 +152,7 @@
 
 #### Pre-Class
 
-* [1.1.4: Flexbox Layout](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md#see-how-to-use-flexbox-to-create-css-layouts)
+* [1.1.3.9: Flexbox Columns](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.9-flexbox-layout.md)
 
 #### In-Class
 
@@ -169,7 +169,6 @@
 
 * [1.1.5: CSS Responsive Design](../1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
 * [1.1.6: Web Design Basics](../1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
-* [1.1.3.9: Flexbox Columns](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.9-flexbox-layout.md)
 
 #### In-Class
 
