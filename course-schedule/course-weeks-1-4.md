@@ -169,6 +169,7 @@
 
 * [1.1.5: CSS Responsive Design](../1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
 * [1.1.6: Web Design Basics](../1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
+* [1.1.3.9: Flexbox Columns](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.9-flexbox-layout.md)
 
 #### In-Class
 
