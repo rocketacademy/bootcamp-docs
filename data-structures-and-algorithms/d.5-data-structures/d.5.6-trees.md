@@ -104,6 +104,8 @@ Trees are often used to represent hierarchical data, e.g. HTML elements or React
 
 ## Exercises
 
+Note: The following exercises are sorted in increasing order of difficulty, and organised in groups to help us keep track of milestones. Please do as many as you can during Bootcamp and feel free to complete the rest at a later time.
+
 ### Pre-Class
 
 1. [https://repl.it/@kaiyuanneo/treeintro\#main.py](https://repl.it/@kaiyuanneo/treeintro#main.py)
@@ -120,13 +122,16 @@ Trees are often used to represent hierarchical data, e.g. HTML elements or React
 1. [https://leetcode.com/problems/univalued-binary-tree/](https://leetcode.com/problems/univalued-binary-tree/)
 2. [https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 3. [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+   1. FTBC3 class video discussion on solution and how to trace code in a recursion problem: [https://youtu.be/uQldubu1LOE?t=2269](https://youtu.be/uQldubu1LOE?t=2269)
 4. [https://leetcode.com/problems/maximum-depth-of-n-ary-tree/](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 5. [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 ### Part 2
 
 1. [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)
+   1. FTBC3 class video discussion on solution and runtime: [https://youtu.be/uQldubu1LOE?t=1709](https://youtu.be/uQldubu1LOE?t=1709)
 2. [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
+   1. FTBC3 class video discussion on algorithm: [https://youtu.be/uQldubu1LOE?t=5355](https://youtu.be/uQldubu1LOE?t=5355)
 3. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
    1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
    2. FTBC class video solution: [https://youtu.be/DUxsg2iDtuE?t=1226](https://youtu.be/DUxsg2iDtuE?t=1226)
