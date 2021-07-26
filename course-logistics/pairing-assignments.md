@@ -16,43 +16,50 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 4
 
-#### 1
+### 1
+
 * Chuan Xin, Vincent
 * Jia En, Tong Huat
 * Justin, Tinaes
 * Martin, Shen Nan
 
-#### 2
+### 2
+
 * Tong Huat, Chuan Xin
 * Vincent, Tinaes
 * Jia En, Shen Nan
 * Justin, Martin
 
-#### 3
+### 3
+
 * Chuan Xin, Tinaes
 * Tong Huat, Shen Nan
 * Vincent, Martin
 * Jia En, Justin
 
-#### 4
+### 4
+
 * Shen Nan, Chuan Xin
 * Tinaes, Martin
 * Tong Huat, Justin
 * Vincent, Jia En
 
-#### 5
+### 5
+
 * Chuan Xin, Martin
 * Shen Nan, Justin
 * Tinaes, Jia En
 * Tong Huat, Vincent
 
-#### 6
+### 6
+
 * Justin, Chuan Xin
 * Martin, Jia En
 * Shen Nan, Vincent
 * Tinaes, Tong Huat
 
-#### 7
+### 7
+
 * Chuan Xin, Jia En
 * Justin, Vincent
 * Martin, Tong Huat
@@ -114,33 +121,33 @@ const DUMMY = -1;
 // returns an array of round representations (array of player pairs).
 // http://en.wikipedia.org/wiki/Round-robin_tournament#Scheduling_algorithm
 function permutate(n, ps) { // n = num players
-	const rs = []; // rs = round array
-	if (!ps) {
-		ps = [];
-		for (let k = 1; k <= n; k += 1) {
-			ps.push(k);
-		}
-	} else {
-		ps = ps.slice();
-	}
-	if (n % 2 === 1) {
-		ps.push(DUMMY); // so we can match algorithm for even numbers
-		n += 1;
-	}
-	for (let j = 0; j < n - 1; j += 1) {
-		rs[j] = []; // create inner match array for round j
-		for (let i = 0; i < n / 2; i += 1) {
-			const o = n - 1 - i;
-			if (ps[i] !== DUMMY && ps[o] !== DUMMY) {
-			// flip orders to ensure everyone gets roughly n/2 home matches
-				const isHome = i === 0 && j % 2 === 1;
-		// insert pair as a match - [ away, home ]
-				rs[j].push([isHome ? ps[o] : ps[i], isHome ? ps[i] : ps[o]]);
-			}
-		}
-	ps.splice(1, 0, ps.pop()); // permutate for next round
-	}
-	return rs;
+    const rs = []; // rs = round array
+    if (!ps) {
+        ps = [];
+        for (let k = 1; k <= n; k += 1) {
+            ps.push(k);
+        }
+    } else {
+        ps = ps.slice();
+    }
+    if (n % 2 === 1) {
+        ps.push(DUMMY); // so we can match algorithm for even numbers
+        n += 1;
+    }
+    for (let j = 0; j < n - 1; j += 1) {
+        rs[j] = []; // create inner match array for round j
+        for (let i = 0; i < n / 2; i += 1) {
+            const o = n - 1 - i;
+            if (ps[i] !== DUMMY && ps[o] !== DUMMY) {
+            // flip orders to ensure everyone gets roughly n/2 home matches
+                const isHome = i === 0 && j % 2 === 1;
+        // insert pair as a match - [ away, home ]
+                rs[j].push([isHome ? ps[o] : ps[i], isHome ? ps[i] : ps[o]]);
+            }
+        }
+    ps.splice(1, 0, ps.pop()); // permutate for next round
+    }
+    return rs;
 };
 
 const pairs = permutate(studentNames.length, studentNames)

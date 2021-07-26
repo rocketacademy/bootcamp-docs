@@ -25,7 +25,7 @@
 * [LinkedIn Education Badge](course-logistics/linkedin-education-badge.md)
 * [Recommended Books](course-logistics/recommended-books.md)
 
-## �� Projects
+## 🏞 Projects
 
 * [Project 1: Video Poker](projects/project-1-video-poker.md)
 * [Project 2: Server-Side App](projects/project-2-server-side-app.md)
