@@ -1,4 +1,4 @@
-# 1.1: HTML & CSS
+# 1.1: HTML
 
 ## Exercises
 

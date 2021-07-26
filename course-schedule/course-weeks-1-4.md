@@ -8,8 +8,8 @@
 
 #### Pre-Class
 
-* [1.1.0: Wireframes](../1-frontend-basics/1.1-html-and-css/1.1.0-wireframes.md)
-* [1.1.1: HTML Basics](../1-frontend-basics/1.1-html-and-css/1.1.1-basic-html.md)
+* [1.1.0: Wireframes](../1-frontend-basics/1.1-html/1.1.0-wireframes.md)
+* [1.1.1: HTML Basics](../1-frontend-basics/1.1-html/1.1.1-basic-html.md)
 * [0.1: New JS Syntax](../0-language-and-tooling/0.1-new-js-syntax.md)
 * [0.2: ES6](../0-language-and-tooling/0.2-es6/)
 * [0.2.1: ES6 Basics](../0-language-and-tooling/0.2-es6/0.2.1-es6-basics.md)
@@ -24,13 +24,13 @@
 
 #### Post-Class
 
-* [1.POCE.1: Noodle Recipe Website](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.1-noodles.md)
+* [1.POCE.1: Noodle Recipe Website](../1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
 
 ### Course Day 1.2
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS \(Exercises Part 1\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-1)
+* [1.1.2: Basic CSS \(Exercises Part 1\)](../css/1.1.2-basic-css.md#part-1)
 * [1.3: High Card DOM](../1-frontend-basics/1.3-high-card-dom.md)
 * [0.3: Reading Documentation](../0-language-and-tooling/0.3-reading-documentation.md)
 * [1.4: setTimeout](../1-frontend-basics/1.4-settimeout.md)
@@ -42,13 +42,13 @@
 
 #### Post-Class
 
-* [1.POCE.2: High Card DOM](../1-frontend-basics/1.poce-post-class-exercises/1.poce.1-high-card-dom.md)
+* [1.POCE.2: High Card DOM](../1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
 
 ### Course Day 1.3
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS \(Exercises Part 2, Tribute Page\)](../1-frontend-basics/1.1-html-and-css/1.1.2-basic-css.md#part-2-exercises-23-36-skip-last-8-exercises)
+* [1.1.2: Basic CSS \(Exercises Part 2, Tribute Page\)](../css/1.1.2-basic-css.md#part-2-exercises-23-36-skip-last-8-exercises)
 * [1.5: High Card setTimeout](../1-frontend-basics/1.5-high-card-settimeout.md)
 * [1.6: Match Game](../1-frontend-basics/1.6-match-game.md)
 * [0.2.4: Reference vs. Value](../0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value.md)
@@ -60,7 +60,7 @@
 
 #### Post-Class
 
-* [1.POCE.3: Match Game](../1-frontend-basics/1.poce-post-class-exercises/1.poce.2-match-game.md)
+* [1.POCE.3: Match Game](../1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
 
 ### Course Day 1.4
 
@@ -68,8 +68,8 @@
 
 * [1.7: setInterval](../1-frontend-basics/1.7-setinterval.md)
 * [1.8: Timer](../1-frontend-basics/1.8-timer.md)
-* [1.1.3.1: CSS No Layout](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.1-no-layout.md)
-* [1.1.3.2: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.2-display-inline-and-block.md)
+* [1.1.3.1: CSS No Layout](../css/1.1.3-css-layout/1.1.3.1-no-layout.md)
+* [1.1.3.2: CSS Display Inline Block](../css/1.1.3-css-layout/1.1.3.2-display-inline-and-block.md)
 
 #### In-Class
 
@@ -78,7 +78,7 @@
 
 #### Post-Class
 
-* [1.POCE.4: Timer](../1-frontend-basics/1.poce-post-class-exercises/1.poce.3-timer.md)
+* [1.POCE.4: Timer](../1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
 
 ### Course Day 1.5
 
@@ -86,8 +86,8 @@
 
 * [1.9: Tic Tac Toe](../1-frontend-basics/1.9-tic-tac-toe.md)
 * [1.10: Multi File Refactor](../1-frontend-basics/1.10-multi-file-refactor.md)
-* [1.1.3.3: CSS Box Model](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.3-box-model.md)
-* [1.1.3.4: CSS Layout Width](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.4-layout-fixed-width-and-max-width.md)
+* [1.1.3.3: CSS Box Model](../css/1.1.3-css-layout/1.1.3.3-box-model.md)
+* [1.1.3.4: CSS Layout Width](../css/1.1.3-css-layout/1.1.3.4-layout-fixed-width-and-max-width.md)
 
 #### In-Class
 
@@ -95,7 +95,7 @@
 
 #### Post-Class
 
-* [1.POCE.5: Tic Tac Toe](../1-frontend-basics/1.poce-post-class-exercises/1.poce.4-tic-tac-toe.md)
+* [1.POCE.5: Tic Tac Toe](../1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
 
 ## Course Week 2
 
@@ -104,8 +104,8 @@
 #### Pre-Class
 
 * [1.11: CSS Control with DOM](../1-frontend-basics/1.11-css-control-with-dom.md)
-* [1.1.3.5: CSS Display Inline Block](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.5-display-inline-block.md)
-* [1.1.3.6: CSS Layout Col / Card](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.6-layout-columns-and-cards.md)
+* [1.1.3.5: CSS Display Inline Block](../css/1.1.3-css-layout/1.1.3.5-display-inline-block.md)
+* [1.1.3.6: CSS Layout Col / Card](../css/1.1.3-css-layout/1.1.3.6-layout-columns-and-cards.md)
 * [0.4: JS Object as Tally](../0-language-and-tooling/0.4-js-object-as-tally.md)
 
 #### In-Class
@@ -120,8 +120,8 @@
 
 #### Pre-Class
 
-* [CSS 1.1.3.7: Position](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.7-position.md)
-* [CSS 1.1.3.8: Float](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.8-float.md)
+* [CSS 1.1.3.7: Position](../css/1.1.3-css-layout/1.1.3.7-position.md)
+* [CSS 1.1.3.8: Float](../css/1.1.3-css-layout/1.1.3.8-float.md)
 
 #### In-Class
 
@@ -137,7 +137,7 @@
 #### Pre-Class
 
 * [2.0: Module 2 Setup](../2-backend-basics/2.0-module-2-overview.md)
-* [1.1.4: CSS Flexbox](../1-frontend-basics/1.1-html-and-css/1.1.4-flexbox.md)
+* [1.1.4: CSS Flexbox](../css/1.1.4-flexbox.md)
 
 #### In-Class
 
@@ -152,7 +152,7 @@
 
 #### Pre-Class
 
-* [1.1.3.9: Flexbox Columns](../1-frontend-basics/1.1-html-and-css/1.1.3-css-layout/1.1.3.9-flexbox-layout.md)
+* [1.1.3.9: Flexbox Columns](../css/1.1.3-css-layout/1.1.3.9-flexbox-layout.md)
 
 #### In-Class
 
@@ -167,8 +167,8 @@
 
 #### Pre-Class
 
-* [1.1.5: CSS Responsive Design](../1-frontend-basics/1.1-html-and-css/1.1.5-responsive-design.md)
-* [1.1.6: Web Design Basics](../1-frontend-basics/1.1-html-and-css/1.1.6-web-design-basics.md)
+* [1.1.5: CSS Responsive Design](../css/1.1.5-responsive-design.md)
+* [1.1.6: Web Design Basics](../css/1.1.6-web-design-basics.md)
 
 #### In-Class
 
@@ -212,7 +212,7 @@
 
 #### Post-Class
 
-* [1.POCE.6: CSS Flexbox](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.2-technical-documentation-page-flexbox-responsive.md)
+* [1.POCE.6: CSS Flexbox](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive.md)
 * [2.POCE.1: Command Line Colour Converter](../2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter.md)
 
 ### Course Day 3.3
@@ -246,7 +246,7 @@
 
 #### Post-Class
 
-* [1.POCE.8: Flexbox Personal Page](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.3-flexbox-personal-page.md)
+* [1.POCE.8: Flexbox Personal Page](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page.md)
 * [2.POCE.3: CSS Processor](../2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 
 ### Course Day 3.5
@@ -255,7 +255,7 @@
 
 CSS
 
-* [1.1.7: CSS Bootstrap](../1-frontend-basics/1.1-html-and-css/1.1.7-bootstrap.md)
+* [1.1.7: CSS Bootstrap](../css/1.1.7-bootstrap.md)
 
 Node.js
 
@@ -270,7 +270,7 @@ Node.js
 
 #### Post-Class
 
-* [1.POCE.9: Bootstrap](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-columns.md)
+* [1.POCE.9: Bootstrap](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns.md)
 * [2.POCE.4: File Server](../2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 
 ## Course Week 4
@@ -306,7 +306,7 @@ Node.js
 
 #### Post-Class
 
-* [1.POCE.10: Bootstrap Adobe](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.5-bootstrap-adobe.md)
+* [1.POCE.10: Bootstrap Adobe](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
 * [2.POCE.6: To-Do List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ### Course Day 4.3
