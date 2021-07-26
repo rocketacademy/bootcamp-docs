@@ -133,53 +133,63 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 
 ### Part 3
 
-1. [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
-   1. FTBC3 class video discussion on algorithm and how to write helper function for recursion problems to pass additional variable: [https://youtu.be/uQldubu1LOE?t=5355](https://youtu.be/uQldubu1LOE?t=5355)
-   2. [Leetcode reference solution](https://leetcode.com/problems/binary-tree-paths/discuss/1357824/Python-3-DFS-With-Backtracking) from Leetcode Discuss tab
-2. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
-   1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
-   2. FTBC class video solution: [https://youtu.be/DUxsg2iDtuE?t=1226](https://youtu.be/DUxsg2iDtuE?t=1226)
-3. [https://leetcode.com/problems/minimum-absolute-difference-in-bst/](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
-
-### Part 4
-
-1. [https://leetcode.com/problems/two-sum-iv-input-is-a-bst/](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
-2. [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
-   1. Here's an [intuitive explanation of binary numbers](https://www.mathsisfun.com/binary-number-system.html).
-   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA_vkpE?t=2372).
+1. [https://leetcode.com/problems/n-ary-tree-postorder-traversal/](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+2. [https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 3. [https://leetcode.com/problems/increasing-order-search-tree/](https://leetcode.com/problems/increasing-order-search-tree/)
    1. Hint: Consider in-order traversal to traverse a binary search tree in increasing order.
 
+### Part 4
+
+1. [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
+2. [https://leetcode.com/problems/find-mode-in-binary-search-tree/](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+3. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
+   1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
+   2. FTBC class video solution: [https://youtu.be/DUxsg2iDtuE?t=1226](https://youtu.be/DUxsg2iDtuE?t=1226)
+
 ### Part 5
 
-1. [https://leetcode.com/problems/n-ary-tree-postorder-traversal/](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
-2. [https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
-3. [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-   1. Hint: Consider starting in the middle of the array and using recursion.
+1. [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+   1. Here's an [intuitive explanation of binary numbers](https://www.mathsisfun.com/binary-number-system.html).
+   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA_vkpE?t=2372).
+2. [https://leetcode.com/problems/two-sum-iv-input-is-a-bst/](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+3. [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
+   1. RA solution code \(naive solution without pruning\): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
+   2. [Solution video](https://youtu.be/3Dw3spVIk1w?t=4579) from FTBC3's class
 
 ### Part 6
 
-1. [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
-   1. RA solution code \(naive solution without pruning\): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
-   2. [Solution video](https://youtu.be/3Dw3spVIk1w?t=4579) from FTBC3's class
-2. [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
-3. [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
+1. [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
+2. [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
+3. [https://leetcode.com/problems/leaf-similar-trees/](https://leetcode.com/problems/leaf-similar-trees/)
 
 ### More Comfortable
 
-1. [https://leetcode.com/problems/average-of-levels-in-binary-tree/](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
-2. [https://leetcode.com/problems/leaf-similar-trees/](https://leetcode.com/problems/leaf-similar-trees/)
-3. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
-   1. Rocket Academy solution code: [https://pastebin.com/wWYXg309](https://pastebin.com/wWYXg309)
-   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU\_f4?t=4088](https://youtu.be/SeNfZBAU_f4?t=4088) \(1:08:08 onward\)
-4. [https://leetcode.com/problems/sum-of-left-leaves/](https://leetcode.com/problems/sum-of-left-leaves/)
-5. [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
+1. [https://leetcode.com/problems/sum-of-left-leaves/](https://leetcode.com/problems/sum-of-left-leaves/)
+2. [https://leetcode.com/problems/subtree-of-another-tree/](https://leetcode.com/problems/subtree-of-another-tree/)
+3. [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+   1. Hint: Consider starting in the middle of the array and using recursion.
+4. [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
+   1. Hints
+      1. Each time we reach a leaf node, we've explored a valid path. 
+      2. How can we keep track of the path up to each leaf node such that when we reach a leaf node in our recursion, we can add that path to the list of valid paths? Do we need an additional input parameter to our recursive function, i.e. a recursive helper function for this?
+      3. Where can we store our list of valid paths? Should it be inside or outside of our recursive helper function?
+   2. [FTBC3 class video discussion on algorithm](https://youtu.be/uQldubu1LOE?t=5355) and how to write helper function for recursion problems to pass additional parameter to recursive children.
+   3. [Leetcode reference solution](https://leetcode.com/problems/binary-tree-paths/discuss/1357824/Python-3-DFS-With-Backtracking) from Leetcode Discuss tab
+5. [https://leetcode.com/problems/average-of-levels-in-binary-tree/](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+   1. Hint: BFS
 6. [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-7. [https://leetcode.com/problems/find-mode-in-binary-search-tree/](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
-8. [https://leetcode.com/problems/subtree-of-another-tree/](https://leetcode.com/problems/subtree-of-another-tree/)
-9. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
+7. [https://leetcode.com/problems/minimum-absolute-difference-in-bst/](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+   1. Hint: The minimum absolute distance in a tree with root node `root` is the minimum of the following 4 values.
+      1. `minAbsDist(root.left)`
+      2. `minAbsDist(root.right)`
+      3. `abs(root.val - maxValInLeftSubtree)`
+      4. `abs(root.val - minValInRightSubtree))`
+8. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
    1. RA solution code: [https://pastebin.com/a2buQJxv](https://pastebin.com/a2buQJxv)
    2. [Solution video](https://youtu.be/AMpseCEX6_A?t=2147) from FTBC3's class
+9. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
+   1. Rocket Academy solution code: [https://pastebin.com/wWYXg309](https://pastebin.com/wWYXg309)
+   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU\_f4?t=4088](https://youtu.be/SeNfZBAU_f4?t=4088)
 10. [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
 11. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) \(Medium\)
 12. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) \(Medium\)
