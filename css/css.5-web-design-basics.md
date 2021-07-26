@@ -1,0 +1,8 @@
+# CSS.5: Web Design Basics
+
+## Introduction
+
+The following is a tutorial on basic web design. We hope that students can apply these design principles to all projects in Coding Bootcamp and beyond. You will need a \(free\) Udemy account to watch this video.
+
+[https://www.udemy.com/course/web-design-secrets/](https://www.udemy.com/course/web-design-secrets/)
+
