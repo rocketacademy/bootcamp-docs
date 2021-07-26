@@ -16,76 +16,47 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 4
 
-**1.**
+#### 1
+* Chuan Xin, Vincent
+* Jia En, Tong Huat
+* Justin, Tinaes
+* Martin, Shen Nan
 
-**Chuan Xin, Jia En**
+#### 2
+* Tong Huat, Chuan Xin
+* Vincent, Tinaes
+* Jia En, Shen Nan
+* Justin, Martin
 
-**Justin, Martin**
+#### 3
+* Chuan Xin, Tinaes
+* Tong Huat, Shen Nan
+* Vincent, Martin
+* Jia En, Justin
 
-**Shen Nan, Tinaes**
+#### 4
+* Shen Nan, Chuan Xin
+* Tinaes, Martin
+* Tong Huat, Justin
+* Vincent, Jia En
 
-**Tong Huat, Vincent**
+#### 5
+* Chuan Xin, Martin
+* Shen Nan, Justin
+* Tinaes, Jia En
+* Tong Huat, Vincent
 
-**2.**
+#### 6
+* Justin, Chuan Xin
+* Martin, Jia En
+* Shen Nan, Vincent
+* Tinaes, Tong Huat
 
-**Justin, Martin**
-
-**Shen Nan, Tinaes**
-
-**Tong Huat, Vincent**
-
-**Chuan Xin, Jia En**
-
-**3.**
-
-**Martin, Shen Nan**
-
-**Tinaes, Tong Huat**
-
-**Vincent, Chuan Xin**
-
-**Jia En, Justin**
-
-**4.**
-
-**Shen Nan, Tinaes**
-
-**Tong Huat, Vincent**
-
-**Chuan Xin, Jia En**
-
-**Justin, Martin**
-
-**5.**
-
-**Tinaes, Tong Huat**
-
-**Vincent, Chuan Xin**
-
-**Jia En, Justin**
-
-**Martin, Shen Nan**
-
-**6.**
-
-**Tong Huat, Vincent**
-
-**Chuan Xin, Jia En**
-
-**Justin, Martin**
-
-**Shen Nan, Tinaes**  
-
-
-**7.**
-
-**Vincent, Chuan Xin**
-
-**Jia En, Justin**
-
-**Martin, Shen Nan**
-
-**Tinaes, Tong Huat**
+#### 7
+* Chuan Xin, Jia En
+* Justin, Vincent
+* Martin, Tong Huat
+* Shen Nan, Tinaes
 
 ## Formation Calculation Code
 
@@ -123,7 +94,7 @@ function getWeekNumber(d) {
     return weekNo;
 }
 
-var formationCount = 8;
+var formationCount = 7;
 
 var daysInAWeek = 5; 
 
