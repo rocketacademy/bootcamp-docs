@@ -30,7 +30,7 @@
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS \(Exercises Part 1\)](../css/css-1-basic-css.md#part-1)
+* [CSS.1: Basic CSS \(Exercises Part 1\)](../css/css-1-basic-css.md)
 * [1.3: High Card DOM](../1-frontend-basics/1.3-high-card-dom.md)
 * [0.3: Reading Documentation](../0-language-and-tooling/0.3-reading-documentation.md)
 * [1.4: setTimeout](../1-frontend-basics/1.4-settimeout.md)
@@ -48,7 +48,7 @@
 
 #### Pre-Class
 
-* [1.1.2: Basic CSS \(Exercises Part 2, Tribute Page\)](../css/css-1-basic-css.md#part-2-exercises-23-36-skip-last-8-exercises)
+* [CSS.1: Basic CSS \(Exercises Part 2\)](../css/css-1-basic-css.md)
 * [1.5: High Card setTimeout](../1-frontend-basics/1.5-high-card-settimeout.md)
 * [1.6: Match Game](../1-frontend-basics/1.6-match-game.md)
 * [0.2.4: Reference vs. Value](../0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value.md)
@@ -68,8 +68,8 @@
 
 * [1.7: setInterval](../1-frontend-basics/1.7-setinterval.md)
 * [1.8: Timer](../1-frontend-basics/1.8-timer.md)
-* [1.1.3.1: CSS No Layout](../css/css.2-layout/css.2.1-no-layout.md)
-* [1.1.3.2: CSS Display Inline Block](../css/css.2-layout/css.2.2-display-inline-and-block.md)
+* [CSS.2.1 No Layout](../css/css.2-layout/css.2.1-no-layout.md)
+* [CSS.2.2 Display Inline Block](../css/css.2-layout/css.2.2-display-inline-and-block.md)
 
 #### In-Class
 
@@ -86,8 +86,8 @@
 
 * [1.9: Tic Tac Toe](../1-frontend-basics/1.9-tic-tac-toe.md)
 * [1.10: Multi File Refactor](../1-frontend-basics/1.10-multi-file-refactor.md)
-* [1.1.3.3: CSS Box Model](../css/css.2-layout/css.2.3-box-model.md)
-* [1.1.3.4: CSS Layout Width](../css/css.2-layout/css.2.4-layout-fixed-width-and-max-width.md)
+* [CSS.2.3: Box Model](../css/css.2-layout/css.2.3-box-model.md)
+* [CSS.2.4: Layout Width](../css/css.2-layout/css.2.4-layout-fixed-width-and-max-width.md)
 
 #### In-Class
 
@@ -104,8 +104,8 @@
 #### Pre-Class
 
 * [1.11: CSS Control with DOM](../1-frontend-basics/1.11-css-control-with-dom.md)
-* [1.1.3.5: CSS Display Inline Block](../css/css.2-layout/css.2.5-display-inline-block.md)
-* [1.1.3.6: CSS Layout Col / Card](../css/css.2-layout/css.2.6-layout-columns-and-cards.md)
+* [CSS.2.5 Display Inline Block](../css/css.2-layout/css.2.5-display-inline-block.md)
+* [CSS.2.6 Layout Col / Card](../css/css.2-layout/css.2.6-layout-columns-and-cards.md)
 * [0.4: JS Object as Tally](../0-language-and-tooling/0.4-js-object-as-tally.md)
 
 #### In-Class
@@ -120,8 +120,8 @@
 
 #### Pre-Class
 
-* [CSS 1.1.3.7: Position](../css/css.2-layout/css.2.7-position.md)
-* [CSS 1.1.3.8: Float](../css/css.2-layout/css.2.8-float.md)
+* [CSS.2.7: Position](../css/css.2-layout/css.2.7-position.md)
+* [CSS.2.8: Float](../css/css.2-layout/css.2.8-float.md)
 
 #### In-Class
 
@@ -137,7 +137,7 @@
 #### Pre-Class
 
 * [2.0: Module 2 Setup](../2-backend-basics/2.0-module-2-overview.md)
-* [1.1.4: CSS Flexbox](../css/css.3-flexbox/)
+* [CSS.3 Flexbox](../css/css.3-flexbox/)
 
 #### In-Class
 
@@ -152,7 +152,7 @@
 
 #### Pre-Class
 
-* [1.1.3.9: Flexbox Columns](../css/css.3-flexbox/css.3.1-flexbox-layout.md)
+* [CSS.3.1: Flexbox Columns](../css/css.3-flexbox/css.3.1-flexbox-layout.md)
 
 #### In-Class
 
@@ -167,8 +167,8 @@
 
 #### Pre-Class
 
-* [1.1.5: CSS Responsive Design](../css/css.4-responsive-design.md)
-* [1.1.6: Web Design Basics](../css/css.5-web-design-basics.md)
+* [CSS.4 Responsive Design](../css/css.4-responsive-design.md)
+* [CSS.5: Web Design Basics](../css/css.5-web-design-basics.md)
 
 #### In-Class
 
@@ -228,7 +228,6 @@
 
 #### Post-Class
 
-* [1.POCE.7: Flexbox Calendar]()
 * [2.POCE.2: CSS Reader](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
 
 ### Course Day 3.4
@@ -255,7 +254,7 @@
 
 CSS
 
-* [1.1.7: CSS Bootstrap](../css/css.6-bootstrap.md)
+* [CSS.6 Bootstrap](../css/css.6-bootstrap.md)
 
 Node.js
 
