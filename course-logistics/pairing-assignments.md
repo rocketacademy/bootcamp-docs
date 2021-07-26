@@ -137,21 +137,47 @@ console.log( formationNumber );
 ```
 
 ```javascript
-//let people = ["kai"];
-let results = [];
+const studentNames = ['kai','iak'];
 
-let arranged = [...people]; 
-for (let i = 0; i < people.length; i++) {
-  const set = [];
-  for (let j = 0; j < people.length; j+=2) {
-    set.push([arranged[j],arranged[j+1]]);
-  }
-  const rest = arranged.splice(1);
-  arranged = [...rest, ...arranged];
-  results.push(set)
-}
+const DUMMY = -1;
+// returns an array of round representations (array of player pairs).
+// http://en.wikipedia.org/wiki/Round-robin_tournament#Scheduling_algorithm
+function permutate(n, ps) { // n = num players
+	const rs = []; // rs = round array
+	if (!ps) {
+		ps = [];
+		for (let k = 1; k <= n; k += 1) {
+			ps.push(k);
+		}
+	} else {
+		ps = ps.slice();
+	}
+	if (n % 2 === 1) {
+		ps.push(DUMMY); // so we can match algorithm for even numbers
+		n += 1;
+	}
+	for (let j = 0; j < n - 1; j += 1) {
+		rs[j] = []; // create inner match array for round j
+		for (let i = 0; i < n / 2; i += 1) {
+			const o = n - 1 - i;
+			if (ps[i] !== DUMMY && ps[o] !== DUMMY) {
+			// flip orders to ensure everyone gets roughly n/2 home matches
+				const isHome = i === 0 && j % 2 === 1;
+		// insert pair as a match - [ away, home ]
+				rs[j].push([isHome ? ps[o] : ps[i], isHome ? ps[i] : ps[o]]);
+			}
+		}
+	ps.splice(1, 0, ps.pop()); // permutate for next round
+	}
+	return rs;
+};
 
-results.forEach(day => {
+const pairs = permutate(studentNames.length, studentNames)
+console.log( pairs )
+
+pairs.forEach((day, index) => {
+  let groupNum = index+1;
+  console.log(groupNum);
   day.forEach(set=>console.log(set.join(', ')));
   console.log(' ');
 });
