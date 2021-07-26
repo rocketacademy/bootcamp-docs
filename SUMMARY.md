@@ -102,7 +102,6 @@
   * [1.POCE.3: Timer](1-frontend-basics/1.poce-post-class-exercises/1.poce.3-timer.md)
   * [1.POCE.4: Tic Tac Toe](1-frontend-basics/1.poce-post-class-exercises/1.poce.4-tic-tac-toe.md)
 * [1.ICE.CSS - In Class CSS Exercises](1-frontend-basics/1.ice.css-in-class-css-exercises/README.md)
-  * [1.ICE.CSS.1: Tribute](1-frontend-basics/1.ice.css-in-class-css-exercises/1.ice.css.1-tribute.md)
   * [1.ICE.CSS.1: Straits Times CSS](1-frontend-basics/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css.md)
   * [1.ICE.CSS.2: Wikipedia](1-frontend-basics/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia.md)
   * [1.ICE.CSS.3: MyTunes](1-frontend-basics/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes.md)
