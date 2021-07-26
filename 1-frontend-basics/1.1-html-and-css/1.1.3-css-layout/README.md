@@ -20,3 +20,15 @@ Even if you don't see the clearly defined set of boxes on a given website, CSS /
 
 ![](../../../.gitbook/assets/adobe.com.png)
 
+## Exercise
+
+### Tribute Page
+
+Use the above technique to divide the page below into its constituent boxes.
+
+{% hint style="warning" %}
+No need to do user story \#8 because it will be covered later. You may find the `text-align: center` style rule helpful for this exercise.
+{% endhint %}
+
+[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+

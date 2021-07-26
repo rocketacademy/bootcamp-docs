@@ -24,7 +24,7 @@
 
 #### Post-Class
 
-* [1.POCE.1: Noodle Recipe Website](../1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
+* [1.POCE.1: Noodle Recipe Website](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.1-noodles.md)
 
 ### Course Day 1.2
 
@@ -42,7 +42,7 @@
 
 #### Post-Class
 
-* [1.POCE.2: High Card DOM](../1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
+* [1.POCE.2: High Card DOM](../1-frontend-basics/1.poce-post-class-exercises/1.poce.1-high-card-dom.md)
 
 ### Course Day 1.3
 
@@ -60,7 +60,7 @@
 
 #### Post-Class
 
-* [1.POCE.3: Match Game](../1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
+* [1.POCE.3: Match Game](../1-frontend-basics/1.poce-post-class-exercises/1.poce.2-match-game.md)
 
 ### Course Day 1.4
 
@@ -78,7 +78,7 @@
 
 #### Post-Class
 
-* [1.POCE.4: Timer](../1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
+* [1.POCE.4: Timer](../1-frontend-basics/1.poce-post-class-exercises/1.poce.3-timer.md)
 
 ### Course Day 1.5
 
@@ -95,7 +95,7 @@
 
 #### Post-Class
 
-* [1.POCE.5: Tic Tac Toe](../1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
+* [1.POCE.5: Tic Tac Toe](../1-frontend-basics/1.poce-post-class-exercises/1.poce.4-tic-tac-toe.md)
 
 ## Course Week 2
 
@@ -126,7 +126,7 @@
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.4: Straights Times CSS](../1-frontend-basics/1.ice-in-class-exercises/1.ice.4-straights-times-css.md)
+* [1.ICE.CSS.1: Straits Times](../1-frontend-basics/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css.md)
 
 #### **Post-Class**
 
@@ -142,7 +142,7 @@
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.12: Wikipedia](../1-frontend-basics/1.ice-in-class-exercises/1.ice.12-css-practice-6-wikipedia.md)
+* [1.ICE.CSS.Wikipedia](../1-frontend-basics/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia.md)
 
 #### Post-Class
 
@@ -157,7 +157,7 @@
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.5: Etsy CSS](../1-frontend-basics/1.ice-in-class-exercises/1.ice.5-etsy-css.md)
+* [1.ICE.CSS.4: Etsy](../1-frontend-basics/1.ice.css-in-class-css-exercises/1.ice.css.4-etsy-css.md)
 
 #### Post-Class
 
@@ -173,7 +173,7 @@
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.1: HTML & CSS \(Product Landing Page\)](../1-frontend-basics/1.1-html-and-css/#product-landing-page)
+* 1.1: HTML & CSS \(Product Landing Page\)
 
 #### Post-Class
 
@@ -212,7 +212,7 @@
 
 #### Post-Class
 
-* [1.POCE.6: CSS Flexbox](../1-frontend-basics/1.poce-post-class-exercises/1.poce.6-technical-documentation-page-flexbox-responsive.md)
+* [1.POCE.6: CSS Flexbox](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.2-technical-documentation-page-flexbox-responsive.md)
 * [2.POCE.1: Command Line Colour Converter](../2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter.md)
 
 ### Course Day 3.3
@@ -228,7 +228,7 @@
 
 #### Post-Class
 
-* [1.POCE.7: Flexbox Calendar](../1-frontend-basics/1.poce-post-class-exercises/1.poce.7-flexbox-calendar.md)
+* [1.POCE.7: Flexbox Calendar]()
 * [2.POCE.2: CSS Reader](../2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
 
 ### Course Day 3.4
@@ -246,7 +246,7 @@
 
 #### Post-Class
 
-* [1.POCE.8: Flexbox Personal Page](../1-frontend-basics/1.poce-post-class-exercises/1.poce.8-flexbox-personal-page.md)
+* [1.POCE.8: Flexbox Personal Page](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.3-flexbox-personal-page.md)
 * [2.POCE.3: CSS Processor](../2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 
 ### Course Day 3.5
@@ -270,7 +270,7 @@ Node.js
 
 #### Post-Class
 
-* [1.POCE.9: Bootstrap](../1-frontend-basics/1.poce-post-class-exercises/1.poce.9-bootstrap-columns.md)
+* [1.POCE.9: Bootstrap](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-columns.md)
 * [2.POCE.4: File Server](../2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 
 ## Course Week 4
@@ -306,7 +306,7 @@ Node.js
 
 #### Post-Class
 
-* [1.POCE.10: Bootstrap Adobe](../1-frontend-basics/1.poce-post-class-exercises/1.poce.10-bootstrap-adobe.md)
+* [1.POCE.10: Bootstrap Adobe](../1-frontend-basics/1.poce.css-post-class-css-exercises/1.poce.css.5-bootstrap-adobe.md)
 * [2.POCE.6: To-Do List - JSON](../2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ### Course Day 4.3
