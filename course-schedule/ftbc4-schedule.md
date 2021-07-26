@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2 | 19-23 Jul | Advanced CSS | [P1](../projects/project-1-video-poker.md) | [CD2.1](course-weeks-1-4.md#course-day-2-1) | **PH** | [CD2.2](course-weeks-1-4.md#course-day-2-2) | [CD2.3](course-weeks-1-4.md#course-day-2-3) | [CD2.4](course-weeks-1-4.md#course-day-2-4) |
+| 3 | 26-30 Jul | Node.js, HTTP, File Servers | [P1](../projects/project-1-video-poker.md) | [CD2.5](course-weeks-1-4.md#course-day-2-5) | [CD3.1](course-weeks-1-4.md#course-day-3-1) | [CD3.2](course-weeks-1-4.md#course-day-3-2) | [CD3.3](course-weeks-1-4.md#course-day-3-3) | [CD3.4](course-weeks-1-4.md#course-day-3-4) |
 
 ## Overall Schedule
 
