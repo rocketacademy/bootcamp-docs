@@ -134,7 +134,7 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 ### Part 3
 
 1. [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
-   1. FTBC3 class video discussion on algorithm and how to write helper function for recursion problems: [https://youtu.be/uQldubu1LOE?t=5355](https://youtu.be/uQldubu1LOE?t=5355)
+   1. FTBC3 class video discussion on algorithm and how to write helper function for recursion problems to pass additional variable: [https://youtu.be/uQldubu1LOE?t=5355](https://youtu.be/uQldubu1LOE?t=5355)
 2. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
    1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
    2. FTBC class video solution: [https://youtu.be/DUxsg2iDtuE?t=1226](https://youtu.be/DUxsg2iDtuE?t=1226)
