@@ -16,97 +16,76 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 4
 
-1. Chuan Xin, Jia En
+**1.**
 
-   Hazel, Justin
+**Chuan Xin, Jia En**
 
-   Martin, Shen Nan
+**Justin, Martin**
 
-   Tinaes, Tong Huat
+**Shen Nan, Tinaes**
 
-   Vincent
+**Tong Huat, Vincent**
 
-2. Jia En, Hazel
+**2.**
 
-   Justin, Martin
+**Justin, Martin**
 
-   Shen Nan, Tinaes
+**Shen Nan, Tinaes**
 
-   Tong Huat, Vincent
+**Tong Huat, Vincent**
 
-   Chuan Xin
+**Chuan Xin, Jia En**
 
-3. Hazel, Justin
+**3.**
 
-   Martin, Shen Nan
+**Martin, Shen Nan**
 
-   Tinaes, Tong Huat
+**Tinaes, Tong Huat**
 
-   Vincent, Chuan Xin
+**Vincent, Chuan Xin**
 
-   Jia En
+**Jia En, Justin**
 
-4. Justin, Martin
+**4.**
 
-   Shen Nan, Tinaes
+**Shen Nan, Tinaes**
 
-   Tong Huat, Vincent
+**Tong Huat, Vincent**
 
-   Chuan Xin, Jia En
+**Chuan Xin, Jia En**
 
-   Hazel
+**Justin, Martin**
 
-5. Martin, Shen Nan
+**5.**
 
-   Tinaes, Tong Huat
+**Tinaes, Tong Huat**
 
-   Vincent, Chuan Xin
+**Vincent, Chuan Xin**
 
-   Jia En, Hazel
+**Jia En, Justin**
 
-   Justin
+**Martin, Shen Nan**
 
-   Shen Nan, Tinaes
+**6.**
 
-   Tong Huat, Vincent
+**Tong Huat, Vincent**
 
-   Chuan Xin, Jia En
+**Chuan Xin, Jia En**
 
-   Hazel, Justin
+**Justin, Martin**
 
-   Martin
+**Shen Nan, Tinaes**  
 
-6. Tinaes, Tong Huat
 
-   Vincent, Chuan Xin
+**7.**
 
-   Jia En, Hazel
+**Vincent, Chuan Xin**
 
-   Justin, Martin
+**Jia En, Justin**
 
-   Shen Nan
+**Martin, Shen Nan**
 
-7. Tong Huat, Vincent
-
-   Chuan Xin, Jia En
-
-   Hazel, Justin
-
-   Martin, Shen Nan
-
-   Tinaes
-
-8. Vincent, Chuan Xin
-
-   Jia En, Hazel
-
-   Justin, Martin
-
-   Shen Nan, Tinaes
-
-   Tong Huat
-
-   \*\*\*\*
+**Tinaes, Tong Huat**
 
 ## Formation Calculation Code
 
