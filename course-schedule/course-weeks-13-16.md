@@ -267,7 +267,7 @@ None
 
 #### Due
 
-* Project 4 MVP \(deployed\)
+* Project 4 MVP Deadline \(deployed\)
 
 #### Pre-Class
 
@@ -276,6 +276,7 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* Project 4 In-Class Code Review
 * [D.5.6: Trees - Part 6](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-6)
 
 #### Post-Class
