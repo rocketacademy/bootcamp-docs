@@ -173,7 +173,7 @@
 #### In-Class
 
 * [Project 1 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* 1.1: HTML & CSS \(Product Landing Page\)
+* [1.ICE.CSS.5: Trombone Product Page](../css/1.ice.css-in-class-css-exercises/1.ice.css.5-trombones.md)
 
 #### Post-Class
 
