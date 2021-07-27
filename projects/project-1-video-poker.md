@@ -17,7 +17,7 @@ Fork and clone the [Video Poker Repo](https://github.com/rocketacademy/video-pok
 ### Primary Game Logic
 
 1. Create an empty helper function called `calcHandScore` that returns a fixed number of points for now, e.g. 1.
-   1. Use [JSDoc function commenting](https://jsdoc.app/about-getting-started.html#adding-documentation-comments-to-your-code) with the following attributes.
+   1. Use [JSDoc function commenting](../course-logistics/tools-syntax-and-glossary.md#jsdoc) with the following attributes.
       1. Description of function
       2. Description of each parameter
       3. Description of return value

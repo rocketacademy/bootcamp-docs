@@ -58,6 +58,28 @@ Verify if a given string includes a given substring.
 
 We cannot use `.foo` notation for numbers. For example, for an object key with value `'1'`, we cannot do `myObj.1`. We must do `myObj[1]` or `myObj['1']`, where JS auto-converts `1` in the former example to `'1'` since object keys can only be strings.
 
+## JSDoc
+
+JSDoc is a standardized format for JavaScript comments, as well as a tool that auto-generated HTML pages that document code files.
+
+```javascript
+/**
+ * A function that sums numbers
+ * @param  a {number} number to add together
+ * @param  b {number} number to add together
+ * @return {number}   a and b added together
+ */
+var add = function(a,b) {
+    return a + b;
+};
+```
+
+The `@` symbol in JSDocs signifies a "tag"- some structure of the code to document. In Rocket Academy JavaScript documentation we will be almost exclusively using only the `param` and `return` tags in JSDoc formatted comments. 
+
+See a list of tags here: [https://jsdoc.app/index.html\#block-tags](https://jsdoc.app/index.html#block-tags)
+
+See more on JSDoc here: [https://jsdoc.app/about-getting-started.html](https://jsdoc.app/about-getting-started.html)
+
 ## Glossary
 
 The following are definitions of common terms we will use in Bootcamp.
