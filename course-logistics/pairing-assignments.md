@@ -16,48 +16,54 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## Batch 4
 
-#### 1
+### 1
+
 * Chuan Xin, Vincent
 * Jia En, Tong Huat
 * Justin, Tinaes
 * , Shen Nan
 
-#### 2
+### 2
+
 * Tong Huat, Chuan Xin
 * Vincent, Tinaes
 * Jia En, Shen Nan
 * Justin,
 
-#### 3
+### 3
+
 * Chuan Xin, Tinaes
 * Tong Huat, Shen Nan
 * Vincent,
 * Jia En, Justin
 
-#### 4
+### 4
+
 * Shen Nan, Chuan Xin
 * Tinaes,
 * Tong Huat, Justin
 * Vincent, Jia En
 
-#### 5
+### 5
+
 * Chuan Xin,
 * Shen Nan, Justin
 * Tinaes, Jia En
 * Tong Huat, Vincent
 
-#### 6
+### 6
+
 * Justin, Chuan Xin
 * , Jia En
 * Shen Nan, Vincent
 * Tinaes, Tong Huat
 
-#### 7
+### 7
+
 * Chuan Xin, Jia En
 * Justin, Vincent
 * , Tong Huat
 * Shen Nan, Tinaes
-
 
 ## Formation Calculation Code
 
@@ -103,7 +109,7 @@ var ordinalDayOfWeek = new Date().getDay() + 1; // day of week - 1-7
 
 var weekNum = getWeekNumber(new Date());
 
-var formationNumber = ((weekNum * daysInAWeek + ordinalDayOfWeek) % formationCount);
+var formationNumber = ((weekNum * daysInAWeek + ordinalDayOfWeek) % formationCount) + 1;
 
 console.log( formationNumber );
 ```
