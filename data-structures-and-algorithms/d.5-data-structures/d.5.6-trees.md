@@ -65,7 +65,9 @@ def level_order(root_node):
 
 ### Pre-Order, In-Order and Post-Order Traversal
 
-Certain tree problems are better solved if we can manipulate the order in which we traverse nodes. These 3 traversals are variations on the DFS algorithm shared above, and determine the order in which we traverse the left child, parent, and right child nodes. 
+Certain tree problems are better solved if we can manipulate the order in which we traverse nodes. **These 3 traversals are variations on the DFS algorithm** shared above, and determine the order in which we traverse the left child, parent, and right child nodes. 
+
+#### **Pre-Order Traversal**
 
 **Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree \(described below\)](d.5.6-trees.md#binary-search-trees).
 
@@ -73,17 +75,63 @@ Certain tree problems are better solved if we can manipulate the order in which 
 2. Left Child
 3. Right Child
 
+```python
+def pre_order_traversal(node):
+  # 1) Check parent
+  if node.val:
+    # Return something
+    return
+  
+  # 2) Check left child
+  pre_order_traversal(node.left)
+  
+  # 3) Check right child
+  pre_order_traversal(node.right)
+```
+
+#### In-Order Traversal
+
 **In-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as printing the values in a [binary search tree](d.5.6-trees.md#binary-search-trees) in ascending order.
 
 1. Left Child
 2. Parent
 3. Right Child
 
+```python
+def in_order_traversal(node):
+  # 1) Check left child
+  in_order_traversal(node.left)
+  
+  # 2) Check parent
+  if node.val:
+    # Return something
+    return
+    
+  # 3) Check right child
+  in_order_traversal(node.right)
+```
+
+#### Post-Order Traversal
+
 **Post-Order Traversal** implies visiting nodes in the following order. This is helpful in situations where we might want to operate on all leaf nodes before their parents, for example when deleting nodes in a tree.
 
 1. Left Child
 2. Right Child
 3. Parent
+
+```python
+def post_order_traversal(node):
+  # 1) Check left child
+  post_order_traversal(node.left)
+    
+  # 2) Check right child
+  post_order_traversal(node.right)
+  
+  # 3) Check parent
+  if node.val:
+    # Return something
+    return
+```
 
 ## Binary Search Trees
 
