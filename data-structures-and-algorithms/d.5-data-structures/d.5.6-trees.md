@@ -33,36 +33,6 @@ def find_x_in_tree(node, x):
   return find_x_in_tree(node.left, x) or find_x_in_tree(node.right, x)
 ```
 
-### Breadth-First Search \(BFS\)
-
-![](../../.gitbook/assets/image.png)
-
-BFS is a fancier form of tree traversal that typically involves queues. As a recap of BFS, consider the following `level_order` traversal solution from RA's tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
-
-Consider using Python's built-in `deque` data structure [here](https://docs.python.org/3/library/collections.html#collections.deque) for a more efficient queue implementation than `list`. `deque` is implemented with a doubly-linked list, thus dequeue is a O\(1\) operation. Specifically, see the [`popleft` method](https://docs.python.org/3/library/collections.html#collections.deque.popleft).
-
-```python
-from collections import deque
-
-def level_order(root_node):
-  ''' Return the list of values level by level (Hint: Consider iteration)'''
-  level_order_values = []
-  # Store upcoming nodes in a queue
-  q = deque([root_node])
-  while len(q) > 0:
-    # Iteratively dequeue first node in queue until queue is empty
-    currnode = q.popleft()
-    # Perform operation on current node
-    level_order_values.append(currnode.value)
-    # Enqueue left child if any
-    if currnode.left:
-      q.append(currnode.left)
-    # Enqueue right child if any
-    if currnode.right:
-      q.append(currnode.right)
-  return level_order_values
-```
-
 ### Pre-Order, In-Order and Post-Order Traversal
 
 Certain tree problems are better solved if we can manipulate the order in which we traverse nodes. **These 3 traversals are variations on the DFS algorithm** shared above, and determine the order in which we traverse the left child, parent, and right child nodes. 
@@ -133,6 +103,36 @@ def post_order_traversal(node):
     return
 ```
 
+### Breadth-First Search \(BFS\)
+
+![](../../.gitbook/assets/image.png)
+
+BFS is a fancier form of tree traversal that typically involves queues. As a recap of BFS, consider the following `level_order` traversal solution from RA's tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
+
+Consider using Python's built-in `deque` data structure [here](https://docs.python.org/3/library/collections.html#collections.deque) for a more efficient queue implementation than `list`. `deque` is implemented with a doubly-linked list, thus dequeue is a O\(1\) operation. Specifically, see the [`popleft` method](https://docs.python.org/3/library/collections.html#collections.deque.popleft).
+
+```python
+from collections import deque
+
+def level_order(root_node):
+  ''' Return the list of values level by level (Hint: Consider iteration)'''
+  level_order_values = []
+  # Store upcoming nodes in a queue
+  q = deque([root_node])
+  while len(q) > 0:
+    # Iteratively dequeue first node in queue until queue is empty
+    currnode = q.popleft()
+    # Perform operation on current node
+    level_order_values.append(currnode.value)
+    # Enqueue left child if any
+    if currnode.left:
+      q.append(currnode.left)
+    # Enqueue right child if any
+    if currnode.right:
+      q.append(currnode.right)
+  return level_order_values
+```
+
 ## Binary Search Trees
 
 Binary Search Trees or BSTs are a special kind of tree where each node has the following properties.
@@ -142,11 +142,11 @@ Binary Search Trees or BSTs are a special kind of tree where each node has the f
 
 These properties are especially useful for search algorithms, because given relatively "balanced" BSTs we will be able to search for elements in BSTs in `O(log(n))` time. [Read more about BSTs here](https://www.geeksforgeeks.org/binary-search-tree-data-structure/).
 
-## Use Cases
+## Tree Use Cases
 
 Trees are often used to represent hierarchical data, e.g. HTML elements or React components, and efficient use of trees can help us optimise our applications. Binary search trees are commonly used for indexing and lookup. Trees can also be used for efficient syntax parsing, for example in programming language compilation.
 
-## General Tips for Problems
+## General Tips for Tree Problems
 
 1. Tree \(and Linked List\) problems will often say that the tree is passed as a parameter to our function. What they mean by this is that the root or head node of the tree or linked list respectively is passed to the function. The tree is represented by the root node, which can be used to access all other nodes in the tree.
 
