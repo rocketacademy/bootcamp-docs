@@ -109,7 +109,7 @@ var ordinalDayOfWeek = new Date().getDay() + 1; // day of week - 1-7
 
 var weekNum = getWeekNumber(new Date());
 
-var formationNumber = ((weekNum * daysInAWeek + ordinalDayOfWeek) % formationCount);
+var formationNumber = ((weekNum * daysInAWeek + ordinalDayOfWeek) % formationCount) + 1;
 
 console.log( formationNumber );
 ```
