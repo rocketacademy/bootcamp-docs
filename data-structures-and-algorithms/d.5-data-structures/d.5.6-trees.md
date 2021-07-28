@@ -181,7 +181,7 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 
 ### Part 3
 
-See [Pre-Order, In-Order, and Post-Order section](d.5.6-trees.md#pre-order-in-order-and-post-order-traversal) above for a recap on the various traversal orderings.
+See [Pre-Order, In-Order, and Post-Order section](d.5.6-trees.md#pre-order-in-order-and-post-order-traversal) above for a recap on the various traversal orderings. For non-binary trees that can have more than 2 children, when we iterate through an array of children we are typically iterating from left to right children.
 
 1. [https://leetcode.com/problems/n-ary-tree-postorder-traversal/](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 2. [https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
