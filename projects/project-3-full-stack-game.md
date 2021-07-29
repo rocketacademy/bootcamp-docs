@@ -48,66 +48,43 @@ Avoid any ideas the depend on timing between players or if another player must b
 
 | Course Day | Deliverable | Instructor Feedback |
 | :--- | :--- | :--- |
-| CD11.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |  |
+| CD11.1 | **Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback |  |
 | CD11.2 | Deadline to post project ideas in Slack |  |
-| CD11.3 | Ideation Phase 2. Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and over Zoom if necessary. |
-| CD12.2 | MVP deadline. Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
-| CD12.5 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
-| CD13.2 | Project presentations. | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub. |
-
-### Ideation Phase 1
-
-Brainstorm game ideas.
-
-### Ideation Phase 2
-
-Plan the game implementation. Create planning docs: User stories, wireframes, and database ERD. Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+| CD11.3 | **Ideation Phase 2.** Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and over Zoom if necessary. |
+| CD12.2 | **MVP deadline.** Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD12.5 | **Feature freeze.** No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
+| CD13.2 | **Project presentations.** | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub. |
+| CD13.4 | **Video demo due**. |  |
 
 ### Recommended Order of Implementation
 
 Implement the core game functionality first. What is the core mechanic of the game that makes it playable? Make sure they are able to accomplish that, before adding nice-to-have features.
 
-### MVP Deadline
+## Ideation Phase 1
+
+Brainstorm game ideas.
+
+## Ideation Phase 2
+
+Plan the game implementation. Create planning docs: User stories, wireframes, and database ERD. Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+
+## MVP Deadline
 
 A user should be able to play the game through once without encountering errors. App should be deployed to Heroku. Peer code review during class.
 
-### Feature Freeze
+## Feature Freeze
 
 The app and all its features should run without errors. Brief demo in class to demonstrate user experience and clarify work to do before presentations. Latest app should be deployed.
 
-### Project Presentations
+## Project Presentations
 
-Presentations mark the final day of the project and will cover the following.
+Presentations should cover the [topics in this list](../course-logistics/course-methodology.md#project-presentations).
 
-1. App demo
-2. App development strategy
-3. Biggest challenges faced
-4. What we might do differently next time
-
-### Post-Mortem Meeting
+## Post-Mortem Meeting
 
 Please answer the [project post-mortem questions](../course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
 
 ## Video Demo
 
-Congrats on a job well done! You'll now create a short video to help showcase your hard work.
-
-### Requirements
-
-Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it. The video _**should not go into any technical details**_ that would be incomprehensible to someone non-technical.
-
-For example, when talking about an Express app, when demoing the app, don't talk about how when the button gets clicked that it creates an HTTP POST request, rather, speak about the process of the user selecting an item they want to buy and ordering it.
-
-### Focus On What You Did, Not What You Didn't Do
-
-When speaking it is a common impulse to downplay what the app does. This includes statements like: "This is just a simple app". "I didn't complete this". "I didn't have time to....", "This doesn't work well/is not designed well, but..."
-
-If you catch yourself saying any of these phrases in the video, stop and re-record it. Remember that this video is to demonstrate what the app does do, not to talk about what it doesn't do.
-
-### How to record the video
-
-Use Zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways.
-
-1. Upload it to YouTube. Embed the video in your project README.md file.
-2. Put the video file in your project repo, commit the file and push it to GitHub.
+Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
 

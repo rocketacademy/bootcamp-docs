@@ -53,23 +53,6 @@ To save work from a forked copy of a bootcamp repo to a new repo, follow the ins
 3. Run `git remote -v` to verify that our local repo is linked to the new repo in GitHub
 4. Commit any desired local changes and run `git push`. This will push the current state of the repo to the `origin` remote, which should be the new repo we created.
 
-## Project Scrums
-
-Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). This is simulated during Coding Bootcamp project weeks. Every morning students will take turns sharing the following with each other, thereby making sure that everyone is on-track with their projects.
-
-1. What was done the day before
-2. Plans for the day
-3. Blockers faced
-
-## Project Presentations
-
-Students present projects in class on the last day of each project. Presentations should cover the following.
-
-1. App demo
-2. App development strategy
-3. Biggest challenges faced
-4. What they might do differently next time
-
 ## Peer Code Review
 
 On days where there are longer post-class exercises or projects due, we will review each others' code in pairs during class. If there is an odd number of students in the class, the student without a partner will join a pair so that everyone gets to review someone else's code.
@@ -98,6 +81,23 @@ On days where there are longer post-class exercises or projects due, we will rev
 3. Once done with 1 person's code, send the code to your pair \(it's their project\) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code. If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
 4. Once both have working versions, implement a new feature in 1 of the repos together.
 
+## Project Scrums
+
+Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). This is simulated during Coding Bootcamp project weeks. Every morning students will take turns sharing the following with each other, thereby making sure that everyone is on-track with their projects.
+
+1. What was done the day before
+2. Plans for the day
+3. Blockers faced
+
+## Project Presentations
+
+Students present projects in class on the last day of each project. Presentations should cover the following.
+
+1. App demo
+2. App development strategy
+3. Biggest challenges faced
+4. What they might do differently next time
+
 ## Project Post-Mortem Meeting
 
 After each project an instructor will review your code with you 1-1. Please prepare answers to the following questions before the 1-1, and be prepared to discuss your code that relates to each answer.
@@ -117,4 +117,30 @@ After each project an instructor will review your code with you 1-1. Please prep
 1. What went well?
 2. What could have been better?
 3. What would you do differently next time?
+
+## Project Videos
+
+Congrats on a job well done! You'll now create a short video to help showcase your hard work.
+
+### Requirements
+
+1. Demo your app in a 2-3 minute video
+2. Explain what your app does and how a user would use the app.
+3. Explain features of the app in the context of what the user wants to accomplish and why they want to accomplish it.
+4. The video _**should not go into any technical details**_ that would be incomprehensible to someone non-technical.
+
+For example, when demoing an e-commerce app, discuss the process of the user selecting an item they want to buy and ordering it, instead of how when the button gets clicked that it creates an HTTP POST request.
+
+### Focus On What You Did, Not What You Didn't Do
+
+When speaking it is a common impulse to downplay what the app does. This includes statements like: "This is just a simple app". "I didn't complete this". "I didn't have time to....", "This doesn't work well/is not designed well, but..."
+
+If you catch yourself saying any of these phrases in the video, stop and re-record it. Remember that this video is to demonstrate what the app does do, not to talk about what it doesn't do.
+
+### How to Record the Video
+
+Use Zoom to record the video locally on your computer. It will record you and your face in the upper right corner. Once done recording, make the video available in the following ways.
+
+1. Upload it to YouTube. Embed the video in your project README.md file.
+2. Put the video file in your project repo, commit the file and push it to GitHub.
 
