@@ -62,31 +62,15 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 
 ### Summary
 
-| Course Day | Deliverable |
-| :--- | :--- |
-| CD6.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
-| CD6.5 | Deadline to post project ideas in Slack |
-| CD7.1 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
-| CD7.2 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructor to provide planning doc review over Slack, and discuss 1-1 with students if necessary. |
-| CD8.1 | Finish core functionality. Users should be able to perform the primary user story. Conduct Mid-Point Peer Review in class. Please deploy your app to EC2 before feature freeze.  |
-| CD8.4 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. Instructor to complete code review for feedback. |
-| CD8.5 | Project presentations. 30-minute post-mortem with instructor. |
-| CD9.1 | Project redux exercise |
-| CD9.3 | Project video due |
-
-### Ideation Phase 1
-
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
-
-### Ideation Phase 2
-
-Plan the app implementation with the following planning docs.
-
-1. [User-flow diagram](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
-2. Wireframes of minimal UIs that enable our user flows
-3. Database ERD to support our user flows and wireframes.
-
-Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+| Course Day | Deliverable | Instructor Feedback |
+| :--- | :--- | :--- |
+| CD6.1 | **Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback | Instructor to share feedback on project ideas in Slack. |
+| CD7.1 | **Ideation Phase 2.** Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and over Zoom if necessary. |
+| CD8.1 | **MVP deadline.** Users should be able to perform the primary user story. Please deploy your app to EC2. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD8.4 | **Feature freeze.** No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
+| CD8.5 | **Project presentations.** | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub. |
+| CD9.1 | Project redux exercise |  |
+| CD9.3 | Project video due |  |
 
 ### Recommended Order of Implementation
 
@@ -96,7 +80,23 @@ Implement the core user story first. What are users coming to your app to do? Ma
 2. Login functionality
 3. Any stretch functionality, e.g. AI APIs or file uploading
 
-### Mid-Point Peer Review \(In-Class\)
+## Ideation Phase 1
+
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
+
+## Ideation Phase 2
+
+Plan the app implementation with the following planning docs.
+
+1. [User-flow diagram](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+2. Wireframes of minimal UIs that enable our user flows
+3. Database ERD to support our user flows and wireframes.
+
+Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+
+## MVP Deadline
+
+A user should be able to play the game through once without encountering errors. App should be deployed to Heroku. Peer code review during class.
 
 1. ~45 minutes on each partner's project \(~30 minutes if in a group of 3\)
 2. Share any challenges you've faced on your project
@@ -115,28 +115,21 @@ Please deploy your app to EC2 \*before\* feature freeze. You may find the follow
 
 We will be learning more ways to decompose our Express apps into logical files and folders in Module 4. For Project 2, feel free to decompose and organise functions within index.js.
 
-### Post-Mortem Meeting
+## Feature Freeze
 
-Please answer [these questions](../course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor.
+The app and all its features should run without errors. Brief demo in class to demonstrate user experience and clarify work to do before presentations. Latest app should be deployed.
 
-### Video Demo
+## Project Presentations
 
-Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it. The video should not go into any technical details that would be incomprehensible to someone non-technical.
+Presentations should cover the [topics in this list](../course-logistics/course-methodology.md#project-presentations).
 
-For example, when talking about an express app, when demoing the app, don't talk about how when the button gets clicked that it creates an HTTP POST request, rather, speak about the process of the user selecting an item they want to buy and ordering it.
+## Post-Mortem Meeting
 
-#### Phrases to avoid
+Please answer the [project post-mortem questions](../course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
 
-When speaking it is a common impulse to downplay what the app does. This includes statement like: "This is just a simple app". "I didn't complete this". "I didn't have time to....", "This doesn't work well/is not designed well, but...."
+## Video Demo
 
-If you catch yourself saying any of these phrases in the video, stop and re-record it. Remember that this video is to demonstrate what the app does do, not to talk about what it doesn't do.
-
-#### How to record the video
-
-Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
-
-* Upload it to YouTube. Embed the video in your project README.md file.
-* Put the video file in your project repo and commit the file.
+Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
 
 ## General Tips
 
