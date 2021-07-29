@@ -387,14 +387,14 @@
   * [D.11.3: Sliding Windows](data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md)
 * [D.12: Open Practice](data-structures-and-algorithms/d.12-open-practice.md)
 
-## 💼 Career Prep
+## 💼 Interview Prep
 
-* [CP.0: Career Prep Overview](career-prep/cp.0-career-prep-overview.md)
-* [CP.1: Job Application Strategy](career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Resume](career-prep/cp.2-resume.md)
-* [CP.3: Portfolio](career-prep/cp.3-portfolio.md)
-* [CP.4: Job List](career-prep/cp.4-job-list.md)
-* [CP.5: Negotiation](career-prep/cp.5-negotiation.md)
+* [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
+* [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
+* [IP.2: Resume](interview-prep/ip.2-resume.md)
+* [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
+* [IP.4: Job List](interview-prep/ip.4-job-list.md)
+* [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
 
 ## 💁🏽‍♀️User Experience
 

@@ -127,8 +127,8 @@
 
 #### Pre-Class
 
-* [CP.1: Job Application Strategy](../career-prep/cp.1-job-application-strategy.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [IP.1: Job Application Strategy](../interview-prep/ip.1-job-application-strategy.md)
+* [IP.2: Resume](../interview-prep/ip.2-resume.md)
 
 #### In-Class
 
@@ -138,7 +138,7 @@
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [IP.2: Resume](../interview-prep/ip.2-resume.md)
 
 ### Course Day 22.4
 
@@ -154,7 +154,7 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.2: Resume](../career-prep/cp.2-resume.md)
+* [IP.2: Resume](../interview-prep/ip.2-resume.md)
 
 ### Course Day 22.5
 
@@ -164,7 +164,7 @@ None
 
 #### Pre-Class
 
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [IP.3: Portfolio](../interview-prep/ip.3-portfolio.md)
 
 #### In-Class
 
@@ -174,7 +174,7 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [IP.3: Portfolio](../interview-prep/ip.3-portfolio.md)
 
 ## Course Week 23
 
@@ -192,7 +192,7 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.3: Portfolio](../career-prep/cp.3-portfolio.md)
+* [IP.3: Portfolio](../interview-prep/ip.3-portfolio.md)
 
 ### Course Day 23.2
 
@@ -202,7 +202,7 @@ None
 
 #### Pre-Class
 
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [IP.4: Job List](../interview-prep/ip.4-job-list.md)
 
 #### In-Class
 
@@ -212,7 +212,7 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [IP.4: Job List](../interview-prep/ip.4-job-list.md)
 
 ### Course Day 23.3
 
@@ -233,7 +233,7 @@ None
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
-* [CP.4: Job List](../career-prep/cp.4-job-list.md)
+* [IP.4: Job List](../interview-prep/ip.4-job-list.md)
 
 ### Course Day 23.4
 

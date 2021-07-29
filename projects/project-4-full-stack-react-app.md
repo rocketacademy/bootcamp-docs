@@ -37,12 +37,12 @@ Since the focus of this project is on React, try not to create a database that i
 
 | Course Day | Deliverable | Instructor Feedback |
 | :--- | :--- | :--- |
-| CD14.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback. | Instructor to share feedback on project ideas in Slack. |
-| CD15.1 | Ideation Phase 2. Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and Zoom if necessary. |
-| CD16.1 | MVP deadline. Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
-| CD16.3 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
-| CD16.5 | Project presentations. | 30-minute post-mortem with instructor. Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
-| CD17.2 | Project video due. |  |
+| CD14.1 | **Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback. | Instructor to share feedback on project ideas in Slack. |
+| CD15.1 | **Ideation Phase 2.** Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and Zoom if necessary. |
+| CD16.1 | **MVP deadline.** Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD16.3 | **Feature freeze.** No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
+| CD16.5 | **Project presentations.** | 30-minute post-mortem with instructor. Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD17.2 | **Video demo due.** |  |
 
 ### 
 

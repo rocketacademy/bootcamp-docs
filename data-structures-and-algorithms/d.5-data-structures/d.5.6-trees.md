@@ -175,6 +175,8 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 ### Part 2
 
 1. [https://leetcode.com/problems/maximum-depth-of-n-ary-tree/](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+   1. Hint: Review [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem before attempting this one.
+   2. [FTBC class video discussion](https://youtu.be/L2gtfJBxKzE?t=5329)
 2. [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 3. [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)
    1. FTBC3 class video discussion on solution and runtime: [https://youtu.be/uQldubu1LOE?t=1709](https://youtu.be/uQldubu1LOE?t=1709)
@@ -191,6 +193,9 @@ See [Pre-Order, In-Order, and Post-Order section](d.5.6-trees.md#pre-order-in-or
 ### Part 4
 
 1. [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
+   1. Hint: Review [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem before attempting this one.
+   2. [FTBC3 In-Class Discussion Part 1](https://youtu.be/L2gtfJBxKzE?t=4412)
+   3. [FTBC3 In-Class Discussion Part 2](https://youtu.be/L2gtfJBxKzE?t=6278)
 2. [https://leetcode.com/problems/find-mode-in-binary-search-tree/](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 3. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
    1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
