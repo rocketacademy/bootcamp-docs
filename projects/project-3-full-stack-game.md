@@ -48,8 +48,7 @@ Avoid any ideas the depend on timing between players or if another player must b
 
 | Course Day | Deliverable | Instructor Feedback |
 | :--- | :--- | :--- |
-| CD11.1 | **Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback |  |
-| CD11.2 | Deadline to post project ideas in Slack |  |
+| CD10.3 | **Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback |  |
 | CD11.3 | **Ideation Phase 2.** Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and over Zoom if necessary. |
 | CD12.2 | **MVP deadline.** Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
 | CD12.5 | **Feature freeze.** No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
