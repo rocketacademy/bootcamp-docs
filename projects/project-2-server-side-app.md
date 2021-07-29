@@ -58,6 +58,12 @@ The following are some ideas for 3rd-party APIs that we can use in our apps.
 * [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
 * [Data.gov.sg APIs](https://data.gov.sg/)
 
+## General Tips
+
+### Separating Logic and UI Concerns
+
+In general, our Express middleware should handle all business logic, for example determining whether a user is authenticated, or querying the DB, making calculations for any data that should be rendered. Our EJS templates should be focused on the UI, i.e. displaying the data passed to it.
+
 ## Project Timeline
 
 ### Summary
@@ -130,10 +136,4 @@ Please answer the [project post-mortem questions](../course-logistics/course-met
 ## Video Demo
 
 Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
-
-## General Tips
-
-### Separating Logic and UI Concerns
-
-In general, our Express middleware should handle all business logic, for example determining whether a user is authenticated, or querying the DB, making calculations for any data that should be rendered. Our EJS templates should be focused on the UI, i.e. displaying the data passed to it.
 
