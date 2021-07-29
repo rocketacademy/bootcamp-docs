@@ -54,6 +54,10 @@ None
 
 ### Course Day 13.4
 
+#### Due
+
+* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
+
 #### Pre-Class
 
 * [D.8: Sorting Algorithms](../data-structures-and-algorithms/d.8-sorting-algorithms.md)
@@ -69,7 +73,6 @@ None
 #### Post-Class
 
 * [7.ICE.2: React Pokedex](../7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
-* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ### Course Day 13.5
 
@@ -85,7 +88,6 @@ None
 #### Post-Class
 
 * [7.POCE.2: React Tic Tac Toe](../7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
-* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 ## Course Week 14
 
@@ -103,14 +105,9 @@ None
 #### Post-Class
 
 * [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.2
-
-#### Due
-
-* [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 #### Pre-Class
 
