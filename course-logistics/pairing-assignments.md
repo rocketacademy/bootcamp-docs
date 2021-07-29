@@ -18,52 +18,52 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ### 1
 
-* Chuan Xin, Vincent
-* Jia En, Tong Huat
-* Justin, Tinaes
-* , Shen Nan
+1. Chuan Xin, Vincent
+2. Jia En, Tong Huat
+3. Justin, Tinaes
+4. Shen Nan
 
 ### 2
 
-* Tong Huat, Chuan Xin
-* Vincent, Tinaes
-* Jia En, Shen Nan
-* Justin,
+1. Tong Huat, Chuan Xin
+2. Vincent, Tinaes
+3. Jia En, Shen Nan
+4. Justin
 
 ### 3
 
-* Chuan Xin, Tinaes
-* Tong Huat, Shen Nan
-* Vincent,
-* Jia En, Justin
+1. Chuan Xin, Tinaes
+2. Tong Huat, Shen Nan
+3. Vincent
+4. Jia En, Justin
 
 ### 4
 
-* Shen Nan, Chuan Xin
-* Tinaes,
-* Tong Huat, Justin
-* Vincent, Jia En
+1. Shen Nan, Chuan Xin
+2. Tinaes
+3. Tong Huat, Justin
+4. Vincent, Jia En
 
 ### 5
 
-* Chuan Xin,
-* Shen Nan, Justin
-* Tinaes, Jia En
-* Tong Huat, Vincent
+1. Chuan Xin
+2. Shen Nan, Justin
+3. Tinaes, Jia En
+4. Tong Huat, Vincent
 
 ### 6
 
-* Justin, Chuan Xin
-* , Jia En
-* Shen Nan, Vincent
-* Tinaes, Tong Huat
+1. Justin, Chuan Xin
+2. Jia En
+3. Shen Nan, Vincent
+4. Tinaes, Tong Huat
 
 ### 7
 
-* Chuan Xin, Jia En
-* Justin, Vincent
-* , Tong Huat
-* Shen Nan, Tinaes
+1. Chuan Xin, Jia En
+2. Justin, Vincent
+3. Tong Huat
+4. Shen Nan, Tinaes
 
 ## Formation Calculation Code
 
