@@ -37,21 +37,14 @@ Since the focus of this project is on React, try not to create a database that i
 
 | Course Day | Deliverable | Instructor Feedback |
 | :--- | :--- | :--- |
-| CD14.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback. |  |
-| CD14.5 | Deadline to post project ideas in Slack. |  |
+| CD14.1 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback. | Instructor to share feedback on project ideas in Slack. |
 | CD15.1 | Ideation Phase 2. Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and Zoom if necessary. |
 | CD16.1 | MVP deadline. Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
 | CD16.3 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
 | CD16.5 | Project presentations. | 30-minute post-mortem with instructor. Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
 | CD17.2 | Project video due. |  |
 
-### Ideation Phase 1
-
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
-
-### Ideation Phase 2
-
-Plan the app implementation. Create planning docs: a [user-flow diagram](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/), wireframes, and a database ERD. Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+### 
 
 ### Recommended Order of Implementation
 
@@ -61,22 +54,39 @@ Implement the core user story first. What are users coming to your app to do? Ma
 2. Login functionality
 3. Any stretch functionality, e.g. AI APIs or file uploading
 
-### Post-Mortem Meeting
+## Ideation Phase 1
 
-Please answer [these questions](../course-logistics/course-methodology.md#instructor-code-review) before the post-mortem meeting with your instructor.
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
+
+## Ideation Phase 2
+
+Plan the app implementation with the following planning docs.
+
+1. [User-flow diagram](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+2. Wireframes of minimal UIs that enable our user flows
+3. Database ERD to support our user flows and wireframes.
+
+Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+
+## MVP Deadline
+
+A user should be able to play the game through once without encountering errors. App should be deployed to Heroku. Peer code review during class.
+
+## Feature Freeze
+
+The app and all its features should run without errors. Brief demo in class to demonstrate user experience and clarify work to do before presentations. Latest app should be deployed.
+
+## Project Presentations
+
+Presentations should cover the [topics in this list](../course-logistics/course-methodology.md#project-presentations).
+
+## Post-Mortem Meeting
+
+Please answer the [project post-mortem questions](../course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
 
 ## Video Demo
 
-Demo your app in a 2-3 minute video. First and foremost this video should explain what your app does and a demonstration of how a user would actually use the app. As you are demonstrating the app you should be explaining features of the app in the context of what the user wants to accomplish and why they want to accomplish it. The video should not go into any technical details that would be incomprehensible to someone non-technical.
-
-For example, when talking about a react shopping app, when demoing the app, don't talk about how when the button gets clicked that the item moves to the shopping cart column, rather, speak about the process of the user selecting an item they want to buy and ordering it.
-
-#### How to Record the video
-
-Use zoom to record the video locally on your computer. It will record you and your face in the upper right corner. When you are done with the video make it available in the following ways:
-
-* Upload it to YouTube. Embed the video in your project README.md file.
-* Put the video file in your project repo and commit the file.
+Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
 
 ## Common Issues
 

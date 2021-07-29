@@ -29,16 +29,14 @@ Any seed data your app would need to run needs to be included in the repo. The f
 
 ### Summary
 
-| Course Day | Deliverable |
-| :--- | :--- |
-| CD17.3 | Ideation Phase 1. Introduce project, post project ideas in Slack for feedback |
-| CD18.3 | Deadline to post project ideas in Slack |
-| CD18.4 | Ideation Phase 2. Create planning docs: user-flow diagram, DB ERD, and wireframes |
-| CD18.5 | Finalise project idea and share planning docs in GitHub repo over Slack. Instructors will review planning docs over Slack. |
-| CD19.3 | Finish core functionality \(MVP\). Users should be able to perform the primary user story. Please deploy your app before feature freeze. 30-minute mid-point check-in with instructor. |
-| CD20.1 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback. |
-| CD20.3 | Project presentations. 60-minute post-mortem with instructor. |
-| CD20.5 | Project video due |
+| Course Day | Deliverable | Instructor Feedback |
+| :--- | :--- | :--- |
+| CD17.3 | **Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback |  |
+| CD18.4 | **Ideation Phase 2.** Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and over Zoom if necessary. |
+| CD19.3 | **MVP deadline.** Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD20.1 | Feature freeze. No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code. 30-minute review with instructor. Instructor to complete code review for feedback. |  |
+| CD20.3 | Project presentations. 60-minute post-mortem with instructor. |  |
+| CD20.5 | Project video due |  |
 
 ### Ideation Phase 1
 
