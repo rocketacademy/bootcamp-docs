@@ -79,3 +79,15 @@ Use zoom to record the video locally on your computer. It will record you and yo
 * Upload it to YouTube. Embed the video in your project README.md file.
 * Put the video file in your project repo and commit the file.
 
+## Common Issues
+
+### Multiple Pages that Load React
+
+[Code splitting](https://webpack.js.org/guides/code-splitting/) allows us to have multiple pages that each load separate React bundles. To keep our apps simple, RA recommends creating a single page application for Project 4, but if you feel strongly about having multiple pages, each of which load a separate React bundle, feel free to try out code splitting. 
+
+### Setting a Path to Public Resources in Webpack Config
+
+If our app contains multiple routes that each load separate resources compiled by Webpack, we will want to specify the [Public Path](https://webpack.js.org/guides/public-path/) attribute in our Webpack config so that the path to those resources can be absolute and not relative to the routes.
+
+For example, for an app with route `/post/:id` that returns an HTML file that loads a Webpack bundle, if we do not specify public path in our Webpack config, that HTML file will look for our compiled Webpack bundle at `mysite.com/post/my.bundle.js` instead of `mysite.com/my.bundle.js`. 
+
