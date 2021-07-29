@@ -58,15 +58,25 @@ Avoid any ideas the depend on timing between players or if another player must b
 
 ### Recommended Order of Implementation
 
-Implement the core game functionality first. What is the core mechanic of the game that makes it playable? Make sure they are able to accomplish that, before adding nice-to-have features.
+Implement the core user story first. What are users coming to your app to do? Make sure they are able to accomplish that, before adding authentication and nice-to-have features.
+
+1. CRUD functionality
+2. Login functionality
+3. Any stretch functionality, e.g. AI APIs or file uploading
 
 ## Ideation Phase 1
 
-Brainstorm game ideas.
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
 
 ## Ideation Phase 2
 
-Plan the game implementation. Create planning docs: User stories, wireframes, and database ERD. Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
+Plan the app implementation with the following planning docs.
+
+1. [User-flow diagram](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+2. Wireframes of minimal UIs that enable our user flows
+3. Database ERD to support our user flows and wireframes.
+
+Save these planning docs in a project GitHub repo and share it in Slack. Instructors will review these planning documents with you before you begin implementation.
 
 ## MVP Deadline
 
