@@ -11,6 +11,7 @@ Unlike trees, where the edges are stored inside node objects in the form of chil
 1. See [this video](https://www.youtube.com/watch?v=gXgEDyodOJU) for an intuitive introduction to graphs in computer science.
 2. See [this video](https://www.youtube.com/watch?v=iv5DcAi411I) for examples of practical applications of graphs.
 3. Read pages 117-121 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+4. [FTBC3 class introducing Graphs](https://youtu.be/1xDBSlnUiUE?t=893)
 
 ## Exercises
 
@@ -19,7 +20,7 @@ Unlike trees, where the edges are stored inside node objects in the form of chil
 1. [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)
    1. Hint: What additional data structures might be helpful for us to solve this problem?
    2. RA solution code: [https://pastebin.com/3N4NUz8G](https://pastebin.com/3N4NUz8G)
-   3. RA solution video:
+   3. RA solution video: [https://youtu.be/1xDBSlnUiUE?t=1308](https://youtu.be/1xDBSlnUiUE?t=1308)
 
 ### Part 1
 
