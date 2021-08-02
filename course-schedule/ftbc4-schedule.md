@@ -2,7 +2,7 @@
 
 ## Current Week
 
-| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |  |
+| Week | Dates | Topics | Interview Prep | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 4 | 2-6 Aug | Cloud Deployment, JSON, Express.js, EJS | - | - | [CD3.5](course-weeks-1-4.md#course-day-3-5) | [CD4.1](course-weeks-1-4.md#course-day-4-1) | [CD4.2](course-weeks-1-4.md#course-day-4-2) | [CD4.3](course-weeks-1-4.md#course-day-4-3) | [CD4.4](course-weeks-1-4.md#course-day-4-4) |
 
