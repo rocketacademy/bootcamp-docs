@@ -6,9 +6,9 @@ description: 12 Apr - 24 Sep
 
 ## Current Week
 
-| Week | Dates | Topics | Project | Mon | Tue | Wed | Thu | Fri |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 17 | 2-6 Aug | Create React App, Higher-Order Components, Global React State | [P4](../projects/project-4-full-stack-react-app.md) | [CD16.3](course-weeks-13-16.md#course-day-16-3) | [CD16.4](course-weeks-13-16.md#course-day-16-4) | [CD16.5](course-weeks-13-16.md#course-day-16-5) | [CD17.1](course-weeks-17-20.md#course-day-17-1) | [CD17.2](course-weeks-17-20.md#course-day-17-2) |
+| Week | Dates | Topics | Interview Prep | Project | Mon | Tue | Wed | Thu | Fri |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 17 | 2-6 Aug | Create React App, Higher-Order Components, Global React State | Heaps | [P4](../projects/project-4-full-stack-react-app.md) | [CD16.3](course-weeks-13-16.md#course-day-16-3) | [CD16.4](course-weeks-13-16.md#course-day-16-4) | [CD16.5](course-weeks-13-16.md#course-day-16-5) | [CD17.1](course-weeks-17-20.md#course-day-17-1) | [CD17.2](course-weeks-17-20.md#course-day-17-2) |
 
 ## Overall Schedule
 
