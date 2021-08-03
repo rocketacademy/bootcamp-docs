@@ -50,6 +50,7 @@ Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.
 ### Pre-Class
 
 1. [https://leetcode.com/problems/last-stone-weight/](https://leetcode.com/problems/last-stone-weight/)
+   1. RA Solution code: [https://pastebin.com/JCB78UG0](https://pastebin.com/JCB78UG0)
 
 ### Part 1
 
