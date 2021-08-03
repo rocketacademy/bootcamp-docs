@@ -64,7 +64,7 @@ JS has a built-in `JSON` library to handle JSON, not unlike the `Math` library t
 // We can't do: myUserJson.name
 const myUserJson = '{"name":"kai","height":4}'; 
 // We can do: myUserObj.name
-const myUserObj = JSON.parse(myJson); 
+const myUserObj = JSON.parse(myUserJson); 
 ```
 
 ### `JSON.stringify`
