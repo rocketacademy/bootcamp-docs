@@ -30,6 +30,7 @@
 #### In-Class
 
 * [Scrum](../course-logistics/course-methodology.md#project-scrums)
+* UFO Sightings Redux
 
 #### Post-Class
 
