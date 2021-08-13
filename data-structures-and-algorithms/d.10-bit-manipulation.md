@@ -22,8 +22,9 @@ Hamming codes have a Hamming distance of 3: The algorithm can detect up to three
 ### Pre-Class
 
 1. [https://leetcode.com/problems/decode-xored-array/](https://leetcode.com/problems/decode-xored-array/)
-   1. Rocket Academy solution code: [https://pastebin.com/BVmPd2kE](https://pastebin.com/BVmPd2kE)
-   2. Rocket Academy solution video: [https://youtu.be/88-cUrvsZ5Q?t=3202](https://youtu.be/88-cUrvsZ5Q?t=3202)
+   1. Hint: If `A XOR B == C`, then `C XOR A == B` and `C XOR B == A`.
+   2. Rocket Academy solution code: [https://pastebin.com/BVmPd2kE](https://pastebin.com/BVmPd2kE)
+   3. Rocket Academy solution video: [https://youtu.be/88-cUrvsZ5Q?t=3202](https://youtu.be/88-cUrvsZ5Q?t=3202)
 
 ### Part 1
 
