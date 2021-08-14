@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Interview Prep | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5 | 9-13 Aug | Express.js, EJS, SQL, Cookies | - | - | **PH** | [CD4.5](course-weeks-1-4.md#course-day-4-5) | [CD5.1](course-weeks-5-8.md#course-day-5-1) | [CD5.2](course-weeks-5-8.md#course-day-5-2) | [CD5.3](course-weeks-5-8.md#course-day-5-3) |
+| 6 | 16-20 Aug | SQL Associations, SQL Schema Design, User Authentication | - | - | [CD5.4](course-weeks-5-8.md#course-day-5-4) | [CD5.5](course-weeks-5-8.md#course-day-5-5) | [CD6.1](course-weeks-5-8.md#course-day-6-1) | [CD6.2](course-weeks-5-8.md#course-day-6-2) | [CD6.3](course-weeks-5-8.md#course-day-6-3) |
 
 ## Overall Schedule
 
