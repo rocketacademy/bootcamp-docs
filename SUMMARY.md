@@ -6,6 +6,7 @@
 
 * [FTBC3 Schedule](course-schedule/ftbc3-schedule.md)
 * [FTBC4 Schedule](course-schedule/ftbc4-schedule.md)
+* [PTBC1](course-schedule/ptbc1.md)
 * [Course Weeks 1-4](course-schedule/course-weeks-1-4.md)
 * [Course Weeks 5-8](course-schedule/course-weeks-5-8.md)
 * [Course Weeks 9-12](course-schedule/course-weeks-9-12.md)
