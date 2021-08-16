@@ -8,15 +8,18 @@
 
 #### Pre-Class
 
-None
+* [D.8: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
+* [D.5.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#pre-class)
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
 
 ### Course Day 13.2
 
@@ -31,7 +34,6 @@ None
 #### Post-Class
 
 * [Project 3 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
-* [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-3)
 
 ## Module 7: React
 
@@ -128,16 +130,17 @@ None
 
 #### Pre-Class
 
-* [D.7: Recursion - Required Reading](../data-structures-and-algorithms/d.9-recursion/#required-reading)
+None
 
 #### In-Class
 
 * Review [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [D.7: Recursion - Part 1](../data-structures-and-algorithms/d.9-recursion/#part-1)
+* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.4
@@ -148,12 +151,12 @@ None
 
 #### **In-Class**
 
-* [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion/#part-2)
+* [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-3)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion/#part-2)
+* [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-3)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.5
@@ -165,15 +168,16 @@ None
 #### Pre-Class
 
 * [7.8: Error Boundaries](../7-react/7.8-error-boundaries.md)
+* [D.9: Recursion - Required Reading](../data-structures-and-algorithms/d.9-recursion/#required-reading)
 
 #### **In-Class**
 
-* [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion/#part-3)
+* [D.9: Recursion - Part 1](../data-structures-and-algorithms/d.9-recursion/#part-1)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion/#part-3)
+* [D.9: Recursion - Part 1](../data-structures-and-algorithms/d.9-recursion/#part-1)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ## Course Week 15
@@ -182,17 +186,17 @@ None
 
 #### Pre-Class
 
-* [D.5.6: Trees - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#pre-class)
+None
 
 #### In-Class
 
 * [Review 7.POCE.4: Hot Pot Bill Splitter](../course-logistics/course-methodology.md#peer-code-review)
-* [D.5.6: Trees - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-1)
+* [D.9: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion/#part-2)
 
 #### Post-Class
 
 * [Project 4 Ideation Phase 2](../projects/project-4-full-stack-react-app.md#ideation-phase-2)
-* [D.5.6: Trees - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-1)
+* [D.9: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion/#part-2)
 
 ### Course Day 15.2
 
@@ -203,44 +207,44 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.6: Trees - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-2)
+* [D.9: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion/#part-3)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.6: Trees - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-2)
+* [D.9: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion/#part-3)
 
 ### Course Day 15.3
 
 #### Pre-Class
 
-None
+* [D.9.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.9-recursion/d.9.1-recursive-backtracking.md#pre-class)
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.6: Trees - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-3)
+* [D.9.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.9-recursion/d.9.1-recursive-backtracking.md#part-1)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.6: Trees - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-3)
+* [D.9.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.9-recursion/d.9.1-recursive-backtracking.md#part-1)
 
 ### Course Day 15.4
 
 #### Pre-Class
 
-None
+* [D.5.6: Trees - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#pre-class)
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.6: Trees - Part 4](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-4)
+* [D.5.6: Trees - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-1)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.6: Trees - Part 4](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-4)
+* [D.5.6: Trees - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-1)
 
 ### Course Day 15.5
 
@@ -251,12 +255,12 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.6: Trees - Part 5](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-5)
+* [D.5.6: Trees - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-2)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.6: Trees - Part 5](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-5)
+* [D.5.6: Trees - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-2)
 
 ## Course Week 16
 
@@ -274,28 +278,26 @@ None
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * Project 4 In-Class Code Review
-* [D.5.6: Trees - Part 6](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-6)
+* [D.5.6: Trees - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-3)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.6: Trees - Part 6](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-6)
+* [D.5.6: Trees - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-3)
 
 ### Course Day 16.2
 
 #### Pre-Class
 
-* [D.5.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.7-graphs.md)
-
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.7: Graphs - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.7-graphs.md#part-1)
+* [D.5.6: Trees - Part 4](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-4)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.7: Graphs - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.7-graphs.md#part-1)
+* [D.5.6: Trees - Part 4](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-4)
 
 ### Course Day 16.3
 
@@ -310,28 +312,28 @@ None
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.7: Graphs - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.7-graphs.md#part-2)
+* [D.5.6: Trees - Part 5](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-5)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.7: Graphs - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.7-graphs.md#part-2)
+* [D.5.6: Trees - Part 5](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-5)
 
 ### Course Day 16.4
 
 #### Pre-Class
 
-* [D.5.8: Heaps - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.8-heaps.md#pre-class)
+None
 
 #### In-Class
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.8: Heaps - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
+* [D.5.6: Trees - Part 6](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-6)
 
 #### Post-Class
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.5.8: Heaps - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
+* [D.5.6: Trees - Part 6](../data-structures-and-algorithms/d.5-data-structures/d.5.6-trees.md#part-6)
 
 ### Course Day 16.5
 
@@ -342,11 +344,9 @@ None
 #### In-Class
 
 * [Project 4 Presentations](../course-logistics/course-methodology.md#project-presentations)
-* [D.5.8: Heaps - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.8-heaps.md#part-2)
 
 #### Post-Class
 
 * [Project 4 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [Project 4 Video Demo](../projects/project-4-full-stack-react-app.md#video-demo)
-* [D.5.8: Heaps - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.8-heaps.md#part-2)
 

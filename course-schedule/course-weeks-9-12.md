@@ -237,6 +237,40 @@ Deadline to post Project 3 ideas in Slack
 #### Pre-Class
 
 * [Group Work](../course-logistics/group-work.md) \(for project management\)
+* [D.6: Binary Search - Pre-Class](../data-structures-and-algorithms/d.6-binary-search.md#pre-class)
+
+#### In-Class
+
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.6: Binary Search - Part 1 ](../data-structures-and-algorithms/d.6-binary-search.md#part-1)
+
+#### Post-Class
+
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.6: Binary Search - Part 1 ](../data-structures-and-algorithms/d.6-binary-search.md#part-1)
+
+### Course Day 11.5
+
+#### Pre-Class
+
+* [D.7: Sliding Windows - Pre-Class](../data-structures-and-algorithms/d.7-sliding-windows.md#pre-class)
+
+#### In-Class
+
+* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [D.7: Sliding Windows - Part 1](../data-structures-and-algorithms/d.7-sliding-windows.md#part-1)
+
+#### Post-Class
+
+* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
+* [D.7: Sliding Windows - Part 1](../data-structures-and-algorithms/d.7-sliding-windows.md#part-1)
+
+## Course Week 12
+
+### Course Day 12.1
+
+#### Pre-Class
+
 * [D.5.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md)
 
 #### In-Class
@@ -249,40 +283,6 @@ Deadline to post Project 3 ideas in Slack
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
 * [D.5.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-1)
 
-### Course Day 11.5
-
-#### Pre-Class
-
-None
-
-#### In-Class
-
-* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
-
-#### Post-Class
-
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
-
-## Course Week 12
-
-### Course Day 12.1
-
-#### Pre-Class
-
-* [D.5.3: Stacks - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#pre-class)
-
-#### In-Class
-
-* [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.3: Stacks - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-1)
-
-#### Post-Class
-
-* [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.3: Stacks - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-1)
-
 ### Course Day 12.2
 
 #### Pre-Class
@@ -292,12 +292,12 @@ None
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
+* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
+* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
 
 ### Course Day 12.3
 
@@ -309,35 +309,34 @@ None
 
 * [4.1.10: Deploy Sequelize App to Heroku](../4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
 * [6.1.6: Deploy Webpack App to Heroku](../6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
-* [D.5.4: Queues - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#pre-class)
+* [D.5.3: Stacks - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#pre-class)
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 3 Peer Code Review](../projects/project-3-full-stack-game.md#mvp-deadline)
-* [D.5.4: Queues - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
+* [D.5.3: Stacks - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-1)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.4: Queues - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
+* [D.5.3: Stacks - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-1)
 
 ### Course Day 12.4
 
 #### Pre-Class
 
-* [D.6: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
-* [D.5.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#pre-class)
+None
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
+* [D.5.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
+* [D.5.3: Stacks - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md#part-2)
 
 ### Course Day 12.5
 
@@ -347,16 +346,16 @@ None
 
 #### Pre-Class
 
-None
+* [D.5.4: Queues - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#pre-class)
 
 #### In-Class
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 3 Feature Freeze In-Class Review](../projects/project-3-full-stack-game.md#feature-freeze)
-* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
+* [D.5.4: Queues - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
 
 #### Post-Class
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
+* [D.5.4: Queues - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.4-queues.md#part-1)
 

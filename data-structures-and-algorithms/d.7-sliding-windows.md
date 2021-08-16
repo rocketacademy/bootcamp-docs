@@ -8,11 +8,11 @@ Sliding window algorithms typically allow us to iterate through an array in line
 
 ### Pre-Class
 
-1. [https://leetcode.com/problems/max-consecutive-ones-iii/](https://leetcode.com/problems/max-consecutive-ones-iii/)
+1. [https://leetcode.com/problems/sum-of-all-odd-length-subarrays/](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
+   1. Rocket Academy solution code: [https://pastebin.com/apxLUSQh](https://pastebin.com/apxLUSQh)
+2. [https://leetcode.com/problems/max-consecutive-ones-iii/](https://leetcode.com/problems/max-consecutive-ones-iii/)
    1. Rocket Academy solution code: [https://pastebin.com/WFGdNszB](https://pastebin.com/WFGdNszB)
    2. Rocket Academy solution video: [https://youtu.be/Kynk1Tny3yQ?t=3939](https://youtu.be/Kynk1Tny3yQ?t=3939)
-2. [https://leetcode.com/problems/sum-of-all-odd-length-subarrays/](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
-   1. Rocket Academy solution code: [https://pastebin.com/apxLUSQh](https://pastebin.com/apxLUSQh)
 
 ### Part 1
 
