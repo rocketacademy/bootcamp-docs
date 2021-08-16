@@ -21,7 +21,7 @@ Coding bootcamp's syllabus is divided into 10 modules \(listed in the table belo
 | 5 | 10 | [Full-Stack Application](4-backend-structure/4.0-module-4-overview.md) | AJAX, APIs | Full Stack |
 | 6 | 11-12 | [Front-End Infrastructure](6-frontend-infrastructure/6.0-module-6-overview.md) | Webpack | Front End |
 | 7 | 13-16 | [React](5-full-stack-applications/5.0-module-5-overview.md) | React | Front End |
-| 8 | 17-20 | [Advanced React, Advanced Full Stack](6-frontend-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App, | Full Stack |
+| 8 | 17-20 | [Advanced React, Advanced Full Stack](6-frontend-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App | Full Stack |
 | 9 | 21-24 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Testing, Sockets, GraphQL, Mobile, Data Science | Full Stack |
 | D | 1-24 | [Data Structures and Algorithms](data-structures-and-algorithms/d.0-dsa-overview.md) | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
 
