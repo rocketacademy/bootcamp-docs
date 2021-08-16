@@ -18,6 +18,8 @@ def numTilePossibilities(self, tiles: str):
     sequences = set()
     
     # Perform depth-first search
+    # current is an array of tiles chosen so far
+    # remaining is an array of remaining tiles
     def find_possibilities(current, remaining):
         # If current is non-empty, it is a valid sequence.
         # Convert it to string and add to sequences.
