@@ -60,7 +60,7 @@ None
 
 #### Pre-Class
 
-* [D.8: Sorting Algorithms](../data-structures-and-algorithms/d.8-sorting-algorithms.md)
+* [D.8: Sorting Algorithms](../data-structures-and-algorithms/d.10-sorting-algorithms.md)
 * [7.2: React Components](../7-react/7.2-react-components/)
 * [7.2.1: Props](../7-react/7.2-react-components/7.2.1-props.md)
 * [7.2.2: Generating Components from a List](../7-react/7.2-react-components/7.2.2-generating-components-from-a-list.md)
@@ -128,12 +128,12 @@ None
 
 #### Pre-Class
 
-* [D.7: Recursion - Required Reading](../data-structures-and-algorithms/d.7-recursion.md#required-reading)
+* [D.7: Recursion - Required Reading](../data-structures-and-algorithms/d.9-recursion/#required-reading)
 
 #### In-Class
 
 * Review [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [D.7: Recursion - Part 1](../data-structures-and-algorithms/d.7-recursion.md#part-1)
+* [D.7: Recursion - Part 1](../data-structures-and-algorithms/d.9-recursion/#part-1)
 
 #### **Post-Class**
 
@@ -148,12 +148,12 @@ None
 
 #### **In-Class**
 
-* [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
+* [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion/#part-2)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.7-recursion.md#part-2)
+* [D.7: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion/#part-2)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Day 14.5
@@ -168,12 +168,12 @@ None
 
 #### **In-Class**
 
-* [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
+* [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion/#part-3)
 
 #### **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.7-recursion.md#part-3)
+* [D.7: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion/#part-3)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ## Course Week 15

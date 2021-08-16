@@ -1,4 +1,4 @@
-# D.8: Sorting Algorithms
+# D.10: Sorting Algorithms
 
 ## Introduction
 

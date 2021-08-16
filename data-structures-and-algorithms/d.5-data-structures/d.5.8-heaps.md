@@ -35,7 +35,7 @@ In summary, we should remember 3 primary operations of heaps, and how heap sort 
 
 ## Sorting Algorithms
 
-In [D.7](../d.8-sorting-algorithms.md) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
+In [D.7](../d.10-sorting-algorithms.md) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
 
 ### Heap Sort
 

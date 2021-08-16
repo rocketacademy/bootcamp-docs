@@ -1,4 +1,4 @@
-# D.10: Bit Manipulation
+# D.12: Bit Manipulation
 
 ## Introduction
 

@@ -48,16 +48,16 @@
 #### Pre-Class
 
 * [8.3.4: React E-Commerce App with Store](../8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
-* [D.9: Dynamic Programming - Pre-Class](../data-structures-and-algorithms/d.9-dynamic-programming.md#pre-class)
+* [D.9: Dynamic Programming - Pre-Class](../data-structures-and-algorithms/d.11-dynamic-programming.md#pre-class)
 
 #### **In-Class**
 
-* [D.9: Dynamic Programming - Part 1](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-1)
+* [D.9: Dynamic Programming - Part 1](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-1)
 
 #### **Post-Class**
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.9: Dynamic Programming - Part 1](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-1)
+* [D.9: Dynamic Programming - Part 1](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-1)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Day 17.4
@@ -70,12 +70,12 @@
 
 #### In-Class
 
-* [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-2)
+* [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-2)
 
 #### Post-Class
 
 * [8.POCE.1: Car Rental](../8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-* [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-2)
+* [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Day 17.5
@@ -86,12 +86,12 @@
 
 #### In-Class
 
-* [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-3)
+* [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-3)
 
 #### Post-Class
 
 * [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.9-dynamic-programming.md#part-3)
+* [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-3)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ## Course Week 18
@@ -102,16 +102,16 @@
 
 * [8.6: Styled Components ](../8-advanced-react/8.6-styled-components.md)
 * [8.7: React Portals ](../8-advanced-react/8.7-react-portals.md)
-* [D.10: Bit Manipulation - Pre-Class](../data-structures-and-algorithms/d.10-bit-manipulation.md#pre-class)
+* [D.10: Bit Manipulation - Pre-Class](../data-structures-and-algorithms/d.12-bit-manipulation.md#pre-class)
 
 #### In-Class
 
-* [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.10-bit-manipulation.md#part-1)
+* [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.12-bit-manipulation.md#part-1)
 
 #### Post-Class
 
 * [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.10-bit-manipulation.md#part-1)
+* [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.12-bit-manipulation.md#part-1)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Day 18.2
@@ -119,16 +119,16 @@
 #### Pre-Class
 
 * [8.8: React NPM Packages ](../8-advanced-react/8.8-react-npm-packages.md)
-* [D.11.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#pre-class)
+* [D.11.1: Recursive Backtracking - Pre-Class](../data-structures-and-algorithms/d.9-recursion/d.9.1-recursive-backtracking.md#pre-class)
 
 #### In-Class
 
-* [D.11.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#part-1)
+* [D.11.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.9-recursion/d.9.1-recursive-backtracking.md#part-1)
 
 #### Post-Class
 
 * [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.11.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.1-recursive-backtracking.md#part-1)
+* [D.11.1: Recursive Backtracking - Part 1](../data-structures-and-algorithms/d.9-recursion/d.9.1-recursive-backtracking.md#part-1)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Day 18.3
@@ -139,33 +139,33 @@
 
 #### Pre-Class
 
-* [D.11.2: Binary Search - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#pre-class)
+* [D.11.2: Binary Search - Pre-Class](../data-structures-and-algorithms/d.6-binary-search.md#pre-class)
 
 #### In-Class
 
-* [D.11.2: Binary Search - Part 1 ](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#part-1)
+* [D.11.2: Binary Search - Part 1 ](../data-structures-and-algorithms/d.6-binary-search.md#part-1)
 
 #### Post-Class
 
 * [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.11.2: Binary Search - Part 1 ](../data-structures-and-algorithms/d.11-notable-patterns/d.11.2-binary-search.md#part-1)
+* [D.11.2: Binary Search - Part 1 ](../data-structures-and-algorithms/d.6-binary-search.md#part-1)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Day 18.4
 
 #### Pre-Class
 
-* [D.11.3: Sliding Windows - Pre-Class](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#pre-class)
+* [D.11.3: Sliding Windows - Pre-Class](../data-structures-and-algorithms/d.7-sliding-windows.md#pre-class)
 
 #### In-Class
 
 * [8.POCE.2: Climbing Trip Redux](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
+* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.7-sliding-windows.md#part-1)
 
 #### Post-Class
 
 * [Project 5 Ideation Phase 2](../projects/project-5-group-react-app.md#ideation-phase-2)
-* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.11-notable-patterns/d.11.3-sliding-windows.md#part-1)
+* [D.11.3: Sliding Windows - Part 1](../data-structures-and-algorithms/d.7-sliding-windows.md#part-1)
 
 ### Course Day 18.5
 
@@ -175,12 +175,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ## Course Week 19
 
@@ -192,12 +192,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ### Course Day 19.2
 
@@ -207,12 +207,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ### Course Day 19.3
 
@@ -227,12 +227,12 @@ None
 #### In-Class
 
 * Project 5 MVP Review
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ### Course Day 19.4
 
@@ -242,12 +242,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ### Course Day 19.5
 
@@ -257,12 +257,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ## Course Week 20
 
@@ -279,12 +279,12 @@ None
 #### In-Class
 
 * Project 5 Feature Freeze Review
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ### Course Day 20.2
 
@@ -294,12 +294,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 ### Course Day 20.3
 
@@ -315,7 +315,7 @@ None
 
 * [Project 5 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
 ### Course Day 20.4
@@ -326,12 +326,12 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
 ## Module 9: Advanced Topics
@@ -348,10 +348,10 @@ None
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
 
 * [Project 6 Ideation Phase 2](../projects/project-6-capstone.md#ideation-phase-2)
-* [DS&A Open Practice](../data-structures-and-algorithms/d.12-open-practice.md)
+* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 

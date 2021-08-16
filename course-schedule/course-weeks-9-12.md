@@ -326,7 +326,7 @@ None
 
 #### Pre-Class
 
-* [D.6: Object-Oriented Programming](../data-structures-and-algorithms/d.6-intro-to-object-oriented-programming.md)
+* [D.6: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
 * [D.5.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#pre-class)
 
 #### In-Class

@@ -1,4 +1,4 @@
-# D.11.1: Recursive Backtracking
+# D.9.1: Recursive Backtracking
 
 ## Introduction
 

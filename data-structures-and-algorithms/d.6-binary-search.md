@@ -1,4 +1,4 @@
-# D.11.2: Binary Search
+# D.6: Binary Search
 
 ## Introduction
 
