@@ -230,6 +230,7 @@
 #### Pre-Class
 
 * [3.4.11: File Uploads](../3-backend-applications/3.4-sql-applications/3.4.11-file-uploads.md)
+* [3.4.12: SQL Indexes](../3-backend-applications/3.4-sql-applications/3.4.12-sql-indexes.md)
 
 #### In-Class
 
