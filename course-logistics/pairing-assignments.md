@@ -6,6 +6,8 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 ## FTBC3 \(Apr-Sep 2021\)
 
+Formation calculation: \(\(\(Week\# \* 5\) + Day\#\) % 3\) + 1
+
 | Formation | Pair 1 | Pair 2 |
 | :--- | :--- | :--- |
 | 1 | Jo Porter | Sam Effy |
