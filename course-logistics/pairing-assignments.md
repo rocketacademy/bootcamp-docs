@@ -4,17 +4,15 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 # Pairing Assignments
 
-## Batch 3 \(Apr-Sep 2021\)
+## FTBC3 \(Apr-Sep 2021\)
 
-| Day | Pair 1 | Pair 2 | Pair 3 |
-| :--- | :--- | :--- | :--- |
-| Mon | Jo Porter | Sam Yiqing | Effy |
-| Tue | Jo Sam | Porter Effy | Yiqing |
-| Wed | Jo Yiqing | Sam Effy | Porter |
-| Thu | Jo Effy | Porter Yiqing | Sam |
-| Fri | Porter Sam | Yiqing Effy | Jo |
+| Formation | Pair 1 | Pair 2 |
+| :--- | :--- | :--- |
+| 1 | Jo Porter | Sam Effy |
+| 2 | Jo Sam | Porter Effy |
+| 3 | Jo Effy | Sam Porter |
 
-## Batch 4
+## FTBC4 \(Jul-Dec 2021\)
 
 ### 1
 
