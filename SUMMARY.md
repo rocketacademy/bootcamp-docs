@@ -189,6 +189,7 @@
   * [3.4.9: Database Setup Files](3-backend-applications/3.4-sql-applications/3.4.9-database-setup-files.md)
   * [3.4.10: Dates in SQL and JS](3-backend-applications/3.4-sql-applications/3.4.10-dates-in-sql-and-js.md)
   * [3.4.11: File Uploads](3-backend-applications/3.4-sql-applications/3.4.11-file-uploads.md)
+  * [3.4.12: SQL Indexes](3-backend-applications/3.4-sql-applications/3.4.12-sql-indexes.md)
 * [3.5: Authentication](3-backend-applications/3.5-authentication/README.md)
   * [3.5.1: Cookies](3-backend-applications/3.5-authentication/3.5.1-cookies.md)
   * [3.5.2: User Auth](3-backend-applications/3.5-authentication/3.5.2-user-auth.md)
