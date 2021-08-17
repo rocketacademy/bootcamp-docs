@@ -78,6 +78,7 @@
 
 #### In-Class
 
+* [3.POCE.3](../3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md) Redux
 * [Project Presentation: 3.POCE.3](../course-logistics/course-methodology.md#project-presentations)
 
 #### Post-Class
