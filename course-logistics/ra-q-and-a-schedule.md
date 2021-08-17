@@ -16,6 +16,10 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 8 Sep 2021 | 12-1pm | [Victor Neo](https://www.linkedin.com/in/victor-neo-5886186/) \(video\) | Director of Engineering at Carousell |
+| Wed | 1 Sep 2021 | 12-1pm | [Alvin Ng](https://www.linkedin.com/in/alvinncx/) \(video\) | Senior Software Engineer at BCG Digital Ventures |
+| Wed | 25 Aug 2021 | 12-1pm | [Clarence Chio](https://www.linkedin.com/in/cchio/) \(video\) | Co-Founder and CTO, Unit21 |
+| Wed | 18 Aug 2021 | 12-1pm | Perry Lim \(video\) | Software Engineer at Glints |
 | Wed | 11 Aug 2021 | 12-1pm | [Aik Siang Ang](https://www.linkedin.com/in/aiksiang/) \(video\) | Software Engineering Manager at Grab |
 | Wed | 4 Aug 2021 | 3:30-4:30pm | [Jireh Tan](https://www.linkedin.com/in/jirehtan/) \(video\) | Data Science Instructor at General Assembly SG |
 | Wed | 28 Jul 2021 | 3-4pm | [Aaron Lee](https://www.linkedin.com/in/aaronstevensonlee/) \(video\) | Software Engineer at Open Government Products, Soon-To-Be VP Engineering at Startup |
