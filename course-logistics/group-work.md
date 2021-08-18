@@ -64,33 +64,34 @@ For done tasks.
 
 One member of the team will create a GitHub repo and invite the other collaborators. See [2.15 Git Branches](../0-language-and-tooling/0.5-advanced-git/0.5.2-git-branches.md) and [2.ICE.7.](../0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
-For each task in the Kanban board a new branch will be created from `main`, and named after the task to be completed. When a task is done create a pull request and merge the code into `main`.
+For each task in the Kanban board create a new feature branch by checking out from `main`. Name the branch after the task. When a feature is done, push the feature branch to GitHub, create a pull request and merge the code into `main` from the PR in GitHub.
 
-#### Getting the Latest Changes
+### Pulling and Merging Latest Changes in `main` to Feature Branch
 
-When working in a team, changes will be happening to main branch that will need to be pulled down locally.
+When working in a team, the `main` branch will be updated regularly and we will want to incorporate those changes to our feature branches on a regular basis to ensure new features are still compatible with `main`. The following steps walk through how to merge changes from `main` to our feature branches.
 
-Whenever there is a big change to main follow these steps to get them locally:
+1. Save & commit all changes on the current \(non-`main`\) feature branch. Get latest changes on `main` with `git pull origin main`.
+2. If there are changes on `main` that are needed in the feature branch, do a merge while in the feature branch: `git merge main`
+   1. Even if work is not completed yet on the feature branch, it's possible to do a defensive merge of `main` into the feature branch, even if that code is not needed immediately. This best practice prevents very large changes in `main` from being merged all at once.
+3. Resolve any conflicts on the feature branch. Follow instructions in the console, using `git status` to see what steps are needed.
 
-1. Save & commit all changes on the current \(non-main\) feature branch. Get latest changes on `main` with `git pull origin main`.
-2. If there are changes on `main` that are needed in the feature branch, do a merge: `git merge main`
-3. \(optional\) If work is not completed yet on the feature branch, it's possible to do a defensive merge of `main` into the feature branch, even if that code is not needed. This best practice prevents very large changes from being merged all at once.
-4. Resolve any conflicts on the feature branch \(follow instructions in the console\)
-5. Once all conflicts are resolved, feel free to push feature branch to GitHub with `git push`, then create a PR to merge feature branch with `main` on GitHub.
-6. Once PR is merged, run `git pull origin main` to get latest `main` branch changes from GitHub.
-7. Delete old feature branch locally with `git branch -d <MY-FEATURE-BRANCH-NAME>` 
-8. Delete old feature branch on GitHub with `git push origin --delete <MY-FEATURE-BRANCH-NAME>`
-9. Checkout new feature branch and work on new feature with `git branch -b <MY-NEW-FEATURE-BRANCH>`
+### Pushing and Merging Latest Changes from Feature Branch to `main`
 
-#### Avoiding Merge Conflicts
+1. Once we have committed all changes and resolved any merge conflicts in feature branch, push feature branch to GitHub with `git push`, then create a PR to merge feature branch with `main` on GitHub.
+2. Once PR is merged, run `git pull origin main` to get latest `main` branch changes from GitHub.
+3. Delete old feature branch locally with `git branch -d <MY-FEATURE-BRANCH-NAME>` 
+4. Delete old feature branch on GitHub with `git push origin --delete <MY-FEATURE-BRANCH-NAME>`
+5. Once ready to work on new feature, checkout new feature branch from `main` and work on new feature with `git branch <MY-NEW-FEATURE-BRANCH>`
+
+### Avoiding Merge Conflicts
 
 In a React full-stack app, there are a few files that might generate merge conflicts, such as `App.js` or `routes.js` on the back-end. For the most part, to avoid merge conflicts it simply takes a lot of communication when two people are both changing these centralized files. Ideally each new change would just be done one after the other, where one person waits to get the code of the second person.
 
-#### Dealing with Merge Conflicts
+### Resolving Merge Conflicts
 
 One hard rule is, _**never merge a pull request into `main` that has a conflict.**_ If there is a merge conflict it should be resolved inside the conflicting branch first, before it's merged into `main`. 
 
-#### Merge `main` into the Branch
+### Merge `main` into Feature Branch Regularly
 
 The main strategy for dealing with merge conflicts and keeping the `main` branch clean is to merge `main` into the conflicting branch and make all necessary code edits in the conflicting branch. \(this all happens on the local computer\). Then push that \(now clean\) branch to GitHub.
 
