@@ -164,7 +164,7 @@
 * [8.POCE.2: Climbing Trip Redux](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * \[FTBC3\] [D.7: Sliding Windows - Part 1](../data-structures-and-algorithms/d.7-sliding-windows.md#part-1)
 * [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-3)
-* 
+
 #### Post-Class
 
 * [Project 5 Ideation Phase 2](../projects/project-5-group-react-app.md#ideation-phase-2)
