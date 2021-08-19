@@ -127,6 +127,8 @@
 * [3.3.3: SQL Relationships \(Many to Many\)](../3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
 * [3.4.5: Forms for One-to-Many Relationships](../3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships.md)
 * [3.5.3: Password Hashing](../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md)
+* [UX.1: Intro to UX](../user-experience/ux.1-overview.md)
+* [UX.2: UX process](../user-experience/ux.2-the-ux-process.md)
 
 #### In-Class
 
@@ -144,6 +146,7 @@
 * [3.3.5: Non-FK Relationship Data in Join Table](../3-backend-applications/3.3-sql-language/3.3.5-non-fk-relationship-data-in-join-table.md)
 * [3.4.6: Forms for Many-to-Many Relationships](../3-backend-applications/3.4-sql-applications/3.4.6-forms-for-many-to-many-relationships.md)
 * [3.5.4: Session Hashing](../3-backend-applications/3.5-authentication/3.5.4-session-hashing.md)
+* [UX.3: Project Design Approach](../user-experience/ux.3-how-to-design-your-app.md)
 
 #### In-Class
 
@@ -154,7 +157,7 @@
 * [3.POCE.8: Bird Watching Behaviour](../3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
-### Course Day 6.5
+**Course Day 6.5**
 
 #### Due
 
@@ -163,6 +166,8 @@
 #### Pre-Class
 
 * [3.3.6: SQL Schema Design](../3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design.md)
+
+
 
 #### In-Class
 
