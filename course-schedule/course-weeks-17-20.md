@@ -139,17 +139,15 @@
 
 #### Pre-Class
 
-* \[FTBC3\] [D.6: Binary Search](../data-structures-and-algorithms/d.6-binary-search.md)
+None
 
 #### In-Class
 
-* \[FTBC3\] [D.6: Binary Search - Part 1 ](../data-structures-and-algorithms/d.6-binary-search.md#part-1)
 * [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-2)
 
 #### Post-Class
 
 * [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* \[FTBC3\] [D.6: Binary Search - Part 1 ](../data-structures-and-algorithms/d.6-binary-search.md#part-1)
 * [D.9: Dynamic Programming - Part 2](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -157,18 +155,16 @@
 
 #### Pre-Class
 
-* \[FTBC3\] [D.7: Sliding Windows - Pre-Class](../data-structures-and-algorithms/d.7-sliding-windows.md#pre-class)
+None
 
 #### In-Class
 
 * [8.POCE.2: Climbing Trip Redux](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* \[FTBC3\] [D.7: Sliding Windows - Part 1](../data-structures-and-algorithms/d.7-sliding-windows.md#part-1)
 * [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-3)
 
 #### Post-Class
 
 * [Project 5 Ideation Phase 2](../projects/project-5-group-react-app.md#ideation-phase-2)
-* \[FTBC3\] [D.7: Sliding Windows - Part 1](../data-structures-and-algorithms/d.7-sliding-windows.md#part-1)
 * [D.9: Dynamic Programming - Part 3](../data-structures-and-algorithms/d.11-dynamic-programming.md#part-3)
 
 ### Course Day 18.5
@@ -179,13 +175,12 @@
 
 #### In-Class
 
-* \[FTBC3\] [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.12-bit-manipulation.md#part-1)
 
 #### Post-Class
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* \[FTBC3\] [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 * [D.10: Bit Manipulation - Part 1](../data-structures-and-algorithms/d.12-bit-manipulation.md#part-1)
 
 ## Course Week 19
@@ -198,6 +193,7 @@ None
 
 #### In-Class
 
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
@@ -213,6 +209,7 @@ None
 
 #### In-Class
 
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
@@ -232,7 +229,8 @@ None
 
 #### In-Class
 
-* Project 5 MVP Review
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 5 MVP Review](../projects/project-5-group-react-app.md#mvp-deadline)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
@@ -248,6 +246,7 @@ None
 
 #### In-Class
 
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
@@ -263,6 +262,7 @@ None
 
 #### In-Class
 
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
@@ -284,7 +284,8 @@ None
 
 #### In-Class
 
-* Project 5 Feature Freeze Review
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
+* [Project 5 Feature Freeze Review](../projects/project-5-group-react-app.md#feature-freeze)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
@@ -300,6 +301,7 @@ None
 
 #### In-Class
 
+* [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 
 #### Post-Class
@@ -315,7 +317,7 @@ None
 
 #### In-Class
 
-* [Project 5 Presentations](../course-logistics/course-methodology.md#project-presentations)
+* [Project 5 Presentations](../projects/project-5-group-react-app.md#project-presentations)
 
 #### Post-Class
 
@@ -324,15 +326,18 @@ None
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
+## Module 9: Advanced Topics
+
 ### Course Day 20.4
 
 #### Pre-Class
 
-None
+* [9.1: Testing](../9-advanced-topics/9.1-testing/)
+* [9.1.1: Unit Testing](../9-advanced-topics/9.1-testing/9.1.1-unit-testing.md)
 
 #### In-Class
 
-* [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
+* [9.ICE.1: Unit Testing](../9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
 
 #### Post-Class
 
@@ -340,7 +345,7 @@ None
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
-## Module 9: Advanced Topics
+## 
 
 ### Course Day 20.5
 
@@ -350,7 +355,8 @@ None
 
 #### Pre-Class
 
-* [9.1 Security](../9-advanced-topics/9.2-security/)
+* [9.1.2: TDD](../9-advanced-topics/9.1-testing/9.1.2-tdd.md)
+* [9.1.3: CI](../9-advanced-topics/9.1-testing/9.1.3-ci.md)
 
 #### In-Class
 

@@ -15,6 +15,7 @@ The following is a list of curated Leetcode problems that we can do on a daily b
 ### Day 2
 
 1. [https://leetcode.com/problems/binary-tree-inorder-traversal/](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+   1. Feel free to skip the follow up question to implement this traversal iteratively. The iterative implementation is challenging and unlikely to appear in coding interviews.
 2. [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
 3. [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)
 
