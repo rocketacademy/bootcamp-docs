@@ -8,11 +8,12 @@ Before we begin compiling our application documents \(portfolio, resume, cover l
 
 Please keep in mind the below points throughout the job application process.
 
-1. **You will get rejections.** This is normal. Take them as a learning experience and address any mistakes you made at future interviews. Sometimes we may not make any mistakes and still get rejected.
-2. **You only need 1 company to say yes.** There are always more companies to apply to. Everyone is hiring software engineers.
-3. **There is no need to accept the first offers you get if you're not satisfied.** You can afford to wait. Everyone is hiring software engineers.
-4. **The job application process can take an indefinite amount of time.** Mentally prepare yourself for this to take months, and prepare your finances accordingly. If you keep improving every day, your chances at getting an offer will only increase.
-5. **Rocket Academy chose you for a reason.** We chose you because we believe you have what it takes to succeed. You just need to work hard, hustle for interviews and be yourself.
+1. **You are a software engineer, not an "aspiring" software engineer.** You have the skills to build software. All software engineers are learning. You are already a software engineer and can present yourself as one on your LinkedIn, resume, and when meeting employers.
+2. **You will get rejections.** This is normal. Take them as a learning experience and address any mistakes you made at future interviews. Sometimes we may not make any mistakes and still get rejected.
+3. **You only need 1 company to say yes.** There are always more companies to apply to. Everyone is hiring software engineers.
+4. **There is no need to accept the first offers you get if you're not satisfied.** You can afford to wait. Everyone is hiring software engineers.
+5. **The job application process can take an indefinite amount of time.** Mentally prepare yourself for this to take months, and prepare your finances accordingly. If you keep improving every day, your chances at getting an offer will only increase.
+6. **Rocket Academy chose you for a reason.** We chose you because we believe you have what it takes to succeed. You just need to work hard, hustle for interviews and be yourself.
 
 ## Creating Your Strategy
 
