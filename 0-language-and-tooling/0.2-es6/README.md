@@ -10,3 +10,19 @@ In frontend web development \(where JS is most commonly seen\), it's important t
 
 We will not use the latest version of JS, because most devices and browsers would not support it. Instead we'll learn features of ES6, currently the most modern widely-supported version of JS.
 
+## Additional Notes
+
+The naming of the JavaScript versions are confusing- see more [here](https://flaviocopes.com/ecmascript/) if you want to know the details.
+
+The versions of JavaScript are tied to individual features of that version. You can see a matrix of the version and it's support in each popular platform [here](https://kangax.github.io/compat-table/es6/) for ES6 and [here](https://kangax.github.io/compat-table/esnext/) for the latest version.
+
+The engineering decision of which version of JavaScript to select for a given project is always a balance between the demographics of your user base and the cost of supporting an older version of the language.
+
+For example, a cutting edge product like GitHub is more likely to have a user demographic that uses the latest version of JavaScript vs a government service website or broad consumer site like Lazada or Amazon.
+
+## Further Reading
+
+{% embed url="https://www.youtube.com/watch?v=Sh6lK57Cuk4" %}
+
+
+
