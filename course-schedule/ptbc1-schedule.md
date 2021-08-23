@@ -71,9 +71,10 @@ Module 1: Frontend Basics
 
 ### Pre Class
 
+* [0.3: Reading Documentation](../0-language-and-tooling/0.3-reading-documentation.md)
+* [1.4: setTimeout](../1-frontend-basics/1.4-settimeout.md)
 * [1.5: High Card setTimeout](https://bootcamp.rocketacademy.co/1-frontend-basics/1.5-high-card-settimeout)
 * [1.6: Match Game](https://bootcamp.rocketacademy.co/1-frontend-basics/1.6-match-game)
-* [0.2.4: Reference vs. Value](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value)
 
 
 
@@ -94,11 +95,11 @@ Module 1: Frontend Basics
 
 ### Pre Class
 
+* [0.2.4: Reference vs. Valu](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value)[e](https://bootcamp.rocketacademy.co/1-frontend-basics/1.7-setinterval)
 * [1.7: setInterval](https://bootcamp.rocketacademy.co/1-frontend-basics/1.7-setinterval)
 * [1.8: Timer](https://bootcamp.rocketacademy.co/1-frontend-basics/1.8-timer)
 * [CSS.1: Basic CSS \(Exercises Part 2\)](https://bootcamp.rocketacademy.co/css/css-1-basic-css)
 * [CSS.2.1 No Layout](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.1-no-layout)
-* [CSS.2.2 Display Inline Block](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.2-display-inline-and-block)
 
 ### In Class
 
@@ -119,6 +120,7 @@ Module 1: Frontend Basics
 
 * [1.9: Tic Tac Toe](https://bootcamp.rocketacademy.co/1-frontend-basics/1.9-tic-tac-toe)
 * [1.10: Multi File Refactor](https://bootcamp.rocketacademy.co/1-frontend-basics/1.10-multi-file-refactor)
+* [CSS.2.2 Display Inline Block](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.2-display-inline-and-block)
 * [CSS.2.3: Box Model](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.3-box-model)
 * [CSS.2.4: Layout Width](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.4-layout-fixed-width-and-max-width)
 
