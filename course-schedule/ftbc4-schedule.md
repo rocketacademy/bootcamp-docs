@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Interview Prep | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 6 | 16-20 Aug | SQL Associations, SQL Schema Design, User Authentication | - | - | [CD5.4](course-weeks-5-8.md#course-day-5-4) | [CD5.5](course-weeks-5-8.md#course-day-5-5) | [CD6.1](course-weeks-5-8.md#course-day-6-1) | [CD6.2](course-weeks-5-8.md#course-day-6-2) | [CD6.3](course-weeks-5-8.md#course-day-6-3) |
+| 7 | 23-27 Aug | JS Promises, Auth Middleware, JS Dates | - | [P2](../projects/project-2-server-side-app.md) | [CD6.4](course-weeks-5-8.md#course-day-6-4) | [CD6.5](course-weeks-5-8.md#course-day-6-5) | [CD7.1](course-weeks-5-8.md#course-day-7-1) | [CD7.2](course-weeks-5-8.md#course-day-7-2) | [CD7.3](course-weeks-5-8.md#course-day-7-3) |
 
 ## Overall Schedule
 

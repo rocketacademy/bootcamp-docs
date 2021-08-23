@@ -8,7 +8,7 @@ description: 12 Apr - 24 Sep
 
 | Week | Dates | Topics | Interview Prep | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 19 | 16-20 Aug | - | DSA Open Practice \(DSAOP\) | [P5](../projects/project-5-group-react-app.md) | [CD18.2](course-weeks-17-20.md#course-day-18-2) | [CD18.3](course-weeks-17-20.md#course-day-18-3) | [CD18.4](course-weeks-17-20.md#course-day-18-4) | [CD18.5](course-weeks-17-20.md#course-day-18-5) | [CD19.1](course-weeks-17-20.md#course-day-19-1) |
+| 20 | 23-27 Aug | - | DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD19.2](course-weeks-17-20.md#course-day-19-2) | [CD19.3](course-weeks-17-20.md#course-day-19-3) | [CD19.4](course-weeks-17-20.md#course-day-19-4) | [CD19.5](course-weeks-17-20.md#course-day-19-5) | [CD20.1](course-weeks-17-20.md#course-day-20-1) |
 
 ## Overall Schedule
 
