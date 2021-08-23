@@ -74,9 +74,10 @@ Module 1: Frontend Basics
 * [1.5: High Card setTimeout](https://bootcamp.rocketacademy.co/1-frontend-basics/1.5-high-card-settimeout)
 * [1.6: Match Game](https://bootcamp.rocketacademy.co/1-frontend-basics/1.6-match-game)
 * [0.2.4: Reference vs. Value](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value)
-* [CSS.1: Basic CSS \(Exercises Part 2\)](https://bootcamp.rocketacademy.co/css/css-1-basic-css)
 
-### In Class
+
+
+**In Class**
 
 * Review 1 student's 1.POCE.2: High Card
 * [1.ICE.2: Timeout / High Card Redux](https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux)
@@ -95,6 +96,7 @@ Module 1: Frontend Basics
 
 * [1.7: setInterval](https://bootcamp.rocketacademy.co/1-frontend-basics/1.7-setinterval)
 * [1.8: Timer](https://bootcamp.rocketacademy.co/1-frontend-basics/1.8-timer)
+* [CSS.1: Basic CSS \(Exercises Part 2\)](https://bootcamp.rocketacademy.co/css/css-1-basic-css)
 * [CSS.2.1 No Layout](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.1-no-layout)
 * [CSS.2.2 Display Inline Block](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.2-display-inline-and-block)
 
