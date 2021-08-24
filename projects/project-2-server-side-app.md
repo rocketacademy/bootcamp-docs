@@ -23,6 +23,8 @@ To start, create a new repo without cloning any other repo. Feel free to copy an
 
 You are responsible for any seed data your app would need to run. The final version of your app must be populated with data that looks at least semi-realistic. For example, a social media app would have more than 1 post, 1 comment and 1 like in the system.
 
+See the example user login app for login starter code: [https://github.com/rocketacademy/userauth-express-bootcamp](https://github.com/rocketacademy/userauth-express-bootcamp)
+
 ## App Ideas
 
 ### General Ideas
