@@ -157,7 +157,7 @@
 * [3.POCE.8: Bird Watching Behaviour](../3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
-**Course Day 6.5**
+### **Course Day 6.5**
 
 #### Due
 
