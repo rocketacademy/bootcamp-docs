@@ -209,6 +209,7 @@
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 2 Planning: Peer Discussion](../projects/project-2-server-side-app.md#ideation-phase-2)
+* [3.ICE.11: DB Schema Design - Uber](../3-backend-applications/3.ice-in-class-exercises/3.ice.11-db-schema-design-uber.md)
 
 #### Post-Class
 
@@ -224,7 +225,7 @@
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.11: DB Schema Design - Uber](../3-backend-applications/3.ice-in-class-exercises/3.ice.11-db-schema-design-uber.md)
+* [3.ICE.12: DB Schema Design - Instagram](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
 
 #### Post-Class
 
@@ -240,7 +241,7 @@
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.12: DB Schema Design - Instagram](../3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
+* [1.ICE.CSS.5: Restaurant](../css/1.ice.css-in-class-css-exercises/1.ice.css.5-trombones.md)
 
 #### Post-Class
 
@@ -255,7 +256,8 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.CSS.5: Restaurant](../css/1.ice.css-in-class-css-exercises/1.ice.css.5-trombones.md)
+
+
 
 #### Post-Class
 
