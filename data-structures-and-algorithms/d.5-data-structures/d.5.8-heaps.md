@@ -11,6 +11,7 @@ Heap is a data structure that is useful for keeping track of the minimum or maxi
    1. Watch Heap Intro Part 2 \(how to remove element from heap\) video [here](https://www.youtube.com/watch?v=ijfPvX2qYOQ&t=0s).
    2. Watch Heap Intro Part 3 \(how to represent heap as array\) video [here](https://www.youtube.com/watch?v=fJORlbOGm9Y&t=0s).
 3. MIT's Heap introduction slides [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6_006F11_lec04.pdf) show a more detailed description of heap operations.
+4. Here is [RA's FTBC3's class video](https://youtu.be/Zat3PE0j1bA?t=701) introducing heaps.
 
 ## Summary \(What do we need to know?\)
 
@@ -51,6 +52,7 @@ Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.
 
 1. [https://leetcode.com/problems/last-stone-weight/](https://leetcode.com/problems/last-stone-weight/)
    1. RA Solution code: [https://pastebin.com/JCB78UG0](https://pastebin.com/JCB78UG0)
+   2. RA Solution video: [https://youtu.be/Zat3PE0j1bA?t=2092](https://youtu.be/Zat3PE0j1bA?t=2092)
 
 ### Part 1
 
