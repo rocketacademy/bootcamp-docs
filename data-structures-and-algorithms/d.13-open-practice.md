@@ -40,6 +40,9 @@ The following is a list of curated Leetcode problems that we can do on a daily b
 
 1. [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)
 2. [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)
+   1. Hint: What combination of arrays and hash tables can we use to group anagrams?
+   2. RA Solution Code: [https://pastebin.com/pfM6JiTx](https://pastebin.com/pfM6JiTx)
+   3. RA Solution Video: [https://youtu.be/yVCKfkJWHfQ?t=5281](https://youtu.be/yVCKfkJWHfQ?t=5281)
 
 ### Day 6
 

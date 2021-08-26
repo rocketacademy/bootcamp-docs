@@ -221,7 +221,7 @@ None
 
 #### Due
 
-* Project 5 MVP \(deployed\)
+* [Project 5 MVP \(deployed\)](../projects/project-5-group-react-app.md#mvp-deadline)
 
 #### Pre-Class
 
@@ -276,7 +276,7 @@ None
 
 #### Due
 
-* Project 5 Feature Freeze
+* [Project 5 Feature Freeze](../projects/project-5-group-react-app.md#feature-freeze)
 
 #### Pre-Class
 
