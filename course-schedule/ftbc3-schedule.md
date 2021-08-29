@@ -8,7 +8,7 @@ description: 12 Apr - 24 Sep
 
 | Week | Dates | Topics | Interview Prep | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 20 | 23-27 Aug | - | DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD19.2](course-weeks-17-20.md#course-day-19-2) | [CD19.3](course-weeks-17-20.md#course-day-19-3) | [CD19.4](course-weeks-17-20.md#course-day-19-4) | [CD19.5](course-weeks-17-20.md#course-day-19-5) | [CD20.1](course-weeks-17-20.md#course-day-20-1) |
+| 21 | 30 Aug - 3 Sep | Testing, TDD, CI/CD, Security | DSAOP | [P5](../projects/project-5-group-react-app.md) | [CD20.2](course-weeks-17-20.md#course-day-20-2) | [CD20.3](course-weeks-17-20.md#course-day-20-3) | [CD20.4](course-weeks-17-20.md#course-day-20-4) | [CD20.5](course-weeks-17-20.md#course-day-20-5) | [CD21.1](course-weeks-21-23.md#course-day-21-1) |
 
 ## Overall Schedule
 

@@ -4,7 +4,7 @@
 
 | Week | Dates | Topics | Interview Prep | Project | Mon | Tue | Wed | Thu | Fri |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 7 | 23-27 Aug | JS Promises, Auth Middleware, JS Dates | - | [P2](../projects/project-2-server-side-app.md) | [CD6.4](course-weeks-5-8.md#course-day-6-4) | [CD6.5](course-weeks-5-8.md#course-day-6-5) | [CD7.1](course-weeks-5-8.md#course-day-7-1) | [CD7.2](course-weeks-5-8.md#course-day-7-2) | [CD7.3](course-weeks-5-8.md#course-day-7-3) |
+| 8 | 30 Aug - 3 Sep | - | - | [P2](../projects/project-2-server-side-app.md) | [CD7.4](course-weeks-5-8.md#course-day-7-4) | [CD7.5](course-weeks-5-8.md#course-day-7-5) | [CD8.1](course-weeks-5-8.md#course-day-8-1) | [CD8.2](course-weeks-5-8.md#course-day-8-2) | [CD8.3](course-weeks-5-8.md#course-day-8-3) |
 
 ## Overall Schedule
 
