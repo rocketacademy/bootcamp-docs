@@ -138,3 +138,9 @@ Define the MVP given the task / feature prioritization and at this stage also ta
 
 {% embed url="https://www.youtube.com/watch?v=grs7WXHfQAE" %}
 
+#### User Journey Mapping
+
+{% embed url="https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c" %}
+
+
+
