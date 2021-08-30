@@ -59,7 +59,9 @@ We have found the following formats to be helpful for students. Speakers can cho
 3. 60-min student-led Q&A
    1. If the speaker has less time to prepare, this option gives more time for students to ask about topics they are interested in.
 
-## Sample Questions
+## Sample Student Questions
+
+The following are common questions that students ask.
 
 1. Could you tell us about your journey as a software engineer?
 2. What does a normal workday look like for you?
