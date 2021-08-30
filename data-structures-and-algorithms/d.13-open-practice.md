@@ -53,7 +53,8 @@ The following is a list of curated Leetcode problems that we can do on a daily b
 
 1. [https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)
 2. [https://leetcode.com/problems/odd-even-linked-list/](https://leetcode.com/problems/odd-even-linked-list/)
-3. [https://leetcode.com/problems/excel-sheet-column-number/](https://leetcode.com/problems/excel-sheet-column-number/)
+3. \[REMOVE\] [https://leetcode.com/problems/excel-sheet-column-number/](https://leetcode.com/problems/excel-sheet-column-number/)
+   1. Hint: This is a base-26 numbering system. Requires a more math background to understand how numbers and exponents work. Feel free to skip.
 
 ### Day 8
 
