@@ -48,6 +48,17 @@ The following are all upcoming and past RA Q&A sessions.
 | Tue | 19 Jan 2021 | 3-345pm | [Heng Hong Lee](https://www.linkedin.com/in/henghonglee/) \([video](https://youtu.be/mf1NQ_eFGlk)\) | Director of Engineering at Xfers |
 | Tue | 12 Jan 2021 | 6-645pm | [Samantha Koh](https://www.linkedin.com/in/samkohlq/) \([video](https://youtu.be/BTIHu6qjmH0)\) | Software Engineer at GovTech |
 
+## Past Q&A Formats
+
+We have found the following formats to be helpful for students. Speakers can choose which of the following formats they prefer, or propose another preferred format.
+
+1. 15-min speaker presentation on a project they’ve worked on, 45-min student-led Q&A
+   1. This helps students understand the work culture and project management at the speaker's companies.
+2. 30-min speaker mock interviews 1 of our students, 30-minute student-led Q&A
+   1. This helps students understand what the speaker's companies look for in software engineers.
+3. 60-min student-led Q&A
+   1. If the speaker has less time to prepare, this option gives more time for students to ask about topics they are interested in.
+
 ## Sample Questions
 
 1. Could you tell us about your journey as a software engineer?
