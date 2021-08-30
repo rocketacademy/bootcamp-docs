@@ -84,6 +84,10 @@ sudo apt-get install -y nodejs
 
 ## Mac
 
+{% hint style="warning" %}
+For newer M1 Apple silicon Macs, [follow these instructions](https://medium.com/swlh/run-x86-terminal-apps-like-homebrew-on-your-new-m1-mac-73bdc9b0f343) to make sure the Terminal is opened with Rosetta.
+{% endhint %}
+
 ### XCode Command Line Tools
 
 XCode command line tools install relevant command line utilities such as Git for us to use our command line on Mac effectively.
