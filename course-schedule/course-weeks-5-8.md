@@ -255,6 +255,7 @@ None
 
 #### In-Class
 
+* [1.ICE.CSS.6: NTU](../css/1.ice.css-in-class-css-exercises/1.ice.css.6-ntu.md)
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 
 
@@ -294,7 +295,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.CSS.6: NTU](../css/1.ice.css-in-class-css-exercises/1.ice.css.6-ntu.md)
+* [1.ICE.CSS.7: Zillow](../css/1.ice.css-in-class-css-exercises/1.ice.css.7-zillow.md)
 
 #### Post-Class
 
@@ -309,7 +310,7 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.CSS.7: Zillow](../css/1.ice.css-in-class-css-exercises/1.ice.css.7-zillow.md)
+* [1.ICE.CSS.8: Chase Bank](../css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank.md)
 
 #### Post-Class
 
@@ -328,7 +329,6 @@ None
 #### In-Class
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [1.ICE.CSS.8: Chase Bank](../css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank.md)
 
 #### Post-Class
 
