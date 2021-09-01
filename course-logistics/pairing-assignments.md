@@ -113,9 +113,9 @@ console.log( formationNumber );
 
 **1**
 
-**CK, Zack**
+**Zack**
 
-**Joel Mak, Vincent Moh**
+**CK, Vincent Moh**
 
 **Diyana Ramlan, Zaver**
 
@@ -125,11 +125,11 @@ console.log( formationNumber );
 
 **2**
 
-**Vincent Moh, CK**
+**Vincent Moh**
 
 **Zack, Zaver**
 
-**Joel Mak, Kimmi Lee**
+**CK, Kimmi Lee**
 
 **Diyana Ramlan, Jia Yi**
 
@@ -137,19 +137,19 @@ console.log( formationNumber );
 
 **3**
 
-**CK, Zaver**
+**Zaver**
 
 **Vincent Moh, Kimmi Lee**
 
 **Zack, Jia Yi**
 
-**Joel Mak, Graham James Lim**
+**CK, Graham James Lim**
 
 **Diyana Ramlan, Eric Foo**
 
 **4**
 
-**Kimmi Lee, CK**
+**Kimmi Lee**
 
 **Zaver, Jia Yi**
 
@@ -157,11 +157,11 @@ console.log( formationNumber );
 
 **Zack, Eric Foo**
 
-**Joel Mak, Diyana Ramlan**
+**CK, Diyana Ramlan**
 
 **5**
 
-**CK, Jia Yi**
+**Jia Yi**
 
 **Kimmi Lee, Graham James Lim**
 
@@ -169,27 +169,27 @@ console.log( formationNumber );
 
 **Vincent Moh, Diyana Ramlan**
 
-**Zack, Joel Mak**
+**Zack, CK**
 
 **6**
 
-**Graham James Lim, CK**
+**Graham James Lim**
 
 **Jia Yi, Eric Foo**
 
 **Kimmi Lee, Diyana Ramlan**
 
-**Zaver, Joel Mak**
+**Zaver, CK**
 
 **Vincent Moh, Zack**
 
 **7**
 
-**CK, Eric Foo**
+**Eric Foo**
 
 **Graham James Lim, Diyana Ramlan**
 
-**Jia Yi, Joel Mak**
+**Jia Yi, CK**
 
 **Kimmi Lee, Zack**
 
@@ -197,9 +197,9 @@ console.log( formationNumber );
 
 **8**
 
-**Diyana Ramlan, CK**
+**Diyana Ramlan**
 
-**Eric Foo, Joel Mak**
+**Eric Foo, CK**
 
 **Graham James Lim, Zack**
 
@@ -209,7 +209,7 @@ console.log( formationNumber );
 
 **9**
 
-**CK, Joel Mak**
+**CK**
 
 **Diyana Ramlan, Zack**
 
