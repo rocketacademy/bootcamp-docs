@@ -345,8 +345,6 @@ None
 * [DS&A Open Practice](../data-structures-and-algorithms/d.13-open-practice.md)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
-## 
-
 ### Course Day 20.5
 
 #### Due
