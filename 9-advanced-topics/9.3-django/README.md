@@ -104,17 +104,17 @@ When a new terminal is opened `workon` may need to be run so the virtual env can
 workon my_ra_django_env
 ```
 
-See more here: [https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html\#workon](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#workon)
+See more here: [https://virtualenvwrapper.readthedocs.io/en/latest/command\_ref.html\#workon](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#workon)
 
 ### Further Reading
 
 [https://pypi.org/](https://pypi.org/)
 
-[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
+[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development\_environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
 
 [https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3](https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3)
 
-[https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
+[https://virtualenvwrapper.readthedocs.io/en/latest/command\_ref.html](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
 
 [https://www.freecodecamp.org/news/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04/](https://www.freecodecamp.org/news/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04/)
 
@@ -201,7 +201,7 @@ The directory structure for the entire repo should look like this:
 
 In Django, what we might call controllers in Express are called views.
 
-**my_ra_django_app/views.py**
+**my\_ra\_django\_app/views.py**
 
 ```python
 from django.http import HttpResponse
@@ -217,7 +217,7 @@ urls.py is similar to routes.js in the Express.js MVC framework we created. It c
 
 There are actually 2 urls.py files, and we need to alter both in order for a request to get to our app. Django looks at the project level `urls.py` first.
 
-**my_ra_django_project/urls.py**
+**my\_ra\_django\_project/urls.py**
 
 ```python
 from django.contrib import admin
@@ -231,7 +231,7 @@ urlpatterns = [
 
 Create a urls file in the app as well:
 
-**my_ra_django_app/urls.py**
+**my\_ra\_django\_app/urls.py**
 
 ```python
 from django.urls import path
@@ -246,7 +246,7 @@ urlpatterns = [
 
 Before we can test the app code, the app itself has to be added to the Django project configuration.
 
-**my_ra_django_project/settings.py**
+**my\_ra\_django\_project/settings.py**
 
 ```python
 # ...
@@ -282,7 +282,7 @@ createdb ra_django_db
 
 Then set the configurations:
 
-**my_ra_django_project/settings.py**
+**my\_ra\_django\_project/settings.py**
 
 ```python
 # ...
@@ -358,7 +358,7 @@ python manage.py createsuperuser
 
 Django models work very similarly to Sequelize models. They are class instances that allow us to retrieve data from the database without writing SQL statements.
 
-**my_ra_django_app/models.py**
+**my\_ra\_django\_app/models.py**
 
 ```python
 from django.db import models
@@ -449,7 +449,7 @@ Now we can use the models in the Django code.
 
 We'll make a new route to test the model:
 
-**my_ra_django_app/urls.py**
+**my\_ra\_django\_app/urls.py**
 
 ```python
 from django.urls import path
@@ -464,7 +464,7 @@ urlpatterns = [
 
 Now we can use the model in the views file:
 
-**my_ra_django_app/views.py**
+**my\_ra\_django\_app/views.py**
 
 ```python
 from django.shortcuts import render
@@ -507,7 +507,7 @@ In Django, the files that produce HTML are called templates. First we need to cr
 mkdir my_ra_django_app/templates
 ```
 
-#### my_ra_django_app/template/base.html
+#### my\_ra\_django\_app/template/base.html
 
 We can create a partial template for things like the HTML `body` and `head`.
 
@@ -526,7 +526,7 @@ We can create a partial template for things like the HTML `body` and `head`.
 </html>
 ```
 
-#### my_ra_django_app/template/owners.html
+#### my\_ra\_django\_app/template/owners.html
 
 Now we can output the data we passed into the render method above:
 
@@ -568,13 +568,14 @@ Follow the instructions above to create the Django app.
 
 Add other routes to this app:
 
-| Route     | Method | Description      |
-| :-------- | :----- | :--------------- |
-| /cats/:id | GET    | get a single cat |
-| /         | GET    | get all the cats |
-| /cats     | POST   | create a cat     |
-| /owners   | POST   | create an owner  |
+| Route | Method | Description |
+| :--- | :--- | :--- |
+| /cats/:id | GET | get a single cat |
+| / | GET | get all the cats |
+| /cats | POST | create a cat |
+| /owners | POST | create an owner |
 
 #### Further Reading on Forms:
 
 [https://docs.djangoproject.com/en/3.1/intro/tutorial04/](https://docs.djangoproject.com/en/3.1/intro/tutorial04/)
+

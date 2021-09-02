@@ -4,15 +4,7 @@
 
 ## 📅 Course Schedule
 
-* [FTBC3 Schedule](course-schedule/ftbc3-schedule.md)
-* [FTBC4 Schedule](course-schedule/ftbc4-schedule.md)
-* [PTBC1 Schedule](course-schedule/ptbc1-schedule.md)
-* [Course Weeks 1-4](course-schedule/course-weeks-1-4.md)
-* [Course Weeks 5-8](course-schedule/course-weeks-5-8.md)
-* [Course Weeks 9-12](course-schedule/course-weeks-9-12.md)
-* [Course Weeks 13-16](course-schedule/course-weeks-13-16.md)
-* [Course Weeks 17-20](course-schedule/course-weeks-17-20.md)
-* [Course Weeks 21-23](course-schedule/course-weeks-21-23.md)
+* [Schedules](course-schedule/schedules.md)
 
 ## 🛠 Course Logistics
 
@@ -402,4 +394,16 @@
 * [UX.1: Overview](user-experience/ux.1-overview.md)
 * [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
 * [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
+
+## 📅Old Course Schedule
+
+* [FTBC3 Schedule](old-course-schedule/ftbc3-schedule.md)
+* [FTBC4 Schedule](old-course-schedule/ftbc4-schedule.md)
+* [PTBC1 Schedule](old-course-schedule/ptbc1-schedule.md)
+* [Course Weeks 1-4](old-course-schedule/course-weeks-1-4.md)
+* [Course Weeks 5-8](old-course-schedule/course-weeks-5-8.md)
+* [Course Weeks 9-12](old-course-schedule/course-weeks-9-12.md)
+* [Course Weeks 13-16](old-course-schedule/course-weeks-13-16.md)
+* [Course Weeks 17-20](old-course-schedule/course-weeks-17-20.md)
+* [Course Weeks 21-23](old-course-schedule/course-weeks-21-23.md)
 

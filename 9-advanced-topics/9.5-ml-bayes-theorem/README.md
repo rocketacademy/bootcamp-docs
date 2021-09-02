@@ -14,16 +14,17 @@ First we'll talk about how Bayes Theorem works and what it is trying to tell us.
 
 ## Watch
 
-{% embed url="https://www.youtube.com/watch?v=HZGCoVF3YvM" %}
+{% embed url="https://www.youtube.com/watch?v=HZGCoVF3YvM" caption="" %}
 
 Watch up to part 6, 22:36 in the following video re. Bayes Theroem
 
-{% embed url="https://www.youtube.com/watch?v=l3dZ6ZNFjo0" %}
+{% embed url="https://www.youtube.com/watch?v=l3dZ6ZNFjo0" caption="" %}
 
 ## Further Videos
 
-{% embed url="https://www.youtube.com/watch?v=lG4VkPoG3ko" %}
+{% embed url="https://www.youtube.com/watch?v=lG4VkPoG3ko" caption="" %}
 
-{% embed url="https://www.youtube.com/watch?v=7GgLSnQ48os" %}
+{% embed url="https://www.youtube.com/watch?v=7GgLSnQ48os" caption="" %}
 
-{% embed url="https://www.youtube.com/watch?v=R13BD8qKeTg" %}
+{% embed url="https://www.youtube.com/watch?v=R13BD8qKeTg" caption="" %}
+
