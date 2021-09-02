@@ -5,7 +5,6 @@
 ## 📅 Course Schedule
 
 * [Schedules](course-schedule/schedules.md)
-* [Full Course Day Schedule](course-schedule/full-course-day-schedule.md)
 
 ## 🛠 Course Logistics
 
@@ -398,6 +397,7 @@
 
 ## 📅Old Course Schedule
 
+* [Full Course Day Schedule](old-course-schedule/full-course-day-schedule.md)
 * [FTBC3 Schedule](old-course-schedule/ftbc3-schedule.md)
 * [FTBC4 Schedule](old-course-schedule/ftbc4-schedule.md)
 * [PTBC1 Schedule](old-course-schedule/ptbc1-schedule.md)
