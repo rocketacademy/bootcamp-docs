@@ -10,11 +10,11 @@ There are many systems and methodologies to define the inputs and the system, we
 
 Testing as part of a company's normal development workflow is a defacto standard in the industry. It is considered a best-practice to have at least some testing \([like a smoke test](https://en.wikipedia.org/wiki/Smoke_testing_%28software%29)\) in place in most web applications so that new bugs are not introduced and that old features don't break. \(It is not necessarily a standard in other industries/fields such as computer graphics, mobile applications or Machine Learning\).
 
-A standard workflow setup is to run testing as part of a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) system, a system that runs tests and deploys the application automatically or at the click of a single button. 
+A standard workflow setup is to run testing as part of a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) system, a system that runs tests and deploys the application automatically or at the click of a single button.
 
 ## Javascript Unit Testing
 
-We will be using two tightly coupled libraries to run our tests: Mocha and Chai. 
+We will be using two tightly coupled libraries to run our tests: Mocha and Chai.
 
 #### Mocha
 
@@ -28,7 +28,7 @@ Chai is an assertion library, which means that the Chai functions we run are to 
 
 Let's get a simple test running with a bare-bones Mocha and Chai setup.
 
-  Clone the base repo and install the libraries.
+Clone the base repo and install the libraries.
 
 ```bash
 git clone https://github.com/rocketacademy/base-node-bootcamp.git mocha
@@ -62,7 +62,7 @@ export default function add(a, b) {
 }
 ```
 
-Because we are doing unit testing, we are creating a library module to use as in this `index.js` below. 
+Because we are doing unit testing, we are creating a library module to use as in this `index.js` below.
 
 #### index.js
 
@@ -147,7 +147,7 @@ On line 5 & 6 of `test/calculator.js` we are calling the `describe` function. Th
 
 ### It
 
-`it` is the smallest piece of a unit test suite. The  first argument to `it` is a string that describes what this code is testing.
+`it` is the smallest piece of a unit test suite. The first argument to `it` is a string that describes what this code is testing.
 
 ```javascript
 it('Adds two numbers', function () {
@@ -176,5 +176,4 @@ Run the test to see the output.
 
 Break the test on purpose to see what a failing test looks like.
 
-Add a `multiply` function to the calculator and write a test for it. 
-
+Add a `multiply` function to the calculator and write a test for it.

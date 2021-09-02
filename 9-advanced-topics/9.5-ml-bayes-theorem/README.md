@@ -27,10 +27,3 @@ Watch up to part 6, 22:36 in the following video re. Bayes Theroem
 {% embed url="https://www.youtube.com/watch?v=7GgLSnQ48os" %}
 
 {% embed url="https://www.youtube.com/watch?v=R13BD8qKeTg" %}
-
-
-
-
-
-
-
