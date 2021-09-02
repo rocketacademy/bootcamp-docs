@@ -5,6 +5,7 @@
 ## 📅 Course Schedule
 
 * [Schedules](course-schedule/schedules.md)
+* [Full Course Day Schedule](course-schedule/full-course-day-schedule.md)
 
 ## 🛠 Course Logistics
 
