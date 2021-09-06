@@ -2,7 +2,7 @@
 
 ## Full Course Day Schedule
 
-This page lists a non-dated version of the schedule in chronological order. 
+This page lists a non-dated version of the schedule in chronological order.
 
 ## Course Weeks 1-4
 
@@ -17,7 +17,7 @@ This page lists a non-dated version of the schedule in chronological order.
 * [1.1.0: Wireframes](../1-frontend-basics/1.1-html/1.1.0-wireframes.md)
 * [1.1.1: HTML Basics](../1-frontend-basics/1.1-html/1.1.1-basic-html.md)
 * [0.1: New JS Syntax](../0-language-and-tooling/0.1-new-js-syntax.md)
-* [0.2: ES6](../0-language-and-tooling/0.2-es6)
+* [0.2: ES6](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/0-language-and-tooling/0.2-es6)
 * [0.2.1: ES6 Basics](../0-language-and-tooling/0.2-es6/0.2.1-es6-basics.md)
 * [1.2.1: DOM Review - Creating Elements](../1-frontend-basics/1.2-dom-review/1.2.1-creating-elements.md)
 * [1.2.2: DOM Review - Events](../1-frontend-basics/1.2-dom-review/1.2.2-events.md)
@@ -143,7 +143,7 @@ This page lists a non-dated version of the schedule in chronological order.
 **Pre-Class**
 
 * [2.0: Module 2 Setup](../2-backend-basics/2.0-module-2-overview.md)
-* [CSS.3 Flexbox](../css/css.3-flexbox)
+* [CSS.3 Flexbox](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/css/css.3-flexbox)
 
 **In-Class**
 
@@ -286,7 +286,7 @@ Node.js
 
 * [2.11: Deploy Server to Cloud](../2-backend-basics/2.11-deploy-server-to-cloud.md)
 * [2.12: Domain Names](../2-backend-basics/2.12-domain-names.md)
-* [2.13: JSON](../2-backend-basics/2.13-json)
+* [2.13: JSON](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/2-backend-basics/2.13-json)
 * [2.13.1: JSON File Storage Module - Add, Read, Write](../2-backend-basics/2.13-json/2.13.1-json-file-storage-module-add-read-write.md)
 
 **In-Class**
@@ -337,7 +337,7 @@ Node.js
 **Pre-Class**
 
 * [3.0: Overview](../3-backend-applications/3.0-module-3-overview.md)
-* [3.1: Express.js](../3-backend-applications/3.1-express-js)
+* [3.1: Express.js](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.1-express-js)
 * [3.1.1: Express with JSON DB](../3-backend-applications/3.1-express-js/3.1.1-express-with-json-db.md)
 
 **In-Class**
@@ -354,7 +354,7 @@ Node.js
 
 * [0.2.3: ES6 Destructuring, Spread Operators](../0-language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators.md)
 * [0.6: Nodemon](../0-language-and-tooling/0.6-nodemon.md)
-* [3.2: EJS](../3-backend-applications/3.2-ejs)
+* [3.2: EJS](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.2-ejs)
 * [3.2.1: EJS Loops](../3-backend-applications/3.2-ejs/3.2.1-ejs-loops.md)
 
 **In-Class**
@@ -422,7 +422,7 @@ Node.js
 
 **Pre-Class**
 
-* [3.3: SQL Language](../3-backend-applications/3.3-sql-language)
+* [3.3: SQL Language](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.3-sql-language)
 * [3.3.1: Basic SQL Commands](../3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands.md)
 * [3.5.1: Cookies](../3-backend-applications/3.5-authentication/3.5.1-cookies.md)
 
@@ -439,7 +439,7 @@ Node.js
 
 **Pre-Class**
 
-* [3.4: SQL Applications](../3-backend-applications/3.4-sql-applications)
+* [3.4: SQL Applications](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.4-sql-applications)
 * [3.4.1: PostgreSQL, psql](../3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md)
 * [3.4.2: PostgreSQL Node App](../3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app.md)
 
@@ -550,7 +550,7 @@ Node.js
 
 **Pre-Class**
 
-* [0.8: JS Promises](../0-language-and-tooling/0.8-js-promises)
+* [0.8: JS Promises](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/0-language-and-tooling/0.8-js-promises)
 * [0.8.1: Promise.prototype.catch, Promise.all](../0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all.md)
 * [3.4.7: pg Promises](../3-backend-applications/3.4-sql-applications/3.4.7-pg-promises.md)
 * [3.4.8: SQL Clients](../3-backend-applications/3.4-sql-applications/3.4.8-sql-clients.md)
@@ -721,7 +721,7 @@ None
 
 **Pre-Class**
 
-* [3.6: Heroku](../3-backend-applications/3.6-heroku)
+* [3.6: Heroku](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.6-heroku)
 * [3.6.1: Heroku Deploy](../3-backend-applications/3.6-heroku/3.6.1-heroku-deploy.md)
 * [3.6.2: Heroku Postgres](../3-backend-applications/3.6-heroku/3.6.2-heroku-postgres.md)
 * [3.6.3: Heroku S3](../3-backend-applications/3.6-heroku/3.6.3-heroku-s3.md)
@@ -739,7 +739,7 @@ None
 
 **Pre-Class**
 
-* [4.1: ORM, Sequelize](../4-backend-structure/4.1-orm-sequelize)
+* [4.1: ORM, Sequelize](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/4-backend-structure/4.1-orm-sequelize)
 * [4.1.1: Intro to Sequelize](../4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
 * [4.1.2: Sequelize One-to-Many](../4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships.md)
 
@@ -776,7 +776,7 @@ None
 
 **Pre-Class**
 
-* [4.2: MVC](../4-backend-structure/4.2-mvc)
+* [4.2: MVC](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/4-backend-structure/4.2-mvc)
 * [4.2.1: RESTful Routes](../4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 
 **In-Class**
@@ -825,7 +825,7 @@ None
 **Pre-Class**
 
 * [4.1.6 Sequelize Validations](../4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
-* [5.2: AJAX](../5-full-stack-applications/5.2-ajax)
+* [5.2: AJAX](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/5-full-stack-applications/5.2-ajax)
 
 **In-Class**
 
@@ -875,7 +875,7 @@ None
 **Pre-Class**
 
 * [D.2: Intro to Python \(Exercises 9-11\)](../data-structures-and-algorithms/d.2-intro-to-python.md)
-* [6.1: Webpack](../6-frontend-infrastructure/6.1-webpack)
+* [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/6-frontend-infrastructure/6.1-webpack)
 * [5.2.2: AJAX Cards](../5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
 
 **In-Class**
@@ -1115,7 +1115,7 @@ None
 
 **Pre-Class**
 
-* [7.1: JSX Intro](../7-react/7.1-jsx-intro)
+* [7.1: JSX Intro](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/7-react/7.1-jsx-intro)
 * [7.1.1: Conditional Rendering](../7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
 * [7.1.2: Rendering In a Loop](../7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
 
@@ -1137,7 +1137,7 @@ None
 **Pre-Class**
 
 * [D.8: Sorting Algorithms](../data-structures-and-algorithms/d.10-sorting-algorithms.md)
-* [7.2: React Components](../7-react/7.2-react-components)
+* [7.2: React Components](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/7-react/7.2-react-components)
 * [7.2.1: Props](../7-react/7.2-react-components/7.2.1-props.md)
 * [7.2.2: Generating Components from a List](../7-react/7.2-react-components/7.2.2-generating-components-from-a-list.md)
 * [7.2.3: Class Components](../7-react/7.2-react-components/7.2.3-class-components.md)
@@ -1187,7 +1187,7 @@ None
 
 **Pre-Class**
 
-* [7.7: Designing Component Hierarchy](../7-react/7.7-designing-component-hierarchy)
+* [7.7: Designing Component Hierarchy](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/7-react/7.7-designing-component-hierarchy)
 * [7.7.1: AJAX Requests from Components](../7-react/7.7-designing-component-hierarchy/7.7.1-ajax-requests-from-components.md)
 * [7.9: React Dev Tools](../7-react/7.9-react-dev-tools.md)
 
@@ -1242,16 +1242,16 @@ None
 **Pre-Class**
 
 * [7.8: Error Boundaries](../7-react/7.8-error-boundaries.md)
-* [D.9: Recursion - Required Reading](../data-structures-and-algorithms/d.9-recursion#required-reading)
+* [D.9: Recursion - Required Reading](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#required-reading)
 
 **In-Class**
 
-* [D.9: Recursion - Part 1](../data-structures-and-algorithms/d.9-recursion#part-1)
+* [D.9: Recursion - Part 1](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#part-1)
 
 **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.9: Recursion - Part 1](../data-structures-and-algorithms/d.9-recursion#part-1)
+* [D.9: Recursion - Part 1](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#part-1)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 ### Course Week 15
@@ -1265,12 +1265,12 @@ None
 **In-Class**
 
 * [Review 7.POCE.4: Hot Pot Bill Splitter](../course-logistics/course-methodology.md#peer-code-review)
-* [D.9: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion#part-2)
+* [D.9: Recursion - Part 2](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#part-2)
 
 **Post-Class**
 
 * [Project 4 Ideation Phase 2](../projects/project-4-full-stack-react-app.md#ideation-phase-2)
-* [D.9: Recursion - Part 2](../data-structures-and-algorithms/d.9-recursion#part-2)
+* [D.9: Recursion - Part 2](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#part-2)
 
 #### Course Day 15.2
 
@@ -1281,12 +1281,12 @@ None
 **In-Class**
 
 * [Project 4 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.9: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion#part-3)
+* [D.9: Recursion - Part 3](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#part-3)
 
 **Post-Class**
 
 * [Project 4 Implementation](../projects/project-4-full-stack-react-app.md)
-* [D.9: Recursion - Part 3](../data-structures-and-algorithms/d.9-recursion#part-3)
+* [D.9: Recursion - Part 3](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#part-3)
 
 #### Course Day 15.3
 
@@ -1434,7 +1434,7 @@ None
 
 **Pre-Class**
 
-* [8.1: Create React App](../8-advanced-react/8.1-create-react-app)
+* [8.1: Create React App](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/8-advanced-react/8.1-create-react-app)
 * [8.1.1: Create React App Full Stack](../8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
 * [8.2: Higher Order Components](../8-advanced-react/8.3-higher-order-components.md)
 * [D.5.7: Graphs - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.7-graphs.md)
@@ -1490,7 +1490,7 @@ None
 
 **Pre-Class**
 
-* [8.4: React Router](../8-advanced-react/8.4-react-router)
+* [8.4: React Router](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/8-advanced-react/8.4-react-router)
 * [8.4.1: React Router Shopping](../8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
 * [8.4.2: React Router Deep Linking](../8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
 * [D.5.8: Heaps - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.8-heaps.md#pre-class)
@@ -1758,7 +1758,7 @@ None
 
 **Pre-Class**
 
-* [9.1: Testing](../9-advanced-topics/9.1-testing)
+* [9.1: Testing](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/9-advanced-topics/9.1-testing)
 * [9.1.1: Unit Testing](../9-advanced-topics/9.1-testing/9.1.1-unit-testing.md)
 
 **In-Class**
@@ -1819,7 +1819,7 @@ None
 
 **Pre-Class**
 
-* [9.3: Django](../9-advanced-topics/9.3-django)
+* [9.3: Django](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/9-advanced-topics/9.3-django)
 
 **In-Class**
 
@@ -1867,7 +1867,7 @@ None
 
 **Pre-Class**
 
-* [9.5: ML - Naive Bayes Theorem](../9-advanced-topics/9.5-ml-bayes-theorem)
+* [9.5: ML - Naive Bayes Theorem](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/9-advanced-topics/9.5-ml-bayes-theorem)
 * [9.5.1: ML - Naive Bayes Classifier JS](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
 * [9.5.2: ML - Naive Bayes Classifier Python](../9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
 
