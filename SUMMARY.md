@@ -398,13 +398,5 @@
 ## 📅Old Course Schedule
 
 * [Full Course Day Schedule](old-course-schedule/full-course-day-schedule.md)
-* [FTBC3 Schedule](old-course-schedule/ftbc3-schedule.md)
 * [FTBC4 Schedule](old-course-schedule/ftbc4-schedule.md)
-* [PTBC1 Schedule](old-course-schedule/ptbc1-schedule.md)
-* [Course Weeks 1-4](old-course-schedule/course-weeks-1-4.md)
-* [Course Weeks 5-8](old-course-schedule/course-weeks-5-8.md)
-* [Course Weeks 9-12](old-course-schedule/course-weeks-9-12.md)
-* [Course Weeks 13-16](old-course-schedule/course-weeks-13-16.md)
-* [Course Weeks 17-20](old-course-schedule/course-weeks-17-20.md)
-* [Course Weeks 21-23](old-course-schedule/course-weeks-21-23.md)
 

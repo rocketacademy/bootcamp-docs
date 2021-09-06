@@ -1,2 +1,0 @@
-# FTBC3 Schedule
-
