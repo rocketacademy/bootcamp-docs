@@ -18,13 +18,15 @@ brew install python
 
 #### Windows
 
-Install Python
+{% hint style="danger" %}
+In Ubuntu Python should already be installed with the correct version \(version 3\) under the command `python3`.   
+  
+In all the following instructions where it says `python` use the command `python3` instead.  
+  
+If Python version 3 is not installed, install it with the command: `sudo apt-get install python3`
+{% endhint %}
 
-```markup
-sudo apt install python
-```
-
-We have to make sure this extra Postgres Library is installed.
+Make sure this extra Postgres Library is installed:
 
 ```markup
 sudo apt-get install libpq-dev
