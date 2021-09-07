@@ -315,27 +315,6 @@ Now we can use Django to alter the database.
 **11/6/2021**: On new M1 Apple products there may be some issues compiling the `psycopg2` library on ARM. See this thread: [https://github.com/psycopg/psycopg2/issues/1216](https://github.com/psycopg/psycopg2/issues/1216)
 {% endhint %}
 
-### Default Tables
-
-When you created the project, Django initialized several standard tables. When they are finally created in psql they look like this:
-
-```markup
- Schema |            Name            | Type  | Owner
---------+----------------------------+-------+-------
- public | auth_group                 | table | akira
- public | auth_group_permissions     | table | akira
- public | auth_permission            | table | akira
- public | auth_user                  | table | akira
- public | auth_user_groups           | table | akira
- public | auth_user_user_permissions | table | akira
- public | django_admin_log           | table | akira
- public | django_content_type        | table | akira
- public | django_migrations          | table | akira
- public | django_session             | table | akira
-```
-
-It includes things like the migration tracking table \(like Sequelize does\) and also the user table and user auth table. We'll see that in the next section.
-
 ### Migrations
 
 Django knows by default how to create a migration, it does not need specific instructions. We need to create one based on the default settings.
@@ -355,6 +334,27 @@ Django comes with user functionality builtin. It's best to create a singe defaul
 ```text
 python manage.py createsuperuser
 ```
+
+### Default Tables
+
+Django initialises several standard tables when we run migrations. This is what they look like in psql.
+
+```markup
+ Schema |            Name            | Type  | Owner
+--------+----------------------------+-------+-------
+ public | auth_group                 | table | akira
+ public | auth_group_permissions     | table | akira
+ public | auth_permission            | table | akira
+ public | auth_user                  | table | akira
+ public | auth_user_groups           | table | akira
+ public | auth_user_user_permissions | table | akira
+ public | django_admin_log           | table | akira
+ public | django_content_type        | table | akira
+ public | django_migrations          | table | akira
+ public | django_session             | table | akira
+```
+
+It includes things like the migration tracking table \(like Sequelize does\) and also the user table and user auth table. We'll see that in the next section.
 
 ## Models
 
