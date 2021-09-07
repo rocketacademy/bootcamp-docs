@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The following is a list of curated Leetcode problems that we can do on a daily basis after learning DS&A fundamentals.
+The following is a list of curated Leetcode problems that we can do on a daily basis after learning DS&A fundamentals. The problems are taken from the [Top Interview Questions list in Leetcode](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJBQ19SQVRFIn1d), sorted in decreasing acceptance rate, i.e. % of submissions that were accepted on Leetcode.
 
 ## Exercises
 
