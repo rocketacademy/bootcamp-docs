@@ -75,6 +75,9 @@ The following is a list of curated Leetcode problems that we can do on a daily b
 ### Day 11
 
 1. [https://leetcode.com/problems/flatten-nested-list-iterator/](https://leetcode.com/problems/flatten-nested-list-iterator/)
+   1. Completing this problem will help us understand how to use and implement classes in Python.
+   2. Hint: An iterator works like this: Each time we call `next()` on the iterator it will return the next element in the collection. When the iterator is "exhausted", i.e. we have reached the end of the collection, `next()` will return `None`.
+   3. Hint: For a refresher on how to use and implement classes in Python, see [code examples from RA's OOP module](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.8-intro-to-object-oriented-programming#code-examples).
 2. [https://leetcode.com/problems/4sum-ii/](https://leetcode.com/problems/4sum-ii/)
 
 ### Day 12
