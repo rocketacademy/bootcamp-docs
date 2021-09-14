@@ -20,6 +20,8 @@ We are now building a "back-end" to the front-end JavaScript that runs in the br
 
 ## Webpack Example
 
+In this section we'll simply demonstrate the mechanics we described above by having Webpack process and output a file. After we've confirmed that Webpack does indeed have the behaviours listed above we'll integrate it into our web apps in the next section.
+
 ### Initialise Project Folder
 
 Create a new folder and install Webpack.
