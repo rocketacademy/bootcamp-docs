@@ -117,3 +117,7 @@ Look inside the `dist/script.js` to see the transformed JavaScript file. Note in
 
 Open `dist/main.html` in the browser without running an Express server. Does our JavaScript from `dist/script.js` load?
 
+## Further Reading
+
+[https://webpack.js.org/concepts/why-webpack/](https://webpack.js.org/concepts/why-webpack/)
+
