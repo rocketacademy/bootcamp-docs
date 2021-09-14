@@ -24,5 +24,7 @@ For example, a cutting edge product like GitHub is more likely to have a user de
 
 {% embed url="https://www.youtube.com/watch?v=Sh6lK57Cuk4" %}
 
+{% embed url="https://auth0.com/blog/a-brief-history-of-javascript/" %}
+
 
 
