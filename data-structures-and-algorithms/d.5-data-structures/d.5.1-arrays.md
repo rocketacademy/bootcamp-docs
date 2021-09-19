@@ -8,9 +8,9 @@ Many of us will be familiar with arrays since we started using them in Coding Ba
 
 ### Useful Python List Syntax
 
-### Basic Python list methods: [https://www.w3schools.com/python/python\_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
+#### Basic Python list methods: [https://www.w3schools.com/python/python\_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
 
-### Python list slice syntax: [https://stackoverflow.com/a/509295](https://stackoverflow.com/a/509295)
+#### Python list slice syntax: [https://stackoverflow.com/a/509295](https://stackoverflow.com/a/509295)
 
 ```python
 a[start:stop]  # items start through stop-1
@@ -37,9 +37,7 @@ a[:-3:-1]  # the last two items, reversed
 a[-3::-1]  # everything except the last two items, reversed
 ```
 
-### Use Iteration Instead of Recursion to Loop over Arrays
 
-Although we just learned recursion and many of the Learn Python recursion problems used recursion to iterate over strings or arrays, generally we prefer iteration where possible, because recursion utilises more computer memory.
 
 ## Introduction to Leetcode
 
