@@ -404,4 +404,8 @@
 
 * [Overview](dsa/untitled.md)
 * [Intro to Python](dsa/intro-to-python.md)
+* [Big-O](dsa/big-o.md)
+* [Intro to Algorithm Problem Sets](dsa/intro-to-algorithm-problem-sets.md)
+* [Data Structures](dsa/data-structures/README.md)
+  * [Untitled](dsa/data-structures/untitled-1.md)
 
