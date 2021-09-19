@@ -27,6 +27,7 @@ a[start:stop:step] # start through not past stop, by step
 a[-1]    # last item in the array
 a[-2:]   # last two items in the array
 a[:-2]   # everything except the last two items
+a[::2]   # every other item in the array
 
 # Similarly, step may be a negative number:
 
