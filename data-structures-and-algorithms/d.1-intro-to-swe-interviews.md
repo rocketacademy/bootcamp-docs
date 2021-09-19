@@ -38,5 +38,3 @@ Some companies whose core competency is not software may be more dependent on a 
 
 Such language-specific questions are less common at tech companies because engineers at tech companies are expected to be able to pick up any language they need to, and in the worst case, new features at tech companies can be written in new languages. At "non-tech" companies there is typically less engineering expertise, thus engineers are expected to be familiar with the company's coding language, else risk not being productive. 
 
-
-
