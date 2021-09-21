@@ -8,6 +8,8 @@ We'll begin by introducing the concept of algorithm questions and work through s
 
 ## Exercises
 
+Solve each exercise by writing a function that satisfies the requirements.
+
 ## Pre-Class
 
 ### Fizz Buzz
