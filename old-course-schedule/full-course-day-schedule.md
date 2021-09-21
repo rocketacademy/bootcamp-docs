@@ -894,7 +894,7 @@ None
 **Pre-Class**
 
 * [D.3: Complexity Analysis, Big-O Notation](../data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation.md)
-* [D.4: Interview Strategies](../data-structures-and-algorithms/d.4-interview-strategies.md)
+* [D.4: Interview Strategies](../data-structures-and-algorithms/d.4-interview-strategies/)
 * [6.1.1: Webpack with Local Modules](../6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
 * [6.1.2: Webpack with NPM Modules](../6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
 
