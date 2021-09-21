@@ -43,10 +43,34 @@ a[-3::-1]  # everything except the last two items, reversed
 
 Leetcode problems are encapsulated in classes. We will learn more about classes in [D.6: Object-Oriented Programming](../d.8-intro-to-object-oriented-programming.md), but without going into too much detail here, the following are what we need to know to solve and submit problems in Leetcode.
 
-1. Every method inside a Python class requires `self` as the 1st parameter in the method definition, so that the method has access to other attributes and methods within the class instance via `self`.
-2. To call Python class methods \(i.e. methods inside the class\), we will need to prefix the method name with `self.`, for example `self.myMethodName()`. There is no need to pass `self` as the 1st parameter to class methods, even though `self` is the 1st param in the method definition.
-3. Python 3 provides optional syntax to specify variable types. Leetcode problems specify variable types in function parameters to help us understand the inputs and outputs of the function we need to implement.
-4. There is no need for us to call the function we define, for example `validMountainArray`. Leetcode will call the function, we just need to implement it.
+* **Every method inside a Python class requires `self` as the 1st parameter in the method definition.** This is so that the method has access to other attributes and methods within the class instance via `self`.
+
+```python
+class Solution:
+    def say_something(self):
+        print("yay")
+```
+
+* **To call Python class methods \(i.e. methods inside the class\), we will need to prefix the method name with** `self.`. For example `self.myMethodName()`. There is no need to pass `self` as the 1st parameter to class methods, even though `self` is the 1st param in the method definition.
+
+```python
+class Solution:
+    def say_something(self):
+        print("yay")
+    def buildArray(self, nums: List[int]) -> List[int]:
+        self.say_something()
+```
+
+* **Leetcode problems specify variable types in function parameters to help us understand the inputs and outputs of the function we need to implement.** This optional syntax is part of Python 3, so that function parameters can specify variable types. 
+
+```python
+class Solution:
+    # this function parameter is a List. It is supposed to return a List
+    def buildArray(self, nums: List[int]) -> List[int]:
+        pass
+```
+
+* **There is no need for us to call the function we define.** For example `validMountainArray`. Leetcode will call the function, we just need to implement it.
 
 ```python
 class Solution:

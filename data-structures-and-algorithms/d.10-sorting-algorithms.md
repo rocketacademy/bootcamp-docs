@@ -41,13 +41,13 @@ There is no need to memorise the below sorting algorithms' implementation. Just 
 
 ## `O(nlogn)` Time, `O(1)` Space Sorting Algorithms
 
-{% hint style="warning" %}
-No need to cover this code right now- we haven't seen the heap data structure yet. We'll look at this again when we cover heaps, but this is another example of a sorting algorithm that runs in `O(nlogn)` time.
-{% endhint %}
-
 ### Heap Sort
 
 1. `O(nlogn)` time, `O(1)` space sorting algorithm
 2. On average slower and less commonly used than Merge Sort and Quick Sort
 3. [https://www.geeksforgeeks.org/heap-sort/](https://www.geeksforgeeks.org/heap-sort/)
+
+{% hint style="warning" %}
+No need to cover this code right now- we haven't seen the heap data structure yet. We'll look at this again when we cover heaps, but this is another example of a sorting algorithm that runs in `O(nlogn)` time.
+{% endhint %}
 
