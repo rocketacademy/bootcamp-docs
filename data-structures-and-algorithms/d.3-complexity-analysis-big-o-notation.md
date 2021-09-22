@@ -2,25 +2,140 @@
 
 ## Introduction
 
-There are typically 3 aspects of DS&A problems: Correctness, Complexity, and Code Quality. Correctness is whether the algorithm can generate the right answer. Complexity is whether the candidate understands how much time and space the algorithm needs to complete, and whether this "time and space complexity" is optimal. Code Quality is how well the candidate's code communicates its intention. Code quality may not be important for automated screening interviews, but will be a factor in live coding interviews. This module focuses on complexity.
+After you finish writing some code, how can you describe how fast it is? How can you describe how much memory your code takes up?
 
-## Time and Space Complexity
+In this section we'll begin to describe the way that computer science defines the efficiency of a given set of code.
 
-As the names suggest, time and space complexity measure the relative time and space algorithms need to complete. Both time and space complexity are measured in what we call "Big-O Notation" \(pronounced "big oh"\), which is a notation specific to Computer Science and adopted in the SWE industry. Big-O Notation gives us a way to describe the time or space complexity of an algorithm relative to its inputs. For example, if my input had `n` elements and my algorithm ran in `O(n^2)` \(pronounced "oh of n squared"\) time, I could expect this algorithm to take longer to complete than a different algorithm that solves the same problem in `O(n)` \("oh of n"\) time.
+We'll begin with this simple example and describe its properties.
 
-The goal of measuring time and space complexity is to evaluate whether we have the most optimal algorithm, not to measure a specific number of seconds or gigabytes our algorithms need. By optimising the relative time and space complexity of an algorithm, we should also have optimised the number of seconds or gigabytes it may need.
+```javascript
+// a function that takes an array as a parameter
+// and returns true if the array contains the integer 2
+function arrayHasTwo(arr){
+    // set a default value of not found
+    var found = false;
+    for(var i=0; i<arr.length; i++){
+        if( arr[i] === 2 ){
+            // if 2 is found, set to true
+            found = true;
+        }
+    }
+    // return result
+    return found;
+}
+```
 
-## Big-O Notation
+## Time Complexity
 
-We first explain the syntax of Big-O notation, then share common Big-O complexities and examples of algorithms for each of those complexities. Big-O complexities apply to both time and space calculations. Do not worry if you are unfamiliar with the algorithms we share. We will review each of them in due time as we progress through RA's DS&A curriculum.
+When we run this code it could take differing amounts of time.
 
-### Syntax
+```javascript
+var list = [1,2,3,3];
 
-Big-O Notation consists of a big O, parentheses, and a variation on a mathematical variable, most commonly `n`, sometimes `m` also if there are multiple inputs or variables that need to be represented. These variations are typically orders of `n`, for example valid Big-O notations in order of increasing complexity are `O(1)` \(constant\), `O(logn)` \(logarithmic\), `O(n)` \(linear\), `O(nlogn)` \("n log n"\), `O(n^2)` \(polynomial, where we can replace the 2 with any number bigger than 2\), and `O(2^n)` \(exponential\).  
+// the function iterates 4 times in the loop
+var result = arrayHasTwo(list);
 
-When expressing Big-O notation, we only consider the variable with the largest order of complexity, and remove any summed variables of lower complexity. When evaluating the variable of largest order of complexity, we also remove any coefficients attached to that variable, since those coefficients make minimal difference in the complexity when we consider large numbers where the complexity matters. For example, if I determined that my algorithm ran in complexity of `2n^2 + n` time, I would remove the `n` because it is of lower complexity than `n^2`, and I would remove the 2 in `2n^2` because it is a coefficient. I would then be left with `O(n^2)`.
+var list2 = [1,2,3,4,5,6,7,8,9,3];
 
-### Big-O Order of Complexity
+// the function iterates 10 times in the loop
+var result2 = arrayHasTwo(list2);
+```
+
+Our function runs slower if the input is bigger. What we are working towards is a generic way to describe how long something takes to run. Mathematically we can express this as a \(mathematical\) function of the length of the parameter array. The longer the array is, the longer it will take the code to run.
+
+We refer to the size of the input as _**n**_.
+
+![Big-O - linear complexity.](../.gitbook/assets/big-o-notation-linear-algorithm.png)
+
+ If we plotted this on a graph it would look linear, i.e., a straight line. For each additional item in the input array, the "speed" of the function increases in step. This is the first property of complexity analysis. It assumes an input of varying length, and we can analyze what happens when that input grows or shrinks.
+
+#### What are We Measuring?
+
+The Computer Science analysis of this complexity makes no assumptions about the properties of this data, so it always assumes that the input data to the function can be zero to infinity length. Note the lack of graph axis units in the figure above. The kind of measurement we're doing is called [asymptotic analysis.](https://en.wikipedia.org/wiki/Asymptotic_analysis) It also assumes a theoretical "unit" of computation. When we analyze code that will generally mean we are counting each line of code and when something iterates in a loop, or if a function is called that has a loop in it. Sometimes we'll count built-in functions such as `Array.unshift` because we'll know that the built-in function already has some inherent run-time complexity. \(We'll note each of these special cases when they come up.\)
+
+## Big-O
+
+So generally speaking, we measure the speed of a function or given section of code by counting the:
+
+* number of lines of code
+* iterations in a loop
+* also count functions that we know contain loops
+
+In Computer Science, the definition of speed is more specific than that. There are several specific measures of speed, including Big Theta and Big Omega, but we'll only be talking about Big-O. All of these notations define a mathematical expression for the speed behaviour of a function. We won't really be concerned with the mathematical definition of these, since for non-theoretical programs, Big-O is the most  important.
+
+When expressing Big-O notation, we only consider the variable with the largest order of complexity, and remove any summed variables of lower complexity. When evaluating the variable of largest order of complexity, we also remove any coefficients attached to that variable, since those coefficients make minimal difference in the complexity when we consider large numbers where the complexity matters. For example, if I determined that my algorithm ran in complexity of _**2n² + c**_ time, I would remove the **c** because it is of lower complexity than **n²**, and I would remove the 2 in _**2n²**_ because it is a coefficient. I would then be left with _**O\(n²\)**_`.`
+
+### Worst Case
+
+When talking about Big-O we always talk about the worst-case performance of the function. That is, we don't consider what happens when the input data happens to be formatted in our favor.
+
+We can think about this if we edit our function above. We can get rid of line 5, and just return true if and when two is found.
+
+```javascript
+// a function that takes an array as a parameter
+// and returns true if the array contains the integer 2
+function arrayHasTwo(arr){
+    // set a default value of not found
+    // var found = false;
+    for(var i=0; i<arr.length; i++){
+        if( arr[i] === 2 ){
+            // if 2 is found, set to true
+            return true;
+        }
+    }
+    // return result
+    return false;
+}
+```
+
+Then we can run our function:
+
+```javascript
+var list = [1,2,4,4];
+
+// the function iterates 4 times in the loop
+var result = arrayHasTwo(list);
+
+var list2 = [1,2,3,4,5,6,7,8,0,3];
+
+// the function iterates 10 times in the loop
+var result2 = arrayHasTwo(list2);
+```
+
+With the early return statement we've actually saved 2 iterations for `list` and 8 for `list2`!  But Computer Science doesn't care- we haven't defined anywhere in our `arrayHasTwo` function or anywhere else about where the 2 might fall inside the array. The worst case performance of this function is still O\(n\).
+
+Big-O doesn't care about any specific set of data, it also doesn't care about if the data is sorted.
+
+{% hint style="info" %}
+**Vocabulary**
+
+We'll be describing code \(Python and JavaScript\) functions and the mathematical definition of a function interchangeably when discussing Big-O. For our purposes here they behave equivalently.
+
+Although technically incorrect we'll talk about time, speed and complexity interchangeably, because, in the end, Big-O is telling us about the amount of time our code runs in. We don't need to worry about the theoretical distinction between these three words.
+
+The "O" in Big-O [apparently stands for "Order".](https://en.wikipedia.org/wiki/Big_O_notation#History_%28Bachmann%E2%80%93Landau,_Hardy,_and_Vinogradov_notations%29)
+{% endhint %}
+
+### Space Complexity
+
+The other thing we can measure with Big-O is the amount of space, or memory a function takes up.
+
+```javascript
+// a function that takes an array as a parameter
+// and returns true if the array contains the integer 2
+function buildArray(count){
+    // set a default value of not found
+    var result = [];
+    for(var i=0; i<count; i++){
+        result.push(Math.random());
+    }
+    return result
+}
+```
+
+We can say that this function has O\(n\) complexity and also takes up O\(n\) space. When this function runs the result variable will take up n space. \(Note that it doesn't matter whether or not we return anything at the end, just that a growing array existed while the function was running.\)
+
+## Big-O Order of Complexity
 
 From the following chart by [Geeks for Geeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/), we can visualise the differences in complexity for various Big-O values from `O(1)` to `O(n!)`. This shows us that there is indeed a large difference between each level of Big-O complexity.
 
@@ -101,4 +216,10 @@ Also known as exponential complexity, `O(2^n)` complexity \(and any `O(C^n)` com
 The Fibonacci sequence is defined as `Fib(n) = Fib(n-1) + Fib(n-2)`, where `Fib(0) == 1` and `Fib(1) == 1`. The naïve way to solve Fibonacci is to write a recursive algorithm that calculates `Fib(n)` by calling `Fib(n-1)` and `Fib(n-2)`. However, this results in 2 operations per `Fib` operation, and because each `Fib` operation runs recursively, we end up with `2^n` operations because it would take `n` levels of `Fib` operations to reach the base cases of `Fib(0)` and `Fib(1)`. Interestingly, this problem can be solved in `O(n)` time complexity. See [here](https://stackoverflow.com/questions/18172257/efficient-calculation-of-fibonacci-series) for solution. 
 
 The `O(2^n)` time complexity algorithm above also requires `O(2^n)` space complexity because at any given time, there will be up to `O(2^n)` simultaneous function calls, thus `O(2^n)` intermediate Fib calculations in memory. However, the optimal `O(n)` time complexity solution only requires `O(1)` space complexity because it only uses a finite number of variables to calculate `Fib(n)`, regardless of `n`.
+
+## Further Reading
+
+{% embed url="https://www.youtube.com/watch?v=D6xkbGLQesk" %}
+
+
 
