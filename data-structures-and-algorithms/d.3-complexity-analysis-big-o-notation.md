@@ -43,7 +43,7 @@ var result2 = arrayHasTwo(list2);
 
 Our function runs slower if the input is bigger. What we are working towards is a generic way to describe how long something takes to run. Mathematically we can express this as a \(mathematical\) function of the length of the parameter array. The longer the array is, the longer it will take the code to run.
 
-We refer to the size of the input as _**n**_.
+We refer to the size of the input array as _**n**_.
 
 ![Big-O - linear complexity.](../.gitbook/assets/big-o-notation-linear-algorithm.png)
 
