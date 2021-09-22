@@ -16,6 +16,10 @@ The following are all upcoming and past RA Q&A sessions.
 
 | Day of Week | Date | Time | Speaker Name | Speaker Title |
 | :--- | :--- | :--- | :--- | :--- |
+| Wed | 6 Oct 2021 | 12-1pm | [Wil Ng](https://www.linkedin.com/in/wil-ng-8a804135/) \(video\) | Head of Technology at Lyte Ventures  |
+| Fri | 1 Oct 2021 | 1-2pm | [Neuman Vong](https://www.linkedin.com/in/neumanvong/) \(video\) | Staff Software Engineer at Twitter |
+| Wed | 22 Sep 2021 | 12-1pm | [Jit Corn Leow](https://www.linkedin.com/in/leow-jit-corn-2b7a44a8/) \(video\) | Software Engineer at 99.co \(FTBC1 Graduate\) |
+| Wed | 15 Sep 2021 | 12-1pm | [Clarence Chio](https://www.linkedin.com/in/cchio/) \(video\) | Co-Founder and CTO at Unit21 |
 | Wed | 8 Sep 2021 | 12-1pm | [Victor Neo](https://www.linkedin.com/in/victor-neo-5886186/) \(video\) | Director of Engineering at Carousell |
 | Wed | 1 Sep 2021 | 12-1pm | [Alvin Ng](https://www.linkedin.com/in/alvinncx/) \(video\) | Senior Software Engineer at BCG Digital Ventures |
 | Wed | 25 Aug 2021 | 12-1pm | [Clarence Chio](https://www.linkedin.com/in/cchio/) \(video\) | Co-Founder and CTO, Unit21 |
