@@ -51,7 +51,7 @@ We refer to the size of the input array as _**n**_.
 
 #### What are We Measuring?
 
-The Computer Science analysis of this complexity makes no assumptions about the properties of this data, so it always assumes that the input data to the function can be zero to infinity length. Note the lack of graph axis units in the figure above. The kind of measurement we're doing is called [asymptotic analysis.](https://en.wikipedia.org/wiki/Asymptotic_analysis) It also assumes a theoretical "unit" of computation. When we analyze code that will generally mean we are counting each line of code and when something iterates in a loop, or if a function is called that has a loop in it. Sometimes we'll count built-in functions such as `Array.unshift` because we'll know that the built-in function already has some inherent run-time complexity. \(We'll note each of these special cases when they come up.\)
+The Computer Science analysis of this speed / complexity makes no assumptions about the properties of this data, so it always assumes that the input data to the function can be zero to infinity length. Note the lack of graph axis units in the figure above. The kind of measurement we're doing is called [asymptotic analysis.](https://en.wikipedia.org/wiki/Asymptotic_analysis) It also assumes a theoretical "unit" of computation. When we analyze code that will generally mean we are counting each line of code and when something iterates in a loop, or if a function is called that has a loop in it. Sometimes we'll count built-in functions such as `Array.unshift` because we'll know that the built-in function already has some inherent run-time complexity. \(We'll note each of these special cases when they come up.\)
 
 ## Big-O
 
