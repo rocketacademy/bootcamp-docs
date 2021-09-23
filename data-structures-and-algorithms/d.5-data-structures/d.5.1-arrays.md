@@ -1,5 +1,7 @@
 # D.5.1: Arrays
 
+![array meme](../../.gitbook/assets/array-meme.gif)
+
 ## Introduction
 
 Many of us will be familiar with arrays since we started using them in Coding Basics. This module will focus on Python-specific array syntax and array-specific practice problems.
