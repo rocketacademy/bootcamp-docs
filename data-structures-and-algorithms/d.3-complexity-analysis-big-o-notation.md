@@ -211,7 +211,7 @@ function buildArray(count){
 
 We can say that this function has **O\(**_**n**_**\)** complexity and also takes up **O\(**_**n**_**\)** space. When this function runs the result variable will take up n space. \(Note that it doesn't matter whether or not we return anything at the end, just that a growing array existed while the function was running.\)
 
-#### Reference vs. Value Space Complexity
+#### Reference vs. Value Space 
 
 Manipulating an array is also not the same as "taking up space". In the following code, although we create new variables for each loop iteration, we are not allocating any new space with this function. Thus it has a space complexity of **O\(1\)**.
 
