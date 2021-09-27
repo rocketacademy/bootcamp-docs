@@ -6,6 +6,50 @@
 
 Many of us will be familiar with arrays since we started using them in Coding Basics. This module will focus on Python-specific array syntax and array-specific practice problems.
 
+### Big-O of Common Python List Operations
+
+Given:
+
+```python
+arr = [2,1,3,4,5]
+```
+
+#### Constant O\(1\)
+
+`append`
+
+```python
+arr.append(9) # [2,1,3,4,5,9]
+```
+
+Append only adds something onto the end of a list. Python does not have to consider the rest of the list.
+
+`len`
+
+```python
+len(arr) # 5
+```
+
+Python stores the length of the list inside the list itself as a running counter.
+
+#### Linear O\(_n_\)
+
+`clear`, `max`, `copy`, `index`, `insert`, `remove`, `reverse,` slice operations.
+
+```python
+max(arr) # 5
+```
+
+Each of these functions must look at every array element in the worst case.
+
+#### Loglinear O\(_n_log_n_\)
+
+```python
+sort(arr) # [1,2,3,4,5]
+```
+
+Python uses Timsort sorting algorithm to sort lists.
+
 ## Tips
 
 ### Useful Python List Syntax
