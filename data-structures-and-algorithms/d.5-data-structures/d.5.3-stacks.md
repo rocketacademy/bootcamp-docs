@@ -1,5 +1,7 @@
 # D.5.3: Stacks
 
+![stack meme](../../.gitbook/assets/stack_meme.jpeg)
+
 ## Introduction
 
 A stack is a data structure that supports adding and removing only from the end/top of the stack. Stacks are often referred to as a FILO \(first in last out\) or LIFO \(last in first out\) data structure. We can think of the stack data structure like a stack of pancakes- we can only add and remove pancakes from the top of the stack, but we cannot add or remove from anywhere else in the stack lest we damage the pancakes. You may notice that arrays already provide the functionality of stacks through list `append` and `pop` methods. Indeed the functionality of stacks is a subset of arrays', but the concepts behind why and how we use stacks may be new to us.
@@ -13,7 +15,63 @@ A stack is a data structure that supports adding and removing only from the end/
 
 ## Code Example
 
-Please read and understand the stack class implementation in [this](https://repl.it/@kaiyuanneo/stack-class-definitions#main.py) Repl.
+```text
+class Stack:
+  '''
+  Define a Stack class that supports the methods
+  1) .push(element): Push element onto stack
+  2) .pop():         Pop (remove) and return element from top of stack
+  3) .peek():        Return element from top of stack without popping
+  4) .size():        Return number of elements in stack
+  '''
+  def __init__(self):
+    self.data = []
+
+  # Return optional representation of class in string format
+  def __repr__(self):
+    return str(self.data)
+
+  def push(self, element):
+    print(f"Pushed {element} onto stack")
+    self.data.append(element)
+
+  def pop(self):
+    element = self.data.pop()
+    print(f"Popped {element} from stack")
+    return element
+
+  def peek(self):
+    if not self.data:
+      print("This stack is empty!")
+      return None
+    print(f"The top element in the stack is {self.data[-1]}")
+    return self.data[-1]
+
+  def size(self):
+    print(f"Stack contains {len(self.data)} elements")
+    return len(self.data)
+
+# Create empty stack
+s = Stack()
+
+# Push elements onto stack
+for i in range(10):
+  s.push(i) # <-- Pushed {i} onto stack
+print(s) # <-- [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+# Pop element from stack
+e = s.pop() # <-- Popped 9 from stack
+print(s) # <-- [0, 1, 2, 3, 4, 5, 6, 7, 8]
+print(e) # <-- 9
+
+# Peek at top element in stack
+e = s.peek() # <-- The top element in the stack is 8
+print(e) # <-- 8
+
+# Get the size of the stack
+size = s.size() # <-- Stack contains 9 elements
+print(size) # <-- 9
+```
 
 ## Examples of Stack Use Cases
 
