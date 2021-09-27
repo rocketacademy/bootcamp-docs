@@ -75,13 +75,13 @@ In general, our Express middleware should handle all business logic, for example
 | CD6.1 | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback | Instructor to share feedback on project ideas in Slack. |
 | CD6.4 | **Start: Ideation Phase 2** | \*\*\*\* |
 | CD7.1 | **Due: Ideation Phase 2.** Create planning docs: user stories, wireframes, and DB ERD. Finalise project idea and share planning docs in GitHub repo over Slack.  | Instructor to review planning docs over Slack and over Zoom if necessary. |
-| CD7.1 | **Peer Planning Review** | \*\*\*\* |
-| CD7.1 | **Project Start** | Begin Project Implementation |
-| CD8.1 | **MVP deadline.** Users should be able to perform the primary user story. Please deploy your app to EC2. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
-| CD8.4 | **Feature freeze.** No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
-| CD8.5 | **Project presentations.** | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub. |
+| CD7.1 | **Due: Peer Planning Review** | \*\*\*\* |
+| CD7.1 | **Start: Project Start** | Begin Project Implementation |
+| CD8.1 | **Due: MVP deadline.** Users should be able to perform the primary user story. Please deploy your app to EC2. Students to review code in pairs during class. | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD8.4 | **Due: Feature freeze.** No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code. | Quick project review in class to discuss improvements post-feature freeze. |
+| CD8.5 | **Due: Project presentations.** | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub. |
 | CD9.1 | **Project Peer Review exercise.** | \*\*\*\* |
-| CD9.3 | **Video demo due.** |  |
+| CD9.3 | **Due: Video demo.** |  |
 
 ### Recommended Order of Implementation
 
