@@ -47,11 +47,11 @@ We refer to the size of the input array as _**n**_.
 
 ![Big-O - linear complexity.](../.gitbook/assets/big-o-notation-linear-algorithm.png)
 
- If we plotted this on a graph it would look linear, i.e., a straight line. For each additional item in the input array, the "speed" of the function increases in step. This is the first property of complexity analysis. It assumes an input of varying length, and we can analyze what happens when that input grows or shrinks.
+If we plotted the growth of time and of data in _**n**_ on a graph it would look linear, i.e., a straight line. For each additional item in the input array, the "speed" of the function increases in step. The behaviour of time as _**n**_ grows is the first property of complexity analysis. It assumes an input of varying length, and we can analyze what happens when that input grows or shrinks.
 
 #### What are We Measuring?
 
-The Computer Science analysis of this speed / complexity makes no assumptions about the properties of this data, so it always assumes that the input data to the function can be zero to infinity length. Note the lack of graph axis units in the figure above. The kind of measurement we're doing is called [asymptotic analysis.](https://en.wikipedia.org/wiki/Asymptotic_analysis) It also assumes a theoretical "unit" of computation. When we analyze code that will generally mean we are counting each line of code and when something iterates in a loop, or if a function is called that has a loop in it. Sometimes we'll count built-in functions such as `Array.unshift` because we'll know that the built-in function already has some inherent run-time complexity. \(We'll note each of these special cases when they come up.\)
+The Computer Science analysis of this speed / complexity makes no assumptions about the properties of this data, so it always assumes that the input data to the function can be zero to infinity length, as opposed to real-world data, which is very dependant on the specific case. The code that looks for a letter in the alphabet needs to be very different from the code that looks for a name amongst millions of users. Also note the lack of graph axis units in the figure above. The kind of measurement we're doing is called [asymptotic analysis.](https://en.wikipedia.org/wiki/Asymptotic_analysis) It also assumes a theoretical "unit" of computation where the absolute time in seconds or hours doesn't matter. When we use Big-O to analyze code a naive approach would be to count  each line of code and count each loop iteration or if a function is called that has a loop in it. Sometimes we'll count built-in functions such as `Array.unshift` because we'll know that the built-in function already has some inherent run-time complexity. \(We'll note each of these special cases when they come up.\)
 
 ## Big-O
 
@@ -61,13 +61,13 @@ So generally speaking, we measure the speed of a function or given section of co
 * iterations in a loop
 * also count functions that we know contain loops
 
-In Computer Science, the definition of speed is more specific than that. There are several specific measures of speed, [including Big Theta and Big Omega](https://en.wikipedia.org/wiki/Big_O_notation#Related_asymptotic_notations), but we'll only be talking about Big-O. All of these notations define a mathematical expression for the speed behaviour of a function. We won't really be concerned with the mathematical definition of these, since for non-theoretical programs, Big-O is the most  important.
+In Computer Science, the definition of speed is more specific than that. There are several specific measures of speed, [including Big Theta and Big Omega](https://en.wikipedia.org/wiki/Big_O_notation#Related_asymptotic_notations), but we'll only be talking about Big-O. All of these notations define a mathematical expression for the speed behaviour of a function. We won't really be concerned with the mathematical definition of these, since for non-theoretical programs, Big-O is the most  useful.
 
 ### Worst Case
 
-When talking about Big-O we always talk about the worst-case performance of the function. That is, we don't consider what happens when the input data happens to be formatted in our favor.
+When talking about Big-O we always talk about the worst-case performance of the function. That is, we don't consider what happens when the input data happens to be formatted in our favor- e.g., what happens if 2 is randomly at the beginning of some of our arrays? Big-O isn't concerned with these probabilities. 
 
-We can think about this if we edit our function above. We can get rid of line 5, and just return true if and when two is found.
+If we edit our function above we can see how it becomes more efficient, but that the Big-O remians the same. We can get rid of line 5, and just return true if and when two is found.
 
 ```javascript
 // a function that takes an array as a parameter
@@ -104,7 +104,7 @@ With the early return statement we've actually saved 2 iterations for `list` and
 
 Big-O doesn't care about any specific set of data, it also doesn't care about if the data is sorted.
 
-Note that when calculating Big-O, if the problem statement itself defines the input array as always being sorted then this would be taken into account. If, given the above code it was stated that the input array is always sorted and starts with a value of zero, then the Big-O of the above code would be **O\(3\)** \(and thus **O\(1\)**\)- the worst case performance is that the loop runs 3 times from zero to 2.
+Note that when calculating Big-O, if the problem statement itself defines the input array as always being sorted then this would be taken into account. If, given the above code it was stated that _**the input array is always sorted and starts with a value of zero**_, then the Big-O of the above code would be **O\(3\)** \(and thus **O\(1\)**\)- the worst case performance is that the loop runs 3 times from zero to 2.
 
 ### Coefficients
 
@@ -187,7 +187,7 @@ var result = arraysHaveTwo(list);
 
 We'll be describing code \(Python and JavaScript\) functions and the mathematical definition of a function interchangeably when discussing Big-O. For our purposes here they behave equivalently.
 
-Although technically incorrect we'll talk about time, speed and complexity interchangeably, because, in the end, Big-O is telling us about the amount of time our code runs in. We don't need to worry about the theoretical distinction between these three words.
+Although technically incorrect, we'll talk about _time, speed and complexity_ interchangeably, because, in the end, Big-O is telling us about the amount of time our code runs in. We don't need to worry about the theoretical distinction between these three words.
 
 The "O" in Big-O [apparently stands for "Order".](https://en.wikipedia.org/wiki/Big_O_notation#History_%28Bachmann%E2%80%93Landau,_Hardy,_and_Vinogradov_notations%29)
 {% endhint %}
@@ -211,7 +211,7 @@ function buildArray(count){
 
 We can say that this function has **O\(**_**n**_**\)** complexity and also takes up **O\(**_**n**_**\)** space. When this function runs the result variable will take up n space. \(Note that it doesn't matter whether or not we return anything at the end, just that a growing array existed while the function was running.\)
 
-#### Reference vs. Value Space 
+#### Reference vs. Value Space Complexity
 
 Manipulating an array is also not the same as "taking up space". In the following code, although we create new variables for each loop iteration, we are not allocating any new space with this function. Thus it has a space complexity of **O\(1\)**.
 
@@ -253,7 +253,7 @@ From the following chart by [Geeks for Geeks](https://www.geeksforgeeks.org/anal
 
 As defined above, the Big-O of a given function may seem like it's unviable or a "wrong" solution. However, many algorithms in the real-world run in "_bad_" or "_worst_" time complexity. The nature of the problem itself dictates the complexity of the solution, and there is no correct or incorrect solution to a problem.
 
-One of the most classically intractable Computer Science algorithm problems, the [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) is a kind of problem that has to be solved constantly in real life. [There is no perfect work-around](https://shotl.com/news/the-travelling-salesman-problem-in-the-modern-era) for the fact that it runs in at least exponential time. 
+One of the most classically intractable Computer Science algorithm problems, the [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) is a kind of problem that has to be solved constantly in real life. [There is no perfect work-around](https://shotl.com/news/the-travelling-salesman-problem-in-the-modern-era) for the fact that it runs in a minimum of exponential time. 
 
 ## Big-O Common Functions
 
