@@ -16,7 +16,7 @@ Queues are similar to stacks except instead of removing elements from the end of
 
 Please read and understand the queue class definition in [this](https://repl.it/@kaiyuanneo/queue-class-definition#main.py) Repl. Notice we Python's built-in `deque` data structure because it supports more efficient popping \(dequeuing\) of the left-most element than Python Lists.
 
-```text
+```python
 # We use the built-in Python deque data structure for queues.
 # Deque is implemented using linked lists and more efficient
 # than Python lists for popping the left-most element.
