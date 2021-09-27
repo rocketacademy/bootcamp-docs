@@ -2,6 +2,36 @@
 
 ## Introduction
 
+This section will eventually discuss the Hash Table, which is an abstract computer science data structure. 
+
+Hash Table as Object / Dictionary
+
+The first most simple implementation we'll work with of something that behaves like a hash table is a Python dictionary, or known as objects in JavaScript.
+
+Keys and Values
+
+Access to data given a key is a behavior of a hash table that is also in a Python dictionary / JavaScript object. Access to a value through a key is an **O\(1\)** operation, so it is a good way to store and retrieve data.
+
+```javascript
+var obj = {
+    "age":12,
+    height:25
+};
+// access a value
+console.log(obj["height"]);
+```
+
+```python
+dictionary = {
+    "age":12,
+    "height":25
+}
+# access a value
+print(dictionary["height"])
+```
+
+Are Python dictionaries
+
 Hash tables are the generalised computer-science concept behind JavaScript Objects. Most programming languages have their own implementation of hash tables, e.g. Dictionaries in Python, HashMaps in Java.
 
 ## Hash Table Theory
