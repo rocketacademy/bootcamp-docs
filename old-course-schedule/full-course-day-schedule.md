@@ -1083,17 +1083,17 @@ None
 **Pre-Class**
 
 * [D.8: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md)
-* [D.5.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#pre-class)
+* [D.5.5: Linked Lists - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists/#pre-class)
 
 **In-Class**
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
+* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists/#part-1)
 
 **Post-Class**
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-1)
+* [D.5.5: Linked Lists - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists/#part-1)
 
 #### Course Day 13.2
 
@@ -1209,12 +1209,12 @@ None
 **In-Class**
 
 * Review [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
+* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists/#part-2)
 
 **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-2)
+* [D.5.5: Linked Lists - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists/#part-2)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 #### Course Day 14.4
@@ -1225,12 +1225,12 @@ None
 
 **In-Class**
 
-* [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-3)
+* [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists/#part-3)
 
 **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists.md#part-3)
+* [D.5.5: Linked Lists - Part 3](../data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists/#part-3)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 #### Course Day 14.5
