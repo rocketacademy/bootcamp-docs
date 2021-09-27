@@ -8,11 +8,11 @@ This section will eventually discuss the Hash Table, which is an abstract comput
 
 ### Hash Table as Object / Dictionary
 
-The first most simple implementation we'll work with of something that behaves like a hash table is a Python dictionary, or known as objects in JavaScript.
+The first simple implementation we'll work with is a Python dictionary, which is an implementation of a hash map.
 
 #### Keys and Values
 
-Access to data given a key is a behavior of a hash table that is also in a Python dictionary / JavaScript object. Access to a value through a key is an **O\(1\)** operation, so it is a good way to store and retrieve data.
+Access to data given the crucial behavior of a hash table / Python dictionary / JavaScript object. Access to a value through a key is an **O\(1\)** operation, so it is a good way to store and retrieve data.
 
 ```javascript
 var obj = {
@@ -36,7 +36,7 @@ print(dictionary["height"])
 
 The Python dictionary data structure is way to access a value through a key in **O\(1\)** time. In the easy Leetcode problems below we can assume that dictionary and hash map are synonymous because we are only thinking about the key/value access behaviour of the hash map data structure.
 
-In a computer science context the importance of the hash map data structure references a point in the history of the field and in programming languages where such a key/value store did not exist by default- you had to create your own or use a library \(for example in the C programming language\). The base language did not come with such a data structure included inside. At the end of this section we'll have rebuilt everything needed for a dictionary using only primitive types like lists, strings and integers. This will also be similar for other very basic data structures we'll see where things like stacks, queues and linked lists, which do have more modern Python equivalents but for DS&A we are more concerned with conceptual understanding rather than easy to write code. Also see below for how Python dictionaries and JavaScript objects work under the hood.
+In a computer science context the importance of the hash map data structure references a point in the history of the field and in programming languages where such a key/value store did not exist by default- you had to create your own or use a library \(for example in the C programming language\). At the end of this section we'll have rebuilt everything needed for a dictionary using only primitive types like lists, strings and integers. This will also be similar for other very basic data structures we'll see where things like stacks, queues and linked lists, which do have more modern Python equivalents but for DS&A we are more concerned with conceptual understanding rather than easy to write code. Also see below for how Python dictionaries and JavaScript objects work under the hood.
 
 ### Hash Functions
 
@@ -53,11 +53,9 @@ dictionary = {
 print(dictionary["height"])
 ```
 
-Before we can dive into the storing of the data itself we need to talk about the association of the key with the value inside the hash map data structure. We'll use an algorithm for that, and it's not as easy as it seems.
+Before we can dive into the storing of the data itself we need to talk about the association of the key with the value inside the hash map data structure. We've already seen the idea of "hashing" a value is JavaScript in [Password Hashing 3.5.3](../../../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md). We'll use a very similar algorithm to associate hash map keys with hash map values.
 
-We've already seen the idea of "hashing" a value is JavaScript in [Password Hashing 3.5.3](../../../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md). We'll use a very similar algorithm to associate hash map keys with hash map values.
-
-We saw that cryptographic hashing functions have 4 properties:
+We saw in section 3.5.3 that cryptographic hashing functions have 4 properties:
 
 1. Consistency - always give back the same value
 2. Consistent length - in the context of hash maps, "fixed length" hash output
@@ -69,7 +67,7 @@ Cryptographic hash algorithms are a superset of normal hash algorithms. We're go
 We also need to state one other property which we didn't mention before- that we can consider the complexity of this function to be **O\(1\)**. \(Which isn't true in all cryptographic hash algorithm cases or even all hash map cases.\)
 
 ```python
-def hash_function(input_string: str):
+def hash_function(input_string: str, size: int):
 
   for character in input_string:
     # convert the char to an ASCII int using ord
@@ -77,25 +75,25 @@ def hash_function(input_string: str):
     # add it to the total
     result += char_to_int
   
-  # return the sum mod 10
-  # return a num from 0 9
-  return result % 10
+  # return the sum mod size
+  # return a num from 0 size
+  return result % size
 ```
 
 ```python
 # pythonic (idiomatic) version
-def hash_function(input_string: str):
-  return sum([ord(ch) for ch in input_string]) % 10 
+def hash_function(input_string: str, size: int):
+  return sum([ord(ch) for ch in input_string]) % size 
 ```
 
 This function takes any length string value and outputs an integer value.
 
 ```python
-print(hash_function("happy")) #6 
-print(hash_function("debit card")) #2
-print(hash_function("bad credit")) #2 
-print(hash_function("dirtyroom")) #1 
-print(hash_function("dormitory")) #1 
+print(hash_function("happy", 10)) #6 
+print(hash_function("debit card", 10)) #2
+print(hash_function("bad credit", 10)) #2 
+print(hash_function("dirtyroom", 10)) #1 
+print(hash_function("dormitory", 10)) #1 
 ```
 
 ### Hash Collisions
@@ -103,7 +101,7 @@ print(hash_function("dormitory")) #1
 Note how different inputs can result in the same output. This is referred to as a "_**collision**_". Here it's because two words have the same letters. We can make some simple improvements to the code to make it take letter position into account.
 
 ```python
-def hash_function(input_string: str):
+def hash_function(input_string: str, size: int):
 
   for i, character in enumerate(input_string):
     # convert the char to an ASCII int using ord
@@ -115,16 +113,16 @@ def hash_function(input_string: str):
   
   # return the sum mod 10
   # return a num from 0 9
-  return result % 10
+  return result % size
 
 
-print(better_hash_function("dormitory") == better_hash_function("dirtyroom")) #false 
-print(better_hash_function("debit card") == better_hash_function("bad credit")) #false 
+print(hash_function("dormitory", 10) == hash_function("dirtyroom", 10)) #false 
+print(hash_function("debit card", 10) == hash_function("bad credit", 10)) #false 
 ```
 
 ### Using the Hash Function to Create a Hash Map
 
-Let's reimplement the Python dictionary inside a class.
+Now we know what a hash function is, let's reimplement the Python dictionary inside a class using the `hash_function` to set and retrieve the key's value.
 
 From [here](https://www.geeksforgeeks.org/hash-map-in-python/).
 
@@ -144,7 +142,7 @@ class HashTable:
         
         # Get the index from the key
         # using hash function
-        hashed_key = hash_function(key) % self.size
+        hashed_key = hash_function(key, self.size)
           
         # Get the bucket corresponding to index
         bucket = self.hash_table[hashed_key]
@@ -172,7 +170,7 @@ class HashTable:
         
         # Get the index from the key using
         # hash function
-        hashed_key = hash(key) % self.size
+        hashed_key = hash_function(key, self.size)
           
         # Get the bucket corresponding to index
         bucket = self.hash_table[hashed_key]
@@ -200,7 +198,7 @@ class HashTable:
         
         # Get the index from the key using
         # hash function
-        hashed_key = hash(key) % self.size
+        hashed_key = hash_function(key, self.size)
           
         # Get the bucket corresponding to index
         bucket = self.hash_table[hashed_key]

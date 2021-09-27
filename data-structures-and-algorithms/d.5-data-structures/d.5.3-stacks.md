@@ -15,7 +15,7 @@ A stack is a data structure that supports adding and removing only from the end/
 
 ## Code Example
 
-```text
+```python
 class Stack:
   '''
   Define a Stack class that supports the methods
