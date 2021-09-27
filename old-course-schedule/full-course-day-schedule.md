@@ -984,17 +984,17 @@ Deadline to post Project 3 ideas in Slack
 
 **Pre-Class**
 
-* [D.5.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md)
+* [D.5.2: Hash Tables - Pre-Class](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/)
 
 **In-Class**
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-1)
+* [D.5.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/#part-1)
 
 **Post-Class**
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-1)
+* [D.5.2: Hash Tables - Part 1](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/#part-1)
 
 #### Course Day 12.2
 
@@ -1005,12 +1005,12 @@ None
 **In-Class**
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
+* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/#part-2)
 
 **Post-Class**
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables.md#part-2)
+* [D.5.2: Hash Tables - Part 2](../data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/#part-2)
 
 #### Course Day 12.3
 
