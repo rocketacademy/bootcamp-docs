@@ -17,4 +17,5 @@ Past students have found the following resources helpful.
 ## Interview Guides
 
 1. [https://github.com/yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+2. [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
