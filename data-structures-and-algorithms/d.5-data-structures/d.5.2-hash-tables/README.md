@@ -1,5 +1,7 @@
 # D.5.2: Hash Tables
 
+![hash meme](../../../.gitbook/assets/hash_meme.jpeg)
+
 ## Introduction
 
 This section will eventually discuss the Hash Table, which is an abstract computer science data structure. 
