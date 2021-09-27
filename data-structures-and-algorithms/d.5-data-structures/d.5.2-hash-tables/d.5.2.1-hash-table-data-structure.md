@@ -1,4 +1,4 @@
-# D.5.2.1: Hash Tables
+# D.5.2.1: Hash Table Data Structure
 
 ![](../../../.gitbook/assets/hash_meme.jpeg)
 

@@ -365,7 +365,7 @@
 * [D.5: Data Structures](data-structures-and-algorithms/d.5-data-structures/README.md)
   * [D.5.1: Arrays](data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays.md)
   * [D.5.2: Hash Tables](data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/README.md)
-    * [D.5.2.1: Hash Tables](data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/d.5.2.1-hash-tables.md)
+    * [D.5.2.1: Hash Table Data Structure](data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/d.5.2.1-hash-table-data-structure.md)
     * [D.5.2.2: Hash Collisions: Chaining](data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/d.5.2.2-hash-collisions-chaining.md)
     * [D.5.2.3: Hash Collisions: Open Addressing](data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables/d.5.2.3-hash-collisions-open-addressing.md)
   * [D.5.3: Stacks](data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks.md)
