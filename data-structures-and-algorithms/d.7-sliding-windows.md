@@ -1,5 +1,7 @@
 # D.7: Sliding Windows
 
+![sliding windows](../.gitbook/assets/sliding-windows.gif)
+
 ## Introduction
 
 Sliding window algorithms typically allow us to iterate through an array or string in linear time, sweeping over and analysing "windows" or subarrays of varying sizes by storing a start and end index of the current "window". We update the start and end indexes as we iterate through the array. [See this explanation](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7) for an intro to sliding window algorithms. Use incognito mode to read the full article.
