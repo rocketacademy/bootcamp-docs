@@ -57,14 +57,20 @@ Avoid any ideas the depend on timing between players or if another player must b
   <tbody>
     <tr>
       <td style="text-align:left">CD10.3</td>
-      <td style="text-align:left"><b>Start: Ideation Phase 1.</b> Introduce project, post project ideas in
-        Slack for feedback</td>
+      <td style="text-align:left">
+        <p><b>Start: Ideation Phase 1.</b> 
+        </p>
+        <p>Introduce project, post project ideas in Slack for feedback</p>
+      </td>
       <td style="text-align:left">Instructor to share feedback on project ideas in Slack.</td>
     </tr>
     <tr>
       <td style="text-align:left">CD11.1</td>
-      <td style="text-align:left"><b>Start: Ideation Phase 2. </b> Create planning docs: user stories, wireframes,
-        and DB ERD.</td>
+      <td style="text-align:left">
+        <p><b>Start: Ideation Phase 2. </b> 
+        </p>
+        <p>Create planning docs: user stories, wireframes, and DB ERD.</p>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -78,7 +84,7 @@ Avoid any ideas the depend on timing between players or if another player must b
     </tr>
     <tr>
       <td style="text-align:left">CD11.3</td>
-      <td style="text-align:left"><b>Due: Peer Planning Review.</b>
+      <td style="text-align:left"><b>Peer Planning Review.</b>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -89,7 +95,7 @@ Avoid any ideas the depend on timing between players or if another player must b
       <td style="text-align:left">Begin Project Implementation</td>
     </tr>
     <tr>
-      <td style="text-align:left">CD12.2</td>
+      <td style="text-align:left">CD12.3</td>
       <td style="text-align:left">
         <p><b>Due: MVP deadline.</b> 
         </p>
@@ -123,7 +129,7 @@ Avoid any ideas the depend on timing between players or if another player must b
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">CD13.4</td>
+      <td style="text-align:left">CD13.5</td>
       <td style="text-align:left"><b>Due: Video demo.</b>
       </td>
       <td style="text-align:left"></td>

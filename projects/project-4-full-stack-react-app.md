@@ -103,7 +103,7 @@ Since the focus of this project is on React, try not to create a database that i
         share feedback in Slack and Zoom if necessary.</td>
     </tr>
     <tr>
-      <td style="text-align:left">CD16.1</td>
+      <td style="text-align:left">CD17.1</td>
       <td style="text-align:left"><b>Project Peer Review exercise.</b>
       </td>
       <td style="text-align:left"></td>

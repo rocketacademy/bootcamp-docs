@@ -31,13 +31,13 @@ Take some time to consider what kind of learning outcome and what kind of projec
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">CD19.5</td>
+      <td style="text-align:left">CD20.3</td>
       <td style="text-align:left"><b>Start: Ideation Phase 1.</b> Introduce project, post project ideas in
         Slack for feedback</td>
       <td style="text-align:left">Instructor to share feedback on project ideas in Slack.</td>
     </tr>
     <tr>
-      <td style="text-align:left">CD20.3</td>
+      <td style="text-align:left">CD20.4</td>
       <td style="text-align:left">
         <p><b>Start: Ideation Phase 2. </b>
         </p>
@@ -56,7 +56,7 @@ Take some time to consider what kind of learning outcome and what kind of projec
     </tr>
     <tr>
       <td style="text-align:left">CD20.5</td>
-      <td style="text-align:left"><b>Due: Peer Planning Review.</b>
+      <td style="text-align:left"><b>Peer Planning Review.</b>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -67,7 +67,7 @@ Take some time to consider what kind of learning outcome and what kind of projec
       <td style="text-align:left">Begin Project Implementation.</td>
     </tr>
     <tr>
-      <td style="text-align:left">CD22.1</td>
+      <td style="text-align:left">CD23.1</td>
       <td style="text-align:left">
         <p><b>Due: MVP deadline.</b> 
         </p>
@@ -78,7 +78,7 @@ Take some time to consider what kind of learning outcome and what kind of projec
         if necessary.</td>
     </tr>
     <tr>
-      <td style="text-align:left">CD23.3</td>
+      <td style="text-align:left">CD24.3</td>
       <td style="text-align:left">
         <p><b>Due: Feature freeze.</b> 
         </p>
@@ -88,7 +88,7 @@ Take some time to consider what kind of learning outcome and what kind of projec
       <td style="text-align:left">Quick project review in class to discuss improvements post-feature freeze.</td>
     </tr>
     <tr>
-      <td style="text-align:left">CD23.5</td>
+      <td style="text-align:left">CD24.5</td>
       <td style="text-align:left"><b>Due: Project presentations.</b>
       </td>
       <td style="text-align:left">30-minute post-mortem with instructor. Instructor to review code in PR

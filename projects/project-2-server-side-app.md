@@ -105,7 +105,7 @@ In general, our Express middleware should handle all business logic, for example
     </tr>
     <tr>
       <td style="text-align:left">CD7.1</td>
-      <td style="text-align:left"><b>Due: Peer Planning Review</b>
+      <td style="text-align:left"><b>Peer Planning Review</b>
       </td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
