@@ -4,16 +4,31 @@
 
 ## Introduction
 
-A stack is a data structure that supports adding and removing only from the end/top of the stack. Stacks are often referred to as a FILO \(first in last out\) or LIFO \(last in first out\) data structure. We can think of the stack data structure like a stack of pancakes- we can only add and remove pancakes from the top of the stack, but we cannot add or remove from anywhere else in the stack lest we damage the pancakes. You may notice that arrays already provide the functionality of stacks through list `append` and `pop` methods. Indeed the functionality of stacks is a subset of arrays', but the concepts behind why and how we use stacks may be new to us.
+SImilar to hash tables, we are going to be employing the concept of a stack data structure to work with certain kinds of data. A stack is a data structure that supports adding and removing only from the end/top of the stack. They are often referred to as a FILO \(first in last out\) or LIFO \(last in first out\) data structure.
 
-## Helpful Resources
+#### History of Stacks
 
-1. [This](https://www.youtube.com/watch?v=k1PX5LxFfTo) is a concise, high-level overview of the stack data structure concept, methods, and use cases.
-2. [This](https://www.youtube.com/watch?v=F1F2imiOJfk) is a slightly more detailed video covering the same concepts.
-3. Read pages 108-109 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
-4. [FTBC3 class video ](https://youtu.be/y---RCHCdD4?t=559)introducing Stacks.
+When the first computer was invented on paper by Alan Turing, the first in, last out behaviour of storing data was one of the mechanisms that was theorized to be needed in order to create a real-world computer. Stacks are therefore one of the first and simplest data structures to be discussed in the context of computer science. Data access with LIFO behaviour is something that naturally shows up in many fundamental places in computer science as we'll also see in function call stacks below. In our modern context it may not make sense to strictly define a list-like data structure with less features than an actual Python list, but because the LIFO behaviour is a key concept in computer science we consider a Stack as distinct from an array.
+
+#### Big-O of Stacks
+
+Even when using a Python `list` we'll limit ourselves to only writing code that uses the stack operations. This means that our stack code will have a constant **O\(1\)** time complexity.
+
+### LIFO
+
+![](../../.gitbook/assets/stack-gif.gif)
+
+We can think of the stack data structure like a stack of pancakes- we can only add and remove pancakes from the top of the stack, but we cannot add or remove from anywhere else in the stack lest we damage the pancakes. You may notice that arrays already provide the functionality of stacks through list `append` and `pop` methods. Indeed the functionality of stacks is a subset of arrays', but the concepts behind why and how we use stacks may be new to us.
+
+### JavaScript Call Stacks
+
+A recurring example of stack data structure usage is inside the Chrome JavaScript debugger tools- the function call stack. In JavaScript function execution is tracked using a stack data structure. Watch this video to see how function calls tie in with a stack's LIFO behaviour. 
+
+{% embed url="https://www.youtube.com/watch?v=W8AeMrVtFLY" %}
 
 ## Code Example
+
+Here is an implementation of a stack class. Note the use of a list on line 10 to store the actual data.
 
 ```python
 class Stack:
@@ -73,12 +88,11 @@ size = s.size() # <-- Stack contains 9 elements
 print(size) # <-- 9
 ```
 
-## Examples of Stack Use Cases
+## Other Examples of Stack LIFO Behaviour
 
-1. Program execution "[call stack](https://en.wikipedia.org/wiki/Call_stack)", or "stack" of functions that are currently being executed.
-2. Undo and redo features in most text editors.
-3. `git stash` functionality in Git to temporarily save changes without committing.
-4. Browser history
+1. Undo and redo features in most text editors.
+2. `git stash` functionality in Git to temporarily save changes without committing.
+3. Browser history
 
 ## Exercises
 
@@ -111,4 +125,11 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 3. [https://leetcode.com/problems/score-of-parentheses/](https://leetcode.com/problems/score-of-parentheses/)
 4. [https://leetcode.com/problems/daily-temperatures/](https://leetcode.com/problems/daily-temperatures/)
 5. [https://leetcode.com/problems/validate-stack-sequences/](https://leetcode.com/problems/validate-stack-sequences/)
+
+## Further Reading
+
+1. [This](https://www.youtube.com/watch?v=k1PX5LxFfTo) is a concise, high-level overview of the stack data structure concept, methods, and use cases.
+2. [This](https://www.youtube.com/watch?v=F1F2imiOJfk) is a slightly more detailed video covering the same concepts.
+3. Read pages 108-109 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+4. [FTBC3 class video ](https://youtu.be/y---RCHCdD4?t=559)introducing Stacks.
 

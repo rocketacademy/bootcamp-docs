@@ -1,8 +1,8 @@
 # D.5.4: Queues
 
-## Introduction
-
 ![](../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
+
+## Introduction
 
 Queues are similar to stacks except instead of removing elements from the end of a list, we can only remove elements from the front of a list. Instead of push and pop operations, queues have "enqueue" and "dequeue" operations respectively. Enqueue adds an element to the back of a queue, and dequeue removes an element from the front of a queue. Queues are FIFO- First In First Out.
 
@@ -14,7 +14,7 @@ Queues are similar to stacks except instead of removing elements from the end of
 
 ## Code Example
 
-Please read and understand the queue class definition in [this](https://repl.it/@kaiyuanneo/queue-class-definition#main.py) Repl. Notice we Python's built-in `deque` data structure because it supports more efficient popping \(dequeuing\) of the left-most element than Python Lists.
+Notice we Python's built-in `deque` data structure because it supports more efficient popping \(dequeuing\) of the left-most element than Python Lists.
 
 ```python
 # We use the built-in Python deque data structure for queues.
