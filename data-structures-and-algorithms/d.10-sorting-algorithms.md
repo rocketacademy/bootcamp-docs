@@ -25,6 +25,8 @@ There is no need to memorise the below sorting algorithms' implementation. Just 
 1. `O(n^2)` time, `O(1)` space sorting algorithm
 2. [https://www.geeksforgeeks.org/bubble-sort/](https://www.geeksforgeeks.org/bubble-sort/)
 
+## Divide and Conquer
+
 ### Quick Sort
 
 1. `O(n^2)` time, `O(1)` space sorting algorithm
