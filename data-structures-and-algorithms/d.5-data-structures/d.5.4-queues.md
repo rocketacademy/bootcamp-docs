@@ -56,7 +56,7 @@ class Queue:
 
 ```
 
-## Linked List Queue
+## Linked List Queue Class
 
 From [here](https://www.geeksforgeeks.org/queue-linked-list-implementation/).
 
@@ -121,10 +121,83 @@ Please use Python's `deque` data structure to represent queues.
 
 ### Pre-Class
 
-1. [https://repl.it/@kaiyuanneo/queues\#main.py](https://repl.it/@kaiyuanneo/queues#main.py)
-   1. Solutions: [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
+```python
+# The following exercises represent a queue with a deque.
+# The start of the deque is the front of the queue.
+# We can enqueue with .append(element), and dequeue with .popleft().
+from collections import deque
 
-### Part 1
+####################
+# Pass The Bomb #
+####################
+
+# Problem statement:
+# Given a list of names and a bomb timer, return the name of the last
+# person standing. The bomb is passed around iteratively, and the bomb
+# timer decreases by 1 at each iteration. When the bomb timer reaches 0,
+# the bomb explodes and the person at the current index is eliminated.
+# After each explosion, the bomb timer is reset and the bomb starts
+# with the person at the next iteration.
+
+def play(names, timer):
+  # Convert input array to deque
+  names = deque(names)
+  pass
+
+print(play(["Ally", "Beth", "Coco", "Dede", "Elsa"], 1)) # "Coco"
+print(play(["Ally", "Beth", "Coco", "Dede", "Elsa"], 2)) # "Dede"
+print(play(["Ally", "Beth", "Coco", "Dede", "Elsa"], 3)) # "Ally"
+print(play(["Ally", "Beth", "Coco", "Dede", "Elsa"], 4)) # "Beth"
+print(play(["Ally", "Beth", "Coco", "Dede", "Elsa"], 5)) # "Dede"
+print(play(["Ally", "Beth", "Coco", "Dede", "Elsa"], 6)) # "Dede"
+```
+
+```python
+# The following exercises represent a queue with a deque.
+# The start of the deque is the front of the queue.
+# We can enqueue with .append(element), and dequeue with .popleft().
+from collections import deque
+
+######################
+# Moving Averages #
+######################
+
+# Problem statement:
+# Given a valid window size, move through the given list and
+# return a new list of moving averages. A moving average is
+# the average of all the numbers in the given window. For example,
+# for a list [1, 2, 3] and window size of 2, a resultant list
+# of moving averages would be [1.5, 2.5].
+#
+# The following examples illustrate the number of elements in the
+# resultant list.
+# 6 items, window_size=2, loop 5 times
+# 6 items, window_size=3, loop 4 times
+# 6 items, window_size=6, loop 1 time
+# 3 items, window_size=2, loop 2 times
+# 4 items, window_size=2, loop 3 times
+# 5 items, window_size=2, loop 4 times
+# N items, window_size=2, loop N-1 times
+# N items, window_size=X, loop N-(X-1) times
+
+# Helper function to calculate the mean (average) of
+# numbers in a given list.
+def mean(l):
+  return sum(l)/len(l)
+
+def moving_averages(l, window_size):
+  pass
+
+print(moving_averages([0,1,2,3,4,5], 1)) # [0.0, 1.0, 2.0, 3.0, 4.0, 5.0]
+print(moving_averages([0,1,2,3,4,5], 2)) # [0.5, 1.5, 2.5, 3.5, 4.5]
+print(moving_averages([0,1,2,3,4,5], 3)) # [1.0, 2.0, 3.0, 4.0]
+print(moving_averages([0,1,2,3,4,5], 4)) # [1.5, 2.5, 3.5]
+
+```
+
+Solutions: [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
+
+### Comfortable
 
 1. [https://leetcode.com/problems/task-scheduler/](https://leetcode.com/problems/task-scheduler/)
    1. Hint: This may be solved more efficiently without queues, but see how we can implement it with queues first.
