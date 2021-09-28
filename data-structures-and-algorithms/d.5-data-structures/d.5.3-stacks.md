@@ -26,7 +26,7 @@ A recurring example of stack data structure usage is inside the Chrome JavaScrip
 
 {% embed url="https://www.youtube.com/watch?v=W8AeMrVtFLY" %}
 
-## Code Example
+## Stack Class Example
 
 Here is an implementation of a stack class. Note the use of a list on line 10 to store the actual data.
 
@@ -100,7 +100,8 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 
 ### Pre-Class
 
-1. Reverse a string.
+1. [Reverse a string.](https://leetcode.com/problems/reverse-string/)
+   1. Only use a list, `push` and `pop`!
 2. [https://leetcode.com/problems/crawler-log-folder/](https://leetcode.com/problems/crawler-log-folder/)
    1. RA solution video: [https://youtu.be/y---RCHCdD4?t=2460](https://youtu.be/y---RCHCdD4?t=2460)
 3. [https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)

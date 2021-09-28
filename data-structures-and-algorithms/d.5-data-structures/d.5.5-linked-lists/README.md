@@ -1,5 +1,7 @@
 # D.5.5: Linked Lists
 
+![](../../../.gitbook/assets/llmeme2.jpeg)
+
 ## Introduction
 
 Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked lists may not be stored in contiguous blocks of memory in RAM. Consecutive elements in a linked list may be stored in different places in RAM, but linked by a pointer from each element in the linked list to the next and/or previous element. This means 2 things for us.
