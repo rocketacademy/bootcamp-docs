@@ -227,7 +227,7 @@ This is the same whenever we use an NPM library- the library is abstracting away
 
 ## Inheritance
 
-Inheritance is a way to refactor the code such that, instead of two classes with similar functionality, we can have one class that gets everything the base class has, but add on other logic and data. 
+Inheritance is a way to refactor the code such that, instead of two classes with similar functionality, we can have one class that gets everything the base class has, but adds on other logic and data. 
 
 ```python
 class Robot:

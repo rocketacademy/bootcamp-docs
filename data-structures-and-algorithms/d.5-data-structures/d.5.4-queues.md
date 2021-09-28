@@ -6,7 +6,9 @@
 
 Queues are similar to stacks except instead of removing elements from the end of a list, we can only remove elements from the front of a list. Instead of push and pop operations, queues have "enqueue" and "dequeue" operations respectively. Enqueue adds an element to the back of a queue, and dequeue removes an element from the front of a queue. Queues are FIFO- First In First Out.
 
-Big-O of Queues
+#### Big-O of Queues
+
+If we think of a list or, even worse, a stack, operations that affect the beginning of the data would run in at least O\(n\). Remember that in an array, removing something from the front is **O\(n\)**. We can think of a queue as a doubly linked list so that taking things off the front or the back is always **O\(1\)**. 
 
 ## Helpful Resources
 
@@ -14,7 +16,7 @@ Big-O of Queues
 2. [This](https://www.youtube.com/watch?v=Y7wZO2tMjnY) video is a more detailed introduction to queues and how to use them in Python.
 3. Read pages 109-110 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
 
-## Code Example
+## Queue Class
 
 Notice we Python's built-in `deque` data structure because it supports more efficient popping \(dequeuing\) of the left-most element than Python Lists.
 
@@ -52,6 +54,65 @@ class Queue:
     print(f"Queue contains {len(self.data)} elements")
     return len(self.data)
 
+```
+
+## Linked List Queue
+
+From [here](https://www.geeksforgeeks.org/queue-linked-list-implementation/).
+
+```python
+class Node:
+     
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+ 
+# A class to represent a queue
+ 
+# The queue, front stores the front node
+# of LL and rear stores the last node of LL
+class Queue:
+     
+    def __init__(self):
+        self.front = self.rear = None
+ 
+    def isEmpty(self):
+        return self.front == None
+     
+    # Method to add an item to the queue
+    def EnQueue(self, item):
+        temp = Node(item)
+         
+        if self.rear == None:
+            self.front = self.rear = temp
+            return
+        self.rear.next = temp
+        self.rear = temp
+ 
+    # Method to remove an item from queue
+    def DeQueue(self):
+         
+        if self.isEmpty():
+            return
+        temp = self.front
+        self.front = temp.next
+ 
+        if(self.front == None):
+            self.rear = None
+ 
+# Driver Code
+if __name__== '__main__':
+    q = Queue()
+    q.EnQueue(10)
+    q.EnQueue(20)
+    q.DeQueue()
+    q.DeQueue()
+    q.EnQueue(30)
+    q.EnQueue(40)
+    q.EnQueue(50)
+    q.DeQueue()  
+    print("Queue Front " + str(q.front.data))
+    print("Queue Rear " + str(q.rear.data))
 ```
 
 ## Exercises
