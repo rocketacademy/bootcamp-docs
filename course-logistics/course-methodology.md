@@ -102,6 +102,10 @@ Students present projects in class on the last day of each project. Presentation
 
 After each project an instructor will review your code with you 1-1. Please prepare answers to the following questions before the 1-1, and be prepared to discuss your code that relates to each answer.
 
+{% hint style="info" %}
+Please keep track of post-mortem notes because they can be helpful for compiling your project portfolio at the end of the course!
+{% endhint %}
+
 ### Technical Review
 
 "Technical" refers to software logic and syntax.
