@@ -1,10 +1,14 @@
 # 9.1: Testing
 
+## Introduction
+
 ![](../../.gitbook/assets/1_ah_ifsvi0ci5p5guu1x1cq.jpeg)
 
 Testing generally describes an automated system that guards against bugs in an application by defining _**test cases-**_ behaviour and values that are expected from an application given a well-defined input.
 
 There are many systems and methodologies to define the inputs and the system, we will be mostly focusing around unit tests, which are the most low level. Unit tests work with some well-defined module within the code that can be written and tested in isolation from the rest of the system.
+
+The following are the 3 most common categories of tests.
 
 1. Unit tests: Testing individual or small groups of functions
 2. Integration tests: Testing API contracts
