@@ -6,7 +6,11 @@ Testing generally describes an automated system that guards against bugs in an a
 
 There are many systems and methodologies to define the inputs and the system, we will be mostly focusing around unit tests, which are the most low level. Unit tests work with some well-defined module within the code that can be written and tested in isolation from the rest of the system.
 
-## Testing in the Real World
+1. Unit tests: Testing individual or small groups of functions
+2. Integration tests: Testing API contracts
+3. End-to-end tests: Replicating the user experience
+
+## Testing in Industry
 
 Testing as part of a company's normal development workflow is a defacto standard in the industry. It is considered a best-practice to have at least some testing \([like a smoke test](https://en.wikipedia.org/wiki/Smoke_testing_%28software%29)\) in place in most web applications so that new bugs are not introduced and that old features don't break. \(It is not necessarily a standard in other industries/fields such as computer graphics, mobile applications or Machine Learning\).
 
@@ -162,19 +166,14 @@ Expect is the code that actually evaluates that a result is correct. In this cas
 
 ## Further Reading
 
-[Mocha website.](https://mochajs.org/)
-
-[Chai documentation.](https://www.chaijs.com/api/bdd/)
-
-[Mocha & Chai tutorial.](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
+1. [Mocha website](https://mochajs.org/)
+2. [Chai documentation](https://www.chaijs.com/api/bdd/)
+3. [Mocha & Chai tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 
 ## Exercises
 
-Run the above code.
-
-Run the test to see the output.
-
-Break the test on purpose to see what a failing test looks like.
-
-Add a `multiply` function to the calculator and write a test for it.
+1. Run the above code
+2. Run the test to see the output
+3. Break the test on purpose to see what a failing test looks like
+4. Add a `multiply` function to the calculator and write a test for it
 
