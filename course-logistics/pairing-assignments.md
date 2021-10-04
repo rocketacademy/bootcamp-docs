@@ -20,14 +20,14 @@ Formation calculation: \(\(\(Week\# \* 5\) + Day\#\) % 3\) + 1
 
 **Chuan Xin, Shen Nan**
 
-**Jia En, Tinaes**
+**Jia En**
 
 **Tong Huat, Justin**  
 
 
 **2**
 
-**Tinaes, Chuan Xin**
+**Chuan Xin**
 
 **Shen Nan, Justin**
 
@@ -38,7 +38,7 @@ Formation calculation: \(\(\(Week\# \* 5\) + Day\#\) % 3\) + 1
 
 **Chuan Xin, Justin**
 
-**Tinaes, Tong Huat**
+**Tong Huat**
 
 **Shen Nan, Jia En**  
 
@@ -49,7 +49,7 @@ Formation calculation: \(\(\(Week\# \* 5\) + Day\#\) % 3\) + 1
 
 **Justin, Jia En**
 
-**Tinaes, Shen Nan**  
+**Shen Nan**  
 
 
 **5**
@@ -58,7 +58,7 @@ Formation calculation: \(\(\(Week\# \* 5\) + Day\#\) % 3\) + 1
 
 **Tong Huat, Shen Nan**
 
-**Justin, Tinaes**
+**Justin**
 
 ### Formation Calculation Code
 
@@ -113,9 +113,7 @@ console.log( formationNumber );
 
 **1**
 
-**Zack**
-
-**CK, Vincent Moh**
+**Zack, CK**
 
 **Diyana Ramlan, Zaver**
 
@@ -124,8 +122,6 @@ console.log( formationNumber );
 **Graham James Lim, Jia Yi**
 
 **2**
-
-**Vincent Moh**
 
 **Zack, Zaver**
 
@@ -137,9 +133,7 @@ console.log( formationNumber );
 
 **3**
 
-**Zaver**
-
-**Vincent Moh, Kimmi Lee**
+**Zaver, Kimmi Lee**
 
 **Zack, Jia Yi**
 
@@ -149,11 +143,9 @@ console.log( formationNumber );
 
 **4**
 
-**Kimmi Lee**
+**Kimmi Lee, Graham James Lim**
 
 **Zaver, Jia Yi**
-
-**Vincent Moh, Graham James Lim**
 
 **Zack, Eric Foo**
 
@@ -161,19 +153,17 @@ console.log( formationNumber );
 
 **5**
 
-**Jia Yi**
+**Jia Yi, Diyana Ramlan**
 
 **Kimmi Lee, Graham James Lim**
 
 **Zaver, Eric Foo**
 
-**Vincent Moh, Diyana Ramlan**
-
 **Zack, CK**
 
 **6**
 
-**Graham James Lim**
+**Graham James Lim, Zack**
 
 **Jia Yi, Eric Foo**
 
@@ -181,11 +171,9 @@ console.log( formationNumber );
 
 **Zaver, CK**
 
-**Vincent Moh, Zack**
-
 **7**
 
-**Eric Foo**
+**Eric Foo, Zaver**
 
 **Graham James Lim, Diyana Ramlan**
 
@@ -193,27 +181,25 @@ console.log( formationNumber );
 
 **Kimmi Lee, Zack**
 
-**Zaver, Vincent Moh**
+\*\*\*\*
 
 **8**
 
-**Diyana Ramlan**
+**Diyana Ramlan, Jia Yi**
 
 **Eric Foo, CK**
 
 **Graham James Lim, Zack**
 
-**Jia Yi, Vincent Moh**
+\*\*\*\*
 
 **Kimmi Lee, Zaver**
 
 **9**
 
-**CK**
+**CK, Eric Foo**
 
 **Diyana Ramlan, Zack**
-
-**Eric Foo, Vincent Moh**
 
 **Graham James Lim, Zaver**
 
@@ -255,7 +241,7 @@ function getWeekNumber(d) {
     return weekNo;
 }
 
-var formationCount = 9;
+var formationCount = 8;
 
 var daysInAWeek = 5; 
 
