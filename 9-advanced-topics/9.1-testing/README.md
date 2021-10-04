@@ -1,8 +1,8 @@
 # 9.1: Testing
 
-## Introduction
+![](../../.gitbook/assets/darth-test.jpeg)
 
-![](../../.gitbook/assets/1_ah_ifsvi0ci5p5guu1x1cq.jpeg)
+## Introduction
 
 Testing generally describes an automated system that guards against bugs in an application by defining _**test cases-**_ behaviour and values that are expected from an application given a well-defined input.
 
@@ -19,6 +19,14 @@ The following are the 3 most common categories of tests.
 Testing as part of a company's normal development workflow is a defacto standard in the industry. It is considered a best-practice to have at least some testing \([like a smoke test](https://en.wikipedia.org/wiki/Smoke_testing_%28software%29)\) in place in most web applications so that new bugs are not introduced and that old features don't break. \(It is not necessarily a standard in other industries/fields such as computer graphics, mobile applications or Machine Learning\).
 
 A standard workflow setup is to run testing as part of a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) system, a system that runs tests and deploys the application automatically or at the click of a single button.
+
+![](../../.gitbook/assets/agile-test-pyramid.png)
+
+{% hint style="info" %}
+_Brittle_ in this case refers to the idea that if you add any kind of code to a project it will have errors and need to be maintained. Unit tests run against some underlying logic of the app and so are less likely to need to change. Automatic tests need to be updated in many more situations, such as CSS changes \(because the automation needs to know where to click\) that are not related to the core app logic.
+
+It is generally agreed that the volume of tests should be weighted towards easy-to-maintain unit tests.
+{% endhint %}
 
 ## Javascript Unit Testing
 
