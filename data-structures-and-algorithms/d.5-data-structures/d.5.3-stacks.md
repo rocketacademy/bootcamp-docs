@@ -8,7 +8,9 @@ SImilar to hash tables, we are going to be employing the concept of a stack data
 
 #### History of Stacks
 
-When the first computer was invented on paper by Alan Turing, the first in, last out behaviour of storing data was one of the mechanisms that was theorized to be needed in order to create a real-world computer. Stacks are therefore one of the first and simplest data structures to be discussed in the context of computer science. Data access with LIFO behaviour is something that naturally shows up in many fundamental places in computer science as we'll also see in function call stacks below. In our modern context it may not make sense to strictly define a list-like data structure with less features than an actual Python list, but because the LIFO behaviour is a key concept in computer science we consider a Stack as distinct from an array.
+When the first computer was invented on paper by Alan Turing, the first in, last out behaviour of storing data was one of the mechanisms that was theorized to be needed in order to create a computer. Stacks are therefore one of the first and simplest data structures to be discussed in the context of computer science. Data access with LIFO behaviour is something that naturally shows up in many fundamental places in computer science as we'll also see in function call stacks below. In our modern context it may not make sense to strictly define a list-like data structure with less features than an actual Python list, but because the LIFO behaviour is a key concept in computer science we consider a Stack as distinct from an array.
+
+Within this historical context, arrays can do everything a list can do, but stacks cannot do everything an array can do, since they were invented/implemented before arrays.
 
 #### Big-O of Stacks
 
@@ -28,7 +30,7 @@ A recurring example of stack data structure usage is inside the Chrome JavaScrip
 
 ## Stack Class Example
 
-Here is an implementation of a stack class. Note the use of a list on line 10 to store the actual data.
+To be complete this is an implementation of a stack data structure that defines only the stack methods- `push`, `pop`, `peek` and `size`. Note the use of a list on line 10 to store the actual data.
 
 ```python
 class Stack:
@@ -133,4 +135,8 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 2. [This](https://www.youtube.com/watch?v=F1F2imiOJfk) is a slightly more detailed video covering the same concepts.
 3. Read pages 108-109 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
 4. [FTBC3 class video ](https://youtu.be/y---RCHCdD4?t=559)introducing Stacks.
+
+#### Pushdown Automata
+
+Turing's theoretical computers used stacks as part of it's basic behaviours. See more about them here: [https://en.wikipedia.org/wiki/Pushdown\_automaton](https://en.wikipedia.org/wiki/Pushdown_automaton)
 
