@@ -4,16 +4,6 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 # Pairing Assignments
 
-## FTBC3 \(Apr-Sep 2021\)
-
-Formation calculation: \(\(\(Week\# \* 5\) + Day\#\) % 3\) + 1
-
-| Formation | Pair 1 | Pair 2 |
-| :--- | :--- | :--- |
-| 1 | Jo Porter | Sam Effy |
-| 2 | Jo Sam | Porter Effy |
-| 3 | Jo Effy | Sam Porter |
-
 ## FTBC4 \(Jul-Dec 2021\)
 
 **1**
@@ -109,6 +99,16 @@ var formationNumber = ((weekNum * daysInAWeek + ordinalDayOfWeek) % formationCou
 console.log( formationNumber );
 ```
 
+## FTBC5
+
+### Section 1 \(Michelle\)
+
+Ben, Bryan, David, FrankieT, HP, Joseph, Shannon
+
+### Section 2 \(Foong\)
+
+BW, FrankieN, Dom, Gary, JH, Justus, Tristan
+
 ## PTBC1
 
 **1**
@@ -121,6 +121,8 @@ console.log( formationNumber );
 
 **Graham James Lim, Jia Yi**
 
+\*\*\*\*
+
 **2**
 
 **Zack, Zaver**
@@ -130,6 +132,8 @@ console.log( formationNumber );
 **Diyana Ramlan, Jia Yi**
 
 **Eric Foo, Graham James Lim**
+
+\*\*\*\*
 
 **3**
 
@@ -141,6 +145,8 @@ console.log( formationNumber );
 
 **Diyana Ramlan, Eric Foo**
 
+\*\*\*\*
+
 **4**
 
 **Kimmi Lee, Graham James Lim**
@@ -150,6 +156,8 @@ console.log( formationNumber );
 **Zack, Eric Foo**
 
 **CK, Diyana Ramlan**
+
+\*\*\*\*
 
 **5**
 
@@ -161,6 +169,8 @@ console.log( formationNumber );
 
 **Zack, CK**
 
+\*\*\*\*
+
 **6**
 
 **Graham James Lim, Zack**
@@ -170,6 +180,8 @@ console.log( formationNumber );
 **Kimmi Lee, Diyana Ramlan**
 
 **Zaver, CK**
+
+\*\*\*\*
 
 **7**
 
@@ -191,9 +203,9 @@ console.log( formationNumber );
 
 **Graham James Lim, Zack**
 
-\*\*\*\*
-
 **Kimmi Lee, Zaver**
+
+\*\*\*\*
 
 **9**
 
