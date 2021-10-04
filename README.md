@@ -48,10 +48,7 @@ Coding bootcamp's syllabus is divided into 10 modules \(listed in the table belo
 
 ## Schedule
 
-Students are expected to spend a minimum of 8 hours a day \(ideally from 10am - 6pm\), every weekday, on coursework. This includes the 2 hours set aside for live sessions. Time slots for these live sessions depend on the  your class's batch number. 
-
-* Odd batch numbers \(e.g, 1, 3 , 5\): 10am -12pm
-* Even batch numbers \(e.g, 2, 4, 6\): 1pm - 3pm
+Students are expected to spend a minimum of 8 hours a day \(ideally from 10am-6pm\) on weekdays on coursework. This includes the 2 hours set aside for live sessions from 10am-12pm.
 
 Our schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1.1 to 23.5. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
 
