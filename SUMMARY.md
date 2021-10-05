@@ -9,7 +9,7 @@
 ## 🛠 Course Logistics
 
 * [Pairing Assignments](course-logistics/pairing-assignments.md)
-* [RA Q&A](course-logistics/ra-q-and-a-schedule.md)
+* [RA Q&A](course-logistics/ra-q-and-a.md)
 * [Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
