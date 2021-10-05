@@ -1,6 +1,8 @@
 # LinkedIn Education Badge
 
-Coding Bootcamp students can add Rocket Academy to the Education sections of their LinkedIn profiles. Here are instructions.
+## Introduction
+
+Software Engineering Bootcamp students can add Rocket Academy to the Education sections of their LinkedIn profiles. Here are instructions.
 
 ## 1. Go to your LinkedIn profile page and click "**Add profile section"**
 
@@ -12,29 +14,27 @@ Coding Bootcamp students can add Rocket Academy to the Education sections of the
 
 ## 3. Fill in RA's Coding Bootcamp course details
 
-1. School
-   1. Rocket Academy
-2. Degree
-   1. Coding Bootcamp
-3. Field of study
-   1. Full-Stack Software Engineering
-4. Start Year
-   1. The year you enrolled in RA's Bootcamp
-5. End Year
-   1. The year you graduated from RA's Bootcamp
-6. Description
-   1. 6-month full-time coding bootcamp covering frontend, backend, cloud infrastructure, data structures and algorithms. See my portfolio here: &lt;INSERT-MY-PORTFOLIO-LINK&gt;
-   2. Feel free to customise this as you wish :\)
-7. Share with network
+1. Notify network
    1. On
+2. School
+   1. Rocket Academy
+3. Degree
+   1. Software Engineering Bootcamp
+4. Field of study
+   1. Full-Stack Software Engineering and Algorithms
+5. Start Date
+   1. The month you enrolled in RA's Bootcamp
+6. End Date
+   1. The month you graduated from RA's Bootcamp
+7. Description
+   1. 6-month full-time / 12-month part-time coding bootcamp covering frontend, backend, cloud infrastructure and algorithms. See my portfolio here: &lt;INSERT-MY-PORTFOLIO-LINK&gt;
+   2. Feel free to customise this as you wish :\)
 
-![](../.gitbook/assets/jie-ping-20210401-12.53.40.png)
-
-![](../.gitbook/assets/jie-ping-20210401-12.53.49.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## 4. Admire your hard-earned education badge 🚀
 
 If needed, drag the new education badge to the top of your Education section by hovering over the batch and dragging the hamburger icon on the right of the badge.
 
-![](../.gitbook/assets/jie-ping-20210401-12.54.21.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
