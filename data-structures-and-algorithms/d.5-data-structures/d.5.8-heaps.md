@@ -75,3 +75,5 @@ Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.
 
 [https://stackoverflow.com/questions/4495990/how-to-implement-a-memory-heap](https://stackoverflow.com/questions/4495990/how-to-implement-a-memory-heap)
 
+[https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+
