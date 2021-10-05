@@ -1,14 +1,16 @@
 ---
-description: Source of truth for upcoming RA Q&A sessions.
+description: >-
+  Weekly Q&A sessions for students to get exposure and engineers and companies
+  to share their experience and culture.
 ---
 
-# RA Q&A Schedule
+# RA Q&A
 
 ## Introduction
 
-Rocket Academy Q&A is a weekly live Q&A session where we invite software engineers from the industry to share their experience with our students.
+Rocket Academy Q&A is a weekly live Q&A session where we invite software engineers from industry to share their experience with our students.
 
-Please mark your calendars! RA Q&A is mandatory for all Coding Bootcamp students. Please message Kai if you have any suggestions for speakers or ways we can improve RA Q&A. The Zoom link for these sessions can be found in Slack. Thank you!
+Please mark your calendars! RA Q&A is mandatory for all Bootcamp students. Please message Kai if you have suggestions for speakers or ways to improve RA Q&A. Please find session Zoom links in Slack. Thank you!
 
 ## Schedule
 
