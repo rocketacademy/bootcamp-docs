@@ -71,3 +71,7 @@ Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.
 1. [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 2. [https://leetcode.com/problems/top-k-frequent-words/](https://leetcode.com/problems/top-k-frequent-words/)
 
+## Further Reading
+
+[https://stackoverflow.com/questions/4495990/how-to-implement-a-memory-heap](https://stackoverflow.com/questions/4495990/how-to-implement-a-memory-heap)
+
