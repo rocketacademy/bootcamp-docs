@@ -4,19 +4,15 @@ description: Singapore's Best Coding Bootcamp
 
 # Overview
 
-## Welcome to Coding Bootcamp!
+## Welcome to Software Engineering Bootcamp!
 
-Coding Bootcamp is Rocket Academy's flagship career conversion course. It builds on material taught in [Coding Basics](https://basics.rocketacademy.co). On successful completion of Coding Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203_890e2dab19_b-811x900.jpg).
+Software Engineering Bootcamp is Rocket Academy's flagship career conversion course. It builds on material taught in [Coding Basics](https://basics.rocketacademy.co). On successful completion of Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203_890e2dab19_b-811x900.jpg).
 
-{% hint style="info" %}
-### Current Batch Schedules
+## Current Batch Schedules
 
-[Full Time Batch 4](https://rocketacademy.github.io/scheduler/#/schedules/ftbc4)
-
-[Full Time Batch 5](https://rocketacademy.github.io/scheduler/#/schedules/ftbc5)
-
-[Part Time Batch 1](https://rocketacademy.github.io/scheduler/#/schedules/ptbc1)
-{% endhint %}
+1. [Full Time Batch 4](https://rocketacademy.github.io/scheduler/#/schedules/ftbc4)
+2. [Full Time Batch 5](https://rocketacademy.github.io/scheduler/#/schedules/ftbc5)
+3. [Part Time Batch 1](https://rocketacademy.github.io/scheduler/#/schedules/ptbc1)
 
 ## Syllabus
 
