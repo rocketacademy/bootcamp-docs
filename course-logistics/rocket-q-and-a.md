@@ -4,7 +4,7 @@ description: >-
   to share their experience and culture.
 ---
 
-# RA Q&A
+# Rocket Q&A
 
 ## Introduction
 
