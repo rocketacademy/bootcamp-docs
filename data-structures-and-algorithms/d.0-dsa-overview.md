@@ -8,5 +8,8 @@ During the 2nd half of Coding Bootcamp we will learn the concepts behind and dri
 
 ## Resources
 
+1. How to Prepare for Software Engineering Interviews: [https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview)
+2. Cracking the Coding Interview \(file below\)
+
 {% file src="../.gitbook/assets/cracking-the-coding-interview-6th-edition-189-programming-questions-and-solutions.pdf" caption="Cracking the Coding Interview" %}
 
