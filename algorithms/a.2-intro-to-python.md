@@ -1,4 +1,4 @@
-# D.2: Intro to Python
+# A.2: Intro to Python
 
 ![python meme](../.gitbook/assets/python-meme.jpeg)
 

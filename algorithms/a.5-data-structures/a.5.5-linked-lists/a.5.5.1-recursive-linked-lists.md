@@ -1,4 +1,4 @@
-# D.5.5.1: Recursive Linked Lists
+# A.5.5.1: Recursive Linked Lists
 
 [https://www.geeksforgeeks.org/recursive-insertion-and-traversal-linked-list/](https://www.geeksforgeeks.org/recursive-insertion-and-traversal-linked-list/)
 

@@ -1,4 +1,4 @@
-# D.5.8: Heaps
+# A.5.8: Heaps
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Heap is a data structure that is useful for keeping track of the minimum or maxi
 
 ## Helpful Resources
 
-1. Read pages 115-116 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+1. Read pages 115-116 in the [Cracking the Coding Interview PDF](../a.0-algorithms-overview.md#resources).
 2. Watch Heap Intro Part 1 \(heap structure, how to add element to heap\) video [here](https://www.youtube.com/watch?v=c1TpLRyQJ4w).
    1. Watch Heap Intro Part 2 \(how to remove element from heap\) video [here](https://www.youtube.com/watch?v=ijfPvX2qYOQ&t=0s).
    2. Watch Heap Intro Part 3 \(how to represent heap as array\) video [here](https://www.youtube.com/watch?v=fJORlbOGm9Y&t=0s).
@@ -36,7 +36,7 @@ In summary, we should remember 3 primary operations of heaps, and how heap sort 
 
 ## Sorting Algorithms
 
-In [D.7](../d.10-sorting-algorithms.md) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
+In [D.7](../a.10-sorting-algorithms.md) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
 
 ### Heap Sort
 

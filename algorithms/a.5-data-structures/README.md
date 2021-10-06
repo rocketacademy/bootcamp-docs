@@ -1,4 +1,4 @@
-# D.5: Data Structures
+# A.5: Data Structures
 
 We've already been using data structures to represent our data. We've used such structures as: the hash map, which is called an object in JavaScript and a dictionary in Python.
 

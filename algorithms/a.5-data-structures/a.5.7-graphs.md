@@ -1,4 +1,4 @@
-# D.5.7: Graphs
+# A.5.7: Graphs
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Unlike trees, where the edges are stored inside node objects in the form of chil
 
 1. See [this video](https://www.youtube.com/watch?v=gXgEDyodOJU) for an intuitive introduction to graphs in computer science.
 2. See [this video](https://www.youtube.com/watch?v=iv5DcAi411I) for examples of practical applications of graphs.
-3. Read pages 117-121 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+3. Read pages 117-121 in the [Cracking the Coding Interview PDF](../a.0-algorithms-overview.md#resources).
 4. [FTBC3 class introducing Graphs](https://youtu.be/1xDBSlnUiUE?t=893)
 
 ## Exercises

@@ -1,11 +1,11 @@
-# D.12: Bit Manipulation
+# A.12: Bit Manipulation
 
 ## Introduction
 
 Bit manipulation is commonly taught in core computer science courses to help students understand how numbers are represented and manipulated by computers. Some companies use bit manipulation in their interview processes.
 
 1. Please read about the 6 main bitwise operators `&`, `|`, `~`, `^`, `<<`, and `>>` [here](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301). These operators can be used in Python to perform bitwise operations.
-2. Please read pages 124-128 on Bit Manipulation in [CTCI](d.0-dsa-overview.md#resources).
+2. Please read pages 124-128 on Bit Manipulation in [CTCI](a.0-algorithms-overview.md#resources).
 
 ## Use Case: Hamming Codes
 

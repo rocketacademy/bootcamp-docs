@@ -1,4 +1,4 @@
-# D.11: Dynamic Programming
+# A.11: Dynamic Programming
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 ## Helpful Resources
 
-1. Read pages 143-148 in [CTCI](d.0-dsa-overview.md#resources) on DP
+1. Read pages 143-148 in [CTCI](a.0-algorithms-overview.md#resources) on DP
 2. [This](https://www.youtube.com/watch?v=vYquumk4nWw) video illustrates 2 fundamental examples of dynamic programming with the Fibonacci sequence.
 3. [This](https://awjin.me/algos-js/dp/tab-memo.html) article describes the differences between memoisation and tabulation methods of DP. Memoisation will be sufficient for a majority of DP problems.
 

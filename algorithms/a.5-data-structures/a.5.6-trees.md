@@ -1,4 +1,4 @@
-# D.5.6: Trees
+# A.5.6: Trees
 
 ## Introduction
 
@@ -7,7 +7,7 @@ Trees are a common data structure used to represent hierarchical data, often see
 ## Helpful Resources
 
 1. [This](https://www.youtube.com/watch?v=qH6yxkw0u78) video is a clear and concise intro to basic concepts regarding trees.
-2. Read pages 112-115 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+2. Read pages 112-115 in the [Cracking the Coding Interview PDF](../a.0-algorithms-overview.md#resources).
 3. [FTBC3's class video](https://youtu.be/3Dw3spVIk1w?t=297) when we introduced trees.
 
 ## Tree Traversals
@@ -39,7 +39,7 @@ Certain tree problems are better solved if we can manipulate the order in which 
 
 #### **Pre-Order Traversal**
 
-**Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree \(described below\)](d.5.6-trees.md#binary-search-trees).
+**Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree \(described below\)](a.5.6-trees.md#binary-search-trees).
 
 1. Parent
 2. Left Child
@@ -61,7 +61,7 @@ def pre_order_traversal(node):
 
 #### In-Order Traversal
 
-**In-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as printing the values in a [binary search tree](d.5.6-trees.md#binary-search-trees) in ascending order.
+**In-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as printing the values in a [binary search tree](a.5.6-trees.md#binary-search-trees) in ascending order.
 
 1. Left Child
 2. Parent
@@ -183,7 +183,7 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 
 ### Part 3
 
-See [Pre-Order, In-Order, and Post-Order section](d.5.6-trees.md#pre-order-in-order-and-post-order-traversal) above for a recap on the various traversal orderings. For non-binary trees that can have more than 2 children, when we iterate through an array of children we are typically iterating from left to right children.
+See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-order-and-post-order-traversal) above for a recap on the various traversal orderings. For non-binary trees that can have more than 2 children, when we iterate through an array of children we are typically iterating from left to right children.
 
 1. [https://leetcode.com/problems/n-ary-tree-postorder-traversal/](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 2. [https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)

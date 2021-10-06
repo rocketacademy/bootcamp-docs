@@ -16,20 +16,20 @@ Software Engineering Bootcamp is Rocket Academy's flagship career conversion cou
 
 ## Syllabus
 
-Coding bootcamp's syllabus is divided into 10 modules \(listed in the table below\). Each module covers a key topic in software engineering that is highly relevant in today's industry. Our course schedules and content are subject to minor alterations as we strive to fulfil the changing needs of our students and the industry.
+Rocket's Bootcamp syllabus is divided into 10 modules \(listed in the table below\). Each module covers key topics in software engineering that are highly relevant in today's industry. Our course schedules and content are subject to minor alterations as we strive to fulfil the changing needs of our students and the industry.
 
 | Module | Weeks | Name | Topics | Stack |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 1-2 | [Front-End Basics](1-frontend-basics/1.0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Front End |
-| 2 | 3-4 | [Back-End Basics](2-backend-basics/2.0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Back End |
-| 3 | 4-8 | [Back-End Application](3-backend-applications/3.0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Back End |
-| 4 | 9 | [Back-End Structure](4-backend-structure/4.0-module-4-overview.md) | ORM, Sequelize, MVC | Back End |
+| 1 | 1-2 | [Frontend Basics](1-frontend-basics/1.0-module-1-overview.md) | HTML, CSS, Intermediate JavaScript, ES6 | Frontend |
+| 2 | 3-4 | [Backend Basics](2-backend-basics/2.0-module-2-overview.md) | Node.js, HTTP, File Servers, Command Line Programs | Backend |
+| 3 | 4-8 | [Backend Application](3-backend-applications/3.0-module-3-overview.md) | Web Application Servers, SQL Databases, Authentication | Backend |
+| 4 | 9 | [Backend Structure](4-backend-structure/4.0-module-4-overview.md) | ORM, Sequelize, MVC | Backend |
 | 5 | 10 | [Full-Stack Application](4-backend-structure/4.0-module-4-overview.md) | AJAX, APIs | Full Stack |
-| 6 | 11-12 | [Front-End Infrastructure](6-frontend-infrastructure/6.0-module-6-overview.md) | Webpack | Front End |
-| 7 | 13-16 | [React](5-full-stack-applications/5.0-module-5-overview.md) | React | Front End |
-| 8 | 17-20 | [Advanced React, Advanced Full Stack](6-frontend-infrastructure/6.0-module-6-overview.md) | React Context, Suspense, Create React App | Full Stack |
-| 9 | 21-24 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Testing, Sockets, GraphQL, Mobile, Data Science | Full Stack |
-| D | 1-24 | [Data Structures and Algorithms](data-structures-and-algorithms/d.0-dsa-overview.md) | Complexity Analysis, Recursion, Arrays, Stacks, Queues, OOP, Linked Lists, Trees, Graphs, Hash Tables, Heaps | N/A |
+| 6 | 11-12 | [Frontend Infrastructure](6-frontend-infrastructure/6.0-module-6-overview.md) | Webpack | Frontend |
+| 7 | 13-16 | [React](5-full-stack-applications/5.0-module-5-overview.md) | React | Frontend |
+| 8 | 17-20 | [Advanced React, Advanced Full Stack](6-frontend-infrastructure/6.0-module-6-overview.md) | Create React App, React Context, React Router | Full Stack |
+| 9 | 21-24 | [Advanced Topics in SWE](7-react/7.0-module-7-overview.md) | Testing, Security, Mobile, Data Science | Full Stack |
+| A | 10-24 | [Algorithms](algorithms/a.0-algorithms-overview.md) | Complexity Analysis, Arrays, Hash Tables, Stacks, Queues, OOP, Linked Lists, Recursion, Trees, Graphs, Heaps, Dynamic Programming | N/A |
 
 ## Projects
 
@@ -44,7 +44,7 @@ Coding bootcamp's syllabus is divided into 10 modules \(listed in the table belo
 
 ## Schedule
 
-Students are expected to spend a minimum of 8 hours a day \(ideally from 10am-6pm\) on weekdays on coursework. This includes the 2 hours set aside for live sessions from 10am-12pm.
+Students are expected to spend a minimum of 8 hours a day \(ideally from 10am-6pm\) on weekdays on coursework. This includes the 2 hours of live sessions from 10am-12pm GMT+8 and the 1 hour of [Rocket Q&A](course-logistics/ra-q-and-a.md) typically from 12-1pm GMT+8 on Wednesdays.
 
 Our schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1.1 to 23.5. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
 

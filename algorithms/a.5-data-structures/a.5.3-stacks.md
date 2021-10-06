@@ -1,4 +1,4 @@
-# D.5.3: Stacks
+# A.5.3: Stacks
 
 ![stack meme](../../.gitbook/assets/stack_meme.jpeg)
 
@@ -133,7 +133,7 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 
 1. [This](https://www.youtube.com/watch?v=k1PX5LxFfTo) is a concise, high-level overview of the stack data structure concept, methods, and use cases.
 2. [This](https://www.youtube.com/watch?v=F1F2imiOJfk) is a slightly more detailed video covering the same concepts.
-3. Read pages 108-109 in the [Cracking the Coding Interview PDF](../d.0-dsa-overview.md#resources).
+3. Read pages 108-109 in the [Cracking the Coding Interview PDF](../a.0-algorithms-overview.md#resources).
 4. [FTBC3 class video ](https://youtu.be/y---RCHCdD4?t=559)introducing Stacks.
 
 #### Pushdown Automata

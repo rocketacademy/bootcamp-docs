@@ -96,7 +96,7 @@ a[-3::-1]  # everything except the last two items, reversed
 
 ## Introduction to Leetcode
 
-Leetcode problems are encapsulated in classes. We will learn more about classes in [D.6: Object-Oriented Programming](../data-structures-and-algorithms/d.8-intro-to-object-oriented-programming.md), but without going into too much detail here, the following are what we need to know to solve and submit problems in Leetcode.
+Leetcode problems are encapsulated in classes. We will learn more about classes in [D.6: Object-Oriented Programming](../algorithms/a.8-intro-to-object-oriented-programming.md), but without going into too much detail here, the following are what we need to know to solve and submit problems in Leetcode.
 
 1. Every method inside a Python class requires `self` as the 1st parameter in the method definition, so that the method has access to other attributes and methods within the class instance via `self`.
 2. To call Python class methods \(i.e. methods inside the class\), we will need to prefix the method name with `self.`, for example `self.myMethodName()`. There is no need to pass `self` as the 1st parameter to class methods, even though `self` is the 1st param in the method definition.

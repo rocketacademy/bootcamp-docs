@@ -1,4 +1,4 @@
-# D.7: Sliding Windows
+# A.7: Sliding Windows
 
 ![sliding windows](../.gitbook/assets/sliding-windows.gif)
 

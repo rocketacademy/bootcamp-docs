@@ -1,4 +1,4 @@
-# D.5.2: Hash Tables
+# A.5.2: Hash Tables
 
 ![hash browns](../../../.gitbook/assets/hashbrowns.png)
 
