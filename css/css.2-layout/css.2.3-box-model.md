@@ -120,3 +120,5 @@ With the box-sizing style we can set the dimension to include padding. This code
 
 See more about box sizing here: [https://css-tricks.com/box-sizing/](https://css-tricks.com/box-sizing/)
 
+Video on box sizing: [https://www.youtube.com/watch?v=dLGr1Qb2nKc](https://www.youtube.com/watch?v=dLGr1Qb2nKc)
+

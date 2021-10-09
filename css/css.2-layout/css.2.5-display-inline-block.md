@@ -46,5 +46,7 @@ body{
 
 When using `inline-block`, whitespace in the HTML can affect the spacing of elements.
 
-[https://patrickbrosset.medium.com/when-does-white-space-matter-in-html-b90e8a7cdd33](https://patrickbrosset.medium.com/when-does-white-space-matter-in-html-b90e8a7cdd33)
+{% embed url="https://patrickbrosset.medium.com/when-does-white-space-matter-in-html-b90e8a7cdd33" %}
+
+Video on block, inline-block \(also includes position fixed and absolute\): [https://www.youtube.com/watch?v=x\_i2gga-sYg](https://www.youtube.com/watch?v=x_i2gga-sYg)
 

@@ -32,3 +32,5 @@ One of best features of flexbox is it's ability to distribute boxes across the a
 Don't worry too much about the end sections of the exercise. We won't be using things like `order` very often.
 {% endhint %}
 
+Game that teaches flexbox: [https://geddski.teachable.com/p/flexbox-zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
