@@ -2,7 +2,13 @@
 
 ## Introduction
 
-Binary search allows us to search a sorted array for a target number in O\(log\(n\)\) time. This is faster than linear search, which runs in O\(n\) time. Note that we can only apply binary search on sorted arrays; it does not work on unsorted arrays.
+Binary search allows us to search a sorted array for a target number in O(log(n)) time. This is faster than linear search, which runs in O(n) time. Note that we can only apply binary search on sorted arrays; it does not work on unsorted arrays.
+
+{% embed url="https://www.youtube.com/watch?v=T2sFYY-fT5o" %}
+
+{% embed url="https://www.youtube.com/watch?v=6ysjqCUv3K4" %}
+
+## Example Code
 
 Consider the following canonical binary search implementation.
 
@@ -27,6 +33,9 @@ def binarySearch(arr, x):
       right_index = mid_index - 1
   # If x is not found, return -1
   return -1
+  
+mylist = [2,3,4,5,6,7,8,9,10,11,12]  
+result = binarySearch(my_list, 6)  # 4
 ```
 
 ## Exercises
@@ -50,6 +59,13 @@ def binarySearch(arr, x):
 
 1. [https://leetcode.com/problems/valid-perfect-square/](https://leetcode.com/problems/valid-perfect-square/)
    1. Hint: Can we use binary search to find the factor of this number if it were a perfect square?
-2. \[Requires Heaps\] [https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+2. \[Requires Heaps] [https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
    1. Hint: Heaps may be helpful. Consider the solution to this heaps problem that we may have solved in [D.5.8: Heaps](a.5-data-structures/a.5.8-heaps.md#part-3): [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
+## Further Reading
+
+{% embed url="https://yongdanielliang.github.io/animation/web/BinarySearchNew.html" %}
+
+{% embed url="https://www.youtube.com/watch?v=iP897Z5Nerk" %}
+
+{% embed url="https://www.youtube.com/watch?v=NfUTAymEfvQ" %}
