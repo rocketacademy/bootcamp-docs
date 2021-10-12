@@ -10,7 +10,7 @@ When trying the examples, be sure to resize the width of the screen to see how t
 
 This is the basic flexbox column layout example. Every column div will divide itself equally across the width of the page.
 
-![](../../.gitbook/assets/eq-col%20%281%29.png)
+![](<../../.gitbook/assets/eq-col (1).png>)
 
 ```css
 .container {
@@ -147,7 +147,7 @@ We can fix the maximum dimensions of a box with the `flex-basis` style. The left
 }
 ```
 
-```text
+```
 <div class="container">
   <div class="col fixed-w">
     Nisi fugiat incididunt esse sint id nulla fugiat duis qui nisi. Velit
@@ -220,3 +220,4 @@ Finally, we can vertically center something with flexbox. Note however, that thi
 
 [https://css-tricks.com/flex-grow-is-weird/](https://css-tricks.com/flex-grow-is-weird/)
 
+Flexbox in 100 Seconds video [here](https://www.youtube.com/watch?v=K74l26pE4YA)

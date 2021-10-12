@@ -80,7 +80,7 @@ Because Express paths no longer correspond to files, we could give our paths ran
 
 Routing methods of the format `app.<METHOD>` are 1 form of Express "middleware", where middleware are functions with access to Express request and response objects, that are executed in the order they are bound to the `app` object, until any middleware sends a response back to the client.
 
-**Middleware is a crucial topic in Express, because all Express logic happens through middleware. We recommend students read more about Express middleware** [**here**](https://expressjs.com/en/guide/using-middleware.html)**.**
+**Middleware is a crucial topic in Express, because all Express logic happens through middleware. We recommend students read more about Express middleware **[**here**](https://expressjs.com/en/guide/using-middleware.html)**.**
 
 ## Exercises
 
@@ -107,4 +107,4 @@ Past students have found the following videos helpful in introducing Express rou
 
 1. [https://www.youtube.com/watch?v=JlgKybraoy4](https://www.youtube.com/watch?v=JlgKybraoy4)
 2. [https://www.youtube.com/watch?v=lY6icfhap2o](https://www.youtube.com/watch?v=lY6icfhap2o)
-
+3. RESTful API in 100 seconds (using Express): [https://www.youtube.com/watch?v=-MTSQjw5DrM](https://www.youtube.com/watch?v=-MTSQjw5DrM)
