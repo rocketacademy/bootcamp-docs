@@ -6,18 +6,18 @@ The CSS Box model describes how much room a given element on the page takes up.
 
 Refer back to these sections of the CSS exercises that talk about setting element dimensions:
 
-[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element)  
-[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element)  
-[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-a-negative-margin-to-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)  
-[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element)  
-[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)  
-[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element)  
+[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element)\
+[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element)\
+[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-a-negative-margin-to-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)\
+[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element)\
+[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)\
+[https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element)\
 [https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
 
 Now we'll describe more features of the box model. We need to know more about how elements take up space on the page so that we can lay them out properly.
 
 {% hint style="warning" %}
-Generally speaking, box \(element\) sizing in CSS is affected by many different interplaying factors, depending on which styles are set. We will detail many of these styles and factors in the other sections.
+Generally speaking, box (element) sizing in CSS is affected by many different interplaying factors, depending on which styles are set. We will detail many of these styles and factors in the other sections.
 
 The following page describes some common box properties, but in general a layout should avoid relying on multiple layout boxes being an exact pixel size, because multiple interacting boxes can be complicated to manage with CSS.
 
@@ -26,7 +26,7 @@ A good default is to allow, as much as is possible, for the CSS rendering engine
 
 ### Base Box Size
 
-Without any CSS a box \(element\) will be the size of it's contents. If the box is `display` `block`,  it's width will expand to the parent \(containing\) container, then it will expand downward.
+Without any CSS a box (element) will be the size of it's contents. If the box is `display` `block`,  it's width will expand to the parent (containing) container, then it will expand downward.
 
 ### Width & Height
 
@@ -83,7 +83,7 @@ If you select an element in the elements tab and scroll to the bottom of the CSS
 
 ![](../../.gitbook/assets/dev-t-b-model.png)
 
-With this tool you can highlight each part of the box. The size of the box reported in the tool should match the CSS styles applied \(although other factors besides directly set CSS values may affect the size of the box\).
+With this tool you can highlight each part of the box. The size of the box reported in the tool should match the CSS styles applied (although other factors besides directly set CSS values may affect the size of the box).
 
 ![](../../.gitbook/assets/dev-t-b-model-2.png)
 
@@ -106,7 +106,7 @@ p{
 }
 ```
 
-This CSS produces a box 250px wide, not 200px wide.
+This CSS produces a box 300px wide (padding adds 50px to EACH side), not 200px wide.
 
 #### Box Sizing
 
@@ -121,4 +121,3 @@ With the box-sizing style we can set the dimension to include padding. This code
 See more about box sizing here: [https://css-tricks.com/box-sizing/](https://css-tricks.com/box-sizing/)
 
 Video on box sizing: [https://www.youtube.com/watch?v=dLGr1Qb2nKc](https://www.youtube.com/watch?v=dLGr1Qb2nKc)
-

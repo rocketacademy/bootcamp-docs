@@ -9,7 +9,7 @@
 ## 🛠 Course Logistics
 
 * [Pairing Assignments](course-logistics/pairing-assignments.md)
-* [Rocket Q&A](course-logistics/rocket-q-and-a.md)
+* [Rocket Q\&A](course-logistics/rocket-q-and-a.md)
 * [Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
@@ -27,7 +27,7 @@
 * [Project 5: Group React App](projects/project-5-group-react-app.md)
 * [Project 6: Capstone](projects/project-6-capstone.md)
 
-## 0️⃣: Language and Tooling
+## 0⃣ Language and Tooling <a href="0-language-and-tooling" id="0-language-and-tooling"></a>
 
 * [0.0: Module 0 Overview](0-language-and-tooling/0.0-module-0-overview.md)
 * [0.1: New JS Syntax](0-language-and-tooling/0.1-new-js-syntax.md)
@@ -51,7 +51,7 @@
 * [0.ICE: In-Class Exercises](0-language-and-tooling/0.ice-in-class-exercises/README.md)
   * [0.ICE.1: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
-## 1️⃣ Frontend Basics
+## 1⃣ Frontend Basics <a href="1-frontend-basics" id="1-frontend-basics"></a>
 
 * [1.0: Module 1 Overview](1-frontend-basics/1.0-module-1-overview.md)
 * [1.1: HTML](1-frontend-basics/1.1-html/README.md)
@@ -81,7 +81,7 @@
   * [1.POCE.4: Timer](1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
   * [1.POCE.5: Tic Tac Toe](1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
 
-## 🌈CSS
+## 🌈 CSS
 
 * [CSS.1: Basic CSS](css/css-1-basic-css.md)
 * [CSS.2: Layout](css/css.2-layout/README.md)
@@ -114,7 +114,7 @@
   * [1.POCE.CSS.3: Bootstrap Columns](css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns.md)
   * [1.POCE.CSS.4: Bootstrap Adobe](css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
 
-## 2️⃣ Backend Basics
+## 2⃣ Backend Basics <a href="2-backend-basics" id="2-backend-basics"></a>
 
 * [2.0: Module 2 Overview](2-backend-basics/2.0-module-2-overview.md)
 * [2.1: My First Node.js Program](2-backend-basics/2.1-my-first-node-program.md)
@@ -149,7 +149,7 @@
   * [2.POCE.5: Responsive Noodle Site](2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
   * [2.POCE.6: To-Do List - JSON DB](2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
-## 3️⃣ Backend Applications
+## 3⃣ Backend Applications <a href="3-backend-applications" id="3-backend-applications"></a>
 
 * [3.0: Module 3 Overview](3-backend-applications/3.0-module-3-overview.md)
 * [3.1: Express.js](3-backend-applications/3.1-express-js/README.md)
@@ -163,8 +163,8 @@
   * [3.2.3: EJS Partials](3-backend-applications/3.2-ejs/3.2.3-advanced-ejs.md)
 * [3.3: SQL Language](3-backend-applications/3.3-sql-language/README.md)
   * [3.3.1: Basic SQL Commands](3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands.md)
-  * [3.3.2: SQL Relationships \(One to Many\)](3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many.md)
-  * [3.3.3: SQL Relationships \(Many to Many\)](3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
+  * [3.3.2: SQL Relationships (One to Many)](3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many.md)
+  * [3.3.3: SQL Relationships (Many to Many)](3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
   * [3.3.4: Inner Join](3-backend-applications/3.3-sql-language/3.3.4-inner-join.md)
   * [3.3.5: Non-FK Relationship Data in Join Table](3-backend-applications/3.3-sql-language/3.3.5-non-fk-relationship-data-in-join-table.md)
   * [3.3.6: SQL Schema Design](3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design.md)
@@ -219,7 +219,7 @@
   * [3.POCE.10: EC2 Deployment with Postgres](3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md)
   * [3.POCE.11: Heroku Deployment](3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment.md)
 
-## 4️⃣ Backend Structure
+## 4⃣ Backend Structure <a href="4-backend-structure" id="4-backend-structure"></a>
 
 * [4.0: Module 4 Overview](4-backend-structure/4.0-module-4-overview.md)
 * [4.1: ORM, Sequelize](4-backend-structure/4.1-orm-sequelize/README.md)
@@ -241,7 +241,7 @@
   * [4.POCE.2: Drummers for Hire](4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
   * [4.POCE.3: Project 2 MVC Refactor](4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-## 5️⃣ Full-Stack Applications
+## 5⃣ Full-Stack Applications <a href="5-full-stack-applications" id="5-full-stack-applications"></a>
 
 * [5.0: Module 5 Overview](5-full-stack-applications/5.0-module-5-overview.md)
 * [5.1: DOM Manipulation with Express App](5-full-stack-applications/5.1-dom-manipulation-with-express-app.md)
@@ -258,7 +258,7 @@
   * [5.POCE.2: Bug Reports AJAX Users](5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
   * [5.POCE.3: AJAX Cards](5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-## 6️⃣ Frontend Infrastructure
+## 6⃣ Frontend Infrastructure <a href="6-frontend-infrastructure" id="6-frontend-infrastructure"></a>
 
 * [6.0: Module 6 Overview](6-frontend-infrastructure/6.0-module-6-overview.md)
 * [6.1: Webpack](6-frontend-infrastructure/6.1-webpack/README.md)
@@ -271,7 +271,7 @@
 * [6.ICE: In-Class Exercises](6-frontend-infrastructure/6.ice-in-class-exercises/README.md)
   * [6.ICE.1: NPM Webpack](6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
 
-## 7️⃣ React
+## 7⃣ React <a href="7-react" id="7-react"></a>
 
 * [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
 * [7.1: JSX Intro](7-react/7.1-jsx-intro/README.md)
@@ -302,7 +302,7 @@
   * [7.POCE.3: Read Later](7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
   * [7.POCE.4: Hot Pot Bill Splitter](7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 
-## 8️⃣ Advanced React
+## 8⃣ Advanced React <a href="8-advanced-react" id="8-advanced-react"></a>
 
 * [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
 * [8.1: Create React App](8-advanced-react/8.1-create-react-app/README.md)
@@ -326,9 +326,9 @@
   * [8.ICE.1: useContext](8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 * [8.POCE: Post-Class Exercises](8-advanced-react/8.poce-post-class-exercises/README.md)
   * [8.POCE.1: Car Rental](8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
-  * [8.POCE.2: \(Group Project\) Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+  * [8.POCE.2: (Group Project) Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 
-## 9️⃣ Advanced Topics
+## 9⃣ Advanced Topics <a href="9-advanced-topics" id="9-advanced-topics"></a>
 
 * [9.0: Module 9 Overview](9-advanced-topics/9.0-module-9-overview.md)
 * [9.1: Testing](9-advanced-topics/9.1-testing/README.md)
@@ -394,18 +394,18 @@
 * [IP.4: Job List](interview-prep/ip.4-job-list.md)
 * [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
 
-## 💁🏽‍♀️User Experience
+## ☺ User Experience
 
 * [UX.1: Overview](user-experience/ux.1-overview.md)
 * [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
 * [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
 
-## 📅Old Course Schedule
+## 📅 Old Course Schedule
 
 * [Full Course Day Schedule](old-course-schedule/full-course-day-schedule.md)
 * [FTBC4 Schedule](old-course-schedule/ftbc4-schedule.md)
 
-## Algorithms \(New\)
+## Algorithms (New)
 
 * [Overview](algorithms-new/untitled.md)
 * [Intro to Python](algorithms-new/intro-to-python.md)
@@ -413,4 +413,3 @@
 * [Intro to Algorithm Problem Sets](algorithms-new/intro-to-algorithm-problem-sets.md)
 * [Data Structures](algorithms-new/data-structures/README.md)
   * [Untitled](algorithms-new/data-structures/untitled-1.md)
-
