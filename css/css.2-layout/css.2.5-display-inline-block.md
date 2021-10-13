@@ -1,6 +1,6 @@
 # CSS.2.5: Display: Inline Block
 
-`inline-block` `display` style is used when we want to have box \(block\) like boxes next to each other in a layout.
+`inline-block` `display` style is used when we want to have box (block) like boxes next to each other in a layout.
 
 There are older ways of doing this, involving `float`, and newer ways involving flexbox and CSS grid, but inline-block is one of the basic ways to get box-like elements to sit next to each other.
 
@@ -48,5 +48,6 @@ When using `inline-block`, whitespace in the HTML can affect the spacing of elem
 
 {% embed url="https://patrickbrosset.medium.com/when-does-white-space-matter-in-html-b90e8a7cdd33" %}
 
-Video on block, inline-block \(also includes position fixed and absolute\): [https://www.youtube.com/watch?v=x\_i2gga-sYg](https://www.youtube.com/watch?v=x_i2gga-sYg)
+## Further Reading
 
+Video on block, inline-block (also includes position fixed and absolute): [https://www.youtube.com/watch?v=x_i2gga-sYg](https://www.youtube.com/watch?v=x_i2gga-sYg)

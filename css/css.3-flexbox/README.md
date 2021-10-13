@@ -26,11 +26,12 @@ One of best features of flexbox is it's ability to distribute boxes across the a
 
 ### Position and Distribute Elements Using Flexbox
 
-[https://flexboxfroggy.com/](https://flexboxfroggy.com/)
+[https://flexboxfroggy.com/](https://flexboxfroggy.com)
 
 {% hint style="success" %}
 Don't worry too much about the end sections of the exercise. We won't be using things like `order` very often.
 {% endhint %}
 
-Game that teaches flexbox: [https://geddski.teachable.com/p/flexbox-zombies](https://geddski.teachable.com/p/flexbox-zombies)
+## Further Reading
 
+Game that teaches flexbox: [https://geddski.teachable.com/p/flexbox-zombies](https://geddski.teachable.com/p/flexbox-zombies)
