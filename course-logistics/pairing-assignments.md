@@ -4,51 +4,27 @@ description: Batch 1 (Oct 2020 - Apr 2021)
 
 # Pairing Assignments
 
-## FTBC4 \(Jul-Dec 2021\)
+## FTBC4 (Jul-Dec 2021)
 
 **1**
 
 **Chuan Xin, Shen Nan**
 
-**Jia En**
-
-**Tong Huat, Justin**  
-
+**Jia En, Justin**\
+****
 
 **2**
 
-**Chuan Xin**
-
 **Shen Nan, Justin**
 
-**Jia En, Tong Huat**  
-
+**Jia En, Chuan Xin**\
+****
 
 **3**
 
 **Chuan Xin, Justin**
 
-**Tong Huat**
-
-**Shen Nan, Jia En**  
-
-
-**4**
-
-**Tong Huat, Chuan Xin**
-
-**Justin, Jia En**
-
-**Shen Nan**  
-
-
-**5**
-
-**Chuan Xin, Jia En**
-
-**Tong Huat, Shen Nan**
-
-**Justin**
+**Shen Nan, Jia En**
 
 ### Formation Calculation Code
 
@@ -86,7 +62,7 @@ function getWeekNumber(d) {
     return weekNo;
 }
 
-var formationCount = 5;
+var formationCount = 3;
 
 var daysInAWeek = 5; 
 
@@ -101,11 +77,11 @@ console.log( formationNumber );
 
 ## FTBC5
 
-### Section 1 \(Michelle\)
+### Section 1 (Michelle)
 
 Ben, Bryan, David, FrankieT, HP, Joseph, Shannon
 
-### Section 2 \(Foong\)
+### Section 2 (Foong)
 
 BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
@@ -121,7 +97,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **Graham James Lim, Jia Yi**
 
-\*\*\*\*
+****
 
 **2**
 
@@ -133,7 +109,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **Eric Foo, Graham James Lim**
 
-\*\*\*\*
+****
 
 **3**
 
@@ -145,7 +121,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **Diyana Ramlan, Eric Foo**
 
-\*\*\*\*
+****
 
 **4**
 
@@ -157,7 +133,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **CK, Diyana Ramlan**
 
-\*\*\*\*
+****
 
 **5**
 
@@ -169,7 +145,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **Zack, CK**
 
-\*\*\*\*
+****
 
 **6**
 
@@ -181,7 +157,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **Zaver, CK**
 
-\*\*\*\*
+****
 
 **7**
 
@@ -193,7 +169,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **Kimmi Lee, Zack**
 
-\*\*\*\*
+****
 
 **8**
 
@@ -205,7 +181,7 @@ BW, FrankieN, Dom, Gary, JH, Justus, Tristan
 
 **Kimmi Lee, Zaver**
 
-\*\*\*\*
+****
 
 **9**
 
@@ -314,4 +290,3 @@ pairs.forEach((day, index) => {
   console.log(' ');
 });
 ```
-
