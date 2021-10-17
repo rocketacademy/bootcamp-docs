@@ -229,7 +229,41 @@ def reverse_recurse(word: str) -> str:
 result = reverse_recurse('hello') # olleh
 ```
 
+#### Full Commentary Version
+
+Run this version and follow the call stack to see where each part of the function branches off to recurse and comes back. 
+
+```
+def reverse_recurse(string: str) -> str:
+    print(f'current word: {string}')
+
+    if len(string) == 0:
+        print('========== reached the base case')
+        return ''
+
+    last_letter = string[-1] # letter at the end of the string
+    rest = string[:-1] # the rest of the string except the last letter
+
+    print(f'^^^ about to recurse. this is rest: {rest}')
+    # get the result of reversing every other letter before the current one
+    recurse_result = reverse_recurse(rest)
+
+    print(f"### we're back. this was string function param: {string}")
+
+    new_string = last_letter + recurse_result # arrange the last letter in front
+
+    print(f'recurse result: >> {recurse_result} <<')
+    print(f'putting last letter on first: {last_letter}')
+
+    return new_string
+
+result = reverse_recurse('hello') # olleh
+print(f'reverse result: {result}')
+```
+
 #### Compact Refactor
+
+The common style of recursive functions is to write all of the intermediate values inline with the return. 
 
 ```
 def reverse_recurse_compact(word: str) -> str:
