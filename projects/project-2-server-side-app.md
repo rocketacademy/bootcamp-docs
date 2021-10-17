@@ -13,7 +13,7 @@ Your app must have the following requirements.
 1. Render HTML
 2. Use CSS
 3. Serve webpages with Express.js and EJS
-4. At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+4. At least 1 full set of CRUD routes (create, retrieve, update, delete)
 5. At least 3 SQL tables
 6. At least 1 one-to-many and 1 many-to-many SQL relationship
 7. Username and password login
@@ -58,7 +58,7 @@ If your app idea involves file uploading, [3.5.11: File Uploads](../3-backend-ap
 The following are some ideas for 3rd-party APIs that we can use in our apps.
 
 * [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
-* [Data.gov.sg APIs](https://data.gov.sg/)
+* [Data.gov.sg APIs](https://data.gov.sg)
 
 ## General Tips
 
@@ -70,93 +70,18 @@ In general, our Express middleware should handle all business logic, for example
 
 ### Summary
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Course Day</th>
-      <th style="text-align:left">Deliverable</th>
-      <th style="text-align:left">Instructor Feedback</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">CD6.1</td>
-      <td style="text-align:left"><b>Start: Ideation Phase 1.</b> Introduce project, post project ideas in
-        Slack for feedback</td>
-      <td style="text-align:left">Instructor to share feedback on project ideas in Slack.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD6.4</td>
-      <td style="text-align:left">
-        <p><b>Start: Ideation Phase 2.</b>
-        </p>
-        <p>Create planning docs: user stories, wireframes, and DB ERD.</p>
-      </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD7.1</td>
-      <td style="text-align:left">
-        <p><b>Due: Ideation Phase 2.</b> 
-        </p>
-        <p>Finalise project idea and share planning docs in GitHub repo over Slack.</p>
-      </td>
-      <td style="text-align:left">Instructor to review planning docs over Slack and over Zoom if necessary.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD7.1</td>
-      <td style="text-align:left"><b>Peer Planning Review</b>
-      </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD7.1</td>
-      <td style="text-align:left"><b>Start: Project Start</b>
-      </td>
-      <td style="text-align:left">Begin Project Implementation</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD8.1</td>
-      <td style="text-align:left">
-        <p><b>Due: MVP deadline.</b> 
-        </p>
-        <p>Users should be able to perform the primary user story. Please deploy
-          your app to EC2. Students to review code in pairs during class.</p>
-      </td>
-      <td style="text-align:left">Instructor to review code on GitHub, share feedback in Slack and Zoom
-        if necessary.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD8.4</td>
-      <td style="text-align:left">
-        <p><b>Due: Feature freeze.</b> 
-        </p>
-        <p>No more developing new app functionality. Use remaining time to focus
-          on polish, i.e. fixing UX/UI, refactoring code.</p>
-      </td>
-      <td style="text-align:left">Quick project review in class to discuss improvements post-feature freeze.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD8.5</td>
-      <td style="text-align:left"><b>Due: Project presentations.</b>
-      </td>
-      <td style="text-align:left">30-minute post-mortem with instructor. Instructor to review code in PR
-        on GitHub.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD9.1</td>
-      <td style="text-align:left"><b>Project Peer Review exercise.</b>
-      </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD9.3</td>
-      <td style="text-align:left"><b>Due: Video demo.</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+| Course Day | Deliverable                                                                                                                                                                             | Instructor Feedback                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| CD6.1      | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback                                                                                                | Instructor to share feedback on project ideas in Slack.                             |
+| CD6.4      | <p><strong>Start: Ideation Phase 2.</strong></p><p>Create planning docs: user stories, wireframes, and DB ERD. </p>                                                                     | ****                                                                                |
+| CD7.1      | <p><strong>Due: Ideation Phase 2.</strong> </p><p>Finalise project idea and share planning docs in GitHub repo over Slack. </p>                                                         | Instructor to review planning docs over Slack and over Zoom if necessary.           |
+| CD7.1      | **Peer Planning Review**                                                                                                                                                                | ****                                                                                |
+| CD7.1      | **Start: Project Start**                                                                                                                                                                | Begin Project Implementation                                                        |
+| CD8.1      | <p><strong>Due: MVP deadline.</strong> </p><p>Users should be able to perform the primary user story. Please deploy your app to EC2. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD8.4      | <p><strong>Due: Feature freeze.</strong> </p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>               | Quick project review in class to discuss improvements post-feature freeze.          |
+| CD8.5      | **Due: Project presentations.**                                                                                                                                                         | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.   |
+| CD9.1      | **Project Peer Review exercise.**                                                                                                                                                       | ****                                                                                |
+| CD9.3      | **Due: Video demo.**                                                                                                                                                                    |                                                                                     |
 
 ### Recommended Order of Implementation
 
@@ -184,7 +109,7 @@ Save these planning docs in a project GitHub repo and share it in Slack. Instruc
 
 A user should be able to play the game through once without encountering errors. App should be deployed to Heroku. Peer code review during class.
 
-1. ~45 minutes on each partner's project \(~30 minutes if in a group of 3\)
+1. \~45 minutes on each partner's project (\~30 minutes if in a group of 3)
 2. Share any challenges you've faced on your project
 3. Partners can critique each others' work and clarify gaps in knowledge
 4. By the end, students should have a clear idea on what improvements to make by project deadline.
@@ -193,9 +118,9 @@ A user should be able to play the game through once without encountering errors.
 
 Please deploy your app to EC2 \*before\* feature freeze. You may find the following resources helpful when deploying.
 
-1. [3.POCE.10: EC2 Deployment with Postgres](../3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md) \(culmination of the following 2 modules\)
+1. [3.POCE.10: EC2 Deployment with Postgres](../3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md) (culmination of the following 2 modules)
 2. [2.11: Deploy Server to Cloud](../2-backend-basics/2.11-deploy-server-to-cloud.md)
-3. [3.4.1: PostgreSQL, psql \(psql Setup\)](../3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md#ubuntu-for-windows-users-in-wsl-and-ec2-installation)
+3. [3.4.1: PostgreSQL, psql (psql Setup)](../3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md#ubuntu-for-windows-users-in-wsl-and-ec2-installation)
 
 ### Refactoring
 
@@ -216,4 +141,3 @@ Please answer the [project post-mortem questions](../course-logistics/course-met
 ## Video Demo
 
 Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
-

@@ -9,11 +9,11 @@ Bit manipulation is commonly taught in core computer science courses to help stu
 
 ## Use Case: Hamming Codes
 
-A Hamming Code is an error-correction algorithm that uses bit manipulation to check if a set of data has errors \(specifically binary data\) in O\(logn\) space and time. These videos give a good intuition of the usefulness of bit manipulation as it relates to binary data.
+A Hamming Code is an error-correction algorithm that uses bit manipulation to check if a set of data has errors (specifically binary data) in O(logn) space and time. These videos give a good intuition of the usefulness of bit manipulation as it relates to binary data.
 
 {% embed url="https://www.youtube.com/watch?v=X8jsijhllIA" %}
 
-{% embed url="https://www.youtube.com/watch?v=b3NxrZOu\_CE" %}
+{% embed url="https://www.youtube.com/watch?v=b3NxrZOu_CE" %}
 
 Hamming codes have a Hamming distance of 3: The algorithm can detect up to three errors per block.
 
@@ -43,4 +43,3 @@ Hamming codes have a Hamming distance of 3: The algorithm can detect up to three
 4. [https://leetcode.com/problems/power-of-two/](https://leetcode.com/problems/power-of-two/)
 5. [https://leetcode.com/problems/reverse-bits/](https://leetcode.com/problems/reverse-bits/)
 6. [https://leetcode.com/problems/power-of-four/](https://leetcode.com/problems/power-of-four/)
-

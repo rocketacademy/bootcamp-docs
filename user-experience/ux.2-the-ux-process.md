@@ -31,7 +31,7 @@ In industry the UX designer's job in a larger organization is to help define wha
 
 ## UX Research
 
-{% embed url="https://youtu.be/7\_sFVYfatXY" %}
+{% embed url="https://youtu.be/7_sFVYfatXY" %}
 
 1. Discover
    1. Uncover user needs
@@ -51,7 +51,7 @@ In industry the UX designer's job in a larger organization is to help define wha
          4. Design Reviews
          5. Task Analysis
          6. Card Sorting
-3. \(Build\)
+3. (Build)
 4. Test
    1. Validate that the app works for users
    2. Research Methods
@@ -65,6 +65,4 @@ In industry the UX designer's job in a larger organization is to help define wha
       3. Search Log Analysis
       4. Usability Bug Reviews
       5. FAQ Reviews
-
-
 

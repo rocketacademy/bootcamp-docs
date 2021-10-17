@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[AJAX](https://en.wikipedia.org/wiki/Ajax_%28programming%29) or Asynchronous JavaScript and XML is browser functionality that can make requests from within JavaScript. It means that within a single page \(and page request\) we can build logic that interacts with servers outside the browser page. Eventually we will be able to move more of the view logic that renders elements and interacts with the user into browser-side JavaScript. We will see more examples of this in coming modules.
+[AJAX](https://en.wikipedia.org/wiki/Ajax_\(programming\)) or Asynchronous JavaScript and XML is browser functionality that can make requests from within JavaScript. It means that within a single page (and page request) we can build logic that interacts with servers outside the browser page. Eventually we will be able to move more of the view logic that renders elements and interacts with the user into browser-side JavaScript. We will see more examples of this in coming modules.
 
 ![](../../.gitbook/assets/ajax.jpg)
 
@@ -37,9 +37,9 @@ _Note step 1 assumes the browser creates the incoming request for the route._
 
 Add a new route for a page. This route will respond with HTML.
 
-**routes.mjs \(Step 2 above.\)**
+**routes.mjs (Step 2 above.)**
 
-```text
+```
 app.get((request, response)=>{
     response.render('home')
 });
@@ -47,7 +47,7 @@ app.get((request, response)=>{
 
 #### **Create the view directory.**
 
-```text
+```
 mkdir views
 ```
 
@@ -66,7 +66,7 @@ Add a JavaScript file called `script.js` to the `public` folder.
 
 **views/home.ejs**
 
-```text
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -82,11 +82,11 @@ Add a JavaScript file called `script.js` to the `public` folder.
 
 ### Axios - Step 6
 
-Axios is a library that helps _create requests from inside the browser JavaScript code_ \*\***and\*\*** _use the response data inside the JavaScript logic._ **This is step 6 above.**
+Axios is a library that helps _create requests from inside the browser JavaScript code_ \*\***and\*\* **_use the response data inside the JavaScript logic._** This is step 6 above.**
 
 **script.js**
 
-```text
+```
 // Make a request for all the items
 axios
   .get('/items')
@@ -104,7 +104,7 @@ Read [more about Axios here.](https://github.com/axios/axios/blob/master/README.
 
 ### Response - Step 7 & 8
 
-Note the `console.log` on line 6. Our starter code is sending back data from the server here: [https://github.com/rocketacademy/ajax-bootcamp/blob/main/controllers/items.mjs\#L5](https://github.com/rocketacademy/ajax-bootcamp/blob/main/controllers/items.mjs#L5) When the browser gets to line 6 we have access to the data sent back from the server.
+Note the `console.log` on line 6. Our starter code is sending back data from the server here: [https://github.com/rocketacademy/ajax-bootcamp/blob/main/controllers/items.mjs#L5](https://github.com/rocketacademy/ajax-bootcamp/blob/main/controllers/items.mjs#L5) When the browser gets to line 6 we have access to the data sent back from the server.
 
 Open the browser network tab and run the code. Inspect the request to see the data come back in the response. This is step 7. Note  `console.log` on line 6 in `script.js` outputs a JavaScript object. This is the final step, step 8. The Axios library has transformed the string HTTP GET request response into a JavaScript object. To explicitly demonstrate that this is a live object, `console.log` only the name of the first item in the response.
 
@@ -117,4 +117,3 @@ After we receive the server response on line 6 in **`script.js`**, manipulate th
 ### Trigger AJAX Call On Click
 
 Add a button to our view and refactor our `script.js` such that the above AJAX request and DOM manipulation happens when we click the button.
-

@@ -34,7 +34,7 @@ Whenever possible, keep UI and logic code separate. This makes your code easier 
 
 Project management tools are often used in managing longer-term projects involving multiple people. They can also be used in individual projects to help with things like prioritizing certain tasks and organizing workflow, among other things. 
 
-[Trello](https://trello.com/) is a popular, easy-to-use project management tool that we recommend for Coding Bootcamp. [Here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work) is a breakdown of how to get started with it.
+[Trello](https://trello.com) is a popular, easy-to-use project management tool that we recommend for Coding Bootcamp. [Here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work) is a breakdown of how to get started with it.
 
 ### Recommended Daily Order of Work
 
@@ -49,7 +49,7 @@ On any given day in Coding Bootcamp, students will have to do post-class exercis
 To save work from a forked copy of a bootcamp repo to a new repo, follow the instructions below.
 
 1. Create a new, empty repo in GitHub
-2. In your local copy of the `base-node-bootcamp`  repo that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL> is https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and unlink it from `base-node-bootcamp`.
+2. In your local copy of the `base-node-bootcamp ` repo that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL> is https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and unlink it from `base-node-bootcamp`.
 3. Run `git remote -v` to verify that our local repo is linked to the new repo in GitHub
 4. Commit any desired local changes and run `git push`. This will push the current state of the repo to the `origin` remote, which should be the new repo we created.
 
@@ -78,7 +78,7 @@ On days where there are longer post-class exercises or projects due, we will rev
 
 1. Discuss findings from individual code review
 2. Pair program on 1 person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**
-3. Once done with 1 person's code, send the code to your pair \(it's their project\) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code. If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
+3. Once done with 1 person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code. If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
 4. Once both have working versions, implement a new feature in 1 of the repos together.
 
 ## Project Scrums
@@ -147,4 +147,3 @@ Use Zoom to record the video locally on your computer. It will record you and yo
 
 1. Upload it to YouTube. Embed the video in your project README.md file.
 2. Put the video file in your project repo, commit the file and push it to GitHub.
-

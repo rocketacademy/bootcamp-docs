@@ -16,7 +16,7 @@ Your app must fulfil the following requirements.
 
 * Use React
 * Use AJAX to get and set data from the server
-* At least 1 full set of CRUD routes \(create, retrieve, update, delete\)
+* At least 1 full set of CRUD routes (create, retrieve, update, delete)
 * At least 2 SQL tables
 * At least 1 one-to-many and 1 many-to-many SQL relationship
 * Use CSS
@@ -35,89 +35,20 @@ Since the focus of this project is on React, try not to create a database that i
 
 ### Summary
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Course Day</th>
-      <th style="text-align:left">Deliverable</th>
-      <th style="text-align:left">Instructor Feedback</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">CD14.1</td>
-      <td style="text-align:left"><b>Start: Ideation Phase 1.</b> Introduce project, post project ideas in
-        Slack for feedback.</td>
-      <td style="text-align:left">Instructor to share feedback on project ideas in Slack.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD14.4</td>
-      <td style="text-align:left"><b>Start: Ideation Phase 2. </b>Create planning docs: user stories, wireframes,
-        and DB ERD.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD15.1</td>
-      <td style="text-align:left"><b>Due: Ideation Phase 2.</b> Finalise project idea and share planning
-        docs in GitHub repo over Slack.</td>
-      <td style="text-align:left">Instructor to review planning docs over Slack and Zoom if necessary.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD15.1</td>
-      <td style="text-align:left"><b>Due: Peer Planning Review.</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD15.1</td>
-      <td style="text-align:left"><b>Start: Project Start.</b>
-      </td>
-      <td style="text-align:left">Begin Project Implementation.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD16.1</td>
-      <td style="text-align:left">
-        <p><b>Due: MVP deadline.</b>
-        </p>
-        <p>Users should be able to perform the primary user story. Please deploy
-          your app to Heroku. Students to review code in pairs during class.</p>
-      </td>
-      <td style="text-align:left">Instructor to review code on GitHub, share feedback in Slack and Zoom
-        if necessary.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD16.3</td>
-      <td style="text-align:left">
-        <p><b>Due: Feature freeze.</b> 
-        </p>
-        <p>No more developing new app functionality. Use remaining time to focus
-          on polish, i.e. fixing UI/UX, refactoring code.</p>
-      </td>
-      <td style="text-align:left">Quick project review in class to discuss improvements post-feature freeze.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD16.5</td>
-      <td style="text-align:left"><b>Due: Project presentations.</b>
-      </td>
-      <td style="text-align:left">30-minute post-mortem with instructor. Instructor to review code on GitHub,
-        share feedback in Slack and Zoom if necessary.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD17.1</td>
-      <td style="text-align:left"><b>Project Peer Review exercise.</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD17.2</td>
-      <td style="text-align:left"><b>Video demo due.</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+| Course Day | Deliverable                                                                                                                                                                               | Instructor Feedback                                                                                                        |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| CD14.1     | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback.                                                                                                 | Instructor to share feedback on project ideas in Slack.                                                                    |
+| CD14.4     | **Start: Ideation Phase 2. **Create planning docs: user stories, wireframes, and DB ERD.                                                                                                  |                                                                                                                            |
+| CD15.1     | **Due: Ideation Phase 2.**  Finalise project idea and share planning docs in GitHub repo over Slack.                                                                                      | Instructor to review planning docs over Slack and Zoom if necessary.                                                       |
+| CD15.1     | **Due: Peer Planning Review.**                                                                                                                                                            |                                                                                                                            |
+| CD15.1     | **Start: Project Start.**                                                                                                                                                                 | Begin Project Implementation.                                                                                              |
+| CD16.1     | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary.                                        |
+| CD16.3     | <p><strong>Due: Feature freeze.</strong> </p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code.</p>                 | Quick project review in class to discuss improvements post-feature freeze.                                                 |
+| CD16.5     | **Due: Project presentations.**                                                                                                                                                           | 30-minute post-mortem with instructor. Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD17.1     | **Project Peer Review exercise.**                                                                                                                                                         |                                                                                                                            |
+| CD17.2     | **Video demo due.**                                                                                                                                                                       |                                                                                                                            |
 
-### 
+###
 
 ### Recommended Order of Implementation
 
@@ -172,4 +103,3 @@ Please follow [video demo guidelines here](../course-logistics/course-methodolog
 If our app contains multiple routes that each load separate resources compiled by Webpack, we will want to specify the [Public Path](https://webpack.js.org/guides/public-path/) attribute in our Webpack config so that the path to those resources can be absolute and not relative to the routes.
 
 For example, for an app with route `/post/:id` that returns an HTML file that loads a Webpack bundle, if we do not specify public path in our Webpack config, that HTML file will look for our compiled Webpack bundle at `mysite.com/post/my.bundle.js` instead of `mysite.com/my.bundle.js`. 
-

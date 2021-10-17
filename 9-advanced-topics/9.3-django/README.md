@@ -7,7 +7,7 @@ Django is an MVC framework written in Python. It was first released in 2005.
 The standard development workflow for writing applications in Python includes infrastructure for managing "environments". These include a specific version of the Python language and a specific set of library dependencies for that project.
 
 {% hint style="info" %}
-Python Versions: Python version 3 introduced breaking changes in the language. We are using the version 3. Some computers rely on Python \(like all MacOS computers\) but are running the older version 2 by default.
+Python Versions: Python version 3 introduced breaking changes in the language. We are using the version 3. Some computers rely on Python (like all MacOS computers) but are running the older version 2 by default.
 
 We want to be able to install a new version of Python onto the computer but without disturbing the older version, which is used by other various parts of the computer.
 {% endhint %}
@@ -19,10 +19,10 @@ brew install python
 #### Windows
 
 {% hint style="danger" %}
-In Ubuntu Python should already be installed with the correct version \(version 3\) under the command `python3`.   
-  
-In all the following instructions where it says `python` use the command `python3` instead.  
-  
+In Ubuntu Python should already be installed with the correct version (version 3) under the command `python3`. \
+\
+In all the following instructions where it says `python` use the command `python3` instead.\
+\
 If Python version 3 is not installed, install it with the command: `sudo apt-get install python3`
 {% endhint %}
 
@@ -66,7 +66,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 Replace your own values in the template.
 
-Create a folder for all the Django work you'll do. \(`<DJANGO_PROJECTS_PATH>`\)
+Create a folder for all the Django work you'll do. (`<DJANGO_PROJECTS_PATH>`)
 
 To find your Python path: `which python`
 
@@ -106,17 +106,17 @@ When a new terminal is opened `workon` may need to be run so the virtual env can
 workon my_ra_django_env
 ```
 
-See more here: [https://virtualenvwrapper.readthedocs.io/en/latest/command\_ref.html\#workon](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#workon)
+See more here: [https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#workon](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#workon)
 
 ### Further Reading
 
-[https://pypi.org/](https://pypi.org/)
+[https://pypi.org/](https://pypi.org)
 
-[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development\_environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
+[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
 
 [https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3](https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3)
 
-[https://virtualenvwrapper.readthedocs.io/en/latest/command\_ref.html](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
+[https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
 
 [https://www.freecodecamp.org/news/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04/](https://www.freecodecamp.org/news/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04/)
 
@@ -151,7 +151,7 @@ It will create a directory structure like this:
         wsgi.py
 ```
 
-Django is set up out of the box to run after the startproject script is run \(even though it doesn't do much\).
+Django is set up out of the box to run after the startproject script is run (even though it doesn't do much).
 
 ```bash
 cd my_ra_django_project
@@ -203,7 +203,7 @@ The directory structure for the entire repo should look like this:
 
 In Django, what we might call controllers in Express are called views.
 
-**my\_ra\_django\_app/views.py**
+**my_ra_django_app/views.py**
 
 ```python
 from django.http import HttpResponse
@@ -219,7 +219,7 @@ urls.py is similar to routes.js in the Express.js MVC framework we created. It c
 
 There are actually 2 urls.py files, and we need to alter both in order for a request to get to our app. Django looks at the project level `urls.py` first.
 
-**my\_ra\_django\_project/urls.py**
+**my_ra_django_project/urls.py**
 
 ```python
 from django.contrib import admin
@@ -233,7 +233,7 @@ urlpatterns = [
 
 Create a urls file in the app as well:
 
-**my\_ra\_django\_app/urls.py**
+**my_ra_django_app/urls.py**
 
 ```python
 from django.urls import path
@@ -248,7 +248,7 @@ urlpatterns = [
 
 Before we can test the app code, the app itself has to be added to the Django project configuration.
 
-**my\_ra\_django\_project/settings.py**
+**my_ra_django_project/settings.py**
 
 ```python
 # ...
@@ -284,7 +284,7 @@ createdb ra_django_db
 
 Then set the configurations:
 
-**my\_ra\_django\_project/settings.py**
+**my_ra_django_project/settings.py**
 
 ```python
 # ...
@@ -325,13 +325,13 @@ python manage.py makemigrations
 
 Run the migration:
 
-```text
+```
 python manage.py migrate
 ```
 
 Django comes with user functionality builtin. It's best to create a singe default user to begin with.
 
-```text
+```
 python manage.py createsuperuser
 ```
 
@@ -354,13 +354,13 @@ Django initialises several standard tables when we run migrations. This is what 
  public | django_session             | table | akira
 ```
 
-It includes things like the migration tracking table \(like Sequelize does\) and also the user table and user auth table. We'll see that in the next section.
+It includes things like the migration tracking table (like Sequelize does) and also the user table and user auth table. We'll see that in the next section.
 
 ## Models
 
 Django models work very similarly to Sequelize models. They are class instances that allow us to retrieve data from the database without writing SQL statements.
 
-**my\_ra\_django\_app/models.py**
+**my_ra_django_app/models.py**
 
 ```python
 from django.db import models
@@ -380,13 +380,13 @@ class Owner(models.Model):
 
 We can run `makemigrations` to automatically generate the table creation statements, based only on the model code we wrote above.
 
-```text
+```
 python manage.py makemigrations my_ra_django_app
 ```
 
 Run the migration:
 
-```text
+```
 python manage.py migrate my_ra_django_app
 ```
 
@@ -437,7 +437,7 @@ Seed data works similarly to Sequelize seed data. There are a few choices for fo
 ];
 ```
 
-```text
+```
 python manage.py loaddata my_ra_django_app/seed.json
 ```
 
@@ -451,7 +451,7 @@ Now we can use the models in the Django code.
 
 We'll make a new route to test the model:
 
-**my\_ra\_django\_app/urls.py**
+**my_ra_django_app/urls.py**
 
 ```python
 from django.urls import path
@@ -466,7 +466,7 @@ urlpatterns = [
 
 Now we can use the model in the views file:
 
-**my\_ra\_django\_app/views.py**
+**my_ra_django_app/views.py**
 
 ```python
 from django.shortcuts import render
@@ -505,11 +505,11 @@ def owners(request, primary_key):
 
 In Django, the files that produce HTML are called templates. First we need to create a directory for them:
 
-```text
+```
 mkdir my_ra_django_app/templates
 ```
 
-#### my\_ra\_django\_app/template/base.html
+#### my_ra_django_app/template/base.html
 
 We can create a partial template for things like the HTML `body` and `head`.
 
@@ -528,7 +528,7 @@ We can create a partial template for things like the HTML `body` and `head`.
 </html>
 ```
 
-#### my\_ra\_django\_app/template/owners.html
+#### my_ra_django_app/template/owners.html
 
 Now we can output the data we passed into the render method above:
 
@@ -570,14 +570,13 @@ Follow the instructions above to create the Django app.
 
 Add other routes to this app:
 
-| Route | Method | Description |
-| :--- | :--- | :--- |
-| /cats/:id | GET | get a single cat |
-| / | GET | get all the cats |
-| /cats | POST | create a cat |
-| /owners | POST | create an owner |
+| Route     | Method | Description      |
+| --------- | ------ | ---------------- |
+| /cats/:id | GET    | get a single cat |
+| /         | GET    | get all the cats |
+| /cats     | POST   | create a cat     |
+| /owners   | POST   | create an owner  |
 
 #### Further Reading on Forms:
 
 [https://docs.djangoproject.com/en/3.1/intro/tutorial04/](https://docs.djangoproject.com/en/3.1/intro/tutorial04/)
-

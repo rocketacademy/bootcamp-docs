@@ -41,7 +41,7 @@ var list2 = [1,2,3,4,5,6,7,8,9,3];
 var result2 = arrayHasTwo(list2);
 ```
 
-Our function runs slower if the input is bigger. What we are working towards is a generic way to describe how long something takes to run. Mathematically we can express this as a \(mathematical\) function of the length of the parameter array. The longer the array is, the longer it will take the code to run.
+Our function runs slower if the input is bigger. What we are working towards is a generic way to describe how long something takes to run. Mathematically we can express this as a (mathematical) function of the length of the parameter array. The longer the array is, the longer it will take the code to run.
 
 We refer to the size of the input array as _**n**_.
 
@@ -51,7 +51,7 @@ If we plotted the growth of time and of data in _**n**_ on a graph it would look
 
 #### What are We Measuring?
 
-The Computer Science analysis of this speed / complexity makes no assumptions about the properties of this data, so it always assumes that the input data to the function can be zero to infinity length, as opposed to real-world data, which is very dependant on the specific case. The code that looks for a letter in the alphabet needs to be very different from the code that looks for a name amongst millions of users. Also note the lack of graph axis units in the figure above. The kind of measurement we're doing is called [asymptotic analysis.](https://en.wikipedia.org/wiki/Asymptotic_analysis) It also assumes a theoretical "unit" of computation where the absolute time in seconds or hours doesn't matter. When we use Big-O to analyze code a naive approach would be to count  each line of code and count each loop iteration or if a function is called that has a loop in it. Sometimes we'll count built-in functions such as `Array.unshift` because we'll know that the built-in function already has some inherent run-time complexity. \(We'll note each of these special cases when they come up.\)
+The Computer Science analysis of this speed / complexity makes no assumptions about the properties of this data, so it always assumes that the input data to the function can be zero to infinity length, as opposed to real-world data, which is very dependant on the specific case. The code that looks for a letter in the alphabet needs to be very different from the code that looks for a name amongst millions of users. Also note the lack of graph axis units in the figure above. The kind of measurement we're doing is called [asymptotic analysis.](https://en.wikipedia.org/wiki/Asymptotic_analysis) It also assumes a theoretical "unit" of computation where the absolute time in seconds or hours doesn't matter. When we use Big-O to analyze code a naive approach would be to count  each line of code and count each loop iteration or if a function is called that has a loop in it. Sometimes we'll count built-in functions such as `Array.unshift` because we'll know that the built-in function already has some inherent run-time complexity. (We'll note each of these special cases when they come up.)
 
 ## Big-O
 
@@ -100,15 +100,15 @@ var list2 = [1,2,3,4,5,6,7,8,0,3];
 var result2 = arrayHasTwo(list2);
 ```
 
-With the early return statement we've actually saved 2 iterations for `list` and 8 for `list2`!  But Computer Science doesn't care- we haven't defined anywhere in our `arrayHasTwo` function or anywhere else about where the 2 might fall inside the array. The worst case performance of this function is still O\(n\).
+With the early return statement we've actually saved 2 iterations for `list` and 8 for `list2`!  But Computer Science doesn't care- we haven't defined anywhere in our `arrayHasTwo` function or anywhere else about where the 2 might fall inside the array. The worst case performance of this function is still O(n).
 
 Big-O doesn't care about any specific set of data, it also doesn't care about if the data is sorted.
 
-Note that when calculating Big-O, if the problem statement itself defines the input array as always being sorted then this would be taken into account. If, given the above code it was stated that _**the input array is always sorted and starts with a value of zero**_, then the Big-O of the above code would be **O\(3\)** \(and thus **O\(1\)**\)- the worst case performance is that the loop runs 3 times from zero to 2.
+Note that when calculating Big-O, if the problem statement itself defines the input array as always being sorted then this would be taken into account. If, given the above code it was stated that _**the input array is always sorted and starts with a value of zero**_, then the Big-O of the above code would be **O(3) **(and thus** O(1)**)- the worst case performance is that the loop runs 3 times from zero to 2.
 
 ### Coefficients
 
-When expressing Big-O notation, we only consider the variable with the largest order of complexity, and remove any summed variables of lower complexity. When evaluating the variable of largest order of complexity, we also remove any coefficients attached to that variable, since those coefficients make minimal difference in the complexity when we consider large numbers where the complexity matters. For example, if I determined that my algorithm ran in complexity of _**2n² + c**_ time, I would remove the **c** because it is of lower complexity than **n²**, and I would remove the 2 in _**2n²**_ because it is a coefficient. I would then be left with _**O\(n²\)**_.
+When expressing Big-O notation, we only consider the variable with the largest order of complexity, and remove any summed variables of lower complexity. When evaluating the variable of largest order of complexity, we also remove any coefficients attached to that variable, since those coefficients make minimal difference in the complexity when we consider large numbers where the complexity matters. For example, if I determined that my algorithm ran in complexity of _**2n² + c**_ time, I would remove the **c** because it is of lower complexity than **n²**, and I would remove the 2 in _**2n²**_ because it is a coefficient. I would then be left with _**O(n²)**_.
 
 #### What is _c_?
 
@@ -148,7 +148,7 @@ var list2 = [1,2,3,4,5,6,7,8,0,3];
 var result = arraysHaveTwo(list1,list2);
 ```
 
-Nor does _**n**_ necessarily increase if the loops are nested. In this example the loop will only ever run twice. So _**c**_ is 2, and for Big-O we would reduce **O\(2**_**n**_**\)** to **O\(**_**n**_**\)**.
+Nor does _**n**_ necessarily increase if the loops are nested. In this example the loop will only ever run twice. So _**c**_ is 2, and for Big-O we would reduce **O(2**_**n**_**)** to **O(**_**n**_**)**.
 
 ```javascript
 // a function that takes an array as a parameter
@@ -185,11 +185,11 @@ var result = arraysHaveTwo(list);
 {% hint style="info" %}
 **Vocabulary**
 
-We'll be describing code \(Python and JavaScript\) functions and the mathematical definition of a function interchangeably when discussing Big-O. For our purposes here they behave equivalently.
+We'll be describing code (Python and JavaScript) functions and the mathematical definition of a function interchangeably when discussing Big-O. For our purposes here they behave equivalently.
 
 Although technically incorrect, we'll talk about _time, speed and complexity_ interchangeably, because, in the end, Big-O is telling us about the amount of time our code runs in. We don't need to worry about the theoretical distinction between these three words.
 
-The "O" in Big-O [apparently stands for "Order".](https://en.wikipedia.org/wiki/Big_O_notation#History_%28Bachmann%E2%80%93Landau,_Hardy,_and_Vinogradov_notations%29)
+The "O" in Big-O [apparently stands for "Order".](https://en.wikipedia.org/wiki/Big_O_notation#History_\(Bachmann%E2%80%93Landau,\_Hardy,\_and_Vinogradov_notations\))
 {% endhint %}
 
 ### Space Complexity
@@ -209,11 +209,11 @@ function buildArray(count){
 }
 ```
 
-We can say that this function has **O\(**_**n**_**\)** complexity and also takes up **O\(**_**n**_**\)** space. When this function runs the result variable will take up n space. \(Note that it doesn't matter whether or not we return anything at the end, just that a growing array existed while the function was running.\)
+We can say that this function has **O(**_**n**_**)** complexity and also takes up **O(**_**n**_**)** space. When this function runs the result variable will take up n space. (Note that it doesn't matter whether or not we return anything at the end, just that a growing array existed while the function was running.)
 
 #### Reference vs. Value Space Complexity
 
-Manipulating an array is also not the same as "taking up space". In the following code, although we create new variables for each loop iteration, we are not allocating any new space with this function. Thus it has a space complexity of **O\(1\)**.
+Manipulating an array is also not the same as "taking up space". In the following code, although we create new variables for each loop iteration, we are not allocating any new space with this function. Thus it has a space complexity of **O(1)**.
 
 ```javascript
 function shuffleArray(array){
@@ -243,9 +243,9 @@ console.log(list); // this will be the shuffled array.
 
 ## Big-O Order of Complexity
 
-From the following chart by [Geeks for Geeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/), we can visualise the differences in complexity for various Big-O values from **O\(1\)** to **O\(**_**n**_**!\)**. This shows us that there is indeed a large difference between each level of Big-O complexity.
+From the following chart by [Geeks for Geeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/), we can visualise the differences in complexity for various Big-O values from **O(1)** to **O(**_**n**_**!)**. This shows us that there is indeed a large difference between each level of Big-O complexity.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](<../.gitbook/assets/image (4).png>)
 
 ## What is a "good" algorithm?
 
@@ -261,89 +261,89 @@ One of the most classically intractable Computer Science algorithm problems, the
 
 #### Description
 
-Also known as constant time, **O\(1\)** time complexity means that regardless of how big the input of an algorithm is, the algorithm will still be able to complete in a fixed number of iterations.
+Also known as constant time, **O(1)** time complexity means that regardless of how big the input of an algorithm is, the algorithm will still be able to complete in a fixed number of iterations.
 
-**O\(1\)** space complexity means regardless of input size, the algorithm can complete using a fixed amount of additional space, e.g. a fixed number of variables or data structure size excluding the input data.
+**O(1)** space complexity means regardless of input size, the algorithm can complete using a fixed amount of additional space, e.g. a fixed number of variables or data structure size excluding the input data.
 
 #### Example: Find the median element in a sorted array
 
-Given a sorted input array of length _**n**_, find the median element of the array. Median refers to the element that is ranked _**n**_**/2** in the sorting order. One might be tempted to do a for loop over the array and return when the index is _**n**_**/2**, but this would be an **O\(**_**n**_**\)** algorithm because the number of iterations is linear based on _**n**_. Instead, since the array is sorted, we can access the middle element directly with `arr[len(arr)/2]`. This operation does not depend on the size of _**n**_, since the array length is readily available and accessing elements in an array by index is a single operation. This algorithm that immediately retrieves the middle element by index runs in **O\(1\)** time.
+Given a sorted input array of length _**n**_, find the median element of the array. Median refers to the element that is ranked _**n**_**/2 **in the sorting order. One might be tempted to do a for loop over the array and return when the index is _**n**_**/2**, but this would be an **O(**_**n**_**)** algorithm because the number of iterations is linear based on _**n**_. Instead, since the array is sorted, we can access the middle element directly with `arr[len(arr)/2]`. This operation does not depend on the size of _**n**_, since the array length is readily available and accessing elements in an array by index is a single operation. This algorithm that immediately retrieves the middle element by index runs in **O(1)** time.
 
-The above algorithm also runs in **O\(1\)** space complexity because it does not require additional variables other than the input array.
+The above algorithm also runs in **O(1)** space complexity because it does not require additional variables other than the input array.
 
 ### Log Time: `O(logn)`
 
 #### Description
 
-Also known as logarithmic or logn \("log n"\) time, **O\(**_**logn**_**\)** complexity means that the algorithm will need to perform a number of operations proportional to the log of the size of the input. Without getting into too much math, **log\(**_**n**_**\)** represents the exponent necessary to raise a constant number \(typically 2 or 10, the exact number doesn't matter in Big-O\) to the value of _**n**_. For example, assuming a log of base 2, _**log**_**\(2\)** would be 1, and _**log**_**\(1024\)** would be 10. Notice how even though the value of `n` increased by 1000+ between the 2 examples, the value of _**log**_**\(**_**n**_**\)** only increased by roughly 10. Thus _**log**_**\(**_**n**_**\)** is significantly less than _**n**_ at large numbers. 
+Also known as logarithmic or logn ("log n") time, **O(**_**logn**_**)** complexity means that the algorithm will need to perform a number of operations proportional to the log of the size of the input. Without getting into too much math, **log(**_**n**_**)** represents the exponent necessary to raise a constant number (typically 2 or 10, the exact number doesn't matter in Big-O) to the value of _**n**_. For example, assuming a log of base 2, _**log**_**(2) **would be 1, and _**log**_**(1024)** would be 10. Notice how even though the value of `n` increased by 1000+ between the 2 examples, the value of _**log**_**(**_**n**_**)** only increased by roughly 10. Thus _**log**_**(**_**n**_**)** is significantly less than _**n**_ at large numbers. 
 
 #### Example: Find the element with value `x` in a sorted array
 
-Given a sorted input array of length _**n**_, find the position of an element with value **x**. A naïve solution would be to iterate over every element in the array until we find **x**, but this would run in **O\(**_**n**_**\)** or linear time because we would need to search through n elements at most, in the event that **x** were at the end of the array. A more optimal solution would be to perform binary search over the array, which runs in **O\(log**_**n**_**\)** time. Binary search works by splitting a sorted array into halves recursively until it finds the relevant element. This would require us to compare at most on the order of **log\(**_**n**_**\)** elements. For example, if my input array were numbers from 1 to 1000, e.g. \[1, 2, ..., 1000\], to perform binary search on this array, I would first look for the middle element at index _**n**_**/2,** and compare it with **x**. If `x == arr[n/2]`, return `n/2` as the index of x. If `x > arr[n/2]`, repeat the same process on the right half of arr. If `x < arr[n/2]`, repeat the same process on the left half of `arr`. Read more about binary search [here](https://www.geeksforgeeks.org/binary-search/).
+Given a sorted input array of length _**n**_, find the position of an element with value **x**. A naïve solution would be to iterate over every element in the array until we find **x**, but this would run in **O(**_**n**_**) **or linear time because we would need to search through n elements at most, in the event that **x** were at the end of the array. A more optimal solution would be to perform binary search over the array, which runs in **O(log**_**n**_**) **time. Binary search works by splitting a sorted array into halves recursively until it finds the relevant element. This would require us to compare at most on the order of **log(**_**n**_**) **elements. For example, if my input array were numbers from 1 to 1000, e.g. \[1, 2, ..., 1000], to perform binary search on this array, I would first look for the middle element at index _**n**_**/2,** and compare it with **x**. If `x == arr[n/2]`, return `n/2` as the index of x. If `x > arr[n/2]`, repeat the same process on the right half of arr. If `x < arr[n/2]`, repeat the same process on the left half of `arr`. Read more about binary search [here](https://www.geeksforgeeks.org/binary-search/).
 
-The above algorithm runs in **O\(1\)** space because it does not require additional variables beyond the input elements.
+The above algorithm runs in **O(1)** space because it does not require additional variables beyond the input elements.
 
 ### Linear Time: _`O(n)`_
 
 #### Description
 
-Known as linear time, **O\(**_**n**_**\)** complexity means that the algorithm needs to inspect at most each element of the input a constant number of times. 
+Known as linear time, **O(**_**n**_**)** complexity means that the algorithm needs to inspect at most each element of the input a constant number of times. 
 
 #### Example: Find the largest number in an unsorted array
 
-Given an unsorted input array of numbers of length n, find the position of the largest number. We cannot perform binary search on this array because it is unsorted and we do not know the value of the largest number. If the array were sorted, we could extract the last element of the array which would be the largest number in **O\(1\)** time. The fastest sorting algorithms take **O\(**_**nl**_**og**_**n**_**\)** time complexity. Thus the best method we have is to iterate over each element of the array linearly \(i.e. a for loop\) until we reach the end of the array and confirm the largest number, which would take **O\(**_**n**_**\)** time complexity.
+Given an unsorted input array of numbers of length n, find the position of the largest number. We cannot perform binary search on this array because it is unsorted and we do not know the value of the largest number. If the array were sorted, we could extract the last element of the array which would be the largest number in **O(1)** time. The fastest sorting algorithms take **O(**_**nl**_**og**_**n**_**)** time complexity. Thus the best method we have is to iterate over each element of the array linearly (i.e. a for loop) until we reach the end of the array and confirm the largest number, which would take **O(**_**n**_**) **time complexity.
 
-The above algorithm runs in **O\(1\)** space because it does not require additional variables beyond the input elements.
+The above algorithm runs in **O(1)** space because it does not require additional variables beyond the input elements.
 
 ### Loglinear Time: `O(nlogn)`
 
 #### Description
 
-**O\(**_**n**_**log**_**n**_**\)** complexity typically involves performing a binary-search-like operation for every element in the input.
+**O(**_**n**_**log**_**n**_**)** complexity typically involves performing a binary-search-like operation for every element in the input.
 
 #### Example: Sort an unsorted array of numbers
 
-It's rare to invent a sorting algorithm from scratch. Computer scientists have been working on efficient sorting algorithms since the start of the field, and so far they have concluded that [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) is the fastest sorting algorithm \(in the worst case\) that exists today, and it runs in **O\(**_**n**_**log**_**n**_**\)** time. Thus whenever we are given a problem to sort an unordered list, our first instinct should be to think that this could run in **O\(**_**n**_**log**_**n**_**\)** time.
+It's rare to invent a sorting algorithm from scratch. Computer scientists have been working on efficient sorting algorithms since the start of the field, and so far they have concluded that [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) is the fastest sorting algorithm (in the worst case) that exists today, and it runs in **O(**_**n**_**log**_**n**_**)** time. Thus whenever we are given a problem to sort an unordered list, our first instinct should be to think that this could run in **O(**_**n**_**log**_**n**_**)** time.
 
 Companies rarely ask candidates to implement sorting algorithms such as merge sort in interviews because it's the kind of answer that can be memorised. It doesn't hurt to memorise how common sorting algorithms such as merge sort work, but there's no need to spend too much time on them other than to understand how they work.
 
-The above Merge Sort algorithm runs in **O\(**_**n**_**\)** space because at any given time it requires temporary storage space on the order of n elements in addition to the input data.
+The above Merge Sort algorithm runs in **O(**_**n**_**)** space because at any given time it requires temporary storage space on the order of n elements in addition to the input data.
 
 ### **Quadratic Time:** `O(n²)`
 
 #### Description
 
-_**O\(n²\)**_ complexity typically involves nested loops over an input collection. 
+_**O(n²)**_ complexity typically involves nested loops over an input collection. 
 
 #### Example: Find all pairs of numbers in an array
 
-Given an array of numbers, find all unordered pairs of those numbers. This problem requires us to loop through each element of the array, and for each element of the array, loop through each other element of the array. This is a classic _**O\(n²\)**_ -complexity algorithm.
+Given an array of numbers, find all unordered pairs of those numbers. This problem requires us to loop through each element of the array, and for each element of the array, loop through each other element of the array. This is a classic _**O(n²)**_ -complexity algorithm.
 
-The above algorithm requires **O\(**_**n**_**\)** space during calculation, but its output will require space proportional to the size of the output, roughly _**n**_**C2** or "_**n**_ choose 2".
+The above algorithm requires **O(**_**n**_**)** space during calculation, but its output will require space proportional to the size of the output, roughly _**n**_**C2** or "_**n**_ choose 2".
 
 ### Exponential Time: `O(2ⁿ)`
 
 #### Description
 
-Also known as exponential complexity, **`O(2ⁿ)`** complexity \(and any **`O(Cⁿ)`** complexity where **C** is a constant\) is the highest order of complexity \(without combining it with itself or others above\) and typically bad. If you find that your algorithm runs in exponential complexity in a DS&A interview, there is probably a more efficient algorithm to solve the problem.
+Also known as exponential complexity, **`O(2ⁿ)`** complexity (and any **`O(Cⁿ)`** complexity where **C** is a constant) is the highest order of complexity (without combining it with itself or others above) and typically bad. If you find that your algorithm runs in exponential complexity in a DS\&A interview, there is probably a more efficient algorithm to solve the problem.
 
 #### Example: Calculate the n-th Fibonacci Number
 
-The Fibonacci sequence is defined as **Fib\(**_**n**_**\) = Fib\(**_**n**_**-1\) + Fib\(**_**n**_**-2\)**, where **Fib\(0\) == 1** and **Fib\(1\) == 1**. The naïve way to solve Fibonacci is to write a recursive algorithm that calculates **Fib\(**_**n**_**\)** by calling **Fib\(**_**n**_**-1\)** and **Fib\(**_**n**_**-2\)**. However, this results in 2 operations per Fib operation, and because each Fib operation runs recursively, we end up with **2ⁿ** operations because it would take n levels of Fib operations to reach the base cases of **Fib\(0\)** and **Fib\(1\)**. Interestingly, this problem can be solved in **O\(**_**n**_**\)** time complexity. See [here](https://stackoverflow.com/questions/18172257/efficient-calculation-of-fibonacci-series) for solution. 
+The Fibonacci sequence is defined as **Fib(**_**n**_**) = Fib(**_**n**_**-1) + Fib(**_**n**_**-2)**, where** Fib(0) == 1** and **Fib(1) == 1**. The naïve way to solve Fibonacci is to write a recursive algorithm that calculates **Fib(**_**n**_**)** by calling **Fib(**_**n**_**-1)** and **Fib(**_**n**_**-2)**. However, this results in 2 operations per Fib operation, and because each Fib operation runs recursively, we end up with **2ⁿ** operations because it would take n levels of Fib operations to reach the base cases of **Fib(0) **and **Fib(1)**. Interestingly, this problem can be solved in **O(**_**n**_**) **time complexity. See [here](https://stackoverflow.com/questions/18172257/efficient-calculation-of-fibonacci-series) for solution. 
 
-The **O\(2ⁿ\)** time complexity algorithm above also requires **O\(2ⁿ\)** space complexity because at any given time, there will be up to **O\(2ⁿ\)** simultaneous function calls, thus **O\(2ⁿ\)** intermediate Fib calculations in memory. However, the optimal **O\(n\)** time complexity solution only requires **O\(1\)** space complexity because it only uses a finite number of variables to calculate **Fib\(n\)**, regardless of _**n**_.
+The **O(2ⁿ) **time complexity algorithm above also requires **O(2ⁿ)** space complexity because at any given time, there will be up to **O(2ⁿ) **simultaneous function calls, thus **O(2ⁿ)** intermediate Fib calculations in memory. However, the optimal** O(n)** time complexity solution only requires **O(1)** space complexity because it only uses a finite number of variables to calculate **Fib(n)**, regardless of _**n**_.
 
 ### Factorial Time: `O(n!)`
 
 A naive solution to finding all permutations of an array:
 
-```text
+```
 permutations([1, 2, 3])
 ```
 
 where the solution would be:
 
-```text
+```
 [1, 2, 3]
 [1, 3, 2]
 [2, 1, 3]
@@ -359,6 +359,4 @@ The Travelling Salesman algorithm referenced above is also an example of a probl
 ## Further Reading
 
 {% embed url="https://www.youtube.com/watch?v=D6xkbGLQesk" %}
-
-
 

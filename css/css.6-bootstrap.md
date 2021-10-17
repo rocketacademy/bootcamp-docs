@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Bootstrap](https://getbootstrap.com/) is an open-source CSS library created at Twitter and [open-sourced in 2011](https://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29). It provides a set of styles for a 12-column grid, and CSS and JS for common UI elements, such as carousels and alert boxes.
+[Bootstrap](https://getbootstrap.com) is an open-source CSS library created at Twitter and [open-sourced in 2011](https://en.wikipedia.org/wiki/Bootstrap_\(front-end_framework\)). It provides a set of styles for a 12-column grid, and CSS and JS for common UI elements, such as carousels and alert boxes.
 
 ## Why use Bootstrap
 
@@ -22,11 +22,11 @@ Do not add any box model or layout styles to an element that already has a Boots
 
 Bootstrap CSS allows a developer to write HTML classes and create mobile-first responsive layouts easily. 
 
-{% embed url="https://www.youtube.com/watch?v=qmPmwdshCMw" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=qmPmwdshCMw" %}
 
 ## Equal 2-column Layout
 
-[https://getbootstrap.com/docs/5.0/layout/grid/\#equal-width](https://getbootstrap.com/docs/5.0/layout/grid/#equal-width)
+[https://getbootstrap.com/docs/5.0/layout/grid/#equal-width](https://getbootstrap.com/docs/5.0/layout/grid/#equal-width)
 
 {% embed url="https://codepen.io/awongh-sandwich/pen/poPWJOg" %}
 
@@ -36,13 +36,13 @@ Bootstrap CSS allows a developer to write HTML classes and create mobile-first r
 Resize the window to see the columns resize themselves!
 {% endhint %}
 
-[https://getbootstrap.com/docs/5.0/layout/grid/\#all-breakpoints](https://getbootstrap.com/docs/5.0/layout/grid/#all-breakpoints)
+[https://getbootstrap.com/docs/5.0/layout/grid/#all-breakpoints](https://getbootstrap.com/docs/5.0/layout/grid/#all-breakpoints)
 
 {% embed url="https://codepen.io/awongh-sandwich/pen/KKmXpYz" %}
 
 ## Bootstrap Starter Code
 
-From here: [https://getbootstrap.com/docs/5.0/getting-started/introduction/\#starter-template](https://getbootstrap.com/docs/5.0/getting-started/introduction/#starter-template)
+From here: [https://getbootstrap.com/docs/5.0/getting-started/introduction/#starter-template](https://getbootstrap.com/docs/5.0/getting-started/introduction/#starter-template)
 
 ```markup
 <!doctype html>
@@ -71,12 +71,12 @@ From here: [https://getbootstrap.com/docs/5.0/getting-started/introduction/\#sta
 
 Bootstrap grid has built-in mobile first responsive media query breakpoints. When setting media queries to match up with the bootstrap breakpoints here are the pixel widths:
 
-| size | xs &lt;576px | sm ≥576px | md ≥768px | lg ≥992px | xl ≥1200px | xxl ≥1400px |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Container `max-width` | None \(auto\) | 540px | 720px | 960px | 1140px | 1320px |
-| Class prefix | `.col-` | `.col-sm-` | `.col-md-` | `.col-lg-` | `.col-xl-` | `.col-xxl-` |
+| size                  | <p>xs<br>&#x3C;576px</p> | <p>sm<br>≥576px</p> | <p>md<br>≥768px</p> | <p>lg<br>≥992px</p> | <p>xl<br>≥1200px</p> | <p>xxl<br>≥1400px</p> |
+| --------------------- | ------------------------ | ------------------- | ------------------- | ------------------- | -------------------- | --------------------- |
+| Container `max-width` | None (auto)              | 540px               | 720px               | 960px               | 1140px               | 1320px                |
+| Class prefix          | `.col-`                  | `.col-sm-`          | `.col-md-`          | `.col-lg-`          | `.col-xl-`           | `.col-xxl-`           |
 
-[https://getbootstrap.com/docs/5.0/layout/grid/\#grid-options](https://getbootstrap.com/docs/5.0/layout/grid/#grid-options)
+[https://getbootstrap.com/docs/5.0/layout/grid/#grid-options](https://getbootstrap.com/docs/5.0/layout/grid/#grid-options)
 
 ## Exercise
 
@@ -87,4 +87,3 @@ Inspect the CSS of the columns to see how the column widths are being set.
 ## Further Reading:
 
 [https://getbootstrap.com/docs/5.0/getting-started/introduction/](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-

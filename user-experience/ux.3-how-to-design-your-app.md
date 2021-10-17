@@ -43,7 +43,7 @@ User flows describes the series of high-level steps the user has to take to acco
 
 ### Wireframes
 
-{% embed url="https://youtu.be/KdfO\_e0yK-g" %}
+{% embed url="https://youtu.be/KdfO_e0yK-g" %}
 
 User stories define the intended user and business goals when interacting with a page. Wireframes should organize the content to support these goals.
 
@@ -74,7 +74,7 @@ Information architecture is the process of designing a page or screen that gives
 
 ### **1.Begin with what you want the project to be**
 
-In bootcamp the main focus of the projects are the technology aspects. The goal of the bootcamp UX material is to incorporate UX design work as much as is possible into every project. This means that \(even though a real-world workflow would not work this way\) we can work backwards from the technology to justify product decisions, using UX design.
+In bootcamp the main focus of the projects are the technology aspects. The goal of the bootcamp UX material is to incorporate UX design work as much as is possible into every project. This means that (even though a real-world workflow would not work this way) we can work backwards from the technology to justify product decisions, using UX design.
 
 In this context once we've decided what the project should be and what technologies are going to be included, we can look backwards and define the product vision. The vision should answer these questions:
 
@@ -110,7 +110,7 @@ Begin to think about pages / screens. How is the user going to accomplish these 
 
 #### c. Draw wireframes.
 
-Create wireframes that encompass the tasks and activities. Each wireframe should include the UI elements the user will need to accomplish the task/goal. Use information hierarchy to define where to place elements in relation to each other. Use convention to decide what part of a page a section should go. \(i.e., shopping cart goes in the nav bar at the top.
+Create wireframes that encompass the tasks and activities. Each wireframe should include the UI elements the user will need to accomplish the task/goal. Use information hierarchy to define where to place elements in relation to each other. Use convention to decide what part of a page a section should go. (i.e., shopping cart goes in the nav bar at the top.
 
 #### d. MVP Prioritization
 
@@ -132,7 +132,7 @@ Define the MVP given the task / feature prioritization and at this stage also ta
 
 #### User Flows
 
-{% embed url="https://www.youtube.com/watch?v=\_kPuHPKpCP0" %}
+{% embed url="https://www.youtube.com/watch?v=_kPuHPKpCP0" %}
 
 #### Wireframes
 
@@ -141,6 +141,4 @@ Define the MVP given the task / feature prioritization and at this stage also ta
 #### User Journey Mapping
 
 {% embed url="https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c" %}
-
-
 

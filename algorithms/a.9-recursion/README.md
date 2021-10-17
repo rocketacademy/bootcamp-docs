@@ -112,7 +112,134 @@ From now on we'll refer to writing "loops" (code that repeats a given number of 
 
 The history of recursion is deeply tied to the invention of Turing's theoretical computer. The word recursion is not just a topic in Computer Science but also a topic in mathematical logic. So the concept of recursion is deeper than simply a function that calls itself. It is any construct or system that is defined in terms of itself. Implementations of the concept of recursion include a [JavaScript interpreter written in JavaScript](./#part-2), or a [quine](https://en.wikipedia.org/wiki/Quine_\(computing\)), a program whose purpose is to print out it's own code. However, the purposes of Rocket's algorithms content we can assume the word recursion to mean a loop.
 
-## Simple Recursion Examples
+## Examples
+
+### Infinite Recursive Loop
+
+Given this infinite iterative loop:
+
+```
+count = 0
+while True:
+    print(f'count: {count}')
+    count += 1
+```
+
+Let's implement the same loop in recursion.
+
+```
+def loop_count_times(count: int) -> None
+    print(f'count: {count}')
+    new_count = count + 1
+    loop_count_times(new_count)
+
+loop_count_times(0)   # start the loop at zero, will increase forever
+```
+
+### Base Case - How to End the Loop
+
+Given this iterative loop:
+
+```
+count = 5
+while count != 0:
+    print(f'count: {count}')
+    count -= 1
+```
+
+Let's implement the same loop in recursion.
+
+```
+def loop_count_times(count: int) -> None
+    print(f'count: {count}')
+    if count == 0:
+        return
+    new_count = count - 1
+    loop_count_times(new_count)
+
+loop_count_times(5)   
+```
+
+On line 3 we are writing what's called a Base Case. We need to be able to write code that, in contrast to the infinite example above, knows when to end the loop.
+
+### Base Case with Parameters
+
+How can we implement a recursive loop that counts up instead of down?
+
+Given this iterative loop:
+
+```
+count = 0
+while count < 5:
+    print(f'count: {count}')
+    count += 1
+```
+
+Let's implement the same loop in recursion.
+
+```
+def loop_count_times(max: int, count: int) -> None
+    print(f'count: {count}')
+    if count == max:
+        return
+    new_count = count + 1
+    loop_count_times(max, new_count)
+
+loop_count_times(5,0)   
+```
+
+Also note that it is a convention to have the base case at the top of the function. We actually call the function at the end once just to check the count value and return / end the loop, even though it isn't affecting the counter- it will just end after the check fails.
+
+### Recursive Return
+
+How do we write recursive functions that returns values?
+
+![Demonstration of recursive string reverse from here: https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0](../../.gitbook/assets/recurse_string.gif)
+
+Given this iterative loop:
+
+```
+def reverse_iter(word: str) -> str:
+    result = ''
+    for char in word:
+        result = char + result
+    return result
+    
+reverse_iter('hello') # olleh
+```
+
+Let's implement the same loop in recursion.
+
+```
+def reverse_recurse(word: str) -> str:
+  
+  if len(word) == 0:
+    return ''
+  
+  last_letter = word[-1] # letter at the end of the word
+  rest = word[:-1] # the rest of the string except the last letter
+  
+  # get the result of reversing every other letter before the current one
+  recurse_result = reverse(rest)
+  
+  new_string = last_letter + recurse_result # arrange the last letter in front
+  
+  return new_string
+  
+reverse_recurse('hello') # olleh
+```
+
+#### Compact Refactor
+
+```
+def reverse_recurse_compact(word: str) -> str:
+  if len(word) == 0:
+    return ''
+  else:
+    return word[-1] + reverse_recurse_compact(word[:-1])
+```
+
+
 
 
 
