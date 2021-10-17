@@ -205,7 +205,7 @@ def reverse_iter(word: str) -> str:
         result = char + result
     return result
     
-reverse_iter('hello') # olleh
+result = reverse_iter('hello') # olleh
 ```
 
 Let's implement the same loop in recursion.
@@ -226,7 +226,7 @@ def reverse_recurse(word: str) -> str:
   
   return new_string
   
-reverse_recurse('hello') # olleh
+result = reverse_recurse('hello') # olleh
 ```
 
 #### Compact Refactor
@@ -237,6 +237,8 @@ def reverse_recurse_compact(word: str) -> str:
     return ''
   else:
     return word[-1] + reverse_recurse_compact(word[:-1])
+    
+result = reverse_recurse_compact('hello')
 ```
 
 
