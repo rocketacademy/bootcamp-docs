@@ -4,7 +4,7 @@
 
 Recursion is one of the most powerful techniques in programming, albeit rarely used in business applications because business applications typically do not require it. Recursion is the concept of a function calling itself to achieve its result. A classic example is the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number), where `Fib(n) = Fib(n-1) + Fib(n-2)`. The `Fib` function would repeatedly call itself until it reaches a so-called **"base case"**, after which the latest function calls would then `return` to the previous function calls.
 
-Recursion is an alternative to iteration \(i.e. loops\), and every problem that can be solved recursively should also be solvable iteratively. However, some problems are far easier to solve recursively or iteratively than vice versa, so recursion is an indispensable tool in the DS&A tool kit. 
+Recursion is an alternative to iteration (i.e. loops), and every problem that can be solved recursively should also be solvable iteratively. However, some problems are far easier to solve recursively or iteratively than vice versa, so recursion is an indispensable tool in the DS\&A tool kit. 
 
 There are 2 concepts to remember with recursion.
 
@@ -34,7 +34,7 @@ We will be working through these exercises over multiple days. Please see your b
 
 We will complete the Learn Python Recursion Repl. Please start with [this empty starter repl](https://repl.it/@kaiyuanneo/Recursion#main.py). RA created this repl by copying the @Learnpython Recursion Repl and removing answers.
 
-1. Pressing the Play button \(`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac\) in Repl to run `main.py` will execute all problems against the provided test cases.
+1. Pressing the Play button (`Ctrl+Enter` on Windows, `Cmd+Enter` on Mac) in Repl to run `main.py` will execute all problems against the provided test cases.
 2. To limit the problems that Repl executes at any given time, see instructions in the Repl document to edit the `problems` array in the `main` function.
 3. See [here](https://docs.repl.it/repls/editor) for useful keyboard shortcuts in Repl.
 
@@ -86,5 +86,33 @@ Please attempt to solve each problem on your own before reviewing each problem's
 ## Optional Reading
 
 1. Fast Exponentiation. What would be the time complexity of an algorithm to calculate the value of `2^n`, where `n` is an input value? A naïve solution would be to write a for loop to multiply 2 by itself `n` times, which would run in `O(n)` time complexity. However, if we take the notion that `2^2^2 == 2^4` , and `2^4^2 == 2^8`, we can see that we can calculate `2^n` in many fewer operations than `n`, on the order of `log(n)`, with time complexity of `O(logn)`. Fast exponentiation can be implemented relatively easily with recursion. Programming languages typically implement exponent operators using fast exponentiation.
-   1. [https://en.wikipedia.org/wiki/Exponentiation\_by\_squaring\#Basic\_method](https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Basic_method)
+   1. [https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Basic_method](https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Basic_method)
+
+## Introduction
+
+For solving certain types of algorithm problems we'll want to repeat an action several times, as in a loop- the syntax keyword `for` in JavaScript and Python. There is another syntax to repeat some code a set number of times called recursion. Recursion is a function that calls itself. Specifically we we need to add some features inside the function so that it stops after _n_ times.
+
+We'll see through some examples where a given concept or code is expressed more elegantly (not necessarily more simply) in the format of a function that calls itself. This may be preferable to writing the code using the `for` keyword to make a loop.
+
+```
+def say_something
+    print("hello")
+    say_something() # keep repeating this function forever
+```
+
+### New Vocabulary for Loops
+
+When we introduce this new syntax for repeating some code with a function that calls itself, we'll still call that a loop, but make a new distinction between what kind of loop it is.
+
+#### Iterative vs. Recursive
+
+From now on we'll refer to writing "loops" (code that repeats a given number of times) either as _**iteratively**_, that is using something like the `for` keyword or any of the other ways we wrote repeating code before- `while`, `map`, etc. **or** we'll refer to the loop as _**recursive**_- using a function that calls itself.
+
+## Background on Recursion
+
+The history of recursion is deeply tied to the invention of Turing's theoretical computer. The word recursion is not just a topic in Computer Science but also a topic in mathematical logic. So the concept of recursion is deeper than simply a function that calls itself. It is any construct or system that is defined in terms of itself. Implementations of the concept of recursion include a [JavaScript interpreter written in JavaScript](./#part-2), or a [quine](https://en.wikipedia.org/wiki/Quine_\(computing\)), a program whose purpose is to print out it's own code. However, the purposes of Rocket's algorithms content we can assume the word recursion to mean a loop.
+
+## Simple Recursion Examples
+
+
 
