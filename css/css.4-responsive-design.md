@@ -4,7 +4,7 @@
 
 ## Introduction
 
-"Responsive design" describes web designs that change layout depending on the width of the screen \(e.g. mobile vs desktop\). Most responsive design is implemented with CSS media queries.
+"Responsive design" describes web designs that change layout depending on the width of the screen (e.g. mobile vs desktop). Most responsive design is implemented with CSS media queries.
 
 Responsive designs are done in "breakpoints" as in the illustration above. Each layout is arranged for a target screen width, usually in this order starting with the narrowest: mobile portrait, tablet, laptop then desktop.
 
@@ -12,7 +12,7 @@ Responsive designs are done in "breakpoints" as in the illustration above. Each 
 
 When developing responsive webpages, develop the mobile layout first because the mobile layout typically has fewer parts. Then develop the tablet and desktop versions which, because of the increased screen real-estate, usually adds to the design. It is more difficult to go the other way around, because using CSS to take things out of the narrower mobile view is harder than putting them into the wider desktop view.
 
-{% embed url="https://www.youtube.com/watch?v=ZYV6dYtz4HA" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=ZYV6dYtz4HA" %}
 
 ## Responsive Design Principles
 
@@ -30,3 +30,6 @@ For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 ```
 
+## Further Reading
+
+Video on media queries: [https://www.youtube.com/watch?v=na-X_SM8vg0](https://www.youtube.com/watch?v=na-X_SM8vg0)

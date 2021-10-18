@@ -27,7 +27,7 @@
 * [Project 5: Group React App](projects/project-5-group-react-app.md)
 * [Project 6: Capstone](projects/project-6-capstone.md)
 
-## 0⃣ Language and Tooling <a href="0-language-and-tooling" id="0-language-and-tooling"></a>
+## 0⃣ 0⃣ Language and Tooling
 
 * [0.0: Module 0 Overview](0-language-and-tooling/0.0-module-0-overview.md)
 * [0.1: New JS Syntax](0-language-and-tooling/0.1-new-js-syntax.md)
@@ -51,7 +51,7 @@
 * [0.ICE: In-Class Exercises](0-language-and-tooling/0.ice-in-class-exercises/README.md)
   * [0.ICE.1: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
-## 1⃣ Frontend Basics <a href="1-frontend-basics" id="1-frontend-basics"></a>
+## 1⃣ 1⃣ Frontend Basics
 
 * [1.0: Module 1 Overview](1-frontend-basics/1.0-module-1-overview.md)
 * [1.1: HTML](1-frontend-basics/1.1-html/README.md)
@@ -114,7 +114,7 @@
   * [1.POCE.CSS.3: Bootstrap Columns](css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns.md)
   * [1.POCE.CSS.4: Bootstrap Adobe](css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
 
-## 2⃣ Backend Basics <a href="2-backend-basics" id="2-backend-basics"></a>
+## 2⃣ 2⃣ Backend Basics
 
 * [2.0: Module 2 Overview](2-backend-basics/2.0-module-2-overview.md)
 * [2.1: My First Node.js Program](2-backend-basics/2.1-my-first-node-program.md)
@@ -149,7 +149,7 @@
   * [2.POCE.5: Responsive Noodle Site](2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
   * [2.POCE.6: To-Do List - JSON DB](2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
-## 3⃣ Backend Applications <a href="3-backend-applications" id="3-backend-applications"></a>
+## 3⃣ 3⃣ Backend Applications
 
 * [3.0: Module 3 Overview](3-backend-applications/3.0-module-3-overview.md)
 * [3.1: Express.js](3-backend-applications/3.1-express-js/README.md)
@@ -219,7 +219,7 @@
   * [3.POCE.10: EC2 Deployment with Postgres](3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md)
   * [3.POCE.11: Heroku Deployment](3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment.md)
 
-## 4⃣ Backend Structure <a href="4-backend-structure" id="4-backend-structure"></a>
+## 4⃣ 4⃣ Backend Structure
 
 * [4.0: Module 4 Overview](4-backend-structure/4.0-module-4-overview.md)
 * [4.1: ORM, Sequelize](4-backend-structure/4.1-orm-sequelize/README.md)
@@ -241,7 +241,7 @@
   * [4.POCE.2: Drummers for Hire](4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
   * [4.POCE.3: Project 2 MVC Refactor](4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
-## 5⃣ Full-Stack Applications <a href="5-full-stack-applications" id="5-full-stack-applications"></a>
+## 5⃣ 5⃣ Full-Stack Applications
 
 * [5.0: Module 5 Overview](5-full-stack-applications/5.0-module-5-overview.md)
 * [5.1: DOM Manipulation with Express App](5-full-stack-applications/5.1-dom-manipulation-with-express-app.md)
@@ -258,7 +258,7 @@
   * [5.POCE.2: Bug Reports AJAX Users](5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
   * [5.POCE.3: AJAX Cards](5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 
-## 6⃣ Frontend Infrastructure <a href="6-frontend-infrastructure" id="6-frontend-infrastructure"></a>
+## 6⃣ 6⃣ Frontend Infrastructure
 
 * [6.0: Module 6 Overview](6-frontend-infrastructure/6.0-module-6-overview.md)
 * [6.1: Webpack](6-frontend-infrastructure/6.1-webpack/README.md)
@@ -271,7 +271,7 @@
 * [6.ICE: In-Class Exercises](6-frontend-infrastructure/6.ice-in-class-exercises/README.md)
   * [6.ICE.1: NPM Webpack](6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
 
-## 7⃣ React <a href="7-react" id="7-react"></a>
+## 7⃣ 7⃣ React
 
 * [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
 * [7.1: JSX Intro](7-react/7.1-jsx-intro/README.md)
@@ -302,7 +302,7 @@
   * [7.POCE.3: Read Later](7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
   * [7.POCE.4: Hot Pot Bill Splitter](7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 
-## 8⃣ Advanced React <a href="8-advanced-react" id="8-advanced-react"></a>
+## 8⃣ 8⃣ Advanced React
 
 * [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
 * [8.1: Create React App](8-advanced-react/8.1-create-react-app/README.md)
@@ -328,7 +328,7 @@
   * [8.POCE.1: Car Rental](8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
   * [8.POCE.2: (Group Project) Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 
-## 9⃣ Advanced Topics <a href="9-advanced-topics" id="9-advanced-topics"></a>
+## 9⃣ 9⃣ Advanced Topics
 
 * [9.0: Module 9 Overview](9-advanced-topics/9.0-module-9-overview.md)
 * [9.1: Testing](9-advanced-topics/9.1-testing/README.md)
