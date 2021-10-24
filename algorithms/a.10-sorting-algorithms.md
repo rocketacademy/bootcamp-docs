@@ -4,25 +4,27 @@
 
 This module explores various ways to sort unsorted arrays of numbers. While our examples only use numbers, the same methods can be used to sort arrays of arbitrary data types according to arbitrary sort order.
 
-We will rarely write sorting algorithms as software engineers because most languages have built-in sorting functions, and DS&A interview questions rarely test sorting algorithms because sorting algorithms are relatively easily memorised. However, we will learn sorting algorithms because they are a common-enough concept in DS&A and the strategies behind sorting algorithms can be relevant to how we approach other DS&A problems.
+We will rarely write sorting algorithms as software engineers because most languages have built-in sorting functions, and DS\&A interview questions rarely test sorting algorithms because sorting algorithms are relatively easily memorised. However, we will learn sorting algorithms because they are a common-enough concept in DS\&A and the strategies behind sorting algorithms can be relevant to how we approach other DS\&A problems.
 
 There is no need to memorise the below sorting algorithms' implementation. Just understand how they work such that you could describe their logic well-enough to write pseudocode.
 
-## `O(n^2)` Time, `O(1)` Space Sorting Algorithms
+## `Naive` Sorting Algorithms
 
 ### Selection Sort
 
-Runtime: _**O(n²)**_
-Space: _**O(1)**_
-Sort In-Place: Yes
-Stable: No
+* Runtime: _**O(n²)**_
+* Space: _**O(1)**_
+* Sort In-Place: Yes
+* Stable: No
 
 #### Attributes
-- good space complexity
-- simple code
-- slow for large lists / fast for small lists
+
+* good space complexity
+* simple code
+* slow for large lists / fast for small lists
 
 #### Selection Sort Pseudo Code
+
 ```
 for each element in the array
   consider the current element as the least value
@@ -33,6 +35,7 @@ for each element in the array
 ```
 
 #### Selection Sort
+
 ```
 from pprint import pprint
 
@@ -67,6 +70,7 @@ pprint( result)
 ```
 
 #### Selection Sort with Prints
+
 ```
 from pprint import pprint
 
@@ -108,37 +112,39 @@ print ("Sorted array")
 pprint( result)
 ```
 
-### Further Reading
+#### Further Reading
 
-https://www.youtube.com/watch?v=xWBP4lzkoyM
+{% embed url="https://www.youtube.com/watch?v=xWBP4lzkoyM" %}
 
-https://www.youtube.com/watch?v=g-PGLbMth_g
+{% embed url="https://www.youtube.com/watch?v=g-PGLbMth_g" %}
 
-https://www.algostructure.com/sorting/selectionsort.php
+[https://www.algostructure.com/sorting/selectionsort.php](https://www.algostructure.com/sorting/selectionsort.php)
 
-https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/visualize/
+[https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/visualize/](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/visualize/)
 
-https://www.programiz.com/dsa/selection-sort
+[https://www.programiz.com/dsa/selection-sort](https://www.programiz.com/dsa/selection-sort)
 
-https://www.tutorialspoint.com/data_structures_algorithms/selection_sort_algorithm.htm
+[https://www.tutorialspoint.com/data\_structures\_algorithms/selection\_sort\_algorithm.htm](https://www.tutorialspoint.com/data\_structures\_algorithms/selection\_sort\_algorithm.htm)
 
-https://en.wikipedia.org/wiki/Insertion_sort
+[https://en.wikipedia.org/wiki/Insertion\_sort](https://en.wikipedia.org/wiki/Insertion\_sort)
 
 ### Insertion Sort
 
-Runtime: _**O(n²)**_
-Space: _**O(1)**_
-Sort In-Place: Yes
-Stable: Yes
+* Runtime: _**O(n²)**_
+* Space: _**O(1)**_
+* Sort In-Place: Yes
+* Stable: Yes
 
 #### Attributes
-- good space complexity
-- simple code
-- slow for large lists / fast for small lists
-- good for nearly sorted lists - will exit early if list is done ("adaptive")
-- can sort while new items are being added to list ("online")
+
+* good space complexity
+* simple code
+* slow for large lists / fast for small lists
+* good for nearly sorted lists - will exit early if list is done ("adaptive")
+* can sort while new items are being added to list ("online")
 
 #### Insertion Sort Pseudo Code
+
 ```
 begin with the second element
 for each element in the array, starting with the second element
@@ -150,6 +156,7 @@ for each element in the array, starting with the second element
 ```
 
 #### Insertion Sort
+
 ```
 from pprint import pprint
 
@@ -182,6 +189,7 @@ pprint( result)
 ```
 
 #### Insertion Sort with Prints
+
 ```
 from pprint import pprint
 
@@ -218,33 +226,34 @@ print ("Sorted array")
 pprint( result)
 ```
 
-### Further Reading
+#### Further Reading
 
-https://www.youtube.com/watch?v=OGzPmgsI-pQ
+{% embed url="https://www.youtube.com/watch?v=OGzPmgsI-pQ" %}
 
-https://www.youtube.com/watch?v=JU767SDMDvA
+{% embed url="https://www.youtube.com/watch?v=JU767SDMDvA" %}
 
-https://www.algostructure.com/sorting/insertionsort.php
+[https://www.algostructure.com/sorting/insertionsort.php](https://www.algostructure.com/sorting/insertionsort.php)
 
-https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/
+[https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/)
 
-https://www.programiz.com/dsa/insertion-sort
+[https://www.programiz.com/dsa/insertion-sort](https://www.programiz.com/dsa/insertion-sort)
 
-https://www.geeksforgeeks.org/insertion-sort/
-
+[https://www.geeksforgeeks.org/insertion-sort/](https://www.geeksforgeeks.org/insertion-sort/)
 
 ### Bubble Sort
 
-Runtime: _**O(n²)**_
-Space: _**O(1)**_
-Sort In-Place: Yes
-Stable: Yes
+* Runtime: _**O(n²)**_
+* Space: _**O(1)**_
+* Sort In-Place: Yes
+* Stable: Yes
 
 #### Attributes
 
-- good space complexity
-- simple code
-- slow for large lists / fast for small lists
+* good space complexity
+* simple code
+* slow for large lists / fast for small lists
+
+Bubble sort is considered the "beginner's" sorting algorithm. It is slow and lacks the features of other naive algorithms. However, the pseudocode is simple and so it is used to introduce concepts of sorting algorithms.
 
 #### Bubble Sort Pseudo Code
 
@@ -258,6 +267,7 @@ for each element in an array
 ```
 
 #### Bubble Sort
+
 ```
 from pprint import pprint
 
@@ -326,35 +336,35 @@ pprint( result)
 
 #### What's the Difference Between Insetion Sort and Bubble Sort?
 
-The main difference is that insertion sort finds an element's place *in the already sorted list*, and bubble sort does not. This behavior is why insertion sort is "online" and new unsorted things can be added to the end of the array.
+The main difference is that insertion sort finds an element's place _in the already sorted list_, and bubble sort does not. This behavior is why insertion sort is "online" and new unsorted things can be added to the end of the array.
 
-See more here: https://stackoverflow.com/a/17271911/271932
+See more here: [https://stackoverflow.com/a/17271911/271932](https://stackoverflow.com/a/17271911/271932)
 
-### Further Reading
+#### Further Reading
 
-https://www.youtube.com/watch?v=nmhjrI-aW5o
+{% embed url="https://www.youtube.com/watch?v=nmhjrI-aW5o" %}
 
-https://www.youtube.com/watch?v=xli_FI7CuzA
+{% embed url="https://www.youtube.com/watch?v=xli_FI7CuzA" %}
 
-https://www.algostructure.com/sorting/bubblesort.php
+[https://www.algostructure.com/sorting/bubblesort.php](https://www.algostructure.com/sorting/bubblesort.php)
 
-https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
+[https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
 
-https://www.programiz.com/dsa/bubble-sort
+[https://www.programiz.com/dsa/bubble-sort](https://www.programiz.com/dsa/bubble-sort)
 
-https://www.geeksforgeeks.org/bubble-sort/
+[https://www.geeksforgeeks.org/bubble-sort/](https://www.geeksforgeeks.org/bubble-sort/)
 
-https://en.wikipedia.org/wiki/Bubble_sort
+[https://en.wikipedia.org/wiki/Bubble\_sort](https://en.wikipedia.org/wiki/Bubble\_sort)
 
-## Divide and Conquer
+## Divide and Conquer Sorting Algorithms
 
 ### Merge Sort
 
 1. `O(nlogn)` time, `O(n)` space sorting algorithm
 2. Commonly used sorting algorithm
-3. [https://www.geeksforgeeks.org/merge-sort/](https://www.geeksforgeeks.org/merge-sort/) 
+3. [https://www.geeksforgeeks.org/merge-sort/](https://www.geeksforgeeks.org/merge-sort/)
 
-## `O(nlogn)` Time, `O(1)` Space Sorting Algorithms
+#### `O(nlogn)` Time, `O(1)` Space Sorting Algorithms
 
 ### Quick Sort
 
@@ -362,7 +372,7 @@ https://en.wikipedia.org/wiki/Bubble_sort
 2. Average case time complexity is `O(nlogn)`, so some prefer it over Merge Sort
 3. [https://www.geeksforgeeks.org/quick-sort/](https://www.geeksforgeeks.org/quick-sort/)
 
-## `O(nlogn)` Time, `O(n)` Space Sorting Algorithms
+#### `O(nlogn)` Time, `O(n)` Space Sorting Algorithms
 
 ### Heap Sort
 
@@ -374,7 +384,6 @@ https://en.wikipedia.org/wiki/Bubble_sort
 No need to cover this code right now- we haven't seen the heap data structure yet. We'll look at this again when we cover heaps, but this is another example of a sorting algorithm that runs in `O(nlogn)` time.
 {% endhint %}
 
-
-## Non-Comparison Sort
+## Non-Comparison Sorting Algorithms
 
 ### Radix Sort
