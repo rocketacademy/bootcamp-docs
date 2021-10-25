@@ -499,6 +499,9 @@ from pprint import pprint
 A = [64, 25, 12, 22, 11]
 def partition(array, begin_idx, end_idx):
 
+    # the least found value location
+    # so we know where in the subarray
+    # to place the pivot
     least_idx = begin_idx - 1
 
     # pivot is at the end, find where it goes in the array
@@ -537,6 +540,71 @@ def quick_sort(array, begin_idx, end_idx):
 
     # recurse right
     quick_sort(array, pivot+1, end_idx)
+
+quick_sort(A,0,len(A) - 1)
+print ("Sorted array")
+print(A)
+```
+
+#### Quick Sort with Comments
+
+```
+from pprint import pprint
+
+A = [64, 25, 12, 22, 11]
+def partition(array, begin_idx, end_idx):
+
+    least_idx = begin_idx - 1
+
+    # pivot is at the end, find where it goes in the array
+    pivot = array[end_idx]
+    pprint(f'curr subarray: {array[begin_idx:end_idx]}')
+
+    # find where in the array to put the pivot
+    # j looks through the array
+    for j in range(begin_idx, end_idx):
+
+        print(f'{array[j]} <= pivot|{pivot}|')
+        # current element is less than pivot
+        if array[j] <= pivot:
+            # advance least_idx bc we are about to put something there
+            least_idx = least_idx + 1
+            if j != least_idx:
+                print(f'is less >> swaping w/ {array[least_idx]} at {least_idx}')
+            # swap j with this least item
+            array[least_idx], array[j] =  array[j], array[least_idx]
+            if j != least_idx:
+                pprint(f'*after swap* subarray: {array[begin_idx:end_idx]}')
+
+    # put the pivot one ahead of the last least item found
+    array[least_idx+1],array[end_idx] = array[end_idx],array[least_idx+1]
+    pprint(f'*final swap* subarray: {array[begin_idx:end_idx]}')
+
+    # return an index that hasn't been sorted
+    # yet, the index to the left of the location where we put the pivot
+    return (least_idx+1)
+
+def quick_sort(array, begin_idx, end_idx):
+
+
+    # we moved the end past the beginning
+    # or the beginning past the end
+    if begin_idx >= end_idx:
+        print('end')
+        return
+
+
+    # find the next pivot
+    pivot_idx = partition(array, begin_idx, end_idx)
+    print(f'pivot idx: {pivot_idx}')
+
+    # recurse left
+    print(f'recurse left: {begin_idx} to {pivot_idx-1}')
+    quick_sort(array, begin_idx, pivot_idx-1)
+
+    # recurse right
+    print(f'recurse right: {pivot_idx+1} to {end_idx}')
+    quick_sort(array, pivot_idx+1, end_idx)
 
 quick_sort(A,0,len(A) - 1)
 print ("Sorted array")
