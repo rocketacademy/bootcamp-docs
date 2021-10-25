@@ -408,7 +408,7 @@ A = [64, 25, 12, 22, 11]
 def merge_sort(arr):
     if len(arr) > 1:
 
-         # Finding the mid of the array
+         # Finding the middle of the array
         mid = len(arr)//2
 
         # Dividing the array elements
