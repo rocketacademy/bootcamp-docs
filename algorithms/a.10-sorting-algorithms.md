@@ -372,7 +372,7 @@ See more here: [https://stackoverflow.com/a/17271911/271932](https://stackoverfl
 
 #### Divide and Conquer
 
-Merge sort is a divide and conquer sorting algorithm, which just means that the sorting happens by splitting up the original array into smaller and smaller pieces until it's completely broken apart *before* sorting. The sorting happens when the pieces are combined back together.
+Merge sort is a divide and conquer sorting algorithm, which just means that the sorting happens by splitting up the original array into smaller and smaller pieces until it's completely broken apart _before_ sorting. The sorting happens each time the pieces are combined back together.
 
 #### Merge Sort Pseudo Code
 
@@ -482,7 +482,7 @@ pprint( result)
 
 ### Quick Sort
 
-https://www.youtube.com/watch?v=0SkOjNaO1XY&t=998s
+https://www.youtube.com/watch?v=0SkOjNaO1XY\&t=998s
 
 1. `O(n^2)` time, `O(1)` space sorting algorithm
 2. Average case time complexity is `O(nlogn)`, so some prefer it over Merge Sort
