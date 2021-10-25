@@ -1,8 +1,10 @@
 # A.5.6: Trees
 
+![](../../.gitbook/assets/trees.jpeg)
+
 ## Introduction
 
-Trees are a common data structure used to represent hierarchical data, often seen in DS&A problems. Trees are essentially linked lists where nodes are ordered from top to bottom instead of left to right, and each node can have more than 1 subsequent node, called **"child nodes"** in trees. Each child node can only have 1 **"parent node"**, and nodes with no child nodes are called **"leaf nodes"**. Nodes in trees generally contain a data payload \(e.g. a number\), and pointers to each respective child node.
+Trees are a common data structure used to represent hierarchical data, often seen in DS\&A problems. Trees are essentially linked lists where nodes are ordered from top to bottom instead of left to right, and each node can have more than 1 subsequent node, called **"child nodes"** in trees. Each child node can only have 1 **"parent node"**, and nodes with no child nodes are called **"leaf nodes"**. Nodes in trees generally contain a data payload (e.g. a number), and pointers to each respective child node.
 
 ## Helpful Resources
 
@@ -12,13 +14,13 @@ Trees are a common data structure used to represent hierarchical data, often see
 
 ## Tree Traversals
 
-The 2 most common methods of tree traversal are Depth-First Search \(DFS\) and Breadth-First Search \(BFS\). Tree traversal is a crucial technique in using trees to solve problems.
+The 2 most common methods of tree traversal are Depth-First Search (DFS) and Breadth-First Search (BFS). Tree traversal is a crucial technique in using trees to solve problems.
 
-### Depth-First Search \(DFS\)
+### Depth-First Search (DFS)
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](<../../.gitbook/assets/image (1).png>)
 
-Most vanilla recursion applies DFS. For example, the naive Fibonacci implementation of Fib\(n\) might solve the entire Fib\(n-1\) subtree before recursing on Fib\(n-2\). The following is an example of DFS that returns `True` if the value `x` is within a tree, false if not.
+Most vanilla recursion applies DFS. For example, the naive Fibonacci implementation of Fib(n) might solve the entire Fib(n-1) subtree before recursing on Fib(n-2). The following is an example of DFS that returns `True` if the value `x` is within a tree, false if not.
 
 ```python
 # The initial call to find_x_in_tree passes the root node
@@ -35,11 +37,11 @@ def find_x_in_tree(node, x):
 
 ### Pre-Order, In-Order and Post-Order Traversal
 
-Certain tree problems are better solved if we can manipulate the order in which we traverse nodes. **These 3 traversals are variations on the DFS algorithm** shared above, and determine the order in which we traverse the left child, parent, and right child nodes. 
+Certain tree problems are better solved if we can manipulate the order in which we traverse nodes. **These 3 traversals are variations on the DFS algorithm** shared above, and determine the order in which we traverse the left child, parent, and right child nodes.
 
 #### **Pre-Order Traversal**
 
-**Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree \(described below\)](a.5.6-trees.md#binary-search-trees).
+**Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree (described below)](a.5.6-trees.md#binary-search-trees).
 
 1. Parent
 2. Left Child
@@ -103,13 +105,13 @@ def post_order_traversal(node):
     return
 ```
 
-### Breadth-First Search \(BFS\)
+### Breadth-First Search (BFS)
 
 ![](../../.gitbook/assets/image.png)
 
 BFS is a fancier form of tree traversal that typically involves queues. As a recap of BFS, consider the following `level_order` traversal solution from RA's tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
 
-Consider using Python's built-in `deque` data structure [here](https://docs.python.org/3/library/collections.html#collections.deque) for a more efficient queue implementation than `list`. `deque` is implemented with a doubly-linked list, thus dequeue is a O\(1\) operation. Specifically, see the [`popleft` method](https://docs.python.org/3/library/collections.html#collections.deque.popleft).
+Consider using Python's built-in `deque` data structure [here](https://docs.python.org/3/library/collections.html#collections.deque) for a more efficient queue implementation than `list`. `deque` is implemented with a doubly-linked list, thus dequeue is a O(1) operation. Specifically, see the [`popleft` method](https://docs.python.org/3/library/collections.html#collections.deque.popleft).
 
 ```python
 from collections import deque
@@ -137,8 +139,8 @@ def level_order(root_node):
 
 Binary Search Trees or BSTs are a special kind of tree where each node has the following properties.
 
-1. All nodes in the left subtree \(subtree that extends from the parent node's left child\) have values smaller than the parent node.
-2. All nodes in the right subtree \(subtree that extends from the parent node's right child\) have values larger than the parent node.
+1. All nodes in the left subtree (subtree that extends from the parent node's left child) have values smaller than the parent node.
+2. All nodes in the right subtree (subtree that extends from the parent node's right child) have values larger than the parent node.
 
 These properties are especially useful for search algorithms, because given relatively "balanced" BSTs we will be able to search for elements in BSTs in `O(log(n))` time. [Read more about BSTs here](https://www.geeksforgeeks.org/binary-search-tree-data-structure/).
 
@@ -148,7 +150,7 @@ Trees are often used to represent hierarchical data, e.g. HTML elements or React
 
 ## General Tips for Tree Problems
 
-1. Tree \(and Linked List\) problems will often say that the tree is passed as a parameter to our function. What they mean by this is that the root or head node of the tree or linked list respectively is passed to the function. The tree is represented by the root node, which can be used to access all other nodes in the tree.
+1. Tree (and Linked List) problems will often say that the tree is passed as a parameter to our function. What they mean by this is that the root or head node of the tree or linked list respectively is passed to the function. The tree is represented by the root node, which can be used to access all other nodes in the tree.
 
 ## Exercises
 
@@ -156,14 +158,14 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 
 ### Pre-Class
 
-1. [https://repl.it/@kaiyuanneo/treeintro\#main.py](https://repl.it/@kaiyuanneo/treeintro#main.py)
-   1. [https://repl.it/@kaiyuanneo/treeintrosoln\#main.py](https://repl.it/@kaiyuanneo/treeintrosoln#main.py)
+1. [https://repl.it/@kaiyuanneo/treeintro#main.py](https://repl.it/@kaiyuanneo/treeintro#main.py)
+   1. [https://repl.it/@kaiyuanneo/treeintrosoln#main.py](https://repl.it/@kaiyuanneo/treeintrosoln#main.py)
    2. [FTBC3 class video ](https://youtu.be/3Dw3spVIk1w?t=3001)where we solved the 1st 2 problems together.
-2. [https://repl.it/@kaiyuanneo/treebst\#main.py](https://repl.it/@kaiyuanneo/treebst#main.py)
-   1. [https://repl.it/@kaiyuanneo/treebstsoln\#main.py](https://repl.it/@kaiyuanneo/treebstsoln#main.py)
-3. [https://repl.it/@kaiyuanneo/treetraversals\#main.py](https://repl.it/@kaiyuanneo/treetraversals#main.py)
+2. [https://repl.it/@kaiyuanneo/treebst#main.py](https://repl.it/@kaiyuanneo/treebst#main.py)
+   1. [https://repl.it/@kaiyuanneo/treebstsoln#main.py](https://repl.it/@kaiyuanneo/treebstsoln#main.py)
+3. [https://repl.it/@kaiyuanneo/treetraversals#main.py](https://repl.it/@kaiyuanneo/treetraversals#main.py)
    1. Hint: Level-order traversal requires BFS techniques.
-   2. [https://repl.it/@kaiyuanneo/treetraversals-soln\#main.py](https://repl.it/@kaiyuanneo/treetraversals-soln#main.py)
+   2. [https://repl.it/@kaiyuanneo/treetraversals-soln#main.py](https://repl.it/@kaiyuanneo/treetraversals-soln#main.py)
 
 ### Part 1
 
@@ -205,10 +207,10 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
 
 1. [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
    1. Here's an [intuitive explanation of binary numbers](https://www.mathsisfun.com/binary-number-system.html).
-   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA_vkpE?t=2372).
+   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA\_vkpE?t=2372).
 2. [https://leetcode.com/problems/two-sum-iv-input-is-a-bst/](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 3. [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
-   1. RA solution code \(naive solution without pruning\): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
+   1. RA solution code (naive solution without pruning): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
    2. [Solution video](https://youtu.be/3Dw3spVIk1w?t=4579) from FTBC3's class
 
 ### Part 6
@@ -225,7 +227,7 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
    1. Hint: Consider starting in the middle of the array and using recursion.
 4. [https://leetcode.com/problems/binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
    1. Hints
-      1. Each time we reach a leaf node, we've explored a valid path. 
+      1. Each time we reach a leaf node, we've explored a valid path.
       2. How can we keep track of the path up to each leaf node such that when we reach a leaf node in our recursion, we can add that path to the list of valid paths? Do we need an additional input parameter to our recursive function, i.e. a recursive helper function for this?
       3. Where can we store our list of valid paths? Should it be inside or outside of our recursive helper function?
    2. [FTBC3 class video discussion on algorithm](https://youtu.be/uQldubu1LOE?t=5355) and how to write helper function for recursion problems to pass additional parameter to recursive children.
@@ -241,11 +243,10 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
       4. `abs(root.val - minValInRightSubtree))`
 8. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
    1. RA solution code: [https://pastebin.com/a2buQJxv](https://pastebin.com/a2buQJxv)
-   2. [Solution video](https://youtu.be/AMpseCEX6_A?t=2147) from FTBC3's class
+   2. [Solution video](https://youtu.be/AMpseCEX6\_A?t=2147) from FTBC3's class
 9. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
    1. Rocket Academy solution code: [https://pastebin.com/wWYXg309](https://pastebin.com/wWYXg309)
-   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU\_f4?t=4088](https://youtu.be/SeNfZBAU_f4?t=4088)
+   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU\_f4?t=4088](https://youtu.be/SeNfZBAU\_f4?t=4088)
 10. [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
-11. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) \(Medium\)
-12. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) \(Medium\)
-
+11. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) (Medium)
+12. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)
