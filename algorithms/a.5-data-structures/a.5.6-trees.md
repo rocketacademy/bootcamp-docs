@@ -161,20 +161,26 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 1. [https://repl.it/@kaiyuanneo/treeintro#main.py](https://repl.it/@kaiyuanneo/treeintro#main.py)
    1. [https://repl.it/@kaiyuanneo/treeintrosoln#main.py](https://repl.it/@kaiyuanneo/treeintrosoln#main.py)
    2. [FTBC3 class video ](https://youtu.be/3Dw3spVIk1w?t=3001)where we solved the 1st 2 problems together.
-2. [https://repl.it/@kaiyuanneo/treebst#main.py](https://repl.it/@kaiyuanneo/treebst#main.py)
-   1. [https://repl.it/@kaiyuanneo/treebstsoln#main.py](https://repl.it/@kaiyuanneo/treebstsoln#main.py)
-3. [https://repl.it/@kaiyuanneo/treetraversals#main.py](https://repl.it/@kaiyuanneo/treetraversals#main.py)
-   1. Hint: Level-order traversal requires BFS techniques.
-   2. [https://repl.it/@kaiyuanneo/treetraversals-soln#main.py](https://repl.it/@kaiyuanneo/treetraversals-soln#main.py)
 
 ### Part 1
+
+1. [https://repl.it/@kaiyuanneo/treebst#main.py](https://repl.it/@kaiyuanneo/treebst#main.py)
+   1. [https://repl.it/@kaiyuanneo/treebstsoln#main.py](https://repl.it/@kaiyuanneo/treebstsoln#main.py)
+
+### Part 2
+
+1. [https://repl.it/@kaiyuanneo/treetraversals#main.py](https://repl.it/@kaiyuanneo/treetraversals#main.py)
+   1. Hint: Level-order traversal requires BFS techniques that are not recursive.
+   2. [https://repl.it/@kaiyuanneo/treetraversals-soln#main.py](https://repl.it/@kaiyuanneo/treetraversals-soln#main.py)
+
+### Part 3
 
 1. [https://leetcode.com/problems/univalued-binary-tree/](https://leetcode.com/problems/univalued-binary-tree/)
 2. [https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 3. [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
    1. FTBC3 class video discussion on solution and how to trace code in a recursion problem: [https://youtu.be/uQldubu1LOE?t=2269](https://youtu.be/uQldubu1LOE?t=2269)
 
-### Part 2
+### Part 4
 
 1. [https://leetcode.com/problems/maximum-depth-of-n-ary-tree/](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
    1. Hint: Review [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem before attempting this one.
@@ -183,7 +189,7 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 3. [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)
    1. FTBC3 class video discussion on solution and runtime: [https://youtu.be/uQldubu1LOE?t=1709](https://youtu.be/uQldubu1LOE?t=1709)
 
-### Part 3
+### Part 5
 
 See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-order-and-post-order-traversal) above for a recap on the various traversal orderings. For non-binary trees that can have more than 2 children, when we iterate through an array of children we are typically iterating from left to right children.
 
@@ -192,7 +198,7 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
 3. [https://leetcode.com/problems/increasing-order-search-tree/](https://leetcode.com/problems/increasing-order-search-tree/)
    1. Hint: Consider in-order traversal to traverse a binary search tree in increasing order.
 
-### Part 4
+### Part 6
 
 1. [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
    1. Hint: Review [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem before attempting this one.
@@ -203,7 +209,7 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
    1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
    2. FTBC class video solution: [https://youtu.be/DUxsg2iDtuE?t=1226](https://youtu.be/DUxsg2iDtuE?t=1226)
 
-### Part 5
+### Part 7
 
 1. [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
    1. Here's an [intuitive explanation of binary numbers](https://www.mathsisfun.com/binary-number-system.html).
@@ -213,7 +219,7 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
    1. RA solution code (naive solution without pruning): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
    2. [Solution video](https://youtu.be/3Dw3spVIk1w?t=4579) from FTBC3's class
 
-### Part 6
+### Part 8
 
 1. [https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
 2. [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
