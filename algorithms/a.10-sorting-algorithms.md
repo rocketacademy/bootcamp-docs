@@ -363,7 +363,7 @@ See more here: [https://stackoverflow.com/a/17271911/271932](https://stackoverfl
 * Runtime: _**O(nlogn)**_
 * Space: _**O(n)**_
 * Sort In-Place: No
-* Stable: No
+* Stable: Yes
 
 #### Attributes
 
@@ -464,6 +464,8 @@ print ("Sorted array")
 pprint( result)
 ```
 
+#### Further Reading
+
 {% embed url="https://www.youtube.com/watch?v=JSceec-wEyw" %}
 
 {% embed url="https://www.youtube.com/watch?v=4VqmGXwpLqc" %}
@@ -478,23 +480,98 @@ pprint( result)
 
 [https://www.geeksforgeeks.org/merge-sort/](https://www.geeksforgeeks.org/merge-sort/)
 
-#### `O(nlogn)` Time, `O(1)` Space Sorting Algorithms
-
 ### Quick Sort
 
-https://www.youtube.com/watch?v=0SkOjNaO1XY&t=998s
+* Runtime: _**O(nlogn)**_
+* Space: _**O(1)**_
+* Sort In-Place: Yes
+* Stable: Yes
 
-1. `O(n^2)` time, `O(1)` space sorting algorithm
-2. Average case time complexity is `O(nlogn)`, so some prefer it over Merge Sort
-3. [https://www.geeksforgeeks.org/quick-sort/](https://www.geeksforgeeks.org/quick-sort/)
+#### Attributes
 
-#### `O(nlogn)` Time, `O(n)` Space Sorting Algorithms
+* fast
+* good space complexity
+* was used for the `sort` method in JavaScript
+
+```
+from pprint import pprint
+
+A = [64, 25, 12, 22, 11]
+def partition(array, begin_idx, end_idx):
+
+    least_idx = begin_idx - 1
+
+    # pivot is at the end, find where it goes in the array
+    pivot = array[end_idx]
+
+    # find where in the array to put the pivot
+    # j looks through the array
+    for j in range(begin_idx, end_idx):
+
+        # current element is less than pivot
+        if array[j] <= pivot:
+            # advance least_idx bc we are about to put something there
+            least_idx = least_idx + 1
+            # swap j with this least item
+            array[least_idx], array[j] =  array[j], array[least_idx]
+
+    # put the pivot one ahead of the last least item found
+    array[least_idx+1],array[end_idx] = array[end_idx],array[least_idx+1]
+
+    # return an index that hasn't been sorted
+    # yet, the index to the left of the location where we put the pivot
+    return (least_idx+1)
+
+def quick_sort(array, begin_idx, end_idx):
+
+    # we moved the end past the beginning
+    # or the beginning past the end
+    if begin_idx >= end_idx:
+        return
+
+    # find the next pivot
+    pivot = partition(array, begin_idx, end_idx)
+
+    # recurse left
+    quick_sort(array, begin_idx, pivot-1)
+
+    # recurse right
+    quick_sort(array, pivot+1, end_idx)
+
+quick_sort(A,0,len(A) - 1)
+print ("Sorted array")
+print(A)
+```
+
+#### Further Reading
+
+{% embed url="https://youtu.be/ZHVk2blR45Q" %}
+
+{% embed url="https://www.youtube.com/watch?v=Hoixgm4-P4M" %}
+
+{% embed url="https://www.youtube.com/watch?v=0SkOjNaO1XY" %}
+
+{% embed url="https://www.youtube.com/watch?v=PgBzjlCcFvc" %}
+
+{% embed url="https://www.youtube.com/watch?v=kUon6854joI" %}
+
+[https://www.programiz.com/dsa/quick-sort](https://www.programiz.com/dsa/quick-sort)
+
+[https://www.geeksforgeeks.org/quick-sort/](https://www.geeksforgeeks.org/quick-sort/)
+
+#### Quick Sort in JavaScript
+[https://v8.dev/blog/array-sort](https://v8.dev/blog/array-sort)
 
 ### Heap Sort
 
-1. `O(nlogn)` time, `O(1)` space sorting algorithm
-2. On average slower and less commonly used than Merge Sort and Quick Sort
-3. [https://www.geeksforgeeks.org/heap-sort/](https://www.geeksforgeeks.org/heap-sort/)
+* Runtime: _**O(nlogn)**_
+* Space: _**O(1)**_
+* Sort In-Place: Yes
+* Stable: Yes
+
+Heap sort is on average slower and less commonly used than Merge Sort and Quick Sort
+
+[https://www.geeksforgeeks.org/heap-sort/](https://www.geeksforgeeks.org/heap-sort/)
 
 {% hint style="warning" %}
 No need to cover this code right now- we haven't seen the heap data structure yet. We'll look at this again when we cover heaps, but this is another example of a sorting algorithm that runs in `O(nlogn)` time.
