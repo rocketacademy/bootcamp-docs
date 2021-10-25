@@ -360,13 +360,129 @@ See more here: [https://stackoverflow.com/a/17271911/271932](https://stackoverfl
 
 ### Merge Sort
 
-1. `O(nlogn)` time, `O(n)` space sorting algorithm
-2. Commonly used sorting algorithm
-3. [https://www.geeksforgeeks.org/merge-sort/](https://www.geeksforgeeks.org/merge-sort/)
+* Runtime: _**O(nlogn)**_
+* Space: _**O(n)**_
+* Sort In-Place: No
+* Stable: No
+
+#### Attributes
+
+* fast
+* usually implemented recursively
+
+#### Divide and Conquer
+
+Merge sort is a divide and conquer sorting algorithm, which just means that the sorting happens by splitting up the original array into smaller and smaller pieces until it's completely broken apart *before* sorting. The sorting happens when the pieces are combined back together.
+
+#### Merge Sort Pseudo Code
+
+```
+Divide the array into half
+
+Give each half to the merge_sort function
+
+The recurence relation is that the array parameter has one or less items in it.
+
+Capture the return value of the merge_sort function.
+
+Once a return value has been captured the merge_sort function can begin recursing up.
+
+Run the merge function. Give the merge function the two arrays.
+
+The merge function will combine and sort them.
+
+For every value in returned left_array, compare it to returned right_array
+  if a value in left_array is less than a value in right_array
+    put the left_array value in the output array
+  else if the value in left_array is more than a value in right_array
+    put the right_array value in the output array
+```
+
+#### Merge Sort
+
+```
+from pprint import pprint
+
+A = [64, 25, 12, 22, 11]
+
+def merge_sort(arr):
+    if len(arr) > 1:
+
+         # Finding the mid of the array
+        mid = len(arr)//2
+
+        # Dividing the array elements
+        L = arr[:mid]
+
+        # into 2 halves
+        R = arr[mid:]
+
+        # Sorting the first half
+        leftResult = merge_sort(L)
+
+        # Sorting the second half
+        rightResult = merge_sort(R)
+
+        # merge the results of the recursive merge_sort calls
+        return merge(leftResult,rightResult)
+    else:
+        return arr
+
+def merge(L,R):
+
+    # create an empty array
+    arr = [None] * (len(L) + len(R))
+
+    i = j = k = 0
+
+    # Copy data to temp arrays L[] and R[]
+    while i < len(L) and j < len(R):
+        if L[i] < R[j]:
+            arr[k] = L[i]
+            i += 1
+        else:
+            arr[k] = R[j]
+            j += 1
+        k += 1
+
+    # Checking if any element was left
+    while i < len(L):
+        arr[k] = L[i]
+        i += 1
+        k += 1
+
+    while j < len(R):
+        arr[k] = R[j]
+        j += 1
+        k += 1
+
+    return arr
+
+
+result = merge_sort(A)
+print ("Sorted array")
+pprint( result)
+```
+
+{% embed url="https://www.youtube.com/watch?v=JSceec-wEyw" %}
+
+{% embed url="https://www.youtube.com/watch?v=4VqmGXwpLqc" %}
+
+{% embed url="https://www.youtube.com/watch?v=1sdEchFsL0Y" %}
+
+{% embed url="https://www.youtube.com/watch?v=Ns7tGNbtvV4" %}
+
+[https://www.programiz.com/dsa/merge-sort](https://www.programiz.com/dsa/merge-sort)
+
+[https://www.algostructure.com/sorting/mergesort.php](https://www.algostructure.com/sorting/mergesort.php)
+
+[https://www.geeksforgeeks.org/merge-sort/](https://www.geeksforgeeks.org/merge-sort/)
 
 #### `O(nlogn)` Time, `O(1)` Space Sorting Algorithms
 
 ### Quick Sort
+
+https://www.youtube.com/watch?v=0SkOjNaO1XY&t=998s
 
 1. `O(n^2)` time, `O(1)` space sorting algorithm
 2. Average case time complexity is `O(nlogn)`, so some prefer it over Merge Sort
