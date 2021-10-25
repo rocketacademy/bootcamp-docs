@@ -1,5 +1,7 @@
 # A.10: Sorting Algorithms
 
+![](../.gitbook/assets/sort-ar.jpeg)
+
 ## Introduction
 
 This module explores various ways to sort unsorted arrays of numbers. While our examples only use numbers, the same methods can be used to sort arrays of arbitrary data types according to arbitrary sort order.
@@ -628,6 +630,7 @@ print(A)
 [https://www.geeksforgeeks.org/quick-sort/](https://www.geeksforgeeks.org/quick-sort/)
 
 #### Quick Sort in JavaScript
+
 [https://v8.dev/blog/array-sort](https://v8.dev/blog/array-sort)
 
 ### Heap Sort

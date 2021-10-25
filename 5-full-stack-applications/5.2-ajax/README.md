@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[AJAX](https://en.wikipedia.org/wiki/Ajax_\(programming\)) or Asynchronous JavaScript and XML is browser functionality that can make requests from within JavaScript. It means that within a single page (and page request) we can build logic that interacts with servers outside the browser page. Eventually we will be able to move more of the view logic that renders elements and interacts with the user into browser-side JavaScript. We will see more examples of this in coming modules.
+[AJAX](https://en.wikipedia.org/wiki/Ajax\_\(programming\)) or Asynchronous JavaScript and XML is browser functionality that can make requests from within JavaScript. It means that within a single page (and page request) we can build logic that interacts with servers outside the browser page. Eventually we will be able to move more of the view logic that renders elements and interacts with the user into browser-side JavaScript. We will see more examples of this in coming modules.
 
 ![](../../.gitbook/assets/ajax.jpg)
 
@@ -82,7 +82,7 @@ Add a JavaScript file called `script.js` to the `public` folder.
 
 ### Axios - Step 6
 
-Axios is a library that helps _create requests from inside the browser JavaScript code_ \*\***and\*\* **_use the response data inside the JavaScript logic._** This is step 6 above.**
+Axios is a library that helps _create requests from inside the browser JavaScript code_ \*\***and\*\* **_**use the response data inside the JavaScript logic.**_** This is step 6 above.**
 
 **script.js**
 
@@ -106,7 +106,7 @@ Read [more about Axios here.](https://github.com/axios/axios/blob/master/README.
 
 Note the `console.log` on line 6. Our starter code is sending back data from the server here: [https://github.com/rocketacademy/ajax-bootcamp/blob/main/controllers/items.mjs#L5](https://github.com/rocketacademy/ajax-bootcamp/blob/main/controllers/items.mjs#L5) When the browser gets to line 6 we have access to the data sent back from the server.
 
-Open the browser network tab and run the code. Inspect the request to see the data come back in the response. This is step 7. Note  `console.log` on line 6 in `script.js` outputs a JavaScript object. This is the final step, step 8. The Axios library has transformed the string HTTP GET request response into a JavaScript object. To explicitly demonstrate that this is a live object, `console.log` only the name of the first item in the response.
+Open the browser network tab and run the code. Inspect the request to see the data come back in the response. This is step 7. Note `console.log` on line 6 in `script.js` outputs a JavaScript object. This is the final step, step 8. The Axios library has transformed the string HTTP GET request response into a JavaScript object. To explicitly demonstrate that this is a live object, `console.log` only the name of the first item in the response.
 
 ### Manipulate DOM with Server Response
 
