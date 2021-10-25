@@ -372,7 +372,7 @@ See more here: [https://stackoverflow.com/a/17271911/271932](https://stackoverfl
 
 #### Divide and Conquer
 
-Merge sort is a divide and conquer sorting algorithm, which just means that the sorting happens by splitting up the original array into smaller and smaller pieces until it's completely broken apart *before* sorting. The sorting happens when the pieces are combined back together.
+Merge sort is a divide and conquer sorting algorithm, which just means that the sorting happens by splitting up the original array into smaller and smaller pieces until it's completely broken apart _before_ sorting. The sorting happens each time the pieces are combined back together.
 
 #### Merge Sort Pseudo Code
 
@@ -408,7 +408,7 @@ A = [64, 25, 12, 22, 11]
 def merge_sort(arr):
     if len(arr) > 1:
 
-         # Finding the mid of the array
+         # Finding the middle of the array
         mid = len(arr)//2
 
         # Dividing the array elements
