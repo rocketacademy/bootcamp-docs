@@ -36,7 +36,7 @@ This page lists a non-dated version of the schedule in chronological order.
 
 **Pre-Class**
 
-* [CSS.1: Basic CSS \(Exercises Part 1\)](../css/css-1-basic-css.md)
+* [CSS.1: Basic CSS (Exercises Part 1)](../css/css-1-basic-css.md)
 * [1.3: High Card DOM](../1-frontend-basics/1.3-high-card-dom.md)
 * [0.3: Reading Documentation](../0-language-and-tooling/0.3-reading-documentation.md)
 * [1.4: setTimeout](../1-frontend-basics/1.4-settimeout.md)
@@ -44,7 +44,7 @@ This page lists a non-dated version of the schedule in chronological order.
 **In-Class**
 
 * Review 1 student's 1.POCE.1: Noodle Recipe Website
-* [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md) \(Continued\)
+* [1.ICE.1: Drawing DOM](../1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md) (Continued)
 
 **Post-Class**
 
@@ -54,7 +54,7 @@ This page lists a non-dated version of the schedule in chronological order.
 
 **Pre-Class**
 
-* [CSS.1: Basic CSS \(Exercises Part 2\)](../css/css-1-basic-css.md)
+* [CSS.1: Basic CSS (Exercises Part 2)](../css/css-1-basic-css.md)
 * [1.5: High Card setTimeout](../1-frontend-basics/1.5-high-card-settimeout.md)
 * [1.6: Match Game](../1-frontend-basics/1.6-match-game.md)
 * [0.2.4: Reference vs. Value](../0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value.md)
@@ -291,7 +291,7 @@ Node.js
 
 **In-Class**
 
-* [2.ICE.5: Reading and Writing to JSON ](../2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
+* [2.ICE.5: Reading and Writing to JSON](../2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
 
 **Post-Class**
 
@@ -367,7 +367,7 @@ Node.js
 
 ## Course Weeks 5-8
 
-### Module 3: Backend Applications \(Cont'd\)
+### Module 3: Backend Applications (Cont'd)
 
 ### Course Week 5
 
@@ -458,7 +458,7 @@ Node.js
 
 **Pre-Class**
 
-* [3.3.2: SQL Relationships \(One to Many\)](../3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many.md)
+* [3.3.2: SQL Relationships (One to Many)](../3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many.md)
 * [3.4.3: Nested SQL Queries](../3-backend-applications/3.4-sql-applications/3.4.3-nested-sql-queries.md)
 * [3.4.4: PostgreSQL Express App](../3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app.md)
 
@@ -491,7 +491,7 @@ Node.js
 
 **Pre-Class**
 
-* [3.3.3: SQL Relationships \(Many to Many\)](../3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
+* [3.3.3: SQL Relationships (Many to Many)](../3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
 * [3.4.5: Forms for One-to-Many Relationships](../3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships.md)
 * [3.5.3: Password Hashing](../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md)
 * [UX.1: Intro to UX](../user-experience/ux.1-overview.md)
@@ -633,7 +633,7 @@ None
 
 **Due**
 
-* Project 2 MVP \(deployed\)
+* Project 2 MVP (deployed)
 
 **Pre-Class**
 
@@ -646,7 +646,7 @@ None
 
 **Post-Class**
 
-* [Project 2 Mid-Point Instructor Meeting \(30 minutes\)](../projects/project-2-server-side-app.md#project-timeline)
+* [Project 2 Mid-Point Instructor Meeting (30 minutes)](../projects/project-2-server-side-app.md#project-timeline)
 * [Project 2 Implementation](../projects/project-2-server-side-app.md#recommended-order-of-implementation)
 
 #### Course Day 8.2
@@ -728,7 +728,7 @@ None
 
 **In-Class**
 
-* [Project 2 Redux \(Peer Code Review\)](../course-logistics/course-methodology.md#peer-code-review)
+* [Project 2 Redux (Peer Code Review)](../course-logistics/course-methodology.md#peer-code-review)
 
 **Post-Class**
 
@@ -766,7 +766,7 @@ None
 
 **In-Class**
 
-* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md) \(Pair Programming\)
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md) (Pair Programming)
 
 **Post-Class**
 
@@ -856,7 +856,7 @@ None
 **Pre-Class**
 
 * [D.1: Intro to SWE Interviews](../algorithms/a.1-intro-to-swe-interviews.md)
-* [D.2: Intro to Python \(Exercises 1-8\)](../algorithms/a.2-intro-to-python.md)
+* [D.2: Intro to Python (Exercises 1-8)](../algorithms/a.2-intro-to-python.md)
 * [4.1.8: Multiple FK Columns Referencing Same Table](../4-backend-structure/4.1-orm-sequelize/4.1.8-multiple-foreign-key-columns-referencing-same-table.md)
 
 **In-Class**
@@ -874,13 +874,13 @@ None
 
 **Pre-Class**
 
-* [D.2: Intro to Python \(Exercises 9-11\)](../algorithms/a.2-intro-to-python.md)
+* [D.2: Intro to Python (Exercises 9-11)](../algorithms/a.2-intro-to-python.md)
 * [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/6-frontend-infrastructure/6.1-webpack)
 * [5.2.2: AJAX Cards](../5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
 
 **In-Class**
 
-* [Bug Reports \(5.POCE.1, 5.POCE.2\) Redux](../course-logistics/course-methodology.md#peer-code-review) \(Peer Code Review\)
+* [Bug Reports (5.POCE.1, 5.POCE.2) Redux](../course-logistics/course-methodology.md#peer-code-review) (Peer Code Review)
 
 **Post-Class**
 
@@ -894,7 +894,7 @@ None
 **Pre-Class**
 
 * [D.3: Complexity Analysis, Big-O Notation](../algorithms/a.3-complexity-analysis-big-o-notation.md)
-* [D.4: Interview Strategies](../algorithms/a.4-interview-strategies/)
+* [D.4: Interview Strategies](../algorithms/a.4-interview-strategies)
 * [6.1.1: Webpack with Local Modules](../6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
 * [6.1.2: Webpack with NPM Modules](../6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
 
@@ -949,18 +949,18 @@ Deadline to post Project 3 ideas in Slack
 
 **Pre-Class**
 
-* [Group Work](../course-logistics/group-work.md) \(for project management\)
+* [Group Work](../course-logistics/group-work.md) (for project management)
 * [D.6: Binary Search - Pre-Class](../algorithms/a.6-binary-search.md#pre-class)
 
 **In-Class**
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.6: Binary Search - Part 1 ](../algorithms/a.6-binary-search.md#part-1)
+* [D.6: Binary Search - Part 1](../algorithms/a.6-binary-search.md#part-1)
 
 **Post-Class**
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.6: Binary Search - Part 1 ](../algorithms/a.6-binary-search.md#part-1)
+* [D.6: Binary Search - Part 1](../algorithms/a.6-binary-search.md#part-1)
 
 #### Course Day 11.5
 
@@ -984,17 +984,17 @@ Deadline to post Project 3 ideas in Slack
 
 **Pre-Class**
 
-* [D.5.2: Hash Tables - Pre-Class](../algorithms/a.5-data-structures/a.5.2-hash-tables/)
+* [D.5.2: Hash Tables - Pre-Class](../algorithms/a.5-data-structures/a.5.2-hash-tables)
 
 **In-Class**
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.2: Hash Tables - Part 1](../algorithms/a.5-data-structures/a.5.2-hash-tables/#part-1)
+* [D.5.2: Hash Tables - Part 1](../algorithms/a.5-data-structures/a.5.2-hash-tables#part-1)
 
 **Post-Class**
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.2: Hash Tables - Part 1](../algorithms/a.5-data-structures/a.5.2-hash-tables/#part-1)
+* [D.5.2: Hash Tables - Part 1](../algorithms/a.5-data-structures/a.5.2-hash-tables#part-1)
 
 #### Course Day 12.2
 
@@ -1005,18 +1005,18 @@ None
 **In-Class**
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.2: Hash Tables - Part 2](../algorithms/a.5-data-structures/a.5.2-hash-tables/#part-2)
+* [D.5.2: Hash Tables - Part 2](../algorithms/a.5-data-structures/a.5.2-hash-tables#part-2)
 
 **Post-Class**
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.2: Hash Tables - Part 2](../algorithms/a.5-data-structures/a.5.2-hash-tables/#part-2)
+* [D.5.2: Hash Tables - Part 2](../algorithms/a.5-data-structures/a.5.2-hash-tables#part-2)
 
 #### Course Day 12.3
 
 **Due**
 
-* [Project 3 MVP Deadline \(deployed\)](../projects/project-3-full-stack-game.md#mvp-deadline)
+* [Project 3 MVP Deadline (deployed)](../projects/project-3-full-stack-game.md#mvp-deadline)
 
 **Pre-Class**
 
@@ -1074,7 +1074,7 @@ None
 
 ## Course Weeks 13-16
 
-### Module 6: Frontend Infrastructure \(Cont'd\)
+### Module 6: Frontend Infrastructure (Cont'd)
 
 ### Course Week 13
 
@@ -1083,17 +1083,17 @@ None
 **Pre-Class**
 
 * [D.8: Object-Oriented Programming](../algorithms/a.8-intro-to-object-oriented-programming.md)
-* [D.5.5: Linked Lists - Pre-Class](../algorithms/a.5-data-structures/a.5.5-linked-lists/#pre-class)
+* [D.5.5: Linked Lists - Pre-Class](../algorithms/a.5-data-structures/a.5.5-linked-lists#pre-class)
 
 **In-Class**
 
 * [Project 3 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [D.5.5: Linked Lists - Part 1](../algorithms/a.5-data-structures/a.5.5-linked-lists/#part-1)
+* [D.5.5: Linked Lists - Part 1](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-1)
 
 **Post-Class**
 
 * [Project 3 Implementation](../projects/project-3-full-stack-game.md)
-* [D.5.5: Linked Lists - Part 1](../algorithms/a.5-data-structures/a.5.5-linked-lists/#part-1)
+* [D.5.5: Linked Lists - Part 1](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-1)
 
 #### Course Day 13.2
 
@@ -1136,7 +1136,7 @@ None
 
 **Pre-Class**
 
-* [D.8: Sorting Algorithms](../algorithms/a.10-sorting-algorithms.md)
+* [D.8: Sorting Algorithms](../algorithms/a.10-sorting-algorithms/)
 * [7.2: React Components](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/7-react/7.2-react-components)
 * [7.2.1: Props](../7-react/7.2-react-components/7.2.1-props.md)
 * [7.2.2: Generating Components from a List](../7-react/7.2-react-components/7.2.2-generating-components-from-a-list.md)
@@ -1209,12 +1209,12 @@ None
 **In-Class**
 
 * Review [7.POCE.3: Read Later](../7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
-* [D.5.5: Linked Lists - Part 2](../algorithms/a.5-data-structures/a.5.5-linked-lists/#part-2)
+* [D.5.5: Linked Lists - Part 2](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
 
 **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.5.5: Linked Lists - Part 2](../algorithms/a.5-data-structures/a.5.5-linked-lists/#part-2)
+* [D.5.5: Linked Lists - Part 2](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 #### Course Day 14.4
@@ -1225,12 +1225,12 @@ None
 
 **In-Class**
 
-* [D.5.5: Linked Lists - Part 3](../algorithms/a.5-data-structures/a.5.5-linked-lists/#part-3)
+* [D.5.5: Linked Lists - Part 3](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-3)
 
 **Post-Class**
 
 * [7.POCE.4: Hot Pot Bill Splitter](../7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-* [D.5.5: Linked Lists - Part 3](../algorithms/a.5-data-structures/a.5.5-linked-lists/#part-3)
+* [D.5.5: Linked Lists - Part 3](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-3)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 #### Course Day 14.5
@@ -1342,7 +1342,7 @@ None
 
 **Due**
 
-* Project 4 MVP Deadline \(deployed\)
+* Project 4 MVP Deadline (deployed)
 
 **Pre-Class**
 
@@ -1450,7 +1450,7 @@ None
 
 #### Course Day 17.2
 
-\(Break from DSA to focus on React\)
+(Break from DSA to focus on React)
 
 **Due**
 
@@ -1517,7 +1517,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.5.8: Heaps - Part 2](../algorithms/a.5-data-structures/a.5.8-heaps.md#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1527,8 +1527,8 @@ None
 
 **Pre-Class**
 
-* [8.6: Styled Components ](../8-advanced-react/8.6-styled-components.md)
-* [8.7: React Portals ](../8-advanced-react/8.7-react-portals.md)
+* [8.6: Styled Components](../8-advanced-react/8.6-styled-components.md)
+* [8.7: React Portals](../8-advanced-react/8.7-react-portals.md)
 
 **In-Class**
 
@@ -1536,7 +1536,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.5.8: Heaps - Part 3](../algorithms/a.5-data-structures/a.5.8-heaps.md#part-3)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1553,7 +1553,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.9: Dynamic Programming - Part 1](../algorithms/a.11-dynamic-programming.md#part-1)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1573,7 +1573,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: \(Group Project\) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.9: Dynamic Programming - Part 2](../algorithms/a.11-dynamic-programming.md#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1620,12 +1620,12 @@ None
 **In-Class**
 
 * [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 19.2
 
@@ -1636,18 +1636,18 @@ None
 **In-Class**
 
 * [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 19.3
 
 **Due**
 
-* [Project 5 MVP \(deployed\)](../projects/project-5-group-react-app.md#mvp-deadline)
+* [Project 5 MVP (deployed)](../projects/project-5-group-react-app.md#mvp-deadline)
 
 **Pre-Class**
 
@@ -1657,12 +1657,12 @@ None
 
 * [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 5 MVP Review](../projects/project-5-group-react-app.md#mvp-deadline)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 19.4
 
@@ -1673,12 +1673,12 @@ None
 **In-Class**
 
 * [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 19.5
 
@@ -1689,12 +1689,12 @@ None
 **In-Class**
 
 * [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 ### Course Week 20
 
@@ -1712,12 +1712,12 @@ None
 
 * [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 5 Feature Freeze Review](../projects/project-5-group-react-app.md#feature-freeze)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 20.2
 
@@ -1728,12 +1728,12 @@ None
 **In-Class**
 
 * [Project 5 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 5 Implementation](../projects/project-5-group-react-app.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 20.3
 
@@ -1749,7 +1749,7 @@ None
 
 * [Project 5 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
 ### Module 9: Advanced Topics
@@ -1768,7 +1768,7 @@ None
 **Post-Class**
 
 * [Project 5 Video](../projects/project-5-group-react-app.md#video-demo)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [Project 6 Ideation](../projects/project-6-capstone.md#ideation-phase-1)
 
 #### Course Day 20.5
@@ -1784,16 +1784,16 @@ None
 
 **In-Class**
 
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Ideation Phase 2](../projects/project-6-capstone.md#ideation-phase-2)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 ## Course Weeks 21-23
 
-### Module 9: Advanced Topics \(Cont'd\)
+### Module 9: Advanced Topics (Cont'd)
 
 ### Course Week 21
 
@@ -1808,12 +1808,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 21.2
 
@@ -1824,12 +1824,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 21.3
 
@@ -1840,12 +1840,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 21.4
 
@@ -1856,12 +1856,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 21.5
 
@@ -1874,12 +1874,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 ### Course Week 22
 
@@ -1887,7 +1887,7 @@ None
 
 **Due**
 
-* [Project 6 MVP \(deployed\)](../projects/project-6-capstone.md#mvp-deadline)
+* [Project 6 MVP (deployed)](../projects/project-6-capstone.md#mvp-deadline)
 
 **Pre-Class**
 
@@ -1898,12 +1898,12 @@ None
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 6 MVP Review](../projects/project-6-capstone.md#mvp-deadline)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [IP.2: Resume](../interview-prep/ip.2-resume.md)
 
 #### Course Day 22.2
@@ -1915,12 +1915,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [IP.2: Resume](../interview-prep/ip.2-resume.md)
 
 #### Course Day 22.3
@@ -1936,12 +1936,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [IP.3: Portfolio](../interview-prep/ip.3-portfolio.md)
 
 #### Course Day 22.4
@@ -1953,12 +1953,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [IP.3: Portfolio](../interview-prep/ip.3-portfolio.md)
 
 #### Course Day 22.5
@@ -1974,12 +1974,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [IP.4: Job List](../interview-prep/ip.4-job-list.md)
 
 ### Course Week 23
@@ -1993,12 +1993,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 * [IP.4: Job List](../interview-prep/ip.4-job-list.md)
 
 #### Course Day 23.2
@@ -2014,12 +2014,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 23.3
 
@@ -2035,12 +2035,12 @@ None
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 6 Feature Freeze Review](../projects/project-6-capstone.md#feature-freeze)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 23.4
 
@@ -2051,12 +2051,12 @@ None
 **In-Class**
 
 * [Project 6 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Implementation](../projects/project-6-capstone.md)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 #### Course Day 23.5
 
@@ -2067,10 +2067,9 @@ None
 **In-Class**
 
 * [Project 6 Presentations](../course-logistics/course-methodology.md#project-presentations)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
 
 **Post-Class**
 
 * [Project 6 Post-Mortems](../course-logistics/course-methodology.md#project-post-mortem-meeting)
-* [DS&A Open Practice](../algorithms/a.13-open-practice.md)
-
+* [DS\&A Open Practice](../algorithms/a.13-open-practice.md)
