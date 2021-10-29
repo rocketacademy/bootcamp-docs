@@ -1,22 +1,22 @@
 # A.10.1: Divide and Conquer Sorting
 
-# Merge Sort
+## Merge Sort
 
 * Runtime: _**O(nlogn)**_
 * Space: _**O(n)**_
 * Sort In-Place: No
 * Stable: Yes
 
-#### Attributes
+**Attributes**
 
 * fast
 * usually implemented recursively
 
-#### Divide and Conquer
+**Divide and Conquer**
 
 Merge sort is a divide and conquer sorting algorithm, which just means that the sorting happens by splitting up the original array into smaller and smaller pieces until it's completely broken apart _before_ sorting. The sorting happens each time the pieces are combined back together.
 
-#### Merge Sort Pseudo Code
+**Merge Sort Pseudo Code**
 
 ```
 Divide the array into half
@@ -40,7 +40,7 @@ For every value in returned left_array, compare it to returned right_array
     put the right_array value in the output array
 ```
 
-#### Merge Sort
+**Merge Sort**
 
 ```
 from pprint import pprint
@@ -106,7 +106,7 @@ print ("Sorted array")
 pprint( result)
 ```
 
-#### Further Reading
+**Further Reading**
 
 {% embed url="https://www.youtube.com/watch?v=JSceec-wEyw" %}
 
@@ -122,14 +122,14 @@ pprint( result)
 
 [https://www.geeksforgeeks.org/merge-sort/](https://www.geeksforgeeks.org/merge-sort/)
 
-# Quick Sort
+## Quick Sort
 
 * Runtime: _**O(nlogn)**_
 * Space: _**O(1)**_
 * Sort In-Place: Yes
 * Stable: Yes
 
-#### Attributes
+**Attributes**
 
 * fast
 * good space complexity
@@ -144,7 +144,7 @@ def partition(array, begin_idx, end_idx):
     # the least found value location
     # so we know where in the subarray
     # to place the pivot
-    least_idx = begin_idx - 1
+    least_idx = begin_idx
 
     # pivot is at the end, find where it goes in the array
     pivot = array[end_idx]
@@ -155,17 +155,18 @@ def partition(array, begin_idx, end_idx):
 
         # current element is less than pivot
         if array[j] <= pivot:
-            # advance least_idx bc we are about to put something there
-            least_idx = least_idx + 1
             # swap j with this least item
             array[least_idx], array[j] =  array[j], array[least_idx]
+            # advance least_idx
+            least_idx = least_idx + 1
+            
 
     # put the pivot one ahead of the last least item found
-    array[least_idx+1],array[end_idx] = array[end_idx],array[least_idx+1]
+    array[least_idx],array[end_idx] = array[end_idx],array[least_idx]
 
     # return an index that hasn't been sorted
     # yet, the index to the left of the location where we put the pivot
-    return (least_idx+1)
+    return (least_idx)
 
 def quick_sort(array, begin_idx, end_idx):
 
@@ -188,7 +189,7 @@ print ("Sorted array")
 print(A)
 ```
 
-#### Quick Sort with Comments
+**Quick Sort with Comments**
 
 ```
 from pprint import pprint
@@ -196,7 +197,7 @@ from pprint import pprint
 A = [64, 25, 12, 22, 11]
 def partition(array, begin_idx, end_idx):
 
-    least_idx = begin_idx - 1
+    least_idx = begin_idx
 
     # pivot is at the end, find where it goes in the array
     pivot = array[end_idx]
@@ -209,22 +210,21 @@ def partition(array, begin_idx, end_idx):
         print(f'{array[j]} <= pivot|{pivot}|')
         # current element is less than pivot
         if array[j] <= pivot:
-            # advance least_idx bc we are about to put something there
-            least_idx = least_idx + 1
-            if j != least_idx:
-                print(f'is less >> swaping w/ {array[least_idx]} at {least_idx}')
+            
             # swap j with this least item
             array[least_idx], array[j] =  array[j], array[least_idx]
+            # advance least_idx bc we are about to put something there
+            least_idx = least_idx + 1
             if j != least_idx:
                 pprint(f'*after swap* subarray: {array[begin_idx:end_idx]}')
 
     # put the pivot one ahead of the last least item found
-    array[least_idx+1],array[end_idx] = array[end_idx],array[least_idx+1]
+    array[least_idx],array[end_idx] = array[end_idx],array[least_idx]
     pprint(f'*final swap* subarray: {array[begin_idx:end_idx]}')
 
     # return an index that hasn't been sorted
     # yet, the index to the left of the location where we put the pivot
-    return (least_idx+1)
+    return (least_idx)
 
 def quick_sort(array, begin_idx, end_idx):
 
@@ -253,7 +253,7 @@ print ("Sorted array")
 print(A)
 ```
 
-#### Further Reading
+**Further Reading**
 
 {% embed url="https://youtu.be/ZHVk2blR45Q" %}
 
@@ -269,11 +269,11 @@ print(A)
 
 [https://www.geeksforgeeks.org/quick-sort/](https://www.geeksforgeeks.org/quick-sort/)
 
-#### Quick Sort in JavaScript
+**Quick Sort in JavaScript**
 
 [https://v8.dev/blog/array-sort](https://v8.dev/blog/array-sort)
 
-### Heap Sort
+#### Heap Sort
 
 * Runtime: _**O(nlogn)**_
 * Space: _**O(1)**_
