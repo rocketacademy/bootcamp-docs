@@ -84,7 +84,7 @@ Our server apps will have the following file structure.
         },
       };
       // Return HTML to client, merging "index" template with supplied data.
-      response.render('index', data);
+      response.render('fruit', data);
     });
     ```
 
