@@ -2,19 +2,21 @@
 
 ![Heap Ledger](../../.gitbook/assets/heap-ledger.png)
 
-##
-
 ## Introduction
 
 Heap is a data structure that is useful for keeping track of the minimum or maximum out of a changing collection of elements. Without heaps we would need linear time to keep track of the max or min element in a changing collection, but with heaps we only need log time. Heaps are especially useful for implementing priority queues, commonly used in public services or hospitals.
 
-## Helpful Resources
+{% embed url="https://www.youtube.com/watch?v=c1TpLRyQJ4w" %}
 
-1. Read pages 115-116 in the [Cracking the Coding Interview PDF](../a.0-algorithms-overview.md#resources).
-2. Watch Heap Intro Part 1 (heap structure, how to add element to heap) video [here](https://www.youtube.com/watch?v=c1TpLRyQJ4w).
-   1. Watch Heap Intro Part 2 (how to remove element from heap) video [here](https://www.youtube.com/watch?v=ijfPvX2qYOQ\&t=0s).
-   2. Watch Heap Intro Part 3 (how to represent heap as array) video [here](https://www.youtube.com/watch?v=fJORlbOGm9Y\&t=0s).
-3. MIT's Heap introduction slides [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6\_006F11\_lec04.pdf) show a more detailed description of heap operations.
+{% embed url="https://www.youtube.com/watch?v=ijfPvX2qYOQ" %}
+
+{% embed url="https://www.youtube.com/watch?v=fJORlbOGm9Y" %}
+
+## Further Reading
+
+1. [https://www.youtube.com/watch?v=WCm3TqScBM8](https://www.youtube.com/watch?v=WCm3TqScBM8)
+2. [https://www.youtube.com/watch?v=g9YK6sftDi0](https://www.youtube.com/watch?v=g9YK6sftDi0)
+3. [https://www.youtube.com/watch?v=Dvq-YKeuO9Y](https://www.youtube.com/watch?v=Dvq-YKeuO9Y)
 4. Here is [RA's FTBC3's class video](https://youtu.be/Zat3PE0j1bA?t=701) introducing heaps.
 
 ## Summary (What do we need to know?)
