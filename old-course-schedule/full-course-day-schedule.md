@@ -1493,7 +1493,7 @@ None
 * [8.4: React Router](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/8-advanced-react/8.4-react-router)
 * [8.4.1: React Router Shopping](../8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
 * [8.4.2: React Router Deep Linking](../8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
-* [D.5.8: Heaps - Pre-Class](../algorithms/a.5-data-structures/a.5.8-heaps.md#pre-class)
+* [D.5.8: Heaps - Pre-Class](../algorithms/a.5-data-structures/a.5.8-heaps/#pre-class)
 
 **In-Class**
 
@@ -1513,12 +1513,12 @@ None
 
 **In-Class**
 
-* [D.5.8: Heaps - Part 2](../algorithms/a.5-data-structures/a.5.8-heaps.md#part-2)
+* [D.5.8: Heaps - Part 2](../algorithms/a.5-data-structures/a.5.8-heaps/#part-2)
 
 **Post-Class**
 
 * [8.POCE.2: (Group Project) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.5.8: Heaps - Part 2](../algorithms/a.5-data-structures/a.5.8-heaps.md#part-2)
+* [D.5.8: Heaps - Part 2](../algorithms/a.5-data-structures/a.5.8-heaps/#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 ### Course Week 18
@@ -1532,12 +1532,12 @@ None
 
 **In-Class**
 
-* [D.5.8: Heaps - Part 3](../algorithms/a.5-data-structures/a.5.8-heaps.md#part-3)
+* [D.5.8: Heaps - Part 3](../algorithms/a.5-data-structures/a.5.8-heaps/#part-3)
 
 **Post-Class**
 
 * [8.POCE.2: (Group Project) Climbing Trip](../8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-* [D.5.8: Heaps - Part 3](../algorithms/a.5-data-structures/a.5.8-heaps.md#part-3)
+* [D.5.8: Heaps - Part 3](../algorithms/a.5-data-structures/a.5.8-heaps/#part-3)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
 #### Course Day 18.2

@@ -60,7 +60,7 @@ result = binarySearch(my_list, 6)  # 4
 1. [https://leetcode.com/problems/valid-perfect-square/](https://leetcode.com/problems/valid-perfect-square/)
    1. Hint: Can we use binary search to find the factor of this number if it were a perfect square?
 2. \[Requires Heaps] [https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
-   1. Hint: Heaps may be helpful. Consider the solution to this heaps problem that we may have solved in [D.5.8: Heaps](a.5-data-structures/a.5.8-heaps.md#part-3): [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+   1. Hint: Heaps may be helpful. Consider the solution to this heaps problem that we may have solved in [D.5.8: Heaps](a.5-data-structures/a.5.8-heaps/#part-3): [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 ## Further Reading
 

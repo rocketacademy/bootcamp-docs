@@ -1,11 +1,10 @@
 # A.5.8: Heaps
 
-![Heap Ledger](../../.gitbook/assets/heap-ledger.png)
+![Heap Ledger](../../../.gitbook/assets/heap-ledger.png)
 
 ## Introduction
 
 Heap is a data structure that is optimized for keeping track of the minimum or maximum out of a changing collection of elements. A heap that keeps track of the minimum value is called a min-heap. A heap that keeps track of the maximum value is called a max-heap. A heap implements an abstract data type called a priority queue.
-
 
 ## Complexity Properties of Heaps
 
@@ -15,13 +14,11 @@ Putting a new value into a heap: `O(logn)` log time.
 
 Using a normal array we would need linear time to keep track of the max or min element.
 
-
 {% embed url="https://www.youtube.com/watch?v=c1TpLRyQJ4w" %}
 
 {% embed url="https://www.youtube.com/watch?v=ijfPvX2qYOQ" %}
 
 {% embed url="https://www.youtube.com/watch?v=fJORlbOGm9Y" %}
-
 
 ## Summary (What do we need to know?)
 
@@ -36,6 +33,7 @@ In summary, we should remember 3 primary operations of heaps, and how heap sort 
 4. Heap sort runs in `O(nlogn)` time, but in practice is slower than Merge Sort
 
 ## Max Heap Example
+
 ```
 # consider a single parent and two children
 # sift larger values up through the tree
@@ -86,9 +84,11 @@ A = [3,9,2,1,4,5]
 build_max_heap(A)
 print(A)
 ```
+
 From: [https://favtutor.com/blogs/heap-in-python](https://favtutor.com/blogs/heap-in-python)
 
 ## Max Heap with Comments
+
 ```
 # consider a single parent and two children
 def max_heapify(A,k):
@@ -205,11 +205,12 @@ class Heap:
         idx_children = 2 * idx_parent + 1, 2 * idx_parent + 2
         return idx_children
 ```
+
 From: [https://codereview.stackexchange.com/a/239294](https://codereview.stackexchange.com/a/239294)
 
 ## Sorting Algorithms
 
-In [D.7](../a.10-sorting-algorithms/) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
+In [D.7](../../a.10-sorting-algorithms) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
 
 ### Heap Sort
 
@@ -231,6 +232,7 @@ Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.
 4. Heaps are not always necessary. Given a static input list, it may be faster to sort the input list and access the Kth element instead of using a heap. Heaps are most useful when we may not have the full input up front.
 
 ### Pre-Class
+
 1. Implement adding an element to the heap by implementing a `sift_up` function for the max heap example above (don't use a heapq). You can use the heap class example above as reference.
 2. [https://leetcode.com/problems/last-stone-weight/](https://leetcode.com/problems/last-stone-weight/)
    1. RA Solution code: [https://pastebin.com/JCB78UG0](https://pastebin.com/JCB78UG0)
@@ -259,5 +261,3 @@ Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.
 2. [https://www.youtube.com/watch?v=g9YK6sftDi0](https://www.youtube.com/watch?v=g9YK6sftDi0)
 3. [https://www.youtube.com/watch?v=Dvq-YKeuO9Y](https://www.youtube.com/watch?v=Dvq-YKeuO9Y)
 4. Here is [RA's FTBC3's class video](https://youtu.be/Zat3PE0j1bA?t=701) introducing heaps.
-
-
