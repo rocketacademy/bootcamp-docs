@@ -1,5 +1,9 @@
 # A.5.8: Heaps
 
+![Heap Ledger](../../.gitbook/assets/heap-ledger.png)
+
+##
+
 ## Introduction
 
 Heap is a data structure that is useful for keeping track of the minimum or maximum out of a changing collection of elements. Without heaps we would need linear time to keep track of the max or min element in a changing collection, but with heaps we only need log time. Heaps are especially useful for implementing priority queues, commonly used in public services or hospitals.

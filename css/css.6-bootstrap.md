@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Bootstrap](https://getbootstrap.com) is an open-source CSS library created at Twitter and [open-sourced in 2011](https://en.wikipedia.org/wiki/Bootstrap_\(front-end_framework\)). It provides a set of styles for a 12-column grid, and CSS and JS for common UI elements, such as carousels and alert boxes.
+[Bootstrap](https://getbootstrap.com) is an open-source CSS library created at Twitter and [open-sourced in 2011](https://en.wikipedia.org/wiki/Bootstrap\_\(front-end\_framework\)). It provides a set of styles for a 12-column grid, and CSS and JS for common UI elements, such as carousels and alert boxes.
 
 ## Why use Bootstrap
 
@@ -20,7 +20,7 @@ Do not add any box model or layout styles to an element that already has a Boots
 
 ## Responsive Grid
 
-Bootstrap CSS allows a developer to write HTML classes and create mobile-first responsive layouts easily. 
+Bootstrap CSS allows a developer to write HTML classes and create mobile-first responsive layouts easily.
 
 {% embed url="https://www.youtube.com/watch?v=qmPmwdshCMw" %}
 
@@ -71,8 +71,9 @@ From here: [https://getbootstrap.com/docs/5.0/getting-started/introduction/#star
 
 Bootstrap grid has built-in mobile first responsive media query breakpoints. When setting media queries to match up with the bootstrap breakpoints here are the pixel widths:
 
-| size                  | <p>xs<br>&#x3C;576px</p> | <p>sm<br>≥576px</p> | <p>md<br>≥768px</p> | <p>lg<br>≥992px</p> | <p>xl<br>≥1200px</p> | <p>xxl<br>≥1400px</p> |
+|                       |                          |                     |                     |                     |                      |                       |
 | --------------------- | ------------------------ | ------------------- | ------------------- | ------------------- | -------------------- | --------------------- |
+| size                  | <p>xs<br>&#x3C;576px</p> | <p>sm<br>≥576px</p> | <p>md<br>≥768px</p> | <p>lg<br>≥992px</p> | <p>xl<br>≥1200px</p> | <p>xxl<br>≥1400px</p> |
 | Container `max-width` | None (auto)              | 540px               | 720px               | 960px               | 1140px               | 1320px                |
 | Class prefix          | `.col-`                  | `.col-sm-`          | `.col-md-`          | `.col-lg-`          | `.col-xl-`           | `.col-xxl-`           |
 
