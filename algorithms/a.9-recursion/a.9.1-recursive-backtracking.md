@@ -2,11 +2,12 @@
 
 ## Introduction
 
-Recursive backtracking means to explore all potentially valid recursive subtrees, and "backtrack" when we discover that a particular subtree is invalid or exhausted. In certain problems such as [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/), this may mean we can avoid recursively exploring every subtree. In other problems such as [Permutations](https://leetcode.com/problems/permutations/), this may mean we explore every subtree, and "backtrack" when we have exhausted each subtree.
+Backtracking is a way to explore valid possible subtrees or permutations. Problems that use backgracking are such things as: permutations of strings, maze solving, sudoku puzzles, chess move validity.
 
-[This video](https://www.youtube.com/watch?v=gBC_Fd8EE8A) gives a simple explanation of the backtracking concept when applied to a maze problem, where our program "backtracks" each time it reaches a dead end. The code example is in Java, but we should be able to understand its logic. For a more detailed exploration of backtracking, consider the relevant Geeks for Geeks article [here](https://www.geeksforgeeks.org/backtracking-introduction/#:~:text=Backtracking%20is%20an%20algorithmic%2Dtechnique,reaching%20any%20level%20of%20the).
+In certain problems such as [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/), backtracking may mean we can avoid recursively exploring every subtree. In other problems such as [Permutations](https://leetcode.com/problems/permutations/), this may mean we explore every subtree, and "backtrack" when we have exhausted each subtree.
 
-## Sample Code Snippet
+
+## Find Tile Permutations Example
 
 You have a set of tiles, where each tile has one letter tiles\[i\] printed on it.  Return the number of possible non-empty sequences of letters you can make.
 
@@ -65,3 +66,6 @@ def numTilePossibilities(self, tiles: str):
 3. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 4. [https://leetcode.com/problems/combination-sum/](https://leetcode.com/problems/combination-sum/)
 
+## Further Reading
+
+[Geeks for Geeks article](https://www.geeksforgeeks.org/backtracking-introduction/#:~:text=Backtracking%20is%20an%20algorithmic%2Dtechnique,reaching%20any%20level%20of%20the).
