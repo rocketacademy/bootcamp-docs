@@ -3,6 +3,7 @@
 In [D.7](../../a.10-sorting-algorithms) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
 
 ### Heap Sort
+
 * Runtime: _**O(nlogn)**_
 * Space: _**O(1)**_
 * Sort In-Place: Yes
@@ -13,16 +14,15 @@ In [D.7](../../a.10-sorting-algorithms) we mentioned heap sort that runs in `O(n
 * good space complexity
 * not favored compared to quicksort
 
-https://www.youtube.com/watch?v=onlhnHpGgC4
+{% embed url="https://www.youtube.com/watch?v=onlhnHpGgC4" %}
 
-https://www.youtube.com/watch?v=MtQL_ll5KhQ
+{% embed url="https://www.youtube.com/watch?v=MtQL_ll5KhQ" %}
 
-https://www.youtube.com/watch?v=2DmK_H7IdTo
+{% embed url="https://www.youtube.com/watch?v=2DmK_H7IdTo" %}
 
-https://www.youtube.com/watch?v=k72DtCnY4MU
+{% embed url="https://www.youtube.com/watch?v=k72DtCnY4MU" %}
 
-https://www.youtube.com/watch?v=LbB357_RwlY
-
+{% embed url="https://www.youtube.com/watch?v=LbB357_RwlY" %}
 
 ```
 def heapify(arr, n, i):
@@ -65,5 +65,5 @@ print("Sorted array is")
 for i in range(n):
     print("%d " % arr[i], end='')
 ```
-From: [https://www.programiz.com/dsa/heap-sort](https://www.programiz.com/dsa/heap-sort)
 
+From: [https://www.programiz.com/dsa/heap-sort](https://www.programiz.com/dsa/heap-sort)

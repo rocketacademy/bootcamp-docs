@@ -24,13 +24,13 @@ A significant amount of CSS development happens in Chrome's DevTools. The Elemen
 
 ![](../.gitbook/assets/dt-css-main.jpg)
 
-We saw how to inspect an element in [Module 1.1.1: Basic HTML](../1-frontend-basics/1.1-html/1.1.1-basic-html.md). When we select an HTML element in DevTools the CSS styles applied to that element appear in the Styles pane.
+We saw how to inspect an element in [Module 1.1.1: Basic HTML](../1-1-frontend-basics/1.1-html/1.1.1-basic-html.md). When we select an HTML element in DevTools the CSS styles applied to that element appear in the Styles pane.
 
 ### Element / Style Inspection
 
 ![](../.gitbook/assets/dt-css-hover.jpg)
 
-Hovering over an HTML element in the HTML pane shows us style information like pixel dimensions of the element. The Styles pane shows us CSS precedence of styles on the element \(higher precedence on top\), and the CSS file name and line number where each style rule came from. In the above example, we see the styles for the `announce` class, the `h1` style from our CSS file, then the default `h1` browser \(user agent typically refers to the user's browser\) styles in decreasing order of precedence.
+Hovering over an HTML element in the HTML pane shows us style information like pixel dimensions of the element. The Styles pane shows us CSS precedence of styles on the element (higher precedence on top), and the CSS file name and line number where each style rule came from. In the above example, we see the styles for the `announce` class, the `h1` style from our CSS file, then the default `h1` browser (user agent typically refers to the user's browser) styles in decreasing order of precedence.
 
 ### Toggle Style
 
@@ -52,11 +52,11 @@ Install the [Lorem Ipsum plugin for VSCode](https://marketplace.visualstudio.com
 
 ### Get Placeholder Images for CSS
 
-Use [Lorem Picsum](https://picsum.photos/) to get placeholder images.
+Use [Lorem Picsum](https://picsum.photos) to get placeholder images.
 
 ### Use Readily-Available Icons
 
-[Fontawesome](https://fontawesome.com/) makes it easy to put icons on a page using HTML elements and CSS. Read full Fontawesome documentation [here](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
+[Fontawesome](https://fontawesome.com) makes it easy to put icons on a page using HTML elements and CSS. Read full Fontawesome documentation [here](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
 #### CSS styles link
 
@@ -76,15 +76,15 @@ Fontawesome docs may give examples where the icon base classes must change- `fas
 
 ### Consider Using Google Fonts
 
-Google's font collection is a relatively standard font collection of readable fonts. See their catalogue of fonts [here](https://fonts.google.com/) and an exercise on how to use Google fonts [here](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font). 
+Google's font collection is a relatively standard font collection of readable fonts. See their catalogue of fonts [here](https://fonts.google.com) and an exercise on how to use Google fonts [here](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font).
 
-### Use Viewport Tag for Mobile Views \(Important!\)
+### Use Viewport Tag for Mobile Views (Important!)
 
 {% hint style="warning" %}
 Many students miss this, causing CSS layout issues in mobile views. Please add this to websites we want to work on mobile.
 {% endhint %}
 
-For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. This is to develop for mobile on desktop without squinting. Chrome DevTools assumes we have this scaling tag when debugging mobile layouts. Read more about the `viewport` tag [here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. This is to develop for mobile on desktop without squinting. Chrome DevTools assumes we have this scaling tag when debugging mobile layouts. Read more about the `viewport` tag [here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport\_meta\_tag)
 
 ```markup
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -94,11 +94,10 @@ For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. 
 
 We will complete the 44 exercises in [Free Code Camp's Basic CSS module](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/).
 
-### Part 1 \(Exercises 1-22\)
+### Part 1 (Exercises 1-22)
 
 Complete Free Code Camp's Basic CSS Exercises 1-22. Start from [Change the Color of Text](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text) and end at [Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element).
 
-### Part 2 \(Exercises 23-36, Skip Last 8 Exercises\)
+### Part 2 (Exercises 23-36, Skip Last 8 Exercises)
 
-Complete Free Code Camp's Basic CSS Exercises 23-36. Start from [Use Attribute Selectors to Style Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements) and end at [Use RGB to Mix Colors](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mix-colors). Skip last 8 exercises \(i.e. 37-44\) because they are not particularly relevant.
-
+Complete Free Code Camp's Basic CSS Exercises 23-36. Start from [Use Attribute Selectors to Style Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements) and end at [Use RGB to Mix Colors](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mix-colors). Skip last 8 exercises (i.e. 37-44) because they are not particularly relevant.

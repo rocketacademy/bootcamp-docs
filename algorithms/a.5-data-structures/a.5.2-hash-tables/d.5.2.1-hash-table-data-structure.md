@@ -1,6 +1,6 @@
 # D.5.2.1: Hash Table Data Structure
 
-![](../../../.gitbook/assets/hash_meme.jpeg)
+![](../../../.gitbook/assets/hash\_meme.jpeg)
 
 We've been using dictionaries as built-in Python data structures, but in this section we'll build a hash map class from scratch.
 
@@ -19,7 +19,7 @@ dictionary = {
 print(dictionary["height"])
 ```
 
-Before we can dive into the storing of the data itself we need to talk about the association of the key with the value inside the hash map data structure. We've already seen the idea of "hashing" a value is JavaScript in [Password Hashing 3.5.3](../../../3-backend-applications/3.5-authentication/3.5.3-password-hashing.md). We'll use a very similar algorithm to associate hash map keys with hash map values.
+Before we can dive into the storing of the data itself we need to talk about the association of the key with the value inside the hash map data structure. We've already seen the idea of "hashing" a value is JavaScript in [Password Hashing 3.5.3](../../../3-3-backend-applications/3.5-authentication/3.5.3-password-hashing.md). We'll use a very similar algorithm to associate hash map keys with hash map values.
 
 We saw in section 3.5.3 that cryptographic hashing functions have 4 properties:
 
@@ -28,9 +28,9 @@ We saw in section 3.5.3 that cryptographic hashing functions have 4 properties:
 3. Output not related to input
 4. Rarely repeat for different inputs
 
-Cryptographic hash algorithms are a superset of normal hash algorithms. We're going to create a similar algorithm that we can use to associate a hash map key with a value, but because we are not doing cryptography we can throw away property \#3.
+Cryptographic hash algorithms are a superset of normal hash algorithms. We're going to create a similar algorithm that we can use to associate a hash map key with a value, but because we are not doing cryptography we can throw away property #3.
 
-We also need to state one other property which we didn't mention before- that we can consider the complexity of this function to be **O\(1\)**. \(Which isn't true in all cryptographic hash algorithm cases or even all hash map cases.\)
+We also need to state one other property which we didn't mention before- that we can consider the complexity of this function to be **O(1)**. (Which isn't true in all cryptographic hash algorithm cases or even all hash map cases.)
 
 ```python
 def hash_function(input_string: str, size: int):
@@ -231,7 +231,7 @@ There are two ways to deal with hash collisions:
 
 #### Hash Table Implementation in Python
 
-[http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)  
+[http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)\
 [https://www.youtube.com/watch?v=npw4s1QTmPg](https://www.youtube.com/watch?v=npw4s1QTmPg)
 
 #### JavaScript Objects are not Hash Maps
@@ -240,10 +240,9 @@ There are two ways to deal with hash collisions:
 
 JS object value properties are accessed through hidden classes:
 
-[https://v8.dev/blog/fast-properties](https://v8.dev/blog/fast-properties)  
+[https://v8.dev/blog/fast-properties](https://v8.dev/blog/fast-properties)\
 [https://www.infoq.com/presentations/javascript-objects-spidermonkey/](https://www.infoq.com/presentations/javascript-objects-spidermonkey/)
 
 #### Hash Table Theory
 
 See [this article](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/) for a brief explanation of hash table theory.
-

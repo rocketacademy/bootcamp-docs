@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This section will eventually discuss the Hash Table, which is an abstract computer science data structure. 
+This section will eventually discuss the Hash Table, which is an abstract computer science data structure.
 
 ### Hash Table as Object / Dictionary
 
@@ -12,7 +12,7 @@ The first simple implementation we'll work with is a Python dictionary, which is
 
 #### Keys and Values
 
-Access to data given the crucial behavior of a hash table / Python dictionary / JavaScript object. Access to a value through a key is an **O\(1\)** operation, so it is a good way to store and retrieve data.
+Access to data given the crucial behavior of a hash table / Python dictionary / JavaScript object. Access to a value through a key is an **O(1)** operation, so it is a good way to store and retrieve data.
 
 ```javascript
 var obj = {
@@ -34,9 +34,9 @@ print(dictionary["height"])
 
 #### Why isn't a dictionary called a Hash Map?
 
-The Python dictionary data structure is way to access a value through a key in **O\(1\)** time. In the easy Leetcode problems below we can assume that dictionary and hash map are synonymous because we are only thinking about the key/value access behaviour of the hash map data structure.
+The Python dictionary data structure is way to access a value through a key in **O(1)** time. In the easy Leetcode problems below we can assume that dictionary and hash map are synonymous because we are only thinking about the key/value access behaviour of the hash map data structure.
 
-In a computer science context the importance of the hash map data structure references a point in the history of the field and in programming languages where such a key/value store did not exist by default- you had to create your own or use a library \(for example in the C programming language\). At the end of this section we'll have rebuilt everything needed for a dictionary using only primitive types like lists, strings and integers. This will also be similar for other very basic data structures we'll see where things like stacks, queues and linked lists, which do have more modern Python equivalents but for DS&A we are more concerned with conceptual understanding rather than easy to write code. Also [see D.5.2.1](d.5.2.1-hash-table-data-structure.md) for how Python dictionaries and JavaScript objects work under the hood.
+In a computer science context the importance of the hash map data structure references a point in the history of the field and in programming languages where such a key/value store did not exist by default- you had to create your own or use a library (for example in the C programming language). At the end of this section we'll have rebuilt everything needed for a dictionary using only primitive types like lists, strings and integers. This will also be similar for other very basic data structures we'll see where things like stacks, queues and linked lists, which do have more modern Python equivalents but for DS\&A we are more concerned with conceptual understanding rather than easy to write code. Also [see D.5.2.1](d.5.2.1-hash-table-data-structure.md) for how Python dictionaries and JavaScript objects work under the hood.
 
 ## Hash Table Usage Examples
 
@@ -47,7 +47,7 @@ In DSA problems, we don't need to implement a hash map class. _**We are normally
 
 ### Tallying Frequencies:
 
-Example card frequencies from module [0.4: JS Object as Tally](../../../0-language-and-tooling/0.4-js-object-as-tally.md):
+Example card frequencies from module [0.4: JS Object as Tally](../../../0-0-language-and-tooling/0.4-js-object-as-tally.md):
 
 ```javascript
 // Create shuffled deck
@@ -200,4 +200,3 @@ Once you've attempted each problem, find solutions in the Discuss tab on that pr
 2. [https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
 3. [https://leetcode.com/problems/find-common-characters/](https://leetcode.com/problems/find-common-characters/)
 4. [https://leetcode.com/problems/maximum-number-of-balloons/](https://leetcode.com/problems/maximum-number-of-balloons/)
-

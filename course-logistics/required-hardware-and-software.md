@@ -160,7 +160,7 @@ npm install
 
 #### NPM
 
-We'll be covering NPM and the `npm install` command in depth in [Module 2](../2-backend-basics/2.14-npm.md). For now, it is enough to know that the command downloads and installs libraries into a directory called `node_modules`. You'll see this directory appear in your repo.
+We'll be covering NPM and the `npm install` command in depth in [Module 2](../2-2-backend-basics/2.14-npm.md). For now, it is enough to know that the command downloads and installs libraries into a directory called `node_modules`. You'll see this directory appear in your repo.
 
 ### VSCode Formatting Settings
 
