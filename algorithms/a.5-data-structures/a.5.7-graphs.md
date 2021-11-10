@@ -4,7 +4,6 @@
 
 Graphs are a more generalised version of trees that can have "edges" that point in forward, backward, and both directions. All trees are graphs but not all graphs are trees.
 
-Unlike trees, where the edges are stored inside node objects in the form of children or left and right pointer attributes, graphs are often represented as an array of edges without any custom node object. For example, the array of arrays `[[1, 2], [2, 3]]` can be used to represent a graph `1 -> 2 -> 3` where there is an edge from node 1 to 2 and from 2 to 3.
 
 ## Helpful Resources
 

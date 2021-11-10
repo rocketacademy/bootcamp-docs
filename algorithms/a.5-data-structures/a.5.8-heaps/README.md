@@ -208,16 +208,6 @@ class Heap:
 
 From: [https://codereview.stackexchange.com/a/239294](https://codereview.stackexchange.com/a/239294)
 
-## Sorting Algorithms
-
-In [D.7](../../a.10-sorting-algorithms) we mentioned heap sort that runs in `O(nlogn) time.` Now that we've covered heaps we can look at this algo again.
-
-### Heap Sort
-
-1. `O(nlogn)` time, `O(1)` space sorting algorithm
-2. On average slower and less commonly used than Merge Sort and Quick Sort
-3. [https://www.geeksforgeeks.org/heap-sort/](https://www.geeksforgeeks.org/heap-sort/)
-
 ## Exercises
 
 Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.html) to utilise heaps in code.
@@ -259,5 +249,6 @@ Please use the [Python `heapq` library](https://docs.python.org/3/library/heapq.
 
 1. [https://www.youtube.com/watch?v=WCm3TqScBM8](https://www.youtube.com/watch?v=WCm3TqScBM8)
 2. [https://www.youtube.com/watch?v=g9YK6sftDi0](https://www.youtube.com/watch?v=g9YK6sftDi0)
-3. [https://www.youtube.com/watch?v=Dvq-YKeuO9Y](https://www.youtube.com/watch?v=Dvq-YKeuO9Y)
-4. Here is [RA's FTBC3's class video](https://youtu.be/Zat3PE0j1bA?t=701) introducing heaps.
+3. https://www.youtube.com/watch?v=BzQGPA_v-vc
+4. [https://www.youtube.com/watch?v=Dvq-YKeuO9Y](https://www.youtube.com/watch?v=Dvq-YKeuO9Y)
+5. Here is [RA's FTBC3's class video](https://youtu.be/Zat3PE0j1bA?t=701) introducing heaps.

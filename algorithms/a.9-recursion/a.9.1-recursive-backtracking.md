@@ -6,6 +6,22 @@ Backtracking is a way to explore valid possible subtrees or permutations. Proble
 
 In certain problems such as [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/), backtracking may mean we can avoid recursively exploring every subtree. In other problems such as [Permutations](https://leetcode.com/problems/permutations/), this may mean we explore every subtree, and "backtrack" when we have exhausted each subtree.
 
+https://www.youtube.com/watch?v=Nabbpl7y4Lo
+
+https://www.youtube.com/watch?v=sz1qaKt0KGQ
+
+String Permutations
+https://www.youtube.com/watch?v=GCm7m5671Ps
+
+Maze Solving
+https://www.youtube.com/watch?v=gBC_Fd8EE8A
+
+Sudoku (harder problem)
+https://www.youtube.com/watch?v=Zq4upTEaQyM
+
+N-Queens (harder problem)
+https://www.youtube.com/watch?v=wGbuCyNpxIg&t=96s
+
 
 ## Find Tile Permutations Example
 
@@ -69,3 +85,5 @@ def numTilePossibilities(self, tiles: str):
 ## Further Reading
 
 [Geeks for Geeks article](https://www.geeksforgeeks.org/backtracking-introduction/#:~:text=Backtracking%20is%20an%20algorithmic%2Dtechnique,reaching%20any%20level%20of%20the).
+https://brilliant.org/wiki/recursive-backtracking/
+https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/
