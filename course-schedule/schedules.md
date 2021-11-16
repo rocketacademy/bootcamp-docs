@@ -6,3 +6,4 @@
 
 ## [Part Time Batch 1](https://rocketacademy.github.io/scheduler/#/schedules/ptbc1)
 
+## [Part Time Batch 2](https://rocketacademy.github.io/scheduler/#/schedules/ptbc2)
