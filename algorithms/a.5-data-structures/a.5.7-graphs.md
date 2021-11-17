@@ -150,14 +150,16 @@ graph = {
 
 #### Part 4
 
-1. [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)
+1. [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)
+2. [https://leetcode.com/problems/shortest-bridge/](a.5.7-graphs.md#a.5.7-graphs)
+3. [https://leetcode.com/problems/keys-and-rooms/](https://leetcode.com/problems/keys-and-rooms/) (Medium)
+4. [https://leetcode.com/problems/redundant-connection/](https://leetcode.com/problems/redundant-connection/) (Medium)
+5. [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)
    1. Hint: What additional data structures might be helpful for us to solve this problem?
    2. RA solution code: [https://pastebin.com/3N4NUz8G](https://pastebin.com/3N4NUz8G)
    3. RA solution video: [https://youtu.be/1xDBSlnUiUE?t=1308](https://youtu.be/1xDBSlnUiUE?t=1308)
-2. https://leetcode.com/problems/number-of-islands/
-3. https://leetcode.com/problems/shortest-bridge/
-4. [https://leetcode.com/problems/keys-and-rooms/](https://leetcode.com/problems/keys-and-rooms/) (Medium)
-5. [https://leetcode.com/problems/redundant-connection/](https://leetcode.com/problems/redundant-connection/) (Medium)
+
+*
 
 #### Part 5
 
