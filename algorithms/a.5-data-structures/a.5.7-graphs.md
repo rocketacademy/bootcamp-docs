@@ -52,7 +52,7 @@ visited = {}
 def dfs(at):
   if at in visited: return
 
-  visited.append(at)
+  visited[at] = True
   print(f'at: {at}')
   
   neighbors = graph[at]
@@ -80,11 +80,11 @@ graph = {
   'e' : [],
   'f' : []
 }
-visited = [] # List to keep track of visited nodes.
+visited = {} # List to keep track of visited nodes.
 queue = []     #Initialize a queue
 
 def bfs(visited, graph, node):
-  visited.append(node)
+  visited[node] = True
   queue.append(node)
 
   while queue:
