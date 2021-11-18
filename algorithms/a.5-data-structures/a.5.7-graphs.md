@@ -207,8 +207,12 @@ https://www.youtube.com/watch?v=TIbUeeksXcI
 
 **Free Code Camp - Graphs in JavaScript**
 
-https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=143s https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=430s https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=1753s
+https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=143s
+
+https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=430s
+
+https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=1753s
 
 **How many sandwiches are a salad?**
 
-https://www.youtube.com/watch?v=vJZsH8Dsf8U
+{% embed url="https://www.youtube.com/watch?vz=vJZsH8Dsf8U" %}
