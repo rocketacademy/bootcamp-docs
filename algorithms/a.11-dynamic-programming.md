@@ -4,42 +4,71 @@
 
 Dynamic programming allows us to optimise recursive solutions by "caching" intermediate calculation results to reduce repeated and redundant calculations.
 
-## Helpful Resources
+#### Why is it called Dynamic Programming?
 
-1. Read pages 143-148 in [CTCI](a.0-algorithms-overview.md#resources) on DP
-2. [This](https://www.youtube.com/watch?v=vYquumk4nWw) video illustrates 2 fundamental examples of dynamic programming with the Fibonacci sequence.
-3. [This](https://awjin.me/algos-js/dp/tab-memo.html) article describes the differences between memoisation and tabulation methods of DP. Memoisation will be sufficient for a majority of DP problems.
+[According to Wikipedia](https://en.wikipedia.org/wiki/Dynamic\_programming#:\~:text=The%20word%20dynamic%20was%20chosen,schedule%20for%20training%20or%20logistics.), "The word _dynamic_ was chosen \[...] to capture the time-varying aspect of the problems, and because it sounded impressive. The word _programming_ referred to the use of the method to find an optimal _program_, in the sense of a military schedule for training or logistics." In other words, the name makes this algorithm topic seem harder and more esoteric than it is.
 
-## Key Concepts
+### Introduction Video
 
-1. Memoisation
-   1. Store previous calculations in cache to avoid repeated calculations
-2. "Take or don't take"
-   1. The problem can be broken down into "find the optimal value between choosing the current element and not choosing the current element"
-   2. "Take or don't take" problems typically also involve memoisation
+(the first 40 minutes are the basic definition of Dynamic Programming- no need to watch 5 hours!!)
+
+{% embed url="https://www.youtube.com/watch?v=oBt53YbR9Kk" %}
+
+Calculating the _nth_ fibonacci number using dynamic programming.
+
+```
+fib_table = {} # table to store previously computed values
+
+def fib(n):
+  if n < 2:
+    return n
+  if n in fib_table:
+    # give back a previously calculated result
+    return fib_table[n]
+    
+  result = fib(n-1) + fib(n-2)
+  
+  # store a result that has been calculated
+  fib_table[n] = result
+  
+  return result
+```
+
+## Further Reading
+
+{% embed url="https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/m2G1pAq0OO0" %}
+
+{% embed url="https://www.youtube.com/watch?v=vYquumk4nWw" %}
+
+Some dynamic programming problems can be expressed in a table.
+
+{% embed url="https://www.youtube.com/watch?v=ASoaQq66foQ" %}
+
+{% embed url="https://www.youtube.com/watch?v=OQ5jsbhAv_M" %}
+
+[https://www.youtube.com/watch?v=vYquumk4nWw\&list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD](https://www.youtube.com/watch?v=vYquumk4nWw\&list=PLBZBJbE\_rGRU5PrgZ9NBHJwcaZsNpf8yD)
 
 ## Exercises
 
-### Pre-Class
-
-1. [https://repl.it/@kaiyuanneo/dp1-basics\#main.py](https://repl.it/@kaiyuanneo/dp1-basics#main.py)
-   1. [https://repl.it/@kaiyuanneo/dp1-basics-soln\#main.py](https://repl.it/@kaiyuanneo/dp1-basics-soln#main.py)
-
 ### Part 1
+
+1. [https://repl.it/@kaiyuanneo/dp1-basics#main.py](https://repl.it/@kaiyuanneo/dp1-basics#main.py)
+   1. [https://repl.it/@kaiyuanneo/dp1-basics-soln#main.py](https://repl.it/@kaiyuanneo/dp1-basics-soln#main.py)
+
+### Part 2
 
 1. [https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)
 2. [https://leetcode.com/problems/house-robber/](https://leetcode.com/problems/house-robber/)
 
-### Part 2
+### Part 3
 
 1. [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
 2. [https://leetcode.com/problems/partition-array-for-maximum-sum/](https://leetcode.com/problems/partition-array-for-maximum-sum/)
 
-### Part 3
+### Part 4&#x20;
 
 1. [https://leetcode.com/problems/minimum-cost-for-tickets/](https://leetcode.com/problems/minimum-cost-for-tickets/)
 2. [https://leetcode.com/problems/divisor-game/](https://leetcode.com/problems/divisor-game/)
    1. Note: This can be solved with math and not DP, but please implement the DP version for practice.
    2. Rocket Academy solution code: [https://pastebin.com/mywskXkk](https://pastebin.com/mywskXkk)
-   3. Rocket Academy solution video: [https://youtu.be/SUGb21Ec5kE?t=2113](https://youtu.be/SUGb21Ec5kE?t=2113) \(35:13 until about 1:48:30\)
-
+   3. Rocket Academy solution video: [https://youtu.be/SUGb21Ec5kE?t=2113](https://youtu.be/SUGb21Ec5kE?t=2113) (35:13 until about 1:48:30)
