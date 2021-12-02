@@ -8,6 +8,10 @@ Please read about the 6 main bitwise operators `&`, `|`, `~`, `^`, `<<`, and `>>
 
 {% embed url="https://www.youtube.com/watch?v=qq64FrA2UXQ" %}
 
+{% embed url="https://www.youtube.com/watch?v=mesu75PTDC8" %}
+
+{% embed url="https://www.youtube.com/watch?v=NLKQEOgBAnw" %}
+
 ## Use Case: Hamming Codes
 
 A Hamming Code is an error-correction algorithm that uses bit manipulation to check if a set of data has errors (specifically binary data) in O(logn) space and time. These videos give a good intuition of the usefulness of bit manipulation as it relates to binary data.
@@ -44,3 +48,9 @@ Hamming codes have a Hamming distance of 3: The algorithm can detect up to three
 4. [https://leetcode.com/problems/power-of-two/](https://leetcode.com/problems/power-of-two/)
 5. [https://leetcode.com/problems/reverse-bits/](https://leetcode.com/problems/reverse-bits/)
 6. [https://leetcode.com/problems/power-of-four/](https://leetcode.com/problems/power-of-four/)
+
+## Further Reading
+
+Two's complement
+
+{% embed url="https://www.youtube.com/watch?v=4qH4unVtJkE" %}
