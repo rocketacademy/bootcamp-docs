@@ -6,7 +6,7 @@ Bit manipulation is commonly taught in core computer science courses to help stu
 
 Please read about the 6 main bitwise operators `&`, `|`, `~`, `^`, `<<`, and `>>` [here](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301). These operators can be used in Python to perform bitwise operations.
 
-https://www.youtube.com/watch?v=qq64FrA2UXQ
+{% embed url="https://www.youtube.com/watch?v=qq64FrA2UXQ" %}
 
 ## Use Case: Hamming Codes
 
