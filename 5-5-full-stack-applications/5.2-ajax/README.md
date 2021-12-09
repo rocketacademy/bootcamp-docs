@@ -40,7 +40,7 @@ Add a new route for a page. This route will respond with HTML.
 **routes.mjs (Step 2 above.)**
 
 ```
-app.get((request, response)=>{
+app.get('newroute', (request, response)=>{
     response.render('home')
 });
 ```
