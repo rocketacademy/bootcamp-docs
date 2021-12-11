@@ -1,6 +1,6 @@
 # D.5.2.1: Hash Table Data Structure
 
-![](../../../.gitbook/assets/hash\_meme.jpeg)
+![](../../../.gitbook/assets/hash_meme.jpeg)
 
 We've been using dictionaries as built-in Python data structures, but in this section we'll build a hash map class from scratch.
 
@@ -15,7 +15,7 @@ dictionary = {
 }
 
 # when you mention the "height" string key, how
-# does Python know to give back the value 25? 
+# does Python know to give back the value 25?
 print(dictionary["height"])
 ```
 
@@ -40,7 +40,7 @@ def hash_function(input_string: str, size: int):
     char_to_int = ord(character)
     # add it to the total
     result += char_to_int
-  
+
   # return the sum mod size
   # return a num from 0 size
   return result % size
@@ -49,17 +49,17 @@ def hash_function(input_string: str, size: int):
 ```python
 # pythonic (idiomatic) version
 def hash_function(input_string: str, size: int):
-  return sum([ord(ch) for ch in input_string]) % size 
+  return sum([ord(ch) for ch in input_string]) % size
 ```
 
 This function takes any length string value and outputs an integer value.
 
 ```python
-print(hash_function("happy", 10)) #6 
+print(hash_function("happy", 10)) #6
 print(hash_function("debit card", 10)) #2
-print(hash_function("bad credit", 10)) #2 
-print(hash_function("dirtyroom", 10)) #1 
-print(hash_function("dormitory", 10)) #1 
+print(hash_function("bad credit", 10)) #2
+print(hash_function("dirtyroom", 10)) #1
+print(hash_function("dormitory", 10)) #1
 ```
 
 ### Hash Collisions
@@ -76,14 +76,14 @@ def hash_function(input_string: str, size: int):
     # make an exponent of the char position
     # and the char int
     result += char_to_int ** (i+1)
-  
+
   # return the sum mod 10
   # return a num from 0 9
   return result % size
 
 
-print(hash_function("dormitory", 10) == hash_function("dirtyroom", 10)) #false 
-print(hash_function("debit card", 10) == hash_function("bad credit", 10)) #false 
+print(hash_function("dormitory", 10) == hash_function("dirtyroom", 10)) #false
+print(hash_function("debit card", 10) == hash_function("bad credit", 10)) #false
 ```
 
 ### Using the Hash Function to Create a Hash Map
@@ -94,35 +94,35 @@ From [here](https://www.geeksforgeeks.org/hash-map-in-python/).
 
 ```python
 class HashTable:
-  
+
     # Create empty bucket list of given size
     def __init__(self, size):
         self.size = size
         self.hash_table = self.create_buckets()
-  
+
     def create_buckets(self):
         return [[] for _ in range(self.size)]
-  
+
     # Insert values into hash map
     def set_val(self, key, val):
-        
+
         # Get the index from the key
         # using hash function
         hashed_key = hash_function(key, self.size)
-          
+
         # Get the bucket corresponding to index
         bucket = self.hash_table[hashed_key]
-  
+
         found_key = False
         for index, record in enumerate(bucket):
             record_key, record_val = record
-              
+
             # check if the bucket has same key as
             # the key to be inserted
             if record_key == key:
                 found_key = True
                 break
-  
+
         # If the bucket has same key as the key to be inserted,
         # Update the key value
         # Otherwise append the new key-value pair to the bucket
@@ -130,27 +130,27 @@ class HashTable:
             bucket[index] = (key, val)
         else:
             bucket.append((key, val))
-  
+
     # Return searched value with specific key
     def get_val(self, key):
-        
+
         # Get the index from the key using
         # hash function
         hashed_key = hash_function(key, self.size)
-          
+
         # Get the bucket corresponding to index
         bucket = self.hash_table[hashed_key]
-  
+
         found_key = False
         for index, record in enumerate(bucket):
             record_key, record_val = record
-              
-            # check if the bucket has same key as 
+
+            # check if the bucket has same key as
             # the key being searched
             if record_key == key:
                 found_key = True
                 break
-  
+
         # If the bucket has same key as the key being searched,
         # Return the value found
         # Otherwise indicate there was no record found
@@ -158,21 +158,21 @@ class HashTable:
             return record_val
         else:
             return "No record found"
-  
+
     # Remove a value with specific key
     def delete_val(self, key):
-        
+
         # Get the index from the key using
         # hash function
         hashed_key = hash_function(key, self.size)
-          
+
         # Get the bucket corresponding to index
         bucket = self.hash_table[hashed_key]
-  
+
         found_key = False
         for index, record in enumerate(bucket):
             record_key, record_val = record
-              
+
             # check if the bucket has same key as
             # the key to be deleted
             if record_key == key:
@@ -181,7 +181,7 @@ class HashTable:
         if found_key:
             bucket.pop(index)
         return
-  
+
     # To print the items of hash map
     def __str__(self):
         return "".join(str(item) for item in self.hash_table)
@@ -191,20 +191,20 @@ Use the class:
 
 ```python
 hash_table = HashTable(10)
-  
+
 # insert some values
 hash_table.set_val('gfg@example.com', 'some value')
 print(hash_table)
 print()
-  
+
 hash_table.set_val('portal@example.com', 'some other value')
 print(hash_table)
 print()
-  
+
 # search/access a record with key
 print(hash_table.get_val('portal@example.com'))
 print()
-  
+
 # delete or remove a value
 hash_table.delete_val('portal@example.com')
 print(hash_table)

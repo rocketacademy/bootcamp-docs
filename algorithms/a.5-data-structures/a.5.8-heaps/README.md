@@ -34,7 +34,7 @@ In summary, we should remember 3 primary operations of heaps, and how heap sort 
 
 ## Max Heap Example
 
-```
+```python
 # consider a single parent and two children
 # sift larger values up through the tree
 def max_heapify(A,k):
@@ -89,7 +89,7 @@ From: [https://favtutor.com/blogs/heap-in-python](https://favtutor.com/blogs/hea
 
 ## Max Heap with Comments
 
-```
+```python
 # consider a single parent and two children
 def max_heapify(A,k):
     print('***************************')
@@ -161,7 +161,7 @@ print(A)
 
 ## Full Max Heap Class Example
 
-```
+```python
 class Heap:
     def __init__(self):
         self.lst = []

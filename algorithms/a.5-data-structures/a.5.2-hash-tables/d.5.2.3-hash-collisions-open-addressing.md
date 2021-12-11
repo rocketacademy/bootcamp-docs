@@ -3,6 +3,3 @@
 {% embed url="https://www.youtube.com/watch?v=yA8bDfWj0UU" %}
 
 {% embed url="https://www.youtube.com/watch?v=xIejolxzZS8" %}
-
-
-

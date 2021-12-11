@@ -8,7 +8,7 @@ Queues are similar to stacks except instead of removing elements from the end of
 
 #### Big-O of Queues
 
-If we think of a list or, even worse, a stack, operations that affect the beginning of the data would run in at least O\(n\). Remember that in an array, removing something from the front is **O\(n\)**. We can think of a queue as a doubly linked list so that taking things off the front or the back is always **O\(1\)**. 
+If we think of a list or, even worse, a stack, operations that affect the beginning of the data would run in at least O\(n\). Remember that in an array, removing something from the front is **O\(n\)**. We can think of a queue as a doubly linked list so that taking things off the front or the back is always **O\(1\)**.
 
 ## Helpful Resources
 
@@ -34,7 +34,7 @@ class Queue:
   3) .size():           Return number of elements in queue
   '''
   # self is a reference to the instance that was just created
-  def __init__(self): 
+  def __init__(self):
     self.data = deque()
 
   # Return optional representation of class in string format
@@ -62,44 +62,44 @@ From [here](https://www.geeksforgeeks.org/queue-linked-list-implementation/).
 
 ```python
 class Node:
-     
+
     def __init__(self, data):
         self.data = data
         self.next = None
- 
+
 # A class to represent a queue
- 
+
 # The queue, front stores the front node
 # of LL and rear stores the last node of LL
 class Queue:
-     
+
     def __init__(self):
         self.front = self.rear = None
- 
+
     def isEmpty(self):
         return self.front == None
-     
+
     # Method to add an item to the queue
     def EnQueue(self, item):
         temp = Node(item)
-         
+
         if self.rear == None:
             self.front = self.rear = temp
             return
         self.rear.next = temp
         self.rear = temp
- 
+
     # Method to remove an item from queue
     def DeQueue(self):
-         
+
         if self.isEmpty():
             return
         temp = self.front
         self.front = temp.next
- 
+
         if(self.front == None):
             self.rear = None
- 
+
 # Driver Code
 if __name__== '__main__':
     q = Queue()
@@ -110,7 +110,7 @@ if __name__== '__main__':
     q.EnQueue(30)
     q.EnQueue(40)
     q.EnQueue(50)
-    q.DeQueue()  
+    q.DeQueue()
     print("Queue Front " + str(q.front.data))
     print("Queue Rear " + str(q.rear.data))
 ```
@@ -201,4 +201,3 @@ Solutions: [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@ka
 
 1. [https://leetcode.com/problems/task-scheduler/](https://leetcode.com/problems/task-scheduler/)
    1. Hint: This may be solved more efficiently without queues, but see how we can implement it with queues first.
-

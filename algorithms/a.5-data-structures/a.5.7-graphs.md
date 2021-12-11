@@ -16,7 +16,7 @@ Graphs are a more generalised version of trees that can have "edges" that point 
 
 As described in the video above, there are many ways to represent a graph. We will be using an _adjacency list_ to represent our graphs.
 
-```
+```python
 graph = {
   'a' : ['b','c'],
   'b' : ['d'],
@@ -37,7 +37,7 @@ For visiting every node in a graph. This code looks a little bit different from 
 
 {% embed url="https://www.youtube.com/watch?v=7fujbpJ0LB4" %}
 
-```
+```python
 graph = {
   'a' : ['b','c'],
   'b' : ['d'],
@@ -54,7 +54,7 @@ def dfs(at):
 
   visited[at] = True
   print(f'at: {at}')
-  
+
   neighbors = graph[at]
 
   for next_node in neighbors:
@@ -71,7 +71,7 @@ For visiting every node in a graph. This one visits each node in order of distan
 
 {% embed url="https://www.youtube.com/watch?v=xlVX7dXLS64" %}
 
-```
+```python
 graph = {
   'a' : ['b','c'],
   'b' : ['d'],
@@ -122,7 +122,7 @@ Implement a function that BFS searches a graph for a value and returns a boolean
 
 Implement path finding DFS that prints out a path in the graph from 'a' to 'e'.
 
-```
+```python
 graph = {
   'a' : ['b','c'],
   'b' : ['d'],
@@ -137,7 +137,7 @@ graph = {
 
 Implement shortest path BFS that prints out or returns the shortest path in the graph from 'a' to 'e':
 
-```
+```python
 graph = {
   'a' : ['b','c'],
   'b' : ['d'],
@@ -159,7 +159,7 @@ graph = {
    2. RA solution code: [https://pastebin.com/3N4NUz8G](https://pastebin.com/3N4NUz8G)
    3. RA solution video: [https://youtu.be/1xDBSlnUiUE?t=1308](https://youtu.be/1xDBSlnUiUE?t=1308)
 
-*
+-
 
 #### Part 5
 

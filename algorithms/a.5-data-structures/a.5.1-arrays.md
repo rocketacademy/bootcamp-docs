@@ -54,7 +54,7 @@ Python uses Timsort sorting algorithm to sort lists.
 
 ### Useful Python List Syntax
 
-#### Basic Python list methods: [https://www.w3schools.com/python/python\_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
+#### Basic Python list methods: [https://www.w3schools.com/python/python_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
 
 #### Python list slice syntax: [https://stackoverflow.com/a/509295](https://stackoverflow.com/a/509295)
 
@@ -83,13 +83,11 @@ a[:-3:-1]  # the last two items, reversed
 a[-3::-1]  # everything except the last two items, reversed
 ```
 
-
-
 ## Introduction to Leetcode
 
 Leetcode problems are encapsulated in classes. We will learn more about classes in [D.6: Object-Oriented Programming](../a.8-intro-to-object-oriented-programming.md), but without going into too much detail here, the following are what we need to know to solve and submit problems in Leetcode.
 
-* **Every method inside a Python class requires `self` as the 1st parameter in the method definition.** This is so that the method has access to other attributes and methods within the class instance via `self`.
+- **Every method inside a Python class requires `self` as the 1st parameter in the method definition.** This is so that the method has access to other attributes and methods within the class instance via `self`.
 
 ```python
 class Solution:
@@ -97,7 +95,7 @@ class Solution:
         print("yay")
 ```
 
-* **To call Python class methods \(i.e. methods inside the class\), we will need to prefix the method name with** `self.`. For example `self.myMethodName()`. There is no need to pass `self` as the 1st parameter to class methods, even though `self` is the 1st param in the method definition.
+- **To call Python class methods \(i.e. methods inside the class\), we will need to prefix the method name with** `self.`. For example `self.myMethodName()`. There is no need to pass `self` as the 1st parameter to class methods, even though `self` is the 1st param in the method definition.
 
 ```python
 class Solution:
@@ -107,7 +105,7 @@ class Solution:
         self.say_something()
 ```
 
-* **Leetcode problems specify variable types in function parameters to help us understand the inputs and outputs of the function we need to implement.** This optional syntax is part of Python 3, so that function parameters can specify variable types. 
+- **Leetcode problems specify variable types in function parameters to help us understand the inputs and outputs of the function we need to implement.** This optional syntax is part of Python 3, so that function parameters can specify variable types.
 
 ```python
 class Solution:
@@ -116,7 +114,7 @@ class Solution:
         pass
 ```
 
-* **There is no need for us to call the function we define.** For example `validMountainArray`. Leetcode will call the function, we just need to implement it.
+- **There is no need for us to call the function we define.** For example `validMountainArray`. Leetcode will call the function, we just need to implement it.
 
 ```python
 class Solution:
@@ -154,4 +152,3 @@ Once you've attempted each problem, find solutions in either the Solution or Dis
 3. [https://leetcode.com/problems/relative-sort-array/](https://leetcode.com/problems/relative-sort-array/)
 4. [https://leetcode.com/problems/sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii/)
 5. [https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-

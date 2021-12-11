@@ -24,7 +24,7 @@ We can think of the stack data structure like a stack of pancakes- we can only a
 
 ### JavaScript Call Stacks
 
-A recurring example of stack data structure usage is inside the Chrome JavaScript debugger tools- the function call stack. In JavaScript function execution is tracked using a stack data structure. Watch this video to see how function calls tie in with a stack's LIFO behaviour. 
+A recurring example of stack data structure usage is inside the Chrome JavaScript debugger tools- the function call stack. In JavaScript function execution is tracked using a stack data structure. Watch this video to see how function calls tie in with a stack's LIFO behaviour.
 
 {% embed url="https://www.youtube.com/watch?v=W8AeMrVtFLY" %}
 
@@ -138,5 +138,4 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 
 #### Pushdown Automata
 
-Turing's theoretical computers used stacks as part of it's basic behaviours. See more about them here: [https://en.wikipedia.org/wiki/Pushdown\_automaton](https://en.wikipedia.org/wiki/Pushdown_automaton)
-
+Turing's theoretical computers used stacks as part of it's basic behaviours. See more about them here: [https://en.wikipedia.org/wiki/Pushdown_automaton](https://en.wikipedia.org/wiki/Pushdown_automaton)

@@ -4,15 +4,15 @@ In [D.7](../../a.10-sorting-algorithms) we mentioned heap sort that runs in `O(n
 
 ### Heap Sort
 
-* Runtime: _**O(nlogn)**_
-* Space: _**O(1)**_
-* Sort In-Place: Yes
-* Stable: Yes
+- Runtime: _**O(nlogn)**_
+- Space: _**O(1)**_
+- Sort In-Place: Yes
+- Stable: Yes
 
 #### Attributes
 
-* good space complexity
-* not favored compared to quicksort
+- good space complexity
+- not favored compared to quicksort
 
 {% embed url="https://www.youtube.com/watch?v=onlhnHpGgC4" %}
 
@@ -24,7 +24,7 @@ In [D.7](../../a.10-sorting-algorithms) we mentioned heap sort that runs in `O(n
 
 {% embed url="https://www.youtube.com/watch?v=LbB357_RwlY" %}
 
-```
+```python
 def heapify(arr, n, i):
     # Find largest among root and children
     largest = i

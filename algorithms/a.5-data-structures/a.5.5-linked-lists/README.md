@@ -9,12 +9,12 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked li
 1. Start and mid-list insertion and deletion operations that were `O(n)` time with arrays become `O(1)` time with LLs because all subsequent elements do not need to be shifted in memory. Only pointers of previous and next elements in the list need to be updated.
 2. Accessing a specific index that was `O(1)` time with arrays becomes `O(n)` time with LLs because the only way to access an element in the middle of a LL is to traverse the list until we reach that element.
 
-| Operation | Runtime \(Arrays\) | Runtime \(Linked Lists\) |
-| :--- | :--- | :--- |
-| Insertion/Deletion \(start\) | `O(n)` | `O(1)` |
-| Insertion/Deletion \(end\) | `O(1)` | `O(n)` \(`O(1)` if we have pointer to tail node with doubly-linked list\) |
-| Insertion/Deletion \(middle\) | `O(n)` | `O(n)` \(`O(1)` if we have pointer to the node to be deleted\) |
-| Access element at specific index | `O(1)` | `O(n)` |
+| Operation                        | Runtime \(Arrays\) | Runtime \(Linked Lists\)                                                  |
+| :------------------------------- | :----------------- | :------------------------------------------------------------------------ |
+| Insertion/Deletion \(start\)     | `O(n)`             | `O(1)`                                                                    |
+| Insertion/Deletion \(end\)       | `O(1)`             | `O(n)` \(`O(1)` if we have pointer to tail node with doubly-linked list\) |
+| Insertion/Deletion \(middle\)    | `O(n)`             | `O(n)` \(`O(1)` if we have pointer to the node to be deleted\)            |
+| Access element at specific index | `O(1)`             | `O(n)`                                                                    |
 
 ## Helpful Resources
 
@@ -25,7 +25,7 @@ Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked li
 
 ## Use Cases
 
-Linked lists \(LLs\) are typically used when we want faster insertion or deletion of the first element in a list, for example to implement queues or hash tables \(to handle hash collisions\). LLs are also used when we may not have sufficient contiguous storage space, for example in file systems on our hard drives. 
+Linked lists \(LLs\) are typically used when we want faster insertion or deletion of the first element in a list, for example to implement queues or hash tables \(to handle hash collisions\). LLs are also used when we may not have sufficient contiguous storage space, for example in file systems on our hard drives.
 
 ## Exercises
 
@@ -59,4 +59,3 @@ Linked lists \(LLs\) are typically used when we want faster insertion or deletio
 2. [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
 3. [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)
 4. [https://leetcode.com/problems/intersection-of-two-linked-lists/](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-

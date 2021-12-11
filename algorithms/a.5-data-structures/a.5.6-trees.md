@@ -53,10 +53,10 @@ def pre_order_traversal(node):
   if node.val:
     # Return something
     return
-  
+
   # 2) Check left child
   pre_order_traversal(node.left)
-  
+
   # 3) Check right child
   pre_order_traversal(node.right)
 ```
@@ -73,12 +73,12 @@ def pre_order_traversal(node):
 def in_order_traversal(node):
   # 1) Check left child
   in_order_traversal(node.left)
-  
+
   # 2) Check parent
   if node.val:
     # Return something
     return
-    
+
   # 3) Check right child
   in_order_traversal(node.right)
 ```
@@ -95,10 +95,10 @@ def in_order_traversal(node):
 def post_order_traversal(node):
   # 1) Check left child
   post_order_traversal(node.left)
-    
+
   # 2) Check right child
   post_order_traversal(node.right)
-  
+
   # 3) Check parent
   if node.val:
     # Return something
@@ -213,7 +213,7 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
 
 1. [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
    1. Here's an [intuitive explanation of binary numbers](https://www.mathsisfun.com/binary-number-system.html).
-   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA\_vkpE?t=2372).
+   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA_vkpE?t=2372).
 2. [https://leetcode.com/problems/two-sum-iv-input-is-a-bst/](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 3. [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
    1. RA solution code (naive solution without pruning): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
@@ -249,10 +249,10 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
       4. `abs(root.val - minValInRightSubtree))`
 8. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
    1. RA solution code: [https://pastebin.com/a2buQJxv](https://pastebin.com/a2buQJxv)
-   2. [Solution video](https://youtu.be/AMpseCEX6\_A?t=2147) from FTBC3's class
+   2. [Solution video](https://youtu.be/AMpseCEX6_A?t=2147) from FTBC3's class
 9. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
    1. Rocket Academy solution code: [https://pastebin.com/wWYXg309](https://pastebin.com/wWYXg309)
-   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU\_f4?t=4088](https://youtu.be/SeNfZBAU\_f4?t=4088)
+   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU_f4?t=4088](https://youtu.be/SeNfZBAU_f4?t=4088)
 10. [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
 11. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) (Medium)
 12. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)

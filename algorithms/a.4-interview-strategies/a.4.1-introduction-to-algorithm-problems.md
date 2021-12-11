@@ -20,11 +20,11 @@ Write a function `fizzbuzz` that takes an integer n as a parameter.
 
 Print out n lines of integers counting up from 1, except:
 
-* If the line number is divisible by 3 print "fizz"
-* If the line number is divisible by 5 print "buzz"
-* If the line number is divisible by both 3 and 5 print "fizzbuzz"
+- If the line number is divisible by 3 print "fizz"
+- If the line number is divisible by 5 print "buzz"
+- If the line number is divisible by both 3 and 5 print "fizzbuzz"
 
-```text
+```python
 fizzbuzz(5)
 ```
 
@@ -42,11 +42,11 @@ buzz
 
 Write a function `reverse` that takes a string as a parameter. The function returns the string with it's characters in reverse order.
 
-```text
+```python
 result = reverse("hello")
 ```
 
-Expected output in `result`: 
+Expected output in `result`:
 
 ```text
 "olleh"
@@ -56,11 +56,11 @@ Expected output in `result`:
 
 Write a function `maximum` that takes in a array of integers as a parameter and returns the largest number in the list.
 
-```text
+```python
 result = maximum([1,2,3,999,1])
 ```
 
-Expected output in `result`: 
+Expected output in `result`:
 
 ```text
 999
@@ -70,11 +70,11 @@ Expected output in `result`:
 
 Write a function `minimum` that takes in a array of integers as a parameter and returns the smallest number in the list.
 
-```text
+```python
 result = minimum([2,3,9,10,3])
 ```
 
-Expected output in `result`: 
+Expected output in `result`:
 
 ```text
 2
@@ -84,11 +84,11 @@ Expected output in `result`:
 
 Write a function `remain` that takes in two integer parameters and, without using the modulus operator, return an integer remainder of dividing two numbers.
 
-```text
+```python
 result = remain(10,6)
 ```
 
-Expected output in `result`: 
+Expected output in `result`:
 
 ```text
 4
@@ -98,11 +98,11 @@ Expected output in `result`:
 
 Write a function that takes in an array as a parameter and return an array without any duplicate values in it.
 
-```text
+```python
 result = unique_vals([1,1,1,1,2])
 ```
 
-Expected output in `result`: 
+Expected output in `result`:
 
 ```text
 [1,2]
@@ -115,4 +115,3 @@ Expected output in `result`:
 We'll mostly be using leetcode, but to begin we'll solve the most basic questions in Hacker Rank.
 
 [https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)
-
