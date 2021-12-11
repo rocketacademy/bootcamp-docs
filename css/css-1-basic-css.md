@@ -24,7 +24,7 @@ A significant amount of CSS development happens in Chrome's DevTools. The Elemen
 
 ![](../.gitbook/assets/dt-css-main.jpg)
 
-We saw how to inspect an element in [Module 1.1.1: Basic HTML](../frontend-basics/1.1-html/1.1.1-basic-html.md). When we select an HTML element in DevTools the CSS styles applied to that element appear in the Styles pane.
+We saw how to inspect an element in [Module 1.1.1: Basic HTML](../1-frontend-basics/1.1-html/1.1.1-basic-html.md). When we select an HTML element in DevTools the CSS styles applied to that element appear in the Styles pane.
 
 ### Element / Style Inspection
 
