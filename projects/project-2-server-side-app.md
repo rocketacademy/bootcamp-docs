@@ -29,7 +29,7 @@ See the example user login app for login starter code: [https://github.com/rocke
 
 ### General Ideas
 
-In [Module 3](../3-3-backend-applications/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
+In [Module 3](../backend-applications/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
 * Google stores websites and users retrieve those websites
 * Uber stores drivers and their availability and users retrieve available drivers nearby
@@ -51,7 +51,7 @@ Given the relative restrictions of a server-side app that renders HTML pages, th
 
 ### File Uploading
 
-If your app idea involves file uploading, [3.5.11: File Uploads](../3-3-backend-applications/3.4-sql-applications/3.4.11-file-uploads.md) is a primer on how to accomplish this using the technologies we have learned so far.
+If your app idea involves file uploading, [3.5.11: File Uploads](../backend-applications/3.4-sql-applications/3.4.11-file-uploads.md) is a primer on how to accomplish this using the technologies we have learned so far.
 
 ### 3rd-Party APIs
 
@@ -118,9 +118,9 @@ A user should be able to play the game through once without encountering errors.
 
 Please deploy your app to EC2 \*before\* feature freeze. You may find the following resources helpful when deploying.
 
-1. [3.POCE.10: EC2 Deployment with Postgres](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md) (culmination of the following 2 modules)
-2. [2.11: Deploy Server to Cloud](../2-2-backend-basics/2.11-deploy-server-to-cloud.md)
-3. [3.4.1: PostgreSQL, psql (psql Setup)](../3-3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md#ubuntu-for-windows-users-in-wsl-and-ec2-installation)
+1. [3.POCE.10: EC2 Deployment with Postgres](../backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md) (culmination of the following 2 modules)
+2. [2.11: Deploy Server to Cloud](../backend-basics/2.11-deploy-server-to-cloud.md)
+3. [3.4.1: PostgreSQL, psql (psql Setup)](../backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md#ubuntu-for-windows-users-in-wsl-and-ec2-installation)
 
 ### Refactoring
 

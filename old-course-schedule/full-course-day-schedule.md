@@ -14,84 +14,84 @@ This page lists a non-dated version of the schedule in chronological order.
 
 **Pre-Class**
 
-* [1.1.0: Wireframes](../1-1-frontend-basics/1.1-html/1.1.0-wireframes.md)
-* [1.1.1: HTML Basics](../1-1-frontend-basics/1.1-html/1.1.1-basic-html.md)
-* [0.1: New JS Syntax](../0-0-language-and-tooling/0.1-new-js-syntax.md)
+* [1.1.0: Wireframes](../frontend-basics/1.1-html/1.1.0-wireframes.md)
+* [1.1.1: HTML Basics](../frontend-basics/1.1-html/1.1.1-basic-html.md)
+* [0.1: New JS Syntax](../language-and-tooling/0.1-new-js-syntax.md)
 * [0.2: ES6](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/0-language-and-tooling/0.2-es6)
-* [0.2.1: ES6 Basics](../0-0-language-and-tooling/0.2-es6/0.2.1-es6-basics.md)
-* [1.2.1: DOM Review - Creating Elements](../1-1-frontend-basics/1.2-dom-review/1.2.1-creating-elements.md)
-* [1.2.2: DOM Review - Events](../1-1-frontend-basics/1.2-dom-review/1.2.2-events.md)
+* [0.2.1: ES6 Basics](../language-and-tooling/0.2-es6/0.2.1-es6-basics.md)
+* [1.2.1: DOM Review - Creating Elements](../frontend-basics/1.2-dom-review/1.2.1-creating-elements.md)
+* [1.2.2: DOM Review - Events](../frontend-basics/1.2-dom-review/1.2.2-events.md)
 
 **In-Class**
 
 * Day 1 Photo!
 * Course and Student Introductions
-* [1.ICE.1: Drawing DOM](../1-1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
+* [1.ICE.1: Drawing DOM](../frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
 
 **Post-Class**
 
-* [1.POCE.1: Noodle Recipe Website](../1-1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
+* [1.POCE.1: Noodle Recipe Website](../frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
 
 #### Course Day 1.2
 
 **Pre-Class**
 
 * [CSS.1: Basic CSS (Exercises Part 1)](../css/css-1-basic-css.md)
-* [1.3: High Card DOM](../1-1-frontend-basics/1.3-high-card-dom.md)
-* [0.3: Reading Documentation](../0-0-language-and-tooling/0.3-reading-documentation.md)
-* [1.4: setTimeout](../1-1-frontend-basics/1.4-settimeout.md)
+* [1.3: High Card DOM](../frontend-basics/1.3-high-card-dom.md)
+* [0.3: Reading Documentation](../language-and-tooling/0.3-reading-documentation.md)
+* [1.4: setTimeout](../frontend-basics/1.4-settimeout.md)
 
 **In-Class**
 
 * Review 1 student's 1.POCE.1: Noodle Recipe Website
-* [1.ICE.1: Drawing DOM](../1-1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md) (Continued)
+* [1.ICE.1: Drawing DOM](../frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md) (Continued)
 
 **Post-Class**
 
-* [1.POCE.2: High Card DOM](../1-1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
+* [1.POCE.2: High Card DOM](../frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
 
 #### Course Day 1.3
 
 **Pre-Class**
 
 * [CSS.1: Basic CSS (Exercises Part 2)](../css/css-1-basic-css.md)
-* [1.5: High Card setTimeout](../1-1-frontend-basics/1.5-high-card-settimeout.md)
-* [1.6: Match Game](../1-1-frontend-basics/1.6-match-game.md)
-* [0.2.4: Reference vs. Value](../0-0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value.md)
+* [1.5: High Card setTimeout](../frontend-basics/1.5-high-card-settimeout.md)
+* [1.6: Match Game](../frontend-basics/1.6-match-game.md)
+* [0.2.4: Reference vs. Value](../language-and-tooling/0.2-es6/0.2.4-reference-vs.-value.md)
 
 **In-Class**
 
 * Review 1 student's 1.POCE.2: High Card
-* [1.ICE.2: Timeout / High Card Redux](../1-1-frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
+* [1.ICE.2: Timeout / High Card Redux](../frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
 
 **Post-Class**
 
-* [1.POCE.3: Match Game](../1-1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
+* [1.POCE.3: Match Game](../frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
 
 #### Course Day 1.4
 
 **Pre-Class**
 
-* [1.7: setInterval](../1-1-frontend-basics/1.7-setinterval.md)
-* [1.8: Timer](../1-1-frontend-basics/1.8-timer.md)
+* [1.7: setInterval](../frontend-basics/1.7-setinterval.md)
+* [1.8: Timer](../frontend-basics/1.8-timer.md)
 * [CSS.2.1 No Layout](../css/css.2-layout/css.2.1-no-layout.md)
 * [CSS.2.2 Display Inline Block](../css/css.2-layout/css.2.2-display-inline-and-block.md)
 
 **In-Class**
 
 * Review 1 student's 1.POCE.3: Match Game
-* [1.ICE.3: setInterval](../1-1-frontend-basics/1.ice-in-class-exercises/1.ice.3-setinterval.md)
+* [1.ICE.3: setInterval](../frontend-basics/1.ice-in-class-exercises/1.ice.3-setinterval.md)
 
 **Post-Class**
 
-* [1.POCE.4: Timer](../1-1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
+* [1.POCE.4: Timer](../frontend-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
 
 #### Course Day 1.5
 
 **Pre-Class**
 
-* [1.9: Tic Tac Toe](../1-1-frontend-basics/1.9-tic-tac-toe.md)
-* [1.10: Multi File Refactor](../1-1-frontend-basics/1.10-multi-file-refactor.md)
+* [1.9: Tic Tac Toe](../frontend-basics/1.9-tic-tac-toe.md)
+* [1.10: Multi File Refactor](../frontend-basics/1.10-multi-file-refactor.md)
 * [CSS.2.3: Box Model](../css/css.2-layout/css.2.3-box-model.md)
 * [CSS.2.4: Layout Width](../css/css.2-layout/css.2.4-layout-fixed-width-and-max-width.md)
 
@@ -101,7 +101,7 @@ This page lists a non-dated version of the schedule in chronological order.
 
 **Post-Class**
 
-* [1.POCE.5: Tic Tac Toe](../1-1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
+* [1.POCE.5: Tic Tac Toe](../frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
 
 ### Course Week 2
 
@@ -109,10 +109,10 @@ This page lists a non-dated version of the schedule in chronological order.
 
 **Pre-Class**
 
-* [1.11: CSS Control with DOM](../1-1-frontend-basics/1.11-css-control-with-dom.md)
+* [1.11: CSS Control with DOM](../frontend-basics/1.11-css-control-with-dom.md)
 * [CSS.2.5 Display Inline Block](../css/css.2-layout/css.2.5-display-inline-block.md)
 * [CSS.2.6 Layout Col / Card](../css/css.2-layout/css.2.6-layout-columns-and-cards.md)
-* [0.4: JS Object as Tally](../0-0-language-and-tooling/0.4-js-object-as-tally.md)
+* [0.4: JS Object as Tally](../language-and-tooling/0.4-js-object-as-tally.md)
 
 **In-Class**
 
@@ -142,7 +142,7 @@ This page lists a non-dated version of the schedule in chronological order.
 
 **Pre-Class**
 
-* [2.0: Module 2 Setup](../2-2-backend-basics/2.0-module-2-overview.md)
+* [2.0: Module 2 Setup](../backend-basics/2.0-module-2-overview.md)
 * [CSS.3 Flexbox](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/css/css.3-flexbox)
 
 **In-Class**
@@ -209,50 +209,50 @@ This page lists a non-dated version of the schedule in chronological order.
 
 **Pre-Class**
 
-* [2.1: My First Node.js Program](../2-2-backend-basics/2.1-my-first-node-program.md)
-* [2.2: Command Line Programs](../2-2-backend-basics/2.2-command-line-programs.md)
+* [2.1: My First Node.js Program](../backend-basics/2.1-my-first-node-program.md)
+* [2.2: Command Line Programs](../backend-basics/2.2-command-line-programs.md)
 
 **In-Class**
 
-* [2.ICE.1: Conversions](../2-2-backend-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
+* [2.ICE.1: Conversions](../backend-basics/2.ice-in-class-exercises/2.ice.1-conversions.md)
 
 **Post-Class**
 
 * [1.POCE.6: CSS Flexbox](../css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive.md)
-* [2.POCE.1: Command Line Colour Converter](../2-2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter.md)
+* [2.POCE.1: Command Line Colour Converter](../backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter.md)
 
 #### Course Day 3.3
 
 **Pre-Class**
 
-* [2.3: Modules](../2-2-backend-basics/2.3-modules.md)
-* [2.4: Disk Reading](../2-2-backend-basics/2.4-disk-reading.md)
+* [2.3: Modules](../backend-basics/2.3-modules.md)
+* [2.4: Disk Reading](../backend-basics/2.4-disk-reading.md)
 
 **In-Class**
 
-* [2.ICE.2: Modules, Disk Reading](../2-2-backend-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading.md)
+* [2.ICE.2: Modules, Disk Reading](../backend-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading.md)
 
 **Post-Class**
 
-* [2.POCE.2: CSS Reader](../2-2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
+* [2.POCE.2: CSS Reader](../backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
 
 #### Course Day 3.4
 
 **Pre-Class**
 
-* [2.5: Disk Writing](../2-2-backend-basics/2.5-disk-writing.md)
-* [2.6: Disk Altering](../2-2-backend-basics/2.6-disk-altering.md)
-* [2.7: Internet 101](../2-2-backend-basics/2.7-internet-101.md)
-* [2.8: Chrome Networking](../2-2-backend-basics/2.8-chrome-networking.md)
+* [2.5: Disk Writing](../backend-basics/2.5-disk-writing.md)
+* [2.6: Disk Altering](../backend-basics/2.6-disk-altering.md)
+* [2.7: Internet 101](../backend-basics/2.7-internet-101.md)
+* [2.8: Chrome Networking](../backend-basics/2.8-chrome-networking.md)
 
 **In-Class**
 
-* [2.ICE.3: Disk Altering](../2-2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering.md)
+* [2.ICE.3: Disk Altering](../backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering.md)
 
 **Post-Class**
 
 * [1.POCE.8: Flexbox Personal Page](../css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page.md)
-* [2.POCE.3: CSS Processor](../2-2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
+* [2.POCE.3: CSS Processor](../backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
 
 #### Course Day 3.5
 
@@ -264,19 +264,19 @@ CSS
 
 Node.js
 
-* [2.9: HTTP Requests and Responses](../2-2-backend-basics/2.9-http.md)
-* [2.10: HTTP File Server](../2-2-backend-basics/2.10-http-file-server.md)
-* [Install `ngrok`](../2-2-backend-basics/2.0-module-2-overview.md#ngrok). We will use it in 2.ICE.4.
+* [2.9: HTTP Requests and Responses](../backend-basics/2.9-http.md)
+* [2.10: HTTP File Server](../backend-basics/2.10-http-file-server.md)
+* [Install `ngrok`](../backend-basics/2.0-module-2-overview.md#ngrok). We will use it in 2.ICE.4.
 
 **In-Class**
 
 * Review [2.POCE.3: CSS Processor](../course-logistics/course-methodology.md#peer-code-review)
-* [2.ICE.4: Servers and Requests](../2-2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests.md)
+* [2.ICE.4: Servers and Requests](../backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests.md)
 
 **Post-Class**
 
 * [1.POCE.9: Bootstrap](../css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns.md)
-* [2.POCE.4: File Server](../2-2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
+* [2.POCE.4: File Server](../backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
 
 ### Course Week 4
 
@@ -284,51 +284,51 @@ Node.js
 
 **Pre-Class**
 
-* [2.11: Deploy Server to Cloud](../2-2-backend-basics/2.11-deploy-server-to-cloud.md)
-* [2.12: Domain Names](../2-2-backend-basics/2.12-domain-names.md)
+* [2.11: Deploy Server to Cloud](../backend-basics/2.11-deploy-server-to-cloud.md)
+* [2.12: Domain Names](../backend-basics/2.12-domain-names.md)
 * [2.13: JSON](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/2-backend-basics/2.13-json)
-* [2.13.1: JSON File Storage Module - Add, Read, Write](../2-2-backend-basics/2.13-json/2.13.1-json-file-storage-module-add-read-write.md)
+* [2.13.1: JSON File Storage Module - Add, Read, Write](../backend-basics/2.13-json/2.13.1-json-file-storage-module-add-read-write.md)
 
 **In-Class**
 
-* [2.ICE.5: Reading and Writing to JSON](../2-2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
+* [2.ICE.5: Reading and Writing to JSON](../backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
 
 **Post-Class**
 
-* [2.POCE.5: Responsive Noodle Site](../2-2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
+* [2.POCE.5: Responsive Noodle Site](../backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
 
 #### Course Day 4.2
 
 **Pre-Class**
 
-* [2.13.2: JSON File Storage Module - Passing Callbacks](../2-2-backend-basics/2.13-json/2.13.2-json-file-storage-module-passing-callbacks.md)
-* [2.13.3: JSON File Storage Module - Summary](../2-2-backend-basics/2.13-json/2.13.3-json-file-storage-module-summary.md)
-* [2.14: NPM](../2-2-backend-basics/2.14-npm.md)
+* [2.13.2: JSON File Storage Module - Passing Callbacks](../backend-basics/2.13-json/2.13.2-json-file-storage-module-passing-callbacks.md)
+* [2.13.3: JSON File Storage Module - Summary](../backend-basics/2.13-json/2.13.3-json-file-storage-module-summary.md)
+* [2.14: NPM](../backend-basics/2.14-npm.md)
 
 **In-Class**
 
-* [2.ICE.6: NPM, JSON File Storage](../2-2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm-json-file-storage.md)
+* [2.ICE.6: NPM, JSON File Storage](../backend-basics/2.ice-in-class-exercises/2.ice.6-npm-json-file-storage.md)
 
 **Post-Class**
 
 * [1.POCE.10: Bootstrap Adobe](../css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
-* [2.POCE.6: To-Do List - JSON](../2-2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
+* [2.POCE.6: To-Do List - JSON](../backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 #### Course Day 4.3
 
 **Pre-Class**
 
-* [0.2.2: ES6 Array Iterators](../0-0-language-and-tooling/0.2-es6/0.2.2-es6-array-iterators.md)
-* [0.5.1: Git Pull](../0-0-language-and-tooling/0.5-advanced-git/0.5.1-git-pull.md)
-* [0.5.2: Git Branches](../0-0-language-and-tooling/0.5-advanced-git/0.5.2-git-branches.md)
+* [0.2.2: ES6 Array Iterators](../language-and-tooling/0.2-es6/0.2.2-es6-array-iterators.md)
+* [0.5.1: Git Pull](../language-and-tooling/0.5-advanced-git/0.5.1-git-pull.md)
+* [0.5.2: Git Branches](../language-and-tooling/0.5-advanced-git/0.5.2-git-branches.md)
 
 **In-Class**
 
-* [0.ICE.1: Git Branches](../0-0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
+* [0.ICE.1: Git Branches](../language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
 **Post-Class**
 
-* [2.POCE.6: To-Do List - JSON](../2-2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
+* [2.POCE.6: To-Do List - JSON](../backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
 
 ### Module 3: Backend Applications
 
@@ -336,34 +336,34 @@ Node.js
 
 **Pre-Class**
 
-* [3.0: Overview](../3-3-backend-applications/3.0-module-3-overview.md)
+* [3.0: Overview](../backend-applications/3.0-module-3-overview.md)
 * [3.1: Express.js](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.1-express-js)
-* [3.1.1: Express with JSON DB](../3-3-backend-applications/3.1-express-js/3.1.1-express-with-json-db.md)
+* [3.1.1: Express with JSON DB](../backend-applications/3.1-express-js/3.1.1-express-with-json-db.md)
 
 **In-Class**
 
-* [3.ICE.1: Bigfoot](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
+* [3.ICE.1: Bigfoot](../backend-applications/3.ice-in-class-exercises/3.ice.1-bigfoot.md)
 
 **Post-Class**
 
-* [3.POCE.1: Express Noodle App](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.1-express-noodle-app.md)
+* [3.POCE.1: Express Noodle App](../backend-applications/3.poce-post-class-exercises/3.poce.1-express-noodle-app.md)
 
 #### Course Day 4.5
 
 **Pre-Class**
 
-* [0.2.3: ES6 Destructuring, Spread Operators](../0-0-language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators.md)
-* [0.6: Nodemon](../0-0-language-and-tooling/0.6-nodemon.md)
+* [0.2.3: ES6 Destructuring, Spread Operators](../language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators.md)
+* [0.6: Nodemon](../language-and-tooling/0.6-nodemon.md)
 * [3.2: EJS](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.2-ejs)
-* [3.2.1: EJS Loops](../3-3-backend-applications/3.2-ejs/3.2.1-ejs-loops.md)
+* [3.2.1: EJS Loops](../backend-applications/3.2-ejs/3.2.1-ejs-loops.md)
 
 **In-Class**
 
-* [3.ICE.2: Bigfoot EJS](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
+* [3.ICE.2: Bigfoot EJS](../backend-applications/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs.md)
 
 **Post-Class**
 
-* [3.POCE.2: Express, EJS Noodle App](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
+* [3.POCE.2: Express, EJS Noodle App](../backend-applications/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app.md)
 
 ## Course Weeks 5-8
 
@@ -375,24 +375,24 @@ Node.js
 
 **Pre-Class**
 
-* [3.1.2: HTML Forms](../3-3-backend-applications/3.1-express-js/3.1.2-html-forms.md)
-* [3.1.3: Handling POST Requests](../3-3-backend-applications/3.1-express-js/3.1.3-handling-post-requests.md)
-* [3.2.2: EJS Conditionals](../3-3-backend-applications/3.2-ejs/3.2.2-ejs-conditionals.md)
-* [0.7: Thunder Client](../0-0-language-and-tooling/0.7-postman.md)
+* [3.1.2: HTML Forms](../backend-applications/3.1-express-js/3.1.2-html-forms.md)
+* [3.1.3: Handling POST Requests](../backend-applications/3.1-express-js/3.1.3-handling-post-requests.md)
+* [3.2.2: EJS Conditionals](../backend-applications/3.2-ejs/3.2.2-ejs-conditionals.md)
+* [0.7: Thunder Client](../language-and-tooling/0.7-postman.md)
 
 **In-Class**
 
-* [3.ICE.3: Bigfoot POST](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.3-bigfoot-post.md)
+* [3.ICE.3: Bigfoot POST](../backend-applications/3.ice-in-class-exercises/3.ice.3-bigfoot-post.md)
 
 **Post-Class**
 
-* [3.POCE.3: UFO Sightings](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 #### Course Day 5.2
 
 **Pre-Class**
 
-* [3.1.4: PUT, DELETE Requests](../3-3-backend-applications/3.1-express-js/3.1.4-put-delete-requests.md)
+* [3.1.4: PUT, DELETE Requests](../backend-applications/3.1-express-js/3.1.4-put-delete-requests.md)
 
 **In-Class**
 
@@ -401,13 +401,13 @@ Node.js
 
 **Post-Class**
 
-* [3.POCE.3: UFO Sightings](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 #### Course Day 5.3
 
 **Pre-Class**
 
-* [3.2.3: EJS Partials](../3-3-backend-applications/3.2-ejs/3.2.3-advanced-ejs.md)
+* [3.2.3: EJS Partials](../backend-applications/3.2-ejs/3.2.3-advanced-ejs.md)
 
 **In-Class**
 
@@ -416,41 +416,41 @@ Node.js
 
 **Post-Class**
 
-* [3.POCE.3: UFO Sightings](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 #### Course Day 5.4
 
 **Pre-Class**
 
 * [3.3: SQL Language](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.3-sql-language)
-* [3.3.1: Basic SQL Commands](../3-3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands.md)
-* [3.5.1: Cookies](../3-3-backend-applications/3.5-authentication/3.5.1-cookies.md)
+* [3.3.1: Basic SQL Commands](../backend-applications/3.3-sql-language/3.3.1-basic-sql-commands.md)
+* [3.5.1: Cookies](../backend-applications/3.5-authentication/3.5.1-cookies.md)
 
 **In-Class**
 
 * [Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.4: Cookies](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.4-cookies.md)
+* [3.ICE.4: Cookies](../backend-applications/3.ice-in-class-exercises/3.ice.4-cookies.md)
 
 **Post-Class**
 
-* [3.POCE.3: UFO Sightings](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
+* [3.POCE.3: UFO Sightings](../backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md)
 
 #### Course Day 5.5
 
 **Pre-Class**
 
 * [3.4: SQL Applications](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.4-sql-applications)
-* [3.4.1: PostgreSQL, psql](../3-3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md)
-* [3.4.2: PostgreSQL Node App](../3-3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app.md)
+* [3.4.1: PostgreSQL, psql](../backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md)
+* [3.4.2: PostgreSQL Node App](../backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app.md)
 
 **In-Class**
 
-* [3.POCE.3](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md) Redux
+* [3.POCE.3](../backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos.md) Redux
 * [Project Presentation: 3.POCE.3](../course-logistics/course-methodology.md#project-presentations)
 
 **Post-Class**
 
-* [3.POCE.4: Meal Tracker](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper.md)
+* [3.POCE.4: Meal Tracker](../backend-applications/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper.md)
 
 ### Course Week 6
 
@@ -458,70 +458,70 @@ Node.js
 
 **Pre-Class**
 
-* [3.3.2: SQL Relationships (One to Many)](../3-3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many.md)
-* [3.4.3: Nested SQL Queries](../3-3-backend-applications/3.4-sql-applications/3.4.3-nested-sql-queries.md)
-* [3.4.4: PostgreSQL Express App](../3-3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app.md)
+* [3.3.2: SQL Relationships (One to Many)](../backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many.md)
+* [3.4.3: Nested SQL Queries](../backend-applications/3.4-sql-applications/3.4.3-nested-sql-queries.md)
+* [3.4.4: PostgreSQL Express App](../backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app.md)
 
 **In-Class**
 
-* [3.ICE.5: One to Many](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.5-one-to-many.md)
+* [3.ICE.5: One to Many](../backend-applications/3.ice-in-class-exercises/3.ice.5-one-to-many.md)
 
 **Post-Class**
 
-* [3.POCE.5: Bird Watching](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.5-bird-watching.md)
+* [3.POCE.5: Bird Watching](../backend-applications/3.poce-post-class-exercises/3.poce.5-bird-watching.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 #### Course Day 6.2
 
 **Pre-Class**
 
-* [3.3.4: Inner Join](../3-3-backend-applications/3.3-sql-language/3.3.4-inner-join.md)
-* [3.5.2: User Auth](../3-3-backend-applications/3.5-authentication/3.5.2-user-auth.md)
+* [3.3.4: Inner Join](../backend-applications/3.3-sql-language/3.3.4-inner-join.md)
+* [3.5.2: User Auth](../backend-applications/3.5-authentication/3.5.2-user-auth.md)
 
 **In-Class**
 
-* [3.ICE.6: Inner Joins](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.6-inner-join.md)
+* [3.ICE.6: Inner Joins](../backend-applications/3.ice-in-class-exercises/3.ice.6-inner-join.md)
 
 **Post-Class**
 
-* [3.POCE.6: Bird Watching Users](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
+* [3.POCE.6: Bird Watching Users](../backend-applications/3.poce-post-class-exercises/3.poce.6-bird-watching-users.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 #### Course Day 6.3
 
 **Pre-Class**
 
-* [3.3.3: SQL Relationships (Many to Many)](../3-3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
-* [3.4.5: Forms for One-to-Many Relationships](../3-3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships.md)
-* [3.5.3: Password Hashing](../3-3-backend-applications/3.5-authentication/3.5.3-password-hashing.md)
+* [3.3.3: SQL Relationships (Many to Many)](../backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many.md)
+* [3.4.5: Forms for One-to-Many Relationships](../backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships.md)
+* [3.5.3: Password Hashing](../backend-applications/3.5-authentication/3.5.3-password-hashing.md)
 * [UX.1: Intro to UX](../user-experience/ux.1-overview.md)
 * [UX.2: UX process](../user-experience/ux.2-the-ux-process.md)
 
 **In-Class**
 
-* [3.ICE.7: Many-to-Many](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.7-many-to-many.md)
+* [3.ICE.7: Many-to-Many](../backend-applications/3.ice-in-class-exercises/3.ice.7-many-to-many.md)
 
 **Post-Class**
 
-* [3.POCE.7: Bird Watching Species](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
+* [3.POCE.7: Bird Watching Species](../backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 #### Course Day 6.4
 
 **Pre-Class**
 
-* [3.3.5: Non-FK Relationship Data in Join Table](../3-3-backend-applications/3.3-sql-language/3.3.5-non-fk-relationship-data-in-join-table.md)
-* [3.4.6: Forms for Many-to-Many Relationships](../3-3-backend-applications/3.4-sql-applications/3.4.6-forms-for-many-to-many-relationships.md)
-* [3.5.4: Session Hashing](../3-3-backend-applications/3.5-authentication/3.5.4-session-hashing.md)
+* [3.3.5: Non-FK Relationship Data in Join Table](../backend-applications/3.3-sql-language/3.3.5-non-fk-relationship-data-in-join-table.md)
+* [3.4.6: Forms for Many-to-Many Relationships](../backend-applications/3.4-sql-applications/3.4.6-forms-for-many-to-many-relationships.md)
+* [3.5.4: Session Hashing](../backend-applications/3.5-authentication/3.5.4-session-hashing.md)
 * [UX.3: Project Design Approach](../user-experience/ux.3-how-to-design-your-app.md)
 
 **In-Class**
 
-* [3.ICE.8: Multiple Foreign Keys](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.8-multi-foreign-key.md)
+* [3.ICE.8: Multiple Foreign Keys](../backend-applications/3.ice-in-class-exercises/3.ice.8-multi-foreign-key.md)
 
 **Post-Class**
 
-* [3.POCE.8: Bird Watching Behaviour](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
+* [3.POCE.8: Bird Watching Behaviour](../backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 #### **Course Day 6.5**
@@ -532,16 +532,16 @@ Node.js
 
 **Pre-Class**
 
-* [3.3.6: SQL Schema Design](../3-3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design.md)
+* [3.3.6: SQL Schema Design](../backend-applications/3.3-sql-language/3.3.6-sql-schema-design.md)
 
 **In-Class**
 
-* [3.ICE.9: DB Schema Design - Carousell](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.9-db-schema-design-carousell.md)
+* [3.ICE.9: DB Schema Design - Carousell](../backend-applications/3.ice-in-class-exercises/3.ice.9-db-schema-design-carousell.md)
 
 **Post-Class**
 
-* [3.POCE.9: Bird Watching Comments](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
-* [3.POCE.10: EC2 Deployment with Postgres](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md)
+* [3.POCE.9: Bird Watching Comments](../backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
+* [3.POCE.10: EC2 Deployment with Postgres](../backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md)
 * [Project 2 Ideation](../projects/project-2-server-side-app.md#ideation-phase-1)
 
 ### Course Week 7
@@ -551,13 +551,13 @@ Node.js
 **Pre-Class**
 
 * [0.8: JS Promises](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/0-language-and-tooling/0.8-js-promises)
-* [0.8.1: Promise.prototype.catch, Promise.all](../0-0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all.md)
-* [3.4.7: pg Promises](../3-3-backend-applications/3.4-sql-applications/3.4.7-pg-promises.md)
-* [3.4.8: SQL Clients](../3-3-backend-applications/3.4-sql-applications/3.4.8-sql-clients.md)
+* [0.8.1: Promise.prototype.catch, Promise.all](../language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all.md)
+* [3.4.7: pg Promises](../backend-applications/3.4-sql-applications/3.4.7-pg-promises.md)
+* [3.4.8: SQL Clients](../backend-applications/3.4-sql-applications/3.4.8-sql-clients.md)
 
 **In-Class**
 
-* [3.ICE.10: Bird Watching Redux](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.10-bird-watching-redux.md)
+* [3.ICE.10: Bird Watching Redux](../backend-applications/3.ice-in-class-exercises/3.ice.10-bird-watching-redux.md)
 
 **Post-Class**
 
@@ -567,14 +567,14 @@ Node.js
 
 **Pre-Class**
 
-* [3.4.9: Database Setup Files](../3-3-backend-applications/3.4-sql-applications/3.4.9-database-setup-files.md)
-* [3.5.5: Custom Middleware for Authentication](../3-3-backend-applications/3.5-authentication/3.5.5-custom-middleware-for-authentication.md)
+* [3.4.9: Database Setup Files](../backend-applications/3.4-sql-applications/3.4.9-database-setup-files.md)
+* [3.5.5: Custom Middleware for Authentication](../backend-applications/3.5-authentication/3.5.5-custom-middleware-for-authentication.md)
 
 **In-Class**
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
 * [Project 2 Planning: Peer Discussion](../projects/project-2-server-side-app.md#ideation-phase-2)
-* [3.ICE.11: DB Schema Design - Uber](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.11-db-schema-design-uber.md)
+* [3.ICE.11: DB Schema Design - Uber](../backend-applications/3.ice-in-class-exercises/3.ice.11-db-schema-design-uber.md)
 
 **Post-Class**
 
@@ -585,12 +585,12 @@ Node.js
 
 **Pre-Class**
 
-* [3.4.10: Dates in SQL and JS](../3-3-backend-applications/3.4-sql-applications/3.4.10-dates-in-sql-and-js.md)
+* [3.4.10: Dates in SQL and JS](../backend-applications/3.4-sql-applications/3.4.10-dates-in-sql-and-js.md)
 
 **In-Class**
 
 * [Project 2 Scrum](../course-logistics/course-methodology.md#project-scrums)
-* [3.ICE.12: DB Schema Design - Instagram](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
+* [3.ICE.12: DB Schema Design - Instagram](../backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram.md)
 
 **Post-Class**
 
@@ -600,8 +600,8 @@ Node.js
 
 **Pre-Class**
 
-* [3.4.11: File Uploads](../3-3-backend-applications/3.4-sql-applications/3.4.11-file-uploads.md)
-* [3.4.12: SQL Indexes](../3-3-backend-applications/3.4-sql-applications/3.4.12-sql-indexes.md)
+* [3.4.11: File Uploads](../backend-applications/3.4-sql-applications/3.4.11-file-uploads.md)
+* [3.4.12: SQL Indexes](../backend-applications/3.4-sql-applications/3.4.12-sql-indexes.md)
 
 **In-Class**
 
@@ -722,9 +722,9 @@ None
 **Pre-Class**
 
 * [3.6: Heroku](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/3-backend-applications/3.6-heroku)
-* [3.6.1: Heroku Deploy](../3-3-backend-applications/3.6-heroku/3.6.1-heroku-deploy.md)
-* [3.6.2: Heroku Postgres](../3-3-backend-applications/3.6-heroku/3.6.2-heroku-postgres.md)
-* [3.6.3: Heroku S3](../3-3-backend-applications/3.6-heroku/3.6.3-heroku-s3.md)
+* [3.6.1: Heroku Deploy](../backend-applications/3.6-heroku/3.6.1-heroku-deploy.md)
+* [3.6.2: Heroku Postgres](../backend-applications/3.6-heroku/3.6.2-heroku-postgres.md)
+* [3.6.3: Heroku S3](../backend-applications/3.6-heroku/3.6.3-heroku-s3.md)
 
 **In-Class**
 
@@ -732,7 +732,7 @@ None
 
 **Post-Class**
 
-* [3.POCE.11: Heroku Deployment](../3-3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment.md)
+* [3.POCE.11: Heroku Deployment](../backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment.md)
 * [Project 2 Demo Video](../projects/project-2-server-side-app.md#video-demo)
 
 #### Course Day 9.2
@@ -740,16 +740,16 @@ None
 **Pre-Class**
 
 * [4.1: ORM, Sequelize](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/4-backend-structure/4.1-orm-sequelize)
-* [4.1.1: Intro to Sequelize](../4-4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
-* [4.1.2: Sequelize One-to-Many](../4-4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships.md)
+* [4.1.1: Intro to Sequelize](../backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
+* [4.1.2: Sequelize One-to-Many](../backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships.md)
 
 **In-Class**
 
-* [3.ICE.13: DB Schema Design - Airbnb](../3-3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-airbnb.md)
+* [3.ICE.13: DB Schema Design - Airbnb](../backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-airbnb.md)
 
 **Post-Class**
 
-* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
 * [Project 2 Demo Video](../projects/project-2-server-side-app.md#video-demo)
 
 #### Course Day 9.3
@@ -760,46 +760,46 @@ None
 
 **Pre-Class**
 
-* [0.8.2: Try Catch](../0-0-language-and-tooling/0.8-js-promises/0.8.2-try-catch.md)
-* [0.8.3: Async/Await](../0-0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
-* [4.1.3: Async/Await with Sequelize](../4-4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
+* [0.8.2: Try Catch](../language-and-tooling/0.8-js-promises/0.8.2-try-catch.md)
+* [0.8.3: Async/Await](../language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
+* [4.1.3: Async/Await with Sequelize](../backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize.md)
 
 **In-Class**
 
-* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md) (Pair Programming)
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md) (Pair Programming)
 
 **Post-Class**
 
-* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
+* [4.POCE.1: Sequelize CLI App - Travel Itinerary](../backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
 
 #### Course Day 9.4
 
 **Pre-Class**
 
 * [4.2: MVC](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/4-backend-structure/4.2-mvc)
-* [4.2.1: RESTful Routes](../4-4-backend-structure/4.2-mvc/4.2.1-restful-routes.md)
+* [4.2.1: RESTful Routes](../backend-structure/4.2-mvc/4.2.1-restful-routes.md)
 
 **In-Class**
 
-* [4.POCE.2: Drummers for Hire](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
+* [4.POCE.2: Drummers for Hire](../backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
 
 **Post-Class**
 
-* [4.POCE.2: Drummers for Hire](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
+* [4.POCE.2: Drummers for Hire](../backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
 
 #### Course Day 9.5
 
 **Pre-Class**
 
-* [4.1.4: Sequelize Many-to-Many](../4-4-backend-structure/4.1-orm-sequelize/4.1.4-sequelize-many-to-many.md)
+* [4.1.4: Sequelize Many-to-Many](../backend-structure/4.1-orm-sequelize/4.1.4-sequelize-many-to-many.md)
 
 **In-Class**
 
-* [4.POCE.3: Project 2 MVC Refactor](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
+* [4.POCE.3: Project 2 MVC Refactor](../backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
 **Post-Class**
 
-* [4.POCE.2: Drummers for Hire](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
+* [4.POCE.2: Drummers for Hire](../backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
 
 ### Module 5: Full-Stack Applications
 
@@ -809,46 +809,46 @@ None
 
 **Pre-Class**
 
-* [4.1.5: Sequelize Many-to-Many with Non-FK Attributes in "Through Table"](../4-4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table.md)
-* [5.1: DOM Manipulation with Express App](../5-5-full-stack-applications/5.1-dom-manipulation-with-express-app.md)
+* [4.1.5: Sequelize Many-to-Many with Non-FK Attributes in "Through Table"](../backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table.md)
+* [5.1: DOM Manipulation with Express App](../full-stack-applications/5.1-dom-manipulation-with-express-app.md)
 
 **In-Class**
 
-* [5.ICE.1: Full-Stack Modal](../5-5-full-stack-applications/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
+* [5.ICE.1: Full-Stack Modal](../full-stack-applications/5.ice-in-class-exercises/5.ice.1-full-stack-modal.md)
 
 **Post-Class**
 
-* [4.POCE.3: Project 2 MVC Refactor](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
+* [4.POCE.3: Project 2 MVC Refactor](../backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
 #### Course Day 10.2
 
 **Pre-Class**
 
-* [4.1.6 Sequelize Validations](../4-4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
+* [4.1.6 Sequelize Validations](../backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations.md)
 * [5.2: AJAX](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/5-full-stack-applications/5.2-ajax)
 
 **In-Class**
 
-* [5.ICE.2: AJAX](../5-5-full-stack-applications/5.ice-in-class-exercises/5.ice.2-ajax.md)
+* [5.ICE.2: AJAX](../full-stack-applications/5.ice-in-class-exercises/5.ice.2-ajax.md)
 
 **Post-Class**
 
-* [4.POCE.3: Project 2 MVC Refactor](../4-4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
+* [4.POCE.3: Project 2 MVC Refactor](../backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
 
 #### Course Day 10.3
 
 **Pre-Class**
 
-* [4.1.7: Sequelize Eager Loading](../4-4-backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading.md)
-* [5.2.1: AJAX POST Requests](../5-5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
+* [4.1.7: Sequelize Eager Loading](../backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading.md)
+* [5.2.1: AJAX POST Requests](../full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests.md)
 
 **In-Class**
 
-* [5.ICE.3: Bug Reports AJAX](../5-5-full-stack-applications/5.ice-in-class-exercises/5.ice.3-bug-reports-ajax.md)
+* [5.ICE.3: Bug Reports AJAX](../full-stack-applications/5.ice-in-class-exercises/5.ice.3-bug-reports-ajax.md)
 
 **Post-Class**
 
-* [5.POCE.1: Bug Reports AJAX](../5-5-full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
+* [5.POCE.1: Bug Reports AJAX](../full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
 * [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 #### Course Day 10.4
@@ -857,15 +857,15 @@ None
 
 * [D.1: Intro to SWE Interviews](../algorithms/a.1-intro-to-swe-interviews.md)
 * [D.2: Intro to Python (Exercises 1-8)](../algorithms/a.2-intro-to-python.md)
-* [4.1.8: Multiple FK Columns Referencing Same Table](../4-4-backend-structure/4.1-orm-sequelize/4.1.8-multiple-foreign-key-columns-referencing-same-table.md)
+* [4.1.8: Multiple FK Columns Referencing Same Table](../backend-structure/4.1-orm-sequelize/4.1.8-multiple-foreign-key-columns-referencing-same-table.md)
 
 **In-Class**
 
-* [5.ICE.4: Cross-Domain AJAX](../5-5-full-stack-applications/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
+* [5.ICE.4: Cross-Domain AJAX](../full-stack-applications/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax.md)
 
 **Post-Class**
 
-* [5.POCE.2: Bug Reports AJAX Users](../5-5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
+* [5.POCE.2: Bug Reports AJAX Users](../full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
 * [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ### Module 6: Frontend Infrastructure
@@ -876,7 +876,7 @@ None
 
 * [D.2: Intro to Python (Exercises 9-11)](../algorithms/a.2-intro-to-python.md)
 * [6.1: Webpack](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/6-frontend-infrastructure/6.1-webpack)
-* [5.2.2: AJAX Cards](../5-5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
+* [5.2.2: AJAX Cards](../full-stack-applications/5.2-ajax/5.2.2-ajax-cards.md)
 
 **In-Class**
 
@@ -884,7 +884,7 @@ None
 
 **Post-Class**
 
-* [5.POCE.3: AJAX Cards](../5-5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 * [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 ### Course Week 11
@@ -895,24 +895,24 @@ None
 
 * [D.3: Complexity Analysis, Big-O Notation](../algorithms/a.3-complexity-analysis-big-o-notation.md)
 * [D.4: Interview Strategies](../algorithms/a.4-interview-strategies)
-* [6.1.1: Webpack with Local Modules](../6-6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
-* [6.1.2: Webpack with NPM Modules](../6-6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
+* [6.1.1: Webpack with Local Modules](../frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
+* [6.1.2: Webpack with NPM Modules](../frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
 
 **In-Class**
 
-* [6.ICE.1: NPM Webpack](../6-6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
+* [6.ICE.1: NPM Webpack](../frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
 
 **Post-Class**
 
-* [5.POCE.3: AJAX Cards](../5-5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 * [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
 #### Course Day 11.2
 
 **Pre-Class**
 
-* [6.1.3: Webpack with Babel](../6-6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
-* [6.1.4: Webpack with SASS](../6-6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
+* [6.1.3: Webpack with Babel](../frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
+* [6.1.4: Webpack with SASS](../frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
 * [D.5.1: Arrays - Pre-Class](../algorithms/a.5-data-structures/a.5.1-arrays.md#pre-class)
 
 **In-Class**
@@ -921,7 +921,7 @@ None
 
 **Post-Class**
 
-* [5.POCE.3: AJAX Cards](../5-5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
+* [5.POCE.3: AJAX Cards](../full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
 * [D.5.1: Arrays - Part 1](../algorithms/a.5-data-structures/a.5.1-arrays.md#part-1)
 * [Project 3 Ideation](../projects/project-3-full-stack-game.md#ideation-phase-1)
 
@@ -933,7 +933,7 @@ Deadline to post Project 3 ideas in Slack
 
 **Pre-Class**
 
-* [6.1.5: Webpack with Express](../6-6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
+* [6.1.5: Webpack with Express](../frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
 
 **In-Class**
 
@@ -1020,8 +1020,8 @@ None
 
 **Pre-Class**
 
-* [4.1.10: Deploy Sequelize App to Heroku](../4-4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
-* [6.1.6: Deploy Webpack App to Heroku](../6-6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
+* [4.1.10: Deploy Sequelize App to Heroku](../backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku.md)
+* [6.1.6: Deploy Webpack App to Heroku](../frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
 * [D.5.3: Stacks - Pre-Class](../algorithms/a.5-data-structures/a.5.3-stacks.md#pre-class)
 
 **In-Class**
@@ -1116,16 +1116,16 @@ None
 **Pre-Class**
 
 * [7.1: JSX Intro](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/7-react/7.1-jsx-intro)
-* [7.1.1: Conditional Rendering](../7-7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
-* [7.1.2: Rendering In a Loop](../7-7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
+* [7.1.1: Conditional Rendering](../react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
+* [7.1.2: Rendering In a Loop](../react/7.1-jsx-intro/7.1.2-rendering-in-a-loop.md)
 
 **In-Class**
 
-* [7.ICE.1: JSX Products Items](../7-7-react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
+* [7.ICE.1: JSX Products Items](../react/7.ice-in-class-exercises/7.ice.1-product-rendering.md)
 
 **Post-Class**
 
-* [7.POCE.1: JSX Bug Reports](../7-7-react/7.poce-post-class-exercises/7.poce.1-bugs.md)
+* [7.POCE.1: JSX Bug Reports](../react/7.poce-post-class-exercises/7.poce.1-bugs.md)
 * [Project 3 Video Demo](../projects/project-3-full-stack-game.md#video-demo)
 
 #### Course Day 13.4
@@ -1138,32 +1138,32 @@ None
 
 * [D.8: Sorting Algorithms](../algorithms/a.10-sorting-algorithms/)
 * [7.2: React Components](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/7-react/7.2-react-components)
-* [7.2.1: Props](../7-7-react/7.2-react-components/7.2.1-props.md)
-* [7.2.2: Generating Components from a List](../7-7-react/7.2-react-components/7.2.2-generating-components-from-a-list.md)
-* [7.2.3: Class Components](../7-7-react/7.2-react-components/7.2.3-class-components.md)
+* [7.2.1: Props](../react/7.2-react-components/7.2.1-props.md)
+* [7.2.2: Generating Components from a List](../react/7.2-react-components/7.2.2-generating-components-from-a-list.md)
+* [7.2.3: Class Components](../react/7.2-react-components/7.2.3-class-components.md)
 
 **In-Class**
 
-* [7.ICE.2: React Pokedex](../7-7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
+* [7.ICE.2: React Pokedex](../react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 
 **Post-Class**
 
-* [7.ICE.2: React Pokedex](../7-7-react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
+* [7.ICE.2: React Pokedex](../react/7.ice-in-class-exercises/7.ice.2-pokedex.md)
 
 #### Course Day 13.5
 
 **Pre-Class**
 
-* [7.3: Using React with Express and Webpack](../7-7-react/7.3-using-react-with-express-and-webpack.md)
-* [7.4: React State](../7-7-react/7.4-react-state.md)
+* [7.3: Using React with Express and Webpack](../react/7.3-using-react-with-express-and-webpack.md)
+* [7.4: React State](../react/7.4-react-state.md)
 
 **In-Class**
 
-* [7.ICE.3: React Cards](../7-7-react/7.ice-in-class-exercises/7.ice.3-react-cards.md)
+* [7.ICE.3: React Cards](../react/7.ice-in-class-exercises/7.ice.3-react-cards.md)
 
 **Post-Class**
 
-* [7.POCE.2: React Tic Tac Toe](../7-7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
+* [7.POCE.2: React Tic Tac Toe](../react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
 
 ### Course Week 14
 
@@ -1171,16 +1171,16 @@ None
 
 **Pre-Class**
 
-* [7.5: Controlled Forms](../7-7-react/7.5-controlled-forms.md)
-* [7.6: Passing Data Between Sibling Components](../7-7-react/7.6-passing-data-between-sibling-components.md)
+* [7.5: Controlled Forms](../react/7.5-controlled-forms.md)
+* [7.6: Passing Data Between Sibling Components](../react/7.6-passing-data-between-sibling-components.md)
 
 **In-Class**
 
-* [7.ICE.4: Guess the Word](../7-7-react/7.ice-in-class-exercises/7.ice.4-guess-the-word.md)
+* [7.ICE.4: Guess the Word](../react/7.ice-in-class-exercises/7.ice.4-guess-the-word.md)
 
 **Post-Class**
 
-* [7.POCE.3: Read Later](../7-7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* [7.POCE.3: Read Later](../react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 #### Course Day 14.2
@@ -1188,16 +1188,16 @@ None
 **Pre-Class**
 
 * [7.7: Designing Component Hierarchy](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/7-react/7.7-designing-component-hierarchy)
-* [7.7.1: AJAX Requests from Components](../7-7-react/7.7-designing-component-hierarchy/7.7.1-ajax-requests-from-components.md)
-* [7.9: React Dev Tools](../7-7-react/7.9-react-dev-tools.md)
+* [7.7.1: AJAX Requests from Components](../react/7.7-designing-component-hierarchy/7.7.1-ajax-requests-from-components.md)
+* [7.9: React Dev Tools](../react/7.9-react-dev-tools.md)
 
 **In-Class**
 
-* [7.ICE.5: Create Item](../7-7-react/7.ice-in-class-exercises/7.ice.5-create-item.md)
+* [7.ICE.5: Create Item](../react/7.ice-in-class-exercises/7.ice.5-create-item.md)
 
 **Post-Class**
 
-* [7.POCE.3: Read Later](../7-7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* [7.POCE.3: Read Later](../react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
 #### Course Day 14.3
@@ -1208,12 +1208,12 @@ None
 
 **In-Class**
 
-* Review [7.POCE.3: Read Later](../7-7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
+* Review [7.POCE.3: Read Later](../react/7.poce-post-class-exercises/7.poce.3-read-later.md)
 * [D.5.5: Linked Lists - Part 2](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
 
 **Post-Class**
 
-* [7.POCE.4: Hot Pot Bill Splitter](../7-7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [7.POCE.4: Hot Pot Bill Splitter](../react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.5.5: Linked Lists - Part 2](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
@@ -1221,7 +1221,7 @@ None
 
 **Pre-Class**
 
-* [7.7.2: useEffect](../7-7-react/7.7-designing-component-hierarchy/7.7.2-useeffect.md)
+* [7.7.2: useEffect](../react/7.7-designing-component-hierarchy/7.7.2-useeffect.md)
 
 **In-Class**
 
@@ -1229,7 +1229,7 @@ None
 
 **Post-Class**
 
-* [7.POCE.4: Hot Pot Bill Splitter](../7-7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [7.POCE.4: Hot Pot Bill Splitter](../react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.5.5: Linked Lists - Part 3](../algorithms/a.5-data-structures/a.5.5-linked-lists#part-3)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
@@ -1241,7 +1241,7 @@ None
 
 **Pre-Class**
 
-* [7.8: Error Boundaries](../7-7-react/7.8-error-boundaries.md)
+* [7.8: Error Boundaries](../react/7.8-error-boundaries.md)
 * [D.9: Recursion - Required Reading](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#required-reading)
 
 **In-Class**
@@ -1250,7 +1250,7 @@ None
 
 **Post-Class**
 
-* [7.POCE.4: Hot Pot Bill Splitter](../7-7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
+* [7.POCE.4: Hot Pot Bill Splitter](../react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
 * [D.9: Recursion - Part 1](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/data-structures-and-algorithms/d.9-recursion#part-1)
 * [Project 4 Ideation](../projects/project-4-full-stack-react-app.md#ideation-phase-1)
 
@@ -1435,8 +1435,8 @@ None
 **Pre-Class**
 
 * [8.1: Create React App](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/8-advanced-react/8.1-create-react-app)
-* [8.1.1: Create React App Full Stack](../8-8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
-* [8.2: Higher Order Components](../8-8-advanced-react/8.3-higher-order-components.md)
+* [8.1.1: Create React App Full Stack](../advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
+* [8.2: Higher Order Components](../advanced-react/8.3-higher-order-components.md)
 * [D.5.7: Graphs - Pre-Class](../algorithms/a.5-data-structures/a.5.7-graphs.md)
 
 **In-Class**
@@ -1458,23 +1458,23 @@ None
 
 **Pre-Class**
 
-* [8.3.1: useContext](../8-8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
-* [8.3.2: useReducer](../8-8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
-* [8.3.3: useContext + useReducer](../8-8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
+* [8.3.1: useContext](../advanced-react/8.2-usecontext/8.3.1-usecontext.md)
+* [8.3.2: useReducer](../advanced-react/8.2-usecontext/8.3.2-usereducer.md)
+* [8.3.3: useContext + useReducer](../advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
 
 **In-Class**
 
-* [8.ICE.1: useContext](../8-8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
+* [8.ICE.1: useContext](../advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
 
 **Post-Class**
 
-* [8.POCE.1: Car Rental](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+* [8.POCE.1: Car Rental](../advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 
 #### Course Day 17.3
 
 **Pre-Class**
 
-* [8.3.4: React E-Commerce App with Store](../8-8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
+* [8.3.4: React E-Commerce App with Store](../advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
 
 **In-Class**
 
@@ -1482,7 +1482,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.1: Car Rental](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+* [8.POCE.1: Car Rental](../advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [D.5.7: Graphs - Part 2](../algorithms/a.5-data-structures/a.5.7-graphs.md#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1491,8 +1491,8 @@ None
 **Pre-Class**
 
 * [8.4: React Router](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/8-advanced-react/8.4-react-router)
-* [8.4.1: React Router Shopping](../8-8-advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
-* [8.4.2: React Router Deep Linking](../8-8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
+* [8.4.1: React Router Shopping](../advanced-react/8.4-react-router/8.4.1-react-router-shopping.md)
+* [8.4.2: React Router Deep Linking](../advanced-react/8.4-react-router/8.4.2-react-router-deep-linking.md)
 * [D.5.8: Heaps - Pre-Class](../algorithms/a.5-data-structures/a.5.8-heaps/#pre-class)
 
 **In-Class**
@@ -1501,7 +1501,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.1: Car Rental](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
+* [8.POCE.1: Car Rental](../advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
 * [D.5.8: Heaps - Part 1](../algorithms/a.5-data-structures/a.5.4-queues.md#part-1)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1509,7 +1509,7 @@ None
 
 **Pre-Class**
 
-* [8.5: Advanced useEffect](../8-8-advanced-react/8.5-advanced-useeffect.md)
+* [8.5: Advanced useEffect](../advanced-react/8.5-advanced-useeffect.md)
 
 **In-Class**
 
@@ -1517,7 +1517,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: (Group Project) Climbing Trip](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.5.8: Heaps - Part 2](../algorithms/a.5-data-structures/a.5.8-heaps/#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1527,8 +1527,8 @@ None
 
 **Pre-Class**
 
-* [8.6: Styled Components](../8-8-advanced-react/8.6-styled-components.md)
-* [8.7: React Portals](../8-8-advanced-react/8.7-react-portals.md)
+* [8.6: Styled Components](../advanced-react/8.6-styled-components.md)
+* [8.7: React Portals](../advanced-react/8.7-react-portals.md)
 
 **In-Class**
 
@@ -1536,7 +1536,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: (Group Project) Climbing Trip](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.5.8: Heaps - Part 3](../algorithms/a.5-data-structures/a.5.8-heaps/#part-3)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1544,7 +1544,7 @@ None
 
 **Pre-Class**
 
-* [8.8: React NPM Packages](../8-8-advanced-react/8.8-react-npm-packages.md)
+* [8.8: React NPM Packages](../advanced-react/8.8-react-npm-packages.md)
 * [D.9: Dynamic Programming - Pre-Class](../algorithms/a.11-dynamic-programming.md#pre-class)
 
 **In-Class**
@@ -1553,7 +1553,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: (Group Project) Climbing Trip](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.9: Dynamic Programming - Part 1](../algorithms/a.11-dynamic-programming.md#part-1)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1573,7 +1573,7 @@ None
 
 **Post-Class**
 
-* [8.POCE.2: (Group Project) Climbing Trip](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: (Group Project) Climbing Trip](../advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.9: Dynamic Programming - Part 2](../algorithms/a.11-dynamic-programming.md#part-2)
 * [Project 5 Ideation](../projects/project-5-group-react-app.md#ideation-phase-1)
 
@@ -1585,7 +1585,7 @@ None
 
 **In-Class**
 
-* [8.POCE.2: Climbing Trip Redux](../8-8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
+* [8.POCE.2: Climbing Trip Redux](../advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
 * [D.9: Dynamic Programming - Part 3](../algorithms/a.11-dynamic-programming.md#part-3)
 
 **Post-Class**
@@ -1759,11 +1759,11 @@ None
 **Pre-Class**
 
 * [9.1: Testing](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/9-advanced-topics/9.1-testing)
-* [9.1.1: Unit Testing](../9-9-advanced-topics/9.1-testing/9.1.1-unit-testing.md)
+* [9.1.1: Unit Testing](../advanced-topics/9.1-testing/9.1.1-unit-testing.md)
 
 **In-Class**
 
-* [9.ICE.1: Unit Testing](../9-9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
+* [9.ICE.1: Unit Testing](../advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
 
 **Post-Class**
 
@@ -1779,8 +1779,8 @@ None
 
 **Pre-Class**
 
-* [9.1.2: TDD](../9-9-advanced-topics/9.1-testing/9.1.2-tdd.md)
-* [9.1.3: CI](../9-9-advanced-topics/9.1-testing/9.1.3-ci.md)
+* [9.1.2: TDD](../advanced-topics/9.1-testing/9.1.2-tdd.md)
+* [9.1.3: CI](../advanced-topics/9.1-testing/9.1.3-ci.md)
 
 **In-Class**
 
@@ -1801,9 +1801,9 @@ None
 
 **Pre-Class**
 
-* [9.2.1: XSS](../9-9-advanced-topics/9.2-security/9.2.1-xss.md)
-* [9.2.2: CSRF](../9-9-advanced-topics/9.2-security/9.2.2-csrf.md)
-* [9.2.3: SQL Injection](../9-9-advanced-topics/9.2-security/9.2.3-sql-injection.md)
+* [9.2.1: XSS](../advanced-topics/9.2-security/9.2.1-xss.md)
+* [9.2.2: CSRF](../advanced-topics/9.2-security/9.2.2-csrf.md)
+* [9.2.3: SQL Injection](../advanced-topics/9.2-security/9.2.3-sql-injection.md)
 
 **In-Class**
 
@@ -1835,7 +1835,7 @@ None
 
 **Pre-Class**
 
-* [9.3.1: Django User Login](../9-9-advanced-topics/9.3-django/9.3.1-django-user-login.md)
+* [9.3.1: Django User Login](../advanced-topics/9.3-django/9.3.1-django-user-login.md)
 
 **In-Class**
 
@@ -1851,7 +1851,7 @@ None
 
 **Pre-Class**
 
-* [9.4: React Native](../9-9-advanced-topics/9.4-react-native.md)
+* [9.4: React Native](../advanced-topics/9.4-react-native.md)
 
 **In-Class**
 
@@ -1868,8 +1868,8 @@ None
 **Pre-Class**
 
 * [9.5: ML - Naive Bayes Theorem](https://github.com/rocketacademy/bootcamp-docs/tree/fc644a7a638f3bb58d75e058a343a4fa5309f546/9-advanced-topics/9.5-ml-bayes-theorem)
-* [9.5.1: ML - Naive Bayes Classifier JS](../9-9-advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
-* [9.5.2: ML - Naive Bayes Classifier Python](../9-9-advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
+* [9.5.1: ML - Naive Bayes Classifier JS](../advanced-topics/9.5-ml-bayes-theorem/9.5.1-ml-naive-bayes-classifier-javascript.md)
+* [9.5.2: ML - Naive Bayes Classifier Python](../advanced-topics/9.5-ml-bayes-theorem/9.5.2-ml-naive-bayes-classifier-python.md)
 
 **In-Class**
 
