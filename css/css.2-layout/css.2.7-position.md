@@ -15,19 +15,19 @@ This level of control is the `position` style. This style overrides any natural 
 The position settings `top`, `right`, `bottom`, `left` set the _**offset from**_ the element's default position. Any unit can be used to set the position of the element: pixels, percent, em, vw, etc.
 
 ```css
-p{
-    position:fixed;
-    top:300px;
+p {
+  position: fixed;
+  top: 300px;
 }
 ```
 
 ### Position Relative
 
 ```css
-p{
-    position:relative;
-    top:6px;
-    left:6px;
+p {
+  position: relative;
+  top: 6px;
+  left: 6px;
 }
 ```
 
@@ -38,10 +38,10 @@ Relative position means that the element takes up space but can be moved from wh
 ### Position Absolute
 
 ```css
-p{
-    position:absolute;
-    top:6px;
-    left:6px;
+p {
+  position: absolute;
+  top: 6px;
+  left: 6px;
 }
 ```
 
@@ -52,14 +52,14 @@ Absolute position means that the element is taken completely out of the normal b
 ### Position Relative / Absolute
 
 ```css
-.card{
-    position:relative;
+.card {
+  position: relative;
 }
 
-.icon{
-    position:absolute;
-    top:6px;
-    left:6px;
+.icon {
+  position: absolute;
+  top: 6px;
+  left: 6px;
 }
 ```
 
@@ -67,25 +67,25 @@ When an element is set to absolute that limits the scope of absolutely positione
 
 Use cases:
 
-* images that overlap contents in front or behind
-* game-like elements that are inside something with pixel-fixed dimensions
-* icons inside an element
-* notification count numbers
+- images that overlap contents in front or behind
+- game-like elements that are inside something with pixel-fixed dimensions
+- icons inside an element
+- notification count numbers
 
 ![](../../.gitbook/assets/screen-shot-2021-07-21-at-8.09.13-pm-1.png)
 
 ### Position Fixed
 
 ```css
-p{
-    position:fixed;
+p {
+  position: fixed;
 }
 ```
 
 Use cases:
 
-* navigation bars
-* chat windows
+- navigation bars
+- chat windows
 
 ![](../../.gitbook/assets/screen-shot-2021-07-21-at-8.05.02-pm.png)
 
@@ -99,17 +99,16 @@ When there is more than one element that has the position attribute it's possibl
 ```
 
 ```css
-p{
-    position:absolute;
-    top:6px;
-    left:6px;
+p {
+  position: absolute;
+  top: 6px;
+  left: 6px;
 }
-#announce{
-    z-index:1;
+#announce {
+  z-index: 1;
 }
 ```
 
 ## Further Reading
 
 [https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
-

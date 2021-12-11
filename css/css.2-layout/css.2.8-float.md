@@ -18,9 +18,8 @@ Another type of style similar to position is float. If we want another degree of
 ```
 
 ```css
-img{
-  float:left;
-  margin:30px;
+img {
+  float: left;
+  margin: 30px;
 }
 ```
-

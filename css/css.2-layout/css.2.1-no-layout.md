@@ -29,6 +29,3 @@ If we want to put a basic vertical document on the page we can just put elements
   </body>
 </html>
 ```
-
-
-

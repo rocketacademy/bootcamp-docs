@@ -26,7 +26,7 @@ A good default is to allow, as much as is possible, for the CSS rendering engine
 
 ### Base Box Size
 
-Without any CSS a box (element) will be the size of it's contents. If the box is `display` `block`,  it's width will expand to the parent (containing) container, then it will expand downward.
+Without any CSS a box (element) will be the size of it's contents. If the box is `display` `block`, it's width will expand to the parent (containing) container, then it will expand downward.
 
 ### Width & Height
 
@@ -37,9 +37,9 @@ There are several common ways to set the dimensions of a box:
 For elements that are display block, you can manually set the size of an element:
 
 ```css
-p{
-    width:100px;
-    height:100px;
+p {
+  width: 100px;
+  height: 100px;
 }
 ```
 
@@ -48,9 +48,9 @@ p{
 We can set the width of a box using relative measurements:
 
 ```css
-p{
-    width:50%;
-    height:100px;
+p {
+  width: 50%;
+  height: 100px;
 }
 ```
 
@@ -59,9 +59,9 @@ p{
 We can set the size of a box using viewport units.
 
 ```css
-p{
-    width:100vw;
-    height:100vh;
+p {
+  width: 100vw;
+  height: 100vh;
 }
 ```
 
@@ -100,9 +100,9 @@ Note that the box model tools calculate the final size of the box in pixels. If 
 One flaw of the default behavior of the box model is that the size of a box doesn't include it's padding. Consider the following example:
 
 ```css
-p{
-    width:200px;
-    padding:50px;
+p {
+  width: 200px;
+  padding: 50px;
 }
 ```
 
@@ -113,7 +113,9 @@ This CSS produces a box 300px wide (padding adds 50px to EACH side), not 200px w
 With the box-sizing style we can set the dimension to include padding. This code sets the correct size calculation for every single element in the document. We'll use this code for every HTML page we style.
 
 ```css
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 ```

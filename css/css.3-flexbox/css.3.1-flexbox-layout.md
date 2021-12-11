@@ -88,7 +88,7 @@ We can change the default style to make one column smaller by changing the `flex
 
 ### Unequal Column Take Up Space
 
-A magical property of flexbox is that it knows how to tell boxes to take up the rest of the available space. We set the `flex-grow` property to tell it to grow to fit the rest of the parent. If there is any horizontal space left, the right box will take it up. 
+A magical property of flexbox is that it knows how to tell boxes to take up the rest of the available space. We set the `flex-grow` property to tell it to grow to fit the rest of the parent. If there is any horizontal space left, the right box will take it up.
 
 ![](../../.gitbook/assets/take-up.png)
 

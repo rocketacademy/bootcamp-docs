@@ -61,25 +61,27 @@ Card design is when a set of boxes is displayed next to each other in a layout. 
 ```
 
 ```css
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
-body{
-  background-color:pink;
+body {
+  background-color: pink;
 }
 
-img{
-  display:block;
-  margin:0 auto;
+img {
+  display: block;
+  margin: 0 auto;
 }
 
-.card{
-  display:inline-block;
+.card {
+  display: inline-block;
   width: 200px;
-  background-color:white;
-  padding:10px;
-  margin:10px;
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
   vertical-align: top;
 }
 ```
@@ -114,26 +116,27 @@ Now we'll use `inline-block` to create column layouts.
 
 ```css
 /* correct for sizing */
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
-body{
-  background-color:pink;
-  margin:0; /* also to correct for sizing */
+body {
+  background-color: pink;
+  margin: 0; /* also to correct for sizing */
 }
 
-.column{
-  display:inline-block;
-  width:48%;
-  background-color:white;
-  padding:20px;
-  margin:20px;
-  vertical-align:top; /* otherwise a shorter box will be stuck to the baseline of the taller box */
+.column {
+  display: inline-block;
+  width: 48%;
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  vertical-align: top; /* otherwise a shorter box will be stuck to the baseline of the taller box */
 }
 ```
 
 ## Limitations
 
 Note that for all of these layouts, the alignment and size of the boxes is not perfect. For example, the column layout doesn't have equal-height boxes. The columns are not set to a perfect amount of percent \(i.e., 50%\) The card layout may be awkward looking at certain screen widths. For right now don't worry too much about all the boxes aligning perfectly. Some of these behaviours we will get for free in the Bootstrap CSS library and with flexbox layout.
-

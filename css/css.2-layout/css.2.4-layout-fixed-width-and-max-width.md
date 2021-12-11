@@ -39,9 +39,9 @@ Given this HTML:
 For boxes whose width is smaller than the parent box there is an easy way to horizontally center them: `margin` `auto`
 
 ```css
-.main{
-    width: 100px;
-    margin: 0 auto; /* left and right margin auto*/
+.main {
+  width: 100px;
+  margin: 0 auto; /* left and right margin auto*/
 }
 ```
 
@@ -54,9 +54,9 @@ By constraining the size of the content area this prevents the behavior where th
 ```css
 .main {
   width: 600px; /* reasonable default size of a central box */
-  background-color:white;
-  padding:20px;
-  margin:40px auto; /* left and right margin auto*/
+  background-color: white;
+  padding: 20px;
+  margin: 40px auto; /* left and right margin auto*/
 }
 ```
 
@@ -75,9 +75,9 @@ Another kind of design might call for a box that is always a percentage with of 
 ```css
 .main {
   width: 80%;
-  background-color:white;
-  padding:20px;
-  margin:40px auto; /* left and right margin auto*/
+  background-color: white;
+  padding: 20px;
+  margin: 40px auto; /* left and right margin auto*/
 }
 ```
 
@@ -99,4 +99,3 @@ To prevent this we can have it take up the entire screen width below a certain s
 ## Height
 
 Notice that in the examples the white box does not take up the rest of the vertical space of the page. This is because elements only fill up to the size in the vertical dimension. Some of these height issues can be solved with the Bootstrap library and/or flexbox.
-

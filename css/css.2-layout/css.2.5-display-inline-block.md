@@ -9,26 +9,26 @@ There are older ways of doing this, involving `float`, and newer ways involving 
   Noodles are a type of food made from unleavened dough.
 </div>
 <div class="article">
-  Veniam deserunt labore ullamco ea laboris esse sit.  
+  Veniam deserunt labore ullamco ea laboris esse sit.
 </div>
 <div class="article">
-  Irure ad ut nisi ut amet. 
+  Irure ad ut nisi ut amet.
 </div>
 <div class="article">
-  Id minim amet dolor sint ex voluptate esse dolore duis minim consequat dolore adipisicing ut.  
+  Id minim amet dolor sint ex voluptate esse dolore duis minim consequat dolore adipisicing ut.
 </div>
 ```
 
 ```css
-body{
-  background-color:pink;
+body {
+  background-color: pink;
 }
 
-.article{
-  display:inline-block;
-  background-color:white;
-  padding:20px;
-  margin:20px;
+.article {
+  display: inline-block;
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
 }
 ```
 
@@ -36,9 +36,9 @@ body{
 
 #### Properties of `inline-block`
 
-* unlike `inline`, vertical margins and padding can be set on inline-block elements
-* unlike `inline`, elements do not break within themselves to a new line.
-* unlike `block`, the element does not take up 100% width by default.
+- unlike `inline`, vertical margins and padding can be set on inline-block elements
+- unlike `inline`, elements do not break within themselves to a new line.
+- unlike `block`, the element does not take up 100% width by default.
 
 ## CSS Layout Gotchas
 

@@ -11,13 +11,13 @@ See a full list of all possible display values here: [https://developer.mozilla.
 Here are some example default display values:
 
 | Element Name | Default Display Value |
-| :--- | :--- |
-| h1, h2, etc. | block |
-| p | block |
-| section | block |
-| a | inline |
-| span | inline |
-| input | inline |
+| :----------- | :-------------------- |
+| h1, h2, etc. | block                 |
+| p            | block                 |
+| section      | block                 |
+| a            | inline                |
+| span         | inline                |
+| input        | inline                |
 
 #### Block
 
@@ -72,18 +72,18 @@ Given the following code:
 #### styles.css
 
 ```css
-body{
-  background-color:pink;
+body {
+  background-color: pink;
 }
 
-span{
-  margin-top:400px;
-  background-color:white;
+span {
+  margin-top: 400px;
+  background-color: white;
 }
 
-h2{
-  margin-top:40px;
-  background-color:aqua;
+h2 {
+  margin-top: 40px;
+  background-color: aqua;
 }
 ```
 
@@ -93,9 +93,8 @@ Notice that a margin is applied on the block element. However, even though a lar
 
 ## CSS Block Margin Gotcha: Margin Collapse
 
-[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Box\_Model/Mastering\_margin\_collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
 
 ## More about Layout Margins
 
 [https://www.smashingmagazine.com/2019/07/margins-in-css/](https://www.smashingmagazine.com/2019/07/margins-in-css/)
-
