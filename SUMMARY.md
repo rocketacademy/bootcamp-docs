@@ -416,3 +416,7 @@
 * [Intro to Algorithm Problem Sets](algorithms-new/intro-to-algorithm-problem-sets.md)
 * [Data Structures](algorithms-new/data-structures/README.md)
   * [Untitled](algorithms-new/data-structures/untitled-1.md)
+
+## 🌈 CSS Teaching Guide
+
+* [CSS.2.6: Layout: Columns & Cards](css-teaching-guide/css.2.6-layout-columns-and-cards.md)
