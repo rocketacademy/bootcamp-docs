@@ -6,7 +6,7 @@ For solving certain types of algorithm problems we'll want to repeat an action s
 
 We'll see through some examples where a given concept or code is expressed more elegantly (not necessarily more simply) in the format of a function that calls itself. This may be preferable to writing the code using the `for` keyword to make a loop.
 
-```
+```python
 def say_something
     print("hello")
     say_something() # keep repeating this function forever
@@ -35,7 +35,7 @@ There are 2 concepts to remember with recursion.
 
 ### Background on Recursion
 
-The history of recursion is deeply tied to the invention of Turing's theoretical computer. The word recursion is not just a topic in Computer Science but also a topic in mathematical logic. So the concept of recursion is deeper than simply a function that calls itself. It is any construct or system that is defined in terms of itself. Implementations of the concept of recursion include a [JavaScript interpreter written in JavaScript](./#part-2), or a [quine](https://en.wikipedia.org/wiki/Quine\_\(computing\)), a program whose purpose is to print out it's own code. However, the purposes of Rocket's algorithms content we can assume the word recursion to mean a loop.
+The history of recursion is deeply tied to the invention of Turing's theoretical computer. The word recursion is not just a topic in Computer Science but also a topic in mathematical logic. So the concept of recursion is deeper than simply a function that calls itself. It is any construct or system that is defined in terms of itself. Implementations of the concept of recursion include a [JavaScript interpreter written in JavaScript](./#part-2), or a [quine](<https://en.wikipedia.org/wiki/Quine_(computing)>), a program whose purpose is to print out it's own code. However, the purposes of Rocket's algorithms content we can assume the word recursion to mean a loop.
 
 ### Example - Simple Loops
 
@@ -43,7 +43,7 @@ The history of recursion is deeply tied to the invention of Turing's theoretical
 
 Given this infinite iterative loop:
 
-```
+```python
 count = 0
 while True:
     print(f'count: {count}')
@@ -52,7 +52,7 @@ while True:
 
 Let's implement the same loop in recursion.
 
-```
+```python
 def loop_count_times(count: int) -> None
     print(f'count: {count}')
     new_count = count + 1
@@ -75,7 +75,7 @@ In a function context the base case always has to do with the function returning
 
 Given this iterative loop:
 
-```
+```python
 count = 5
 while count != 0:
     print(f'count: {count}')
@@ -84,7 +84,7 @@ while count != 0:
 
 Let's implement the same loop in recursion.
 
-```
+```python
 def loop_count_times(count: int) -> None
     print(f'count: {count}')
     if count == 0:
@@ -111,7 +111,7 @@ How can we implement a recursive loop that counts up instead of down?
 
 Given this iterative loop:
 
-```
+```python
 count = 0
 while count < 5:
     print(f'count: {count}')
@@ -120,7 +120,7 @@ while count < 5:
 
 Let's implement the same loop in recursion.
 
-```
+```python
 def loop_count_times(max: int, count: int) -> None
     print(f'count: {count}')
     if count == max:
@@ -128,7 +128,7 @@ def loop_count_times(max: int, count: int) -> None
     new_count = count + 1
     loop_count_times(max, new_count)
 
-loop_count_times(5,0)   
+loop_count_times(5,0)
 ```
 
 Also note that it is a convention to have the base case at the top of the function. We actually call the function at the end once just to check the count value and return / end the loop, even though it isn't affecting the counter- it will just end after the check fails.
@@ -143,11 +143,11 @@ This exposes the other major behaviour of a recursive function that returns a va
 
 How do we write recursive functions that returns values?
 
-![Demonstration of recursive string reverse from here: https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0](../../.gitbook/assets/recurse\_string.gif)
+![Demonstration of recursive string reverse from here: https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0](../../.gitbook/assets/recurse_string.gif)
 
 Given this iterative loop:
 
-```
+```python
 def reverse_iter(word: str) -> str:
     result = ''
     for char in word:
@@ -161,7 +161,7 @@ result = reverse_iter('hello') # olleh
 
 Let's implement the same loop in recursion.
 
-```
+```python
 def reverse_recurse(word: str) -> str:
 
   if len(word) == 0:
@@ -184,7 +184,7 @@ result = reverse_recurse('hello') # olleh
 
 Run this version and follow the call stack to see where each part of the function branches off to recurse and comes back.
 
-```
+```python
 def reverse_recurse(string: str) -> str:
     print(f'current word: {string}')
 
@@ -216,7 +216,7 @@ print(f'reverse result: {result}')
 
 The common style of recursive functions is to write all of the intermediate values inline with the return.
 
-```
+```python
 def reverse_recurse_compact(word: str) -> str:
     if len(word) == 0:
         return ''
@@ -249,7 +249,7 @@ We can write certain linked list methods as recursive insterad of iterative.
 
 Given a normal linked list class:
 
-```
+```python
 class Node:
     def __init__(self, value):
         self.value = value
@@ -258,7 +258,7 @@ class Node:
 
 We can put values inside the list:
 
-```
+```python
 head = Node(1)
 head.nextnode = Node(2)
 head.nextnode.nextnode = Node(3)
@@ -270,7 +270,7 @@ head.nextnode.nextnode.nextnode.nextnode.nextnode.nextnode = Node(3)
 
 **Recursive Printing of LL**
 
-```
+```python
 def display_ll(node):
     while node:
         print(node.value, end=" --> ")
@@ -282,7 +282,7 @@ display_ll(head) # 1 --> 2 --> 3 --> 4 --> 5 --> 3 --> 3 --> None
 
 We can write the same LL algorithm recursively:
 
-```
+```python
 def display_ll_recursive(node):
 
     if node == None:
@@ -302,7 +302,7 @@ This code gives a hint that some kinds of algorithms are more elegantly expresse
 
 This slight modification on the above would find the length of the list:
 
-```
+```python
 def length(node):
     length=0
     while node:
@@ -317,7 +317,7 @@ print(result)
 
 Now we can modify the above recursive function to return the list length:
 
-```
+```python
 def length_recursive(node):
 
     if node == None:
@@ -333,7 +333,7 @@ print(result)
 
 Follow the comments to see where the return values recurse down and back up, so that a value can be returned
 
-```
+```python
 def length_recursive(node):
 
     if node == None:
@@ -361,7 +361,7 @@ print(result)
 
 Given this iterative way to find the end of the list and add a node:
 
-```
+```python
 def add(node, newnode):
     ''' Adds a new node object at the end of the ll '''
     # Go to the end of the existing LL
@@ -380,7 +380,7 @@ display_ll(head)
 
 This can also be implemented using recursion:
 
-```
+```python
 def addRecursive(node, newnode):
     ''' Adds a new node object at the end of the ll '''
     if (node == None):
@@ -453,7 +453,7 @@ Please attempt to solve each problem on your own before reviewing each problem's
 ### Optional Reading
 
 1. Fast Exponentiation. What would be the time complexity of an algorithm to calculate the value of `2^n`, where `n` is an input value? A naïve solution would be to write a for loop to multiply 2 by itself `n` times, which would run in `O(n)` time complexity. However, if we take the notion that `2^2^2 == 2^4` , and `2^4^2 == 2^8`, we can see that we can calculate `2^n` in many fewer operations than `n`, on the order of `log(n)`, with time complexity of `O(logn)`. Fast exponentiation can be implemented relatively easily with recursion. Programming languages typically implement exponent operators using fast exponentiation.
-   1. [https://en.wikipedia.org/wiki/Exponentiation\_by\_squaring#Basic\_method](https://en.wikipedia.org/wiki/Exponentiation\_by\_squaring#Basic\_method)
+   1. [https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Basic_method](https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Basic_method)
 
 ## Further Reading
 
