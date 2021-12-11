@@ -98,21 +98,20 @@
 * [CSS.4: Responsive Design](css/css.4-responsive-design.md)
 * [CSS.5: Web Design Basics](css/css.5-web-design-basics.md)
 * [CSS.6: Bootstrap](css/css.6-bootstrap.md)
-* [1.ICE.CSS - In Class CSS Exercises](css/1.ice.css-in-class-css-exercises/README.md)
-  * [1.ICE.CSS.1: Straits Times CSS](css/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css.md)
-  * [1.ICE.CSS.2: Wikipedia](css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia.md)
-  * [1.ICE.CSS.3: MyTunes](css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes.md)
-  * [1.ICE.CSS.4: Etsy CSS](css/1.ice.css-in-class-css-exercises/1.ice.css.4-etsy-css.md)
-  * [1.ICE.CSS.5: Trombones](css/1.ice.css-in-class-css-exercises/1.ice.css.5-trombones.md)
-  * [1.ICE.CSS.5: Restaurant](css/1.ice.css-in-class-css-exercises/1.ice.css.5-restaurant.md)
-  * [1.ICE.CSS.6: NTU](css/1.ice.css-in-class-css-exercises/1.ice.css.6-ntu.md)
-  * [1.ICE.CSS.7: Zillow](css/1.ice.css-in-class-css-exercises/1.ice.css.7-zillow.md)
-  * [1.ICE.CSS.8: Chase Bank](css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank.md)
-* [1.POCE.CSS - Post-Class CSS Exercises](css/1.poce.css-post-class-css-exercises/README.md)
-  * [1.POCE.CSS.1: Flexbox Docs Page](css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive.md)
-  * [1.POCE.CSS.2: Flexbox Personal Page](css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page.md)
-  * [1.POCE.CSS.3: Bootstrap Columns](css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns.md)
-  * [1.POCE.CSS.4: Bootstrap Adobe](css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
+* [CSS.ICE: In-Class Exercises](css/css.ice-in-class-exercises/README.md)
+  * [CSS.ICE.1: Straits Times CSS](css/css.ice-in-class-exercises/css.ice.1-straits-times-css.md)
+  * [CSS.ICE.2: Wikipedia](css/css.ice-in-class-exercises/css.ice.2-wikipedia.md)
+  * [CSS.ICE.3: MyTunes](css/css.ice-in-class-exercises/css.ice.3-mytunes.md)
+  * [CSS.ICE.4: Etsy CSS](css/css.ice-in-class-exercises/css.ice.4-etsy-css.md)
+  * [CSS.ICE.5: Restaurant](css/css.ice-in-class-exercises/css.ice.5-restaurant.md)
+  * [CSS.ICE.6: NTU](css/css.ice-in-class-exercises/css.ice.6-ntu.md)
+  * [CSS.ICE.7: Zillow](css/css.ice-in-class-exercises/css.ice.7-zillow.md)
+  * [CSS.ICE.8: Chase Bank](css/css.ice-in-class-exercises/css.ice.8-chase-bank.md)
+* [CSS.POCE - Post-Class Exercises](css/css.poce-post-class-exercises/README.md)
+  * [CSS.POCE.1: Flexbox Docs Page](css/css.poce-post-class-exercises/css.poce.1-flexbox-docs-page.md)
+  * [CSS.POCE.2: Flexbox Personal Page](css/css.poce-post-class-exercises/css.poce.2-flexbox-personal-page.md)
+  * [CSS.POCE.3: Bootstrap Columns](css/css.poce-post-class-exercises/css.poce.3-bootstrap-columns.md)
+  * [CSS.POCE.4: Bootstrap Adobe](css/css.poce-post-class-exercises/css.poce.4-bootstrap-adobe.md)
 
 ## 2: Backend Basics
 
@@ -402,11 +401,6 @@
 * [UX.1: Overview](user-experience/ux.1-overview.md)
 * [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
 * [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
-
-## 📅 Old Course Schedule
-
-* [Full Course Day Schedule](old-course-schedule/full-course-day-schedule.md)
-* [FTBC4 Schedule](old-course-schedule/ftbc4-schedule.md)
 
 ## Algorithms (New)
 
