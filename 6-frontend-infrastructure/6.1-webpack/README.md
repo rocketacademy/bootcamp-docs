@@ -1,10 +1,26 @@
 # 6.1: Webpack
 
-## What and Why Webpack
+## What is webpack?
 
-When application front-ends run, `link` and `script` tags run after HTML is retrieved client-side but just before the page loads. This system is inefficient because we already know what CSS and JS files _**every**_ client needs before _**each**_ client requests for a page. Instead of collating CSS and JS files in _**each**_ client, we can pre-process and compile the set of front-end files to distribute before the Express server starts.
+At its core, **webpack** (a JavaScript library) is a static module bundler for modern JavaScript applications. When webpack processes your application, it combines every module your project needs into one or more bundles. These bundles are static assets which your content is served from.&#x20;
 
-We are now building a "back-end" to the front-end JavaScript that runs in the browser, a back-end that does not depend on or interact with our Express.js app. Webpack is the command line tool that pre-processes our front-end files.
+## How does webpack work?
+
+When webpack processes your application, it starts from a list of modules defined on the command line or in its configuration file. Starting from these _entry points_, webpack recursively builds a _dependency graph_ that includes every module your application needs, transforms them if necessary, then bundles all of those modules into a small number of bundles - often, only one - to be loaded by the browser. In other words, webpack pre-processes our files before they are loaded by the browser.&#x20;
+
+_entry point_ - The point from which to start the application bundling process.
+
+_dependency graph_- A dependency graph is a data structure formed by a directed graph (we will cover graphs later on in Algorithms), that describes the dependency of an entity in the system on the other entities of the same system, i.e,  each node points to the node on which it depends.&#x20;
+
+## Why do we use webpack?
+
+1. We don't have to worry about the sequence in which our script tags load, or forgetting to include a particular script tag.
+2. webpack minifies our files, resulting in our files taking up less space.
+3. webpack can also make transformations to our modules before they are bundled, e.g., sass to css, or es6 to es5 that the browser can understand.
+
+_Minification_ - the process of removing all unnecessary characters from JavaScript source code without altering its functionality. This includes the removal of whitespace, comments, and semicolons, along with the use of shorter variable names and functions.&#x20;
+
+
 
 ## Webpack Order of Events
 
@@ -26,7 +42,7 @@ In this section we'll simply demonstrate the mechanics we described above by hav
 
 Create a new folder and install Webpack.
 
-```text
+```
 mkdir webpack-demo
 cd webpack-demo
 npm init -y
@@ -35,7 +51,7 @@ npm install --save-dev webpack webpack-cli
 
 Create folders and files that Webpack will use for compilation.
 
-```text
+```
 mkdir src dist
 touch src/script.js
 touch dist/main.html
@@ -109,7 +125,7 @@ module.exports = {
 
 When we run `webpack` it will transform our `script.js` into `script.js` in the `dist` directory. We specify `--mode=none` to ensure Webpack looks at the right config file. More on `mode` [here](https://webpack.js.org/api/cli/#default-configurations).
 
-```text
+```
 npx webpack --mode=none
 ```
 
@@ -122,4 +138,3 @@ Open `dist/main.html` in the browser without running an Express server. Does our
 ## Further Reading
 
 [https://webpack.js.org/concepts/why-webpack/](https://webpack.js.org/concepts/why-webpack/)
-
