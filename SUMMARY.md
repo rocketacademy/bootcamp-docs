@@ -421,11 +421,12 @@
 
 ## 🌈 CSS Teaching Guide
 
+* [CSS.3: Flexbox](css-teaching-guide/css.3-flexbox.md)
 * [CSS.2.6: Layout: Columns & Cards](css-teaching-guide/css.2.6-layout-columns-and-cards.md)
 
 ## 2: Backend Basics Teaching Guide
 
-* [Page 3](2-backend-basics-teaching-guide/page-3.md)
+* [2.0: Module 2 Setup](2-backend-basics-teaching-guide/page-3.md)
 
 ## 3: Backend Applications Teaching Guide
 
