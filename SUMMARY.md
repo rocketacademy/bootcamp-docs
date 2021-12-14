@@ -426,7 +426,7 @@
 
 ## 2: Backend Basics Teaching Guide
 
-* [2.0: Module 2 Setup](2-backend-basics-teaching-guide/page-3.md)
+* [2.0: Module 2 Overview](2-backend-basics-teaching-guide/2.0-module-2-overview.md)
 
 ## 3: Backend Applications Teaching Guide
 
