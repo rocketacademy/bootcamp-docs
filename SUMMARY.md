@@ -264,7 +264,7 @@
   * [6.1.1: Webpack with Local Modules](6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
   * [6.1.2: Webpack with NPM Modules](6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules.md)
   * [6.1.3: Webpack with Babel](6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel.md)
-  * [6.1.4: Webpack with SASS](6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
+  * [6.1.4: Webpack with CSS, SASS](6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass.md)
   * [6.1.5: Webpack with Express](6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express.md)
   * [6.1.6: Deploy Webpack App to Heroku](6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
 * [6.ICE: In-Class Exercises](6-frontend-infrastructure/6.ice-in-class-exercises/README.md)
