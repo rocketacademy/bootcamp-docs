@@ -58,6 +58,8 @@ Use [Lorem Picsum](https://picsum.photos) to get placeholder images.
 
 [Fontawesome](https://fontawesome.com) makes it easy to put icons on a page using HTML elements and CSS. Read full Fontawesome documentation [here](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
+As the CSS styles link below is based on `v4.7` of Fontawesome, we'll follow the link [here](https://fontawesome.com/v4.7/icons/) to get the icons that you want
+
 #### CSS styles link
 
 ```css
