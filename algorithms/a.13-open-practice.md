@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The following is a list of curated Leetcode problems that we can do on a daily basis after learning DS\&A fundamentals. The problems are taken from the [Top Interview Questions list in Leetcode](https://leetcode.com/problemset/all/?listId=wpwgkgt\&page=1\&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJBQ19SQVRFIn1d), sorted in decreasing acceptance rate, i.e. % of submissions that were accepted on Leetcode.
+The following is a list of curated Leetcode problems we can work on daily after learning algorithms fundamentals. The problems are taken from the [Top Interview Questions list in Leetcode](https://leetcode.com/problemset/all/?listId=wpwgkgt\&page=1\&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJBQ19SQVRFIn1d), sorted in decreasing acceptance rate, i.e. % of submissions that were accepted on Leetcode.
+
+The majority of algorithms interviews Rocket grads have encountered have focused on arrays and hash tables. If you find yourself stuck on a problem focusing on a different data structure, feel free to skip and focus on the array and hash tables problems first.
 
 ## Exercises
 
@@ -225,4 +227,3 @@ The following is a list of curated Leetcode problems that we can do on a daily b
 
 1. [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 2. [https://leetcode.com/problems/coin-change/](https://leetcode.com/problems/coin-change/)
-
