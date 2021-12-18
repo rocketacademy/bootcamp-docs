@@ -163,6 +163,12 @@ We can fix the maximum dimensions of a box with the `flex-basis` style. The left
 
 [https://codepen.io/awongh-sandwich/pen/mdmBJrL](https://codepen.io/awongh-sandwich/pen/mdmBJrL)
 
+{% hint style="info" %}
+There is a difference when setting `flex-basis` for column and for height
+
+Read more about it [here](https://stackoverflow.com/questions/34352140/what-are-the-differences-between-flex-basis-and-width)
+{% endhint %}
+
 ### Flex Sizing
 
 {% embed url="https://www.youtube.com/watch?v=rkXhKgKQ8Vs" %}
