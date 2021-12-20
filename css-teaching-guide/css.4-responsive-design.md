@@ -26,9 +26,30 @@ Answer: It depends...
 </html>
 ```
 
-Demo how adding the `meta` tag helps with the mobile view
+Demo how adding the `meta` tag helps with the mobile view by removing it and adding it back again
 
 Demo the difference when changing the `width=device-width` to `width=500`
+
+### CSS
+
+```css
+@media only screen and (min-width: 768px) {
+	h1 {
+		color: black;
+	}
+}
+```
+
+Demo how media queries work
+
+Discuss how we can have two ways of doing it
+
+1. Use media queries after designing in **mobile view**
+2. Use media queries after designing in **desktop view**
+
+Demo one use case of this
+
+* When a website is only optimised for desktop so you could do a `display: none`
 
 ### Instagram
 
@@ -41,3 +62,7 @@ Make a joke about how FB changed their name because of this tag (i'm kidding ple
 Ask them if they are able to zoom in
 
 Demo on your HTML above how to prevent a user from zooming in by adding `maximum-scale=1`
+
+## Further Reading
+
+[https://www.w3schools.com/cssref/css3\_pr\_mediaquery.asp](https://www.w3schools.com/cssref/css3\_pr\_mediaquery.asp)
