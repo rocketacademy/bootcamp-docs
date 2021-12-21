@@ -107,6 +107,7 @@
   * [CSS.ICE.6: NTU](css/1.ice.css-in-class-css-exercises/1.ice.css.6-ntu.md)
   * [CSS.ICE.7: Zillow](css/1.ice.css-in-class-css-exercises/1.ice.css.7-zillow.md)
   * [CSS.ICE.8: Chase Bank](css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank.md)
+  * [CSS.ICE.9: Selectors](css/1.ice.css-in-class-css-exercises/css.ice.9-selectors.md)
 * [CSS.POCE - Post-Class Exercises](css/1.poce.css-post-class-css-exercises/README.md)
   * [CSS.POCE.1: Flexbox Docs Page](css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive.md)
   * [CSS.POCE.2: Flexbox Personal Page](css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page.md)
