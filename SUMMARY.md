@@ -84,6 +84,7 @@
 ## 🌈 CSS
 
 * [CSS.1: Basic CSS](css/css-1-basic-css.md)
+* [CSS 1.2 CSS Classes and Id's](css/css-1.2-css-classes-and-ids.md)
 * [CSS.2: Layout](css/css.2-layout/README.md)
   * [CSS.2.1: No Layout](css/css.2-layout/css.2.1-no-layout.md)
   * [CSS.2.2: Display: Inline and Block](css/css.2-layout/css.2.2-display-inline-and-block.md)
