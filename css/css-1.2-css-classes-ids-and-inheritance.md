@@ -2,7 +2,7 @@
 description: Applying classes and id's to HTML elements and styling them with CSS
 ---
 
-# CSS 1.2 CSS Classes and Id's
+# CSS 1.2 CSS Classes, Id's and Inheritance
 
 ### Classes
 
@@ -44,4 +44,18 @@ This is how to style an ID in CSS
     }
 ```
 
-The font size of this paragraph with id "unique" will be 25px and its text will be color green. All other properties that don't conflict with these rules will still apply to the paragraph. &#x20;
+The font size of this paragraph with id "unique" will be 25px and its text will be color green.&#x20;
+
+### Inheritance
+
+Inheritance describes how descendant elements inherit certain properties from its parent element. For example, for CSS to style the color of the text and the font-size of all elements on the page, adding these rules to the body selector should do the trick since all other elements are descendants of body in the DOM.
+
+```
+body {
+    color: white;
+    font-size: 20px;
+    }
+```
+
+However, tags that have a set font-size in the browser styles like h1, won't inherit that style since that specific rule is written in the h1 rule and is thus more specific.
+
