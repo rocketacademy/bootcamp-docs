@@ -421,6 +421,7 @@
 
 ## 🌈 CSS Teaching Guide
 
+* [CSS.5: Web Design Basics](css-teaching-guide/css.5-web-design-basics.md)
 * [CSS.3: Flexbox](css-teaching-guide/css.3-flexbox.md)
 * [CSS.4: Responsive Design](css-teaching-guide/css.4-responsive-design.md)
 * [CSS.2.6: Layout: Columns & Cards](css-teaching-guide/css.2.6-layout-columns-and-cards.md)
