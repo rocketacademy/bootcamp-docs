@@ -4,21 +4,21 @@
 
 ### Difficulty Levels
 
-To accommodate individual learning speeds and levels of experience, exercises and projects in Coding Bootcamp may be divided into sections that demarcate the levels of difficulty. 
+To accommodate individual learning speeds and levels of experience, exercises and projects in Coding Bootcamp may be divided into sections that demarcate the levels of difficulty.
 
 #### Base section
 
-Everything in the Base section must be completed in order to have an adequate grasp of the concepts being taught. It is the bare minimum that needs to be done. 
+Everything in the Base section must be completed in order to have an adequate grasp of the concepts being taught. It is the bare minimum that needs to be done.
 
 #### Comfortable
 
-The Comfortable section is for students who have completed the Base section and wish to reinforce what they have learnt before moving on to more complex and challenging exercises. 
+The Comfortable section is for students who have completed the Base section and wish to reinforce what they have learnt before moving on to more complex and challenging exercises.
 
 #### More Comfortable
 
 The More Comfortable section is for students who have completed the Base and Comfortable sections, and wish to push their boundaries.
 
- Students can complete Coding Bootcamp successfully without ever attempting problems in the More Comfortable section, but students that complete More Comfortable exercises may be more valuable in the job market.
+Students can complete Coding Bootcamp successfully without ever attempting problems in the More Comfortable section, but students that complete More Comfortable exercises may be more valuable in the job market.
 
 ### Exercise / Project Strategies
 
@@ -32,7 +32,7 @@ Whenever possible, keep UI and logic code separate. This makes your code easier 
 
 #### Use a project management tool
 
-Project management tools are often used in managing longer-term projects involving multiple people. They can also be used in individual projects to help with things like prioritizing certain tasks and organizing workflow, among other things. 
+Project management tools are often used in managing longer-term projects involving multiple people. They can also be used in individual projects to help with things like prioritizing certain tasks and organizing workflow, among other things.
 
 [Trello](https://trello.com) is a popular, easy-to-use project management tool that we recommend for Coding Bootcamp. [Here](https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work) is a breakdown of how to get started with it.
 
@@ -49,7 +49,7 @@ On any given day in Coding Bootcamp, students will have to do post-class exercis
 To save work from a forked copy of a bootcamp repo to a new repo, follow the instructions below.
 
 1. Create a new, empty repo in GitHub
-2. In your local copy of the `base-node-bootcamp ` repo that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL> is https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and unlink it from `base-node-bootcamp`.
+2. In your local copy of the `base-node-bootcamp` repo that you want to now link to your new repo, run the command `git remote set-url origin <NEW_REPO_HTTPS_URL>`, where `<NEW_REPO_HTTPS_URL> is https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git`. This will link your local repo to the new repo, and unlink it from `base-node-bootcamp`.
 3. Run `git remote -v` to verify that our local repo is linked to the new repo in GitHub
 4. Commit any desired local changes and run `git push`. This will push the current state of the repo to the `origin` remote, which should be the new repo we created.
 
@@ -83,11 +83,11 @@ On days where there are longer post-class exercises or projects due, we will rev
 
 ## Project Scrums
 
-Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). This is simulated during Coding Bootcamp project weeks. Every morning students will take turns sharing the following with each other, thereby making sure that everyone is on-track with their projects.
+Professional tech teams typically operate using [Agile Scrum Methodology](https://www.atlassian.com/agile/scrum). This is simulated during Coding Bootcamp project weeks. Each course day during project weeks students will take turns sharing the following with each other, helping everyone stay on-track with their projects.
 
-1. What was done the day before
-2. Plans for the day
-3. Blockers faced
+1. What did you do between the previous course day and today?
+2. What do you plan to do between today and the next course day?
+3. Do you have any blockers?
 
 ## Project Presentations
 
