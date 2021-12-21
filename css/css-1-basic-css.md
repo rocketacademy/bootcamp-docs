@@ -1,48 +1,135 @@
 # CSS.1: Basic CSS
 
-## Introduction
+### Intro To CSS
 
-We use CSS to style web pages. We will first learn how to apply styles to to HTML elements for basic formatting such as changing colours and sizes. We will later learn about CSS for layout.
+In the beginning was html and only html. But programmers wanted to add styling to their web pages to help distinguish themselves from others on the web. Initially, the answer was no. But in October 1994, Håkon Wium Lie introduced Cascading Style Sheets to the world. Today it is better known as CSS.
 
-## What is CSS
+Built on top of HTML to add more visual control and complexity, CSS specifies styles on an HTML element or set of elements. The CSS code specifies visual properties unrelated to the written content on an HTML page. In practice there are 2 uses for CSS: element styling and layout.
 
-Built on top of HTML to add more visual control and complexity, CSS specifies _styles_ on an HTML element or set of elements. The CSS code specifies visual properties unrelated to the written content on an HTML page. In practice there are 2 uses for CSS: element styling and layout.
+#### Element Styling&#x20;
 
-### **Element Styling**
+CSS helps us change visual properties of HTML elements, such as fonts, background images, or rounded corners on buttons. Together with JS DOM manipulation, we can use CSS to implement visual logic within an application, such as hiding or showing cards and flipping elements 90 degrees. ####Layout CSS can help us divide our UI into visual sections. This is one of the most tricky aspects of CSS, because CSS was not originally intended for layout design. CSS content in RA's Bootcamp will focus on implementing UI layouts.
 
-CSS helps us change visual properties of HTML elements, such as fonts, background images, or rounded corners on buttons. Together with JS DOM manipulation, we can use CSS to implement visual logic within an application, such as hiding or showing cards and flipping elements 90 degrees.
+### How CSS Works&#x20;
 
-### **Layout**
+CSS is a declarative language. It doesn't tell the browser what to do but rather describes the rules that the browser then uses to render the page. CSS became popular because it was predictable and forgiving in its syntax. It was also easy to learn.\
+The concept of cascading styles is unique to CSS. To cascade means that styles can inherit and overwrite styles through its hierarchy called specificity. More on that in section 2. This concept also allowed for many style sheets to be applied to one page. That is what made CSS so popular.
 
-CSS can help us divide our UI into visual sections. This is one of the most tricky aspects of CSS, because CSS was not originally intended for layout design. CSS content in RA's Bootcamp will focus on implementing UI layouts.
+As a declarative language, CSS uses selectors and declarations to apply styling rules to HTML pages. The syntax for CSS starts with a selector which tells the browser the rules for styling the selected elements. Then a code block is created using open and closing curly braces. Inside the code block declarations or rules are created. A declaration is made up of a property name followed by a colon and then the value of the property followed by a semi-colon. You can have as many declaration statements as needed. It is the standard to put each declaration on its own line in code. The semi-colon tells the browser that the end of the line is reached so be sure to add it at the end of every declaration.
 
-## DevTools
+#### Sample Syntax
 
-A significant amount of CSS development happens in Chrome's DevTools. The Elements tab in DevTools is our primary tool to fine-tune and debug CSS.
+```css
+selector{
+	property: value;
+}
+```
 
-### Styles Pane in Elements Tab
+There are three places where CSS styling can occur:
 
-![](../.gitbook/assets/dt-css-main.jpg)
+1. in-line
+2. internal
+3. external.
 
-We saw how to inspect an element in [Module 1.1.1: Basic HTML](../1-frontend-basics/1.1-html/1.1.1-basic-html.md). When we select an HTML element in DevTools the CSS styles applied to that element appear in the Styles pane.
+#### In-Line Styling
 
-### Element / Style Inspection
+**In-line styling** is written inside the HTML opening tag as an attribute-value pair. Like this:
 
-![](../.gitbook/assets/dt-css-hover.jpg)
+```html
+<p style=“color: red;”> This text would be red </p>
 
-Hovering over an HTML element in the HTML pane shows us style information like pixel dimensions of the element. The Styles pane shows us CSS precedence of styles on the element (higher precedence on top), and the CSS file name and line number where each style rule came from. In the above example, we see the styles for the `announce` class, the `h1` style from our CSS file, then the default `h1` browser (user agent typically refers to the user's browser) styles in decreasing order of precedence.
+```
 
-### Toggle Style
+If more than one style declaration is applied:
 
-![](../.gitbook/assets/dt-css-check.jpg)
+```html
+<p style=“color: red; font-weight: bold;”> This text is red and bold</p>
 
-A checkbox will appear when we mouse over any style rule in the Styles pane. This toggles that style rule on and off.
+```
 
-### Edit CSS
+#### Internal Styling
 
-![](../.gitbook/assets/dt-css-add.jpg)
+**Internal styling** is placed inside the head tag of the page and is wrapped inside the style tag. In this example, the selector of p is chosen to style all the paragraph tags on the page.
 
-We can edit CSS in the Styles pane for any HTML element to test styles on the current page. This is helpful for fine-tuning and debugging our CSS. Once we have found a set of styles that works, we can then write those styles in our CSS files in VSCode for more permanent storage. Changes we make to CSS in our browsers do not persist across page loads.
+```html
+<html>
+   <head>
+      <title> Page Title </title>
+ 		  <style>
+			  p{			
+	  			 color: white;
+			   }
+		  </style>
+	</head>
+	<body>
+		<p> This text is white </p>
+	</body>
+</html>
+```
+
+#### External Styling
+
+**External styling** links a css stylesheet to the HTML page. This is done by adding a link tag in the head of the HTML file.
+
+```html
+<link src=“style.css” rel=“type/stylesheets” />
+
+```
+
+The stylesheet would contain the same css coding that would be put in the head directly.
+
+**External Styling is the standard and should always be used.** The other two ways should seldom if ever be used.
+
+## CSS Example&#x20;
+
+In these examples, we will be using internal styling as it makes it easier for teaching purposes. However, in the coding world, all css should be externally linked to the html page.
+
+Remember that every browser has a CSS engine and that engine has default declarations for HTML elements. So to change the look of an h2 tag requires that a declaration block be made to apply new rules to the h2 tags in the file. Let's start with the following file.
+
+```html
+<html>
+   <head>
+      <title> Page Title </title>
+  	</head>
+	<body>
+		<h2> Styling H2 tags </h2>
+	</body>
+```
+
+Copy and paste the above code snipet and save the file as index.html. Then open the file in a browser and notice how the text looks.
+
+Next insert the following code just after the title tag and just above the closing head tag.
+
+```html
+	<style>
+		h2 {
+			background-color: blue;
+			color: white;
+		}
+	</style>
+```
+
+This code targets all h2 tags in the file and makes the background-color blue and the color of the text white.
+
+Refresh your browser and you should see that the h2 has a blue background-color and white text.
+
+### Selector Combinations
+
+So far we have been looking at a single selector and applying declarations for that element. CSS offers many ways to target more than one element or get very specific about which element to style using selector combinations.
+
+Below is a table that shows how to use different selector combinations and the elements they target.
+
+|   Selector Type  |     Example     | Explanation                                                     |
+| :--------------: | :-------------: | --------------------------------------------------------------- |
+|     universal    |        \*       | Targets all elements                                            |
+|      single      |        p        | Targets all p tags                                              |
+|     multiple     |    p , h1, h3   | Targets p, h1 and h3 tags                                       |
+|    descendant    |      div p      | Targets p tags that are descendants of a div                    |
+|       child      |     div > p     | Targets p tags that are immediate children of a div             |
+| adjacent sibling |      h2 + p     | Targets p tag that is immediately adjacent to an h2 tag         |
+|     attribute    | \[attr="value"] | Targets elements that contain the specified attribute and value |
+|       class      |   .class\_name  | Targets all elements with the class of class\_name              |
+|        id        |    #id\_name    | Targets the one element with the id of id\_name                 |
 
 ## Exercise Tips / Cheatsheet
 
