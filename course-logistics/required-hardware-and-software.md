@@ -109,7 +109,7 @@ Follow the install instructions at: [https://brew.sh/](https://brew.sh)
 Install Node.js using Homebrew.
 
 ```
-brew install node
+brew install node@14
 ```
 
 ## VSCode Formatters
