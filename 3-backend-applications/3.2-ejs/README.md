@@ -53,7 +53,7 @@ Our server apps will have the following file structure.
     └── public
        └── styles.css
     └── views
-       └── index.ejs
+       └── fruit.ejs
 ```
 
 #### index.js
@@ -136,5 +136,5 @@ Occasionally we may wish to comment out the `*.ejs` line in `.prettierignore` fo
 ## Exercise
 
 1. Create a server with the above code and return HTML with EJS templating.
-2. Add an `h1` element to `index.ejs` and fill it with another attribute in the `data` object.
+2. Add an `h1` element to `fruit.ejs` and fill it with another attribute in the `data` object.
 3. Create a new route with a path param like `/fruits/:name`. Inject the path param value in the response HTML by adding the param to the `data` object, then referencing it in the EJS template.
