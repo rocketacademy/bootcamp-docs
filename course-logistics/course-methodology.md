@@ -126,10 +126,14 @@ Please keep track of post-mortem notes because they can be helpful for compiling
 
 Congrats on a job well done! You'll now create a short video to help showcase your hard work.
 
+{% hint style="info" %}
+No need to record a video for project 1, video poker.
+{% endhint %}
+
 ### Requirements
 
-1. Demo your app in a 2-3 minute video
-2. Explain what your app does and how a user would use the app.
+1. Demo your app in a 1-2 minute video (brevity is best!)
+2. Explain who your app is for, what your app does and how a user would use the app.
 3. Explain features of the app in the context of what the user wants to accomplish and why they want to accomplish it.
 4. The video _**should not go into any technical details**_ that would be incomprehensible to someone non-technical.
 
@@ -147,3 +151,11 @@ Use Zoom to record the video locally on your computer. It will record you and yo
 
 1. Upload it to YouTube. Embed the video in your project README.md file.
 2. Put the video file in your project repo, commit the file and push it to GitHub.
+
+## Previous Examples
+
+[https://www.youtube.com/watch?v=466AbXvMdzc](https://www.youtube.com/watch?v=466AbXvMdzc)\
+\
+[https://www.youtube.com/watch?v=JjHM96XIXjs](https://www.youtube.com/watch?v=JjHM96XIXjs)\
+\
+[https://www.youtube.com/watch?v=RxihjXRp7cQ](https://www.youtube.com/watch?v=RxihjXRp7cQ)
