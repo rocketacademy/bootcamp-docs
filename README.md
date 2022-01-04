@@ -39,6 +39,14 @@ Rocket's Bootcamp syllabus is divided into 10 modules (listed in the table below
 | 5       | [Advanced Full-Stack React App (Group Project)](projects/project-5-group-react-app.md) |
 | 6       | [Capstone](projects/project-6-capstone.md)                                             |
 
+### Project Requirements
+
+The goal of each project is to demonstrate working knowledge of the the concepts learned in the previous modules.
+
+Project completion is a requirement to continue in bootcamp.
+
+If any project is not completed up to the given project requirements, that student may no longer be eligible to continue in bootcamp.
+
 ## Schedule
 
 Students are expected to spend a minimum of 8 hours a day (ideally from 10am-6pm) on weekdays on coursework. This includes the 2 hours of live sessions from 10am-12pm GMT+8 and the 1 hour of [Rocket Q\&A](course-logistics/rocket-q-and-a.md) typically from 12-1pm GMT+8 on Wednesdays.
