@@ -154,6 +154,10 @@ Use Zoom to record the video locally on your computer. It will record you and yo
 
 ## Previous Examples
 
+{% hint style="info" %}
+These videos are longer than 1-2 minutes, but please try to make your own videos within the 2 minute limit.
+{% endhint %}
+
 [https://www.youtube.com/watch?v=466AbXvMdzc](https://www.youtube.com/watch?v=466AbXvMdzc)\
 \
 [https://www.youtube.com/watch?v=JjHM96XIXjs](https://www.youtube.com/watch?v=JjHM96XIXjs)\
