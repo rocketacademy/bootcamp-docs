@@ -8,8 +8,9 @@ Software Engineering Bootcamp is Rocket Academy's flagship career conversion cou
 
 1. [Full Time Batch 4](https://rocketacademy.github.io/scheduler/#/schedules/ftbc4)
 2. [Full Time Batch 5](https://rocketacademy.github.io/scheduler/#/schedules/ftbc5)
-3. [Part Time Batch 1](https://rocketacademy.github.io/scheduler/#/schedules/ptbc1)
-4. [Part Time Batch 2](https://rocketacademy.github.io/scheduler/#/schedules/ptbc2)
+3. [Full Time Batch 6](https://rocketacademy.github.io/scheduler/#/schedules/ftbc6)
+4. [Part Time Batch 1](https://rocketacademy.github.io/scheduler/#/schedules/ptbc1)
+5. [Part Time Batch 2](https://rocketacademy.github.io/scheduler/#/schedules/ptbc2)
 
 ## Syllabus
 
