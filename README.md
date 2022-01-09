@@ -116,7 +116,14 @@ and are developed alongside one another.
 
 **Linear learning to build a foundation. Gestalt learning to expand.**
 
-Linear learning in the first half trains you in the key foundational areas layer by layer until you: Have a basic understanding of how software and the internet works reach a maturity that you can define and learn new things independently. Gestalt thinking refers to learning many small things and putting them together into a big idea/project. The second half trains you in selected technologies commonly used in the industry. These are disjoint tools that you can use as needed. We do linear learning in the first foundational part of the course, building up to a final web-application form. We do linear learning in non-project sections of the program by building proscribed applications with specific requirements. We do Gestalt thinking in the second part of the program by putting together the different parts of the system we’ve created. We do Gestalt thinking during projects by encouraging independent work as a summation of previous linear work.
+_**Linear learning**_ in the first half trains you in the key foundational areas layer by layer until you: Have a basic understanding of how software and the internet works reach a maturity that you can define and learn new things independently.
+
+_**Gestalt thinking**_ refers to learning many small things and putting them together into a big idea/project. The second half trains you in selected technologies commonly used in the industry. These are disjoint tools that you can use as needed.
+
+* We do linear learning in the first foundational part of the course, building up to a final web-application form.
+* We do linear learning in non-project sections of the program by building proscribed applications with specific requirements.
+* We do Gestalt thinking in the second part of the program by putting together the different parts of the system we’ve created.
+* We do Gestalt thinking during projects by encouraging independent work as a summation of previous linear work.
 
 ## Bootcamp Structure
 
