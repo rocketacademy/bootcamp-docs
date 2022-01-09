@@ -12,6 +12,155 @@ Software Engineering Bootcamp is Rocket Academy's flagship career conversion cou
 4. [Part Time Batch 1](https://rocketacademy.github.io/scheduler/#/schedules/ptbc1)
 5. [Part Time Batch 2](https://rocketacademy.github.io/scheduler/#/schedules/ptbc2)
 
+# Learning Objectives
+
+## Hard Technical
+
+#### Gain proficiency in specific technologies that employers are looking for
+
+- Javascript ES5 & Browser DOM (Document Object Model)
+- CSS & HTML
+- ES6
+- Nodejs & System-level runtime-environments
+- Nodejs and ESModules, code modularity with NPM
+- HTTP & HTTP file servers
+- Express.js and data-backed RESTful web applications
+- SQL and ORM (Object Relational Mapping) libraries (Sequelize)
+- MVC architecture
+- AJAX
+- Webpack
+- React.js
+- React data-handling and Create React App package
+
+## Soft Technical
+
+#### Have a deeper understanding of the act of software development
+
+Expertise in specific technologies is only one aspect of being able to write high-quality software. Topics such as system design and architecture, basic CS knowledge and code fluency are extremely important for employers to distinguish between candidates.
+
+- Algorithms
+- Code format best practices
+- Database design
+- HTTP / Internet fundamentals
+- Runtime environment fundamentals w/ Node.js
+- Javascript runtime fundamentals, callback and asynchronous behaviours
+- Web Authentication
+- Web 2.0 architecture
+- Modern full-stack web application evolution and architecture
+- Minimum Viable Product & Lean Startup methodologies
+- Agile software development workflows
+- Git & version control workflows & best practices
+- UX & product / user-centered development
+- Code refactoring
+- Web application security principles
+- Googling
+
+## Soft Skills
+
+#### A strong software engineer is not just good with code, they are good with people.
+
+Good engineers can communicate their ideas clearly to a range of stakeholders- e.g, technical discussions with other developers, or non-technical discussions with designers, marketers or business people. They have empathy to work well with others. Understand that software specifications are written for humans and by humans.
+
+- Pair Programming
+- Code reading
+- Code reviews
+- Video demos
+- Technical documentation
+- Project Presentations
+- Project / software development time estimation & time management
+- Group work, project specifications & code collaboration
+- Project completeness & polish
+- Technical Interviews
+
+## Curiosity and an eagerness to learn
+
+#### Cultivate the  ability to solve new problems and formulate questions.
+
+It is normal not to understand things. A software engineer is not afraid to ask questions. We seek to develop an awareness of what you know and what you don’t know, so you can ask more intelligent questions to further your learning.
+
+- Practice asking questions
+- Practice formulating product specifications
+- Pair Programming
+- Practice designing applications at all levels of the process
+- Understanding Project / Exercise Requirements
+- Dealing with requirement ambiguity
+- Practicing how to google / use the internet to gather information
+
+
+# Principles
+
+#### Spark curiosity, don’t provide a rabbit hole.
+
+In an effort to create T-Shaped individuals, our materials go 2 levels deep. It is then your curiosity that will take you deeper, especially in the projects.
+
+#### Get it working first, then gain a deeper understanding.
+
+Projects and Exercises have base targets, then expand into comfortable / more comfortable levels.
+
+#### Finding and fixing bugs is a skill to be shared.
+
+We use pair programming to help students develop communication skills, as well as develop the skill of reading other people’s code.
+
+#### Understanding the WHY, helps you understand the WHAT and HOW.
+
+To create depth and a general awareness of the Web Development industry, the materials are arranged in a sort of chronological order of Web 1.0 to Web 2.0. The history of JS is particularly interesting, as it has been a work in progress for over 20 years.
+
+#### Reading Code, Writing Code, Googling Code, and Modifying code are separate skills
+
+and are developed alongside one another.
+
+#### Linear learning to build a foundation. Gestalt learning to expand.
+
+Linear learning in the first half trains you in the key foundational areas layer by layer until you:
+Have a basic understanding of how software and the internet works
+reach a maturity that you can define and learn new things independently.
+Gestalt thinking refers to learning many small things and putting them together into a big idea/project. The second half trains you in selected technologies commonly used in the industry. These are disjoint tools that you can use as needed.
+We do linear learning in the first foundational part of the course, building up to a final web-application form.
+We do linear learning in non-project sections of the program by building proscribed applications with specific requirements.
+We do Gestalt thinking in the second part of the program by putting together the different parts of the system we’ve created.
+We do Gestalt thinking during projects by encouraging independent work as a summation of previous linear work.
+
+# Bootcamp Structure
+
+## Module 1: Basics Cont’d
+
+This part of the program is mostly a continuation of the work done in Coding Basics, with the pace and technical complexity increased to Bootcamp levels.
+
+- Expand upon basics work to understand the wider context of JavaScript in the browser.
+- Ramp up the complexity of programs we write.
+- Introduce new levels of program abstraction, representation & complexity.
+- Create mobile-responsive web layouts with CSS
+
+## Module 2,3,4,5: Web Application Fundamentals
+
+The part of the program builds knowledge of web applications from the ground up, starting with running a simple one-line program and building up to a complex internet and data-backed application. Even though some of the content is not the latest industry-relevant technologies, these modules provide fundamental knowledge and practice in how the disparate parts of modern web applications are constructed, by constructing one yourself, piece-by-piece.
+
+- Introduce system-level runtime environment with Node.js
+- Introduction to HTTP & Internet fundamentals
+- Database & data storage fundamentals
+- Web authentication
+- Backend application fundamentals with NPM
+- Web 2.0 full-stack architecture
+- MVC
+- Cloud deployment with AWS
+
+## Module 6,7: Modern Web Application Fundamentals, Core Libraries & Architectures
+
+These modules transition towards a modern, full-stack application by adding on necessary layers to encapsulate and abstract parts of the system we had previously constructed “by hand”.
+
+- Modern web-application architecture with Webpack
+- Managed cloud deployment with Heroku
+- React.js front-end DOM libraries & architecture
+
+## Module 8: Final Form
+
+This module is the summation of all previous material, culminating in the final form of our app, incorporating the latest libraries and technologies.
+
+- Front-end & Backend isolation with Create React App
+- Front-end state management with reducers
+- Popular React Libraries
+
+
 ## Syllabus
 
 Rocket's Bootcamp syllabus is divided into 10 modules (listed in the table below). Each module covers key topics in software engineering that are highly relevant in today's industry. Our course schedules and content are subject to minor alterations as we strive to fulfil the changing needs of our students and the industry.
