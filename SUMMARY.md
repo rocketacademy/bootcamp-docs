@@ -74,6 +74,7 @@
   * [1.ICE.1: Drawing DOM](1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom.md)
   * [1.ICE.2: Timeout / High Card Redux](1-frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux.md)
   * [1.ICE.3: setInterval](1-frontend-basics/1.ice-in-class-exercises/1.ice.3-setinterval.md)
+  * [1.ICE.1.1 Style Noodle Site](1-frontend-basics/1.ice-in-class-exercises/1.ice.1.1-style-noodle-site.md)
 * [1.POCE: Post-Class Exercises](1-frontend-basics/1.poce-post-class-exercises/README.md)
   * [1.POCE.1: Noodle Recipe Website](1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles.md)
   * [1.POCE.2: High Card DOM](1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom.md)
