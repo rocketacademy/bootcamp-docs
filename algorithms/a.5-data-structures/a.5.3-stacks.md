@@ -2,6 +2,14 @@
 
 ![stack meme](../../.gitbook/assets/stack_meme.jpeg)
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with stack functionality time and space complexity
+* understand the difference between LIFO and FIFO
+* understand the python stack class example
+
 ## Introduction
 
 SImilar to hash tables, we are going to be employing the concept of a stack data structure to work with certain kinds of data. A stack is a data structure that supports adding and removing only from the end/top of the stack. They are often referred to as a FILO \(first in last out\) or LIFO \(last in first out\) data structure.

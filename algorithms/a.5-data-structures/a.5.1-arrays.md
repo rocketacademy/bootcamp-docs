@@ -2,6 +2,14 @@
 
 ![array meme](../../.gitbook/assets/array-meme.gif)
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with array functionality time and space complexity
+* understand new python array slice syntax
+* understand how the basic syntax of Leetcode problems work
+
 ## Introduction
 
 Many of us will be familiar with arrays since we started using them in Coding Basics. This module will focus on Python-specific array syntax and array-specific practice problems.

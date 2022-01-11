@@ -1,5 +1,15 @@
 # A.4.1 Introduction to Algorithm Problems
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with the basic format of algorithm problems
+* be familiar with the solutions to basic algorithm problems
+* understand how algo challenge sites like Leetcode and Hacker Rank work and how to use them
+
+## Introduction
+
 Algorithm questions are a subset of programming in that the question that is asked is usually one-dimensional. It has a right and wrong answer, and a preferable and less preferable way to solve the problem. This constrained problem space is a more "pure" form of programming without any system engineering considerations or users.
 
 In order to have a specific, testable solution algorithm questions must be formulated in a precise math problem-like language. Reading the question and understanding the phrasing may be one of the main challenges.

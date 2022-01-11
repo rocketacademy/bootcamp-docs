@@ -2,6 +2,14 @@
 
 ![](../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with queue functionality time and space complexity
+* understand the difference between LIFO and FIFO
+* understand the python queue class example
+
 ## Introduction
 
 Queues are similar to stacks except instead of removing elements from the end of a list, we can only remove elements from the front of a list. Instead of push and pop operations, queues have "enqueue" and "dequeue" operations respectively. Enqueue adds an element to the back of a queue, and dequeue removes an element from the front of a queue. Queues are FIFO- First In First Out.

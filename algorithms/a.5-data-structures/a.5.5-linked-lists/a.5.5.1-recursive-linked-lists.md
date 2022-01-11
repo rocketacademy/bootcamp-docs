@@ -2,6 +2,21 @@
 
 [https://www.geeksforgeeks.org/recursive-insertion-and-traversal-linked-list/](https://www.geeksforgeeks.org/recursive-insertion-and-traversal-linked-list/)
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* understand the implementation of linked list iteration in recursion
+
+## Introduction
+
+An intuitive way to implement recursion is to do it on a data structure that's already familiar. Using a recusive function to iterate over a linked list makes a lot of sense becuase:
+
+* we repeat the same action at each node
+* there's clear logic for ending the iteration
+
+The code for what is happening when the recursive function runs is very eleganty expressed.
+
 ```python
 # Recursive Python3 program to
 # recursively insert a node and

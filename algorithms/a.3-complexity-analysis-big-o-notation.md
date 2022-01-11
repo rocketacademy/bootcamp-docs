@@ -1,5 +1,13 @@
 # A.3: Complexity Analysis, Big-O Notation
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with Big-O
+* understand how space and time complexity is calculated
+* be familiar with the common complexity functions and their ranking order
+
 ## Introduction
 
 After you finish writing some code, how can you describe how fast it is? How can you describe how much memory your code takes up?

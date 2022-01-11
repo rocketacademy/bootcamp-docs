@@ -2,9 +2,18 @@
 
 ![](../../.gitbook/assets/trees.jpeg)
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with what a tree data structure is
+* understand the python implementation of a tree data structure
+* be familiar with the different tree traversal algorithms
+* be familiar with the time and space complexity of tree traversal algorithms
+
 ## Introduction
 
-Trees are a common data structure used to represent hierarchical data, often seen in DS\&A problems. Trees are essentially linked lists where nodes are ordered from top to bottom instead of left to right, and each node can have more than 1 subsequent node, called **"child nodes"** in trees. Each child node can only have 1 **"parent node"**, and nodes with no child nodes are called **"leaf nodes"**. Nodes in trees generally contain a data payload (e.g. a number), and pointers to each respective child node.
+Trees are a common data structure used to represent hierarchical data, often seen in DS\&A problems. Trees are essentially linked lists where nodes are oriented from top to bottom instead of left to right, and each node can have more than 1 subsequent node, called **"child nodes"** in trees. Each child node can only have 1 **"parent node"**, and nodes with no child nodes are called **"leaf nodes"**. Nodes in trees generally contain a data payload (e.g. a number), and pointers to each respective child node.
 
 ## Helpful Resources
 
@@ -19,6 +28,8 @@ The 2 most common methods of tree traversal are Depth-First Search (DFS) and Bre
 ### Depth-First Search (DFS)
 
 ![](<../../.gitbook/assets/image (1).png>)
+
+### Time Complexity: _`O(V+E)`_ where V is all the vertexes in the tree and E are all the edges.
 
 Most vanilla recursion applies DFS. For example, the naive Fibonacci implementation of Fib(n) might solve the entire Fib(n-1) subtree before recursing on Fib(n-2). The following is an example of DFS that returns `True` if the value `x` is within a tree, false if not.
 
@@ -108,6 +119,8 @@ def post_order_traversal(node):
 ### Breadth-First Search (BFS)
 
 ![](../../.gitbook/assets/image.png)
+
+### Time Complexity: _`O(V+E)`_ where V is all the vertexes in the tree and E are all the edges.
 
 BFS is a fancier form of tree traversal that typically involves queues. As a recap of BFS, consider the following `level_order` traversal solution from RA's tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
 

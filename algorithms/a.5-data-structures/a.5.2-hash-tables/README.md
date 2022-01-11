@@ -2,6 +2,13 @@
 
 ![hash browns](../../../.gitbook/assets/hashbrowns.png)
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with hash functionality time and space complexity
+* understand some basic python algorithm techniques with hashes
+
 ## Introduction
 
 This section will eventually discuss the Hash Table, which is an abstract computer science data structure.

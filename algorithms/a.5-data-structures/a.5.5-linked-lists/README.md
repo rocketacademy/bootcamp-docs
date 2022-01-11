@@ -2,6 +2,14 @@
 
 ![](../../../.gitbook/assets/llmeme2.jpeg)
 
+## Learning Objectives
+
+By the end of this lesson, you should:
+
+* be familiar with linked list functionality time and space complexity
+* understand what a pointer is within the examples
+* understand the mechanics of linking and unlinking a linked list node
+
 ## Introduction
 
 Linked lists, like arrays, store ordered lists of data. Unlike arrays, linked lists may not be stored in contiguous blocks of memory in RAM. Consecutive elements in a linked list may be stored in different places in RAM, but linked by a pointer from each element in the linked list to the next and/or previous element. This means 2 things for us.
