@@ -1,6 +1,6 @@
 # A.5.6: Trees
 
-![](../../.gitbook/assets/trees.jpeg)
+![](../../../.gitbook/assets/trees.jpeg)
 
 ## Learning Objectives
 
@@ -15,10 +15,36 @@ By the end of this lesson, you should:
 
 Trees are a common data structure used to represent hierarchical data, often seen in DS\&A problems. Trees are essentially linked lists where nodes are oriented from top to bottom instead of left to right, and each node can have more than 1 subsequent node, called **"child nodes"** in trees. Each child node can only have 1 **"parent node"**, and nodes with no child nodes are called **"leaf nodes"**. Nodes in trees generally contain a data payload (e.g. a number), and pointers to each respective child node.
 
+## Tree Example
+
+```
+class Node:
+  def __init__(self, value):
+    self.value = value
+    self.left = None
+    self.right = None
+
+# Creating a binary tree
+root0 = Node(3)
+root0.left = Node(1)
+root0.right = Node(2)
+root0.left.left = Node(3)
+root0.left.right = Node(4)
+root0.right.left = Node(5)
+root0.right.right = Node(3)
+#      3
+#    /   \
+#   1     2
+#  / \   / \
+# 3   4 5   3
+
+print(root0)
+```
+
 ## Helpful Resources
 
 1. [This](https://www.youtube.com/watch?v=qH6yxkw0u78) video is a clear and concise intro to basic concepts regarding trees.
-2. Read pages 112-115 in the [Cracking the Coding Interview PDF](../a.0-algorithms-overview.md#resources).
+2. Read pages 112-115 in the [Cracking the Coding Interview PDF](../../a.0-algorithms-overview.md#resources).
 3. [FTBC3's class video](https://youtu.be/3Dw3spVIk1w?t=297) when we introduced trees.
 
 ## Tree Traversals
@@ -27,7 +53,7 @@ The 2 most common methods of tree traversal are Depth-First Search (DFS) and Bre
 
 ### Depth-First Search (DFS)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 ### Time Complexity: _`O(V+E)`_ where V is all the vertexes in the tree and E are all the edges.
 
@@ -52,7 +78,7 @@ Certain tree problems are better solved if we can manipulate the order in which 
 
 #### **Pre-Order Traversal**
 
-**Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree (described below)](a.5.6-trees.md#binary-search-trees).
+**Pre-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as searching a [binary search tree (described below)](./#binary-search-trees).
 
 1. Parent
 2. Left Child
@@ -74,7 +100,7 @@ def pre_order_traversal(node):
 
 #### In-Order Traversal
 
-**In-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as printing the values in a [binary search tree](a.5.6-trees.md#binary-search-trees) in ascending order.
+**In-Order Traversal** implies visiting nodes in the following order. This is helpful in situations such as printing the values in a [binary search tree](./#binary-search-trees) in ascending order.
 
 1. Left Child
 2. Parent
@@ -118,7 +144,7 @@ def post_order_traversal(node):
 
 ### Breadth-First Search (BFS)
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 
 ### Time Complexity: _`O(V+E)`_ where V is all the vertexes in the tree and E are all the edges.
 
@@ -204,7 +230,7 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 
 ### Part 5
 
-See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-order-and-post-order-traversal) above for a recap on the various traversal orderings. For non-binary trees that can have more than 2 children, when we iterate through an array of children we are typically iterating from left to right children.
+See [Pre-Order, In-Order, and Post-Order section](./#pre-order-in-order-and-post-order-traversal) above for a recap on the various traversal orderings. For non-binary trees that can have more than 2 children, when we iterate through an array of children we are typically iterating from left to right children.
 
 1. [https://leetcode.com/problems/n-ary-tree-postorder-traversal/](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 2. [https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
@@ -226,7 +252,7 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
 
 1. [https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
    1. Here's an [intuitive explanation of binary numbers](https://www.mathsisfun.com/binary-number-system.html).
-   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA_vkpE?t=2372).
+   2. Kai also explained binary numbers in a [prior FTBC3 class here](https://youtu.be/qewAXA\_vkpE?t=2372).
 2. [https://leetcode.com/problems/two-sum-iv-input-is-a-bst/](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 3. [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
    1. RA solution code (naive solution without pruning): [https://pastebin.com/5eGrpPSq](https://pastebin.com/5eGrpPSq)
@@ -262,10 +288,10 @@ See [Pre-Order, In-Order, and Post-Order section](a.5.6-trees.md#pre-order-in-or
       4. `abs(root.val - minValInRightSubtree))`
 8. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
    1. RA solution code: [https://pastebin.com/a2buQJxv](https://pastebin.com/a2buQJxv)
-   2. [Solution video](https://youtu.be/AMpseCEX6_A?t=2147) from FTBC3's class
+   2. [Solution video](https://youtu.be/AMpseCEX6\_A?t=2147) from FTBC3's class
 9. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
    1. Rocket Academy solution code: [https://pastebin.com/wWYXg309](https://pastebin.com/wWYXg309)
-   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU_f4?t=4088](https://youtu.be/SeNfZBAU_f4?t=4088)
+   2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU\_f4?t=4088](https://youtu.be/SeNfZBAU\_f4?t=4088)
 10. [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
 11. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) (Medium)
 12. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)
