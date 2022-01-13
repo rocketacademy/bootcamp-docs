@@ -49,6 +49,7 @@
   * [0.8.2: Try Catch](0-language-and-tooling/0.8-js-promises/0.8.2-try-catch.md)
   * [0.8.3: Async/Await](0-language-and-tooling/0.8-js-promises/0.8.3-async-await.md)
 * [0.9: VSCode Node Debugger](0-language-and-tooling/0.9-node-debugger.md)
+* [0.10: Introduction to Classes](0-language-and-tooling/0.10-introduction-to-classes.md)
 * [0.ICE: In-Class Exercises](0-language-and-tooling/0.ice-in-class-exercises/README.md)
   * [0.ICE.1: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
 
