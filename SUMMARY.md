@@ -17,6 +17,7 @@
 * [Group Work](course-logistics/group-work.md)
 * [LinkedIn Education Badge](course-logistics/linkedin-education-badge.md)
 * [Recommended Resources](course-logistics/recommended-resources.md)
+* [Sharing Code with Classmates](course-logistics/sharing-code-with-classmates.md)
 
 ## 🏞 Projects
 

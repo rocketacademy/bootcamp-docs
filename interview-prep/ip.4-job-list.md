@@ -16,10 +16,10 @@ If you have not received an invitation from Rocket to join Huntr, please let you
 
 To start, find 20 jobs you are interested in using the methods described in [CP.1: Job Application Strategy](ip.1-job-application-strategy.md#how-will-you-find-the-jobs-youre-looking-for). Compile these jobs in your Huntr Board.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 ## Track Job Applications
 
 Track every interview in Huntr by adding Activities to the companies we interview with to help the Rocket Jobs Team guide you.&#x20;
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
