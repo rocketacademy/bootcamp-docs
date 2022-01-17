@@ -35,13 +35,13 @@ Imagine a database setup with the following ERD:
 
 {% tabs %}
 {% tab title="SQL" %}
-```
+```javascript
 // Some code using SQL
 ```
 {% endtab %}
 
 {% tab title="Sequelize" %}
-```
+```javascript
 // Some code using Sequelize
 ```
 {% endtab %}
@@ -51,13 +51,13 @@ Imagine a database setup with the following ERD:
 
 {% tabs %}
 {% tab title="SQL" %}
-```
+```javascript
 // Some code using SQL
 ```
 {% endtab %}
 
 {% tab title="Sequelize" %}
-```
+```javascript
 // Some code using Sequelize
 ```
 {% endtab %}
@@ -67,13 +67,13 @@ Imagine a database setup with the following ERD:
 
 {% tabs %}
 {% tab title="SQL" %}
-```
+```javascript
 // Some code using SQL
 ```
 {% endtab %}
 
 {% tab title="Sequelize" %}
-```
+```javascript
 // Some code using Sequelize
 ```
 {% endtab %}
