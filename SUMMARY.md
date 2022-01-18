@@ -104,7 +104,7 @@
 * [CSS.5: Web Design Basics](css/css.5-web-design-basics.md)
 * [CSS.6: Bootstrap](css/css.6-bootstrap.md)
 * [CSS.ICE: In-Class Exercises](css/1.ice.css-in-class-css-exercises/README.md)
-  * [CSS.ICE.1: Straits Times CSS](css/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css.md)
+  * [CSS.ICE.1: Personal Portfolio Site](css/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css.md)
   * [CSS.ICE.2: Wikipedia](css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia.md)
   * [CSS.ICE.3: MyTunes](css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes.md)
   * [CSS.ICE.4: Etsy](css/css.ice-in-class-exercises/css.ice.4-etsy.md)
