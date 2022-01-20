@@ -87,7 +87,7 @@ Category.findByPk(5);
 ```javascript
 // Create
 INSERT INTO "categories" (id, name, createdAt, updatedAt)
-VALUES (1, 'music', '2022-01-15', '2022-01-17');
+VALUES (1, 'music', NOW(), NOW());
 
 // UPDATE
 UPDATE "categories"
