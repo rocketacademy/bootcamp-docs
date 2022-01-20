@@ -31,18 +31,51 @@ Imagine a database setup with the following ERD:
 
 ![](../../.gitbook/assets/category-item-erd-wide2.png)
 
-#### &#x20;SELECT with SQL vs. Sequelize
+#### SELECT with SQL vs. Sequelize
 
 {% tabs %}
 {% tab title="SQL" %}
 ```javascript
-// Some code using SQL
+// Find all
+SELECT * FROM "categories";
+
+// Find all with specific columns
+SELECT id, name FROM "categories";
+
+// Find all with where clause
+SELECT * FROM "categories" WHERE createdAt = '2021-20-06'
+
+// Find one
+SELECT * FROM "categories" WHERE id = 5 LIMIT 1;
 ```
 {% endtab %}
 
 {% tab title="Sequelize" %}
 ```javascript
-// Some code using Sequelize
+// Find all
+Category.findAll();
+
+// Find all with specific columns
+Category.findAll({
+    attributes: ['id', 'name'],
+});
+
+// Find all with where clause
+Category.findAll({
+    where: {
+        createdAt: '2021-20-06',
+    },
+});
+
+// Find one
+Category.findOne({
+    where: {
+        id: 5,
+    }
+});
+
+// Find by PrimaryKey(id)
+Category.findByPk(5);
 ```
 {% endtab %}
 {% endtabs %}
@@ -52,13 +85,40 @@ Imagine a database setup with the following ERD:
 {% tabs %}
 {% tab title="SQL" %}
 ```javascript
-// Some code using SQL
+// Create
+INSERT INTO "categories" (id, name, createdAt, updatedAt)
+VALUES (1, 'music', '2022-01-15', '2022-01-17');
+
+// UPDATE
+UPDATE "categories"
+SET name = 'films'
+WHERE id = 1;
 ```
 {% endtab %}
 
 {% tab title="Sequelize" %}
 ```javascript
-// Some code using Sequelize
+// Create
+Category.create({
+    id: 1,
+    name: 'music',
+    createdAt: Date.now(),
+    updatedAt: Date.now()
+});
+
+// Update
+Category.update({ name: 'films', updatedAt: Date.now() }, { where: { id: 1 }});
+
+// Create and update instance, no need for specifying where clause in update
+// The created instance acts as reference to the entry in the db
+const newCategory = Category.create({
+    id: 2,
+    name: 'cooking',
+    createdAt: Date.now(),
+    updatedAt: Date.now()
+})
+
+newCategory.update({ name: 'gardening ', updatedAt: Date.now()});
 ```
 {% endtab %}
 {% endtabs %}
@@ -68,13 +128,24 @@ Imagine a database setup with the following ERD:
 {% tabs %}
 {% tab title="SQL" %}
 ```javascript
-// Some code using SQL
+// Delete
+DELETE FROM "categories" WHERE id = 1;
 ```
 {% endtab %}
 
 {% tab title="Sequelize" %}
 ```javascript
-// Some code using Sequelize
+// Delete
+Category.destroy({
+    where: {
+        id: 1,
+    },
+});
+
+// Delete instance
+const persistenceCategory = Category.findByPk(1);
+
+persistenceCategory.destroy();
 ```
 {% endtab %}
 {% endtabs %}
