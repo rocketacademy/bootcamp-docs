@@ -85,6 +85,29 @@ Bootstrap grid has built-in mobile first responsive media query breakpoints. Whe
 
 Inspect the CSS of the columns to see how the column widths are being set.
 
-## Further Reading:
+## Further Reading For Bootstrap Day 1:
 
-[https://getbootstrap.com/docs/5.0/getting-started/introduction/](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+{% embed url="https://getbootstrap.com/docs/5.0/getting-started/introduction" %}
+
+## Bootstrap Day 2
+
+### Required Reading
+
+{% embed url="https://getbootstrap.com/docs/5.0/layout/breakpoints" %}
+
+{% embed url="https://getbootstrap.com/docs/5.0/layout/containers" %}
+
+{% embed url="https://getbootstrap.com/docs/5.0/forms/overview" %}
+Read all the sub-categories in Forms
+{% endembed %}
+
+{% embed url="https://getbootstrap.com/docs/5.0/components/card" %}
+
+{% embed url="https://getbootstrap.com/docs/5.0/components/dropdowns" %}
+
+{% embed url="https://getbootstrap.com/docs/5.0/components/navbar" %}
+
+{% embed url="https://getbootstrap.com/docs/5.0/utilities/flex" %}
+
+{% embed url="https://getbootstrap.com/docs/5.0/components/navs-tabs" %}
+
