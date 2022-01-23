@@ -117,7 +117,7 @@
   * [CSS.POCE.1: Flexbox Docs Page](css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive.md)
   * [CSS.POCE.2: Flexbox Personal Page](css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page.md)
   * [CSS.POCE.3: Bootstrap Columns](css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns.md)
-  * [CSS.POCE.4: Bootstrap Adobe](css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
+  * [CSS.POCE.4: Bootstrap](css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
 
 ## 2: Backend Basics
 
