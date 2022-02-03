@@ -1,6 +1,6 @@
 # 8.4: React Router
 
-Basic Example from here: [https://reactrouter.com/web/guides/quick-start/1st-example-basic-routing](https://reactrouter.com/web/guides/quick-start/1st-example-basic-routing)
+Basic Example from here:[https://codesandbox.io/s/competent-mclaren-ezyg1](https://codesandbox.io/s/competent-mclaren-ezyg1)
 
 ```jsx
 import React from "react";
@@ -61,4 +61,3 @@ function Users() {
 ```
 
 Working example here: [https://codesandbox.io/s/competent-mclaren-ezyg1](https://codesandbox.io/s/competent-mclaren-ezyg1)
-
