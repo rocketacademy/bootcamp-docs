@@ -1,6 +1,6 @@
 # 8.4: React Router
 
-Basic Example from here:[https://codesandbox.io/s/competent-mclaren-ezyg1](https://codesandbox.io/s/competent-mclaren-ezyg1)
+Basic Example from here: [https://codesandbox.io/s/competent-mclaren-ezyg1](https://codesandbox.io/s/competent-mclaren-ezyg1)
 
 ```jsx
 import React from "react";
@@ -59,5 +59,3 @@ function Users() {
   return <h2>Users</h2>;
 }
 ```
-
-Working example here: [https://codesandbox.io/s/competent-mclaren-ezyg1](https://codesandbox.io/s/competent-mclaren-ezyg1)
