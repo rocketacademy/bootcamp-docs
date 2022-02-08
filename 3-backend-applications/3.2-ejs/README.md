@@ -18,7 +18,7 @@
 ![EJS combines EJS HTML templates and dynamic data to generate HTML pages for responses](../../.gitbook/assets/ejs2.jpg)
 
 {% hint style="warning" %}
-#### EJS and DOM Manipulation are Independent Concepts
+**EJS and DOM Manipulation are Independent Concepts**
 
 1. Both EJS and DOM manipulation help generate HTML content dynamically, but they are independent concepts. EJS operates in the backend and DOM manipulation operates in the frontend.
 2. DOM manipulation can be used to generate HTML content dynamically once a page has loaded. EJS generates static HTML pages dynamically from the backend, such that different URL paths can yield different HTML pages, each of which can be generated from the same EJS template.
@@ -86,7 +86,7 @@ Our server apps will have the following file structure.
       // Return HTML to client, merging "index" template with supplied data.
       response.render('fruit', data);
     });
-    
+
     app.listen(3004);
     ```
 
@@ -113,6 +113,24 @@ Our server apps will have the following file structure.
 2. EJS compiles HTML with the EJS template and provided data, and Express sends that HTML back to the client.
 3. After the client reads the response HTML, it requests for the additional static files that the HTML may reference.
 {% endhint %}
+
+### Static/Public Folder
+
+Our CSS may not load yet because we haven't told Express how to serve static files. To enable our server to respond with the `styles.css` file, we need to enable Express' built-in file server and configure it to serve files from the folder where our CSS is. The following expression enables Express to serve files from a local folder called `public`. Read more about static files[ here](https://expressjs.com/en/starter/static-files.html) and `express.static` [here.](https://expressjs.com/en/4x/api.html#express.static)
+
+```javascript
+app.use(express.static('public'));
+```
+
+1. Create a folder in the repo called `public`. Move all CSS files to this folder.
+2. Add the above expression (`app.use(express.static(...))`) to our `index.js` file above our routes to enable the file server.
+3.  Verify the file server works by making an HTTP request for a CSS file inside the `public` folder. The URL path can be a relative path relative to the `public` folder.
+
+    ```
+    http://localhost:3004/styles.css
+    ```
+
+
 
 ### **EJS Naming Convention**
 
