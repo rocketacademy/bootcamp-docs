@@ -193,9 +193,9 @@ document.body.appendChild(rootElement);
 render(myEl, rootElement);
 ```
 
-{% embed url="https://www.youtube.com/watch?v=oN4Tg-meSdw" %}
-
 ## JSX Templating with Data
+
+{% embed url="https://youtu.be/oN4Tg-meSdw" %}
 
 ### Basic Templating Example
 
