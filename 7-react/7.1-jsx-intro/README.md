@@ -112,9 +112,9 @@ const myEl = React.createElement('div', null, 'Hey Wow!');
 const myEl = <div>Hey Wow!</div>;
 ```
 
-{% embed url="https://www.youtube.com/watch?v=o01qplQAWxs" %}
-
 ## Minimal JSX App
+
+{% embed url="https://www.youtube.com/watch?v=o01qplQAWxs" %}
 
 Render a div element with React and JSX. 1 common property of React apps is that the DOM is only ever mentioned once, at app setup with `react-dom`'s `render` function. This is true of apps like ours below and apps with millions of lines of code. `render` tells React which element to render all other DOM elements into.
 
@@ -151,9 +151,9 @@ npx nodemon index.mjs
 
 Visit [http://localhost:3004/home](http://localhost:3004/home) in Chrome to view our element.
 
-{% embed url="https://www.youtube.com/watch?v=jXuCtRPKwq4" %}
-
 ## Using CSS Classes with React
+
+{% embed url="https://www.youtube.com/watch?v=jXuCtRPKwq4" %}
 
 In JSX and React, HTML elements can't have a `class` attribute because the HTML `class` keyword conflicts with JavaScript's `class` keyword. JSX has chosen to replace `class` with `className`. React will translate `className` to `class` such that our browsers know what CSS to apply.
 
