@@ -1,5 +1,7 @@
 # 7.1: JSX Intro
 
+{% embed url="https://www.youtube.com/watch?v=qf77OVESyz8" %}
+
 ## Introduction
 
 JSX is a JS **"syntax extension"** that allows us to specify HTML elements directly in JS. We use JSX with React to specify elements we want React to manipulate. In this module we'll create a sample app with JSX.
@@ -20,8 +22,8 @@ npm install --save-dev react react-dom @babel/preset-react
 
 ### Update Webpack Config to Support React
 
-1. Update the `test` regular expression \(line 3\) to include our new file extension, `.jsx`.
-2. Add the React preset to the `presets` key \(line 8\).
+1. Update the `test` regular expression (line 3) to include our new file extension, `.jsx`.
+2. Add the React preset to the `presets` key (line 8).
 
 ```javascript
 {
@@ -110,6 +112,8 @@ const myEl = React.createElement('div', null, 'Hey Wow!');
 const myEl = <div>Hey Wow!</div>;
 ```
 
+{% embed url="https://www.youtube.com/watch?v=o01qplQAWxs" %}
+
 ## Minimal JSX App
 
 Render a div element with React and JSX. 1 common property of React apps is that the DOM is only ever mentioned once, at app setup with `react-dom`'s `render` function. This is true of apps like ours below and apps with millions of lines of code. `render` tells React which element to render all other DOM elements into.
@@ -146,6 +150,8 @@ npx nodemon index.mjs
 ```
 
 Visit [http://localhost:3004/home](http://localhost:3004/home) in Chrome to view our element.
+
+{% embed url="https://www.youtube.com/watch?v=jXuCtRPKwq4" %}
 
 ## Using CSS Classes with React
 
@@ -186,6 +192,8 @@ document.body.appendChild(rootElement);
 // Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
+
+{% embed url="https://www.youtube.com/watch?v=oN4Tg-meSdw" %}
 
 ## JSX Templating with Data
 
@@ -256,4 +264,3 @@ Read more about JSX on the official docs: [https://reactjs.org/docs/introducing-
 ## Exercise
 
 Replicate the above code.
-
