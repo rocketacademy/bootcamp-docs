@@ -152,7 +152,7 @@ Use Zoom to record the video locally on your computer. It will record you and yo
 1. Upload it to YouTube. Embed the video in your project README.md file.
 2. Put the video file in your project repo, commit the file and push it to GitHub.
 
-## Previous Examples
+### Previous Examples
 
 {% hint style="info" %}
 These videos are longer than 1-2 minutes, but please try to make your own videos within the 2 minute limit.
