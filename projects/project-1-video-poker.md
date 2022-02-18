@@ -91,30 +91,9 @@ Show the user the probability of getting each winning hand if they choose to swi
 
 Implement 7 Card Stud rules for Poker instead of 5 Card Draw.
 
-## Past Student Projects
+## Project Submission and Past Student Projects
 
-### Batch 3
-
-1. [https://eddiejpot.github.io/video-poker-bootcamp/](https://eddiejpot.github.io/video-poker-bootcamp/)
-2. [https://emily-zhangg.github.io/video-poker-bootcamp/](https://emily-zhangg.github.io/video-poker-bootcamp/)
-3. [https://samanthadotdesign.github.io/video-poker/](https://samanthadotdesign.github.io/video-poker/)
-4. [https://jokatty.github.io/video-poker-bootcamp/](https://jokatty.github.io/video-poker-bootcamp/)
-5. [https://zaf07.github.io/video-poker-bootcamp/](https://zaf07.github.io/video-poker-bootcamp/)
-
-### Batch 2
-
-1. [https://iannyip.github.io/video-poker-swe1/](https://iannyip.github.io/video-poker-swe1/)
-2. [https://jerome-chua.github.io/video-poker-swe1/](https://jerome-chua.github.io/video-poker-swe1/)
-3. [https://michelle-mok.github.io/video-poker-swe1/](https://michelle-mok.github.io/video-poker-swe1/)
-4. [https://zephaniahong.github.io/video-poker-swe1/](https://zephaniahong.github.io/video-poker-swe1/)
-
-### Batch 1
-
-1. [https://jcleow.github.io/video-poker-swe1/](https://jcleow.github.io/video-poker-swe1/)
-2. [https://jeremylim91.github.io/video-poker-swe1/](https://jeremylim91.github.io/video-poker-swe1/)
-3. [https://kenrickles.github.io/video-poker-swe1/](https://kenrickles.github.io/video-poker-swe1/)
-4. [https://lightweightcoder.github.io/video-poker-swe1/](https://lightweightcoder.github.io/video-poker-swe1/)
-5. [https://veena-s.github.io/video-poker-swe1/](https://veena-s.github.io/video-poker-swe1/)
+Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR\_FgeFO\_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
 
 ## Disclaimer
 

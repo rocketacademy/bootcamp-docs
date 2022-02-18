@@ -141,3 +141,7 @@ Please answer the [project post-mortem questions](../course-logistics/course-met
 ## Video Demo
 
 Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
+
+## Project Submission and Past Student Projects
+
+Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR\_FgeFO\_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
