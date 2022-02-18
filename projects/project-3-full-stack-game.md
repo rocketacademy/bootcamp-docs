@@ -14,7 +14,7 @@ You will implement a card game or turn based card-type game. The user or users w
    3. Interactivity using client-side JS
    4. Users cannot cheat by looking in the browser console
    5. Some game state must be saved in the database server-side
-   6. User login \(full-stack or server-side\)
+   6. User login (full-stack or server-side)
 2. Technologies
    1. Use CSS
    2. Use Express.js
@@ -46,96 +46,18 @@ Avoid any ideas the depend on timing between players or if another player must b
 
 ### Summary
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Course Day</th>
-      <th style="text-align:left">Deliverable</th>
-      <th style="text-align:left">Instructor Feedback</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">CD10.3</td>
-      <td style="text-align:left">
-        <p><b>Start: Ideation Phase 1.</b> 
-        </p>
-        <p>Introduce project, post project ideas in Slack for feedback</p>
-      </td>
-      <td style="text-align:left">Instructor to share feedback on project ideas in Slack.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD11.1</td>
-      <td style="text-align:left">
-        <p><b>Start: Ideation Phase 2. </b> 
-        </p>
-        <p>Create planning docs: user stories, wireframes, and DB ERD.</p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD11.3</td>
-      <td style="text-align:left">
-        <p><b>Due: Ideation Phase 2. </b> 
-        </p>
-        <p>Finalise project idea and share planning docs in GitHub repo over Slack.</p>
-      </td>
-      <td style="text-align:left">Instructor to review planning docs over Slack and over Zoom if necessary.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD11.3</td>
-      <td style="text-align:left"><b>Peer Planning Review.</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD11.3</td>
-      <td style="text-align:left"><b>Start: Project Start.</b>
-      </td>
-      <td style="text-align:left">Begin Project Implementation</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD12.3</td>
-      <td style="text-align:left">
-        <p><b>Due: MVP deadline.</b> 
-        </p>
-        <p>Users should be able to perform the primary user story. Please deploy
-          your app to Heroku. Students to review code in pairs during class.</p>
-      </td>
-      <td style="text-align:left">Instructor to review code on GitHub, share feedback in Slack and Zoom
-        if necessary.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD12.5</td>
-      <td style="text-align:left">
-        <p><b>Due: Feature freeze.</b>
-        </p>
-        <p>No more developing new app functionality. Use remaining time to focus
-          on polish, i.e. fixing UX/UI, refactoring code.</p>
-      </td>
-      <td style="text-align:left">Quick project review in class to discuss improvements post-feature freeze.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD13.2</td>
-      <td style="text-align:left"><b>Due: Project presentations.</b>
-      </td>
-      <td style="text-align:left">30-minute post-mortem with instructor. Instructor to review code in PR
-        on GitHub.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD13.3</td>
-      <td style="text-align:left"><b>Project Peer Review exercise.</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CD13.5</td>
-      <td style="text-align:left"><b>Due: Video demo.</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+| Course Day | Deliverable                                                                                                                                                                               | Instructor Feedback                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| CD10.3     | <p><strong>Start: Ideation Phase 1.</strong></p><p>Introduce project, post project ideas in Slack for feedback</p>                                                                        | Instructor to share feedback on project ideas in Slack.                             |
+| CD11.1     | <p><strong>Start: Ideation Phase 2.</strong></p><p>Create planning docs: user stories, wireframes, and DB ERD.</p>                                                                        |                                                                                     |
+| CD11.3     | <p><strong>Due: Ideation Phase 2.</strong></p><p>Finalise project idea and share planning docs in GitHub repo over Slack.</p>                                                             | Instructor to review planning docs over Slack and over Zoom if necessary.           |
+| CD11.3     | **Peer Planning Review.**                                                                                                                                                                 |                                                                                     |
+| CD11.3     | **Start: Project Start.**                                                                                                                                                                 | Begin Project Implementation                                                        |
+| CD12.3     | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD12.5     | <p><strong>Due: Feature freeze.</strong></p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>                  | Quick project review in class to discuss improvements post-feature freeze.          |
+| CD13.2     | **Due: Project presentations.**                                                                                                                                                           | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.   |
+| CD13.3     | **Project Peer Review exercise.**                                                                                                                                                         |                                                                                     |
+| CD13.5     | **Due: Video demo.**                                                                                                                                                                      |                                                                                     |
 
 ### Recommended Order of Implementation
 
@@ -147,7 +69,7 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 
@@ -178,4 +100,3 @@ Please answer the [project post-mortem questions](../course-logistics/course-met
 ## Video Demo
 
 Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
-

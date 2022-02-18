@@ -31,18 +31,18 @@ Any seed data your app would need to run needs to be included in the repo. The f
 
 ### Summary
 
-| Course Day | Deliverable                                                                                                                                                                                | Instructor Feedback                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| CD17.3     | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback                                                                                                   | Instructor to share feedback on project ideas in Slack.                             |
-| CD18.1     | **Start: Ideation Phase 2.     **Create planning docs: user stories, wireframes, and DB ERD.                                                                                               |                                                                                     |
-| CD18.4     | **Due: Ideation Phase 2.**             Finalise project idea and share planning docs in GitHub repo over Slack.                                                                            | Instructor to review planning docs over Slack and over Zoom if necessary.           |
-| CD18.4     | **Due: Peer Planning Review.**                                                                                                                                                             |                                                                                     |
-| CD18.4     | **Start: Project Start.**                                                                                                                                                                  | Begin Project Implementation.                                                       |
-| CD19.3     | <p><strong>Due: MVP deadline.</strong> </p><p>Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
-| CD20.1     | <p><strong>Due: Feature freeze.</strong> </p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>                  | Quick project review in class to discuss improvements post-feature freeze.          |
-| CD20.3     | **Due: Project presentations.**                                                                                                                                                            | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.   |
-| CD20.4     | **Project Peer Review Exercise.**                                                                                                                                                          |                                                                                     |
-| CD20.5     | **Due: Video demo.**                                                                                                                                                                       |                                                                                     |
+| Course Day | Deliverable                                                                                                                                                                               | Instructor Feedback                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| CD17.3     | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback                                                                                                  | Instructor to share feedback on project ideas in Slack.                             |
+| CD18.1     | \*\*Start: Ideation Phase 2. \*\*Create planning docs: user stories, wireframes, and DB ERD.                                                                                              |                                                                                     |
+| CD18.4     | **Due: Ideation Phase 2.** Finalise project idea and share planning docs in GitHub repo over Slack.                                                                                       | Instructor to review planning docs over Slack and over Zoom if necessary.           |
+| CD18.4     | **Due: Peer Planning Review.**                                                                                                                                                            |                                                                                     |
+| CD18.4     | **Start: Project Start.**                                                                                                                                                                 | Begin Project Implementation.                                                       |
+| CD19.3     | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
+| CD20.1     | <p><strong>Due: Feature freeze.</strong></p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>                  | Quick project review in class to discuss improvements post-feature freeze.          |
+| CD20.3     | **Due: Project presentations.**                                                                                                                                                           | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.   |
+| CD20.4     | **Project Peer Review Exercise.**                                                                                                                                                         |                                                                                     |
+| CD20.5     | **Due: Video demo.**                                                                                                                                                                      |                                                                                     |
 
 ### Recommended Order of Implementation
 
@@ -54,7 +54,7 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 

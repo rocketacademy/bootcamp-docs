@@ -93,7 +93,7 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 
