@@ -420,62 +420,9 @@
 * [Data Structures](algorithms-new/data-structures/README.md)
   * [Untitled](algorithms-new/data-structures/untitled-1.md)
 
-## 0: Language and Tooling Teaching Guide
-
-* [Page 1](0-language-and-tooling-teaching-guide/page-1.md)
-
-## 1: Frontend Basics Teaching Guide
-
-* [Page 2](1-frontend-basics-teaching-guide/page-2.md)
-
 ## 🌈 CSS Teaching Guide
 
-* [CSS.5: Web Design Basics](css-teaching-guide/css.5-web-design-basics.md)
+* [CSS 1.0: Basics](css-teaching-guide/css-1.0-basics.md)
 * [CSS.3: Flexbox](css-teaching-guide/css.3-flexbox.md)
 * [CSS.4: Responsive Design](css-teaching-guide/css.4-responsive-design.md)
-* [CSS.2.6: Layout: Columns & Cards](css-teaching-guide/css.2.6-layout-columns-and-cards.md)
-* [CSS 1.0: Basics](css-teaching-guide/css-1.0-basics.md)
-
-## 2: Backend Basics Teaching Guide
-
-* [2.0: Module 2 Overview](2-backend-basics-teaching-guide/2.0-module-2-overview.md)
-
-## 3: Backend Applications Teaching Guide
-
-* [Page 4](3-backend-applications-teaching-guide/page-4.md)
-
-## 4: Backend Structure Teaching Guide
-
-* [Page 5](4-backend-structure-teaching-guide/page-5.md)
-
-## 5: Full-Stack Applications Teaching Guide
-
-* [Page 6](5-full-stack-applications-teaching-guide/page-6.md)
-
-## 6: Frontend Infrastructure Teaching Guide
-
-* [Page 7](6-frontend-infrastructure-teaching-guide/page-7.md)
-
-## 7: React Teaching Guide
-
-* [Page 8](7-react-teaching-guide/page-8.md)
-
-## 8: Advanced React Teaching Guide
-
-* [Page 9](8-advanced-react-teaching-guide/page-9.md)
-
-## 9: Advanced Topics Teaching Guide
-
-* [Page 10](9-advanced-topics-teaching-guide/page-10.md)
-
-## 🧮 Algorithms Teaching Guide
-
-* [Page 11](algorithms-teaching-guide/page-11.md)
-
-## 💼 Interview Prep Teaching Guide
-
-* [Page 12](interview-prep-teaching-guide/page-12.md)
-
-## ☺ User Experience Teaching Guide
-
-* [Page 13](user-experience-teaching-guide/page-13.md)
+* [CSS.5: Web Design Basics](css-teaching-guide/css.5-web-design-basics.md)
