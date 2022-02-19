@@ -23,7 +23,7 @@ The following are a collection of concise exercises from [learnpython.org](https
 2. [Variables and Types](https://www.learnpython.org/en/Variables\_and\_Types)
 3. [Lists](https://www.learnpython.org/en/Lists)
 4. [Basic Operators](https://www.learnpython.org/en/Basic\_Operators)
-5. [String Formatting](https://www.learnpython.org/en/String\_Formatting)
+5. [String Formatting](https://www.learnpython.org/en/String\_Formatting) (Here's a nice article on [String Interpolation](https://docs.google.com/document/d/1j9Ny2IMJ\_4PhPeyr09axHFWf8x6PTnx05HC3G5qt8Gs/edit#))
 6. [Basic String Operations](https://www.learnpython.org/en/Basic\_String\_Operations)
 7. [Conditions](https://www.learnpython.org/en/Conditions)
 8. [Loops](https://www.learnpython.org/en/Loops)
