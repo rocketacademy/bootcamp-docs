@@ -1,6 +1,6 @@
 # CSS.ICE.2: Wikipedia
 
-![](../../.gitbook/assets/wiki.png)
+![](../../../.gitbook/assets/wiki.png)
 
 Recreate the website screenshot above.
 
