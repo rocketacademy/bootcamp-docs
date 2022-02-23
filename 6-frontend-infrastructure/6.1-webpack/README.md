@@ -1,6 +1,8 @@
 # 6.1: Webpack
 
-Note: If you're here before looking at [6.0 Module 6 Overview](../6.0-module-6-overview.md), please go there to view the short video, so you have more context. :)&#x20;
+Note: If you're here before looking at [6.0 Module 6 Overview](../6.0-module-6-overview.md), please go there to view the short video, so you have more context in this discussion. :)&#x20;
+
+{% embed url="https://youtu.be/ejpXhFJBeO8" %}
 
 ### What is webpack?
 
