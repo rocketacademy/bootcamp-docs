@@ -359,6 +359,7 @@
   * [9.ICE.2: TDD](9-advanced-topics/9.ice-in-class-exercises/9.ice.2-tdd.md)
 * [9.POCE: Post-Class Exercises](9-advanced-topics/9.poce-post-class-exercises/README.md)
   * [9.POCE.1: Django App](9-advanced-topics/9.poce-post-class-exercises/9.poce.1-django-app.md)
+* [9.9 DEVOPS: CI/CD](9-advanced-topics/9.9-devops-ci-cd.md)
 
 ## 🧮 Algorithms
 
