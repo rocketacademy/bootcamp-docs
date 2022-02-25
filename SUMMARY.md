@@ -107,7 +107,7 @@
   * [CSS.ICE.1: Personal Portfolio Site](css/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css.md)
   * [CSS.ICE.2: Wikipedia](css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia/README.md)
     * [CSS.ICE.2.1: Wikipedia Day 2](css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia/1.ice.css.3-mytunes-1.md)
-  * [CSS.ICE.3: Restaurant](css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes.md)
+  * [CSS.ICE.3: MyTunes](css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes.md)
   * [CSS.ICE.4: Etsy](css/css.ice-in-class-exercises/css.ice.4-etsy.md)
   * [CSS.ICE.5: Restaurant](css/1.ice.css-in-class-css-exercises/1.ice.css.5-restaurant.md)
   * [CSS.ICE.6: NTU](css/1.ice.css-in-class-css-exercises/1.ice.css.6-ntu.md)
