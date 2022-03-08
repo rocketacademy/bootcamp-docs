@@ -10,7 +10,7 @@ description: >-
 ## Part 1: Sharing your solution
 
 1. To start off any project, you will have to go starter repo and fork the repo.
-   * ![](<../.gitbook/assets/image (11).png>)
+   * ![](<../.gitbook/assets/image (12).png>)
 2. Next, you will go to this new forked repo and `git clone` it down your filesystem.
 3. You are now ready to go work on your project and make all the required changes.
 4. It'll be great to include a README.md that includes&#x20;
@@ -32,7 +32,7 @@ description: >-
    1. For example, see [https://github.com/rocketacademy/html-noodles-bootcamp/pulls?q=is%3Apr+is%3Aopen+FTBC6](https://github.com/rocketacademy/html-noodles-bootcamp/pulls?q=is%3Apr+is%3Aopen+FTBC6)
 3. You can then view they code under the File Changes tab in the PR to view all the changes they have made.
 4. To run and build their project locally, you can click on their forked repo in the PR and `git clone` it down as usual to run the project.
-   1. ![](<../.gitbook/assets/image (10).png>)
+   1. ![](<../.gitbook/assets/image (13).png>)
 5. Once cloned, you can follow the README to setup and run the app!
 
 

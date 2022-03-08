@@ -16,20 +16,20 @@ Think of the 3 or fewer most important points you wish to communicate with the r
 
 How you communicate these points will vary from person to person, but there is a general pattern for coding bootcamp grads. If you're not sure if your resume communicates your points, ask family or friends to review for 10 seconds and see what they grasp.
 
-### Point \#1: I Can Code
+### Point #1: I Can Code
 
-Bootcamp grads with minimal prior coding experience communicate Point \#1 via projects. The first half of your resume should articulate your most impressive projects in decreasing order of impressiveness. This should be more than a list of technologies, because anyone can list technologies. Strive to express what you accomplished for each project and how you accomplished it with the given technologies.
+Bootcamp grads with minimal prior coding experience communicate Point #1 via projects. The first half of your resume should articulate your most impressive projects in decreasing order of impressiveness. This should be more than a list of technologies, because anyone can list technologies. Strive to express what you accomplished for each project and how you accomplished it with the given technologies.
 
-### Point \#2: I am Smart
+### Point #2: I am Smart
 
 Smartness is subjective. Employers are looking for signals that you can learn what you don't know and succeed at the job. Fortunately, the fact that you completed RA's Coding Bootcamp should already demonstrate this. Below are some common indicators of "smartness".
 
 1. Well-known companies or schools
    1. If you previously worked at a well-known company or school, employers will assume that you had to be "smart" to get a job there, thus will consider you "smart".
 2. English fluency
-   1. If you can articulate your experiences effectively through your resume, this is a signal that you will communicate effectively \(hence succeed\) on the job. If you articulate poorly, you will likely not succeed on the job.
+   1. If you can articulate your experiences effectively through your resume, this is a signal that you will communicate effectively (hence succeed) on the job. If you articulate poorly, you will likely not succeed on the job.
 
-### Point \#3: I am a Culture Fit
+### Point #3: I am a Culture Fit
 
 Employers want people that their teammates will like. Likability is subjective, but generally people are attracted to others with independent interests. This is a proxy for charisma, and people love charisma. Someone that is a football enthusiast, volunteer teacher, or food blogger will appear more charismatic, fun, and appealing than someone with the same resume but without interests.
 
@@ -55,17 +55,16 @@ Guidance:
 
 ### Kai's Resume
 
-![](../.gitbook/assets/jie-ping-20210306-18.28.12%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%283%29%20%283%29.png)
+![](<../.gitbook/assets/jie-ping-20210306-18.28.12 (4) (4) (4) (4) (4) (4) (4) (4) (3) (1) (2).png>)
 
 ### Past Students' Resumes
 
 ![](../.gitbook/assets/jie-ping-20210306-18.29.59.png)
 
-![](../.gitbook/assets/jie-ping-20210306-18.30.13%20%281%29%20%281%29.png)
+![](<../.gitbook/assets/jie-ping-20210306-18.30.13 (1) (1) (1).png>)
 
-![](../.gitbook/assets/jie-ping-20210306-18.29.49%20%281%29.png)
+![](../.gitbook/assets/jie-ping-20210306-18.29.49.png)
 
 ## Exercise
 
-Create your first draft resume in your job Notion. \(This won't be shared, it is only a draft\).
-
+Create your first draft resume in your job Notion. (This won't be shared, it is only a draft).

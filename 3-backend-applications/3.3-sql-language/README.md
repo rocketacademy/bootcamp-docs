@@ -1,74 +1,31 @@
 # 3.3: SQL Language
 
-## Introduction
+## Databases
 
-SQL \(Structured Query Language\) is a language that describes how to manipulate data organised in tables.
+So far we've seen some different ways of storing data:&#x20;
 
-It's distinct from the **database system**, which is the software that keeps data on the disk, and runs the SQL language to determine what data to manipulate on disk.
+* Data stored in a plain file, separated by line endings (\n)&#x20;
+* Data stored as JSON&#x20;
+* Binary data, such as images&#x20;
 
-SQL the language simply describes how a set of conceptual data should be stored and retrieved.
+Here we’ll be introducing databases as a store for our data.&#x20;
 
-So far, we've seen some different formats of data storage:
+A database is a collection of tables. A table is made up of columns, rows, and cells - like an Excel spreadsheet. Each row in a database table has a unique identifier, known as the primary key.
 
-* Data stored in a plain file, separated by line endings \(\n\)
-* Data stored in a plain file, but encoded in JavaScript object style \(JSON\)
-* Binary data, such as images.
+A database where different tables are linked together is called a relational database, and this is what we’ll be using. Relational databases are great for organising complex interlinked sets of data. Imagine a social media app and think about all the links between the users, posts, comments, and likes - this can be done with relational databases
 
-The literal data format stored on the hard drive is determined by the implementation of the SQL system, but the conceptual format of the data is simply a set of tables, where each row is an "entry".
-
-![](../../.gitbook/assets/screen-shot-2020-11-14-at-2.10.22-pm.png)
+![An Excel spreadsheet modelled as a database table](../../.gitbook/assets/screen-shot-2020-11-14-at-2.10.22-pm.png)
 
 {% hint style="info" %}
-You may have heard of NoSQL and be wondering what that is. NoSQL is a non-relational database implementation designed as an alternative to SQL for higher efficiency in certain use cases. SQL is more common and we will learn NoSQL later.
+Non-relational databases also exist, and are sometimes referred to as NoSQL databases.
 {% endhint %}
 
-## SQL Data Organisation
+## SQL
 
-The organisation of data in a SQL system is the following: Database &gt; Table &gt; Column/Row &gt; Cell. Cells are always within Columns and Rows, Columns and Rows are always within Tables, and Tables are always within Databases.
+SQL (Structured Query Language) is a programming language used to communicate with relational databases. It is used to store, manage, and retrieve data from a database.
 
-![](../../.gitbook/assets/sql-database.jpg)
+SQL is a declarative programming language, which means the code instructs the program what to do, rather than how to do it. Here is an example of some SQL code :
 
-### Database
+`​​SELECT name FROM cats;`
 
-The data for an entire project / business / domain.
-
-_An entire grocery business._
-
-### Table
-
-A set of data for one "thing" or data type. A database has many tables.
-
-_All fruits_
-
-### Column
-
-One kind of data in your table. A table has a column each for every type of data that we want to track.
-
-Unlike in the JSON file, when you create the entire table \(before there's any data inside\) the data type of each column is specified. The data types are things like numbers, booleans and strings.
-
-_An integer number weight of a kind of fruit._
-
-### Row
-
-One set of data that represents one of the things your table tracks.
-
-_One fruit._
-
-### Cell
-
-One piece of data of the column type. A hard rule of SQL is that a cell can never contain more than one single piece of data.
-
-_The weight data \(a number\) of one kind of fruit._
-
-## SQL Query is Targeted Retrieval, not General Search
-
-SQL databases for web applications typically structure and store our data so that we can retrieve specific entries efficiently without traversing through all entries. A search is a different idea, where we might search across all entries in a database for potentially relevant data.
-
-For example, a "search" for "osman" could refer to data across multiple tables such as cat name, address, and last name, and we might want to suggest search extensions such as capitalization, singular vs. plural, and popular searches. The is what a _search engine application_ does. SQL has some of this functionality, but a typical web application is not set up to give these results through a SQL query.
-
-## Further Reading
-
-See the following resources for further reading on SQL usage and database design that may not be covered in Coding Bootcamp.
-
-1. [https://cs145-fa20.github.io/](https://cs145-fa20.github.io/)
-
+We are simply instructing SQL to `SELECT` something `FROM` something. All the logic of _how_ to `SELECT` something is taken care of by the language itself (we’ll explain this code in more detail in the next section).
