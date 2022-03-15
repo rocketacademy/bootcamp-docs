@@ -30,6 +30,8 @@ Other than models, views, and controllers, we will also have a route file or fil
 
 ## Grocery App Example
 
+{% embed url="https://youtu.be/FAXCYN7vMAI" %}
+
 We'll create an example grocery app with a single model.
 
 ![](../../.gitbook/assets/mvc.jpg)
@@ -47,13 +49,13 @@ Set up Sequelize with a new Node application and configure the DB in the same wa
 
 ### Generate Migration
 
-```text
+```
 npx sequelize migration:generate --name create-items-table
 ```
 
 Delete the entire contents of the file and write the table creation code:
 
-#### &lt;GENERATED\_DATE&gt;-create-items-table.js
+#### \<GENERATED\_DATE>-create-items-table.js
 
 ```javascript
 module.exports = {
@@ -87,13 +89,13 @@ module.exports = {
 
 ### Run Migration
 
-```text
+```
 npx sequelize db:migrate
 ```
 
 ### Verify Migration
 
-```text
+```
 psql -d grocerymvc_development
 ```
 
@@ -163,11 +165,11 @@ export default db;
 
 ## Seeders: Create Sample Items
 
-```text
+```
 npx sequelize seed:generate --name seed-data
 ```
 
-### &lt;GENERATED\_DATE&gt;-seed-data.js
+### \<GENERATED\_DATE>-seed-data.js
 
 ```javascript
 module.exports = {
@@ -210,13 +212,13 @@ npx sequelize db:seed:all
 
 Install Express.js and all the standard libraries:
 
-```text
+```
 npm install express ejs method-override cookie-parser
 ```
 
 Create standard Express.js app directories `views` and `public`.
 
-```text
+```
 mkdir views public
 ```
 
@@ -282,7 +284,7 @@ export default function bindRoutes(app) {
 
 We have written the routes matching requests to controllers in our routes file. Let's write the controller methods that handle the requests. Create a `controllers` folder to store controllers.
 
-Each feature can have its own controller. In Coding Bootcamp we will export a function \(`initItemsController` in this case\) from each controller, such that the parameter to the function `db` can be used by all methods within this controller without explicitly passing `db` every time we invoke a controller method.
+Each feature can have its own controller. In Coding Bootcamp we will export a function (`initItemsController` in this case) from each controller, such that the parameter to the function `db` can be used by all methods within this controller without explicitly passing `db` every time we invoke a controller method.
 
 ### controllers/items.mjs
 
@@ -310,7 +312,7 @@ export default function initItemsController(db) {
 
 This example assumes you need to display a list of data. For convenience and consistency we can give standard names to the CRUD methods of our controllers. For example, an `index` method might retrieve all instances of a model. See the [names table below](./#names) for a complete listing.
 
-#### controllers/&lt;NAME\_LOWER\_CAMEL\_CASE\_PLURAL&gt;.mjs
+#### controllers/\<NAME\_LOWER\_CAMEL\_CASE\_PLURAL>.mjs
 
 ```javascript
 export default function init<NAME_LOWER_CAMEL_CASE_PLURAL>Controller(db) {
@@ -336,7 +338,7 @@ export default function init<NAME_LOWER_CAMEL_CASE_PLURAL>Controller(db) {
 
 Create one view folder for each controller and name it after the controller. In this case we name our view folder `items`.
 
-```text
+```
 mkdir views/items
 ```
 
@@ -364,17 +366,16 @@ Then access the route we defined on our server in the browser via `localhost:300
 
 Please use the following naming conventions for CRUD MVC components in Coding Bootcamp applications.
 
-| URL Path | Method | Purpose | Controller Method Name | View File Name | Sequelize Model Method Name |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| /items/new | GET | Render a form that will create a new item. | newForm | newForm | N/A |
-| /items | POST | Accept a POST request to create a new item. | create | N/A | create |
-| /items/:id | GET | Render a single item. | show | show | findOne |
-| /items | GET | Render a list of items. | index | index | findAll |
-| /items/:id/edit | GET | Render a form to edit a item. | editForm | editForm | N/A |
-| /items/:id | PUT | Accept a request to edit a single item | update | update | update |
-| /items/:id | DELETE | Accept a request to delete an item. | delete | delete | destroy |
+| URL Path        | Method | Purpose                                     | Controller Method Name | View File Name | Sequelize Model Method Name |
+| --------------- | ------ | ------------------------------------------- | ---------------------- | -------------- | --------------------------- |
+| /items/new      | GET    | Render a form that will create a new item.  | newForm                | newForm        | N/A                         |
+| /items          | POST   | Accept a POST request to create a new item. | create                 | N/A            | create                      |
+| /items/:id      | GET    | Render a single item.                       | show                   | show           | findOne                     |
+| /items          | GET    | Render a list of items.                     | index                  | index          | findAll                     |
+| /items/:id/edit | GET    | Render a form to edit a item.               | editForm               | editForm       | N/A                         |
+| /items/:id      | PUT    | Accept a request to edit a single item      | update                 | update         | update                      |
+| /items/:id      | DELETE | Accept a request to delete an item.         | delete                 | delete         | destroy                     |
 
 ## Exercise
 
 Replicate the above code and verify results.
-
