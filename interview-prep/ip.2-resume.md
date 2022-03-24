@@ -55,15 +55,15 @@ Guidance:
 
 ### Kai's Resume
 
-![](<../.gitbook/assets/jie-ping-20210306-18.28.12 (4) (4) (4) (4) (4) (4) (4) (4) (3) (1) (2).png>)
+![](<../.gitbook/assets/jie-ping-20210306-18.28.12 (4) (4) (4) (4) (4) (4) (4) (4) (3) (1) (1) (1).png>)
 
 ### Past Students' Resumes
 
 ![](../.gitbook/assets/jie-ping-20210306-18.29.59.png)
 
-![](<../.gitbook/assets/jie-ping-20210306-18.30.13 (1) (1) (1).png>)
+![](<../.gitbook/assets/jie-ping-20210306-18.30.13 (1) (1).png>)
 
-![](../.gitbook/assets/jie-ping-20210306-18.29.49.png)
+![](<../.gitbook/assets/jie-ping-20210306-18.29.49 (1).png>)
 
 ## Exercise
 
