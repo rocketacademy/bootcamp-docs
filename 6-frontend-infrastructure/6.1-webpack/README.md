@@ -20,9 +20,9 @@ _Minification_ - the process of removing all unnecessary characters from JavaScr
 
 When webpack processes your application, it starts from a list of modules defined on the command line or in its configuration file. Starting from these _entry points_, webpack recursively builds a _dependency graph_ that includes every module your application needs, transforms them if necessary, then bundles all of those modules into a small number of bundles - often, only one - to be loaded by the browser. In other words, webpack pre-processes our files before they are loaded by the browser.&#x20;
 
-_entry point_ - The point from which to start the application bundling process.
+_Entry point_ - The point from which to start the application bundling process.
 
-_dependency graph_- A dependency graph is a data structure formed by a directed graph (we will cover graphs later on in Algorithms), that describes the dependency of an entity in the system on the other entities of the same system, i.e, each node points to the node on which it depends.&#x20;
+_Dependency graph_ - A dependency graph is a data structure formed by a directed graph (we will cover graphs later on in Algorithms), that describes the dependency of an entity in the system on the other entities of the same system, i.e, each node points to the node on which it depends.&#x20;
 
 ## Webpack Order of Events
 
