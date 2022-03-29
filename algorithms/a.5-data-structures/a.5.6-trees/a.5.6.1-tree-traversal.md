@@ -11,9 +11,10 @@ By the end of this lesson, you should:
 
 ## Introduction
 
-Now that we understand what a tree is, we need to *use* it. In the context of the tree data structure that means going through the values in the tree, or __traversal__ of the tree. Computer science defines only a few standard ways for an algorithm to move through a tree. The purpose of the algorithm could be a few things: to count the number of items in a tree, to find something in the tree, to look at every item in the tree, etc. In this section we'll detail the different ways we can do these actions.
+Now that we understand what a tree is, we need to _use_ it. In the context of the tree data structure that means going through the values in the tree, or **traversal** of the tree. Computer science defines only a few standard ways for an algorithm to move through a tree. The purpose of the algorithm could be a few things: to count the number of items in a tree, to find something in the tree, to look at every item in the tree, etc. In this section we'll detail the different ways we can do these actions.
 
 ## Tree Example
+
 ```
 class Node:
   def __init__(self, value):
@@ -183,6 +184,8 @@ Trees are often used to represent hierarchical data, e.g. HTML elements or React
 
 Note: The following exercises are sorted in increasing order of difficulty, and organised in groups to help us keep track of milestones. Please do as many as you can during Bootcamp and feel free to complete the rest at a later time.
 
+Please fork starter code Repls and attempt solutions there. Feel free to compare with reference solutions after attempting each problem. Have fun!
+
 ### Pre-Class
 
 1. [https://repl.it/@kaiyuanneo/treeintro#main.py](https://repl.it/@kaiyuanneo/treeintro#main.py)
@@ -198,7 +201,7 @@ Note: The following exercises are sorted in increasing order of difficulty, and 
 ### Part 2
 
 1. [https://leetcode.com/problems/univalued-binary-tree/](https://leetcode.com/problems/univalued-binary-tree/)
-3. [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+2. [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
    1. FTBC3 class video discussion on solution and how to trace code in a recursion problem: [https://youtu.be/uQldubu1LOE?t=2269](https://youtu.be/uQldubu1LOE?t=2269)
 
 ### Part 3
@@ -221,11 +224,11 @@ See [Pre-Order, In-Order, and Post-Order section](./#pre-order-in-order-and-post
 
 ### Part 5
 
-   1. Hint: Review [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem before attempting this one.
-   2. [FTBC3 In-Class Discussion Part 1](https://youtu.be/L2gtfJBxKzE?t=4412)
-   3. [FTBC3 In-Class Discussion Part 2](https://youtu.be/L2gtfJBxKzE?t=6278)
-2. [https://leetcode.com/problems/find-mode-in-binary-search-tree/](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
-3. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
+1. Hint: Review [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem before attempting this one.
+2. [FTBC3 In-Class Discussion Part 1](https://youtu.be/L2gtfJBxKzE?t=4412)
+3. [FTBC3 In-Class Discussion Part 2](https://youtu.be/L2gtfJBxKzE?t=6278)
+4. [https://leetcode.com/problems/find-mode-in-binary-search-tree/](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+5. [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
    1. RA solution code: [https://pastebin.com/wu9Xn6b3](https://pastebin.com/wu9Xn6b3)
    2. FTBC class video solution: [https://youtu.be/DUxsg2iDtuE?t=1226](https://youtu.be/DUxsg2iDtuE?t=1226)
 
@@ -260,18 +263,18 @@ See [Pre-Order, In-Order, and Post-Order section](./#pre-order-in-order-and-post
    3. [Leetcode reference solution](https://leetcode.com/problems/binary-tree-paths/discuss/1357824/Python-3-DFS-With-Backtracking) from Leetcode Discuss tab
 5. [https://leetcode.com/problems/average-of-levels-in-binary-tree/](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
    1. Hint: BFS
-7. [https://leetcode.com/problems/minimum-absolute-difference-in-bst/](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+6. [https://leetcode.com/problems/minimum-absolute-difference-in-bst/](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
    1. Hint: The minimum absolute distance in a tree with root node `root` is the minimum of the following 4 values.
       1. `minAbsDist(root.left)`
       2. `minAbsDist(root.right)`
       3. `abs(root.val - maxValInLeftSubtree)`
       4. `abs(root.val - minValInRightSubtree))`
-8. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
+7. [https://leetcode.com/problems/symmetric-tree/](https://leetcode.com/problems/symmetric-tree/)
    1. RA solution code: [https://pastebin.com/a2buQJxv](https://pastebin.com/a2buQJxv)
    2. [Solution video](https://youtu.be/AMpseCEX6\_A?t=2147) from FTBC3's class
-9. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
+8. [https://leetcode.com/problems/cousins-in-binary-tree/](https://leetcode.com/problems/cousins-in-binary-tree/)
    1. Rocket Academy solution code: [https://pastebin.com/wWYXg309](https://pastebin.com/wWYXg309)
    2. Rocket Academy video solution: [https://youtu.be/SeNfZBAU\_f4?t=4088](https://youtu.be/SeNfZBAU\_f4?t=4088)
-10. [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
-11. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) (Medium)
-12. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)
+9. [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
+10. [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/) (Medium)
+11. [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)

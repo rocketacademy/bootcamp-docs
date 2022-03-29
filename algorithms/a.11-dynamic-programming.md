@@ -50,6 +50,8 @@ Some dynamic programming problems can be expressed in a table.
 
 ## Exercises
 
+Please fork starter code Repls and attempt solutions there. Feel free to compare with reference solutions after attempting each problem. Have fun!
+
 ### Part 1
 
 1. [https://repl.it/@kaiyuanneo/dp1-basics#main.py](https://repl.it/@kaiyuanneo/dp1-basics#main.py)

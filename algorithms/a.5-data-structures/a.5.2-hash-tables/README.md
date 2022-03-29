@@ -194,11 +194,10 @@ Once you've attempted each problem, find solutions in the Discuss tab on that pr
 
 ### Part 1
 
-[https://leetcode.com/problems/unique-number-of-occurrences/](https://leetcode.com/problems/unique-number-of-occurrences/)
-
-1. [https://leetcode.com/problems/sum-of-unique-elements/](https://leetcode.com/problems/sum-of-unique-elements/)
-2. [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
-3. [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)
+1. [https://leetcode.com/problems/unique-number-of-occurrences/](https://leetcode.com/problems/unique-number-of-occurrences/)
+2. [https://leetcode.com/problems/sum-of-unique-elements/](https://leetcode.com/problems/sum-of-unique-elements/)
+3. [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+4. [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)
    1. Please ignore the constraint to implement this in constant space complexity because that involves a more advanced technique we haven't learned yet.
 
 ### Part 2
