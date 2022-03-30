@@ -202,7 +202,7 @@ If any project is not completed up to the given project requirements, that stude
 
 ### Schedule
 
-Students are expected to spend a minimum of 8 hours a day (ideally from 10am-6pm) on weekdays on coursework. This includes the 2 hours of live sessions from 10am-12pm GMT+8 and the 1 hour of [Rocket Q\&A](course-logistics/rocket-q-and-a.md) typically from 12-1pm GMT+8 on Wednesdays.
+Students are expected to spend a minimum of 8 hours a day (ideally from 10am-6pm) on weekdays on coursework. This includes the 2 hours of live sessions from 10am-12pm GMT+8 and the 1 hour of [Rocket Q\&A](broken-reference) typically from 12-1pm GMT+8 on Wednesdays.
 
 Our schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1.1 to 23.5. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
 
