@@ -106,7 +106,7 @@ def get_winner(votes):
   tally = {}
   for person in votes:
     if person not in tally:
-      tally[person] = 1
+      tally[person] = 0
     tally[person] += 1
 
   # Return the person with max votes as the winner
