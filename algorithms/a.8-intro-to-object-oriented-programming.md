@@ -42,8 +42,8 @@ Once we have defined a class we can create an instance of the class. An instance
 ![class instance illustration](../.gitbook/assets/factory_gif.gif)
 
 ```python
-cat1 = Cat("Kai")
-cat2 = Cat("Chee Kean")
+cat1 = Cat("Kai", 2, True, 20)
+cat2 = Cat("Chee Kean", 3, False, 10)
 
 print(cat1.get_name())
 print(cat2.get_name())  
