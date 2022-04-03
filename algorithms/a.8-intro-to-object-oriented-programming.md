@@ -22,7 +22,7 @@ A class by itself holds no data and does not do anything. It is the abstract rep
 
 ```python
 class Cat:
-  def __init__(self, name, age, is_male, weight):
+  def __init__(self, name):
     print("making a new cat")
     self.name = name
   
@@ -42,8 +42,8 @@ Once we have defined a class we can create an instance of the class. An instance
 ![class instance illustration](../.gitbook/assets/factory_gif.gif)
 
 ```python
-cat1 = Cat("Kai", 2, True, 20)
-cat2 = Cat("Chee Kean", 3, False, 10)
+cat1 = Cat("Kai")
+cat2 = Cat("Chee Kean")
 
 print(cat1.get_name())
 print(cat2.get_name())  
