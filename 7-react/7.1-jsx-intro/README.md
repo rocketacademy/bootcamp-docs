@@ -39,46 +39,57 @@ npm install --save-dev react react-dom @babel/preset-react
 },
 ```
 
-### Sample `webpack.dev.js`
+### Sample Webpack config
 
-The full Webpack dev config should look like the following.
+The full Webpack common config should look like the following.
+
+{% code title="webpack_conf/webpack.common.js" %}
 
 ```jsx
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const path = require('path');
-const { merge } = require('webpack-merge');
-const common = require('./webpack.common.js');
 
-module.exports = merge(common, {
+module.exports = {
   entry: {
     main: './src/index.js',
   },
-  mode: 'development',
-  devtool: 'inline-source-map',
-  watch: true,
+  output: {
+    filename: '[name]-[contenthash].bundle.js',
+    path: path.resolve(__dirname, '../dist'),
+    // Replace previously-compiled files with latest one on each build
+    clean: true,
+  },
   plugins: [
     new HtmlWebpackPlugin({
-      // name this file main, so that it does not get automatically requested as a static file
-      filename: './main.html',
+      // Name this file main so it does not get automatically requested as a static file
+      filename: 'main.html',
       template: path.resolve(__dirname, '..', 'src', 'main.html'),
     }),
-  ].filter(Boolean),
+    new MiniCssExtractPlugin(),
+  ],
   module: {
     rules: [
       {
-        // regex to see which files to run babel on
+        // Regex to decide which files to run Babel on
         test: /\.(js|mjs|jsx)$/,
         exclude: /node_modules/,
-        use: {
-          loader: require.resolve('babel-loader'),
-          options: {
-            presets: ['@babel/preset-env', '@babel/preset-react'],
+        use: [
+          {
+            loader: 'babel-loader',
+            options: {
+              presets: ['@babel/preset-env', '@babel/preset-react'],
+            },
           },
-        },
+        ],
+      },
+      {
+        test: /\.scss$/,
+        use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader'],
       },
     ],
   },
-});
+};
 ```
 
 ## JSX Syntax
@@ -91,6 +102,7 @@ We set up Babel in our Webpack config to automatically transform JSX to React. N
 ```javascript
 presets: ['@babel/preset-env', '@babel/preset-react'],
 ```
+
 {% endhint %}
 
 ### **DOM JavaScript**
@@ -118,7 +130,11 @@ const myEl = <div>Hey Wow!</div>;
 
 Render a div element with React and JSX. 1 common property of React apps is that the DOM is only ever mentioned once, at app setup with `react-dom`'s `render` function. This is true of apps like ours below and apps with millions of lines of code. `render` tells React which element to render all other DOM elements into.
 
-### **src/index.js**
+{% hint style="info" %}
+When you paste the below code into `src/index.js`, you may see an ESLint error "JSX not allowed in files with extension '.js'". To fix this error, change `src/index.js`'s file extension from `.js` to `.jsx`.
+{% endhint %}
+
+{% code title="src/index.jsx" %}
 
 ```jsx
 import React from 'react';
@@ -157,7 +173,11 @@ Visit [http://localhost:3004/home](http://localhost:3004/home) in Chrome to view
 
 In JSX and React, HTML elements can't have a `class` attribute because the HTML `class` keyword conflicts with JavaScript's `class` keyword. JSX has chosen to replace `class` with `className`. React will translate `className` to `class` such that our browsers know what CSS to apply.
 
+To add CSS styles to a React app, import a CSS file like in the following code sample. The following code assumes there is a CSS class `hero-text` defined in `./styles.css`.
+
 ```jsx
+import './styles.css';
+
 const myEl = <div className="hero-text">Hey Wow!</div>;
 ```
 
@@ -169,6 +189,8 @@ There are a few rules when writing longer JSX.
 
 1. Surround multi-line JSX expressions with parentheses.
 2. 1 JS variable contains at most 1 JSX element. Note the `myEl` variable contains a single element even though it has other elements inside it.
+
+{% code title="src/index.jsx" %}
 
 ```jsx
 import React from 'react';
@@ -200,6 +222,8 @@ render(myEl, rootElement);
 ### Basic Templating Example
 
 We can inject JS variables into JSX, similar to how we injected JS variables into EJS. In EJS we used `<%= %>` syntax, but in JSX it's `{}`. In the following example, we initialise a number on line 4 and use it on line 12.
+
+{% code title="src/index.jsx" %}
 
 ```jsx
 import React from 'react';
