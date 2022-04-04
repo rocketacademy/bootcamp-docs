@@ -55,7 +55,7 @@ Guidance:
 
 ### Kai's Resume
 
-![](<../.gitbook/assets/jie-ping-20210306-18.28.12 (4) (4) (4) (4) (4) (4) (4) (4) (3) (1) (1) (2) (1).png>)
+![](<../.gitbook/assets/jie-ping-20210306-18.28.12 (4) (4) (4) (4) (4) (4) (4) (4) (3) (1) (1) (1) (2) (1).png>)
 
 ### Past Students' Resumes
 
