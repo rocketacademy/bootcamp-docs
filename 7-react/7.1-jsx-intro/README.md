@@ -45,7 +45,7 @@ The full Webpack common config should look like the following.
 
 {% code title="webpack_conf/webpack.common.js" %}
 
-```jsx
+```javascript
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const path = require('path');
@@ -91,6 +91,8 @@ module.exports = {
   },
 };
 ```
+
+{% endcode %}
 
 ## JSX Syntax
 
@@ -152,6 +154,8 @@ document.body.appendChild(rootElement);
 // Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
+
+{% endcode %}
 
 Run the `watch` command to have Webpack auto-compile our code.
 
@@ -215,6 +219,8 @@ document.body.appendChild(rootElement);
 render(myEl, rootElement);
 ```
 
+{% endcode %}
+
 ## JSX Templating with Data
 
 {% embed url="https://youtu.be/oN4Tg-meSdw" %}
@@ -249,6 +255,8 @@ document.body.appendChild(rootElement);
 // Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
+
+{% endcode %}
 
 ### Templates Accept Any JS Code
 
