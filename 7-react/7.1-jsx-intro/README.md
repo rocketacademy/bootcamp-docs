@@ -4,7 +4,13 @@
 
 ## Introduction
 
-JSX is a JS **"syntax extension"** that allows us to specify HTML elements directly in JS. We use JSX with React to specify elements we want React to manipulate. In this module we'll create a sample app with JSX.
+```
+const element = <h1>Hello World!</h1>
+```
+
+JSX is a **"syntax extension"** to JavaScript (JS) that allows us to specify HTML elements directly in JS. We use JSX with React to specify elements we want React to manipulate. \
+\
+This module will walk through the creation of a sample app using JSX.
 
 ## Setup
 
@@ -22,7 +28,7 @@ npm install --save-dev react react-dom @babel/preset-react
 
 ### Update Webpack Config to Support React
 
-1. Update the `test` regular expression (line 3) to include our new file extension, `.jsx`.
+1. Update the `test` [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular\_Expressions) (line 3) to include our new file extension, `.jsx`.
 2. Add the React preset to the `presets` key (line 8).
 
 ```javascript
@@ -44,7 +50,6 @@ npm install --save-dev react react-dom @babel/preset-react
 The full Webpack common config should look like the following.
 
 {% code title="webpack_conf/webpack.common.js" %}
-
 ```javascript
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
@@ -91,20 +96,22 @@ module.exports = {
   },
 };
 ```
-
 {% endcode %}
 
 ## JSX Syntax
 
-The following are examples of how we might create a div with inner text in DOM, React, and JSX syntax respectively. Eventually we will write React with JSX syntax, combining the best of React with JSX. Try to execute the JSX code in Chrome DevTools- we should get a syntax error.
+Below is a comparison between how a div with inner text is created using DOM, React, and JSX syntax respectively. While React can be written without using JSX, as seen in the example below, we will be writing React code using JSX syntax, combining the best of React with JSX. React without JSX is for [nuanced purposes that we are not addressing in this course](https://reactjs.org/docs/react-without-jsx.html).
+
+Try running the JSX code in your Chrome DevTools - there will a syntax error.
 
 {% hint style="info" %}
-We set up Babel in our Webpack config to automatically transform JSX to React. Note that `@babel/preset-env` needs to be specified before `@babel/preset-react` so that ES6 gets transformed to ES5 before JSX gets transformed to React.
+Babel is used in the Webpack config to help automatically transform JSX to React.&#x20;
+
+Note that `@babel/preset-env` needs to be specified before `@babel/preset-react` so that ES6 gets transformed to ES5 before JSX gets transformed to React.
 
 ```javascript
 presets: ['@babel/preset-env', '@babel/preset-react'],
 ```
-
 {% endhint %}
 
 ### **DOM JavaScript**
@@ -130,14 +137,15 @@ const myEl = <div>Hey Wow!</div>;
 
 {% embed url="https://www.youtube.com/watch?v=o01qplQAWxs" %}
 
-Render a div element with React and JSX. 1 common property of React apps is that the DOM is only ever mentioned once, at app setup with `react-dom`'s `render` function. This is true of apps like ours below and apps with millions of lines of code. `render` tells React which element to render all other DOM elements into.
+We are rendering a div element using React and JSX.&#x20;
+
+React apps are normally set up in `index.js` first using JavaScript DOM to run the `render()` method from the **react-dom** npm package. `render()` takes in 2 parameters: (1) the JSX element that is being rendered, and (2) the container element in which the JSX element will be renedered into.
 
 {% hint style="info" %}
 When you paste the below code into `src/index.js`, you may see an ESLint error "JSX not allowed in files with extension '.js'". To fix this error, change `src/index.js`'s file extension from `.js` to `.jsx`.
 {% endhint %}
 
 {% code title="src/index.jsx" %}
-
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
@@ -154,7 +162,6 @@ document.body.appendChild(rootElement);
 // Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
-
 {% endcode %}
 
 Run the `watch` command to have Webpack auto-compile our code.
@@ -195,7 +202,6 @@ There are a few rules when writing longer JSX.
 2. 1 JS variable contains at most 1 JSX element. Note the `myEl` variable contains a single element even though it has other elements inside it.
 
 {% code title="src/index.jsx" %}
-
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
@@ -218,7 +224,6 @@ document.body.appendChild(rootElement);
 // Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
-
 {% endcode %}
 
 ## JSX Templating with Data
@@ -230,7 +235,6 @@ render(myEl, rootElement);
 We can inject JS variables into JSX, similar to how we injected JS variables into EJS. In EJS we used `<%= %>` syntax, but in JSX it's `{}`. In the following example, we initialise a number on line 4 and use it on line 12.
 
 {% code title="src/index.jsx" %}
-
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
@@ -255,7 +259,6 @@ document.body.appendChild(rootElement);
 // Render the myEl JSX element into the root element with React.
 render(myEl, rootElement);
 ```
-
 {% endcode %}
 
 ### Templates Accept Any JS Code
