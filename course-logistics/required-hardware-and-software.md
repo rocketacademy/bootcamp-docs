@@ -78,7 +78,7 @@ If you were using the Git Bash terminal before, after following these instructio
 Open an Ubuntu terminal and follow [install instructions](https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions), copied below. Read more about these install instructions [here](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc).
 
 ```
-curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
@@ -105,8 +105,8 @@ Follow the install instructions at: [https://brew.sh/](https://brew.sh)
 Install Node.js using Homebrew.
 
 ```
-brew install node@14
-brew link node@14
+brew install node@16
+brew link node@16
 ```
 
 ## VSCode Formatters
