@@ -57,7 +57,7 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    main: './src/index.jsx', // CHANGE HERE: .JS -> .JSX
+    main: './src/index.js',
   },
   output: {
     filename: '[name]-[contenthash].bundle.js',
@@ -142,11 +142,7 @@ We are rendering a div element using React and JSX.&#x20;
 
 React apps are normally set up in `index.js` first using JavaScript DOM to run the `render()` method from the **react-dom** npm package. `render()` takes in 2 parameters: (1) the JSX element that is being rendered, and (2) the container element in which the JSX element will be renedered into.
 
-{% hint style="info" %}
-When you paste the below code into **`src/index.js`**, you may see an ESLint error "JSX not allowed in files with extension '.js'". To fix this error, change `src/index.js`'s file extension from `.js` to `.jsx`.
-{% endhint %}
-
-{% code title="src/index.jsx" %}
+{% code title="src/index.js" %}
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
@@ -202,7 +198,7 @@ There are a couple of rules when writing longer JSX:
 1. Surround _multi-line JSX expressions_ with parentheses `()`.
 2. Each JS variable contains at most 1 JSX element. Note the `myEl` variable contains a single element (c.f. below: a single `<div></div>` tag as the parent) even though it has other elements inside it.
 
-{% code title="src/index.jsx" %}
+{% code title="src/index.js" %}
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
@@ -237,7 +233,7 @@ It is possible to inject JS variables into JSX, similar to how we injected JS va
 
 In the following example, we initialise a number on line 4 and use it on line 12.
 
-{% code title="src/index.jsx" %}
+{% code title="src/index.js" %}
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
