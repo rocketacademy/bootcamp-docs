@@ -28,7 +28,7 @@ npm install --save-dev react react-dom @babel/preset-react
 
 ### Update Webpack Config to Support React
 
-1. Update the `test` [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular\_Expressions) (line 3) to include our new file extension, `.jsx`.
+1. In the`webpack.common.js` file, ensure that the `test` [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular\_Expressions) (line 3) includes the new file extension, `.jsx`.
 2. Add the React preset to the `presets` key (line 8).
 
 ```javascript
@@ -57,7 +57,7 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    main: './src/index.js',
+    main: './src/index.jsx', // CHANGE HERE: .JS -> .JSX
   },
   output: {
     filename: '[name]-[contenthash].bundle.js',
@@ -77,12 +77,13 @@ module.exports = {
     rules: [
       {
         // Regex to decide which files to run Babel on
-        test: /\.(js|mjs|jsx)$/,
+        test: /\.(js|mjs|jsx)$/, // CHANGE HERE: jsx added
         exclude: /node_modules/,
         use: [
           {
             loader: 'babel-loader',
             options: {
+              // CHANGE HERE: ensure @babel/preset-react
               presets: ['@babel/preset-env', '@babel/preset-react'],
             },
           },
@@ -142,7 +143,7 @@ We are rendering a div element using React and JSX.&#x20;
 React apps are normally set up in `index.js` first using JavaScript DOM to run the `render()` method from the **react-dom** npm package. `render()` takes in 2 parameters: (1) the JSX element that is being rendered, and (2) the container element in which the JSX element will be renedered into.
 
 {% hint style="info" %}
-When you paste the below code into `src/index.js`, you may see an ESLint error "JSX not allowed in files with extension '.js'". To fix this error, change `src/index.js`'s file extension from `.js` to `.jsx`.
+When you paste the below code into **`src/index.js`**, you may see an ESLint error "JSX not allowed in files with extension '.js'". To fix this error, change `src/index.js`'s file extension from `.js` to `.jsx`.
 {% endhint %}
 
 {% code title="src/index.jsx" %}
@@ -170,7 +171,7 @@ Run the `watch` command to have Webpack auto-compile our code.
 npm run watch
 ```
 
-Run our Express server in a new terminal to serve our website.
+Run our Express server **in a new terminal** to serve our website.
 
 ```jsx
 npx nodemon index.mjs
@@ -196,10 +197,10 @@ const myEl = <div className="hero-text">Hey Wow!</div>;
 
 So far we've used JSX to create a single HTML element and rendered that element onto our page. Our equivalent DOM code would be the same length or shorter. The real benefit of JSX is the ability to specify a set of nested elements in the same way we would write HTML. How many lines would the equivalent DOM code be?
 
-There are a few rules when writing longer JSX.
+There are a couple of rules when writing longer JSX:
 
-1. Surround multi-line JSX expressions with parentheses.
-2. 1 JS variable contains at most 1 JSX element. Note the `myEl` variable contains a single element even though it has other elements inside it.
+1. Surround _multi-line JSX expressions_ with parentheses `()`.
+2. Each JS variable contains at most 1 JSX element. Note the `myEl` variable contains a single element (c.f. below: a single `<div></div>` tag as the parent) even though it has other elements inside it.
 
 {% code title="src/index.jsx" %}
 ```jsx
@@ -232,7 +233,9 @@ render(myEl, rootElement);
 
 ### Basic Templating Example
 
-We can inject JS variables into JSX, similar to how we injected JS variables into EJS. In EJS we used `<%= %>` syntax, but in JSX it's `{}`. In the following example, we initialise a number on line 4 and use it on line 12.
+It is possible to inject JS variables into JSX, similar to how we injected JS variables into EJS. EJS uses `<%= %>` syntax; JSX uses `{}`.&#x20;
+
+In the following example, we initialise a number on line 4 and use it on line 12.
 
 {% code title="src/index.jsx" %}
 ```jsx
@@ -278,7 +281,7 @@ const myEl = (
 
 ### Template Substitution Also Works in Element Attributes
 
-JSX also allows templating of HTML attribute values, not just HTML element contents. We need not specify quotations around HTML attribute values. In the following example we initialise a URL string on line 1 and use it in an `href` attribute on line 7.
+JSX also allows templating of HTML attribute values, not just HTML element contents. We need not specify quotations around HTML attribute values. In the following example we initialise a URL string, `myUrl`,  on line 1 and use it in an `href` attribute on line 7.
 
 ```jsx
 const myUrl = 'http://google.com';
