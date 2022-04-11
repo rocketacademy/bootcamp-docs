@@ -1,7 +1,5 @@
 # 7.2: React Components
 
-{% embed url="https://youtu.be/j28twmBdoLM" %}
-
 ## Introduction
 
 React components are UI elements written in JSX. They can be combined to form more complex components, even entire apps. React allows us to specify both looks and logic of our frontends in component code, making React a convenient way to build interactive UIs. Typically each component has its own file.
@@ -104,10 +102,6 @@ render(myContainer, rootElement);
 
 It's always a good habit to periodically refactor your code into components.
 
-{% embed url="https://youtu.be/Istb2ufBzIE" %}
-
 ### Cleaning Up Linter Issues (Finally)
 
 it's always good to fix warnings and linter issues, even if it works. Having too many red lines is not just annoying, but it effectively hides from you any real, legitimate problems that the linter could be reporting.
-
-{% embed url="https://www.youtube.com/watch?v=crVq7pDj7I0" %}

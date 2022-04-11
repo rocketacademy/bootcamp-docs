@@ -1,7 +1,5 @@
 # 7.1: JSX Intro
 
-{% embed url="https://www.youtube.com/watch?v=qf77OVESyz8" %}
-
 ## Introduction
 
 ```
@@ -136,8 +134,6 @@ const myEl = <div>Hey Wow!</div>;
 
 ## Minimal JSX App
 
-{% embed url="https://www.youtube.com/watch?v=o01qplQAWxs" %}
-
 We are rendering a div element using React and JSX.&#x20;
 
 React apps are normally set up in `index.js` first using JavaScript DOM to run the `render()` method from the **react-dom** npm package. `render()` takes in 2 parameters: (1) the JSX element that is being rendered, and (2) the container element in which the JSX element will be renedered into.
@@ -176,8 +172,6 @@ npx nodemon index.mjs
 Visit [http://localhost:3004/home](http://localhost:3004/home) in Chrome to view our element.
 
 ## Using CSS Classes with React
-
-{% embed url="https://www.youtube.com/watch?v=jXuCtRPKwq4" %}
 
 In JSX and React, HTML elements can't have a `class` attribute because the HTML `class` keyword conflicts with JavaScript's `class` keyword. JSX has chosen to replace `class` with `className`. React will translate `className` to `class` such that our browsers know what CSS to apply.
 
@@ -224,8 +218,6 @@ render(myEl, rootElement);
 {% endcode %}
 
 ## JSX Templating with Data
-
-{% embed url="https://youtu.be/oN4Tg-meSdw" %}
 
 ### Basic Templating Example
 
