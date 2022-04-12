@@ -38,7 +38,7 @@ Here are some of the best ways to find jobs you might enjoy.
 1. Networking
    1. If you have friends working at tech companies that like their job, chances are you might enjoy working at those companies too. See if those companies are hiring on their careers pages. Reach out to those friends (even if there isn't a relevant job on the careers page) to see if the jobs are still open, and if they can help you with a referral.
 2. Browse job portals
-   1. Companies post new SWE jobs on job portals every day. Make it a habit to browse job portals and add relevant jobs to your jobs list. Update Rocket Academy when you update your jobs lists so that RA can reach out to those companies and try to get you a referral.
+   1. Companies post new SWE jobs on job portals every day. Make it a habit to browse job portals and add relevant jobs to your jobs list. Update Rocket Academy when you update your jobs lists so that Rocket can reach out to those companies and try to get you a referral.
    2. Here are some popular job portals.
       1. [LinkedIn](https://www.linkedin.com/jobs/)
       2. [Tech In Asia](https://www.techinasia.com/jobs)
@@ -47,7 +47,7 @@ Here are some of the best ways to find jobs you might enjoy.
       5. [Indeed](https://sg.indeed.com)
       6. [Glints](https://glints.com/sg)
       7. [NodeFlair](https://www.nodeflair.com/jobs)
-   3. Feel free to connect with recruiters or engineers on LinkedIn that work for the companies you are interested in. This is what RA does behind the scenes. When connecting with them, **always leave a note with a personal message.** This greatly increases the chances they will respond to you.
+   3. Feel free to connect with recruiters or engineers on LinkedIn that work for the companies you are interested in. This is what Rocket does behind the scenes. When connecting with them, **always leave a note with a personal message.** This greatly increases the chances they will respond to you.
 
 ![When you click Connect on someone's LinkedIn profile, always choose to "Add a note".](../.gitbook/assets/jie-ping-20210304-17.47.35.png)
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the capstone project. The objective of this project is to allow you to pursue a specific interest or field and choose your own tech stack based on its applicability or merits, while under the guidance of RA instructors. At the end of this project you should be able to justify the technology choices you've made and understand some of the tradeoffs between the available options. You can choose to work alone or in teams of two.
+This is the capstone project. The objective of this project is to allow you to pursue a specific interest or field and choose your own tech stack based on its applicability or merits, while under the guidance of Rocket instructors. At the end of this project you should be able to justify the technology choices you've made and understand some of the tradeoffs between the available options. You can choose to work alone or in teams of two.
 
 ## Requirements
 
@@ -35,7 +35,7 @@ Take some time to consider what kind of learning outcome and what kind of projec
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD\_Saou\_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD_Saou_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 
@@ -69,4 +69,4 @@ Please follow [video demo guidelines here](../course-logistics/course-methodolog
 
 ## Project Submission and Past Student Projects
 
-Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR\_FgeFO\_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
+Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR_FgeFO_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.

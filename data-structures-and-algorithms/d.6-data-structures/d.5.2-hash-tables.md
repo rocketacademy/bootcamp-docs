@@ -16,7 +16,7 @@ See [this Repl](https://repl.it/@kaiyuanneo/hashmapapplications#main.py) on comm
 
 ### Rocket Academy
 
-The following are exercises compiled by former RA instructors Lionell and Jonathan. Please only view the solution for each problem after you have attempted the problem. \#3 is challenging- feel free to start Leetcode problems before \#3 if you need more warmup!
+The following are exercises compiled by former Rocket instructors Lionell and Jonathan. Please only view the solution for each problem after you have attempted the problem. \#3 is challenging- feel free to start Leetcode problems before \#3 if you need more warmup!
 
 #### Problems
 
@@ -35,4 +35,3 @@ The following are exercises compiled by former RA instructors Lionell and Jonath
 The following are 40+ Easy-level hash-table-specific problems on Leetcode. Please complete as many as you can. You can ignore problems with a lock icon next to them because those require a Leetcode Premium subscription. Once you've attempted each problem, find solutions in the Discuss tab on that problem's page.
 
 [https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=hash-table](https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=hash-table)
-
