@@ -2,8 +2,8 @@
 
 ## Introduction
 
-```
-const element = <h1>Hello World!</h1>
+```jsx
+const element = <h1>Hello World!</h1>;
 ```
 
 JSX is a **"syntax extension"** to JavaScript (JS) that allows us to specify HTML elements directly in JS. We use JSX with React to specify elements we want React to manipulate. \
@@ -26,12 +26,12 @@ npm install --save-dev react react-dom @babel/preset-react
 
 ### Update Webpack Config to Support React
 
-1. In the`webpack.common.js` file, ensure that the `test` [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular\_Expressions) (line 3) includes the new file extension, `.jsx`.
-2. Add the React preset to the `presets` key (line 8).
+1. In the`webpack.common.js` file, ensure that the `test` [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) includes the new file extension, `.jsx`.
+2. Add the React preset to the `presets` key.
 
 ```javascript
 {
-  // regex to see which files to run babel on
+  // Regex to decide which files to run Babel on
   test: /\.(js|mjs|jsx)$/,
   exclude: /node_modules/,
   use: {
@@ -48,6 +48,7 @@ npm install --save-dev react react-dom @babel/preset-react
 The full Webpack common config should look like the following.
 
 {% code title="webpack_conf/webpack.common.js" %}
+
 ```javascript
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
@@ -95,6 +96,7 @@ module.exports = {
   },
 };
 ```
+
 {% endcode %}
 
 ## JSX Syntax
@@ -111,6 +113,7 @@ Note that `@babel/preset-env` needs to be specified before `@babel/preset-react`
 ```javascript
 presets: ['@babel/preset-env', '@babel/preset-react'],
 ```
+
 {% endhint %}
 
 ### **DOM JavaScript**
@@ -136,12 +139,13 @@ const myEl = <div>Hey Wow!</div>;
 
 We are rendering a div element using React and JSX.&#x20;
 
-React apps are normally set up in `index.js` first using JavaScript DOM to run the `render()` method from the **react-dom** npm package. `render()` takes in 2 parameters: (1) the JSX element that is being rendered, and (2) the container element in which the JSX element will be renedered into.
+We typically set up React in `index.js` using React's imported `createRoot` function to create a root component from a root DOM element. We render the React app inside the root component with `rootComponent.render`.
 
 {% code title="src/index.js" %}
+
 ```jsx
 import React from 'react';
-import { render } from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import './styles.scss';
 
 // Create JSX element and log it.
@@ -152,9 +156,13 @@ console.log('myEl: ', myEl);
 const rootElement = document.createElement('div');
 document.body.appendChild(rootElement);
 
-// Render the myEl JSX element into the root element with React.
-render(myEl, rootElement);
+// Create React root component with root DOM element
+const rootComponent = createRoot(rootElement);
+
+// Render the myEl JSX element in the root component
+rootComponent.render(myEl);
 ```
+
 {% endcode %}
 
 Run the `watch` command to have Webpack auto-compile our code.
@@ -193,9 +201,10 @@ There are a couple of rules when writing longer JSX:
 2. Each JS variable contains at most 1 JSX element. Note the `myEl` variable contains a single element (c.f. below: a single `<div></div>` tag as the parent) even though it has other elements inside it.
 
 {% code title="src/index.js" %}
+
 ```jsx
 import React from 'react';
-import { render } from 'react-dom';
+import { createRoot } from 'react-dom/client';
 
 // Create JSX element and log it.
 const myEl = (
@@ -212,9 +221,13 @@ console.log('myEl: ', myEl);
 const rootElement = document.createElement('div');
 document.body.appendChild(rootElement);
 
-// Render the myEl JSX element into the root element with React.
-render(myEl, rootElement);
+// Create React root component with root DOM element
+const rootComponent = createRoot(rootElement);
+
+// Render the myEl JSX element in the root component
+rootComponent.render(myEl);
 ```
+
 {% endcode %}
 
 ## JSX Templating with Data
@@ -226,9 +239,10 @@ It is possible to inject JS variables into JSX, similar to how we injected JS va
 In the following example, we initialise a number on line 4 and use it on line 12.
 
 {% code title="src/index.js" %}
+
 ```jsx
 import React from 'react';
-import { render } from 'react-dom';
+import { createRoot } from 'react-dom/client';
 
 const myRandomNum = Math.random();
 
@@ -247,9 +261,13 @@ console.log('myEl: ', myEl);
 const rootElement = document.createElement('div');
 document.body.appendChild(rootElement);
 
-// Render the myEl JSX element into the root element with React.
-render(myEl, rootElement);
+// Create React root component with root DOM element
+const rootComponent = createRoot(rootElement);
+
+// Render the myEl JSX element in the root component
+rootComponent.render(myEl);
 ```
+
 {% endcode %}
 
 ### Templates Accept Any JS Code
@@ -269,7 +287,7 @@ const myEl = (
 
 ### Template Substitution Also Works in Element Attributes
 
-JSX also allows templating of HTML attribute values, not just HTML element contents. We need not specify quotations around HTML attribute values. In the following example we initialise a URL string, `myUrl`,  on line 1 and use it in an `href` attribute on line 7.
+JSX also allows templating of HTML attribute values, not just HTML element contents. We need not specify quotations around HTML attribute values. In the following example we initialise a URL string, `myUrl`, on line 1 and use it in an `href` attribute on line 7.
 
 ```jsx
 const myUrl = 'http://google.com';

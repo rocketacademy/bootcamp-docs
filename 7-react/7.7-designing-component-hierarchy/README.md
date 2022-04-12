@@ -2,7 +2,7 @@
 
 ## Introduction
 
-One of the most difficult, confusing aspects of building a React app is deciding what components are responsible for what, and where the data gets stored. We'll look at some of the principles of React app design through examples.
+One of the most difficult, confusing aspects of building a React app is deciding what components are responsible for what, and where we store data. We'll look at principles of React component architecture through examples.
 
 Note that some React best practices are what is left out, i.e., state is not created unnecessarily, data is only controlled top-down, components functionally calculate values and states where possible, etc.
 
@@ -49,7 +49,7 @@ const total = subTotal + gst;
 
 ## Data Flows
 
-### Modifying Data in Parent Components via Prop Functions 
+### Modifying Data in Parent Components via Prop Functions
 
 Similar to [Module 7.6: Passing Data Between Sibling Components](../7.6-passing-data-between-sibling-components.md), when a child component needs to manipulate data at the app level we pass a "prop function" down into the child component, which sends the parent necessary data via the prop function when the user performs an action.
 
@@ -61,5 +61,4 @@ The following examples demonstrate the same concepts as in [Module 7.6: Passing 
 
 1. Adding an item to the cart from the `itemDetail`: [https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/ItemDetail.jsx\#L14-L16](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/ItemDetail.jsx#L14-L16)
 2. Adding the `item` into the `cart` array: [https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx\#L13-L15](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L13-L15)
-3. The setting of the `cart` array sets off the rendering of the `Cart` component and items in the cart. 
-
+3. The setting of the `cart` array sets off the rendering of the `Cart` component and items in the cart.
