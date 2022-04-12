@@ -2,15 +2,17 @@
 
 ## Introduction
 
-React components are UI elements written in JSX. They can be combined to form more complex components, even entire apps. React allows us to specify both looks and logic of our frontends in component code, making React a convenient way to build interactive UIs. Typically each component has its own file.
+React components are essentially UI elements written in JSX. They can be combined to form more complex components, and, thereafter, entire webpages and applications.&#x20;
 
-The word "component" refers to React syntax, but also refers to the concept of a UI element repeated across an app. Most applications have repeated visual elements across multiple pages. We can think of components like "helper functions" for UIs.
+React allows us to specify both the aesthetics and logic of our frontends in component-level code, making React a convenient way to build interactive UIs. Typically each component has its own file.
+
+The word "component" can refer to both React syntax and the concept of a UI element repeated across an app. Most applications have repeated visual elements across multiple pages. We can think of components like "helper functions" for UIs.
 
 We can compose apps using components using JS logic: conditionally rendering components, rendering components in a loop, etc. Typically the logic for rendering components will depend on data retrieved from the database and temporarily stored in our React app.
 
 ## Creating Components
 
-At its simplest, a component is a function that returns JSX. In React this is referred to as a "functional component". The distinction is that this component has no dynamic data. We'll talk more about the differences when we see stateful components.
+Essentially, a component is **a function** that returns JSX. In React this is referred to as a "functional component". The distinction is that this component has no dynamic data. The distinction will be apparent when we see "stateful" components.
 
 ```jsx
 function BigAnnouncement() {
@@ -31,7 +33,7 @@ In the above example we moved JSX from [Module 7.1: JSX Intro](../7.1-jsx-intro#
 
 ## Using Components
 
-In the complete example we reference the name of our component **as if it were an HTML element**.
+In the complete example we reference the name of our component **as if it were an HTML element** (in line 22).
 
 ```jsx
 import React from 'react';
@@ -60,7 +62,7 @@ render(<BigAnnouncement />, rootElement);
 
 ## Repeating Components
 
-In the sense that `BigAnnouncement` is an element itself, it can be mentioned more than once. We'll create a surrounding JSX and put `BigAnnouncement` inside.
+Understanding that `BigAnnouncement` is created as an element, it can be mentioned more than once. We'll define a JSX element and put multiple instances of `BigAnnouncement` inside (as seen in line 23-30.
 
 ```jsx
 import React from 'react';
