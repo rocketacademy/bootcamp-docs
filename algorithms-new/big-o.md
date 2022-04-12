@@ -12,11 +12,11 @@ The goal of measuring time and space complexity is to evaluate whether we have t
 
 ## Big-O Notation
 
-We first explain the syntax of Big-O notation, then share common Big-O complexities and examples of algorithms for each of those complexities. Big-O complexities apply to both time and space calculations. Do not worry if you are unfamiliar with the algorithms we share. We will review each of them in due time as we progress through RA's DS&A curriculum.
+We first explain the syntax of Big-O notation, then share common Big-O complexities and examples of algorithms for each of those complexities. Big-O complexities apply to both time and space calculations. Do not worry if you are unfamiliar with the algorithms we share. We will review each of them in due time as we progress through Rocket's DS&A curriculum.
 
 ### Syntax
 
-Big-O Notation consists of a big O, parentheses, and a variation on a mathematical variable, most commonly `n`, sometimes `m` also if there are multiple inputs or variables that need to be represented. These variations are typically orders of `n`, for example valid Big-O notations in order of increasing complexity are `O(1)` \(constant\), `O(logn)` \(logarithmic\), `O(n)` \(linear\), `O(nlogn)` \("n log n"\), `O(n^2)` \(polynomial, where we can replace the 2 with any number bigger than 2\), and `O(2^n)` \(exponential\).  
+Big-O Notation consists of a big O, parentheses, and a variation on a mathematical variable, most commonly `n`, sometimes `m` also if there are multiple inputs or variables that need to be represented. These variations are typically orders of `n`, for example valid Big-O notations in order of increasing complexity are `O(1)` \(constant\), `O(logn)` \(logarithmic\), `O(n)` \(linear\), `O(nlogn)` \("n log n"\), `O(n^2)` \(polynomial, where we can replace the 2 with any number bigger than 2\), and `O(2^n)` \(exponential\).
 
 When expressing Big-O notation, we only consider the variable with the largest order of complexity, and remove any summed variables of lower complexity. When evaluating the variable of largest order of complexity, we also remove any coefficients attached to that variable, since those coefficients make minimal difference in the complexity when we consider large numbers where the complexity matters. For example, if I determined that my algorithm ran in complexity of `2n^2 + n` time, I would remove the `n` because it is of lower complexity than `n^2`, and I would remove the 2 in `2n^2` because it is a coefficient. I would then be left with `O(n^2)`.
 
@@ -44,7 +44,7 @@ The above algorithm also runs in `O(1)` space complexity because it does not req
 
 #### Description
 
-Also known as logarithmic or logn \("log n"\) time, `O(logn)` complexity means that the algorithm will need to perform a number of operations proportional to the log of the size of the input. Without getting into too much math, `log(n)` represents the exponent necessary to raise a constant number \(typically 2 or 10, the exact number doesn't matter in Big-O\) to the value of `n`. For example, assuming a log of base 2, `log(2)` would be 1, and `log(1024)` would be 10. Notice how even though the value of `n` increased by 1000+ between the 2 examples, the value of `log(n)` only increased by roughly 10. Thus `log(n)` is significantly less than `n` at large numbers. 
+Also known as logarithmic or logn \("log n"\) time, `O(logn)` complexity means that the algorithm will need to perform a number of operations proportional to the log of the size of the input. Without getting into too much math, `log(n)` represents the exponent necessary to raise a constant number \(typically 2 or 10, the exact number doesn't matter in Big-O\) to the value of `n`. For example, assuming a log of base 2, `log(2)` would be 1, and `log(1024)` would be 10. Notice how even though the value of `n` increased by 1000+ between the 2 examples, the value of `log(n)` only increased by roughly 10. Thus `log(n)` is significantly less than `n` at large numbers.
 
 #### Example: Find the element with value `x` in a sorted array
 
@@ -56,7 +56,7 @@ The above algorithm runs in `O(1)` space because it does not require additional 
 
 #### Description
 
-Known as linear time, `O(n)` complexity means that the algorithm needs to inspect at most each element of the input a constant number of times. 
+Known as linear time, `O(n)` complexity means that the algorithm needs to inspect at most each element of the input a constant number of times.
 
 #### Example: Find the largest number in an unsorted array
 
@@ -82,7 +82,7 @@ The above Merge Sort algorithm runs in `O(n)` space because at any given time it
 
 #### Description
 
-`O(n^2)` complexity typically involves nested loops over an input collection. 
+`O(n^2)` complexity typically involves nested loops over an input collection.
 
 #### Example: Find all pairs of numbers in an array
 
@@ -98,7 +98,6 @@ Also known as exponential complexity, `O(2^n)` complexity \(and any `O(C^n)` com
 
 #### Example: Calculate the n-th Fibonacci Number
 
-The Fibonacci sequence is defined as `Fib(n) = Fib(n-1) + Fib(n-2)`, where `Fib(0) == 1` and `Fib(1) == 1`. The naïve way to solve Fibonacci is to write a recursive algorithm that calculates `Fib(n)` by calling `Fib(n-1)` and `Fib(n-2)`. However, this results in 2 operations per `Fib` operation, and because each `Fib` operation runs recursively, we end up with `2^n` operations because it would take `n` levels of `Fib` operations to reach the base cases of `Fib(0)` and `Fib(1)`. Interestingly, this problem can be solved in `O(n)` time complexity. See [here](https://stackoverflow.com/questions/18172257/efficient-calculation-of-fibonacci-series) for solution. 
+The Fibonacci sequence is defined as `Fib(n) = Fib(n-1) + Fib(n-2)`, where `Fib(0) == 1` and `Fib(1) == 1`. The naïve way to solve Fibonacci is to write a recursive algorithm that calculates `Fib(n)` by calling `Fib(n-1)` and `Fib(n-2)`. However, this results in 2 operations per `Fib` operation, and because each `Fib` operation runs recursively, we end up with `2^n` operations because it would take `n` levels of `Fib` operations to reach the base cases of `Fib(0)` and `Fib(1)`. Interestingly, this problem can be solved in `O(n)` time complexity. See [here](https://stackoverflow.com/questions/18172257/efficient-calculation-of-fibonacci-series) for solution.
 
 The `O(2^n)` time complexity algorithm above also requires `O(2^n)` space complexity because at any given time, there will be up to `O(2^n)` simultaneous function calls, thus `O(2^n)` intermediate Fib calculations in memory. However, the optimal `O(n)` time complexity solution only requires `O(1)` space complexity because it only uses a finite number of variables to calculate `Fib(n)`, regardless of `n`.
-

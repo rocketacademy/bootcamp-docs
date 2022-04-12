@@ -146,7 +146,7 @@ def post_order_traversal(node):
 
 ### Time Complexity: _`O(V+E)`_ where V is all the vertexes in the tree and E are all the edges.
 
-BFS is a fancier form of tree traversal that typically involves queues. As a recap of BFS, consider the following `level_order` traversal solution from RA's tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
+BFS is a fancier form of tree traversal that typically involves queues. As a recap of BFS, consider the following `level_order` traversal solution from Rocket's tree traversal exercises. The following algorithm enables us to access nodes in a tree in level order.
 
 Consider using Python's built-in `deque` data structure [here](https://docs.python.org/3/library/collections.html#collections.deque) for a more efficient queue implementation than `list`. `deque` is implemented with a doubly-linked list, thus dequeue is a O(1) operation. Specifically, see the [`popleft` method](https://docs.python.org/3/library/collections.html#collections.deque.popleft).
 

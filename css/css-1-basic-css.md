@@ -12,7 +12,7 @@ CSS helps us change visual properties of HTML elements, such as fonts, backgroun
 
 #### Layout&#x20;
 
-CSS can help us divide our UI into visual sections. This is one of the most tricky aspects of CSS, because CSS was not originally intended for layout design. CSS content in RA's Bootcamp will focus on implementing UI layouts.
+CSS can help us divide our UI into visual sections. This is one of the most tricky aspects of CSS, because CSS was not originally intended for layout design. CSS content in Rocket's Bootcamp will focus on implementing UI layouts.
 
 ### How CSS Works&#x20;
 
@@ -24,8 +24,8 @@ As a declarative language, CSS uses selectors and declarations to apply styling 
 #### Sample Syntax
 
 ```css
-selector{
-	property: value;
+selector {
+  property: value;
 }
 ```
 
@@ -40,15 +40,13 @@ There are three places where CSS styling can occur:
 **In-line styling** is written inside the HTML opening tag as an attribute-value pair. Like this:
 
 ```html
-<p style=“color: red;”> This text would be red </p>
-
+<p style="“color:" red;”>This text would be red</p>
 ```
 
 If more than one style declaration is applied:
 
 ```html
-<p style=“color: red; font-weight: bold;”> This text is red and bold</p>
-
+<p style="“color:" red; font-weight: bold;”>This text is red and bold</p>
 ```
 
 #### Internal Styling
@@ -57,17 +55,17 @@ If more than one style declaration is applied:
 
 ```html
 <html>
-   <head>
-      <title> Page Title </title>
- 		  <style>
-			  p{			
-	  			 color: white;
-			   }
-		  </style>
-	</head>
-	<body>
-		<p> This text is white </p>
-	</body>
+  <head>
+    <title>Page Title</title>
+    <style>
+      p {
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <p>This text is white</p>
+  </body>
 </html>
 ```
 
@@ -77,7 +75,6 @@ If more than one style declaration is applied:
 
 ```html
 <link src=“style.css” rel=“type/stylesheets” />
-
 ```
 
 The stylesheet would contain the same css coding that would be put in the head directly.
@@ -92,12 +89,13 @@ Remember that every browser has a CSS engine and that engine has default declara
 
 ```html
 <html>
-   <head>
-      <title> Page Title </title>
-  	</head>
-	<body>
-		<h2> Styling H2 tags </h2>
-	</body>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <h2>Styling H2 tags</h2>
+  </body>
+</html>
 ```
 
 Copy and paste the above code snipet and save the file as index.html. Then open the file in a browser and notice how the text looks.
@@ -105,12 +103,12 @@ Copy and paste the above code snipet and save the file as index.html. Then open 
 Next insert the following code just after the title tag and just above the closing head tag.
 
 ```html
-	<style>
-		h2 {
-			background-color: blue;
-			color: white;
-		}
-	</style>
+<style>
+  h2 {
+    background-color: blue;
+    color: white;
+  }
+</style>
 ```
 
 This code targets all h2 tags in the file and makes the background-color blue and the color of the text white.
@@ -123,17 +121,17 @@ So far we have been looking at a single selector and applying declarations for t
 
 Below is a table that shows how to use different selector combinations and the elements they target.
 
-|   Selector Type  |     Example     | Explanation                                                     |
+|  Selector Type   |     Example     | Explanation                                                     |
 | :--------------: | :-------------: | --------------------------------------------------------------- |
-|     universal    |        \*       | Targets all elements                                            |
+|    universal     |       \*        | Targets all elements                                            |
 |      single      |        p        | Targets all p tags                                              |
-|     multiple     |    p , h1, h3   | Targets p, h1 and h3 tags                                       |
+|     multiple     |   p , h1, h3    | Targets p, h1 and h3 tags                                       |
 |    descendant    |      div p      | Targets p tags that are descendants of a div                    |
-|       child      |     div > p     | Targets p tags that are immediate children of a div             |
-| adjacent sibling |      h2 + p     | Targets p tag that is immediately adjacent to an h2 tag         |
-|     attribute    | \[attr="value"] | Targets elements that contain the specified attribute and value |
-|       class      |   .class\_name  | Targets all elements with the class of class\_name              |
-|        id        |    #id\_name    | Targets the one element with the id of id\_name                 |
+|      child       |     div > p     | Targets p tags that are immediate children of a div             |
+| adjacent sibling |     h2 + p      | Targets p tag that is immediately adjacent to an h2 tag         |
+|    attribute     | \[attr="value"] | Targets elements that contain the specified attribute and value |
+|      class       |   .class_name   | Targets all elements with the class of class_name               |
+|        id        |    #id_name     | Targets the one element with the id of id_name                  |
 
 ## Exercise Tips / Cheatsheet
 
@@ -177,7 +175,7 @@ Google's font collection is a relatively standard font collection of readable fo
 Many students miss this, causing CSS layout issues in mobile views. Please add this to websites we want to work on mobile.
 {% endhint %}
 
-For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. This is to develop for mobile on desktop without squinting. Chrome DevTools assumes we have this scaling tag when debugging mobile layouts. Read more about the `viewport` tag [here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport\_meta\_tag)
+For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. This is to develop for mobile on desktop without squinting. Chrome DevTools assumes we have this scaling tag when debugging mobile layouts. Read more about the `viewport` tag [here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 
 ```markup
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

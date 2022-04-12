@@ -59,13 +59,13 @@ If we find our code is still failing on more complex test cases, gradually incre
 
 To maximise chances of success in DS&A interviews, always review and understand solutions after attempting each problem. Commit the strategies to memory, because there is a good chance we will encounter a similar problem in the future. There are a finite number of patterns in DS&A problems, and even fewer for common DS&A problems used in interviews. We will cover a majority of these common patterns in Coding Bootcamp's DS&A curriculum. If the platform you are using does not provide a solution for a given problem, Google almost always will have one.
 
-Past students have found the spaced-repetition flashcard software [Anki](https://apps.ankiweb.net/) helpful in revising and keeping warm on DS&A concepts during and after RA's bootcamp. They would store problems and solutions in flashcards to revise them periodically.
+Past students have found the spaced-repetition flashcard software [Anki](https://apps.ankiweb.net/) helpful in revising and keeping warm on DS&A concepts during and after Rocket's bootcamp. They would store problems and solutions in flashcards to revise them periodically.
 
 ## Tips
 
 ### Useful Python List Syntax
 
-### Basic Python list methods: [https://www.w3schools.com/python/python\_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
+### Basic Python list methods: [https://www.w3schools.com/python/python_arrays.asp](https://www.w3schools.com/python/python_arrays.asp)
 
 ### Python list slice syntax: [https://stackoverflow.com/a/509295](https://stackoverflow.com/a/509295)
 
@@ -107,4 +107,3 @@ Leetcode problems are encapsulated in classes. We will learn more about classes 
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
 ```
-

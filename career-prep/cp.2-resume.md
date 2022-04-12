@@ -22,7 +22,7 @@ Bootcamp grads with minimal prior coding experience communicate Point \#1 via pr
 
 ### Point \#2: I am Smart
 
-Smartness is subjective. Employers are looking for signals that you can learn what you don't know and succeed at the job. Fortunately, the fact that you completed RA's Coding Bootcamp should already demonstrate this. Below are some common indicators of "smartness".
+Smartness is subjective. Employers are looking for signals that you can learn what you don't know and succeed at the job. Fortunately, the fact that you completed Rocket's Coding Bootcamp should already demonstrate this. Below are some common indicators of "smartness".
 
 1. Well-known companies or schools
    1. If you previously worked at a well-known company or school, employers will assume that you had to be "smart" to get a job there, thus will consider you "smart".

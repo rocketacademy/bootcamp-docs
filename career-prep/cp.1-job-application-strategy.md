@@ -24,7 +24,7 @@ Coding Bootcamp prepares graduates for full-stack software engineering roles. Th
 
 ### What kind of company are you looking for?
 
-RA's Bootcamp equips graduates to succeed at any entry-level software engineering role, regardless of company. Check out [RA's blog post on the various companies that hire SWEs in SG](https://www.rocketacademy.co/blog/software-engineering-jobs-in-singapore).
+Rocket's Bootcamp equips graduates to succeed at any entry-level software engineering role, regardless of company. Check out [Rocket's blog post on the various companies that hire SWEs in SG](https://www.rocketacademy.co/blog/software-engineering-jobs-in-singapore).
 
 1. Do you prefer the tigher-knit culture of a startup or the scale that comes with working for a bigger company?
 2. Do you prefer dipping your toes into multiple industries at a software agency, or working hard on a part of a single product over multiple years?

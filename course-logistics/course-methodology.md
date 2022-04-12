@@ -44,7 +44,7 @@ On any given day in Coding Bootcamp, students will have to do post-class exercis
 2. Pre-class exercises
 3. Comfortable and More Comfortable sections of post-class exercises / project
 
-### Saving work from a forked copy of RA's repo to a New GitHub Repo
+### Saving work from a forked copy of Rocket's repo to a New GitHub Repo
 
 To save work from a forked copy of a bootcamp repo to a new repo, follow the instructions below.
 
