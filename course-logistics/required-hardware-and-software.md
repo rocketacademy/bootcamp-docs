@@ -71,7 +71,7 @@ If you were using the Git Bash terminal before, after following these instructio
 
 1. You will see a notification "Starting VS Code in WSL...". This means VS Code is setting up a server inside WSL for the first time. Once installed, the VS Code of your Windows machine/desktop will communicate with VS Code server on the Linux side.
 
-[![Starting VS code in WSL for the first time](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c\_limit%2Cf\_auto%2Cfl\_progressive%2Cq\_auto%2Cw\_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c\_limit%2Cf\_auto%2Cfl\_progressive%2Cq\_auto%2Cw\_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)
+[![Starting VS code in WSL for the first time](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)
 
 #### Install Node.js
 
@@ -153,6 +153,7 @@ After `cd`ing into the repo directory, run the following command to install the 
 ```
 npm install
 ```
+
 {% endhint %}
 
 #### NPM
@@ -207,12 +208,12 @@ ESLint integrates with specific JavaScript syntax and style rules, giving warnin
 
 #### AirBnB Style Rules
 
-RA implements the AirBnB ESLint style rules, which is an extention of the base ESLint rules.
+Rocket implements the AirBnB ESLint style rules, which is an extention of the base ESLint rules.
 
 Read some more details about the rules here:
 
-* [https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053)
-* [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+- [https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053)
+- [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 ## Other VSCode Extensions
 

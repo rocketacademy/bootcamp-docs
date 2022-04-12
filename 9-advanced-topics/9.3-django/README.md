@@ -519,7 +519,7 @@ We can create a partial template for things like the HTML `body` and `head`.
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>RA Wow Django!</title>
+        <title>Rocket Wow Django!</title>
         <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
     </head>
     <body>
