@@ -15,7 +15,7 @@ In the DS&A context, we will be using classes to define non-built-in data struct
 
 ## Code Examples
 
-Please read and understand the following class implementations in Python in [this](https://repl.it/@kaiyuanneo/oop-examples#main.py) Repl.
+Please read and understand the following class implementations in Python in [this](https://repl.it/@neokaiyuan/oop-examples#main.py) Repl.
 
 1. Person
 2. Worker and Tool

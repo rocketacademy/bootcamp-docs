@@ -11,7 +11,7 @@ A stack is a data structure that supports adding and removing only from the end/
 
 ## Code Example
 
-Please read and understand the stack class implementation in [this](https://repl.it/@kaiyuanneo/stack-class-definitions#main.py) Repl.
+Please read and understand the stack class implementation in [this](https://repl.it/@neokaiyuan/stack-class-definitions#main.py) Repl.
 
 ## Exercises
 
@@ -19,17 +19,16 @@ Please read and understand the stack class implementation in [this](https://repl
 
 #### Exercises
 
-1. [https://repl.it/@kaiyuanneo/stacks1\#main.py](https://repl.it/@kaiyuanneo/stacks1#main.py)
-2. [https://repl.it/@kaiyuanneo/stacks2\#main.py](https://repl.it/@kaiyuanneo/stacks2#main.py)
+1. [https://repl.it/@neokaiyuan/stacks1\#main.py](https://repl.it/@neokaiyuan/stacks1#main.py)
+2. [https://repl.it/@neokaiyuan/stacks2\#main.py](https://repl.it/@neokaiyuan/stacks2#main.py)
 
 #### Solutions
 
-1. [https://repl.it/@kaiyuanneo/stacks1soln\#main.py](https://repl.it/@kaiyuanneo/stacks1soln#main.py)
-2. [https://repl.it/@kaiyuanneo/stacks2soln\#main.py](https://repl.it/@kaiyuanneo/stacks2soln#main.py)
+1. [https://repl.it/@neokaiyuan/stacks1soln\#main.py](https://repl.it/@neokaiyuan/stacks1soln#main.py)
+2. [https://repl.it/@neokaiyuan/stacks2soln\#main.py](https://repl.it/@neokaiyuan/stacks2soln#main.py)
 
 ### Leetcode
 
 [Here](https://leetcode.com/problemset/all/?difficulty=Easy&topicSlugs=stack) are 12 Easy-level stack-specific problems on Leetcode. Please complete as many as you can. Once you've attempted each problem, please review solutions in the Discuss tab on that problem's page.
 
 Note that the stack problems on Leetcode do not provide a custom stack data structure. Please use Python Lists in lieu of stacks.
-

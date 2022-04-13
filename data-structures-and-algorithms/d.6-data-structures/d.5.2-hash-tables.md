@@ -10,7 +10,7 @@ See [this slide deck ](https://docs.google.com/presentation/d/15nBnrcsigXujmNuIA
 
 ## Python Dictionary Usage Examples
 
-See [this Repl](https://repl.it/@kaiyuanneo/hashmapapplications#main.py) on common Python Dictionary usage patterns compiled by one of Rocket's former instructors Jon.
+See [this Repl](https://repl.it/@neokaiyuan/hashmapapplications#main.py) on common Python Dictionary usage patterns compiled by one of Rocket's former instructors Jon.
 
 ## Exercises
 
