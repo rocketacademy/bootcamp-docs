@@ -8,6 +8,17 @@ Note that some React best practices are what is left out, i.e., state is not cre
 
 ## E-Commerce App Example
 
+#### Pre-example: DB Setup (follow the [cheatsheet](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.9-sequelize-setup-cheatsheet))
+
+1. Ensure that your postgresql server is running.
+2. In your VS Code, remember to `npm install` your packages. pg and sequelize-cli are already called upon.
+3. Go to `config/config.js` and change your username.
+4. Terminal Command: `npx sequelize db:create`&#x20;
+5. Terminal Command: `npx sequelize db:migrate`
+6. Terminal Command: `npx sequelize db:seed:all`
+
+#### Example:
+
 1. Our example is a full-stack e-commerce app. The app begins empty.
 2. When the user clicks a button, the app requests a list of all available items from the server.
 3. When the user clicks on any item in the list a detail view appears.
@@ -16,7 +27,7 @@ Note that some React best practices are what is left out, i.e., state is not cre
 
 ![](../../.gitbook/assets/shopping.jpg)
 
-## "App-Level" \(or "Parent-Level"\) Data vs "Component-Level" Data
+## "App-Level" (or "Parent-Level") Data vs "Component-Level" Data
 
 ### App-Level Data
 
@@ -28,7 +39,7 @@ const [cart, setCart] = useState([]);
 const [selectedItemIndex, setSelectedItem] = useState();
 ```
 
-[https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx\#L9-L11](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L9-L11)
+[https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L9-L11](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L9-L11)
 
 ### Component-Level Data
 
@@ -45,7 +56,7 @@ const gst = subTotal * 0.07;
 const total = subTotal + gst;
 ```
 
-[https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/Cart.jsx\#L7-L14](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/Cart.jsx#L7-L14)
+[https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/Cart.jsx#L7-L14](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/Cart.jsx#L7-L14)
 
 ## Data Flows
 
@@ -53,12 +64,12 @@ const total = subTotal + gst;
 
 Similar to [Module 7.6: Passing Data Between Sibling Components](../7.6-passing-data-between-sibling-components.md), when a child component needs to manipulate data at the app level we pass a "prop function" down into the child component, which sends the parent necessary data via the prop function when the user performs an action.
 
-For example, when the user clicks to add an item to cart, we send that item's index to `App` via a prop function to add that item to the `cart` array stored in app state. We format the data \(to add quantity\) in the prop function before modifying `cart`.
+For example, when the user clicks to add an item to cart, we send that item's index to `App` via a prop function to add that item to the `cart` array stored in app state. We format the data (to add quantity) in the prop function before modifying `cart`.
 
 ### Examples
 
 The following examples demonstrate the same concepts as in [Module 7.6: Passing Data Between Sibling Components](../7.6-passing-data-between-sibling-components.md).
 
-1. Adding an item to the cart from the `itemDetail`: [https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/ItemDetail.jsx\#L14-L16](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/ItemDetail.jsx#L14-L16)
-2. Adding the `item` into the `cart` array: [https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx\#L13-L15](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L13-L15)
+1. Adding an item to the cart from the `itemDetail`: [https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/ItemDetail.jsx#L14-L16](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/components/ItemDetail.jsx#L14-L16)
+2. Adding the `item` into the `cart` array: [https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L13-L15](https://github.com/rocketacademy/react-ecom-bootcamp/blob/main/src/App.jsx#L13-L15)
 3. The setting of the `cart` array sets off the rendering of the `Cart` component and items in the cart.
