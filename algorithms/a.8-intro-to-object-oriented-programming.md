@@ -1,12 +1,12 @@
 # A.8: Object-Oriented Programming
 
-![oop meme](../.gitbook/assets/oop\_meme.jpeg)
+![oop meme](../.gitbook/assets/oop_meme.jpeg)
 
 ## Introduction
 
 Object-oriented programming (OOP) is the concept that data in our apps can be organised in conceptual entities called **"objects"** (unrelated to JavaScript Objects), also known as **"classes"**. In an app context, `User` could be 1 such class, where a user could have multiple attributes such as name, email, password, and also multiple **"methods"** (another word for functions that are part of a class) that perform functionality on specific user **"instances"**. An "instance" is 1 instantiation of a class, e.g. a `User` instance that represents Akira. 1 example of a method on the `User` class could be `validatePassword`, which might hash an input password and verify if it matches the relevant user's password.
 
-We have already used classes extensively in Coding Bootcamp, perhaps unknowingly. For example, the `push` and `pop` methods on arrays in JavaScript are examples of methods in the `Array` class. The `user.name` attribute and `user.getItems` method on a user retrieved with Sequelize are examples of attributes and methods in the Sequelize `User` class that we define in our model file (with Sequelize helper functions).
+We have already used classes extensively in SWE Bootcamp, perhaps unknowingly. For example, the `push` and `pop` methods on arrays in JavaScript are examples of methods in the `Array` class. The `user.name` attribute and `user.getItems` method on a user retrieved with Sequelize are examples of attributes and methods in the Sequelize `User` class that we define in our model file (with Sequelize helper functions).
 
 In the Leetcode context, we will be using classes to define non-built-in data structures in Python to help us solve problems more efficiently. These new data structures will include linked lists, trees, and graphs. All of these data structures will be built on built-in features of Python.
 
@@ -25,7 +25,7 @@ class Cat:
   def __init__(self, name):
     print("making a new cat")
     self.name = name
-  
+
   def get_name(self):
     # Return the .name attribute of the current instance
     return self.name
@@ -39,14 +39,14 @@ Naming convention: Classes are typically named with UpperCamelCase. Instances ar
 
 Once we have defined a class we can create an instance of the class. An instance is the "_live_" instantiation of a class, made from the mold of the class definition. It has actual data inside, not just the variable names.
 
-![class instance illustration](../.gitbook/assets/factory\_gif.gif)
+![class instance illustration](../.gitbook/assets/factory_gif.gif)
 
 ```python
 cat1 = Cat("Kai")
 cat2 = Cat("Chee Kean")
 
 print(cat1.get_name())
-print(cat2.get_name())  
+print(cat2.get_name())
 ```
 
 #### Constructor
@@ -65,7 +65,7 @@ When we write code that is for `cat1` and `cat2` we are going to be calling the 
 
 ## Four Pillars of OOP Design
 
-In Industry there is some disagreement about how to go about doing OOP, or [even to do it at all](https://en.wikipedia.org/wiki/Object-oriented\_programming#Criticism). Four generally recognized principles are: _abstraction_, _encapsulation_, _inheritance_ and _polymorphism_. They were codified at the height of OOP popularity in the 90's by the [Three Amigos](https://wiki.c2.com/?ThreeAmigos) and the [Gang of Four](http://wiki.c2.com/?GangOfFour). We'll see some examples for each below. Note that these kinds of programming design terms are not static nor are the universally agreed upon.
+In Industry there is some disagreement about how to go about doing OOP, or [even to do it at all](https://en.wikipedia.org/wiki/Object-oriented_programming#Criticism). Four generally recognized principles are: _abstraction_, _encapsulation_, _inheritance_ and _polymorphism_. They were codified at the height of OOP popularity in the 90's by the [Three Amigos](https://wiki.c2.com/?ThreeAmigos) and the [Gang of Four](http://wiki.c2.com/?GangOfFour). We'll see some examples for each below. Note that these kinds of programming design terms are not static nor are the universally agreed upon.
 
 ![Dijkstra quote](../.gitbook/assets/dijkstra-oop.jpeg)
 
@@ -96,17 +96,17 @@ class Person:
     self.is_male = is_male # set the .is_male attribute to is_male
     self.weight = weight   # set the .weight attribute to weight
     # By the end of __init__, a new Person object is initialised. No need to return self.
-  
+
   def get_name(self):
     # Return the .name attribute of the current instance
-    return self.name 
-  
+    return self.name
+
   def get_age(self):
     return self.age
-    
+
   def get_weight_pounds(self):
     return self.weight * 2.2
-  
+
   def get_gender(self):
     if self.is_male == True:
       return "Male"
@@ -172,8 +172,8 @@ class Worker:
       for tool in self.tools:
         result_string += tool.name + ", "
       result_string = result_string[:-2] # drop off extra ", "
-    print(result_string) 
-    
+    print(result_string)
+
   def dropall(self):
     ''' Drop all tools in self.tools list '''
     for tool in self.tools:
@@ -221,7 +221,7 @@ b.pickup(tool1)
 b.show_tools() # Prints "Bob has 2 tools: Hammer, Hammer"
 ```
 
-When we call the show\_tools method, we don't need to worry about how the method code implements the string output. The class is abstracting the string manipulation complexities away.
+When we call the show_tools method, we don't need to worry about how the method code implements the string output. The class is abstracting the string manipulation complexities away.
 
 This is the same whenever we use an NPM library- the library is abstracting away programming complexity we don't need to know about.
 
@@ -231,24 +231,24 @@ Inheritance is a way to refactor the code such that, instead of two classes with
 
 ```python
 class Robot:
-    
+
     def __init__(self, name):
         self.name = name
-        
+
     def say_hi(self):
         print("Hi, I am " + self.name)
-        
+
 class PhysicianRobot(Robot):
 
     def say_hi(self):
-        print("Everything will be okay! ") 
+        print("Everything will be okay! ")
         print(self.name + " takes care of you!")
 
 y = PhysicianRobot("James")
 y.say_hi()
 ```
 
-Robot example from here: [https://www.python-course.eu/python3\_inheritance.php](https://www.python-course.eu/python3\_inheritance.php)
+Robot example from here: [https://www.python-course.eu/python3_inheritance.php](https://www.python-course.eu/python3_inheritance.php)
 
 ## Polymorphism
 
@@ -260,28 +260,28 @@ From [here](https://www.geeksforgeeks.org/polymorphism-in-python/).
 class Bird:
   def intro(self):
     print("There are many types of birds.")
-     
+
   def flight(self):
     print("Most of the birds can fly but some cannot.")
-   
+
 class sparrow(Bird):
   def flight(self):
     print("Sparrows can fly.")
-     
+
 class ostrich(Bird):
   def flight(self):
     print("Ostriches cannot fly.")
-     
+
 obj_bird = Bird()
 obj_spr = sparrow()
 obj_ost = ostrich()
- 
+
 obj_bird.intro()
 obj_bird.flight()
- 
+
 obj_spr.intro()
 obj_spr.flight()
- 
+
 obj_ost.intro()
 obj_ost.flight()
 ```

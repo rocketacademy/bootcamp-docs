@@ -6,9 +6,9 @@ MVC stands for "Model View Controller" and refers to 3 logical components of web
 
 ### Model
 
-The Model logical component in MVC refers to the structure of data in our applications, and is the component responsible for manipulating data in the database. In Coding Bootcamp we will use the Sequelize library to power our model architecture, but "model" in MVC refers to structure of data in general and is not dependent on Sequelize, any library, or even a SQL database.
+The Model logical component in MVC refers to the structure of data in our applications, and is the component responsible for manipulating data in the database. In SWE Bootcamp we will use the Sequelize library to power our model architecture, but "model" in MVC refers to structure of data in general and is not dependent on Sequelize, any library, or even a SQL database.
 
-Depending on the opinion of the architect, more or less logic can be placed in models. Read more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models). In Coding Bootcamp we will use models that only contain our Sequelize model definitions, and relegate business logic to our Controllers.
+Depending on the opinion of the architect, more or less logic can be placed in models. Read more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models). In SWE Bootcamp we will use models that only contain our Sequelize model definitions, and relegate business logic to our Controllers.
 
 ### View
 
@@ -22,7 +22,7 @@ The following are examples of view logic.
 
 ### Controller
 
-Controller refers to business logic. Controllers are the glue between model and views, and handle HTTP requests and responses. For example, a controIler would determine if, when, and how an app would respond with a 404. In Coding Bootcamp, controllers will contain the majority of our applications' business logic, and generally everything not a model or view will go in a controller. Other web frameworks such as Ruby on Rails advocate for "fat models and skinny controllers", where business logic can be abstracted to models to keep controller logic clean. This is a matter of preference.
+Controller refers to business logic. Controllers are the glue between model and views, and handle HTTP requests and responses. For example, a controIler would determine if, when, and how an app would respond with a 404. In SWE Bootcamp, controllers will contain the majority of our applications' business logic, and generally everything not a model or view will go in a controller. Other web frameworks such as Ruby on Rails advocate for "fat models and skinny controllers", where business logic can be abstracted to models to keep controller logic clean. This is a matter of preference.
 
 ### Routes
 
@@ -55,12 +55,12 @@ npx sequelize migration:generate --name create-items-table
 
 Delete the entire contents of the file and write the table creation code:
 
-#### \<GENERATED\_DATE>-create-items-table.js
+#### \<GENERATED_DATE>-create-items-table.js
 
 ```javascript
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.createTable('items', {
+    await queryInterface.createTable("items", {
       id: {
         allowNull: false,
         autoIncrement: true,
@@ -82,7 +82,7 @@ module.exports = {
   },
 
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('items');
+    await queryInterface.dropTable("items");
   },
 };
 ```
@@ -106,7 +106,7 @@ psql -d grocerymvc_development
 ```javascript
 export default function initItemModel(sequelize, DataTypes) {
   return sequelize.define(
-    'item',
+    "item",
     {
       id: {
         allowNull: false,
@@ -137,12 +137,12 @@ export default function initItemModel(sequelize, DataTypes) {
 ### models/index.mjs
 
 ```javascript
-import { Sequelize } from 'sequelize';
-import allConfig from '../config/config.js';
+import { Sequelize } from "sequelize";
+import allConfig from "../config/config.js";
 
-import initItemModel from './item.mjs';
+import initItemModel from "./item.mjs";
 
-const env = process.env.NODE_ENV || 'development';
+const env = process.env.NODE_ENV || "development";
 
 const config = allConfig[env];
 
@@ -169,33 +169,33 @@ export default db;
 npx sequelize seed:generate --name seed-data
 ```
 
-### \<GENERATED\_DATE>-seed-data.js
+### \<GENERATED_DATE>-seed-data.js
 
 ```javascript
 module.exports = {
   up: async (queryInterface) => {
     const itemsList = [
       {
-        name: 'doritos',
+        name: "doritos",
         created_at: new Date(),
         updated_at: new Date(),
       },
       {
-        name: 'mangoes',
+        name: "mangoes",
         created_at: new Date(),
         updated_at: new Date(),
       },
       {
-        name: 'pork shoulder',
+        name: "pork shoulder",
         created_at: new Date(),
         updated_at: new Date(),
       },
     ];
-    await queryInterface.bulkInsert('items', itemsList);
+    await queryInterface.bulkInsert("items", itemsList);
   },
 
   down: async (queryInterface) => {
-    await queryInterface.bulkDelete('items', null, {});
+    await queryInterface.bulkDelete("items", null, {});
   },
 };
 ```
@@ -227,24 +227,24 @@ mkdir views public
 The following is a standard Express.js root file setup.
 
 ```javascript
-import express from 'express';
-import cookieParser from 'cookie-parser';
-import methodOverride from 'method-override';
+import express from "express";
+import cookieParser from "cookie-parser";
+import methodOverride from "method-override";
 
-import bindRoutes from './routes.mjs';
+import bindRoutes from "./routes.mjs";
 
 // Initialise Express instance
 const app = express();
 // Set the Express view engine to expect EJS templates
-app.set('view engine', 'ejs');
+app.set("view engine", "ejs");
 // Bind cookie parser middleware to parse cookies in requests
 app.use(cookieParser());
 // Bind Express middleware to parse request bodies for POST requests
 app.use(express.urlencoded({ extended: false }));
 // Bind method override middleware to parse PUT and DELETE requests sent as POST requests
-app.use(methodOverride('_method'));
+app.use(methodOverride("_method"));
 // Expose the files stored in the public folder
-app.use(express.static('public'));
+app.use(express.static("public"));
 
 // Bind route definitions to the Express application
 bindRoutes(app);
@@ -267,16 +267,16 @@ Note the `index` key of `itemsController`. We will define this in the controller
 ### routes.mjs
 
 ```javascript
-import db from './models/index.mjs';
+import db from "./models/index.mjs";
 
 // import the controller
-import initItemsController from './controllers/items.mjs';
+import initItemsController from "./controllers/items.mjs";
 
 export default function bindRoutes(app) {
   // pass in the db for all items callbacks
   const itemsController = initItemsController(db);
 
-  app.get('/items', itemsController.index);
+  app.get("/items", itemsController.index);
 }
 ```
 
@@ -284,7 +284,7 @@ export default function bindRoutes(app) {
 
 We have written the routes matching requests to controllers in our routes file. Let's write the controller methods that handle the requests. Create a `controllers` folder to store controllers.
 
-Each feature can have its own controller. In Coding Bootcamp we will export a function (`initItemsController` in this case) from each controller, such that the parameter to the function `db` can be used by all methods within this controller without explicitly passing `db` every time we invoke a controller method.
+Each feature can have its own controller. In SWE Bootcamp we will export a function (`initItemsController` in this case) from each controller, such that the parameter to the function `db` can be used by all methods within this controller without explicitly passing `db` every time we invoke a controller method.
 
 ### controllers/items.mjs
 
@@ -295,7 +295,7 @@ export default function initItemsController(db) {
   const index = (request, response) => {
     db.Item.findAll()
       .then((items) => {
-        response.render('items/index', { items });
+        response.render("items/index", { items });
       })
       .catch((error) => console.log(error));
   };
@@ -312,7 +312,7 @@ export default function initItemsController(db) {
 
 This example assumes you need to display a list of data. For convenience and consistency we can give standard names to the CRUD methods of our controllers. For example, an `index` method might retrieve all instances of a model. See the [names table below](./#names) for a complete listing.
 
-#### controllers/\<NAME\_LOWER\_CAMEL\_CASE\_PLURAL>.mjs
+#### controllers/\<NAME_LOWER_CAMEL_CASE_PLURAL>.mjs
 
 ```javascript
 export default function init<NAME_LOWER_CAMEL_CASE_PLURAL>Controller(db) {
@@ -364,7 +364,7 @@ Then access the route we defined on our server in the browser via `localhost:300
 
 ## Naming Conventions: URL Path, Controller Method, View, and Model
 
-Please use the following naming conventions for CRUD MVC components in Coding Bootcamp applications.
+Please use the following naming conventions for CRUD MVC components in SWE Bootcamp applications.
 
 | URL Path        | Method | Purpose                                     | Controller Method Name | View File Name | Sequelize Model Method Name |
 | --------------- | ------ | ------------------------------------------- | ---------------------- | -------------- | --------------------------- |

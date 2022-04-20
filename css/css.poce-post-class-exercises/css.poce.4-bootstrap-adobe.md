@@ -4,7 +4,7 @@
 
 1. Integrate bootstrap into the Wikipedia page from previous CSS in class exercises.
 
-Refer to the CSS.ICE.2: Wikipedia [here](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia)
+Refer to the CSS.ICE.2: Wikipedia [here](https://bootcamp.rocketacademy.co/css/css.ice-in-class-exercises/css.ice.2-css-practice-6-wikipedia)
 
 ## Setup
 
