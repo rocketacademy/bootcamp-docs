@@ -2,7 +2,7 @@
 
 [Create React App](https://create-react-app.dev) (CRA) is the officially supported demo / pre-setup React app architecture.
 
-While CRA helps us set up a fully working React frontend "out of the box", the intention of the curriculum is to understand what is "under the hood" through the previous module prior to diving in.&#x20;
+While CRA helps us set up a fully working React frontend "out of the box", the intention of the curriculum till now is to understand what is "under the hood" before we use CRA to build apps.&#x20;
 
 While CRA give us is quick and "officially supported", we will require a separate back-end repository to run our server-side functionalities. Hence, we will have to deploy 2 separate repos: (1) the [express MVC server repo](https://github.com/rocketacademy/base-mvc-bootcamp) and (2) the Create React App repo. These will be connected via AJAX requests made by the React app to the Express.js server.
 
