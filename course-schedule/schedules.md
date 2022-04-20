@@ -1,11 +1,11 @@
 # Schedules
 
-## [FTBC6](scheduler.rocketacademy.co/#/schedules/ftbc6)
+## [FTBC6](schedules.rocketacademy.co/#/ftbc6)
 
-## [FTBC7](scheduler.rocketacademy.co/#/schedules/ftbc7)
+## [FTBC7](schedules.rocketacademy.co/#/ftbc7)
 
-## [PTBC1](scheduler.rocketacademy.co/#/schedules/ptbc1)
+## [PTBC1](schedules.rocketacademy.co/#/ptbc1)
 
-## [PTBC2](scheduler.rocketacademy.co/#/schedules/ptbc2)
+## [PTBC2](schedules.rocketacademy.co/#/ptbc2)
 
-## [PTBC3](scheduler.rocketacademy.co/#/schedules/ptbc3)
+## [PTBC3](schedules.rocketacademy.co/#/ptbc3)
