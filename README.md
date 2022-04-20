@@ -1,4 +1,4 @@
-# 🚀 Welcome to Bootcamp!
+# Welcome to Bootcamp!
 
 ## Overview
 
@@ -41,39 +41,39 @@ Rocket expects students to spend a minimum of 40 hrs/wk (FTBC) or 20 hrs/wk (PTB
 
 This part of the program is mostly a continuation of the work done in Coding Basics, with the pace and technical complexity increased to Bootcamp levels.
 
-- Expand upon basics work to understand the wider context of JavaScript in the browser.
-- Ramp up the complexity of programs we write.
-- Introduce new levels of program abstraction, representation & complexity.
-- Create mobile-responsive web layouts with CSS
+* Expand upon basics work to understand the wider context of JavaScript in the browser.
+* Ramp up the complexity of programs we write.
+* Introduce new levels of program abstraction, representation & complexity.
+* Create mobile-responsive web layouts with CSS
 
 ### Module 2,3,4,5: Web Application Fundamentals
 
 The part of the program builds knowledge of web applications from the ground up, starting with running a simple one-line program and building up to a complex internet and data-backed application. Even though some of the content is not the latest industry-relevant technologies, these modules provide fundamental knowledge and practice in how the disparate parts of modern web applications are constructed, by constructing one yourself, piece-by-piece.
 
-- Introduce system-level runtime environment with Node.js
-- Introduction to HTTP & Internet fundamentals
-- Database & data storage fundamentals
-- Web authentication
-- Backend application fundamentals with NPM
-- Web 2.0 full-stack architecture
-- MVC
-- Cloud deployment with AWS
+* Introduce system-level runtime environment with Node.js
+* Introduction to HTTP & Internet fundamentals
+* Database & data storage fundamentals
+* Web authentication
+* Backend application fundamentals with NPM
+* Web 2.0 full-stack architecture
+* MVC
+* Cloud deployment with AWS
 
 ### Module 6,7: Modern Web Application Fundamentals, Core Libraries & Architectures
 
 These modules transition towards a modern, full-stack application by adding on necessary layers to encapsulate and abstract parts of the system we had previously constructed “by hand”.
 
-- Modern web-application architecture with Webpack
-- Managed cloud deployment with Heroku
-- React.js front-end DOM libraries & architecture
+* Modern web-application architecture with Webpack
+* Managed cloud deployment with Heroku
+* React.js front-end DOM libraries & architecture
 
 ### Module 8: Final Form
 
 This module is the summation of all previous material, culminating in the final form of our app, incorporating the latest libraries and technologies.
 
-- Front-end & Backend isolation with Create React App
-- Front-end state management with reducers
-- Popular React Libraries
+* Front-end & Backend isolation with Create React App
+* Front-end state management with reducers
+* Popular React Libraries
 
 ### Syllabus
 

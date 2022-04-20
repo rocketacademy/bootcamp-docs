@@ -1,28 +1,22 @@
 # Table of contents
 
 - [Welcome to Bootcamp!](README.md)
-
 - [🛠 Logistics](logistics/README.md)
   - [Course Methodology](logistics/course-methodology.md)
   - [Group Work Primer](logistics/group-work-primer.md)
   - [Required Hardware and Software](logistics/required-hardware-and-software.md)
   - [LinkedIn Education Badge](logistics/linkedin-education-badge.md)
 - [📚 General Reference](general-reference/README.md)
-
   - [Naming, Casing, and Commenting Conventions](general-reference/naming-casing-and-commenting-conventions.md)
   - [Recommended Resources](general-reference/recommended-resources.md)
-
 - [🏞 Projects](projects/README.md)
-
   - [Project 1: Video Poker](projects/project-1-video-poker.md)
   - [Project 2: Server-Side App](projects/project-2-server-side-app.md)
   - [Project 3: Full-Stack Game](projects/project-3-full-stack-game.md)
   - [Project 4: Full-Stack React App](projects/project-4-full-stack-react-app.md)
   - [Project 5: Group React App](projects/project-5-group-react-app.md)
   - [Project 6: Capstone](projects/project-6-capstone.md)
-
-- [0⃣ Language and Tooling](0-language-and-tooling/README.md)
-
+- [0⃣ 0: Language and Tooling](0-language-and-tooling/README.md)
   - [0.0: Module 0 Overview](0-language-and-tooling/0.0-module-0-overview.md)
   - [0.1: New JS Syntax](0-language-and-tooling/0.1-new-js-syntax.md)
   - [0.2: ES6](0-language-and-tooling/0.2-es6/README.md)
@@ -45,9 +39,7 @@
   - [0.10: Introduction to Classes](0-language-and-tooling/0.10-introduction-to-classes.md)
   - [0.ICE: In-Class Exercises](0-language-and-tooling/0.ice-in-class-exercises/README.md)
     - [0.ICE.1: Git Branches](0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
-
-- [1⃣ Frontend Basics](1-frontend-basics/README.md)
-
+- [1⃣ 1: Frontend Basics](1-frontend-basics/README.md)
   - [1.0: Module 1 Overview](1-frontend-basics/1.0-module-1-overview.md)
   - [1.1: HTML](1-frontend-basics/1.1-html/README.md)
     - [1.1.0: Wireframes](1-frontend-basics/1.1-html/1.1.0-wireframes.md)
@@ -76,9 +68,7 @@
     - [1.POCE.3: Match Game](1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game.md)
     - [1.POCE.4: Timer](1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer.md)
     - [1.POCE.5: Tic Tac Toe](1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe.md)
-
 - [🌈 CSS](css/README.md)
-
   - [CSS.1: Basic CSS](css/css-1-basic-css.md)
   - [CSS 1.2 CSS Classes, Id's and Inheritance](css/css-1.2-css-classes-ids-and-inheritance.md)
   - [CSS 1.3: Cascading and Specificity](css/css-1.3-cascading-and-specificity.md)
@@ -108,14 +98,11 @@
     - [CSS.ICE.8: Portfolio Page](css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank.md)
     - [CSS.ICE.9: Selectors](css/1.ice.css-in-class-css-exercises/css.ice.9-selectors.md)
   - [CSS.POCE - Post-Class Exercises](css/1.poce.css-post-class-css-exercises/README.md)
-
     - [CSS.POCE.1: Flexbox Docs Page](css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive.md)
     - [CSS.POCE.2: Flexbox Personal Page](css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page.md)
     - [CSS.POCE.3: Bootstrap Columns](css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns.md)
     - [CSS.POCE.4: Bootstrap](css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe.md)
-
-- [2⃣ Backend Basics](2-backend-basics/README.md)
-
+- [2⃣ 2: Backend Basics](2-backend-basics/README.md)
   - [2.0: Module 2 Overview](2-backend-basics/2.0-module-2-overview.md)
   - [2.1: My First Node.js Program](2-backend-basics/2.1-my-first-node-program.md)
   - [2.2: Command Line Programs](2-backend-basics/2.2-command-line-programs.md)
@@ -142,16 +129,13 @@
     - [2.ICE.5: Reading and Writing to JSON](2-backend-basics/2.ice-in-class-exercises/2.ice.5-json-cards.md)
     - [2.ICE.6: NPM, JSON File Storage](2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm-json-file-storage.md)
   - [2.POCE: Post-Class Exercises](2-backend-basics/2.poce-post-class-exercises/README.md)
-
     - [2.POCE.1: Command Line Colour Converter](2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter.md)
     - [2.POCE.2: CSS Reader](2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader.md)
     - [2.POCE.3: CSS Processor](2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor.md)
     - [2.POCE.4: File Server](2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server.md)
     - [2.POCE.5: Responsive Noodle Site](2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site.md)
     - [2.POCE.6: To-Do List - JSON DB](2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json.md)
-
-- [3⃣ Backend Applications](3-backend-applications/README.md)
-
+- [3⃣ 3: Backend Applications](3-backend-applications/README.md)
   - [3.0: Module 3 Overview](3-backend-applications/3.0-module-3-overview.md)
   - [3.1: Express.js](3-backend-applications/3.1-express-js/README.md)
     - [3.1.1: Express with JSON DB](3-backend-applications/3.1-express-js/3.1.1-express-with-json-db.md)
@@ -219,9 +203,7 @@
     - [3.POCE.9: Bird Watching Comments](3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments.md)
     - [3.POCE.10: EC2 Deployment with Postgres](3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md)
     - [3.POCE.11: Heroku Deployment](3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment.md)
-
-- [4⃣ Backend Structure](4-backend-structure/README.md)
-
+- [4⃣ 4: Backend Structure](4-backend-structure/README.md)
   - [4.0: Module 4 Overview](4-backend-structure/4.0-module-4-overview.md)
   - [4.1: ORM, Sequelize](4-backend-structure/4.1-orm-sequelize/README.md)
     - [4.1.1: Intro to Sequelize](4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize.md)
@@ -241,9 +223,7 @@
     - [4.POCE.1: Sequelize CLI App - Travel Itinerary](4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary.md)
     - [4.POCE.2: Drummers for Hire](4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire.md)
     - [4.POCE.3: Project 2 MVC Refactor](4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor.md)
-
-- [5️⃣ Full-Stack Applications](5-full-stack-applications/README.md)
-
+- [5⃣ 5: Full-Stack Applications](5-full-stack-applications/README.md)
   - [5.0: Module 5 Overview](5-full-stack-applications/5.0-module-5-overview.md)
   - [5.1: DOM Manipulation with Express App](5-full-stack-applications/5.1-dom-manipulation-with-express-app.md)
   - [5.2: AJAX](5-full-stack-applications/5.2-ajax/README.md)
@@ -258,9 +238,7 @@
     - [5.POCE.1: Bug Reports AJAX](5-full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax.md)
     - [5.POCE.2: Bug Reports AJAX Users](5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users.md)
     - [5.POCE.3: AJAX Cards](5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards.md)
-
-- [6️⃣ Frontend Infrastructure](6-frontend-infrastructure/README.md)
-
+- [6⃣ 6: Frontend Infrastructure](6-frontend-infrastructure/README.md)
   - [6.0: Module 6 Overview](6-frontend-infrastructure/6.0-module-6-overview.md)
   - [6.1: Webpack](6-frontend-infrastructure/6.1-webpack/README.md)
     - [6.1.1: Webpack with Local Modules](6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules.md)
@@ -271,9 +249,7 @@
     - [6.1.6: Deploy Webpack App to Heroku](6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku.md)
   - [6.ICE: In-Class Exercises](6-frontend-infrastructure/6.ice-in-class-exercises/README.md)
     - [6.ICE.1: NPM Webpack](6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack.md)
-
-- [7️⃣ React](7-react/README.md)
-
+- [7⃣ 7: React](7-react/README.md)
   - [7.0: Module 7 Overview](7-react/7.0-module-7-overview.md)
   - [7.1: JSX Intro](7-react/7.1-jsx-intro/README.md)
     - [7.1.1: Conditional Rendering](7-react/7.1-jsx-intro/7.1.1-conditional-rendering.md)
@@ -302,9 +278,7 @@
     - [7.POCE.2: React Tic Tac Toe](7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe.md)
     - [7.POCE.3: Read Later](7-react/7.poce-post-class-exercises/7.poce.3-read-later.md)
     - [7.POCE.4: Hot Pot Bill Splitter](7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter.md)
-
-- [8️⃣ Advacned React](8-advanced-react/README.md)
-
+- [8⃣ 8: Advanced React](8-advanced-react/README.md)
   - [8.0: Module 8 Overview](8-advanced-react/8.0-module-8-overview.md)
   - [8.1: Create React App](8-advanced-react/8.1-create-react-app/README.md)
     - [8.1.1: Create React App Full Stack Setup](8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup.md)
@@ -328,9 +302,7 @@
   - [8.POCE: Post-Class Exercises](8-advanced-react/8.poce-post-class-exercises/README.md)
     - [8.POCE.1: Car Rental](8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
     - [8.POCE.2: (Group Project) Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
-
-- [9️⃣ Advanced Topics](9-advanced-topics/README.md)
-
+- [9⃣ 9: Advanced Topics](9-advanced-topics/README.md)
   - [9.0: Module 9 Overview](9-advanced-topics/9.0-module-9-overview.md)
   - [9.1: Testing](9-advanced-topics/9.1-testing/README.md)
     - [9.1.1: Unit Testing](9-advanced-topics/9.1-testing/9.1.1-unit-testing.md)
@@ -355,9 +327,7 @@
     - [9.ICE.2: TDD](9-advanced-topics/9.ice-in-class-exercises/9.ice.2-tdd.md)
   - [9.POCE: Post-Class Exercises](9-advanced-topics/9.poce-post-class-exercises/README.md)
     - [9.POCE.1: Django App](9-advanced-topics/9.poce-post-class-exercises/9.poce.1-django-app.md)
-
 - [🧮 Algorithms](algorithms/README.md)
-
   - [A.0: Algorithms Overview](algorithms/a.0-algorithms-overview.md)
   - [A.1: Intro to SWE Interviews](algorithms/a.1-intro-to-swe-interviews.md)
   - [A.2: Intro to Python](algorithms/a.2-intro-to-python.md)
@@ -391,18 +361,14 @@
   - [A.11: Dynamic Programming](algorithms/a.11-dynamic-programming.md)
   - [A.12: Bit Manipulation](algorithms/a.12-bit-manipulation.md)
   - [A.13: Open Practice](algorithms/a.13-open-practice.md)
-
 - [💼 Interview Prep](interview-prep/README.md)
-
   - [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
   - [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
   - [IP.2: Resume](interview-prep/ip.2-resume.md)
   - [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
   - [IP.4: Job List](interview-prep/ip.4-job-list.md)
   - [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
-
-- [☺ User Experience](user-experience/README.md)
-
+- [☺ User Experience](user-experience.md)
   - [UX.1: Overview](user-experience/ux.1-overview.md)
   - [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
   - [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
