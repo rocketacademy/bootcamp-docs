@@ -2,7 +2,7 @@
 
 ## Introduction
 
-1. If you haven't already, please make sure that you have the [required hardware and software](https://app.gitbook.com/s/-MBhJa4xpezxI4J9lolG/course-logistics/required-hardware-and-software).
+1. If you haven't already, please make sure that you have the [required hardware and software](https://app.gitbook.com/s/-MBhJa4xpezxI4J9lolG/logistics/required-hardware-and-software).
 2. Please install the latest version of Windows or MacOS that your computer supports so that we can standardise the operating system version used by students across the board.
 
 ## Windows
@@ -71,7 +71,7 @@ If you were using the Git Bash terminal before, after following these instructio
 
 1. You will see a notification "Starting VS Code in WSL...". This means VS Code is setting up a server inside WSL for the first time. Once installed, the VS Code of your Windows machine/desktop will communicate with VS Code server on the Linux side.
 
-[![Starting VS code in WSL for the first time](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c\_limit%2Cf\_auto%2Cfl\_progressive%2Cq\_auto%2Cw\_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c\_limit%2Cf\_auto%2Cfl\_progressive%2Cq\_auto%2Cw\_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)
+[![Starting VS code in WSL for the first time](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hQNq4fVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3667py1lgpqwwl1ijafz.png)
 
 #### Install Node.js
 
@@ -153,6 +153,7 @@ After `cd`ing into the repo directory, run the following command to install the 
 ```
 npm install
 ```
+
 {% endhint %}
 
 #### NPM
@@ -211,8 +212,8 @@ Rocket implements the AirBnB ESLint style rules, which is an extention of the ba
 
 Read some more details about the rules here:
 
-* [https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053)
-* [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+- [https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053)
+- [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 ## Other VSCode Extensions
 

@@ -31,10 +31,10 @@ See the example user login app for login starter code: [https://github.com/rocke
 
 In [Module 3](../3-backend-applications/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
-* Google stores websites and users retrieve those websites
-* Uber stores drivers and their availability and users retrieve available drivers nearby
-* Telegram stores messages between users and users retrieve and create those messages
-* EBay stores auction data and users retrieve products for auction
+- Google stores websites and users retrieve those websites
+- Uber stores drivers and their availability and users retrieve available drivers nearby
+- Telegram stores messages between users and users retrieve and create those messages
+- EBay stores auction data and users retrieve products for auction
 
 While we may not yet have the power to index websites like Google, we know enough to build prototypes of similar applications. The role of a web application is not just to make GET and POST requests, but to store and retrieve data related to its core functionality, e.g. search, ride sharing, messaging, auctions.
 
@@ -44,10 +44,10 @@ Your app idea is more compelling if its purpose is for something specific and re
 
 Given the relative restrictions of a server-side app that renders HTML pages, there are certain ideas that will be more easily accomplished when we include more modern technologies. In later Coding Bootcamp modules we will learn how to incorporate 3rd-party JS libraries into our frontends to accomplish some of the following. No worries if you don't have these for now.
 
-* Date or date-time input fields for scheduling or calendars.
-* User location using maps.
-* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
-* Anything where the user might have to drag or draw something.
+- Date or date-time input fields for scheduling or calendars.
+- User location using maps.
+- Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
+- Anything where the user might have to drag or draw something.
 
 ### File Uploading
 
@@ -57,8 +57,8 @@ If your app idea involves file uploading, [3.5.11: File Uploads](../3-backend-ap
 
 The following are some ideas for 3rd-party APIs that we can use in our apps.
 
-* [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
-* [Data.gov.sg APIs](https://data.gov.sg)
+- [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
+- [Data.gov.sg APIs](https://data.gov.sg)
 
 ## General Tips
 
@@ -93,7 +93,7 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD\_Saou\_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD_Saou_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 
@@ -132,16 +132,16 @@ The app and all its features should run without errors. Brief demo in class to d
 
 ## Project Presentations
 
-Presentations should cover the [topics in this list](../course-logistics/course-methodology.md#project-presentations).
+Presentations should cover the [topics in this list](../logistics/course-methodology.md#project-presentations).
 
 ## Post-Mortem Meeting
 
-Please answer the [project post-mortem questions](../course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
+Please answer the [project post-mortem questions](../logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
 
 ## Video Demo
 
-Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
+Please follow [video demo guidelines here](../logistics/course-methodology.md#project-videos).
 
 ## Project Submission and Past Student Projects
 
-Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR\_FgeFO\_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
+Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR_FgeFO_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
