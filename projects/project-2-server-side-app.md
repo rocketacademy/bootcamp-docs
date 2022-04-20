@@ -107,7 +107,7 @@ Save these planning docs in a project GitHub repo and share it in Slack. Instruc
 
 ## MVP Deadline
 
-A user should be able to play the game through once without encountering errors. App should be deployed to Heroku. Peer code review during class.
+A user should be able to play the game through once without encountering errors. Peer code review during class.
 
 1. \~45 minutes on each partner's project (\~30 minutes if in a group of 3)
 2. Share any challenges you've faced on your project
@@ -116,11 +116,7 @@ A user should be able to play the game through once without encountering errors.
 
 ### Deployment
 
-Please deploy your app to EC2 \*before\* feature freeze. You may find the following resources helpful when deploying.
-
-1. [3.POCE.10: EC2 Deployment with Postgres](../3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres.md) (culmination of the following 2 modules)
-2. [2.11: Deploy Server to Cloud](../2-backend-basics/2.11-deploy-server-to-cloud.md)
-3. [3.4.1: PostgreSQL, psql (psql Setup)](../3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql.md#ubuntu-for-windows-users-in-wsl-and-ec2-installation)
+Please deploy your app to Heroku.
 
 ### Refactoring
 
