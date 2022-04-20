@@ -9,10 +9,10 @@
   - [LinkedIn Education Badge](logistics/linkedin-education-badge.md)
 - [📚 General Reference](general-reference/README.md)
 
-  - [Naming, Casing, and Commenting Conventions](logistics/naming-casing-and-commenting-conventions.md)
-  - [Recommended Resources](logistics/recommended-resources.md)
+  - [Naming, Casing, and Commenting Conventions](general-reference/naming-casing-and-commenting-conventions.md)
+  - [Recommended Resources](general-reference/recommended-resources.md)
 
-- [🏞 Projects](general-reference/README.md)
+- [🏞 Projects](projects/README.md)
 
   - [Project 1: Video Poker](projects/project-1-video-poker.md)
   - [Project 2: Server-Side App](projects/project-2-server-side-app.md)
@@ -403,6 +403,6 @@
 
 - [☺ User Experience](user-experience/README.md)
 
-- [UX.1: Overview](user-experience/ux.1-overview.md)
-- [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
-- [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
+  - [UX.1: Overview](user-experience/ux.1-overview.md)
+  - [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
+  - [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
