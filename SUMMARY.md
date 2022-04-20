@@ -97,7 +97,7 @@
     - [CSS.ICE.8: Portfolio Page](css/css.ice-in-class-exercises/css.ice.8-chase-bank.md)
     - [CSS.ICE.9: Selectors](css/css.ice-in-class-exercises/css.ice.9-selectors.md)
   - [CSS.POCE: Post-Class Exercises](css/css.poce-post-class-exercises/README.md)
-    - [CSS.POCE.1: Flexbox Docs Page](css/css.poce-post-class-exercises/css.poce.1-technical-documentation-page-flexbox-responsive.md)
+    - [CSS.POCE.1: Flexbox Docs Page](css/css.poce-post-class-exercises/css.poce.1-flexbox-docs-page.md)
     - [CSS.POCE.2: Flexbox Personal Page](css/css.poce-post-class-exercises/css.poce.2-flexbox-personal-page.md)
     - [CSS.POCE.3: Bootstrap Columns](css/css.poce-post-class-exercises/css.poce.3-bootstrap-columns.md)
     - [CSS.POCE.4: Bootstrap](css/css.poce-post-class-exercises/css.poce.4-bootstrap-adobe.md)
