@@ -4,13 +4,15 @@
 
 ### Welcome to Software Engineering Bootcamp!
 
-Software Engineering Bootcamp is Rocket Academy's flagship career conversion course. It builds on material taught in [Coding Basics](https://basics.rocketacademy.co). On successful completion of Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203\_890e2dab19\_b-811x900.jpg).
+Software Engineering Bootcamp is Rocket Academy's flagship career conversion course. It builds on material taught in [Coding Basics](https://basics.rocketacademy.co). On successful completion of Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203_890e2dab19_b-811x900.jpg).
 
 ### Current Batch Schedules
 
-1. [Full Time Batch 6](https://rocketacademy.github.io/scheduler/#/schedules/ftbc6)
-2. [Part Time Batch 1](https://rocketacademy.github.io/scheduler/#/schedules/ptbc1)
-3. [Part Time Batch 2](https://rocketacademy.github.io/scheduler/#/schedules/ptbc2)
+1. [FTBC6](scheduler.rocketacademy.co/#/schedules/ftbc6)
+1. [FTBC7](scheduler.rocketacademy.co/#/schedules/ftbc7)
+1. [PTBC1](scheduler.rocketacademy.co/#/schedules/ptbc1)
+1. [PTBC2](scheduler.rocketacademy.co/#/schedules/ptbc2)
+1. [PTBC3](scheduler.rocketacademy.co/#/schedules/ptbc3)
 
 ## Learning Objectives
 
@@ -22,19 +24,19 @@ Our learning outcomes were informed by top-level industry standards for what an 
 
 **Gain proficiency in specific technologies that employers are looking for**
 
-* Javascript ES5 & Browser DOM (Document Object Model)
-* CSS & HTML
-* ES6
-* Nodejs & System-level runtime-environments
-* Nodejs and ESModules, code modularity with NPM
-* HTTP & HTTP file servers
-* Express.js and data-backed RESTful web applications
-* SQL and ORM (Object Relational Mapping) libraries (Sequelize)
-* MVC architecture
-* AJAX
-* Webpack
-* React.js
-* React data-handling and Create React App package
+- Javascript ES5 & Browser DOM (Document Object Model)
+- CSS & HTML
+- ES6
+- Nodejs & System-level runtime-environments
+- Nodejs and ESModules, code modularity with NPM
+- HTTP & HTTP file servers
+- Express.js and data-backed RESTful web applications
+- SQL and ORM (Object Relational Mapping) libraries (Sequelize)
+- MVC architecture
+- AJAX
+- Webpack
+- React.js
+- React data-handling and Create React App package
 
 ### Soft Technical
 
@@ -42,22 +44,22 @@ Our learning outcomes were informed by top-level industry standards for what an 
 
 Expertise in specific technologies is only one aspect of being able to write high-quality software. Topics such as system design and architecture, basic CS knowledge and code fluency are extremely important for employers to distinguish between candidates.
 
-* Algorithms
-* Code format best practices
-* Database design
-* HTTP / Internet fundamentals
-* Runtime environment fundamentals w/ Node.js
-* Javascript runtime fundamentals, callback and asynchronous behaviours
-* Web Authentication
-* Web 2.0 architecture
-* Modern full-stack web application evolution and architecture
-* Minimum Viable Product & Lean Startup methodologies
-* Agile software development workflows
-* Git & version control workflows & best practices
-* UX & product / user-centered development
-* Code refactoring
-* Web application security principles
-* Googling
+- Algorithms
+- Code format best practices
+- Database design
+- HTTP / Internet fundamentals
+- Runtime environment fundamentals w/ Node.js
+- Javascript runtime fundamentals, callback and asynchronous behaviours
+- Web Authentication
+- Web 2.0 architecture
+- Modern full-stack web application evolution and architecture
+- Minimum Viable Product & Lean Startup methodologies
+- Agile software development workflows
+- Git & version control workflows & best practices
+- UX & product / user-centered development
+- Code refactoring
+- Web application security principles
+- Googling
 
 ### Soft Skills
 
@@ -65,16 +67,16 @@ Expertise in specific technologies is only one aspect of being able to write hig
 
 Good engineers can communicate their ideas clearly to a range of stakeholders- e.g, technical discussions with other developers, or non-technical discussions with designers, marketers or business people. They have empathy to work well with others. Understand that software specifications are written for humans and by humans.
 
-* Pair Programming
-* Code reading
-* Code reviews
-* Video demos
-* Technical documentation
-* Project Presentations
-* Project / software development time estimation & time management
-* Group work, project specifications & code collaboration
-* Project completeness & polish
-* Technical Interviews
+- Pair Programming
+- Code reading
+- Code reviews
+- Video demos
+- Technical documentation
+- Project Presentations
+- Project / software development time estimation & time management
+- Group work, project specifications & code collaboration
+- Project completeness & polish
+- Technical Interviews
 
 ### Curiosity and an eagerness to learn
 
@@ -82,13 +84,13 @@ Good engineers can communicate their ideas clearly to a range of stakeholders- e
 
 It is normal not to understand things. A software engineer is not afraid to ask questions. We seek to develop an awareness of what you know and what you don’t know, so you can ask more intelligent questions to further your learning.
 
-* Practice asking questions
-* Practice formulating product specifications
-* Pair Programming
-* Practice designing applications at all levels of the process
-* Understanding Project / Exercise Requirements
-* Dealing with requirement ambiguity
-* Practicing how to google / use the internet to gather information
+- Practice asking questions
+- Practice formulating product specifications
+- Pair Programming
+- Practice designing applications at all levels of the process
+- Understanding Project / Exercise Requirements
+- Dealing with requirement ambiguity
+- Practicing how to google / use the internet to gather information
 
 ## Principles
 
@@ -118,10 +120,10 @@ _**Linear learning**_ in the first half trains you in the key foundational areas
 
 _**Gestalt thinking**_ refers to learning many small things and putting them together into a big idea/project. The second half trains you in selected technologies commonly used in the industry. These are disjoint tools that you can use as needed.
 
-* We do linear learning in the first foundational part of the course, building up to a final web-application form.
-* We do linear learning in non-project sections of the program by building proscribed applications with specific requirements.
-* We do Gestalt thinking in the second part of the program by putting together the different parts of the system we’ve created.
-* We do Gestalt thinking during projects by encouraging independent work as a summation of previous linear work.
+- We do linear learning in the first foundational part of the course, building up to a final web-application form.
+- We do linear learning in non-project sections of the program by building proscribed applications with specific requirements.
+- We do Gestalt thinking in the second part of the program by putting together the different parts of the system we’ve created.
+- We do Gestalt thinking during projects by encouraging independent work as a summation of previous linear work.
 
 ## Bootcamp Structure
 
@@ -129,39 +131,39 @@ _**Gestalt thinking**_ refers to learning many small things and putting them tog
 
 This part of the program is mostly a continuation of the work done in Coding Basics, with the pace and technical complexity increased to Bootcamp levels.
 
-* Expand upon basics work to understand the wider context of JavaScript in the browser.
-* Ramp up the complexity of programs we write.
-* Introduce new levels of program abstraction, representation & complexity.
-* Create mobile-responsive web layouts with CSS
+- Expand upon basics work to understand the wider context of JavaScript in the browser.
+- Ramp up the complexity of programs we write.
+- Introduce new levels of program abstraction, representation & complexity.
+- Create mobile-responsive web layouts with CSS
 
 ### Module 2,3,4,5: Web Application Fundamentals
 
 The part of the program builds knowledge of web applications from the ground up, starting with running a simple one-line program and building up to a complex internet and data-backed application. Even though some of the content is not the latest industry-relevant technologies, these modules provide fundamental knowledge and practice in how the disparate parts of modern web applications are constructed, by constructing one yourself, piece-by-piece.
 
-* Introduce system-level runtime environment with Node.js
-* Introduction to HTTP & Internet fundamentals
-* Database & data storage fundamentals
-* Web authentication
-* Backend application fundamentals with NPM
-* Web 2.0 full-stack architecture
-* MVC
-* Cloud deployment with AWS
+- Introduce system-level runtime environment with Node.js
+- Introduction to HTTP & Internet fundamentals
+- Database & data storage fundamentals
+- Web authentication
+- Backend application fundamentals with NPM
+- Web 2.0 full-stack architecture
+- MVC
+- Cloud deployment with AWS
 
 ### Module 6,7: Modern Web Application Fundamentals, Core Libraries & Architectures
 
 These modules transition towards a modern, full-stack application by adding on necessary layers to encapsulate and abstract parts of the system we had previously constructed “by hand”.
 
-* Modern web-application architecture with Webpack
-* Managed cloud deployment with Heroku
-* React.js front-end DOM libraries & architecture
+- Modern web-application architecture with Webpack
+- Managed cloud deployment with Heroku
+- React.js front-end DOM libraries & architecture
 
 ### Module 8: Final Form
 
 This module is the summation of all previous material, culminating in the final form of our app, incorporating the latest libraries and technologies.
 
-* Front-end & Backend isolation with Create React App
-* Front-end state management with reducers
-* Popular React Libraries
+- Front-end & Backend isolation with Create React App
+- Front-end state management with reducers
+- Popular React Libraries
 
 ### Syllabus
 
