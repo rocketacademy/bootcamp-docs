@@ -41,9 +41,9 @@ Effective resumes communicate in bullet points, not prose. The goal is to help a
 
 Examples:
 
-- Built a full-stack group-buy web app that enables transactions upon purchase quantity threshold.
-- Architected data flows across front and back-end through React state, HTTP requests, and Postgres.
-- Increased app reliability by writing tests for all API endpoints, run automatically on code merges.
+* Built a full-stack group-buy web app that enables transactions upon purchase quantity threshold.
+* Architected data flows across front and back-end through React state, HTTP requests, and Postgres.
+* Increased app reliability by writing tests for all API endpoints, run automatically on code merges.
 
 Guidance:
 
@@ -55,15 +55,15 @@ Guidance:
 
 ### Kai's Resume
 
-![](<../.gitbook/assets/jie-ping-20210306-18.28.12 (4) (4) (4) (4) (4) (4) (4) (4) (3) (1) (1) (1) (1) (2).png>)
+![](<../.gitbook/assets/jie-ping-20210306-18.28.12 (4) (4) (4) (4) (4) (4) (4) (4) (3) (1) (1) (1) (1) (2) (1) (1) (6).png>)
 
 ### Past Students' Resumes
 
 ![](<../.gitbook/assets/截屏2021-03-06 18.29.59.png>)
 
-![](<../.gitbook/assets/jie-ping-20210306-18.30.13 (1) (1).png>)
+![](<../.gitbook/assets/jie-ping-20210306-18.30.13 (1) (1) (1).png>)
 
-![](<../.gitbook/assets/jie-ping-20210306-18.29.49 (1).png>)
+![](../.gitbook/assets/jie-ping-20210306-18.29.49.png)
 
 ## Exercise
 
