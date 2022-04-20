@@ -10,7 +10,7 @@ Welcome! Software Engineering (SWE) Bootcamp is Rocket Academy's flagship career
 2. [FTBC7](https://schedules.rocketacademy.co/#/ftbc7)
 3. [PTBC1](https://schedules.rocketacademy.co/#/ptbc1)
 4. [PTBC2](https://schedules.rocketacademy.co/#/ptbc2)
-5. [PTBC3](https://schedules.rocketacademy.co/#/ptbc2)
+5. [PTBC3](https://schedules.rocketacademy.co/#/ptbc3)
 
 ## Learning Objectives
 
