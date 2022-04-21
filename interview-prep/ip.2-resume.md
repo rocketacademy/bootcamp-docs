@@ -8,13 +8,13 @@ Your resume is your first impression, and will be 1 of potentially hundreds of r
 
 ### 3 Points
 
-Think of the 3 or fewer most important points you wish to communicate with the recruiter, and make sure those points stand out on your resume. Recruiters will not remember more than 3 points about you. For SWE Bootcamp graduates, these points are typically:
+Think of the 3 or fewer most important points you wish to communicate with the recruiter, and make sure those points stand out on your resume. Recruiters will not remember more than 3 points about you. For Coding Bootcamp graduates, these points are typically:
 
 1. I can code
 2. I am smart
 3. I am a culture fit
 
-How you communicate these points will vary from person to person, but there is a general pattern for SWE Bootcamp grads. If you're not sure if your resume communicates your points, ask family or friends to review for 10 seconds and see what they grasp.
+How you communicate these points will vary from person to person, but there is a general pattern for Coding Bootcamp grads. If you're not sure if your resume communicates your points, ask family or friends to review for 10 seconds and see what they grasp.
 
 ### Point #1: I Can Code
 
@@ -22,7 +22,7 @@ Bootcamp grads with minimal prior coding experience communicate Point #1 via pro
 
 ### Point #2: I am Smart
 
-Smartness is subjective. Employers are looking for signals that you can learn what you don't know and succeed at the job. Fortunately, the fact that you completed Rocket's SWE Bootcamp should already demonstrate this. Below are some common indicators of "smartness".
+Smartness is subjective. Employers are looking for signals that you can learn what you don't know and succeed at the job. Fortunately, the fact that you completed Rocket's Coding Bootcamp should already demonstrate this. Below are some common indicators of "smartness".
 
 1. Well-known companies or schools
    1. If you previously worked at a well-known company or school, employers will assume that you had to be "smart" to get a job there, thus will consider you "smart".

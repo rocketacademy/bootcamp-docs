@@ -6,9 +6,9 @@ MVC stands for "Model View Controller" and refers to 3 logical components of web
 
 ### Model
 
-The Model logical component in MVC refers to the structure of data in our applications, and is the component responsible for manipulating data in the database. In SWE Bootcamp we will use the Sequelize library to power our model architecture, but "model" in MVC refers to structure of data in general and is not dependent on Sequelize, any library, or even a SQL database.
+The Model logical component in MVC refers to the structure of data in our applications, and is the component responsible for manipulating data in the database. In Coding Bootcamp we will use the Sequelize library to power our model architecture, but "model" in MVC refers to structure of data in general and is not dependent on Sequelize, any library, or even a SQL database.
 
-Depending on the opinion of the architect, more or less logic can be placed in models. Read more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models). In SWE Bootcamp we will use models that only contain our Sequelize model definitions, and relegate business logic to our Controllers.
+Depending on the opinion of the architect, more or less logic can be placed in models. Read more about that [here](https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models). In Coding Bootcamp we will use models that only contain our Sequelize model definitions, and relegate business logic to our Controllers.
 
 ### View
 
@@ -22,7 +22,7 @@ The following are examples of view logic.
 
 ### Controller
 
-Controller refers to business logic. Controllers are the glue between model and views, and handle HTTP requests and responses. For example, a controIler would determine if, when, and how an app would respond with a 404. In SWE Bootcamp, controllers will contain the majority of our applications' business logic, and generally everything not a model or view will go in a controller. Other web frameworks such as Ruby on Rails advocate for "fat models and skinny controllers", where business logic can be abstracted to models to keep controller logic clean. This is a matter of preference.
+Controller refers to business logic. Controllers are the glue between model and views, and handle HTTP requests and responses. For example, a controIler would determine if, when, and how an app would respond with a 404. In Coding Bootcamp, controllers will contain the majority of our applications' business logic, and generally everything not a model or view will go in a controller. Other web frameworks such as Ruby on Rails advocate for "fat models and skinny controllers", where business logic can be abstracted to models to keep controller logic clean. This is a matter of preference.
 
 ### Routes
 
@@ -284,7 +284,7 @@ export default function bindRoutes(app) {
 
 We have written the routes matching requests to controllers in our routes file. Let's write the controller methods that handle the requests. Create a `controllers` folder to store controllers.
 
-Each feature can have its own controller. In SWE Bootcamp we will export a function (`initItemsController` in this case) from each controller, such that the parameter to the function `db` can be used by all methods within this controller without explicitly passing `db` every time we invoke a controller method.
+Each feature can have its own controller. In Coding Bootcamp we will export a function (`initItemsController` in this case) from each controller, such that the parameter to the function `db` can be used by all methods within this controller without explicitly passing `db` every time we invoke a controller method.
 
 ### controllers/items.mjs
 
@@ -364,7 +364,7 @@ Then access the route we defined on our server in the browser via `localhost:300
 
 ## Naming Conventions: URL Path, Controller Method, View, and Model
 
-Please use the following naming conventions for CRUD MVC components in SWE Bootcamp applications.
+Please use the following naming conventions for CRUD MVC components in Coding Bootcamp applications.
 
 | URL Path        | Method | Purpose                                     | Controller Method Name | View File Name | Sequelize Model Method Name |
 | --------------- | ------ | ------------------------------------------- | ---------------------- | -------------- | --------------------------- |

@@ -221,7 +221,7 @@ Read some more details about the rules here:
 
 ## Folder Organisation
 
-In SWE Bootcamp we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
+In Coding Bootcamp we will be cloning starter code many times for new projects. To keep things organised, we recommend the following folder structure.
 
 {% hint style="warning" %}
 Names of all files and folders should be in kebab-case, i.e, lowercase and hyphenated (for example,`new-file.txt`), for ease of use on the command line.
@@ -237,8 +237,8 @@ Please do not store your code in a local folder synced to Google Drive. This wil
 
 ### Folder Organisation - Mac
 
-1. Host all SWE Bootcamp code in a folder called `bootcamp`.
-2. Within the `bootcamp` folder, for each week (there are 24 total) in SWE Bootcamp, create a new folder for that week. This means you will have 24 week-specific folders, such as `week1`, `week2`, ..., `week24`.
+1. Host all Coding Bootcamp code in a folder called `bootcamp`.
+2. Within the `bootcamp` folder, for each week (there are 24 total) in Coding Bootcamp, create a new folder for that week. This means you will have 24 week-specific folders, such as `week1`, `week2`, ..., `week24`.
 3. Within each `weekX` folder, create 1 folder for each day of the week, i.e. `day1`, `day2`, ..., `day5`.
 4. Within each `dayX` folder, create `pre-class`, `in-class`, and `post-class` folders for the respective exercises.
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.
@@ -249,7 +249,7 @@ Please do not store your code in a local folder synced to Google Drive. This wil
 Because the Back-end portions of the course change the way we run our code, we will be changing the location of our code from that point forward as well.
 
 1. For Weeks 1 & 2 and Project 1, host code in a folder called `bootcamp`.
-2. Within the `bootcamp` folder, for each week 1 & 2 in SWE Bootcamp, create a new folder for that week. This means you will have 2 week-specific folders, such as `week1`, `week2`
+2. Within the `bootcamp` folder, for each week 1 & 2 in Coding Bootcamp, create a new folder for that week. This means you will have 2 week-specific folders, such as `week1`, `week2`
 3. Within each `weekX` folder, create 1 folder for each day of the week, i.e. `day1`, `day2`, ..., `day5`.
 4. Within each `dayX` folder, create `pre-class`, `in-class`, and `post-class` folders for the respective exercises.
 5. Within each `X-class`folder, keep a separate folder for every exercise you do that requires a new Git repo.

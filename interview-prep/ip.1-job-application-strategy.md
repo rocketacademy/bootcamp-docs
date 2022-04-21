@@ -21,7 +21,7 @@ Answer the following questions to better understand your strategy for the job se
 
 ### What kind of engineering or tech role are you looking for?
 
-SWE Bootcamp prepares graduates for full-stack software engineering roles. This means graduates should also qualify for frontend, backend, language-specific, and QA/test roles, and essentially any entry-level coding position. Graduates should also qualify for less technical roles such as product or project management roles.
+Coding Bootcamp prepares graduates for full-stack software engineering roles. This means graduates should also qualify for frontend, backend, language-specific, and QA/test roles, and essentially any entry-level coding position. Graduates should also qualify for less technical roles such as product or project management roles.
 
 ### What kind of company are you looking for?
 

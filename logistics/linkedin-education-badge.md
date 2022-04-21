@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Software Engineering Bootcamp students can add Rocket Academy to the Education sections of their LinkedIn profiles. Here are instructions.
+Coding Bootcamp students can add Rocket Academy to the Education sections of their LinkedIn profiles. Here are instructions.
 
 ## 1. Go to your LinkedIn profile page and click "**Add profile section"**
 
@@ -12,14 +12,14 @@ Software Engineering Bootcamp students can add Rocket Academy to the Education s
 
 ![](../.gitbook/assets/jie-ping-20210401-12.42.04.png)
 
-## 3. Fill in Rocket's SWE Bootcamp course details
+## 3. Fill in Rocket's Coding Bootcamp course details
 
 1. Notify network
    1. On
 2. School
    1. Rocket Academy
 3. Degree
-   1. Software Engineering Bootcamp
+   1. Coding Bootcamp
 4. Field of study
    1. Full-Stack Software Engineering and Algorithms
 5. Start Date
@@ -27,7 +27,7 @@ Software Engineering Bootcamp students can add Rocket Academy to the Education s
 6. End Date
    1. The month you graduated from Rocket's Bootcamp
 7. Description
-   1. 6-month full-time / 12-month part-time SWE Bootcamp covering frontend, backend, cloud infrastructure and algorithms. See my portfolio here: &lt;INSERT-MY-PORTFOLIO-LINK&gt;
+   1. 6-month full-time / 12-month part-time Coding Bootcamp covering frontend, backend, cloud infrastructure and algorithms. See my portfolio here: &lt;INSERT-MY-PORTFOLIO-LINK&gt;
    2. Feel free to customise this as you wish :\)
 
 ![](../.gitbook/assets/image%20%286%29.png)

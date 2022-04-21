@@ -10,7 +10,7 @@ Lets do some wishful thinking...
 
 ### Introducing Sequelize (our ORM of choice)
 
-[ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping) stands for "object-relational mapping", where database tables (also known as "[relations](<https://en.wikipedia.org/wiki/Relation_(database)>)") are mapped to [objects or classes](<https://en.wikipedia.org/wiki/Object_(computer_science)#:~:text=An%20object%20is%20an%20abstract,found%20in%20the%20real%20world.>), such that SQL relations and their relevant associations can be manipulated directly from application code by generating templatized SQL query code. [Sequelize](https://sequelize.org) is the most popular ORM for Node.js. We will use Sequelize during SWE Bootcamp for our web applications to replace raw SQL.
+[ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping) stands for "object-relational mapping", where database tables (also known as "[relations](<https://en.wikipedia.org/wiki/Relation_(database)>)") are mapped to [objects or classes](<https://en.wikipedia.org/wiki/Object_(computer_science)#:~:text=An%20object%20is%20an%20abstract,found%20in%20the%20real%20world.>), such that SQL relations and their relevant associations can be manipulated directly from application code by generating templatized SQL query code. [Sequelize](https://sequelize.org) is the most popular ORM for Node.js. We will use Sequelize during Coding Bootcamp for our web applications to replace raw SQL.
 
 ### ORMs Replace Simple SQL Queries
 
