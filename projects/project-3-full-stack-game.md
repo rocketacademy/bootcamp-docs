@@ -91,15 +91,15 @@ The app and all its features should run without errors. Brief demo in class to d
 
 ## Project Presentations
 
-Presentations should cover the [topics in this list](../logistics/course-methodology.md#project-presentations).
+Presentations should cover the [topics in this list](../logistics/course-methodology.md#presentations).
 
 ## Post-Mortem Meeting
 
-Please answer the [project post-mortem questions](../logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
+Please answer the [project post-mortem questions](../logistics/course-methodology.md#post-mortem) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
 
 ## Video Demo
 
-Please follow [video demo guidelines here](../logistics/course-methodology.md#project-videos).
+Please follow [video demo guidelines here](../logistics/course-methodology.md#demo-video).
 
 ## Project Submission and Past Student Projects
 
