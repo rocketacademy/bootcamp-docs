@@ -16,12 +16,12 @@ Remember that you need to add CORS to this repo.
 
 The app must fulfill the following requirements.
 
-- Use React
-- Use AJAX to get and set data from the server
-- At least 1 full set of CRUD routes (create, retrieve, update, delete)
-- At least 2 SQL tables
-- At least 1 one-to-many and 1 many-to-many SQL relationship
-- Use CSS
+* Use React
+* Use AJAX to get and set data from the server
+* At least 1 full set of CRUD routes (create, retrieve, update, delete)
+* At least 2 SQL tables
+* At least 1 one-to-many and 1 many-to-many SQL relationship
+* Use CSS
 
 The app must be complete in the sense that it cannot rely on the theoretical existence of another system, e.g. an API that doesn't exist. Any 3rd-party APIs available on the internet can be used, e.g. NPM libraries.
 
@@ -31,18 +31,20 @@ Any seed data your app would need to run needs to be included in the repo. The f
 
 ### Summary
 
-| Course Day | Deliverable                                                                                                                                                                               | Instructor Feedback                                                                 |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| CD17.3     | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback                                                                                                  | Instructor to share feedback on project ideas in Slack.                             |
-| CD18.1     | \*\*Start: Ideation Phase 2. \*\*Create planning docs: user stories, wireframes, and DB ERD.                                                                                              |                                                                                     |
-| CD18.4     | **Due: Ideation Phase 2.** Finalise project idea and share planning docs in GitHub repo over Slack.                                                                                       | Instructor to review planning docs over Slack and over Zoom if necessary.           |
-| CD18.4     | **Due: Peer Planning Review.**                                                                                                                                                            |                                                                                     |
-| CD18.4     | **Start: Project Start.**                                                                                                                                                                 | Begin Project Implementation.                                                       |
-| CD19.3     | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
-| CD20.1     | <p><strong>Due: Feature freeze.</strong></p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>                  | Quick project review in class to discuss improvements post-feature freeze.          |
-| CD20.3     | **Due: Project presentations.**                                                                                                                                                           | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.   |
-| CD20.4     | **Project Peer Review Exercise.**                                                                                                                                                         |                                                                                     |
-| CD20.5     | **Due: Video demo.**                                                                                                                                                                      |                                                                                     |
+| Project Day | Deliverable                                                                                                                                                                                                                               | Instructor Feedback                                                                                                   |
+| :---------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+|      0      | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback                                                                                                                                                  | Instructor to share feedback on project ideas in Slack.                                                               |
+|      1      | **Start: Ideation Phase 2.** Create planning docs: user stories, wireframes, and DB ERD.                                                                                                                                                  | -                                                                                                                     |
+|      2      | <p><strong>Due: Ideation Phase 2.</strong> Finalise project idea and share planning docs in GitHub repo over Slack.<br><br><strong>Due: Peer Planning Review.</strong><br><strong></strong><br><strong>Start: Project Start.</strong></p> | <p>Instructor to review planning docs over Slack and over Zoom if necessary.<br><br>Begin Project Implementation.</p> |
+|      3      | **-**                                                                                                                                                                                                                                     | -                                                                                                                     |
+|      4      | **-**                                                                                                                                                                                                                                     | -                                                                                                                     |
+|      5      | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class.</p>                                                 | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary.                                   |
+|      6      | -                                                                                                                                                                                                                                         | -                                                                                                                     |
+|      7      | -                                                                                                                                                                                                                                         | -                                                                                                                     |
+|      8      | <p><strong>Due: Feature freeze.</strong></p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>                                                                  | Quick project review in class to discuss improvements post-feature freeze.                                            |
+|      9      | **Due: Project presentations.**                                                                                                                                                                                                           | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.                                     |
+|      10     | **Project Peer Review Exercise.**                                                                                                                                                                                                         | -                                                                                                                     |
+|      11     | **Due: Video demo.**                                                                                                                                                                                                                      | -                                                                                                                     |
 
 ### Recommended Order of Implementation
 
@@ -54,7 +56,7 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD_Saou_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD\_Saou\_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 
@@ -88,4 +90,4 @@ Please follow [video demo guidelines here](../logistics/course-methodology.md#de
 
 ## Project Submission and Past Student Projects
 
-Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR_FgeFO_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
+Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR\_FgeFO\_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.

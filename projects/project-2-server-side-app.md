@@ -31,10 +31,10 @@ See the example user login app for login starter code: [https://github.com/rocke
 
 In [Module 3](../3-backend-applications/3.0-module-3-overview.md) we covered general mechanics of web applications that store, update, and retrieve data using HTTP and HTML. These mechanics are part of virtually every app on the internet.
 
-- Google stores websites and users retrieve those websites
-- Uber stores drivers and their availability and users retrieve available drivers nearby
-- Telegram stores messages between users and users retrieve and create those messages
-- EBay stores auction data and users retrieve products for auction
+* Google stores websites and users retrieve those websites
+* Uber stores drivers and their availability and users retrieve available drivers nearby
+* Telegram stores messages between users and users retrieve and create those messages
+* EBay stores auction data and users retrieve products for auction
 
 While we may not yet have the power to index websites like Google, we know enough to build prototypes of similar applications. The role of a web application is not just to make GET and POST requests, but to store and retrieve data related to its core functionality, e.g. search, ride sharing, messaging, auctions.
 
@@ -44,10 +44,10 @@ Your app idea is more compelling if its purpose is for something specific and re
 
 Given the relative restrictions of a server-side app that renders HTML pages, there are certain ideas that will be more easily accomplished when we include more modern technologies. In later Coding Bootcamp modules we will learn how to incorporate 3rd-party JS libraries into our frontends to accomplish some of the following. No worries if you don't have these for now.
 
-- Date or date-time input fields for scheduling or calendars.
-- User location using maps.
-- Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
-- Anything where the user might have to drag or draw something.
+* Date or date-time input fields for scheduling or calendars.
+* User location using maps.
+* Anything involving a [typeahead UI](https://dribbble.com/tags/typeahead).
+* Anything where the user might have to drag or draw something.
 
 ### File Uploading
 
@@ -57,8 +57,8 @@ If your app idea involves file uploading, [3.5.11: File Uploads](../3-backend-ap
 
 The following are some ideas for 3rd-party APIs that we can use in our apps.
 
-- [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
-- [Data.gov.sg APIs](https://data.gov.sg)
+* [Google Vision API](https://www.npmjs.com/package/@google-cloud/vision)
+* [Data.gov.sg APIs](https://data.gov.sg)
 
 ## General Tips
 
@@ -70,18 +70,20 @@ In general, our Express middleware should handle all business logic, for example
 
 ### Summary
 
-| Course Day | Deliverable                                                                                                                                                                            | Instructor Feedback                                                                 |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| CD6.1      | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback                                                                                               | Instructor to share feedback on project ideas in Slack.                             |
-| CD6.4      | <p><strong>Start: Ideation Phase 2.</strong></p><p>Create planning docs: user stories, wireframes, and DB ERD.</p>                                                                     | \*\*\*\*                                                                            |
-| CD7.1      | <p><strong>Due: Ideation Phase 2.</strong></p><p>Finalise project idea and share planning docs in GitHub repo over Slack.</p>                                                          | Instructor to review planning docs over Slack and over Zoom if necessary.           |
-| CD7.1      | **Peer Planning Review**                                                                                                                                                               | \*\*\*\*                                                                            |
-| CD7.1      | **Start: Project Start**                                                                                                                                                               | Begin Project Implementation                                                        |
-| CD8.1      | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to EC2. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
-| CD8.4      | <p><strong>Due: Feature freeze.</strong></p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>               | Quick project review in class to discuss improvements post-feature freeze.          |
-| CD8.5      | **Due: Project presentations.**                                                                                                                                                        | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.   |
-| CD9.1      | **Project Peer Review exercise.**                                                                                                                                                      | \*\*\*\*                                                                            |
-| CD9.3      | **Due: Video demo.**                                                                                                                                                                   |                                                                                     |
+| Project Day | Deliverable                                                                                                                                                                                                                              | Instructor Feedback                                                                                                  |
+| :---------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+|      0      | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback                                                                                                                                                 | Instructor to share feedback on project ideas in Slack.                                                              |
+|      1      | <p><strong>Start: Ideation Phase 2.</strong></p><p>Create planning docs: user stories, wireframes, and DB ERD.</p>                                                                                                                       | -                                                                                                                    |
+|      2      | <p><strong>Due: Ideation Phase 2.</strong></p><p>Finalise project idea and share planning docs in GitHub repo over Slack.<br><br><strong>Peer Planning Review</strong><br><strong></strong><br><strong>Start: Project Start</strong></p> | <p>Instructor to review planning docs over Slack and over Zoom if necessary.<br><br>Begin Project Implementation</p> |
+|      3      | -                                                                                                                                                                                                                                        | -                                                                                                                    |
+|      4      | -                                                                                                                                                                                                                                        | -                                                                                                                    |
+|      5      | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to EC2. Students to review code in pairs during class.</p>                                                   | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary.                                  |
+|      6      | -                                                                                                                                                                                                                                        | -                                                                                                                    |
+|      7      | -                                                                                                                                                                                                                                        | -                                                                                                                    |
+|      8      | <p><strong>Due: Feature freeze.</strong></p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UX/UI, refactoring code.</p>                                                                 | Quick project review in class to discuss improvements post-feature freeze.                                           |
+|      9      | **Due: Project presentations.**                                                                                                                                                                                                          | 30-minute post-mortem with instructor. Instructor to review code in PR on GitHub.                                    |
+|      10     | **Project Peer Review exercise.**                                                                                                                                                                                                        | -                                                                                                                    |
+|      11     | **Due: Video demo.**                                                                                                                                                                                                                     | -                                                                                                                    |
 
 ### Recommended Order of Implementation
 
@@ -93,7 +95,7 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD_Saou_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD\_Saou\_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 
@@ -140,4 +142,4 @@ Please follow [video demo guidelines here](../logistics/course-methodology.md#de
 
 ## Project Submission and Past Student Projects
 
-Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR_FgeFO_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
+Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR\_FgeFO\_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
