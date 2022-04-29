@@ -4,15 +4,15 @@
 
 ### Non-Comparison Sorting Algorithms
 
-Non-comparison sorting algorithms are interesting because if all the avlues in the array are integers we can sort them in less than _**O(nlogn)**_ time.
+Non-comparison sorting algorithms are interesting because if all the values in the array are integers we can sort them in less than _**O(nlogn)**_ time.
 
 ## Counting Sort
 
-* Runtime: _**O(kn)**_
+* Runtime: _**O(n+k)**_
 
 **k** is the highest integer in the array.
 
-```
+```python
 def countingSort(inputArray):
     # Find the maximum element in the inputArray
     maxEl = max(inputArray)
@@ -56,13 +56,13 @@ print("Counting sort result = ", sortedArray)
 
 ## Radix Sort
 
-* Runtime: _**O(dkn)**_
+* Runtime: _**O(d(n+k))**_
 
 **d** is the number of times counting sort is run.
 
 Use the numbers in each "radix" or place to know how to sort the array.
 
-```
+```python
 def countingSortForRadix(inputArray, placeValue):
     # We can assume that the number of digits used to represent
     # all numbers on the placeValue position is not grater than 10
@@ -121,4 +121,9 @@ sorted = radixSort(input)
 print(sorted)
 ```
 
-From: [https://stackabuse.com/radix-sort-in-python/](https://stackabuse.com/radix-sort-in-python/)ello 2
+From: [https://stackabuse.com/radix-sort-in-python/](https://stackabuse.com/radix-sort-in-python/)
+
+## Additional Resources
+
+1. [Introduction to Counting Sort](https://www.youtube.com/watch?v=OKd534EWcdk)
+2. [Introduction to Radix Sort](https://www.youtube.com/watch?v=XiuSW\_mEn7g)

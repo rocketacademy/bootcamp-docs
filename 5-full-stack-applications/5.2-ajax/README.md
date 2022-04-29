@@ -4,7 +4,7 @@
 
 [AJAX](https://en.wikipedia.org/wiki/Ajax\_\(programming\)) or Asynchronous JavaScript and XML is browser functionality that can make requests from within JavaScript. It means that within a single page (and page request) we can build logic that interacts with servers outside the browser page. Eventually we will be able to move more of the view logic that renders elements and interacts with the user into browser-side JavaScript. We will see more examples of this in coming modules.
 
-![](../../.gitbook/assets/AJAX.jpg)
+![](<../../.gitbook/assets/AJAX (1).jpg>)
 
 ## AJAX Order of Actions
 
