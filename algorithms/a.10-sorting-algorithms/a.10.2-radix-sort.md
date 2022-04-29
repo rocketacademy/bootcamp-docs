@@ -1,10 +1,12 @@
 # A.10.2: Radix Sort
 
-## A.10.2: Radix Sort
+## Non-Comparison Sorting Algorithms
 
-### Non-Comparison Sorting Algorithms
+> \[Radix Sort] is a non-comparative sorting algorithm, meaning that it doesn't sort a collection by comparing its individual elements, but rather uses the inherent nature of the data its sorting to sort faster - it sorts data based on their _radix_.
+>
+> Comparative sorting algorithms have the best case time complexity of _O(nlogn)_, which is comparatively worse to _linear execution time_ (_O(n+k)_) of non-comparative algorithms.
 
-Non-comparison sorting algorithms are interesting because if all the values in the array are integers we can sort them in less than _**O(nlogn)**_ time.
+The following examples are taken from [https://stackabuse.com/radix-sort-in-python/](https://stackabuse.com/radix-sort-in-python/).
 
 ## Counting Sort
 
@@ -121,9 +123,7 @@ sorted = radixSort(input)
 print(sorted)
 ```
 
-From: [https://stackabuse.com/radix-sort-in-python/](https://stackabuse.com/radix-sort-in-python/)
-
 ## Additional Resources
 
-1. [Introduction to Counting Sort](https://www.youtube.com/watch?v=OKd534EWcdk)
-2. [Introduction to Radix Sort](https://www.youtube.com/watch?v=XiuSW\_mEn7g)
+1. [Video introduction to Counting Sort](https://www.youtube.com/watch?v=OKd534EWcdk)
+2. [Video introduction to Radix Sort](https://www.youtube.com/watch?v=XiuSW\_mEn7g)
