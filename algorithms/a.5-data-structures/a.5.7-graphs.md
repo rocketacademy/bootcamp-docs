@@ -1,12 +1,10 @@
 # A.5.7: Graphs
 
-## A.5.7: Graphs
-
-### Introduction
+## Introduction
 
 Graphs are a more generalised version of trees that can have "edges" that point in forward, backward, and both directions. All trees are graphs but not all graphs are trees.
 
-#### Introduction to Graphs & Graph Problems
+### Introduction to Graphs & Graph Problems
 
 {% embed url="https://www.youtube.com/watch?v=eQA-m22wjTQ" %}
 
@@ -110,15 +108,15 @@ bfs(visited, graph, 'a')
 
 {% embed url="https://www.youtube.com/watch?v=KiCBXu4P-2Y" %}
 
-### Exercises
+## Exercises
 
-#### Part 1
+### Part 1
 
 Implement a function that DFS searches a graph for a value and returns a boolean.
 
 Implement a function that BFS searches a graph for a value and returns a boolean.
 
-#### Part 2
+### Part 2
 
 Implement path finding DFS that prints out a path in the graph from 'a' to 'e'.
 
@@ -133,7 +131,7 @@ graph = {
 }
 ```
 
-#### Part 3
+### Part 3
 
 Implement shortest path BFS that prints out or returns the shortest path in the graph from 'a' to 'e':
 
@@ -148,7 +146,7 @@ graph = {
 }
 ```
 
-#### Part 4
+### Part 4
 
 1. [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)
 2. [https://leetcode.com/problems/shortest-bridge/](a.5.7-graphs.md#a.5.7-graphs)
@@ -159,9 +157,7 @@ graph = {
    2. Rocket solution code: [https://pastebin.com/3N4NUz8G](https://pastebin.com/3N4NUz8G)
    3. Rocket solution video: [https://youtu.be/1xDBSlnUiUE?t=1308](https://youtu.be/1xDBSlnUiUE?t=1308)
 
-*
-
-#### Part 5
+### Part 5
 
 1. https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 2. https://leetcode.com/problems/minesweeper/
@@ -173,46 +169,18 @@ graph = {
 
 ## Further Reading
 
-[https://pythoninwonderland.wordpress.com/2017/03/18/how-to-implement-breadth-first-search-in-python/](https://pythoninwonderland.wordpress.com/2017/03/18/how-to-implement-breadth-first-search-in-python/)
-
-[https://medium.com/tebs-lab/breadth-first-search-and-depth-first-search-4310f3bf8416](https://medium.com/tebs-lab/breadth-first-search-and-depth-first-search-4310f3bf8416)
-
-#### Intro to Graphs
-
-https://www.youtube.com/watch?v=Pdk8U1r7qvk
-
-**Graph Representation**
-
-https://www.youtube.com/watch?v=WQ2Tzlxl\_Xo
-
-**BFS**
-
-https://www.youtube.com/watch?v=ls4cHglfc0g
-
-**DFS**
-
-https://www.youtube.com/watch?v=qH-mHxkoK0Q
-
-**BFS**
-
-https://www.youtube.com/watch?v=T\_m27bhVQQQ
-
-**BFS vs DFS**
-
-https://www.youtube.com/watch?v=62IcXF\_OF3k
-
-**BFS and DFS**
-
-https://www.youtube.com/watch?v=TIbUeeksXcI
-
-**Free Code Camp - Graphs in JavaScript**
-
-https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=143s
-
-https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=430s
-
-https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=1753s
-
-**How many sandwiches are a salad?**
-
-{% embed url="https://www.youtube.com/watch?vz=vJZsH8Dsf8U" %}
+1. [https://pythoninwonderland.wordpress.com/2017/03/18/how-to-implement-breadth-first-search-in-python/](https://pythoninwonderland.wordpress.com/2017/03/18/how-to-implement-breadth-first-search-in-python/)
+2. [https://medium.com/tebs-lab/breadth-first-search-and-depth-first-search-4310f3bf8416](https://medium.com/tebs-lab/breadth-first-search-and-depth-first-search-4310f3bf8416)
+3. [Intro to Graphs](https://www.youtube.com/watch?v=Pdk8U1r7qvk)****
+4. [Graph Representation](https://www.youtube.com/watch?v=WQ2Tzlxl\_Xo)****
+5. BFS
+   1. [https://www.youtube.com/watch?v=ls4cHglfc0g](https://www.youtube.com/watch?v=ls4cHglfc0g)
+   2. [https://www.youtube.com/watch?v=T\_m27bhVQQQ](https://www.youtube.com/watch?v=T\_m27bhVQQQ)
+6. [DFS](https://www.youtube.com/watch?v=qH-mHxkoK0Q)****
+7. BFS vs DFS
+   1. [https://www.youtube.com/watch?v=62IcXF\_OF3k](https://www.youtube.com/watch?v=62IcXF\_OF3k)
+   2. https://www.youtube.com/watch?v=TIbUeeksXcI
+8. Free Code Camp - Graphs in JavaScript
+   1. [https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=143s](https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=143s)
+   2. [https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=430s](https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=430s)
+   3. [https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=1753s](https://www.youtube.com/watch?v=tWVWeAqZ0WU\&t=1753s)
