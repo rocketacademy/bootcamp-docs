@@ -13,9 +13,9 @@ Binary search allows us to search a sorted array for a target number in O(log(n)
 Consider the following canonical binary search implementation.
 
 ```python
-def binarySearch(arr, x):
+def binary_search(arr, x):
   # Initialise left and right bounds of search to start and end of arr
-  left_index, right_index = 0, len(x) - 1
+  left_index, right_index = 0, len(arr) - 1
   # While left_index and right_index have yet to overlap
   while left_index <= right_index:
     # Find the midpoint between left_index and right_index
@@ -34,8 +34,8 @@ def binarySearch(arr, x):
   # If x is not found, return -1
   return -1
   
-mylist = [2,3,4,5,6,7,8,9,10,11,12]  
-result = binarySearch(my_list, 6)  # 4
+my_list = [2,3,4,5,6,7,8,9,10,11,12]  
+result = binary_search(my_list, 6)  # 4
 ```
 
 ## Exercises
@@ -60,7 +60,7 @@ result = binarySearch(my_list, 6)  # 4
 1. [https://leetcode.com/problems/valid-perfect-square/](https://leetcode.com/problems/valid-perfect-square/)
    1. Hint: Can we use binary search to find the factor of this number if it were a perfect square?
 2. \[Requires Heaps] [https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
-   1. Hint: Heaps may be helpful. Consider the solution to this heaps problem that we may have solved in [D.5.8: Heaps](a.5-data-structures/a.5.8-heaps/#part-3): [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+   1. Hint: Heaps may be helpful. Consider the solution to this heaps problem that we may have solved in [D.5.8: Heaps](a.5-data-structures/a.5.8-heaps#part-3): [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 ## Further Reading
 
