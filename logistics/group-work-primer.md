@@ -1,12 +1,10 @@
-# Group Work
+# Group Work Primer
 
 ## Introduction
 
 The workflow when coding in a group is different from coding alone. This module describes tools and workflows to enable smooth coding in a group.
 
 ## Principles
-
-![](../.gitbook/assets/team-comms.png)
 
 Working closely on a technical project in a group can be challenging. Not only as a coding challenge but as an exercise in communication. As teams get bigger, the communication necessary for coordination does not grow at the same linear rate.
 
@@ -22,15 +20,15 @@ We will outline these processes for dividing and completing tasks, which should 
 
 All of these things are (not strictly) derived from "agile" workflow.
 
-You can read more about agile [here](https://en.wikipedia.org/wiki/Agile_software_development).
+You can read more about agile [here](https://en.wikipedia.org/wiki/Agile\_software\_development).
 
 ### User Stories
 
 The user stories are the first part of planning that state what the app should give the user the ability to accomplish, and why the user wants to accomplish that task.
 
-- The user is going on a trip. They can create it within the app.
-- The user wants to invite their friends. The app allows them to enter their friend's names.
-- The user wants to keep track of all the places they want to go. The app allows them to record each place.
+* The user is going on a trip. They can create it within the app.
+* The user wants to invite their friends. The app allows them to enter their friend's names.
+* The user wants to keep track of all the places they want to go. The app allows them to record each place.
 
 ### Wireframes
 
