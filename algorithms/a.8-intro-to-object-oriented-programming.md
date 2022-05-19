@@ -1,6 +1,6 @@
 # A.8: Object-Oriented Programming
 
-![oop meme](../.gitbook/assets/oop_meme.jpeg)
+![oop meme](../.gitbook/assets/oop\_meme.jpeg)
 
 ## Introduction
 
@@ -39,7 +39,7 @@ Naming convention: Classes are typically named with UpperCamelCase. Instances ar
 
 Once we have defined a class we can create an instance of the class. An instance is the "_live_" instantiation of a class, made from the mold of the class definition. It has actual data inside, not just the variable names.
 
-![class instance illustration](../.gitbook/assets/factory_gif.gif)
+![class instance illustration](../.gitbook/assets/factory\_gif.gif)
 
 ```python
 cat1 = Cat("Kai")
@@ -65,7 +65,7 @@ When we write code that is for `cat1` and `cat2` we are going to be calling the 
 
 ## Four Pillars of OOP Design
 
-In Industry there is some disagreement about how to go about doing OOP, or [even to do it at all](https://en.wikipedia.org/wiki/Object-oriented_programming#Criticism). Four generally recognized principles are: _abstraction_, _encapsulation_, _inheritance_ and _polymorphism_. They were codified at the height of OOP popularity in the 90's by the [Three Amigos](https://wiki.c2.com/?ThreeAmigos) and the [Gang of Four](http://wiki.c2.com/?GangOfFour). We'll see some examples for each below. Note that these kinds of programming design terms are not static nor are the universally agreed upon.
+In Industry there is some disagreement about how to go about doing OOP, or [even to do it at all](https://en.wikipedia.org/wiki/Object-oriented\_programming#Criticism). Four generally recognized principles are: _abstraction_, _encapsulation_, _inheritance_ and _polymorphism_. They were codified at the height of OOP popularity in the 90's by the [Three Amigos](https://wiki.c2.com/?ThreeAmigos) and the [Gang of Four](http://wiki.c2.com/?GangOfFour). We'll see some examples for each below. Note that these kinds of programming design terms are not static nor are the universally agreed upon.
 
 ![Dijkstra quote](../.gitbook/assets/dijkstra-oop.jpeg)
 
@@ -221,7 +221,7 @@ b.pickup(tool1)
 b.show_tools() # Prints "Bob has 2 tools: Hammer, Hammer"
 ```
 
-When we call the show_tools method, we don't need to worry about how the method code implements the string output. The class is abstracting the string manipulation complexities away.
+When we call the show\_tools method, we don't need to worry about how the method code implements the string output. The class is abstracting the string manipulation complexities away.
 
 This is the same whenever we use an NPM library- the library is abstracting away programming complexity we don't need to know about.
 
@@ -248,13 +248,13 @@ y = PhysicianRobot("James")
 y.say_hi()
 ```
 
-Robot example from here: [https://www.python-course.eu/python3_inheritance.php](https://www.python-course.eu/python3_inheritance.php)
+Robot example from here: [https://www.python-course.eu/python3\_inheritance.php](https://www.python-course.eu/python3\_inheritance.php)
 
 ## Polymorphism
 
-Polymorphism is inheritance where the same base class can be inherited by multiple classes.
+Polymorphism means the same method can be implemented differently for different classes. For example, a hypothetical `greeting` method could produce different results between instances of `AmericanPerson` and `ChinesePerson` classes.
 
-From [here](https://www.geeksforgeeks.org/polymorphism-in-python/).
+From [here](https://www.geeksforgeeks.org/polymorphism-in-python/):
 
 ```python
 class Bird:
