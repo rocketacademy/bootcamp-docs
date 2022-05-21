@@ -239,13 +239,13 @@ The key to understanding the control flow of this function is to understand that
 
 ### Examples - Linked List
 
-A nice way to see how recursion applies to code we might write is to look at converting some code that we had previously written as iterative. One ongoing challenge will be to understand what makes a given problem appropriate for a recursive solution or not. Many propblems ca be written either way. In these ideal conversions between iterative and recursive try to see how the paradigm of "repeat the sme action (function) over and over again for a constantly reducing set of data" applies to these linked list examples.
+A nice way to see how recursion applies to code we might write is to look at converting some code that we had previously written as iterative. One ongoing challenge will be to understand what makes a given problem appropriate for a recursive solution or not. Many problems ca be written either way. In these ideal conversions between iterative and recursive try to see how the paradigm of "repeat the same action (function) over and over again for a constantly reducing set of data" applies to these linked list examples.
 
 #### Print Out Values
 
 **Iterative Linked List**
 
-We can write certain linked list methods as recursive insterad of iterative.
+We can write certain linked list methods as recursive instead of iterative.
 
 Given a normal linked list class:
 
