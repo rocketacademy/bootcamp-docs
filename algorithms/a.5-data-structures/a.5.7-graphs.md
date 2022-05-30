@@ -78,8 +78,8 @@ graph = {
   'e' : [],
   'f' : []
 }
-visited = {} # List to keep track of visited nodes.
-queue = []     #Initialize a queue
+visited = {}  # Dict to track visited nodes
+queue = []
 
 def bfs(visited, graph, node):
   visited[node] = True
@@ -94,7 +94,6 @@ def bfs(visited, graph, node):
         visited[neighbour] = True
         queue.append(neighbour)
 
-# Driver Code
 bfs(visited, graph, 'a')
 ```
 
