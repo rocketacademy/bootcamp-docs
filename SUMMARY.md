@@ -318,7 +318,7 @@
   * [9.6: GraphQL / React-Apollo](9-advanced-topics/9.6-graphql-react-apollo.md)
   * [9.7: Web Sockets](9-advanced-topics/9.7-web-sockets.md)
   * [9.8: CSS Animations](9-advanced-topics/9.8-css-animations.md)
-  * [9.9 DEVOPS: CI/CD](9-advanced-topics/9.9-devops-ci-cd.md)
+  * [9.9: CI/CD](9-advanced-topics/9.9-ci-cd.md)
   * [9.ICE: In-Class Exercises](9-advanced-topics/9.ice-in-class-exercises/README.md)
     * [9.ICE.1: Unit Testing](9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing.md)
     * [9.ICE.2: TDD](9-advanced-topics/9.ice-in-class-exercises/9.ice.2-tdd.md)
