@@ -287,7 +287,6 @@
     * [8.3.1: useContext](8-advanced-react/8.2-usecontext/8.3.1-usecontext.md)
     * [8.3.2: useReducer](8-advanced-react/8.2-usecontext/8.3.2-usereducer.md)
     * [8.3.3: useContext + useReducer](8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer.md)
-    * [8.3.4: React E-Commerce App with Store](8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store.md)
   * [8.4: React Router](8-advanced-react/8.4-react-router.md)
   * [8.5: Advanced useEffect](8-advanced-react/8.5-advanced-useeffect.md)
   * [8.6: Component Styling](8-advanced-react/8.6-component-styling.md)
