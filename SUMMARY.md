@@ -294,8 +294,6 @@
   * [8.7: React Portals](8-advanced-react/8.7-react-portals.md)
   * [8.8: React NPM Packages](8-advanced-react/8.8-react-npm-packages.md)
   * [8.9: React State Management](8-advanced-react/8.9-react-state-management.md)
-  * [8.ICE: In-Class Exercises](8-advanced-react/8.ice-in-class-exercises/README.md)
-    * [8.ICE.1: useContext](8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext.md)
   * [8.POCE: Post-Class Exercises](8-advanced-react/8.poce-post-class-exercises/README.md)
     * [8.POCE.1: Car Rental](8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental.md)
     * [8.POCE.2: (Group Project) Rock Climbing Trip Planner](8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner.md)
