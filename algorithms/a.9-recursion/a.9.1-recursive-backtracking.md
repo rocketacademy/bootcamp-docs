@@ -91,4 +91,6 @@ def numTilePossibilities(self, tiles: str):
 
 ## Further Reading
 
-[Geeks for Geeks article](https://www.geeksforgeeks.org/backtracking-introduction/#:\~:text=Backtracking%20is%20an%20algorithmic%2Dtechnique,reaching%20any%20level%20of%20the). https://brilliant.org/wiki/recursive-backtracking/ https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/
+1. [https://www.geeksforgeeks.org/backtracking-introduction/](https://www.geeksforgeeks.org/backtracking-introduction/)
+2. [https://brilliant.org/wiki/recursive-backtracking/](https://brilliant.org/wiki/recursive-backtracking/)
+3. [https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
