@@ -77,17 +77,28 @@ def numTilePossibilities(self, tiles: str):
 
 ### Pre-Class
 
-1. [https://leetcode.com/problems/generate-parentheses/](https://leetcode.com/problems/generate-parentheses/)
+1. [https://leetcode.com/problems/letter-tile-possibilities/](https://leetcode.com/problems/letter-tile-possibilities/) (see sample code above)
+2. [https://leetcode.com/problems/generate-parentheses/](https://leetcode.com/problems/generate-parentheses/)
    1. Hint: Consider [this slide](https://docs.google.com/presentation/d/1rpY5NnOvN7MKVLSI5NoU7LYySGVNRTC9Yptl9mtaXRY/edit#slide=id.g81c439b50b\_0\_93) on how we can prune invalid subtrees.
    2. Rocket Academy solution code: [https://pastebin.com/HMxZjpM7](https://pastebin.com/HMxZjpM7)
    3. Rocket Academy solution video: [https://youtu.be/MTqylosJ1ow?t=2022](https://youtu.be/MTqylosJ1ow?t=2022) until 57:25
 
 ### Part 1
 
-1. [https://leetcode.com/problems/permutations/](https://leetcode.com/problems/permutations/)
-2. [https://leetcode.com/problems/letter-case-permutation/](https://leetcode.com/problems/letter-case-permutation/)
-3. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-4. [https://leetcode.com/problems/combination-sum/](https://leetcode.com/problems/combination-sum/)
+1. [https://leetcode.com/problems/combination-sum/](https://leetcode.com/problems/combination-sum/)
+2. [https://leetcode.com/problems/combinations/](https://leetcode.com/problems/combinations/)
+   1. Hint: Can we use a for loop to generate the first of `k` numbers, use a recursive function to generate the remaining `k-1` numbers, and combine the first and `k-1` numbers after the recursive call?
+3. [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)
+   1. Hint: Same strategy as Combinations
+
+### More Comfortable
+
+1. Letter Combinations of a Phone Number ([LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/))
+   1. Hint: Same strategy as Combinations
+2. Subsets II ([LeetCode](https://leetcode.com/problems/subsets-ii/))
+   1. Hint: Consider using a hash table or [JavaScript set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Set) to remove duplicates
+3. Permutations ([LeetCode](https://leetcode.com/problems/permutations/))
+4. Letter Case Permutation ([LeetCode](https://leetcode.com/problems/letter-case-permutation/))
 
 ## Further Reading
 
