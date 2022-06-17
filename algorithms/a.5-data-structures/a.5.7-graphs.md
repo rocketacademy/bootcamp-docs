@@ -148,7 +148,7 @@ graph = {
 ### Part 4
 
 1. [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)
-2. [https://leetcode.com/problems/shortest-bridge/](a.5.7-graphs.md#a.5.7-graphs)
+2. [https://leetcode.com/problems/shortest-bridge/](https://leetcode.com/problems/shortest-bridge/)
 3. [https://leetcode.com/problems/keys-and-rooms/](https://leetcode.com/problems/keys-and-rooms/) (Medium)
 4. [https://leetcode.com/problems/redundant-connection/](https://leetcode.com/problems/redundant-connection/) (Medium)
 5. [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)
@@ -158,8 +158,8 @@ graph = {
 
 ### Part 5
 
-1. https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
-2. https://leetcode.com/problems/minesweeper/
+1. [https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
+2. [https://leetcode.com/problems/minesweeper/](https://leetcode.com/problems/minesweeper/)
 3. [https://leetcode.com/problems/all-paths-from-source-to-target/](https://leetcode.com/problems/all-paths-from-source-to-target/) (Medium)
    1. Hint: Would recursion be helpful?
    2. Rocket solution code: [https://pastebin.com/AtwkRjBf](https://pastebin.com/AtwkRjBf)
