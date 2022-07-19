@@ -6,7 +6,7 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 #### Why is it called Dynamic Programming?
 
-[According to Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming#:~:text=The%20word%20dynamic%20was%20chosen,schedule%20for%20training%20or%20logistics.), "The word _dynamic_ was chosen \[...] to capture the time-varying aspect of the problems, and because it sounded impressive. The word _programming_ referred to the use of the method to find an optimal _program_, in the sense of a military schedule for training or logistics." In other words, the name makes this algorithm topic seem harder and more esoteric than it is.
+[According to Wikipedia](https://en.wikipedia.org/wiki/Dynamic\_programming), "The word _dynamic_ was chosen \[...] to capture the time-varying aspect of the problems, and because it sounded impressive. The word _programming_ referred to the use of the method to find an optimal _program_, in the sense of a military schedule for training or logistics." In other words, the name makes this algorithm topic seem harder and more esoteric than it is.
 
 ### Introduction Video
 
@@ -16,7 +16,7 @@ Dynamic programming allows us to optimise recursive solutions by "caching" inter
 
 Calculating the _nth_ fibonacci number using dynamic programming.
 
-```
+```python
 fib_table = {} # table to store previously computed values
 
 def fib(n):
@@ -45,8 +45,6 @@ Some dynamic programming problems can be expressed in a table.
 {% embed url="https://www.youtube.com/watch?v=ASoaQq66foQ" %}
 
 {% embed url="https://www.youtube.com/watch?v=OQ5jsbhAv_M" %}
-
-[https://www.youtube.com/watch?v=vYquumk4nWw\&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
 
 ## Exercises
 
