@@ -6,11 +6,12 @@ Welcome! Coding Bootcamp is Rocket Academy's flagship career-conversion course. 
 
 ## Schedules
 
-1. [FTBC6](https://schedules.rocketacademy.co/#/ftbc6)
-2. [FTBC7](https://schedules.rocketacademy.co/#/ftbc7)
-3. [PTBC1](https://schedules.rocketacademy.co/#/ptbc1)
-4. [PTBC2](https://schedules.rocketacademy.co/#/ptbc2)
-5. [PTBC3](https://schedules.rocketacademy.co/#/ptbc3)
+1. [FTBC8](https://schedules.rocketacademy.co/#/ftbc8)
+2. [FTBC9](https://schedules.rocketacademy.co/#/ftbc9)
+3. [PTBC2](https://schedules.rocketacademy.co/#/ptbc2)
+4. [PTBC3](https://schedules.rocketacademy.co/#/ptbc3)
+5. [PTBC4](https://schedules.rocketacademy.co/#/ptbc4)
+6. [PTBC5](https://schedules.rocketacademy.co/#/ptbc5)
 
 ## Learning Objectives
 
